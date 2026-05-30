@@ -4227,7 +4227,7 @@ function switchView(view) {
     const vTog = document.getElementById('viewToggle');
     const eNav = document.getElementById('evalNavBar');
     const top  = (hdr?.offsetHeight || 0) + (vTog?.offsetHeight || 0) + (eNav?.offsetHeight || 0);
-    splitEl.style.top     = top + 'px';
+    splitEl.style.top     = (top + 6) + 'px';
     splitEl.style.display = 'flex';
 
     renderEvalList();

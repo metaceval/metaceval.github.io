@@ -1,0 +1,5097 @@
+[
+  {
+    "id": "INS_TRAB_IND",
+    "entity_type": "instrumento",
+    "name": "Trabajo individual en aula",
+    "type": "Observación",
+    "summary": "Actividad realizada individualmente durante la clase.",
+    "desc": "El trabajo individual en aula es una actividad que el alumno realiza de forma autónoma durante la clase, sin apoyo directo de compañeros. Permite al docente observar en directo el nivel de autonomía, la organización y la capacidad de resolución de cada alumno.\n\nCómo usarlo para evaluar: mientras el alumnado trabaja, el docente circula por el aula y observa con una escala de observación o lista de cotejo. Registra quién avanza con soltura, quién se bloquea y en qué punto. También puede recoger el resultado final (ejercicio, tarea, esquema) y valorarlo con una guía de corrección.\n\nEs una de las evidencias evaluables más habituales porque permite información tanto del proceso como del resultado, en condiciones controladas y sin interferencia de otros alumnos.",
+    "suitable_for": [
+      "Autonomía",
+      "organización",
+      "resolución de tareas."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "individual",
+      "aula"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_OBS_INC"
+    ],
+    "related_tools": [
+      "HER_CUAD_CAL",
+      "HER_ESC_OBS",
+      "HER_HOJA_IND",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_OBS_INC": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal"
+      },
+      "rel_her": {
+        "HER_CUAD_CAL": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_LISTA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_009"
+    ]
+  },
+  {
+    "id": "INS_TRAB_COOP",
+    "entity_type": "instrumento",
+    "name": "Trabajo cooperativo",
+    "type": "Observación",
+    "summary": "Actividad grupal con reparto de tareas y responsabilidad compartida.",
+    "desc": "El trabajo cooperativo es una actividad grupal en la que los alumnos comparten responsabilidades, distribuyen tareas y construyen un resultado común. Permite evaluar colaboración, comunicación, responsabilidad individual y capacidad de integrar distintas aportaciones.\n\nCómo usarlo para evaluar: conviene combinar la valoración del producto grupal con la del proceso y la contribución individual. Una rúbrica de trabajo cooperativo, un registro de grupo y la autoevaluación de cada miembro ofrecen una imagen completa. El docente puede observar el funcionamiento del grupo con una escala de observación.\n\nPara que la evaluación sea justa, no debe reducirse al producto final: dos grupos pueden entregar trabajos similares pero con procesos de colaboración muy distintos.",
+    "suitable_for": [
+      "Colaboración",
+      "responsabilidad",
+      "comunicación."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "cooperativo",
+      "grupo"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_OBS_INC"
+    ],
+    "related_tools": [
+      "HER_DIARIO_PROF",
+      "HER_FICHA_COEV",
+      "HER_RUB_COOP",
+      "HER_CONTR_GRUP",
+      "HER_SOCIO",
+      "HER_GUIA_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_DESEMP",
+      "DIM_PROY",
+      "DIM_HET",
+      "DIM_COMPART"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_OBS_INC": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "principal",
+        "DIM_PROY": "complementaria",
+        "DIM_HET": "complementaria",
+        "DIM_COMPART": "principal"
+      },
+      "rel_her": {
+        "HER_DIARIO_PROF": "principal",
+        "HER_FICHA_COEV": "complementaria",
+        "HER_RUB_COOP": "complementaria",
+        "HER_CONTR_GRUP": "complementaria",
+        "HER_SOCIO": "ocasional",
+        "HER_GUIA_OBS": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_002",
+      "metac_003",
+      "metac_006",
+      "metac_007",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_018",
+      "metac_019",
+      "metac_020",
+      "metac_021",
+      "metac_024",
+      "metac_025",
+      "metac_027",
+      "metac_030",
+      "metac_032",
+      "metac_033",
+      "metac_034",
+      "metac_035",
+      "metac_036",
+      "metac_038",
+      "metac_039",
+      "metac_041",
+      "metac_045",
+      "metac_046",
+      "metac_048",
+      "metac_049",
+      "metac_050",
+      "metac_053",
+      "metac_054",
+      "metac_055",
+      "metac_056",
+      "metac_057",
+      "metac_058",
+      "metac_059",
+      "metac_061",
+      "metac_062",
+      "metac_063",
+      "metac_065",
+      "metac_068",
+      "metac_069",
+      "metac_070",
+      "metac_071",
+      "metac_072",
+      "metac_075",
+      "metac_076",
+      "metac_078",
+      "metac_079",
+      "metac_080",
+      "metac_083",
+      "metac_084",
+      "metac_085",
+      "metac_086",
+      "metac_088",
+      "metac_089",
+      "metac_091",
+      "metac_092",
+      "metac_093",
+      "metac_094",
+      "metac_095",
+      "metac_098",
+      "metac_101",
+      "metac_110",
+      "metac_111",
+      "metac_112",
+      "metac_114",
+      "metac_115",
+      "metac_116",
+      "metac_117",
+      "metac_118",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_124",
+      "metac_126",
+      "metac_129",
+      "metac_130",
+      "metac_135",
+      "metac_136",
+      "metac_148",
+      "metac_152"
+    ]
+  },
+  {
+    "id": "INS_PART",
+    "entity_type": "instrumento",
+    "name": "Participación en clase",
+    "type": "Observación",
+    "summary": "Intervenciones y aportaciones del alumnado en el aula.",
+    "desc": "La participación en clase incluye las intervenciones orales del alumnado: respuestas a preguntas, aportaciones espontáneas, preguntas propias, comentarios y contribuciones al debate colectivo.\n\nCómo usarla para evaluar: es necesario un registro sistemático para que no dependa de la memoria del docente. Un registro de participación con nombre y tipo de intervención (respuesta, pregunta, aportación) permite valorar frecuencia y calidad. Una escala de observación ayuda a no reducirlo a si levanta la mano o no.\n\nDebe valorarse la calidad de las aportaciones, no solo la cantidad. Un alumno que interviene poco pero con ideas precisas merece reconocimiento; uno que interviene mucho pero sin escuchar no debería ser premiado por eso.",
+    "suitable_for": [
+      "Implicación",
+      "escucha",
+      "preguntas",
+      "aportaciones."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "participacion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_OBS_INC"
+    ],
+    "related_tools": [
+      "HER_CUAD_CAL",
+      "HER_DIARIO_PROF",
+      "HER_ESC_OBS",
+      "HER_REG_PART"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_OBS_INC": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_CUAD_CAL": "principal",
+        "HER_DIARIO_PROF": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_REG_PART": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_003",
+      "metac_007",
+      "metac_020",
+      "metac_025",
+      "metac_029",
+      "metac_032",
+      "metac_033",
+      "metac_039",
+      "metac_042",
+      "metac_055",
+      "metac_056",
+      "metac_065",
+      "metac_068",
+      "metac_070",
+      "metac_072",
+      "metac_076",
+      "metac_080",
+      "metac_083",
+      "metac_088",
+      "metac_093",
+      "metac_095",
+      "metac_101",
+      "metac_110",
+      "metac_112",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_124"
+    ]
+  },
+  {
+    "id": "INS_DEBATE",
+    "entity_type": "instrumento",
+    "name": "Debate",
+    "type": "Oral",
+    "summary": "Discusión reglada sobre un tema con argumentos y turnos.",
+    "desc": "El debate es una discusión reglada en la que el alumnado defiende posiciones con argumentos, escucha las posiciones contrarias y responde a ellas. Puede ser espontáneo o preparado, formal o informal, con roles asignados o libre.\n\nCómo usarlo para evaluar: el docente (u otros alumnos como coevaluadores) usa una rúbrica oral o escala de observación para valorar la calidad de los argumentos, el uso de evidencias, la escucha activa y el respeto a los turnos. Si el grupo es grande, puede grabarse o valorarse por turnos.\n\nEl debate permite evaluar competencias que no son visibles en pruebas escritas: argumentación, pensamiento crítico, comunicación oral y capacidad de rebatir con respeto.",
+    "suitable_for": [
+      "Argumentación",
+      "escucha activa",
+      "respeto",
+      "evidencias."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "debate",
+      "oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_FICHA_COEV"
+    ],
+    "related_dimensions": [
+      "DIM_COEV"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COEV": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_FICHA_COEV": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_013",
+      "metac_019",
+      "metac_024",
+      "metac_028",
+      "metac_042",
+      "metac_055",
+      "metac_056",
+      "metac_060",
+      "metac_069",
+      "metac_074",
+      "metac_076",
+      "metac_080",
+      "metac_090",
+      "metac_093",
+      "metac_095",
+      "metac_096",
+      "metac_102",
+      "metac_117",
+      "metac_119",
+      "metac_124",
+      "metac_128",
+      "metac_134",
+      "metac_136",
+      "metac_147"
+    ]
+  },
+  {
+    "id": "INS_COLOQ",
+    "entity_type": "instrumento",
+    "name": "Coloquio",
+    "type": "Oral",
+    "summary": "Conversación guiada para contrastar ideas.",
+    "desc": "El coloquio es una conversación estructurada pero más abierta que el debate, donde el alumnado intercambia ideas, opiniones e interpretaciones sobre un tema. No hay posiciones enfrentadas, sino construcción colectiva de significado.\n\nCómo usarlo para evaluar: el docente modera y observa con una escala o rúbrica oral, prestando atención a la profundidad de las aportaciones, la capacidad de relacionar ideas y la escucha activa. Es más difícil de registrar que el debate porque las intervenciones son más fluidas.\n\nEs especialmente adecuado para evaluar comprensión lectora, análisis de textos, interpretación histórica y reflexión filosófica o ética.",
+    "suitable_for": [
+      "Comprensión",
+      "expresión",
+      "relación de ideas."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "coloquio",
+      "oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ASAM",
+    "entity_type": "instrumento",
+    "name": "Asamblea",
+    "type": "Oral",
+    "summary": "Situación colectiva para tomar decisiones o comentar procesos.",
+    "desc": "La asamblea es una reunión del grupo-clase donde se toman decisiones colectivas, se comparten experiencias o se debaten normas y conflictos. En contextos educativos, se usa especialmente en Infantil y Primaria, aunque también en tutoría y proyectos de convivencia.\n\nCómo usarla para evaluar: permite observar competencias sociales y comunicativas: respeto al turno, escucha, argumentación, propuesta de soluciones. Un registro anecdótico o una escala de participación recogen las evidencias más significativas.\n\nNo es una evidencia de evaluación académica formal en sentido estricto, pero sí permite evaluar competencias cívicas, de comunicación y de resolución de conflictos.",
+    "suitable_for": [
+      "Participación",
+      "convivencia",
+      "toma de decisiones."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "asamblea"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_REG_PART",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_COEV"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_COEV": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_PART": "principal",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_LAB",
+    "entity_type": "instrumento",
+    "name": "Práctica de laboratorio",
+    "type": "Práctica",
+    "summary": "Actividad experimental o manipulativa en laboratorio.",
+    "desc": "La práctica de laboratorio es una actividad experimental en la que el alumnado aplica procedimientos científicos para observar fenómenos, comprobar hipótesis o desarrollar habilidades técnicas. Requiere planificación, uso de materiales específicos y registro de resultados.\n\nCómo usarla para evaluar: permite evaluar tanto el proceso (cómo aplica el protocolo, cómo maneja el material, cómo registra observaciones) como el producto (informe de laboratorio). El docente observa con una lista de cotejo de proceso y después valora el informe con una rúbrica.\n\nEs una de las evidencias evaluables más ricas para la evaluación competencial en ciencias, ya que integra conocimientos, procedimientos y actitudes en una sola actividad.",
+    "suitable_for": [
+      "Procedimientos",
+      "seguridad",
+      "toma de datos",
+      "análisis."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "laboratorio",
+      "ciencias"
+    ],
+    "modality": "Presencial",
+    "location": "Laboratorio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_DIARIO_PROF",
+      "HER_ESC_OBS",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_DIARIO_PROF": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_010",
+      "metac_011",
+      "metac_040",
+      "metac_098",
+      "metac_126",
+      "metac_129"
+    ]
+  },
+  {
+    "id": "INS_TALLER",
+    "entity_type": "instrumento",
+    "name": "Taller",
+    "type": "Práctica",
+    "summary": "Actividad práctica orientada a producir, experimentar o resolver.",
+    "desc": "El taller es una actividad práctica en la que el alumnado aplica habilidades, técnicas o conocimientos en un contexto de trabajo activo. Puede ser artístico, tecnológico, lingüístico, culinario, etc. El resultado suele ser un producto físico o una habilidad demostrable.\n\nCómo usarlo para evaluar: el docente observa el proceso con una lista de cotejo o escala de observación y valora el producto con una rúbrica o ficha de valoración. En talleres colectivos, puede combinarse la valoración individual y grupal.\n\nEs especialmente adecuado para evaluar procedimientos, creatividad y aplicación práctica de conocimientos, aspectos que no son visibles en una prueba escrita.",
+    "suitable_for": [
+      "Destrezas",
+      "procedimientos",
+      "creatividad",
+      "aplicación."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "taller",
+      "practica"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_RUB_ANA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_RUB_ANA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_076",
+      "metac_080"
+    ]
+  },
+  {
+    "id": "INS_SIM",
+    "entity_type": "instrumento",
+    "name": "Simulación",
+    "type": "Desempeño",
+    "summary": "Recreación de una situación real o verosímil.",
+    "desc": "La simulación recrea una situación verosímil (histórica, profesional, social o científica) en la que el alumnado actúa como si fuera real, tomando decisiones y resolviendo problemas en ese contexto ficticio.\n\nCómo usarla para evaluar: el docente observa con una rúbrica de desempeño o registro anecdótico mientras la simulación transcurre. También puede valorarse la reflexión posterior (qué decisiones tomé, qué habría cambiado, qué aprendí). Un informe post-simulación aporta evidencia escrita.\n\nPermite evaluar habilidades difíciles de observar en otras situaciones: toma de decisiones bajo presión, comunicación en roles profesionales, resolución de conflictos y aplicación de protocolos.",
+    "suitable_for": [
+      "Toma de decisiones",
+      "comunicación",
+      "aplicación."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "simulacion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_RUB_ANA",
+      "HER_REG_DESC"
+    ],
+    "related_dimensions": [
+      "DIM_SIM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_REG_DESC": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_127"
+    ]
+  },
+  {
+    "id": "INS_ROL",
+    "entity_type": "instrumento",
+    "name": "Juego de rol",
+    "type": "Desempeño",
+    "summary": "Representación de papeles para analizar una situación.",
+    "desc": "En el juego de rol, cada alumno asume un papel con características, objetivos e información propios, e interactúa con otros roles para resolver una situación o alcanzar un objetivo.\n\nCómo usarlo para evaluar: el docente observa la actuación con una rúbrica de desempeño o escala de observación, valorando la adecuación al rol, la argumentación, la comunicación y la colaboración. Un diario reflexivo posterior permite al alumno analizar su propia actuación.\n\nEs especialmente útil en historia, ciencias sociales, ética, idiomas y educación para la ciudadanía, donde es importante entender perspectivas distintas a la propia.",
+    "suitable_for": [
+      "Empatía",
+      "argumentación",
+      "resolución de conflictos."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "rol"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_REG_ANE",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_SIM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_004",
+      "metac_005",
+      "metac_006",
+      "metac_008",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_017",
+      "metac_019",
+      "metac_020",
+      "metac_021",
+      "metac_022",
+      "metac_024",
+      "metac_025",
+      "metac_026",
+      "metac_027",
+      "metac_028",
+      "metac_031",
+      "metac_032",
+      "metac_034",
+      "metac_035",
+      "metac_038",
+      "metac_039",
+      "metac_040",
+      "metac_043",
+      "metac_045",
+      "metac_046",
+      "metac_050",
+      "metac_053",
+      "metac_059",
+      "metac_060",
+      "metac_071",
+      "metac_072",
+      "metac_073",
+      "metac_074",
+      "metac_075",
+      "metac_077",
+      "metac_078",
+      "metac_079",
+      "metac_080",
+      "metac_082",
+      "metac_083",
+      "metac_086",
+      "metac_087",
+      "metac_088",
+      "metac_089",
+      "metac_090",
+      "metac_091",
+      "metac_092",
+      "metac_093",
+      "metac_099",
+      "metac_100",
+      "metac_103",
+      "metac_114",
+      "metac_117",
+      "metac_119",
+      "metac_120",
+      "metac_123",
+      "metac_124",
+      "metac_125",
+      "metac_126",
+      "metac_127",
+      "metac_129",
+      "metac_135",
+      "metac_139",
+      "metac_147",
+      "metac_148",
+      "metac_149"
+    ]
+  },
+  {
+    "id": "INS_DRAMA",
+    "entity_type": "instrumento",
+    "name": "Dramatización",
+    "type": "Desempeño",
+    "summary": "Representación escénica de una situación o contenido.",
+    "desc": "La dramatización es la representación escénica de una situación, texto o historia. El alumnado interpreta personajes, ensaya y presenta ante el grupo. Puede ser improvisada o preparada.\n\nCómo usarla para evaluar: se valora la expresión oral y corporal, la comprensión del texto o situación representada, la memorización, la cooperación en el ensayo y la calidad de la presentación. Una rúbrica oral y de desempeño, aplicada por el docente o como coevaluación, recoge estas dimensiones.\n\nEs una evidencia especialmente rica para lengua y literatura, idiomas extranjeros y educación artística, ya que integra comprensión, expresión, creatividad y trabajo en equipo.",
+    "suitable_for": [
+      "Expresión",
+      "comprensión",
+      "creatividad."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "dramatizacion"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Exterior",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_SIM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_RUB_ORAL": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_EXPO",
+    "entity_type": "instrumento",
+    "name": "Exposición oral",
+    "type": "Oral",
+    "summary": "Presentación planificada de un tema.",
+    "desc": "La exposición oral es una presentación estructurada en la que el alumno comunica al grupo información, resultados o ideas sobre un tema, de forma ordenada y con apoyo visual opcional.\n\nCómo usarla para evaluar: el docente usa una rúbrica oral que valora estructura, contenido, claridad, vocabulario, comunicación no verbal y gestión de preguntas. Puede completarse con autoevaluación del propio alumno y coevaluación de los compañeros. Si el grupo es grande, puede grabarse para valorar después.\n\nPermite evaluar competencia comunicativa oral, capacidad de síntesis y dominio del contenido, dimensiones que no son visibles en producciones escritas.",
+    "suitable_for": [
+      "Comunicación",
+      "estructura",
+      "dominio del contenido."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "exposicion",
+      "oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_BANCO_DESC",
+      "HER_CONV",
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_SUM",
+      "DIM_COEV",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_COEV": "complementaria",
+        "DIM_HET": "ocasional"
+      },
+      "rel_her": {
+        "HER_BANCO_DESC": "principal",
+        "HER_CONV": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "ocasional",
+        "HER_RUB_ORAL": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_002",
+      "metac_006",
+      "metac_007",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_020",
+      "metac_021",
+      "metac_024",
+      "metac_026",
+      "metac_027",
+      "metac_028",
+      "metac_029",
+      "metac_031",
+      "metac_033",
+      "metac_034",
+      "metac_039",
+      "metac_042",
+      "metac_043",
+      "metac_044",
+      "metac_045",
+      "metac_048",
+      "metac_049",
+      "metac_050",
+      "metac_053",
+      "metac_055",
+      "metac_057",
+      "metac_058",
+      "metac_059",
+      "metac_061",
+      "metac_063",
+      "metac_065",
+      "metac_069",
+      "metac_071",
+      "metac_072",
+      "metac_077",
+      "metac_078",
+      "metac_084",
+      "metac_087",
+      "metac_089",
+      "metac_090",
+      "metac_093",
+      "metac_094",
+      "metac_095",
+      "metac_097",
+      "metac_100",
+      "metac_101",
+      "metac_108",
+      "metac_109",
+      "metac_110",
+      "metac_111",
+      "metac_112",
+      "metac_114",
+      "metac_116",
+      "metac_118",
+      "metac_119",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_124",
+      "metac_125",
+      "metac_126",
+      "metac_128",
+      "metac_129",
+      "metac_130",
+      "metac_131",
+      "metac_132",
+      "metac_133",
+      "metac_134",
+      "metac_135",
+      "metac_136",
+      "metac_143",
+      "metac_144",
+      "metac_146",
+      "metac_147",
+      "metac_151"
+    ]
+  },
+  {
+    "id": "INS_DEF_PROY",
+    "entity_type": "instrumento",
+    "name": "Defensa de proyecto",
+    "type": "Oral",
+    "summary": "Justificación oral de un proyecto o producto.",
+    "desc": "La defensa de proyecto es una presentación oral en la que el alumno o equipo explica su proyecto ante una audiencia (clase, tribunal, familias) y responde a preguntas. Es el cierre habitual de un proyecto de investigación o trabajo de síntesis.\n\nCómo usarla para evaluar: se valoran por separado el contenido del proyecto (ya evaluado antes) y la calidad de la defensa: claridad, respuesta a preguntas, distribución de roles en el equipo. Una rúbrica de defensa específica permite hacerlo de forma estructurada.\n\nAñade valor al proyecto porque obliga al alumnado a comprender realmente lo que han hecho y a poder explicarlo con sus propias palabras ante preguntas inesperadas.",
+    "suitable_for": [
+      "Argumentación",
+      "decisiones",
+      "respuesta a preguntas."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "defensa",
+      "proyecto"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_ENTREV_EVAL"
+    ],
+    "related_tools": [
+      "HER_ACTA",
+      "HER_BANCO_DESC",
+      "HER_CONV",
+      "HER_ESC_OBS",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_PROD": "complementaria",
+        "TEC_ENTREV_EVAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_ACTA": "principal",
+        "HER_BANCO_DESC": "complementaria",
+        "HER_CONV": "complementaria",
+        "HER_ESC_OBS": "ocasional",
+        "HER_RUB_ORAL": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ENTREV",
+    "entity_type": "instrumento",
+    "name": "Entrevista",
+    "type": "Oral",
+    "summary": "Conversación estructurada con preguntas y respuestas.",
+    "desc": "La entrevista es una conversación estructurada entre el docente y el alumno (o entre pares) con el objetivo de explorar su comprensión, reflexión o proceso de aprendizaje de forma más profunda que en una prueba escrita.\n\nCómo usarla para evaluar: el docente prepara un guion de preguntas abiertas y registra las respuestas con un formulario o grabación. Las preguntas deben ir más allá de la reproducción de información y explorar el razonamiento ('¿por qué crees eso?', '¿cómo lo harías diferente?').\n\nEs especialmente útil para alumnos con dificultades de expresión escrita o cuando se quiere verificar el nivel real de comprensión, sin el apoyo de apuntes o compañeros.",
+    "suitable_for": [
+      "Comprensión",
+      "razonamiento",
+      "explicación personal."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "entrevista"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_ENTREV_EVAL"
+    ],
+    "related_tools": [
+      "HER_REG_ANE",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_ENTREV_EVAL": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_ANE": "principal",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_009",
+      "metac_015",
+      "metac_027",
+      "metac_031",
+      "metac_054",
+      "metac_075",
+      "metac_121"
+    ]
+  },
+  {
+    "id": "INS_PREG_ORAL",
+    "entity_type": "instrumento",
+    "name": "Pregunta oral estructurada",
+    "type": "Oral",
+    "summary": "Pregunta planificada para comprobar comprensión.",
+    "desc": "La pregunta oral estructurada es una pregunta planificada y dirigida individualmente o al grupo durante la clase, con el objetivo de comprobar comprensión o estimular el razonamiento.\n\nCómo usarla para evaluar: el docente formula la pregunta, da tiempo de reflexión (no responder inmediatamente) y escucha la respuesta con atención, registrando la calidad con una nota breve. Las técnicas como 'pizarras individuales', 'pensar-compartir' o 'kahoot' estructuran el proceso.\n\nEs una de las formas más inmediatas y frecuentes de evaluación formativa: permite ajustar la enseñanza en tiempo real según las respuestas del grupo.",
+    "suitable_for": [
+      "Comprensión",
+      "precisión",
+      "razonamiento inmediato."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "pregunta oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_SONDEO": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_CUADERNO",
+    "entity_type": "instrumento",
+    "name": "Cuaderno de clase",
+    "type": "Producción escrita",
+    "summary": "Registro de actividades, apuntes, ejercicios y correcciones.",
+    "desc": "El cuaderno de clase es el registro personal del alumno del trabajo realizado en el aula: apuntes, ejercicios, esquemas, correcciones y reflexiones. Refleja el proceso de aprendizaje día a día.\n\nCómo usarlo para evaluar: el docente puede revisarlo periódicamente con una lista de cotejo (¿está completo?, ¿está ordenado?, ¿recoge las correcciones?) o con una rúbrica que valore también la calidad de los apuntes y la organización. También puede revisarse en tutorías individuales.\n\nEs una ventana al proceso de aprendizaje del alumno que no dejan otras evidencias. Un cuaderno bien llevado refleja implicación, organización y capacidad de síntesis.",
+    "suitable_for": [
+      "Trabajo diario",
+      "orden",
+      "continuidad",
+      "corrección."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "cuaderno"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_ANAL_DOC"
+    ],
+    "related_tools": [
+      "HER_CUAD_CAL",
+      "HER_ESC_OBS",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_ANAL_DOC": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal"
+      },
+      "rel_her": {
+        "HER_CUAD_CAL": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_DIARIO",
+    "entity_type": "instrumento",
+    "name": "Diario de aprendizaje",
+    "type": "Reflexión escrita",
+    "summary": "Registro reflexivo sobre aprendizajes y dificultades.",
+    "desc": "El diario de aprendizaje es un registro personal donde el alumno anota periódicamente qué ha aprendido, qué le ha costado, qué preguntas tiene y cómo se siente respecto al proceso. Tiene una dimensión reflexiva y metacognitiva que va más allá del cuaderno de clase.\n\nCómo usarlo para evaluar: el docente puede proporcionar preguntas guía ('¿qué aprendí hoy?', '¿qué todavía no entiendo bien?', '¿qué cambiaría de cómo estudié?'). Se valora la profundidad de la reflexión, la honestidad y la conexión entre lo aprendido y la experiencia personal.\n\nEs una actividad de gran potencial para el desarrollo de la metacognición y la autonomía. Su evaluación debe valorar la reflexión, no la calidad de redacción ni si las respuestas son 'correctas'.",
+    "suitable_for": [
+      "Metacognición",
+      "autorregulación",
+      "progreso."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "diario",
+      "metacognicion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_DIANA",
+      "HER_ESC_AUTO",
+      "HER_ESC_VERB",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_DIANA": "principal",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_ESC_VERB": "complementaria",
+        "HER_FICHA_RETRO": "ocasional",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_030"
+    ]
+  },
+  {
+    "id": "INS_PORT",
+    "entity_type": "instrumento",
+    "name": "Porfolio",
+    "type": "Producción compleja",
+    "summary": "Colección organizada de evidencias y reflexiones.",
+    "desc": "El porfolio es una colección organizada de trabajos y reflexiones del alumno que documenta su proceso de aprendizaje a lo largo de un periodo. No es una carpeta de todos los trabajos, sino una selección razonada con reflexión sobre cada pieza.\n\nCómo usarlo para evaluar: el alumno selecciona las evidencias que mejor muestran su aprendizaje y escribe una reflexión sobre cada una ('elegí este trabajo porque…', 'demuestra que sé…', 'lo que mejoraría es…'). El docente valora tanto la calidad de las evidencias como la profundidad de las reflexiones.\n\nPermite una evaluación longitudinal y auténtica. Desarrolla la autonomía, la reflexión y la capacidad de presentar el propio aprendizaje. Es la base de la evaluación por competencias en muchos sistemas educativos.",
+    "suitable_for": [
+      "Progreso",
+      "selección de evidencias",
+      "reflexión."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "portfolio"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_BANCO_DESC",
+      "HER_ESC_DESC",
+      "HER_ESC_VERB",
+      "HER_HOJA_CALC",
+      "HER_HOJA_IND",
+      "HER_MATRIZ_POND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_AUTO",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_PROC_REFLEX": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_AUTO": "complementaria",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_BANCO_DESC": "principal",
+        "HER_ESC_DESC": "complementaria",
+        "HER_ESC_VERB": "complementaria",
+        "HER_HOJA_CALC": "ocasional",
+        "HER_HOJA_IND": "ocasional",
+        "HER_MATRIZ_POND": "ocasional",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_077",
+      "metac_129"
+    ]
+  },
+  {
+    "id": "INS_INFO_LAB",
+    "entity_type": "instrumento",
+    "name": "Informe de laboratorio",
+    "type": "Producción escrita",
+    "summary": "Documento con objetivo, procedimiento, datos, análisis y conclusiones.",
+    "desc": "El informe de laboratorio es el documento escrito que recoge el proceso y resultados de una práctica experimental: objetivos, hipótesis, materiales, procedimiento, observaciones, resultados y conclusiones.\n\nCómo usarlo para evaluar: se valora con una rúbrica o guía de corrección que contemple todas las secciones del informe. Especial atención a la coherencia entre los datos registrados y las conclusiones, y a si el alumno interpreta los resultados o simplemente los describe.\n\nCombina la evaluación del proceso (qué hicieron en el laboratorio) con la del producto escrito (qué son capaces de comunicar sobre lo que hicieron). Desarrolla el pensamiento científico y la escritura académica.",
+    "suitable_for": [
+      "Método científico",
+      "datos",
+      "conclusiones",
+      "lenguaje."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "informe",
+      "laboratorio"
+    ],
+    "modality": "Presencial",
+    "location": "Laboratorio / Aula",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_INFO_INV",
+    "entity_type": "instrumento",
+    "name": "Informe de investigación",
+    "type": "Producción escrita",
+    "summary": "Documento que comunica una indagación o investigación.",
+    "desc": "El informe de investigación documenta el proceso y resultados de una indagación o investigación: pregunta de investigación, estado de la cuestión, metodología, resultados, discusión y conclusiones. Es más extenso y estructurado que el informe de laboratorio.\n\nCómo usarlo para evaluar: una rúbrica analítica que valore cada sección por separado permite retroalimentación precisa. Especial atención a la calidad de las fuentes usadas, la coherencia entre la pregunta y la metodología, y la capacidad de interpretar los resultados críticamente.\n\nEs la evidencia más adecuada para evaluar competencias de investigación en ESO, Bachillerato y FP. Puede complementarse con la defensa oral del informe.",
+    "suitable_for": [
+      "Búsqueda",
+      "análisis",
+      "síntesis",
+      "conclusiones."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "investigacion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_TAB_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "principal",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MONO",
+    "entity_type": "instrumento",
+    "name": "Monografía",
+    "type": "Producción escrita",
+    "summary": "Trabajo extenso sobre un tema con documentación.",
+    "desc": "La monografía es un trabajo escrito extenso y estructurado sobre un tema específico, que requiere búsqueda, selección y síntesis de fuentes, organización del contenido y redacción académica. Es más conceptual que el informe de investigación.\n\nCómo usarla para evaluar: se valora la calidad de las fuentes, la organización lógica, la capacidad de síntesis y de elaborar ideas propias (no solo resumir), la corrección lingüística y el uso correcto de citas y referencias. Una rúbrica analítica o guía de corrección desglosada por secciones es la herramienta más adecuada.\n\nEs especialmente útil en Bachillerato y FP para desarrollar y evaluar la escritura académica y el pensamiento analítico.",
+    "suitable_for": [
+      "Profundización",
+      "documentación",
+      "estructura."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "monografia"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ENSAYO",
+    "entity_type": "instrumento",
+    "name": "Ensayo",
+    "type": "Producción escrita",
+    "summary": "Texto argumentativo que desarrolla una tesis.",
+    "desc": "El ensayo es un texto argumentativo en el que el alumno defiende una tesis o posición sobre un tema, apoyándose en argumentos, ejemplos y fuentes. A diferencia de la monografía, tiene una voz personal más marcada.\n\nCómo usarlo para evaluar: se valora la claridad de la tesis, la calidad de los argumentos, el uso de evidencias, la cohesión del texto y la corrección lingüística. Una rúbrica analítica permite retroalimentación específica sobre cada dimensión.\n\nEs una tarea especialmente adecuada para evaluar pensamiento crítico, argumentación y escritura académica en lengua, filosofía, ciencias sociales y humanidades.",
+    "suitable_for": [
+      "Argumentación",
+      "pensamiento crítico",
+      "expresión."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "ensayo"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_TAB_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_COMP",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_COM_TEXT",
+    "entity_type": "instrumento",
+    "name": "Comentario de texto",
+    "type": "Producción escrita",
+    "summary": "Análisis e interpretación de un texto.",
+    "desc": "El comentario de texto es un análisis crítico de un fragmento (literario, histórico, científico, filosófico) que el alumno lleva a cabo siguiendo una estructura: comprensión, contextualización, análisis formal y valoración personal.\n\nCómo usarlo para evaluar: se valora la comprensión global del texto, la identificación de ideas principales, la contextualización adecuada, la calidad del análisis y la coherencia de la valoración. La guía de corrección o rúbrica debe adaptarse al tipo de texto y a la etapa.\n\nEs una de las evidencias evaluables más habituales en lengua y literatura, historia y filosofía. Permite evaluar comprensión lectora en profundidad, análisis y escritura.",
+    "suitable_for": [
+      "Comprensión",
+      "interpretación",
+      "argumentación."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "comentario",
+      "texto"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_ANA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_PRUEBA": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_COM_GRAF",
+    "entity_type": "instrumento",
+    "name": "Comentario de gráfica o datos",
+    "type": "Producción escrita",
+    "summary": "Interpretación de gráficos, tablas o datos.",
+    "desc": "El comentario de gráfica o datos consiste en interpretar y explicar la información contenida en gráficos, tablas, mapas o conjuntos de datos. El alumno debe describir, analizar y extraer conclusiones de los datos presentados.\n\nCómo usarlo para evaluar: se valora si el alumno identifica correctamente las variables, describe tendencias y patrones, interpreta los datos en contexto y extrae conclusiones justificadas. Una guía de corrección por etapas (descripción → análisis → conclusión) orienta tanto la corrección como la realización de la tarea.\n\nEs una tarea clave en matemáticas, ciencias, geografía, economía y cualquier área que trabaje con datos cuantitativos.",
+    "suitable_for": [
+      "Lectura de datos",
+      "inferencia",
+      "explicación."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "datos",
+      "grafica"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROB",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROB": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_RESUMEN",
+    "entity_type": "instrumento",
+    "name": "Resumen",
+    "type": "Producción escrita",
+    "summary": "Síntesis de ideas principales.",
+    "desc": "El resumen es la síntesis de un texto o contenido, recogiendo las ideas principales de forma breve y con las propias palabras del alumno. Implica comprensión, selección y reformulación.\n\nCómo usarlo para evaluar: se valora si el alumno identifica las ideas principales (no las secundarias o los ejemplos), si prescinde de información irrelevante, si usa sus propias palabras y si el resumen es coherente y bien proporcionado. Una guía de corrección o lista de cotejo sencilla es suficiente.\n\nEs una tarea muy accesible para evaluar la comprensión lectora y la capacidad de síntesis en cualquier etapa y materia.",
+    "suitable_for": [
+      "Comprensión",
+      "selección de información",
+      "síntesis."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "resumen"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_DESC",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_DESC": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_014",
+      "metac_018",
+      "metac_028",
+      "metac_033",
+      "metac_045",
+      "metac_057",
+      "metac_135",
+      "metac_148",
+      "metac_151"
+    ]
+  },
+  {
+    "id": "INS_ESQUEMA",
+    "entity_type": "instrumento",
+    "name": "Esquema",
+    "type": "Producción visual/escrita",
+    "summary": "Organización jerárquica de información.",
+    "desc": "El esquema es una representación visual y jerarquizada de la estructura de un contenido, que muestra las relaciones entre ideas principales, secundarias y detalles mediante sangrías, llaves, numeración u otros organizadores visuales.\n\nCómo usarlo para evaluar: se valora si el alumno identifica correctamente la jerarquía de ideas, si la estructura es coherente, si usa la terminología adecuada y si la representación es clara y completa. Una lista de cotejo con los elementos esperados permite una corrección rápida.\n\nEs especialmente útil para evaluar la comprensión y la organización del conocimiento, así como como herramienta de estudio que el alumno puede usar y mejorar.",
+    "suitable_for": [
+      "Estructura",
+      "síntesis",
+      "jerarquía."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "esquema"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_020",
+      "metac_031",
+      "metac_033",
+      "metac_035",
+      "metac_041",
+      "metac_063",
+      "metac_074",
+      "metac_100",
+      "metac_110",
+      "metac_118",
+      "metac_153"
+    ]
+  },
+  {
+    "id": "INS_MAP_CONC",
+    "entity_type": "instrumento",
+    "name": "Mapa conceptual",
+    "type": "Producción visual",
+    "summary": "Representación de conceptos y relaciones.",
+    "desc": "El mapa conceptual es una representación gráfica de las relaciones entre conceptos, con nodos (conceptos) y enlaces etiquetados que describen el tipo de relación entre ellos. Fue desarrollado por Novak como herramienta de aprendizaje significativo.\n\nCómo usarlo para evaluar: se valora la corrección de los conceptos incluidos, la adecuación de los enlaces y sus etiquetas, la jerarquía (si los más generales están arriba) y la presencia de relaciones cruzadas entre ramas (señal de comprensión profunda). Una rúbrica o lista de cotejo específica para mapas conceptuales orienta la valoración.\n\nPermite evaluar la estructura del conocimiento de un alumno: no solo si sabe los conceptos, sino cómo los relaciona entre sí.",
+    "suitable_for": [
+      "Relaciones conceptuales",
+      "organización de conocimiento."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "mapa conceptual"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Parejas",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_033",
+      "metac_060",
+      "metac_063",
+      "metac_146"
+    ]
+  },
+  {
+    "id": "INS_MAP_MENT",
+    "entity_type": "instrumento",
+    "name": "Mapa mental",
+    "type": "Producción visual",
+    "summary": "Organización radial de ideas.",
+    "desc": "El mapa mental es una representación gráfica que parte de una idea central y se ramifica hacia ideas relacionadas, usando colores, imágenes y palabras clave. Es más libre y creativo que el mapa conceptual.\n\nCómo usarlo para evaluar: se valora la riqueza de las asociaciones, la organización general, el uso de imágenes y palabras clave relevantes y la capacidad de relacionar ideas de distintas ramas. Una rúbrica sencilla con criterios de contenido y presentación es suficiente.\n\nEs especialmente útil para explorar ideas previas, hacer lluvias de ideas estructuradas, planificar proyectos y evaluar la riqueza de asociaciones en un tema.",
+    "suitable_for": [
+      "Asociación",
+      "creatividad",
+      "síntesis."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "mapa mental"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_LINEA",
+    "entity_type": "instrumento",
+    "name": "Línea del tiempo",
+    "type": "Producción visual",
+    "summary": "Representación cronológica de hechos o procesos.",
+    "desc": "La línea del tiempo es una representación gráfica cronológica de hechos, periodos o procesos, que permite visualizar la secuencia temporal y las relaciones entre eventos.\n\nCómo usarla para evaluar: se valora la selección de hechos relevantes, la precisión de las fechas, la proporcionalidad de los intervalos temporales, la inclusión de información contextual y la claridad de la presentación. Una lista de cotejo o rúbrica sencilla es suficiente.\n\nEs una tarea clave en historia, biología (evolución), literatura (movimientos literarios) y cualquier área con dimensión temporal.",
+    "suitable_for": [
+      "Secuencia",
+      "temporalidad",
+      "relaciones."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "linea tiempo"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_GLOS",
+    "entity_type": "instrumento",
+    "name": "Glosario",
+    "type": "Producción escrita",
+    "summary": "Relación de términos y definiciones.",
+    "desc": "El glosario es una lista de términos específicos de un tema o materia, con su definición elaborada por el propio alumno. Va más allá de copiar definiciones: implica comprensión y reformulación.\n\nCómo usarlo para evaluar: se valora si las definiciones son precisas, si el alumno usa sus propias palabras, si incluye ejemplos cuando es pertinente y si la terminología es adecuada. Una lista de cotejo o guía de corrección por término permite una revisión eficiente.\n\nEs útil como tarea continua a lo largo de una unidad y como herramienta de estudio. Permite evaluar la comprensión del vocabulario específico de la materia.",
+    "suitable_for": [
+      "Vocabulario",
+      "precisión conceptual."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "glosario"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_GUIA_CORR",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_FICHA_LECT",
+    "entity_type": "instrumento",
+    "name": "Ficha de lectura",
+    "type": "Producción escrita",
+    "summary": "Registro estructurado de una lectura.",
+    "desc": "La ficha de lectura recoge información estructurada sobre una lectura: identificación del texto (autor, título, género), resumen, ideas principales, opinión personal y valoración crítica. Es una actividad de mediación entre la lectura y la escritura académica.\n\nCómo usarla para evaluar: se valora la comprensión del texto, la capacidad de síntesis, la profundidad del comentario personal y la conexión entre el texto y el conocimiento previo o el contexto del alumno. Una plantilla estructurada con criterios claros facilita la corrección.\n\nEs especialmente útil en lengua y literatura, filosofía, ciencias sociales y cualquier materia que incorpore lectura de textos como fuente de aprendizaje.",
+    "suitable_for": [
+      "Comprensión",
+      "síntesis",
+      "valoración."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "lectura"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_RESEÑA",
+    "entity_type": "instrumento",
+    "name": "Reseña",
+    "type": "Producción escrita",
+    "summary": "Texto crítico breve sobre obra, recurso o actividad.",
+    "desc": "La reseña es un texto que describe, analiza y valora críticamente una obra (libro, película, exposición, experimento, etc.). Combina descripción objetiva y valoración argumentada.\n\nCómo usarla para evaluar: se valora la descripción precisa del objeto reseñado, la calidad del análisis, la solidez de los argumentos valorativos y la coherencia del texto. Una rúbrica que diferencie descripción, análisis y valoración permite retroalimentación específica.\n\nEs una tarea excelente para evaluar pensamiento crítico, escritura argumentativa y capacidad de emitir juicios fundamentados. Adecuado en lengua, literatura, arte y ciencias.",
+    "suitable_for": [
+      "Valoración",
+      "argumentación",
+      "síntesis."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "reseña"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_077"
+    ]
+  },
+  {
+    "id": "INS_ART_DIV",
+    "entity_type": "instrumento",
+    "name": "Artículo divulgativo",
+    "type": "Producción escrita",
+    "summary": "Comunicación clara de información especializada.",
+    "desc": "El artículo divulgativo es un texto que explica un tema científico, histórico o cultural de forma accesible para un público no especializado. Requiere seleccionar, simplificar y comunicar sin perder rigor.\n\nCómo usarlo para evaluar: se valora la adecuación al público destinatario (lenguaje claro pero riguroso), la selección de información relevante, la estructura narrativa y la corrección de los contenidos. Una rúbrica específica para escritura divulgativa orienta tanto la producción como la corrección.\n\nDesarrolla la competencia comunicativa escrita, la comprensión profunda de la materia y la capacidad de traducir conocimiento especializado. Adecuado en ciencias, historia y lengua.",
+    "suitable_for": [
+      "Divulgación",
+      "rigor",
+      "adaptación al destinatario."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "divulgacion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_DESC",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_DESC": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MEM_PROY",
+    "entity_type": "instrumento",
+    "name": "Memoria de proyecto",
+    "type": "Producción escrita",
+    "summary": "Documento que recoge planificación, proceso y resultados.",
+    "desc": "La memoria de proyecto es el documento escrito que recoge todo el proceso y resultado de un proyecto: planificación inicial, desarrollo, dificultades encontradas, soluciones adoptadas, resultado final y reflexión sobre el aprendizaje.\n\nCómo usarla para evaluar: se valora tanto la calidad del proceso documentado como la del resultado. Una rúbrica que diferencie secciones (planificación, desarrollo, producto, reflexión) permite retroalimentación específica. La reflexión final sobre lo aprendido tiene especial valor metacognitivo.\n\nEs la evidencia evaluable principal en proyectos de aprendizaje-servicio, proyectos interdisciplinares y trabajos de investigación de Bachillerato.",
+    "suitable_for": [
+      "Planificación",
+      "proceso",
+      "resultados",
+      "evaluación."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "memoria",
+      "proyecto"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_CONV",
+      "HER_HOJA_CALC",
+      "HER_HOJA_IND",
+      "HER_MATRIZ_POND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROY",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROY": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_CONV": "principal",
+        "HER_HOJA_CALC": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_MATRIZ_POND": "ocasional",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PLAN_TRAB",
+    "entity_type": "instrumento",
+    "name": "Plan de trabajo",
+    "type": "Proceso",
+    "summary": "Documento de organización de tareas y tiempos.",
+    "desc": "El plan de trabajo es un documento previo al inicio de un proyecto en el que el alumno o equipo define objetivos, tareas, responsables, recursos y plazos. Permite evaluar la capacidad de planificación antes de ejecutar.\n\nCómo usarlo para evaluar: se valora la claridad de los objetivos, el realismo de los plazos, la distribución equitativa de tareas y la previsión de dificultades. Al finalizar el proyecto, puede compararse el plan inicial con lo que realmente sucedió, lo que añade valor reflexivo.\n\nEs una actividad formativa que ayuda al alumnado al alumnado a desarrollar competencias de organización y gestión del tiempo, fundamentales para la autonomía.",
+    "suitable_for": [
+      "Planificación",
+      "organización",
+      "responsabilidad."
+    ],
+    "complexity": "Media",
+    "phase": "Inicial/Proceso",
+    "participation": "Docente/Grupo",
+    "tags": [
+      "planificacion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_HOJA_IND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_PROY",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_PROY": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_HOJA_IND": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_013"
+    ]
+  },
+  {
+    "id": "INS_ACTA",
+    "entity_type": "instrumento",
+    "name": "Acta de reunión",
+    "type": "Proceso",
+    "summary": "Registro de acuerdos, tareas y decisiones de grupo.",
+    "desc": "El acta de reunión es el registro escrito de lo que ocurrió en una reunión del grupo: quién asistió, qué se debatió, qué acuerdos se tomaron y qué tareas se asignaron. Es una evidencia habitual en trabajo cooperativo y proyectos grupales.\n\nCómo usarla para evaluar: el docente puede revisar las actas para comprobar que el grupo funciona de forma organizada, que los roles rotan, que los acuerdos se cumplen y que la reflexión sobre el trabajo es genuina. También puede usarse como evidencia de proceso.\n\nDesarrolla habilidades de comunicación formal, organización y responsabilidad compartida. Es especialmente útil en proyectos de larga duración.",
+    "suitable_for": [
+      "Organización grupal",
+      "responsabilidad",
+      "acuerdos."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Grupo",
+    "tags": [
+      "acta"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_ANAL_DOC"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_ANAL_DOC": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_CONTRATO",
+    "entity_type": "instrumento",
+    "name": "Contrato de aprendizaje",
+    "type": "Autoevaluación",
+    "summary": "Acuerdo de objetivos y compromisos personales.",
+    "desc": "El contrato de aprendizaje es un acuerdo negociado entre el docente y el alumno sobre qué va a aprender, cómo lo va a demostrar, en qué plazos y con qué criterios será evaluado. Personaliza el proceso de aprendizaje.\n\nCómo usarlo para evaluar: el contrato define los criterios y evidencias de evaluación desde el inicio. El alumno sabe exactamente qué debe lograr y cómo lo va a demostrar. Al final del periodo, se revisa conjuntamente si se han cumplido los compromisos acordados.\n\nFavorece la autonomía, la motivación intrínseca y la responsabilidad. Es especialmente útil con alumnado con necesidades específicas, alumnado avanzado o en situaciones de recuperación.",
+    "suitable_for": [
+      "Autonomía",
+      "compromiso",
+      "metas."
+    ],
+    "complexity": "Media",
+    "phase": "Inicial/Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "contrato aprendizaje"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_REG_COMP"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "DIM_COMPART"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_COMPART": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_COMP": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_023"
+    ]
+  },
+  {
+    "id": "INS_F_REFLEX",
+    "entity_type": "instrumento",
+    "name": "Ficha de reflexión",
+    "type": "Autoevaluación",
+    "summary": "Documento breve para analizar aprendizaje y mejoras.",
+    "desc": "La ficha de reflexión es un documento breve donde el alumno responde a preguntas metacognitivas sobre su proceso de aprendizaje: qué aprendió, cómo lo aprendió, qué le costó, qué cambiaría y qué quiere saber más.\n\nCómo usarla para evaluar: se valora la profundidad de la reflexión, la capacidad de identificar dificultades propias y la conexión entre el aprendizaje y la experiencia personal. No debe valorarse si las respuestas son 'correctas', sino si son honestas y reflexivas.\n\nEs una actividad de cierre muy eficaz para sesiones, unidades o proyectos. Convierte la evaluación en un momento de aprendizaje sobre el propio aprendizaje.",
+    "suitable_for": [
+      "Metacognición",
+      "dificultades",
+      "propuestas."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso/Final",
+    "participation": "Alumno",
+    "tags": [
+      "reflexion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_DIANA",
+      "HER_ESC_OBS",
+      "HER_ESC_VERB",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_DIANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_ESC_VERB": "complementaria",
+        "HER_FICHA_RETRO": "ocasional",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_AUTOINF",
+    "entity_type": "instrumento",
+    "name": "Autoinforme",
+    "type": "Autoevaluación",
+    "summary": "Texto donde el alumnado describe y justifica su desempeño.",
+    "desc": "El autoinforme es un documento más extenso que la ficha de reflexión, donde el alumno describe y valora su propio proceso de aprendizaje durante un periodo: qué hizo, cómo evolucionó, qué logró, qué le faltó y qué aprendió sobre sí mismo como aprendiz.\n\nCómo usarlo para evaluar: se valora la honestidad, la profundidad, la capacidad de identificar patrones propios y la conexión entre la reflexión y las evidencias del portfolio. Puede complementar la calificación del docente en la evaluación sumativa.\n\nEs una evidencia de alto valor metacognitivo, especialmente en portfolios, proyectos de larga duración y evaluación por competencias.",
+    "suitable_for": [
+      "Autorregulación",
+      "argumentación sobre el propio trabajo."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Alumno",
+    "tags": [
+      "autoinforme"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_RUB_AUTO",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_AUTO": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PROB",
+    "entity_type": "instrumento",
+    "name": "Resolución de problemas",
+    "type": "Prueba/desempeño",
+    "summary": "Situaciones que requieren análisis, procedimiento y justificación.",
+    "desc": "La resolución de problemas como evidencia evaluable consiste en presentar al alumno una situación problemática real o contextualizada que debe analizar, planificar, resolver y justificar. Va más allá del ejercicio mecánico: requiere razonamiento y aplicación.\n\nCómo usarla para evaluar: se valora el proceso completo (comprensión del problema, planificación, ejecución, verificación) además del resultado. Pedir al alumno que explique su razonamiento (por escrito o verbalmente) añade información sobre su pensamiento. Una guía de corrección por etapas es la herramienta más adecuada.\n\nEs la evidencia central de la evaluación competencial en matemáticas, física, química, tecnología y economía.",
+    "suitable_for": [
+      "Razonamiento",
+      "transferencia",
+      "aplicación."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "problemas"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_COMP",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROB",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROB": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_COMP": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_003",
+      "metac_005",
+      "metac_006",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_017",
+      "metac_024",
+      "metac_027",
+      "metac_028",
+      "metac_033",
+      "metac_034",
+      "metac_036",
+      "metac_038",
+      "metac_043",
+      "metac_045",
+      "metac_046",
+      "metac_049",
+      "metac_050",
+      "metac_055",
+      "metac_056",
+      "metac_062",
+      "metac_064",
+      "metac_068",
+      "metac_071",
+      "metac_076",
+      "metac_080",
+      "metac_084",
+      "metac_091",
+      "metac_094",
+      "metac_098",
+      "metac_106",
+      "metac_113",
+      "metac_117",
+      "metac_121",
+      "metac_139",
+      "metac_140",
+      "metac_142"
+    ]
+  },
+  {
+    "id": "INS_CASO",
+    "entity_type": "instrumento",
+    "name": "Estudio de caso",
+    "type": "Prueba/desempeño",
+    "summary": "Análisis de una situación real o simulada.",
+    "desc": "El estudio de caso presenta una situación real o verosímil que el alumno debe analizar, diagnosticar e interpretar, proponiendo soluciones o conclusiones fundamentadas. Aplica conocimientos a un contexto concreto.\n\nCómo usarlo para evaluar: se valora la comprensión de la situación, la identificación de variables relevantes, la calidad del análisis y la coherencia de las conclusiones o propuestas. Una guía de análisis estructurada (¿qué ocurre?, ¿por qué?, ¿qué harías?) orienta tanto al alumno como al evaluador.\n\nEs especialmente adecuado en ciencias de la salud, ciencias sociales, derecho, historia, economía y FP, donde aplicar conocimientos a situaciones reales es el objetivo central.",
+    "suitable_for": [
+      "Diagnóstico",
+      "decisiones",
+      "justificación."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "caso"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_RUB_COMP",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_CASO",
+      "DIM_COMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_CASO": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_RUB_COMP": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PR_DES",
+    "entity_type": "instrumento",
+    "name": "Prueba escrita de desarrollo",
+    "type": "Prueba",
+    "summary": "Preguntas abiertas de explicación o argumentación.",
+    "desc": "La prueba escrita de desarrollo consiste en preguntas o tareas que el alumno responde con texto propio, elaborando argumentos, explicaciones, análisis o síntesis. Va más allá de la memorización: requiere organización, razonamiento y expresión escrita.\n\nCómo usarla para evaluar: se valora con una guía de corrección o rúbrica que especifique qué contenidos debe incluir cada respuesta y con qué profundidad. Compartir los criterios antes de la prueba reduce la ansiedad y orienta el estudio del alumno.\n\nPermite evaluar comprensión profunda, capacidad de síntesis y escritura académica. Especialmente útil en humanidades, ciencias sociales y ciencias cuando se quiere ir más allá de la respuesta objetiva.",
+    "suitable_for": [
+      "Comprensión",
+      "desarrollo",
+      "argumentación."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "prueba desarrollo"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_BAREMO",
+      "HER_ESC_NUM",
+      "HER_GUIA_CORR",
+      "HER_MATRIZ_POND",
+      "HER_RUB_ANA"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_BAREMO": "principal",
+        "HER_ESC_NUM": "complementaria",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_MATRIZ_POND": "ocasional",
+        "HER_RUB_ANA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PR_OBJ",
+    "entity_type": "instrumento",
+    "name": "Prueba objetiva",
+    "type": "Prueba",
+    "summary": "Cuestiones cerradas o muy delimitadas.",
+    "desc": "La prueba objetiva incluye ítems con una respuesta correcta verificable o criterios de corrección muy cerrados: verdadero/falso, emparejamiento, completar espacios en blanco, ordenar elementos o selección múltiple. La corrección es mecánica o muy pautada y reduce la dependencia del juicio del evaluador.\n\nCómo usarla para evaluar: se diseña con ítems claros y sin ambigüedad, alineados con los contenidos y criterios trabajados. Se establece el baremo (puntuación por acierto, penalización por error si la hay). La automatización de la corrección permite obtener resultados rápidamente.\n\nEs eficiente para comprobar conocimientos declarativos y algunas aplicaciones o análisis breves si los ítems están bien diseñados. Su limitación es que, usada sola, resulta insuficiente para valorar razonamiento complejo, desempeño o competencias amplias.",
+    "suitable_for": [
+      "Conocimientos",
+      "reconocimiento",
+      "aplicación breve."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Inicial/Final",
+    "participation": "Docente",
+    "tags": [
+      "prueba objetiva"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_BAREMO",
+      "HER_ESC_NUM",
+      "HER_HOJA_CALC",
+      "HER_PLANT_CORR"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_DIAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_DIAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_BAREMO": "principal",
+        "HER_ESC_NUM": "complementaria",
+        "HER_HOJA_CALC": "complementaria",
+        "HER_PLANT_CORR": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_TEST",
+    "entity_type": "instrumento",
+    "name": "Prueba tipo test",
+    "type": "Prueba",
+    "summary": "Cuestionario con opciones de respuesta.",
+    "desc": "La prueba tipo test presenta ítems de opción múltiple con una respuesta correcta y varios distractores (opciones incorrectas plausibles). Es un subtipo de prueba objetiva muy extendido.\n\nCómo usarla para evaluar: los distractores deben ser plausibles pero claramente incorrectos para quien ha aprendido el contenido. Evitar respuestas como 'todas las anteriores' o 'ninguna de las anteriores', que facilitan el acierto por eliminación. El baremo debe especificar si hay penalización por error para desincentivar las respuestas al azar.\n\nEs muy eficiente para evaluar grandes cantidades de contenido en poco tiempo, pero no debe ser la única evidencia de evaluación.",
+    "suitable_for": [
+      "Conceptos",
+      "comprensión",
+      "repaso."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "test"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
+    ],
+    "related_tools": [
+      "HER_BAREMO",
+      "HER_ESC_NUM"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_DIAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_SONDEO": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_DIAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_BAREMO": "principal",
+        "HER_ESC_NUM": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_RESP_CORTA",
+    "entity_type": "instrumento",
+    "name": "Prueba de respuesta corta",
+    "type": "Prueba",
+    "summary": "Preguntas breves con respuestas delimitadas.",
+    "desc": "La prueba de respuesta corta pide al alumno que responda con una frase, término o cálculo breve. No es opción múltiple (hay que construir la respuesta) pero tampoco requiere desarrollo extenso.\n\nCómo usarla para evaluar: se valora la precisión y corrección de la respuesta. La guía de corrección debe incluir las respuestas aceptables y posibles variantes equivalentes. Es más exigente que el test porque el alumno no puede guiarse por las opciones.\n\nEquilibra la eficiencia de la prueba objetiva con la necesidad de que el alumno construya su respuesta. Adecuada para vocabulario, definiciones, fórmulas, fechas y conceptos clave.",
+    "suitable_for": [
+      "Precisión conceptual",
+      "cálculo",
+      "identificación."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "respuesta corta"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_BAREMO"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DIAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_SONDEO": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DIAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_BAREMO": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PR_ORAL",
+    "entity_type": "instrumento",
+    "name": "Prueba oral",
+    "type": "Prueba oral",
+    "summary": "Evaluación mediante preguntas o tareas orales.",
+    "desc": "La prueba oral es una evaluación en la que el alumno responde verbalmente a preguntas del docente sobre un tema o conjunto de contenidos, demostrando su comprensión y capacidad de expresión.\n\nCómo usarla para evaluar: el docente prepara un banco de preguntas de distinta dificultad y registra las respuestas con una rúbrica oral o guía de corrección. Puede incluir preguntas de seguimiento para explorar el razonamiento. Si el grupo es grande, puede hacerse en parejas con coevaluación.\n\nPermite valorar comprensión real (no memorización de texto) y expresión oral. Es especialmente útil con alumnado con dificultades de escritura y en idiomas.",
+    "suitable_for": [
+      "Comprensión",
+      "expresión",
+      "razonamiento."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "prueba oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_ACTA",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_DESEMP",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "complementaria",
+        "TEC_ORAL": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_DESEMP": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_ACTA": "principal",
+        "HER_RUB_ORAL": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PR_PRACT",
+    "entity_type": "instrumento",
+    "name": "Prueba práctica",
+    "type": "Prueba práctica",
+    "summary": "Ejecución de un procedimiento o tarea aplicada.",
+    "desc": "La prueba práctica es una evaluación en la que el alumno demuestra una habilidad, procedimiento o competencia ejecutándola en tiempo real: disección, análisis de muestra, construcción de un circuito, interpretación musical, reparación de un dispositivo.\n\nCómo usarla para evaluar: el docente observa la ejecución con una lista de cotejo de proceso o rúbrica de desempeño. Si el producto es valorable (resultado del análisis, circuito funcionando), puede añadirse una valoración del resultado final.\n\nEs la tarea más adecuada para evaluar el saber hacer: procedimientos técnicos, habilidades artísticas, prácticas de laboratorio y competencias profesionales en FP.",
+    "suitable_for": [
+      "Destreza",
+      "aplicación",
+      "procedimiento."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "prueba practica"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PR_COMP",
+    "entity_type": "instrumento",
+    "name": "Prueba competencial contextualizada",
+    "type": "Prueba competencial",
+    "summary": "Tarea evaluativa en contexto real o verosímil.",
+    "desc": "La prueba competencial contextualizada es una prueba escrita u oral que presenta situaciones reales o verosímiles y pide al alumno que aplique sus conocimientos para analizarlas, interpretarlas o resolverlas. Es la forma de prueba más alineada con la evaluación competencial.\n\nCómo usarla para evaluar: cada tarea de la prueba está asociada a un criterio de evaluación y a una competencia específica. Se valora con rúbricas o guías de corrección que contemplan el razonamiento y la aplicación, no solo el resultado correcto.\n\nEs la evidencia que mejor articula la calificación con la evaluación por criterios y competencias exigida por el marco curricular actual.",
+    "suitable_for": [
+      "Transferencia",
+      "integración",
+      "razonamiento."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "competencial"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_COMP",
+      "HER_TAB_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_HET",
+      "DIM_CAL_ACRED",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_TRIANG": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_HET": "complementaria",
+        "DIM_CAL_ACRED": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_COMP": "complementaria",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_DOCS",
+    "entity_type": "instrumento",
+    "name": "Prueba con documentos",
+    "type": "Prueba",
+    "summary": "Prueba que incluye textos, gráficos, mapas o fuentes.",
+    "desc": "La prueba con documentos presenta textos, gráficos, mapas, imágenes u otros materiales que el alumno debe analizar, interpretar y usar para responder a las preguntas. Evalúa la capacidad de trabajar con fuentes, no solo de memorizar información.\n\nCómo usarla para evaluar: se valora la comprensión de los documentos, la capacidad de extraer información relevante, la contextualización y la síntesis crítica. Una guía de corrección que especifique qué se espera en cada pregunta asegura coherencia.\n\nEs el formato de prueba más habitual en historia, geografía, ciencias sociales y lengua, y es la base de las pruebas de selectividad en muchas materias.",
+    "suitable_for": [
+      "Interpretación",
+      "aplicación",
+      "análisis de fuentes."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "documentos"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_ANA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_ANA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_CUEST_DIG",
+    "entity_type": "instrumento",
+    "name": "Cuestionario digital",
+    "type": "Digital/prueba",
+    "summary": "Formulario o cuestionario realizado en línea.",
+    "desc": "El cuestionario digital es un formulario en línea (Google Forms, Microsoft Forms, Socrative, Kahoot, etc.) con preguntas cerradas o abiertas que el alumno responde desde un dispositivo. Permite corrección automática y recogida instantánea de datos.\n\nCómo usarlo para evaluar: se configura con las preguntas y, en el caso de respuestas cerradas, las respuestas correctas. El sistema corrige automáticamente y genera estadísticas de grupo. Las preguntas abiertas requieren revisión manual. Puede usarse como diagnóstico, ticket de salida o evaluación sumativa.\n\nAhorra tiempo de corrección, permite retroalimentación inmediata y facilita el análisis de resultados del grupo para ajustar la enseñanza.",
+    "suitable_for": [
+      "Diagnóstico",
+      "repaso",
+      "comprobación."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "digital",
+      "cuestionario"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_SONDEO",
+      "TEC_ENC_CUEST"
+    ],
+    "related_tools": [
+      "HER_FORM_DIG",
+      "HER_ANALITICAS"
+    ],
+    "related_dimensions": [
+      "DIM_DIG"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_SONDEO": "complementaria",
+        "TEC_ENC_CUEST": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal"
+      },
+      "rel_her": {
+        "HER_FORM_DIG": "principal",
+        "HER_ANALITICAS": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_INFOG",
+    "entity_type": "instrumento",
+    "name": "Infografía",
+    "type": "Producción visual",
+    "summary": "Síntesis visual de información mediante texto e imagen.",
+    "desc": "La infografía combina texto e imágenes para comunicar información de forma visual, clara y sintética sobre un tema. El alumno debe seleccionar la información relevante, jerarquizarla y diseñar una presentación visualmente efectiva.\n\nCómo usarla para evaluar: se valora la selección y precisión de la información, la jerarquía visual, la legibilidad, la adecuación al destinatario y el uso de recursos gráficos. Una rúbrica que diferencie contenido y diseño permite retroalimentación específica.\n\nDesarrolla la competencia comunicativa visual, la capacidad de síntesis y la creatividad. Permite evaluar comprensión de contenidos de una forma diferente a la escritura lineal.",
+    "suitable_for": [
+      "Síntesis",
+      "comunicación",
+      "diseño",
+      "rigor."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "infografia"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Parejas",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_DIG": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_110"
+    ]
+  },
+  {
+    "id": "INS_POSTER",
+    "entity_type": "instrumento",
+    "name": "Póster académico",
+    "type": "Producción visual",
+    "summary": "Presentación visual estructurada de una investigación o proyecto.",
+    "desc": "El póster académico es una producción visual que presenta los resultados de un trabajo o investigación de forma sintética: pregunta, metodología, resultados y conclusiones. Se usa habitualmente en congresos científicos y puede trasladarse al aula.\n\nCómo usarlo para evaluar: se valora la selección de información, la jerarquía visual, la precisión del contenido y la claridad del diseño. Si se acompaña de una defensa oral, puede valorarse también la capacidad de explicar y responder preguntas.\n\nEs especialmente adecuado en ciencias, tecnología y proyectos de investigación. Combina competencia comunicativa visual y dominio del contenido.",
+    "suitable_for": [
+      "Comunicación científica",
+      "síntesis",
+      "diseño."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "poster"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_016",
+      "metac_044",
+      "metac_057",
+      "metac_058",
+      "metac_069",
+      "metac_075",
+      "metac_120",
+      "metac_138",
+      "metac_145",
+      "metac_153"
+    ]
+  },
+  {
+    "id": "INS_PRESENT_DIG",
+    "entity_type": "instrumento",
+    "name": "Presentación digital",
+    "type": "Producción digital",
+    "summary": "Diapositivas u otro soporte para comunicar información.",
+    "desc": "La presentación digital (PowerPoint, Google Slides, Canva, Prezi, etc.) es un soporte visual para una exposición oral. El alumno debe diseñarla de forma que apoye su discurso sin reemplazarlo.\n\nCómo usarla para evaluar: conviene valorar por separado el diseño de la presentación (organización, legibilidad, uso de imágenes) y la calidad de la exposición oral que la acompaña. Una rúbrica que contempla ambas dimensiones evita confundir una presentación visualmente atractiva con un discurso de calidad.\n\nEs una tarea muy habitual pero que requiere orientación explícita sobre qué hace una buena presentación (texto mínimo, imágenes relevantes, legibilidad).",
+    "suitable_for": [
+      "Estructura",
+      "claridad",
+      "apoyo visual."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "presentacion digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_DESEMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_DESEMP": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_VIDEO",
+    "entity_type": "instrumento",
+    "name": "Vídeo",
+    "type": "Producción audiovisual",
+    "summary": "Producto audiovisual con guion y edición.",
+    "desc": "El vídeo es una producción audiovisual creada por el alumno (documental, reportaje, tutorial, cortometraje, etc.) que integra imagen, sonido, guion y edición. Puede ser individual o grupal.\n\nCómo usarlo para evaluar: se valoran por separado el contenido (precisión, profundidad, selección de información) y la producción (imagen, sonido, edición, guion). Una rúbrica analítica con criterios diferenciados permite retroalimentación específica en cada dimensión.\n\nDesarrolla la competencia digital, la comunicación audiovisual y la creatividad. Es especialmente motivador para el alumnado que tiene dificultades con la escritura.",
+    "suitable_for": [
+      "Comunicación",
+      "contenido",
+      "guion",
+      "edición."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "video"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Exterior / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_PROD",
+      "HER_ESC_VAL",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_PROD": "principal",
+        "HER_ESC_VAL": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_015",
+      "metac_022",
+      "metac_026",
+      "metac_030",
+      "metac_031",
+      "metac_043",
+      "metac_077",
+      "metac_078",
+      "metac_110",
+      "metac_121",
+      "metac_131",
+      "metac_145"
+    ]
+  },
+  {
+    "id": "INS_TUTORIAL",
+    "entity_type": "instrumento",
+    "name": "Videotutorial",
+    "type": "Producción audiovisual",
+    "summary": "Vídeo que explica un procedimiento o concepto paso a paso.",
+    "desc": "El videotutorial es un vídeo en el que el alumno explica paso a paso cómo hacer algo: resolver un problema matemático, usar una herramienta, realizar un procedimiento de laboratorio, etc. Requiere dominar el contenido para poder explicarlo.\n\nCómo usarlo para evaluar: se valora la claridad y precisión de la explicación, el orden lógico de los pasos, la corrección del contenido y la calidad de la producción. Si el alumno puede explicar algo de forma que otro lo entienda, demuestra comprensión profunda.\n\nEs una excelente evidencia para evaluar comprensión procedimental y la capacidad de comunicar conocimiento. La enseñanza entre iguales (peer teaching) tiene un alto valor de aprendizaje.",
+    "suitable_for": [
+      "Explicación",
+      "secuencia",
+      "precisión",
+      "claridad."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "videotutorial"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PODCAST",
+    "entity_type": "instrumento",
+    "name": "Podcast",
+    "type": "Producción oral/digital",
+    "summary": "Producción sonora con guion y comunicación oral.",
+    "desc": "El podcast es una producción de audio (entrevista, reportaje, debate, programa informativo) creada por el alumno, que requiere guionización, locución, edición y publicación o entrega.\n\nCómo usarlo para evaluar: se valora la calidad del guion (selección de información, estructura, rigor), la expresión oral (claridad, ritmo, vocabulario) y la producción técnica (sonido, edición). Una rúbrica analítica con estas tres dimensiones es adecuada.\n\nFavorece la expresión oral en un formato diferente al de la exposición presencial, lo que puede ser más cómodo para algunos alumnos. Desarrolla competencia comunicativa y digital.",
+    "suitable_for": [
+      "Guion",
+      "comunicación",
+      "contenido",
+      "edición."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "podcast"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ORAL",
+      "HER_ESC_VAL",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ORAL": "principal",
+        "HER_ESC_VAL": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_COMIC",
+    "entity_type": "instrumento",
+    "name": "Cómic",
+    "type": "Producción visual",
+    "summary": "Narración gráfica con texto e imagen.",
+    "desc": "El cómic es una narración secuencial que combina imágenes y texto para contar una historia o explicar un proceso. El alumno debe planificar la secuencia, diseñar los personajes y redactar los diálogos o textos.\n\nCómo usarlo para evaluar: se valora la adecuación del contenido al tema, la coherencia narrativa, la calidad de los diálogos y la creatividad del diseño. Una rúbrica que diferencie contenido y formato permite retroalimentación específica.\n\nEs especialmente útil en lengua y literatura, historia, ciencias y educación artística. Permite evaluar comprensión de contenidos de una forma creativa y accesible.",
+    "suitable_for": [
+      "Comprensión",
+      "síntesis",
+      "creatividad",
+      "secuencia."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "comic"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_COMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MAQUETA",
+    "entity_type": "instrumento",
+    "name": "Maqueta",
+    "type": "Producción material",
+    "summary": "Modelo físico de estructura, sistema o proceso.",
+    "desc": "La maqueta es una representación tridimensional a escala de un objeto, espacio, estructura o sistema. Requiere planificación, diseño, construcción y justificación de las decisiones tomadas.\n\nCómo usarla para evaluar: se valoran la fidelidad a lo representado, la calidad de la construcción, el uso adecuado de materiales y la precisión de las proporciones. Si se acompaña de una explicación oral o escrita, puede valorarse también la comprensión del modelo.\n\nEs especialmente útil en tecnología, arquitectura, geografía, historia y ciencias naturales para hacer visible lo que solo se describe en texto.",
+    "suitable_for": [
+      "Representación",
+      "diseño",
+      "rigor",
+      "comunicación."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "maqueta"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_017"
+    ]
+  },
+  {
+    "id": "INS_MODELO_DIG",
+    "entity_type": "instrumento",
+    "name": "Modelo digital",
+    "type": "Producción digital",
+    "summary": "Representación digital de fenómeno, estructura o sistema.",
+    "desc": "El modelo digital es una representación virtual (3D, simulación, diagrama interactivo) creada con herramientas digitales (Tinkercad, SketchUp, GeoGebra, etc.) que muestra la comprensión de un sistema, estructura o proceso.\n\nCómo usarlo para evaluar: se valora la precisión del modelo respecto al referente real, la calidad técnica de la construcción digital y la capacidad de explicar qué representa y por qué se tomaron ciertas decisiones de diseño.\n\nDesarrolla la competencia digital y el pensamiento espacial. Es especialmente adecuado en tecnología, diseño, matemáticas y ciencias experimentales.",
+    "suitable_for": [
+      "Modelización",
+      "precisión",
+      "explicación."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "modelo digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PROTOTIPO",
+    "entity_type": "instrumento",
+    "name": "Prototipo",
+    "type": "Producción material/digital",
+    "summary": "Versión inicial o funcional de una solución.",
+    "desc": "El prototipo es una versión funcional (aunque incompleta o simplificada) de un producto, dispositivo o solución diseñada para probar su viabilidad y obtener retroalimentación antes del producto final.\n\nCómo usarlo para evaluar: se valora la funcionalidad (¿cumple su función?), la adecuación a los requisitos, la calidad del diseño y la reflexión sobre lo que funciona y lo que habría que mejorar. El proceso de iteración (probar → mejorar → probar) es tan valioso como el prototipo final.\n\nEs la evidencia central en proyectos de design thinking, tecnología, FP y cualquier proceso de diseño centrado en el usuario.",
+    "suitable_for": [
+      "Diseño",
+      "funcionalidad",
+      "mejora",
+      "creatividad."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "prototipo"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_HOJA_IND",
+      "HER_RUB_PROD"
+    ],
+    "related_dimensions": [
+      "DIM_PROY",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_PROY": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_HOJA_IND": "principal",
+        "HER_RUB_PROD": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_013",
+      "metac_027"
+    ]
+  },
+  {
+    "id": "INS_WEB",
+    "entity_type": "instrumento",
+    "name": "Página web",
+    "type": "Producción digital",
+    "summary": "Sitio web organizado para comunicar o resolver una necesidad.",
+    "desc": "La página web es un producto digital que combina texto, imagen, vídeo y otros recursos en un entorno interactivo accesible en línea. Requiere planificación de contenidos, diseño de la estructura y habilidades técnicas de creación.\n\nCómo usarla para evaluar: se valoran el contenido (precisión, profundidad, selección), la organización (navegación, estructura), el diseño (legibilidad, accesibilidad) y la corrección técnica. Una rúbrica analítica que diferencie estas dimensiones es la herramienta más adecuada.\n\nDesarrolla competencia digital, comunicación multimodal y comprensión de la materia. Es especialmente motivador para el alumnado con afinidad tecnológica.",
+    "suitable_for": [
+      "Organización",
+      "usabilidad",
+      "contenido",
+      "diseño."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "web"
+    ],
+    "modality": "Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_DIG",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_DIG": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_BLOG",
+    "entity_type": "instrumento",
+    "name": "Entrada de blog",
+    "type": "Producción digital",
+    "summary": "Publicación digital reflexiva, explicativa o divulgativa.",
+    "desc": "La entrada de blog es un texto de divulgación personal o académica publicado en un blog, que combina rigor en el contenido con un estilo más accesible y personal que el texto académico formal.\n\nCómo usarla para evaluar: se valora la adecuación al destinatario, la precisión del contenido, la originalidad del enfoque, la calidad de la escritura y el uso de recursos digitales (imágenes, enlaces). Una rúbrica que diferencie contenido y formato es adecuada.\n\nEs una buena actividad para trabajar la escritura con una audiencia real y desarrollar la voz propia del alumno. El hecho de que sea publicado añade motivación y responsabilidad.",
+    "suitable_for": [
+      "Comunicación",
+      "reflexión",
+      "rigor",
+      "audiencia."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "blog"
+    ],
+    "modality": "Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_015",
+      "metac_099"
+    ]
+  },
+  {
+    "id": "INS_FORO",
+    "entity_type": "instrumento",
+    "name": "Foro de discusión",
+    "type": "Digital/oral escrito",
+    "summary": "Interacciones escritas en entorno digital.",
+    "desc": "El foro de discusión es un espacio de intercambio escrito asíncrono (en plataforma digital) donde el alumnado debate, argumenta y comenta sobre un tema, leyendo y respondiendo a las aportaciones de sus compañeros.\n\nCómo usarlo para evaluar: se valoran la calidad de la aportación inicial (argumentación, uso de fuentes) y la calidad de las respuestas a otros (escucha activa, respeto, profundización). Una rúbrica de participación en foro con criterios de calidad, no solo de cantidad, es la herramienta más adecuada.\n\nPermite la participación de alumnos que no intervienen fácilmente en debates presenciales. Deja trazas escritas que facilitan la evaluación.",
+    "suitable_for": [
+      "Argumentación",
+      "participación",
+      "respuesta a iguales."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "foro"
+    ],
+    "modality": "Online",
+    "location": "Virtual",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_INTER_DIG"
+    ],
+    "related_tools": [
+      "HER_REG_PART",
+      "HER_RUB_ORAL",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_INTER_DIG": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_PART": "principal",
+        "HER_RUB_ORAL": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_DOC_COL",
+    "entity_type": "instrumento",
+    "name": "Documento colaborativo",
+    "type": "Digital/proceso",
+    "summary": "Documento compartido elaborado por varios alumnos.",
+    "desc": "El documento colaborativo es un documento digital (Google Docs, Word Online, etc.) que varios alumnos editan simultánea o asíncronamente para construir un texto, análisis o producto compartido.\n\nCómo usarlo para evaluar: el historial de revisiones permite ver la contribución individual de cada miembro, lo que hace la evaluación del trabajo grupal más justa. Se valora tanto el producto final como el proceso de construcción colaborativa.\n\nEs especialmente útil para proyectos grupales donde la contribución individual es difícil de distinguir en el resultado final. El historial de revisiones es la clave para la evaluación individualizada.",
+    "suitable_for": [
+      "Contribución",
+      "revisión",
+      "contenido",
+      "cooperación."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Grupo",
+    "tags": [
+      "documento colaborativo"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PROC_REFLEX",
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG"
+    ],
+    "related_tools": [
+      "HER_HIST_REV",
+      "HER_RUB_ANA",
+      "HER_HOJA_IND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "complementaria",
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_ANAL_DOC": "complementaria",
+        "TEC_INTER_DIG": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_COEV": "complementaria",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_HIST_REV": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PORT_DIG",
+    "entity_type": "instrumento",
+    "name": "Portfolio digital",
+    "type": "Digital/proceso",
+    "summary": "Colección digital de evidencias y reflexiones.",
+    "desc": "El portfolio digital es una colección organizada de evidencias de aprendizaje almacenadas en formato digital (Google Sites, Seesaw, Mahara, carpeta de Drive, etc.), con reflexiones del alumno sobre cada evidencia.\n\nCómo usarlo para evaluar: se valoran la selección de evidencias (¿muestra lo más significativo?), la calidad de las reflexiones (¿qué aprendí con esto?, ¿cómo lo haría diferente?) y la organización general. El portfolio digital permite compartirlo con familias y otros docentes.\n\nEs la evidencia más completa para la evaluación por competencias y el seguimiento longitudinal del aprendizaje. Desarrolla la autonomía y la metacognición del alumno.",
+    "suitable_for": [
+      "Progreso",
+      "competencia digital",
+      "reflexión."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "portfolio digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PROC_REFLEX",
+      "TEC_ENTREV_EVAL",
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG"
+    ],
+    "related_tools": [
+      "HER_PANEL",
+      "HER_BANCO_EVID",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "complementaria",
+        "TEC_PROC_REFLEX": "complementaria",
+        "TEC_ENTREV_EVAL": "complementaria",
+        "TEC_ANAL_DOC": "principal",
+        "TEC_INTER_DIG": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_PANEL": "principal",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_077"
+    ]
+  },
+  {
+    "id": "INS_KPSI",
+    "entity_type": "instrumento",
+    "name": "KPSI",
+    "type": "Diagnóstico/autoevaluación",
+    "summary": "Actividad diagnóstica en la que el alumno indica su grado de conocimiento previo sobre cada concepto.",
+    "desc": "El KPSI (Knowledge and Prior Study Inventory) es una actividad de diagnóstico en la que el alumno indica, para cada concepto o habilidad del tema, si lo sabe (y puede explicarlo), cree que lo sabe, no lo sabe o no lo entiende. La evidencia que genera es la autopercepción declarada del propio alumno sobre su conocimiento previo.\n\nCómo usarlo: se aplica al inicio de una unidad o proyecto para detectar conocimientos previos y concepciones erróneas. No tiene función calificadora. Al finalizar la unidad puede repetirse para que el alumno compare sus respuestas iniciales con las finales y vea su propio progreso.\n\nComo actividad genera evidencia diagnóstica de autopercepción que permite al docente ajustar la planificación y al alumno tomar conciencia de lo que ya sabe y lo que necesita aprender. El instrumento de registro habitual es una escala de autoevaluación o un formulario digital.",
+    "suitable_for": [
+      "Conocimientos previos",
+      "confianza",
+      "evolución."
+    ],
+    "complexity": "Baja",
+    "phase": "Inicial/Final",
+    "participation": "Alumno",
+    "tags": [
+      "KPSI"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_ENC_CUEST"
+    ],
+    "related_tools": [
+      "HER_ESC_AUTO",
+      "HER_FORM_DIG",
+      "HER_REG_DESC"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG",
+      "DIM_AUTO"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_ENC_CUEST": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal",
+        "DIM_AUTO": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_AUTO": "principal",
+        "HER_FORM_DIG": "complementaria",
+        "HER_REG_DESC": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MAP_INI",
+    "entity_type": "instrumento",
+    "name": "Mapa conceptual inicial",
+    "type": "Diagnóstico",
+    "summary": "Mapa conceptual al inicio de una unidad.",
+    "desc": "El mapa conceptual inicial es un mapa conceptual elaborado por el alumno al comienzo de una unidad, sin haber estudiado el tema aún, para mostrar qué sabe y cómo relaciona los conceptos en ese momento.\n\nCómo usarlo para evaluar: se usa exclusivamente como diagnóstico, nunca para calificar. Al finalizar la unidad, el alumno elabora un nuevo mapa y compara ambos para visualizar su aprendizaje. La diferencia entre el mapa inicial y el final es una evidencia poderosa del progreso.\n\nPermite al docente detectar concepciones previas, tanto correctas como erróneas, y ajustar la secuencia didáctica en consecuencia.",
+    "suitable_for": [
+      "Ideas previas",
+      "organización conceptual."
+    ],
+    "complexity": "Media",
+    "phase": "Inicial",
+    "participation": "Docente",
+    "tags": [
+      "inicial"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_REG_DESC",
+      "HER_FORM_DIG"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_REG_DESC": "complementaria",
+        "HER_FORM_DIG": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_LLUVIA",
+    "entity_type": "instrumento",
+    "name": "Lluvia de ideas",
+    "type": "Diagnóstico",
+    "summary": "Generación rápida de ideas iniciales.",
+    "desc": "La lluvia de ideas (brainstorming) es una actividad en la que el alumnado genera de forma libre y sin censura todas las ideas que se les ocurren sobre un tema o problema. Se usa para activar conocimientos previos, generar hipótesis o explorar soluciones posibles.\n\nCómo usarla para evaluar: no tiene función calificadora en sí misma, pero permite al docente detectar qué saben y cómo piensan los alumnos sobre el tema antes de empezar. Las ideas generadas pueden clasificarse, debatirse y revisarse al final de la unidad.\n\nEs una actividad diagnóstica y motivadora. En grupos, puede revelar la riqueza colectiva de conocimientos previos y las ideas más y menos extendidas.",
+    "suitable_for": [
+      "Ideas previas",
+      "intereses",
+      "asociaciones."
+    ],
+    "complexity": "Baja",
+    "phase": "Inicial",
+    "participation": "Grupo",
+    "tags": [
+      "lluvia ideas"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_NOTAS_CAMPO",
+      "HER_REG_ANE",
+      "HER_REG_DESC"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal",
+        "DIM_FORM": "complementaria"
+      },
+      "rel_her": {
+        "HER_NOTAS_CAMPO": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_REG_DESC": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_015",
+      "metac_019",
+      "metac_048",
+      "metac_075",
+      "metac_083",
+      "metac_088"
+    ]
+  },
+  {
+    "id": "INS_BORR",
+    "entity_type": "instrumento",
+    "name": "Borrador",
+    "type": "Proceso",
+    "summary": "Versión inicial o intermedia de un producto.",
+    "desc": "El borrador es una versión preliminar de un trabajo, no terminada ni pulida, que el alumno entrega para recibir retroalimentación antes de la entrega final. Es la evidencia central de la evaluación formativa en tareas escritas.\n\nCómo usarlo para evaluar: el docente (o los compañeros en coevaluación) lee el borrador y ofrece retroalimentación específica sobre qué está bien y qué debe mejorar. No se califica el borrador; se califica la versión final después de la revisión.\n\nEl ciclo borrador → retroalimentación → revisión → entrega final es uno de los procesos más efectivos para mejorar la escritura y el aprendizaje en general.",
+    "suitable_for": [
+      "Mejora",
+      "revisión",
+      "progreso."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "borrador"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_FICHA_RETRO",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_CONT",
+      "DIM_FEED",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_CONT": "principal",
+        "DIM_FEED": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_FICHA_RETRO": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_107",
+      "metac_129",
+      "metac_130"
+    ]
+  },
+  {
+    "id": "INS_ENT_PAR",
+    "entity_type": "instrumento",
+    "name": "Entrega parcial",
+    "type": "Proceso",
+    "summary": "Producto intermedio entregado antes del final.",
+    "desc": "La entrega parcial es una versión incompleta pero avanzada de un proyecto o trabajo, que se presenta en un momento intermedio para que el docente pueda dar retroalimentación y el alumno pueda ajustar el rumbo antes de terminar.\n\nCómo usarla para evaluar: se valora con una retroalimentación oral o escrita centrada en lo que está bien encaminado y lo que debe revisarse. Puede tener una puntuación parcial que contribuya a la nota final, incentivando el trabajo sostenido.\n\nEvita la acumulación de trabajo al final y permite detectar problemas de comprensión o de planificación cuando todavía hay tiempo para corregirlos.",
+    "suitable_for": [
+      "Seguimiento",
+      "calidad provisional",
+      "mejora."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "entrega parcial"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_HOJA_IND",
+      "HER_RUB_PROC",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_CONT",
+      "DIM_FEED",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_CONT": "principal",
+        "DIM_FEED": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_HOJA_IND": "principal",
+        "HER_RUB_PROC": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_BIT",
+    "entity_type": "instrumento",
+    "name": "Bitácora de proyecto",
+    "type": "Proceso",
+    "summary": "Registro continuado de decisiones, problemas y avances.",
+    "desc": "La bitácora de proyecto es un diario de seguimiento del proceso de un proyecto: qué se hizo en cada sesión, qué decisiones se tomaron, qué dificultades surgieron y cómo se resolvieron. Es el registro del proceso, no del resultado.\n\nCómo usarla para evaluar: el docente la revisa periódicamente para comprobar el avance, detectar dificultades a tiempo y valorar la calidad del proceso. Una lista de cotejo o rúbrica de proceso específica para bitácoras orienta la valoración.\n\nHace visible el proceso de aprendizaje, que de otro modo solo se conoce por el producto final. Es especialmente valiosa en proyectos de larga duración y trabajos grupales.",
+    "suitable_for": [
+      "Proceso",
+      "organización",
+      "reflexión",
+      "decisiones."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso",
+    "participation": "Grupo/Alumno",
+    "tags": [
+      "bitacora"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Grupo pequeño / Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_HOJA_IND",
+      "HER_ESC_OBS",
+      "HER_RUB_PROC",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROY",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROY": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_HOJA_IND": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_RUB_PROC": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_REV_PARES",
+    "entity_type": "instrumento",
+    "name": "Revisión por pares",
+    "type": "Coevaluación",
+    "summary": "Análisis y mejora de trabajos entre compañeros.",
+    "desc": "La revisión por pares es el proceso en que un alumno lee y comenta el trabajo de un compañero, aplicando criterios compartidos, con el objetivo de ayudarle a mejorarlo antes de la entrega final.\n\nCómo usarla para evaluar: se proporciona una ficha de revisión o rúbrica de coevaluación con criterios concretos. El revisor debe dar retroalimentación específica y accionable, no solo decir 'está bien' o 'mejora la redacción'. El proceso mismo de revisar el trabajo ajeno es una poderosa experiencia de aprendizaje.\n\nEs una de las evidencias evaluables formativas con mayor impacto en la calidad del trabajo final. Desarrolla pensamiento crítico, comprensión de los criterios y empatía.",
+    "suitable_for": [
+      "Criterios",
+      "mejora",
+      "retroalimentación."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Iguales",
+    "tags": [
+      "pares"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Parejas / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_FICHA_COEV",
+      "HER_RUB_COEV",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_FEED",
+      "DIM_COMPART",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_FEED": "principal",
+        "DIM_COMPART": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_FICHA_COEV": "principal",
+        "HER_RUB_COEV": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_020",
+      "metac_029",
+      "metac_042",
+      "metac_044",
+      "metac_049",
+      "metac_085",
+      "metac_122",
+      "metac_129",
+      "metac_130"
+    ]
+  },
+  {
+    "id": "INS_2E1D",
+    "entity_type": "instrumento",
+    "name": "Dos estrellas y un deseo",
+    "type": "Coevaluación",
+    "summary": "Actividad de coevaluación: dos aspectos positivos y una propuesta de mejora.",
+    "desc": "'Dos estrellas y un deseo' es una actividad breve de coevaluación o retroalimentación entre iguales en la que el evaluador (docente o compañero) señala dos aspectos positivos del trabajo y una sugerencia de mejora concreta. La evidencia producida son los comentarios de revisión generados durante la actividad.\n\nCómo usarla: se entrega una tarjeta o formulario con tres apartados ('Lo que está muy bien:', 'Otra cosa que funciona:', 'Una cosa que podrías mejorar:'). Es estructuralmente sencilla pero requiere que los comentarios sean específicos y concretos, no genéricos ('está bien escrito').\n\nEs especialmente adecuada para introducir la coevaluación con grupos sin práctica en ella, por su formato accesible y su balance entre lo positivo y lo mejorable. El instrumento de registro suele ser una ficha de coevaluación o ficha de retroalimentación.",
+    "suitable_for": [
+      "Retroalimentación sencilla",
+      "mejora."
+    ],
+    "complexity": "Baja",
+    "phase": "Proceso",
+    "participation": "Iguales",
+    "tags": [
+      "feedback"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Parejas / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_FICHA_RETRO",
+      "HER_FICHA_COEV"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_FEED"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_FEED": "principal"
+      },
+      "rel_her": {
+        "HER_FICHA_RETRO": "principal",
+        "HER_FICHA_COEV": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_130"
+    ]
+  },
+  {
+    "id": "INS_SEMAF",
+    "entity_type": "instrumento",
+    "name": "Semáforo de aprendizaje",
+    "type": "Autoevaluación",
+    "summary": "Actividad breve de autoevaluación en la que el alumno señala su nivel de comprensión con tres colores.",
+    "desc": "El semáforo de aprendizaje es una actividad breve de autoevaluación formativa en la que el alumno indica su nivel de comprensión de un contenido usando tres colores: verde (lo entiendo bien), amarillo (tengo algunas dudas), rojo (no lo entiendo o estoy perdido). La evidencia que genera es la autopercepción declarada por el alumno sobre su comprensión en ese momento.\n\nCómo usarlo: puede hacerse con tarjetas de colores físicas, con post-its, con un formulario digital o con una paleta en la pizarra. Al final de una explicación o sesión, el docente ve de un vistazo cuántos alumnos están en verde, amarillo o rojo y ajusta la siguiente sesión en consecuencia.\n\nPermite regular el ritmo de la enseñanza en tiempo real a partir de evidencias de autopercepción. Requiere un clima de confianza para que los alumnos sean honestos. El instrumento de evaluación que suele acompañarlo es el semáforo de evaluación o una lista de cotejo.",
+    "suitable_for": [
+      "Comprensión",
+      "dudas",
+      "necesidad de ayuda."
+    ],
+    "complexity": "Baja",
+    "phase": "Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "semaforo"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_SEMAFORO",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "complementaria",
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria"
+      },
+      "rel_her": {
+        "HER_SEMAFORO": "principal",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_037"
+    ]
+  },
+  {
+    "id": "INS_BILLETE",
+    "entity_type": "instrumento",
+    "name": "Billete de salida",
+    "type": "Autoevaluación/formativa",
+    "summary": "Respuesta breve al final de la sesión.",
+    "desc": "El billete de salida (exit ticket) es una respuesta breve que el alumno entrega al final de la clase para mostrar qué aprendió, qué duda le quedó o cómo aplicaría lo aprendido. Es una forma rápida de evaluación formativa al cierre de la sesión.\n\nCómo usarlo para evaluar: puede ser una pregunta escrita en papel o un formulario digital. El docente revisa las respuestas antes de la siguiente clase para identificar qué alumnos necesitan más apoyo y qué conceptos hay que reforzar.\n\nEs una de las estrategias de evaluación formativa más sencillas y efectivas. Con cinco minutos al final de cada clase, el docente obtiene información valiosa sobre el estado real del aprendizaje del grupo.",
+    "suitable_for": [
+      "Dudas",
+      "aprendizaje",
+      "cierre de clase."
+    ],
+    "complexity": "Baja",
+    "phase": "Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "billete salida"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_ENC_CUEST"
+    ],
+    "related_tools": [
+      "HER_FORM_DIG",
+      "HER_LISTA",
+      "HER_FICHA_RETRO"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_ENC_CUEST": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "complementaria",
+        "DIM_FORM": "principal"
+      },
+      "rel_her": {
+        "HER_FORM_DIG": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_FICHA_RETRO": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_096"
+    ]
+  },
+  {
+    "id": "INS_LIBRO_ABIERTO",
+    "entity_type": "instrumento",
+    "name": "Prueba de libro abierto",
+    "type": "Prueba competencial",
+    "summary": "Prueba en la que el alumnado puede consultar materiales autorizados.",
+    "desc": "La prueba de libro abierto permite consultar materiales durante la realización de la tarea. Su valor no está en recordar datos, sino en seleccionar, interpretar y aplicar información con criterio.\n\nCómo usarla para evaluar: las preguntas deben exigir razonamiento, transferencia o resolución de problemas; si solo piden localizar datos, la prueba pierde sentido. Conviene delimitar qué recursos se pueden usar y explicar los criterios de corrección.\n\nEs adecuada para evaluar comprensión profunda, manejo de fuentes y aplicación en contextos nuevos.",
+    "suitable_for": [
+      "Aplicación",
+      "análisis",
+      "transferencia",
+      "uso crítico de fuentes."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "libro abierto",
+      "fuentes",
+      "aplicacion"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_ANA",
+      "HER_BAREMO"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_CRIT": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_BAREMO": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_TAREA_COMP_INT",
+    "entity_type": "instrumento",
+    "name": "Tarea competencial integrada",
+    "type": "Prueba competencial",
+    "summary": "Tarea compleja que integra varios aprendizajes en un contexto significativo.",
+    "desc": "La tarea competencial integrada propone una situación significativa en la que el alumnado debe movilizar varios saberes, procedimientos y actitudes para producir una respuesta o producto.\n\nCómo usarla para evaluar: se vincula cada parte de la tarea con criterios concretos y se recogen evidencias suficientes del proceso y del resultado. Una rúbrica competencial y un mapa de evidencias ayudan a mantener la alineación.\n\nEs una de las formas más potentes de evaluación competencial, siempre que la situación sea auténtica y no una suma artificial de ejercicios.",
+    "suitable_for": [
+      "Competencias",
+      "transferencia",
+      "integración de saberes."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "competencial",
+      "integrada",
+      "transferencia"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_OBS_SIS",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_RUB_COMP",
+      "HER_MAP_EVID",
+      "HER_IND_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_INCL",
+      "DIM_CAL_ACRED",
+      "DIM_GAMIF",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_OBS_SIS": "complementaria",
+        "TEC_TRIANG": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_CRIT": "principal",
+        "DIM_INCL": "principal",
+        "DIM_CAL_ACRED": "complementaria",
+        "DIM_GAMIF": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_COMP": "principal",
+        "HER_MAP_EVID": "principal",
+        "HER_IND_CRIT": "principal",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_SIT_PROB",
+    "entity_type": "instrumento",
+    "name": "Situación-problema",
+    "type": "Prueba/desempeño",
+    "summary": "Situación contextualizada que exige analizar un problema y proponer una solución.",
+    "desc": "La situación-problema plantea un contexto con datos, restricciones o necesidades que el alumnado debe interpretar para proponer una respuesta justificada.\n\nCómo usarla para evaluar: el enunciado debe ser claro, contextualizado y abierto en la medida justa. La corrección debe valorar el razonamiento, la pertinencia de la solución y la justificación, no solo el resultado final.\n\nEs especialmente adecuada para matemáticas, ciencias, tecnología y materias donde se evalúa transferencia a contextos reales.",
+    "suitable_for": [
+      "Razonamiento",
+      "toma de decisiones",
+      "transferencia."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "situacion problema",
+      "transferencia"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_IND_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROB",
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_GAMIF",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_PROB": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_CRIT": "principal",
+        "DIM_GAMIF": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_IND_CRIT": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_091"
+    ]
+  },
+  {
+    "id": "INS_ESCAPE",
+    "entity_type": "instrumento",
+    "name": "Escape room o reto gamificado",
+    "type": "Desempeño",
+    "summary": "Secuencia de retos con reglas de juego para resolver problemas o aplicar aprendizajes.",
+    "desc": "El escape room o reto gamificado usa dinámicas de juego para que el alumnado resuelva pruebas encadenadas, aplique conocimientos y coopere bajo unas reglas.\n\nCómo usarlo para evaluar: se observan tanto las soluciones como el proceso de colaboración, reparto de tareas, comunicación y uso de estrategias. Una guía de observación evita que la evaluación dependa solo del resultado lúdico.\n\nConviene usarlo con criterios claros, porque la motivación del juego puede ocultar quién aprende, quién lidera o quién queda al margen.",
+    "suitable_for": [
+      "Colaboración",
+      "resolución de problemas",
+      "aplicación rápida."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "gamificacion",
+      "escape room",
+      "reto"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Exterior",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_OBS",
+      "HER_RUB_COOP",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_SIM",
+      "DIM_PROB",
+      "DIM_COMPART",
+      "DIM_GAMIF"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal",
+        "DIM_PROB": "complementaria",
+        "DIM_COMPART": "complementaria",
+        "DIM_GAMIF": "principal"
+      },
+      "rel_her": {
+        "HER_GUIA_OBS": "principal",
+        "HER_RUB_COOP": "complementaria",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_007",
+      "metac_121"
+    ]
+  },
+  {
+    "id": "INS_SEMINARIO",
+    "entity_type": "instrumento",
+    "name": "Seminario socrático",
+    "type": "Oral",
+    "summary": "Diálogo estructurado a partir de preguntas abiertas y evidencias.",
+    "desc": "El seminario socrático es un diálogo estructurado en torno a preguntas abiertas, textos, casos o problemas. El alumnado construye respuestas escuchando, argumentando y preguntando.\n\nCómo usarlo para evaluar: se prepara una pregunta central, se acuerdan normas de participación y se registra la calidad de las intervenciones con una rúbrica oral o guía de observación.\n\nPermite evaluar pensamiento crítico y comprensión profunda, pero requiere entrenamiento en escucha y argumentación.",
+    "suitable_for": [
+      "Pensamiento crítico",
+      "argumentación",
+      "comprensión profunda."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "socratico",
+      "seminario",
+      "dialogo"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_ENTREV_EVAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ORAL",
+      "HER_GUIA_OBS",
+      "HER_REG_PART"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_COMPART",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_ENTREV_EVAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_COMPART": "complementaria",
+        "DIM_FORM": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ORAL": "principal",
+        "HER_GUIA_OBS": "complementaria",
+        "HER_REG_PART": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_090"
+    ]
+  },
+  {
+    "id": "INS_CHECK_LAB",
+    "entity_type": "instrumento",
+    "name": "Checklist de laboratorio",
+    "type": "Observación",
+    "summary": "Actividad de observación y autorregistro de procedimientos, seguridad y datos en el laboratorio.",
+    "desc": "El checklist de laboratorio es una actividad práctica en la que el alumno sigue, documenta y verifica sus propios procedimientos de laboratorio paso a paso. La evidencia que genera es la actuación práctica observable y el registro completado durante la sesión.\n\nCómo usarlo: se entrega al inicio de la práctica con los indicadores de seguridad, uso de material, procedimiento y toma de datos. El alumno lo va completando a medida que avanza. El docente puede revisarlo junto con el informe de laboratorio.\n\nNota: en sentido estricto, un checklist es también un instrumento de evaluación (lista de cotejo). Aquí se recoge como evidencia evaluable porque el alumno lo completa como parte activa de la práctica. Cuando lo usa el docente para observar al alumno desde fuera, actúa como instrumento de evaluación (lista de cotejo de laboratorio).",
+    "suitable_for": [
+      "Seguridad",
+      "procedimientos",
+      "uso de material",
+      "toma de datos."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "laboratorio",
+      "checklist",
+      "seguridad"
+    ],
+    "modality": "Presencial",
+    "location": "Laboratorio",
+    "grouping": "Individual / Parejas",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_GUIA_OBS",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_FORM",
+      "DIM_AUTO"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_AUTO": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_GUIA_OBS": "complementaria",
+        "HER_REG_ANE": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_CUAD_DIG",
+    "entity_type": "instrumento",
+    "name": "Cuaderno digital",
+    "type": "Digital/proceso",
+    "summary": "Registro digital continuado de actividades, notas, evidencias y reflexiones.",
+    "desc": "El cuaderno digital es un espacio de trabajo donde el alumno conserva actividades, apuntes, respuestas, evidencias y reflexiones en formato digital.\n\nCómo usarlo para evaluar: el docente revisa entradas seleccionadas, evolución, correcciones y organización. El historial de revisión puede mostrar progreso y constancia, pero debe interpretarse junto con la calidad de las evidencias.\n\nEs útil para evaluación continua y competencia digital, siempre que haya criterios claros de revisión.",
+    "suitable_for": [
+      "Seguimiento",
+      "organización",
+      "progreso",
+      "evidencias digitales."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "cuaderno digital",
+      "seguimiento",
+      "evidencias"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_HIST_REV",
+      "HER_PANEL",
+      "HER_BANCO_EVID",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_CONT",
+      "DIM_INCL",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ANAL_DOC": "principal",
+        "TEC_INTER_DIG": "complementaria",
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_CONT": "principal",
+        "DIM_INCL": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_HIST_REV": "principal",
+        "HER_PANEL": "complementaria",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_EPORT_SEL",
+    "entity_type": "instrumento",
+    "name": "E-portfolio con evidencias seleccionadas",
+    "type": "Digital/proceso",
+    "summary": "Portfolio digital donde el alumnado selecciona y justifica evidencias de aprendizaje.",
+    "desc": "El e-portfolio con evidencias seleccionadas no es solo una carpeta de trabajos: exige que el alumnado elija evidencias, explique por qué demuestran determinados criterios y reflexione sobre su progreso.\n\nCómo usarlo para evaluar: se define qué criterios deben evidenciarse, cuántas evidencias se seleccionan y cómo se justifican. El mapa de evidencias por criterio permite comprobar cobertura y calidad.\n\nEs especialmente adecuado para evaluación continua, criterial y competencial.",
+    "suitable_for": [
+      "Progreso",
+      "metacognición",
+      "evaluación criterial",
+      "acreditación."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "eportfolio",
+      "evidencias",
+      "seleccion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ANAL_DOC",
+      "TEC_PROC_REFLEX",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_MAP_EVID",
+      "HER_BANCO_EVID",
+      "HER_ESC_PROG",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_CRIT",
+      "DIM_CONT",
+      "DIM_FEED",
+      "DIM_CAL_ACRED",
+      "DIM_COMPART",
+      "DIM_INCL",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ANAL_DOC": "principal",
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_TRIANG": "principal"
+      },
+      "rel_dim": {
+        "DIM_CRIT": "principal",
+        "DIM_CONT": "principal",
+        "DIM_FEED": "complementaria",
+        "DIM_CAL_ACRED": "complementaria",
+        "DIM_COMPART": "complementaria",
+        "DIM_INCL": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_MAP_EVID": "principal",
+        "HER_BANCO_EVID": "principal",
+        "HER_ESC_PROG": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_CUAD_CAMPO",
+    "entity_type": "instrumento",
+    "name": "Cuaderno de campo",
+    "type": "Producción escrita/observacional",
+    "summary": "Registro de observaciones, datos y reflexiones durante actividades en el exterior o entorno real.",
+    "desc": "El cuaderno de campo es el registro que elabora el alumno durante actividades realizadas fuera del aula: salidas de campo, visitas, estudios del entorno o actividades en espacios naturales. A diferencia del cuaderno de clase (INS_CUADERNO), documenta observaciones en tiempo real en contextos no controlados; a diferencia del informe de laboratorio (INS_INFO_LAB), no sigue una estructura experimental cerrada, sino que recoge notas, croquis, medidas y reflexiones sobre la marcha.\n\nCómo usarlo para evaluar: el alumno registra observaciones directas, datos medidos, dibujos o croquis, preguntas emergentes y reflexiones iniciales. El docente evalúa la precisión y completitud de las observaciones, la capacidad de registrar datos relevantes y la calidad de la reflexión sobre lo observado. Una guía de corrección con los elementos esperados orienta la evaluación de forma coherente.\n\nEs especialmente útil en ciencias naturales, geografía, educación ambiental, historia local y cualquier materia que trabaje con el entorno como fuente de aprendizaje. Su valor radica en que la evidencia se genera en el lugar de los hechos, lo que aporta autenticidad y contextualización difícilmente reproducibles en el aula.",
+    "suitable_for": [
+      "Observación in situ",
+      "registro de datos",
+      "conexión con el entorno natural o social."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "campo",
+      "exterior",
+      "observacion",
+      "naturaleza"
+    ],
+    "modality": "Presencial",
+    "location": "Exterior / Laboratorio / Aula",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_PROD",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_LISTA",
+      "HER_NOTAS_CAMPO",
+      "HER_RUB_ANA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_COMP",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_PROD": "complementaria",
+        "TEC_PROC_REFLEX": "ocasional"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_NOTAS_CAMPO": "complementaria",
+        "HER_RUB_ANA": "ocasional",
+        "HER_DECL_IA": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MICROVIDEO",
+    "entity_type": "instrumento",
+    "name": "Microvídeo educativo",
+    "type": "Producción audiovisual",
+    "summary": "Vídeo breve (60–90 s) que explica, divulga o argumenta sobre un tema.",
+    "desc": "El microvídeo educativo es una producción audiovisual de corta duración (habitualmente entre 60 y 90 segundos) en la que el alumno explica un concepto, argumenta una posición, resume un tema o comunica resultados de forma sintética y directa. Se diferencia del vídeo convencional (INS_VIDEO) por la exigencia de condensar el mensaje al máximo; y del videotutorial (INS_TUTORIAL) en que no sigue necesariamente una estructura procedimental paso a paso.\n\nCómo usarlo para evaluar: se valoran la claridad y precisión del mensaje, la adecuación al destinatario, la estructura narrativa dentro del tiempo reducido, la corrección del contenido y la calidad técnica básica (imagen, sonido). Una rúbrica analítica que diferencie contenido y producción permite retroalimentación específica. La coevaluación entre compañeros es especialmente natural en este formato.\n\nEs motivador para alumnado que aprende mejor mediante formatos visuales y orales que escritos. Desarrolla la competencia digital, la comunicación y la capacidad de síntesis.",
+    "suitable_for": [
+      "Síntesis",
+      "comunicación concisa",
+      "creatividad",
+      "competencia digital."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "video",
+      "corto",
+      "reel",
+      "divulgacion",
+      "digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio / Exterior",
+    "grouping": "Individual / Parejas",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_RUB_PROD",
+      "HER_LISTA",
+      "HER_FICHA_COEV",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_COMP",
+      "DIM_DESEMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_RUB_PROD": "complementaria",
+        "HER_LISTA": "complementaria",
+        "HER_FICHA_COEV": "ocasional",
+        "HER_DECL_IA": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_DESEMP": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_BIT_IA",
+    "entity_type": "instrumento",
+    "name": "Bitácora de proceso con IA",
+    "type": "Digital/proceso",
+    "summary": "Registro del proceso de trabajo, uso de IA, fuentes, versiones y decisiones tomadas.",
+    "desc": "La bitácora de proceso con IA es una evidencia en la que el alumno documenta cómo ha elaborado una tarea cuando ha podido usar herramientas digitales, fuentes externas o IA generativa. Recoge el recorrido de trabajo, no solo el producto final.\n\nCómo usarla para evaluar: se pide al alumnado que registre los pasos relevantes, fuentes consultadas, prompts o instrucciones usadas, respuestas aprovechadas o descartadas, cambios entre versiones, comprobaciones realizadas y decisiones propias. No es necesario guardar todo, sino las evidencias suficientes para explicar el proceso.\n\nPermite valorar autoría, pensamiento crítico, revisión, mejora y uso responsable de la IA. Conviene vincularla a criterios concretos para que no se reduzca a una declaración formal sin valor evaluativo.",
+    "suitable_for": [
+      "Proyectos",
+      "investigaciones",
+      "producciones digitales",
+      "tareas con ayuda de IA",
+      "trabajo fuera del aula."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "ia",
+      "prompts",
+      "proceso",
+      "autoria",
+      "fuentes",
+      "versiones"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_DECL_IA",
+      "HER_HIST_REV",
+      "HER_MAP_EVID",
+      "HER_RUB_PROC",
+      "HER_FICHA_RETRO",
+      "HER_BANCO_EVID"
+    ],
+    "related_dimensions": [
+      "DIM_TRAZ_IA",
+      "DIM_DIG",
+      "DIM_FORM",
+      "DIM_FEED",
+      "DIM_COMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_ANAL_DOC": "principal",
+        "TEC_INTER_DIG": "complementaria",
+        "TEC_TRIANG": "ocasional"
+      },
+      "rel_dim": {
+        "DIM_TRAZ_IA": "principal",
+        "DIM_DIG": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_FEED": "complementaria",
+        "DIM_COMP": "ocasional"
+      },
+      "rel_her": {
+        "HER_DECL_IA": "principal",
+        "HER_HIST_REV": "principal",
+        "HER_MAP_EVID": "complementaria",
+        "HER_RUB_PROC": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_BANCO_EVID": "ocasional"
+      }
+    },
+    "metac_ids": []
+  }
+]

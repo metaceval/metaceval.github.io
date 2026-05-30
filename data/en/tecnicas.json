@@ -1,0 +1,777 @@
+[
+  {
+    "id": "TEC_OBS_SIS",
+    "entity_type": "tecnica",
+    "name": "Systematic observation",
+    "summary": "Planned and documented observation of performance during an activity.",
+    "desc": "As a technique in the strict sense, this element describes a procedure for gathering evidence. It can be combined with different purposes, agents and methodological contexts.\n\nSystematic observation is a technique in which the teacher plans in advance what to observe, at which moments and with which recording instrument. It is not a matter of looking in a generic way, but of attending to specific, observable criteria while students are performing.\n\nHow to apply it: before the session, the indicators to be observed are defined (e.g. 'uses laboratory materials correctly', 'argues with evidence', 'listens actively'). During the activity, the teacher uses a checklist, observation scale or rubric to record what they see. At the end, this information is used to give feedback, adjust teaching or contribute to grading.\n\nIt is especially useful in practical activities, debates, oral presentations, workshops and cooperative work, where the evidence of learning occurs in real time and is not captured in a physical product.",
+    "purpose": "Record actions, procedures, participation and habits.",
+    "typical_evidence": [
+      "Oral performances, practical work, group work, participation."
+    ],
+    "when_to_use": "When evidence occurs in real time and reviewing a final product is not enough.",
+    "limitations": "Can be subjective if there are no clear criteria.",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "observation",
+      "performance",
+      "process"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_DEBATE",
+      "INS_EXPO",
+      "INS_LAB",
+      "INS_TALLER",
+      "INS_TRAB_COOP",
+      "INS_SIM",
+      "INS_TRAB_IND",
+      "INS_PART",
+      "INS_ASAM",
+      "INS_DRAMA",
+      "INS_PROTOTIPO",
+      "INS_CUAD_CAMPO"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_RUB_ANA",
+      "HER_REG_ANE"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TRAB_IND": "principal",
+        "INS_TRAB_COOP": "principal",
+        "INS_PART": "principal",
+        "INS_DEBATE": "complementaria",
+        "INS_ASAM": "complementaria",
+        "INS_LAB": "principal",
+        "INS_TALLER": "principal",
+        "INS_SIM": "principal",
+        "INS_DRAMA": "principal",
+        "INS_EXPO": "complementaria",
+        "INS_PROTOTIPO": "complementaria",
+        "INS_CUAD_CAMPO": "complementaria"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_RUB_ANA": "complementaria",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_OBS_INC",
+    "entity_type": "tecnica",
+    "name": "Incidental observation",
+    "summary": "Recording of relevant events that arise unexpectedly.",
+    "desc": "As a technique in the strict sense, this element describes a procedure for gathering evidence. It can be combined with different purposes, agents and methodological contexts.\n\nIncidental observation records relevant events that emerge spontaneously during everyday classroom activity, without the teacher having anticipated them. A perceptive comment, a recurring difficulty, a group conflict or an unexpected initiative are all examples of incidental evidence.\n\nHow to apply it: the teacher should always have an anecdotal record, a notebook or an application to hand in which to briefly note the date, the student's name and the observed event. These notes, accumulated over time, reveal patterns of behaviour, progress or difficulties that planned observation might not capture.\n\nIt does not replace systematic observation, but complements it by providing unexpected evidence and qualitative insights into the learning process.",
+    "purpose": "Detect progress, difficulties or significant incidents.",
+    "typical_evidence": [
+      "Behaviours, comments, conflicts, initiatives, doubts."
+    ],
+    "when_to_use": "When an unforeseen but relevant piece of evidence appears.",
+    "limitations": "Does not replace systematic observation.",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "observation",
+      "incidental"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_TRAB_IND",
+      "INS_PART",
+      "INS_TRAB_COOP"
+    ],
+    "related_tools": [
+      "HER_REG_ANE",
+      "HER_NOTAS_CAMPO",
+      "HER_DIARIO_PROF"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TRAB_IND": "principal",
+        "INS_PART": "complementaria",
+        "INS_TRAB_COOP": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_ANE": "principal",
+        "HER_NOTAS_CAMPO": "complementaria",
+        "HER_DIARIO_PROF": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_PROD",
+    "entity_type": "tecnica",
+    "name": "Analysis of productions",
+    "summary": "Assessment of products created by students.",
+    "desc": "As a technique in the strict sense, this element describes a procedure for gathering evidence. It can be combined with different purposes, agents and methodological contexts.\n\nThe analysis of productions consists in assessing the artefacts or products created by students: written texts, reports, projects, presentations, videos, concept maps, scale models, portfolios or any other tangible or digital product.\n\nHow to apply it: the criteria to be assessed and the instrument to be used (rubric, correction guide, descriptive scale) are defined in advance. The review can be done outside class time, which allows the teacher to dedicate more time and attention than during live observation. It is essential to return written feedback that explains not only the level achieved, but what can be improved and how.\n\nWhen the final product does not reflect the full learning (because the process was complex or the work was done in a group), it is advisable to complement it with process monitoring, drafts or brief interviews.",
+    "purpose": "Assess quality, content, structure, process and transfer.",
+    "typical_evidence": [
+      "Texts, reports, projects, videos, maps, infographics, portfolios."
+    ],
+    "when_to_use": "When there is an assessable product or artefact.",
+    "limitations": "Does not show the full process if not accompanied by ongoing monitoring.",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "production",
+      "product"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_CUADERNO",
+      "INS_INFO_LAB",
+      "INS_DEF_PROY",
+      "INS_ENSAYO",
+      "INS_INFOG",
+      "INS_VIDEO",
+      "INS_PODCAST",
+      "INS_MAQUETA",
+      "INS_PORT",
+      "INS_INFO_INV",
+      "INS_MONO",
+      "INS_COM_TEXT",
+      "INS_COM_GRAF",
+      "INS_RESUMEN",
+      "INS_ESQUEMA",
+      "INS_MAP_CONC",
+      "INS_MAP_MENT",
+      "INS_LINEA",
+      "INS_GLOS",
+      "INS_FICHA_LECT",
+      "INS_RESEÑA",
+      "INS_ART_DIV",
+      "INS_MEM_PROY",
+      "INS_CASO",
+      "INS_DOCS",
+      "INS_POSTER",
+      "INS_PRESENT_DIG",
+      "INS_TUTORIAL",
+      "INS_COMIC",
+      "INS_MODELO_DIG",
+      "INS_PROTOTIPO",
+      "INS_WEB",
+      "INS_BLOG",
+      "INS_DOC_COL",
+      "INS_PORT_DIG",
+      "INS_MAP_INI",
+      "INS_BORR",
+      "INS_ENT_PAR",
+      "INS_CUAD_CAMPO",
+      "INS_MICROVIDEO"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_ESC_DESC",
+      "HER_FICHA_RETRO"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_CUADERNO": "principal",
+        "INS_PORT": "principal",
+        "INS_INFO_LAB": "principal",
+        "INS_INFO_INV": "principal",
+        "INS_MONO": "principal",
+        "INS_ENSAYO": "principal",
+        "INS_COM_TEXT": "principal",
+        "INS_COM_GRAF": "principal",
+        "INS_RESUMEN": "principal",
+        "INS_ESQUEMA": "principal",
+        "INS_MAP_CONC": "principal",
+        "INS_MAP_MENT": "principal",
+        "INS_LINEA": "principal",
+        "INS_GLOS": "principal",
+        "INS_FICHA_LECT": "principal",
+        "INS_RESEÑA": "principal",
+        "INS_ART_DIV": "principal",
+        "INS_MEM_PROY": "principal",
+        "INS_CASO": "complementaria",
+        "INS_DOCS": "complementaria",
+        "INS_INFOG": "principal",
+        "INS_POSTER": "principal",
+        "INS_PRESENT_DIG": "principal",
+        "INS_VIDEO": "principal",
+        "INS_TUTORIAL": "principal",
+        "INS_COMIC": "principal",
+        "INS_MAQUETA": "principal",
+        "INS_MODELO_DIG": "principal",
+        "INS_PROTOTIPO": "principal",
+        "INS_WEB": "principal",
+        "INS_BLOG": "principal",
+        "INS_DOC_COL": "complementaria",
+        "INS_PORT_DIG": "complementaria",
+        "INS_MAP_INI": "complementaria",
+        "INS_BORR": "complementaria",
+        "INS_ENT_PAR": "complementaria",
+        "INS_DEF_PROY": "complementaria",
+        "INS_PODCAST": "complementaria",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_MICROVIDEO": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_ESC_DESC": "complementaria",
+        "HER_FICHA_RETRO": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_PRUEBA",
+    "entity_type": "tecnica",
+    "name": "Specific tests",
+    "summary": "Situations specifically designed to check learning.",
+    "desc": "As a technique in the strict sense, this element describes a procedure for gathering evidence. It can be combined with different purposes, agents and methodological contexts.\n\nSpecific tests are situations specifically designed to check learning under controlled conditions. They include written development tests, multiple choice tests, short answer tests, oral tests and practical tests.\n\nHow to apply them: the design must be aligned with the assessment criteria and the knowledge covered. Each question or task should be linked to a specific criterion. It is recommended to share the correction criteria in advance (or at least the type of task) so that students can prepare in an oriented way.\n\nThey are useful for accrediting achievements and comparing results, but should not be the only assessment instrument. Combined with other evidence (productions, observation, self-assessment), they offer a more complete and fair picture of learning.",
+    "purpose": "Check knowledge, application, reasoning or skills.",
+    "typical_evidence": [
+      "Written, oral or practical responses under controlled conditions."
+    ],
+    "when_to_use": "When a specific or comparable check is needed.",
+    "limitations": "Can reduce assessment if used as the only evidence.",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "test",
+      "check"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_PR_DES",
+      "INS_TEST",
+      "INS_PR_ORAL",
+      "INS_PR_PRACT",
+      "INS_CUEST_DIG",
+      "INS_COM_TEXT",
+      "INS_PROB",
+      "INS_CASO",
+      "INS_PR_OBJ",
+      "INS_RESP_CORTA",
+      "INS_PR_COMP",
+      "INS_DOCS"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_BAREMO",
+      "HER_PLANT_CORR",
+      "HER_RUB_ANA",
+      "HER_ESC_NUM"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_COM_TEXT": "complementaria",
+        "INS_PROB": "principal",
+        "INS_CASO": "principal",
+        "INS_PR_DES": "principal",
+        "INS_PR_OBJ": "principal",
+        "INS_TEST": "principal",
+        "INS_RESP_CORTA": "principal",
+        "INS_PR_ORAL": "complementaria",
+        "INS_PR_PRACT": "principal",
+        "INS_PR_COMP": "principal",
+        "INS_DOCS": "principal",
+        "INS_CUEST_DIG": "principal"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_BAREMO": "complementaria",
+        "HER_PLANT_CORR": "complementaria",
+        "HER_RUB_ANA": "complementaria",
+        "HER_ESC_NUM": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_ORAL",
+    "entity_type": "tecnica",
+    "name": "Oral exchanges",
+    "summary": "Gathering evidence through oral communication.",
+    "desc": "As a technique in the strict sense, this element describes a procedure for gathering evidence. It can be combined with different purposes, agents and methodological contexts.\n\nOral exchanges are situations in which the teacher gathers learning evidence through oral communication: questions to the group, guided debates, colloquia, individual interviews or project defences.\n\nHow to apply them: it is advisable to plan the questions or script before the session and have a recording instrument ready (oral rubric, observation scale, checklist). If the exchange is a group activity, it is difficult to observe everyone at once; the focus of attention can be alternated or the session recorded for later review (with appropriate permissions).\n\nThey allow for the assessment of deep comprehension, argumentation, synthesis ability, fluency and oral expression — aspects that a written test does not capture. They also allow the teacher to ask follow-up questions to explore underlying reasoning.",
+    "purpose": "Assess comprehension, argumentation, expression and dialogue.",
+    "typical_evidence": [
+      "Contributions, responses, debates, defences, interviews."
+    ],
+    "when_to_use": "When assessing communication, verbal reasoning or interaction.",
+    "limitations": "Can depend on emotional factors.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "orality",
+      "communication"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_DEBATE",
+      "INS_COLOQ",
+      "INS_ENTREV",
+      "INS_EXPO",
+      "INS_DEF_PROY",
+      "INS_ASAM",
+      "INS_ROL",
+      "INS_PREG_ORAL",
+      "INS_PR_ORAL",
+      "INS_PRESENT_DIG",
+      "INS_PODCAST",
+      "INS_FORO",
+      "INS_LLUVIA",
+      "INS_MICROVIDEO"
+    ],
+    "related_tools": [
+      "HER_RUB_ORAL",
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_REG_ANE"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_DEBATE": "principal",
+        "INS_COLOQ": "principal",
+        "INS_ASAM": "principal",
+        "INS_ROL": "complementaria",
+        "INS_EXPO": "principal",
+        "INS_DEF_PROY": "principal",
+        "INS_ENTREV": "principal",
+        "INS_PREG_ORAL": "principal",
+        "INS_PR_ORAL": "principal",
+        "INS_PRESENT_DIG": "complementaria",
+        "INS_PODCAST": "principal",
+        "INS_FORO": "principal",
+        "INS_LLUVIA": "complementaria",
+        "INS_MICROVIDEO": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ORAL": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "complementaria",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_SONDEO",
+    "entity_type": "tecnica",
+    "name": "Probing and questioning",
+    "summary": "Quick collection of responses, prior ideas or comprehension through brief questions.",
+    "desc": "As a technique in the strict sense, probing and questioning consists of gathering evidence through brief questions, oral or written, designed to make visible what students know, believe they know, do not understand or have just learned.\n\nHow to apply it: the teacher poses a question, a KPSI, an exit ticket, a brainstorming activity or a brief questionnaire. Responses are recorded with a simple instrument and analysed to decide whether to move forward, review, regroup, clarify or provide feedback.\n\nIt is especially useful in diagnostic and formative assessment, because it provides quick, actionable information. It should not be confused with a long test nor used only for grading.",
+    "purpose": "Explore prior knowledge, check immediate comprehension and detect adjustment needs.",
+    "typical_evidence": [
+      "Brief responses, oral questions, initial questionnaires, KPSI, exit tickets, brainstorming."
+    ],
+    "when_to_use": "When quick information is needed to start, adjust or close a session without turning the activity into an extensive test.",
+    "limitations": "Can yield superficial evidence if questions are not well formulated or are not used afterwards to make teaching decisions.",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "questions",
+      "probing",
+      "diagnostic",
+      "check",
+      "exit"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_KPSI",
+      "INS_MAP_INI",
+      "INS_LLUVIA",
+      "INS_BILLETE",
+      "INS_PREG_ORAL",
+      "INS_CUEST_DIG",
+      "INS_RESP_CORTA",
+      "INS_TEST",
+      "INS_SEMAF"
+    ],
+    "related_tools": [
+      "HER_FORM_DIG",
+      "HER_ESC_AUTO",
+      "HER_LISTA",
+      "HER_REG_DESC",
+      "HER_HOJA_IND"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_PREG_ORAL": "complementaria",
+        "INS_TEST": "complementaria",
+        "INS_RESP_CORTA": "complementaria",
+        "INS_CUEST_DIG": "complementaria",
+        "INS_KPSI": "principal",
+        "INS_MAP_INI": "principal",
+        "INS_LLUVIA": "principal",
+        "INS_SEMAF": "complementaria",
+        "INS_BILLETE": "principal"
+      },
+      "rel_her": {
+        "HER_FORM_DIG": "principal",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_LISTA": "complementaria",
+        "HER_REG_DESC": "complementaria",
+        "HER_HOJA_IND": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_PROC_REFLEX",
+    "entity_type": "tecnica",
+    "name": "Analysis of processes and reflections",
+    "summary": "Review of intermediate evidence, process records and student reflections.",
+    "desc": "As a technique in the strict sense, the analysis of processes and reflections consists of reviewing evidence that shows how learning has developed: planning, drafts, decisions, difficulties, revisions, comments received and improvement commitments.\n\nHow to apply it: collection moments are selected during the task, and journals, logbooks, partial submissions, reflection cards or peer reviews are reviewed using a process rubric, scale or feedback card.\n\nIt is especially useful in projects, portfolios, cooperative work and complex tasks, because it allows assessment of the learning journey and guides improvement before the final submission.",
+    "purpose": "Understand how students learn, plan, revise, cooperate and improve during a task.",
+    "typical_evidence": [
+      "Journals, logbooks, drafts, partial submissions, reflection cards, self-reports, peer reviews."
+    ],
+    "when_to_use": "When it is important to assess learning during the process and not only the final product.",
+    "limitations": "Requires ongoing monitoring and clear criteria to avoid becoming a mere accumulation of documents.",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "process",
+      "reflection",
+      "metacognition",
+      "drafts",
+      "monitoring"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_instruments": [
+      "INS_DIARIO",
+      "INS_F_REFLEX",
+      "INS_AUTOINF",
+      "INS_BORR",
+      "INS_ENT_PAR",
+      "INS_BIT",
+      "INS_REV_PARES",
+      "INS_2E1D",
+      "INS_SEMAF",
+      "INS_PLAN_TRAB",
+      "INS_ACTA",
+      "INS_CONTRATO",
+      "INS_DOC_COL",
+      "INS_PORT",
+      "INS_PORT_DIG",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_RUB_PROC",
+      "HER_FICHA_RETRO",
+      "HER_HOJA_IND",
+      "HER_REG_COMP",
+      "HER_ESC_AUTO",
+      "HER_HIST_REV",
+      "HER_PANEL",
+      "HER_DECL_IA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_DIARIO": "principal",
+        "INS_PLAN_TRAB": "principal",
+        "INS_ACTA": "principal",
+        "INS_CONTRATO": "principal",
+        "INS_F_REFLEX": "principal",
+        "INS_AUTOINF": "principal",
+        "INS_DOC_COL": "principal",
+        "INS_BORR": "principal",
+        "INS_ENT_PAR": "principal",
+        "INS_BIT": "principal",
+        "INS_REV_PARES": "principal",
+        "INS_2E1D": "principal",
+        "INS_SEMAF": "principal",
+        "INS_PORT": "complementaria",
+        "INS_PORT_DIG": "complementaria",
+        "INS_BIT_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_PROC": "principal",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_REG_COMP": "complementaria",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_HIST_REV": "complementaria",
+        "HER_PANEL": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_ENTREV_EVAL",
+    "entity_type": "tecnica",
+    "name": "Evaluative interview",
+    "summary": "Planned conversation to explore comprehension, reasoning or process.",
+    "desc": "The evaluative interview is a conversation with an assessment purpose, prepared with questions or observation focuses. It allows exploration of how the student reasons, what decisions they made and what understanding underpins a production.\n\nHow to apply it: a brief script is defined, responses are recorded with a guide or oral rubric and questions are kept comparable across students. It can be used in project defences, portfolios or review of complex work.\n\nIt is useful for obtaining deep evidence, but must be planned to avoid excessive improvisation or unfair differences between interviews.",
+    "purpose": "Delve into evidence that is not clear from a product or test.",
+    "typical_evidence": [
+      "Oral responses, explanations, arguments, process decisions."
+    ],
+    "when_to_use": "When it is necessary to probe student reasoning or verify authorship and comprehension.",
+    "limitations": "Time-consuming and requires a common script to ensure fairness.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "interview",
+      "oral",
+      "inquiry"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_ENTREV",
+      "INS_DEF_PROY",
+      "INS_PORT_DIG"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_ORAL",
+      "HER_REG_ANE",
+      "HER_GUIA_OBS"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_ENTREV": "principal",
+        "INS_DEF_PROY": "complementaria",
+        "INS_PORT_DIG": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "complementaria",
+        "HER_RUB_ORAL": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_GUIA_OBS": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_ENC_CUEST",
+    "entity_type": "tecnica",
+    "name": "Survey and questionnaire",
+    "summary": "Structured collection of responses through closed or open questions.",
+    "desc": "Surveys and questionnaires collect responses in a structured way. They can be used for diagnostic, formative or summative purposes depending on the design of the questions.\n\nHow to apply them: clear items are drafted, it is decided whether responses will be anonymous or identified, and results are analysed to make teaching decisions. In assessment, it is important to distinguish between perception questionnaires and knowledge tests.\n\nThey are useful for their speed and comparability, but should not replace richer evidence when complex learning is being assessed.",
+    "purpose": "Obtain quick information about knowledge, perceptions, interests or monitoring.",
+    "typical_evidence": [
+      "Questionnaires, forms, initial surveys, perception scales."
+    ],
+    "when_to_use": "When comparable and easy-to-analyse information is needed from the whole group.",
+    "limitations": "Quality depends greatly on question formulation.",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "survey",
+      "questionnaire",
+      "form"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_instruments": [
+      "INS_CUEST_DIG",
+      "INS_KPSI",
+      "INS_BILLETE"
+    ],
+    "related_tools": [
+      "HER_FORM_DIG",
+      "HER_ESC_AUTO",
+      "HER_PLANT_CORR"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_CUEST_DIG": "principal",
+        "INS_KPSI": "principal",
+        "INS_BILLETE": "complementaria"
+      },
+      "rel_her": {
+        "HER_FORM_DIG": "principal",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_PLANT_CORR": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_ANAL_DOC",
+    "entity_type": "tecnica",
+    "name": "Documentary analysis",
+    "summary": "Review of documents, records and accumulated evidence.",
+    "desc": "Documentary analysis consists of reviewing documents and records generated during learning: notebooks, portfolios, minutes, edit histories or evidence repositories.\n\nHow to apply it: relevant documents are selected, contrasted with criteria or indicators, and care is taken to avoid assessing only the quantity of accumulated material. The evidence map helps identify which document supports each criterion.\n\nIt is a useful technique for continuous and criteria-based assessment, especially when the process leaves verifiable traces.",
+    "purpose": "Interpret already-produced information to assess progress, coherence or traceability.",
+    "typical_evidence": [
+      "Notebooks, portfolios, minutes, revision histories, evidence banks."
+    ],
+    "when_to_use": "When learning is documented in accumulated records or products.",
+    "limitations": "Can overvalue what is documented and leave out unrecorded actions.",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "documentary",
+      "evidence",
+      "records"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_instruments": [
+      "INS_CUADERNO",
+      "INS_PORT_DIG",
+      "INS_ACTA",
+      "INS_DOC_COL",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_MAP_EVID",
+      "HER_HIST_REV",
+      "HER_BANCO_EVID",
+      "HER_DECL_IA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_CUADERNO": "principal",
+        "INS_PORT_DIG": "principal",
+        "INS_ACTA": "complementaria",
+        "INS_DOC_COL": "complementaria",
+        "INS_BIT_IA": "principal"
+      },
+      "rel_her": {
+        "HER_MAP_EVID": "principal",
+        "HER_HIST_REV": "complementaria",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_INTER_DIG",
+    "entity_type": "tecnica",
+    "name": "Analysis of digital interactions",
+    "summary": "Interpretation of participation, traces and collaboration in digital environments.",
+    "desc": "The analysis of digital interactions studies how students participate in digital spaces: contributions to shared documents, forums, comments, submissions, reviews and activity on platforms.\n\nHow to apply it: it is decided which traces are relevant to the criteria, histories or dashboards are reviewed and results are triangulated with products and teacher observation. Not all digital activity implies learning, so it must be interpreted with caution.\n\nIt is especially useful in collaborative projects and digital portfolios.",
+    "purpose": "Assess participation, contribution and process on platforms or shared documents.",
+    "typical_evidence": [
+      "Forums, comments, edit histories, analytics, messages and digital submissions."
+    ],
+    "when_to_use": "When work is carried out in digital environments that leave useful traces.",
+    "limitations": "Digital traces require pedagogical interpretation and respect for privacy.",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "digital",
+      "interaction",
+      "traces",
+      "collaboration"
+    ],
+    "modality": "Online",
+    "location": "Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_FORO",
+      "INS_DOC_COL",
+      "INS_CUAD_DIG",
+      "INS_PORT_DIG",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_HIST_REV",
+      "HER_ANALITICAS",
+      "HER_PANEL"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_FORO": "principal",
+        "INS_DOC_COL": "principal",
+        "INS_CUAD_DIG": "complementaria",
+        "INS_PORT_DIG": "complementaria",
+        "INS_BIT_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_HIST_REV": "principal",
+        "HER_ANALITICAS": "complementaria",
+        "HER_PANEL": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "TEC_TRIANG",
+    "entity_type": "tecnica",
+    "name": "Evidence triangulation",
+    "summary": "Contrasting several pieces of evidence to make a more robust assessment decision.",
+    "desc": "Evidence triangulation consists of contrasting several sources before making a decision: observation, production, test, interview, self-assessment or process record.\n\nHow to apply it: identify which criterion is to be assessed, what evidence demonstrates it and whether the evidence is sufficient and consistent with each other. If evidence is inconsistent, analyse which is more valid or whether it is worth gathering additional evidence.\n\nIt is key in competency-based and criteria-based assessment, because it avoids making decisions based on a single isolated task.",
+    "purpose": "Increase validity and reliability by combining products, observations, tests and reflections.",
+    "typical_evidence": [
+      "Rubrics, records, tests, portfolios, interviews, self-assessments."
+    ],
+    "when_to_use": "When a single piece of evidence is insufficient to assess a criterion or competency.",
+    "limitations": "Requires deciding which evidence carries more weight and avoiding duplication of the same evidence.",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "triangulation",
+      "evidence",
+      "validity"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_TAREA_COMP_INT",
+      "INS_EPORT_SEL",
+      "INS_PR_COMP",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_MAP_EVID",
+      "HER_TAB_CRIT",
+      "HER_PERFIL_LOGRO",
+      "HER_DECL_IA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TAREA_COMP_INT": "principal",
+        "INS_EPORT_SEL": "principal",
+        "INS_PR_COMP": "complementaria",
+        "INS_BIT_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_MAP_EVID": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_PERFIL_LOGRO": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  }
+]

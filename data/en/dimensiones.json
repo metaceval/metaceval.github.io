@@ -1,0 +1,1540 @@
+[
+  {
+    "id": "DIM_AUTO",
+    "entity_type": "dimension",
+    "name": "Self-assessment",
+    "category": "Agente evaluador",
+    "summary": "Students' assessment of their own learning.",
+    "desc": "This dimension indicates who participates in the assessment of evidence. It does not determine the instrument on its own, but rather the role of the teacher, the students or peers in the assessment process.\n\nSelf-assessment is the process by which students assess their own learning, their work process or the result they have produced, using previously established and understood criteria.\n\nHow to apply it: it is not about asking for a free opinion ('did you enjoy it?'), but about providing a scale, rubric or list of specific indicators and asking students to apply them honestly to their own performance. It is advisable that they have previously seen examples of how those criteria are applied and discussed what each level means.\n\nIts main value is metacognitive: it requires students to reflect on what they know, what they find difficult and how they can improve. When combined with the teacher's assessment, it allows discrepancies to be identified and self-regulation to be developed.",
+    "pedagogic_function": "Foster metacognition, autonomy and self-regulation.",
+    "typical_evidence": [
+      "Reflections, scales, journals, self-reports, KPSI."
+    ],
+    "when_to_use": "When students are expected to become aware of their own progress.",
+    "precautions": "Requires training to avoid superficial responses.",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Alumno",
+    "tags": [
+      "self-assessment",
+      "metacognition"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_instruments": [
+      "INS_DIARIO",
+      "INS_PORT",
+      "INS_CONTRATO",
+      "INS_F_REFLEX",
+      "INS_AUTOINF",
+      "INS_KPSI",
+      "INS_SEMAF",
+      "INS_BILLETE",
+      "INS_CHECK_LAB"
+    ],
+    "related_tools": [
+      "HER_ESC_AUTO",
+      "HER_DIANA",
+      "HER_RUB_AUTO",
+      "HER_LISTA",
+      "HER_SEMAFORO",
+      "HER_LISTA_AUTO",
+      "HER_REG_COMP"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_DIARIO": "principal",
+        "INS_PORT": "complementaria",
+        "INS_CONTRATO": "principal",
+        "INS_F_REFLEX": "principal",
+        "INS_AUTOINF": "principal",
+        "INS_KPSI": "complementaria",
+        "INS_SEMAF": "principal",
+        "INS_BILLETE": "complementaria",
+        "INS_CHECK_LAB": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_DIANA": "principal",
+        "HER_SEMAFORO": "principal",
+        "HER_ESC_AUTO": "principal",
+        "HER_RUB_AUTO": "principal",
+        "HER_LISTA_AUTO": "principal",
+        "HER_REG_COMP": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_COEV",
+    "entity_type": "dimension",
+    "name": "Peer assessment",
+    "category": "Agente evaluador",
+    "summary": "Assessment of peers' performance or product using shared criteria.",
+    "desc": "This dimension indicates who participates in the assessment of evidence. It does not determine the instrument on its own, but rather the role of the teacher, the students or peers in the assessment process.\n\nPeer assessment is the assessment students make of the work or performance of their classmates, using shared criteria. It is a form of assessment among peers that, when well designed, improves understanding of criteria and develops critical thinking.\n\nHow to apply it: criteria must be clear, specific and have been worked on beforehand. It is recommended to start with tasks where assessing others' work is relatively straightforward (e.g. checking whether an outline includes the required elements) before moving on to more complex assessments. To reduce friendship bias, it can be done anonymously or in a cross-assessment format.\n\nIts main function is formative: peer comments, combined with clear criteria, help to improve work before the final submission. It should only contribute to grading when students have sufficient practice and confidence in the process.",
+    "pedagogic_function": "Improve work, understand criteria and learn among peers.",
+    "typical_evidence": [
+      "Comments, reviews, scales, rubrics between peers."
+    ],
+    "when_to_use": "When introducing peer assessment and draft improvement.",
+    "precautions": "Can be unreliable without clear criteria.",
+    "phase": "Proceso/Final",
+    "participation": "Iguales",
+    "tags": [
+      "peer assessment",
+      "peers"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Parejas / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_TRAB_COOP",
+      "INS_DEBATE",
+      "INS_ASAM",
+      "INS_EXPO",
+      "INS_ACTA",
+      "INS_DOC_COL",
+      "INS_REV_PARES",
+      "INS_2E1D"
+    ],
+    "related_tools": [
+      "HER_RUB_COEV",
+      "HER_ESC_OBS",
+      "HER_FORM_DIG",
+      "HER_RUB_ORAL",
+      "HER_RUB_COOP",
+      "HER_REG_COOP",
+      "HER_FICHA_COEV"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TRAB_COOP": "principal",
+        "INS_DEBATE": "complementaria",
+        "INS_ASAM": "complementaria",
+        "INS_EXPO": "complementaria",
+        "INS_ACTA": "principal",
+        "INS_DOC_COL": "complementaria",
+        "INS_REV_PARES": "principal",
+        "INS_2E1D": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ORAL": "complementaria",
+        "HER_RUB_COOP": "principal",
+        "HER_ESC_OBS": "principal",
+        "HER_REG_COOP": "principal",
+        "HER_RUB_COEV": "principal",
+        "HER_FICHA_COEV": "principal",
+        "HER_FORM_DIG": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_HET",
+    "entity_type": "dimension",
+    "name": "Teacher assessment",
+    "category": "Agente evaluador",
+    "summary": "Assessment carried out by the teacher or another external agent.",
+    "desc": "This dimension indicates who participates in the assessment of evidence. It does not determine the instrument on its own, but rather the role of the teacher, the students or peers in the assessment process.\n\nTeacher assessment is the assessment carried out by the teacher or another external agent (an expert, a family member, another teacher). It is the most common form of assessment in the school system.\n\nHow to apply it: for it to be fair and transparent, it must be based on explicit criteria known by students in advance. The use of rubrics, correction guides or descriptive scales reduces subjectivity and facilitates consistency across different corrections. The feedback accompanying the assessment is just as important as the grade.\n\nIt should not be the only form of assessment: combining it with self-assessment and peer assessment offers a more complete picture of learning and fosters student autonomy and responsibility.",
+    "pedagogic_function": "Assess learning using professional or institutional criteria.",
+    "typical_evidence": [
+      "Any evidence gathered by the teacher."
+    ],
+    "when_to_use": "When teacher assessment or grading is required.",
+    "precautions": "Should not exclude self-assessment and peer assessment.",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "teacher assessment"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_LAB",
+      "INS_EXPO",
+      "INS_DEF_PROY",
+      "INS_PORT",
+      "INS_INFO_LAB",
+      "INS_INFO_INV",
+      "INS_MONO",
+      "INS_ENSAYO",
+      "INS_PR_DES",
+      "INS_PR_OBJ",
+      "INS_TEST",
+      "INS_RESP_CORTA",
+      "INS_PR_ORAL",
+      "INS_PR_PRACT",
+      "INS_PR_COMP",
+      "INS_DOCS",
+      "INS_TRAB_COOP",
+      "INS_LIBRO_ABIERTO"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_CUAD_CAL",
+      "HER_ACTA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_LAB": "complementaria",
+        "INS_EXPO": "ocasional",
+        "INS_DEF_PROY": "complementaria",
+        "INS_PORT": "complementaria",
+        "INS_INFO_LAB": "complementaria",
+        "INS_INFO_INV": "complementaria",
+        "INS_MONO": "complementaria",
+        "INS_ENSAYO": "complementaria",
+        "INS_PR_DES": "complementaria",
+        "INS_PR_OBJ": "complementaria",
+        "INS_TEST": "complementaria",
+        "INS_RESP_CORTA": "complementaria",
+        "INS_PR_ORAL": "complementaria",
+        "INS_PR_PRACT": "complementaria",
+        "INS_PR_COMP": "complementaria",
+        "INS_DOCS": "complementaria",
+        "INS_TRAB_COOP": "complementaria",
+        "INS_LIBRO_ABIERTO": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_GUIA_CORR": "principal",
+        "HER_CUAD_CAL": "complementaria",
+        "HER_ACTA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_DIAG",
+    "entity_type": "dimension",
+    "name": "Diagnostic purpose",
+    "category": "Finalidad y momento",
+    "summary": "Gathering information about the starting point.",
+    "desc": "This dimension clarifies what information is being gathered for and at which moment of learning it makes most sense. It helps prevent a diagnostic, formative or final activity from being used inappropriately.\n\nDiagnostic assessment gathers information about students' starting point before beginning a unit, project or learning situation. Its aim is to detect prior knowledge, misconceptions, interests and needs, in order to adjust planning.\n\nHow to apply it: it can be done through open questions, KPSI (I know it / I think I know it / I don't know it), brainstorming, an initial concept map, a brief questionnaire or an exploratory task. What matters is that it is quick, non-penalising and that the results genuinely influence how teaching is subsequently designed.\n\nA good diagnostic assessment allows the teacher to start from where students actually are, not from where the curriculum says they should be, and to design activities with greater precision.",
+    "pedagogic_function": "Detect prior knowledge, interests and needs.",
+    "typical_evidence": [
+      "Prior ideas, initial responses, maps, questionnaires."
+    ],
+    "when_to_use": "Before starting a unit, project or learning situation.",
+    "precautions": "Must not be used for penalisation.",
+    "phase": "Inicial",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "diagnostic",
+      "initial"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_MAP_CONC",
+      "INS_PR_OBJ",
+      "INS_TEST",
+      "INS_RESP_CORTA",
+      "INS_KPSI",
+      "INS_MAP_INI",
+      "INS_LLUVIA"
+    ],
+    "related_tools": [],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_MAP_CONC": "principal",
+        "INS_PR_OBJ": "complementaria",
+        "INS_TEST": "complementaria",
+        "INS_RESP_CORTA": "complementaria",
+        "INS_KPSI": "principal",
+        "INS_MAP_INI": "principal",
+        "INS_LLUVIA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_FORM",
+    "entity_type": "dimension",
+    "name": "Formative purpose",
+    "category": "Finalidad y uso",
+    "summary": "Assessment during the process to improve learning.",
+    "desc": "This dimension focuses on the subsequent use of information: improving learning, accrediting achievements or making grading decisions.\n\nFormative assessment is that whose main function is to improve learning while it is in progress, not to grade at the end. It is not a type of instrument, but a function that any assessment activity can fulfil if the information it generates is used to adjust teaching or learning.\n\nHow to apply it: it involves three steps: gather evidence (observation, questions, reviewing drafts, exit tickets), analyse it to identify where each student stands in relation to the criteria, and return useful and timely feedback so that students can act on it. The key is that the feedback arrives when there is still room to improve.\n\nFormative assessment requires time and planning, but it is what has the greatest impact on learning according to educational research.",
+    "pedagogic_function": "Regulate teaching and learning through feedback.",
+    "typical_evidence": [
+      "Drafts, observations, reviews, questions, journals."
+    ],
+    "when_to_use": "During learning, before finalising grading.",
+    "precautions": "Requires time to return useful information.",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "formative",
+      "feedback"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_TRAB_IND",
+      "INS_PART",
+      "INS_COLOQ",
+      "INS_ASAM",
+      "INS_ENTREV",
+      "INS_PREG_ORAL",
+      "INS_CUADERNO",
+      "INS_DIARIO",
+      "INS_PORT",
+      "INS_RESUMEN",
+      "INS_ESQUEMA",
+      "INS_MAP_MENT",
+      "INS_GLOS",
+      "INS_FICHA_LECT",
+      "INS_PLAN_TRAB",
+      "INS_CONTRATO",
+      "INS_F_REFLEX",
+      "INS_RESP_CORTA",
+      "INS_DOC_COL",
+      "INS_LLUVIA",
+      "INS_BORR",
+      "INS_ENT_PAR",
+      "INS_BIT",
+      "INS_REV_PARES",
+      "INS_2E1D",
+      "INS_SEMAF",
+      "INS_BILLETE",
+      "INS_TRAB_COOP",
+      "INS_SEMINARIO",
+      "INS_CHECK_LAB",
+      "INS_CUAD_CAMPO",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_FICHA_RETRO",
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_ESC_VAL",
+      "HER_REG_DESC",
+      "HER_DIARIO_PROF",
+      "HER_HOJA_GRUP",
+      "HER_REG_PART",
+      "HER_NOTAS_CAMPO",
+      "HER_FICHA_VAL",
+      "HER_SEMAFORO",
+      "HER_REG_COMP",
+      "HER_ESC_VERB",
+      "HER_HIST_REV",
+      "HER_PANEL",
+      "HER_ANALITICAS",
+      "HER_BANCO_EVID",
+      "HER_ESC_PROG",
+      "HER_GUIA_OBS",
+      "HER_PLANT_FF",
+      "HER_CONTR_GRUP",
+      "HER_SOCIO"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TRAB_IND": "principal",
+        "INS_PART": "principal",
+        "INS_COLOQ": "principal",
+        "INS_ASAM": "principal",
+        "INS_ENTREV": "principal",
+        "INS_PREG_ORAL": "principal",
+        "INS_CUADERNO": "principal",
+        "INS_DIARIO": "complementaria",
+        "INS_PORT": "principal",
+        "INS_RESUMEN": "principal",
+        "INS_ESQUEMA": "principal",
+        "INS_MAP_MENT": "principal",
+        "INS_GLOS": "principal",
+        "INS_FICHA_LECT": "principal",
+        "INS_PLAN_TRAB": "principal",
+        "INS_CONTRATO": "complementaria",
+        "INS_F_REFLEX": "complementaria",
+        "INS_RESP_CORTA": "principal",
+        "INS_DOC_COL": "complementaria",
+        "INS_LLUVIA": "complementaria",
+        "INS_BORR": "principal",
+        "INS_ENT_PAR": "principal",
+        "INS_BIT": "complementaria",
+        "INS_REV_PARES": "complementaria",
+        "INS_2E1D": "complementaria",
+        "INS_SEMAF": "complementaria",
+        "INS_BILLETE": "principal",
+        "INS_TRAB_COOP": "principal",
+        "INS_SEMINARIO": "complementaria",
+        "INS_CHECK_LAB": "complementaria",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_BIT_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_LISTA": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_ESC_VAL": "principal",
+        "HER_REG_DESC": "principal",
+        "HER_DIARIO_PROF": "principal",
+        "HER_HOJA_GRUP": "principal",
+        "HER_REG_PART": "principal",
+        "HER_NOTAS_CAMPO": "principal",
+        "HER_FICHA_VAL": "complementaria",
+        "HER_FICHA_RETRO": "principal",
+        "HER_SEMAFORO": "complementaria",
+        "HER_REG_COMP": "complementaria",
+        "HER_ESC_VERB": "principal",
+        "HER_HIST_REV": "complementaria",
+        "HER_PANEL": "complementaria",
+        "HER_ANALITICAS": "complementaria",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_ESC_PROG": "complementaria",
+        "HER_GUIA_OBS": "complementaria",
+        "HER_PLANT_FF": "complementaria",
+        "HER_CONTR_GRUP": "complementaria",
+        "HER_SOCIO": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_SUM",
+    "entity_type": "dimension",
+    "name": "Summative purpose",
+    "category": "Finalidad y uso",
+    "summary": "Assessment of the degree of achievement at the end of a process.",
+    "desc": "This dimension focuses on the subsequent use of information: improving learning, accrediting achievements or making grading decisions.\n\nSummative assessment evaluates the degree of achievement reached at the end of a learning period (unit, term, project, course). Its function is to accredit, certify or summarise what has been learned and is usually expressed as a grade.\n\nHow to apply it: it must be based on varied evidence gathered during the process, not only on a final test. Ideally, the final grade integrates information from different moments and formats (productions, performances, tests, self-assessment). The use of explicit criteria, known in advance, makes grading fairer and more understandable for students.\n\nWhen combined with formative assessment throughout the process, the final grade better reflects actual learning and reduces the disproportionate weight of a single test.",
+    "pedagogic_function": "Grade, accredit or summarise learning achieved.",
+    "typical_evidence": [
+      "Final products, tests, presentations, final portfolios."
+    ],
+    "when_to_use": "At the end of a unit, term, project or course.",
+    "precautions": "Should not be the only source of information.",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "summative",
+      "grading"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_EXPO",
+      "INS_MONO",
+      "INS_ENSAYO",
+      "INS_COM_TEXT",
+      "INS_RESEÑA",
+      "INS_ART_DIV",
+      "INS_AUTOINF",
+      "INS_PR_DES",
+      "INS_PR_OBJ",
+      "INS_TEST",
+      "INS_PR_ORAL",
+      "INS_DOCS"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_BAREMO",
+      "HER_CUAD_CAL",
+      "HER_RUB_HOL",
+      "HER_RUB_PROD",
+      "HER_RUB_ORAL",
+      "HER_ESC_VAL",
+      "HER_PLANT_CORR",
+      "HER_FICHA_VAL",
+      "HER_MATRIZ",
+      "HER_TAB_CRIT",
+      "HER_MATRIZ_POND",
+      "HER_ESC_NUM",
+      "HER_ESC_VERB",
+      "HER_CONV",
+      "HER_HOJA_CALC",
+      "HER_INF_IND",
+      "HER_ACTA",
+      "HER_RUB_DIG"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_EXPO": "complementaria",
+        "INS_MONO": "principal",
+        "INS_ENSAYO": "principal",
+        "INS_COM_TEXT": "complementaria",
+        "INS_RESEÑA": "complementaria",
+        "INS_ART_DIV": "complementaria",
+        "INS_AUTOINF": "complementaria",
+        "INS_PR_DES": "principal",
+        "INS_PR_OBJ": "principal",
+        "INS_TEST": "principal",
+        "INS_PR_ORAL": "principal",
+        "INS_DOCS": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "complementaria",
+        "HER_RUB_HOL": "principal",
+        "HER_RUB_PROD": "principal",
+        "HER_RUB_ORAL": "complementaria",
+        "HER_ESC_VAL": "complementaria",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_PLANT_CORR": "principal",
+        "HER_BAREMO": "principal",
+        "HER_FICHA_VAL": "principal",
+        "HER_MATRIZ": "complementaria",
+        "HER_CUAD_CAL": "principal",
+        "HER_TAB_CRIT": "principal",
+        "HER_MATRIZ_POND": "principal",
+        "HER_ESC_NUM": "principal",
+        "HER_ESC_VERB": "complementaria",
+        "HER_CONV": "principal",
+        "HER_HOJA_CALC": "complementaria",
+        "HER_INF_IND": "principal",
+        "HER_ACTA": "principal",
+        "HER_RUB_DIG": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_COMP",
+    "entity_type": "dimension",
+    "name": "Competency-based approach",
+    "category": "Enfoque curricular",
+    "summary": "Assessment of the integrated mobilisation of knowledge in meaningful contexts.",
+    "desc": "This dimension expresses a broad curricular orientation. It affects the selection of evidence, criteria and instruments, but does not equate to a specific collection technique.\n\nCompetency-based assessment evaluates students' ability to mobilise knowledge, skills and attitudes in an integrated way in meaningful and contextualised situations. It is not limited to checking whether isolated content is known, but whether it can be applied in a real or plausible context.\n\nHow to apply it: it requires designing authentic tasks that resemble real-world or disciplinary situations. Assessment criteria must be linked to key competencies and the operational descriptors of the educational level. Competency rubrics and achievement profiles are particularly suitable tools.\n\nCompetency-based assessment involves assessing several areas of knowledge and competencies in an integrated way, which is a design challenge but offers a more faithful picture of what students are capable of doing.",
+    "pedagogic_function": "Assess application, transfer and integration.",
+    "typical_evidence": [
+      "Contextualised tasks, projects, cases, open-ended problems."
+    ],
+    "when_to_use": "When assessing specific competencies and assessment criteria.",
+    "precautions": "Requires good contexts and observable criteria.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "competency-based",
+      "transfer"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_ENSAYO",
+      "INS_COM_TEXT",
+      "INS_LINEA",
+      "INS_RESEÑA",
+      "INS_ART_DIV",
+      "INS_CASO",
+      "INS_PR_COMP",
+      "INS_DOCS",
+      "INS_INFOG",
+      "INS_POSTER",
+      "INS_COMIC",
+      "INS_LIBRO_ABIERTO",
+      "INS_TAREA_COMP_INT",
+      "INS_SIT_PROB",
+      "INS_CUAD_CAMPO",
+      "INS_MICROVIDEO",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_RUB_COMP",
+      "HER_PERFIL_LOGRO",
+      "HER_MATRIZ",
+      "HER_BANCO_DESC",
+      "HER_TAB_CRIT",
+      "HER_IND_CRIT",
+      "HER_MAP_EVID"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_ENSAYO": "complementaria",
+        "INS_COM_TEXT": "principal",
+        "INS_LINEA": "principal",
+        "INS_RESEÑA": "principal",
+        "INS_ART_DIV": "principal",
+        "INS_CASO": "complementaria",
+        "INS_PR_COMP": "principal",
+        "INS_DOCS": "principal",
+        "INS_INFOG": "principal",
+        "INS_POSTER": "principal",
+        "INS_COMIC": "principal",
+        "INS_LIBRO_ABIERTO": "principal",
+        "INS_TAREA_COMP_INT": "principal",
+        "INS_SIT_PROB": "complementaria",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_MICROVIDEO": "complementaria",
+        "INS_BIT_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_COMP": "principal",
+        "HER_MATRIZ": "principal",
+        "HER_BANCO_DESC": "principal",
+        "HER_PERFIL_LOGRO": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_IND_CRIT": "complementaria",
+        "HER_MAP_EVID": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_DESEMP",
+    "entity_type": "dimension",
+    "name": "Performance evidence",
+    "category": "Tipo de evidencia",
+    "summary": "Assessment of how students perform in a complex or practical task.",
+    "desc": "This dimension describes what kind of learning is made visible: performance, product, reasoning, process or interaction.\n\nPerformance-based assessment evaluates how students act in a complex or practical task: what decisions they make, how they organise the process, what procedures they apply and how they manage difficulties. The evidence is the observable performance, not just the result.\n\nHow to apply it: the teacher observes while students carry out the task (laboratory, workshop, simulation, debate, oral presentation) and records what they see using a performance rubric, observation scale or checklist. It is essential that the criteria are known in advance so that students know what is expected of their performance.\n\nIt is especially useful in experimental sciences, physical education, the arts, vocational training and any area where procedure and attitude are as important as the final result.",
+    "pedagogic_function": "Assess action, decision-making and application.",
+    "typical_evidence": [
+      "Observable performances, simulations, practical work, defences."
+    ],
+    "when_to_use": "When the manner of acting matters, not just the result.",
+    "precautions": "May require complementary evidence.",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "performance"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Laboratorio / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_PART",
+      "INS_COLOQ",
+      "INS_TALLER",
+      "INS_SIM",
+      "INS_EXPO",
+      "INS_DEF_PROY",
+      "INS_ENTREV",
+      "INS_PREG_ORAL",
+      "INS_PR_ORAL",
+      "INS_PR_PRACT",
+      "INS_PRESENT_DIG",
+      "INS_TUTORIAL",
+      "INS_MAQUETA",
+      "INS_PROTOTIPO",
+      "INS_TRAB_COOP",
+      "INS_SEMINARIO",
+      "INS_CHECK_LAB",
+      "INS_MICROVIDEO"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_RUB_PROD",
+      "HER_RUB_ORAL",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_GUIA_OBS"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_PART": "complementaria",
+        "INS_COLOQ": "complementaria",
+        "INS_TALLER": "principal",
+        "INS_SIM": "complementaria",
+        "INS_EXPO": "principal",
+        "INS_DEF_PROY": "principal",
+        "INS_ENTREV": "complementaria",
+        "INS_PREG_ORAL": "complementaria",
+        "INS_PR_ORAL": "complementaria",
+        "INS_PR_PRACT": "principal",
+        "INS_PRESENT_DIG": "complementaria",
+        "INS_TUTORIAL": "principal",
+        "INS_MAQUETA": "principal",
+        "INS_PROTOTIPO": "complementaria",
+        "INS_TRAB_COOP": "principal",
+        "INS_SEMINARIO": "principal",
+        "INS_CHECK_LAB": "principal",
+        "INS_MICROVIDEO": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_PROD": "complementaria",
+        "HER_RUB_ORAL": "principal",
+        "HER_LISTA": "ocasional",
+        "HER_ESC_OBS": "ocasional",
+        "HER_REG_DESC": "complementaria",
+        "HER_REG_PART": "complementaria",
+        "HER_GUIA_OBS": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_PROY",
+    "entity_type": "dimension",
+    "name": "Project-based learning",
+    "category": "Contexto metodológico",
+    "summary": "Assessment of the process and product of a project.",
+    "desc": "This dimension describes the format or didactic situation in which the evidence is generated. It can combine several collection procedures.\n\nProject-based assessment comprehensively evaluates the process and product of a project: planning, research, creation, communication of results and reflection on what has been learned.\n\nHow to apply it: it is advisable to define from the outset what will be assessed in the process (planning, organisation, revisions) and what in the final product (quality, coherence, presentation). Differentiated tools for process and product allow for fairer assessment. Partial submissions and project logbooks help make monitoring continuous and not solely dependent on the final submission.\n\nIt allows multiple competencies and criteria to be assessed in an integrated way simultaneously, including teamwork, creativity, research and communication.",
+    "pedagogic_function": "Assess planning, research, creation and communication.",
+    "typical_evidence": [
+      "Plan, logbook, partial submissions, final product, defence."
+    ],
+    "when_to_use": "When the task is developed over several days or weeks.",
+    "precautions": "Requires monitoring to avoid assessing only the final product.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales/Alumno",
+    "tags": [
+      "project"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Exterior",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_MEM_PROY",
+      "INS_PLAN_TRAB",
+      "INS_PROTOTIPO",
+      "INS_BIT",
+      "INS_TRAB_COOP"
+    ],
+    "related_tools": [
+      "HER_HOJA_IND",
+      "HER_RUB_PROC",
+      "HER_RUB_COOP",
+      "HER_HOJA_GRUP",
+      "HER_REG_COOP",
+      "HER_CONTR_GRUP"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_MEM_PROY": "principal",
+        "INS_PLAN_TRAB": "complementaria",
+        "INS_PROTOTIPO": "principal",
+        "INS_BIT": "principal",
+        "INS_TRAB_COOP": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_PROC": "complementaria",
+        "HER_RUB_COOP": "complementaria",
+        "HER_HOJA_IND": "principal",
+        "HER_HOJA_GRUP": "complementaria",
+        "HER_REG_COOP": "complementaria",
+        "HER_CONTR_GRUP": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_INDAG",
+    "entity_type": "dimension",
+    "name": "Inquiry",
+    "category": "Contexto metodológico",
+    "summary": "Assessment of processes of questioning, searching, hypothesising, data collection and conclusions.",
+    "desc": "This dimension describes the format or didactic situation in which the evidence is generated. It can combine several collection procedures.\n\nInquiry-based assessment evaluates scientific thinking processes: formulating questions, posing hypotheses, designing procedures, collecting and analysing data, and drawing evidence-based conclusions.\n\nHow to apply it: what is assessed is not only the result (whether the hypothesis was correct or incorrect), but the quality of reasoning at each phase of the process. Tools such as inquiry rubrics or process checklists allow each step to be assessed independently. Research reports and logbooks are the most common instruments.\n\nIt is especially suitable in natural sciences, social sciences and research projects, where the process of knowledge construction is as important as the result.",
+    "pedagogic_function": "Assess scientific thinking, research and analysis.",
+    "typical_evidence": [
+      "Questions, hypotheses, records, analyses, conclusions."
+    ],
+    "when_to_use": "In science, social studies and research tasks.",
+    "precautions": "May require scaffolding and appropriate sources.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "inquiry",
+      "research"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Laboratorio / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_LAB",
+      "INS_INFO_LAB",
+      "INS_INFO_INV",
+      "INS_CUAD_CAMPO"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_LISTA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_LAB": "complementaria",
+        "INS_INFO_LAB": "principal",
+        "INS_INFO_INV": "principal",
+        "INS_CUAD_CAMPO": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "ocasional",
+        "HER_GUIA_CORR": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_PROB",
+    "entity_type": "dimension",
+    "name": "Problem solving",
+    "category": "Contexto metodológico",
+    "summary": "Assessment of interpretation, planning, solving and justification.",
+    "desc": "This dimension describes the format or didactic situation in which the evidence is generated. It can combine several collection procedures.\n\nProblem-solving assessment evaluates the full process: understanding the problem statement, identifying relevant data, planning the strategy, executing it and verifying the result. It is not enough for the result to be correct; the reasoning and justification also matter.\n\nHow to apply it: problems must be contextualised and require genuine application of knowledge, not merely the reproduction of formulas or algorithms. The correction guide or rubric must assess each phase of the process, not just the final answer. Asking students to explain how they solved the problem (in writing or orally) adds valuable information about their reasoning.\n\nSuitable for mathematics, physics, chemistry, technology, economics and any area involving applied problems.",
+    "pedagogic_function": "Assess reasoning and transfer.",
+    "typical_evidence": [
+      "Procedures, calculations, explanations, decisions."
+    ],
+    "when_to_use": "In mathematics, science, technology, economics and applied cases.",
+    "precautions": "The result alone is not enough.",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "problems",
+      "reasoning"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_COM_GRAF",
+      "INS_PROB",
+      "INS_SIT_PROB",
+      "INS_ESCAPE"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_ESC_DESC"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_COM_GRAF": "principal",
+        "INS_PROB": "principal",
+        "INS_SIT_PROB": "principal",
+        "INS_ESCAPE": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_DESC": "principal",
+        "HER_GUIA_CORR": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_CASO",
+    "entity_type": "dimension",
+    "name": "Case study",
+    "category": "Contexto metodológico",
+    "summary": "Analysis of a real or simulated situation for diagnosis or decision-making.",
+    "desc": "This dimension describes the format or didactic situation in which the evidence is generated. It can combine several collection procedures.\n\nCase study presents students with a real or plausible situation that they must analyse, diagnose or make and justify decisions about. It allows for the assessment of applied comprehension, critical judgement and argumentation ability.\n\nHow to apply it: the case must be authentic, sufficiently complex and contextualised within the subject area. Students receive the situation and must answer questions or produce a structured analysis. The rubric or analysis guide must assess the quality of reasoning, the selection of relevant information and the coherence of conclusions.\n\nEspecially useful in social sciences, health, law, economics, history and any area where real-world application is central.",
+    "pedagogic_function": "Assess applied comprehension, judgement and argumentation.",
+    "typical_evidence": [
+      "Analysis, diagnosis, proposal, justification."
+    ],
+    "when_to_use": "When applying knowledge to a specific situation is of interest.",
+    "precautions": "The quality of the case influences the assessment.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "case",
+      "application"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_CASO"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_DESC"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_CASO": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "complementaria",
+        "HER_ESC_DESC": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_SIM",
+    "entity_type": "dimension",
+    "name": "Simulation",
+    "category": "Contexto metodológico",
+    "summary": "Recreation of a real or plausible situation.",
+    "desc": "This dimension describes the format or didactic situation in which the evidence is generated. It can combine several collection procedures.\n\nSimulation-based assessment recreates plausible situations (role play, mock scenarios, role-play performance, interactive practical cases) to observe how students behave in that context. It allows for the assessment of skills that are difficult to observe in ordinary situations.\n\nHow to apply it: a scenario is designed with defined roles, information and objectives. The teacher observes using a performance rubric or anecdotal record while the simulation unfolds. It is important to hold a reflective closure where students analyse their own decisions and share them with the group.\n\nSuitable for assessing communication, decision-making, conflict resolution, action protocols and social skills in professional or civic contexts.",
+    "pedagogic_function": "Assess performance, communication and decision-making.",
+    "typical_evidence": [
+      "Roles, decisions, responses, interaction."
+    ],
+    "when_to_use": "When assessing performance in plausible contexts.",
+    "precautions": "Can oversimplify reality.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "simulation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Laboratorio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_SIM",
+      "INS_ROL",
+      "INS_DRAMA",
+      "INS_ESCAPE"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS",
+      "HER_REG_ANE"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_SIM": "principal",
+        "INS_ROL": "principal",
+        "INS_DRAMA": "principal",
+        "INS_ESCAPE": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "ocasional",
+        "HER_ESC_OBS": "ocasional",
+        "HER_REG_ANE": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_DIG",
+    "entity_type": "dimension",
+    "name": "Digital evidence",
+    "category": "Soporte de evidencias",
+    "summary": "Gathering evidence in digital environments or products.",
+    "desc": "This dimension indicates the medium in which evidence is produced, stored or reviewed.\n\nAssessment through digital evidence gathers and evaluates productions, participation and records generated in digital environments: collaborative documents, forums, digital portfolios, videos, revision histories, platform analytics or contributions to wikis.\n\nHow to apply it: it is advisable to define what type of digital evidence will be assessed and with which criteria. The revision history of a shared document, for example, allows individual contributions in group work to be seen. The analytics of an LMS platform can show access times, attempts and study patterns, but should not be used as the sole source of assessment.\n\nDigital evidence allows digital competency to be assessed authentically and provides access to processes that would be invisible on paper. Analytics complement pedagogical judgement, but do not replace it.",
+    "pedagogic_function": "Assess digital competency, production and online participation.",
+    "typical_evidence": [
+      "Documents, forums, videos, websites, activity records."
+    ],
+    "when_to_use": "When the activity uses digital tools or leaves online traces.",
+    "precautions": "Analytics do not replace pedagogical judgement.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "digital"
+    ],
+    "modality": "Online",
+    "location": "Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_instruments": [
+      "INS_CUEST_DIG",
+      "INS_INFOG",
+      "INS_PRESENT_DIG",
+      "INS_VIDEO",
+      "INS_PODCAST",
+      "INS_MODELO_DIG",
+      "INS_WEB",
+      "INS_BLOG",
+      "INS_FORO",
+      "INS_DOC_COL",
+      "INS_PORT_DIG",
+      "INS_CUAD_DIG",
+      "INS_MICROVIDEO",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_RUB_DIG",
+      "HER_HIST_REV",
+      "HER_PANEL",
+      "HER_HOJA_CALC",
+      "HER_FORM_DIG",
+      "HER_ANALITICAS",
+      "HER_BANCO_EVID",
+      "HER_DECL_IA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_CUEST_DIG": "principal",
+        "INS_INFOG": "complementaria",
+        "INS_PRESENT_DIG": "principal",
+        "INS_VIDEO": "principal",
+        "INS_PODCAST": "principal",
+        "INS_MODELO_DIG": "principal",
+        "INS_WEB": "principal",
+        "INS_BLOG": "principal",
+        "INS_FORO": "principal",
+        "INS_DOC_COL": "principal",
+        "INS_PORT_DIG": "principal",
+        "INS_CUAD_DIG": "principal",
+        "INS_MICROVIDEO": "principal",
+        "INS_BIT_IA": "principal"
+      },
+      "rel_her": {
+        "HER_HOJA_CALC": "principal",
+        "HER_FORM_DIG": "complementaria",
+        "HER_RUB_DIG": "principal",
+        "HER_HIST_REV": "principal",
+        "HER_PANEL": "principal",
+        "HER_ANALITICAS": "principal",
+        "HER_BANCO_EVID": "principal",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_CRIT",
+    "entity_type": "dimension",
+    "name": "Criteria-based assessment",
+    "category": "Enfoque curricular",
+    "summary": "Assessment of learning in relation to explicit criteria, not by comparison between students.",
+    "desc": "Criteria-based assessment evaluates learning against previously defined and communicated criteria. It does not compare students with each other, but analyses to what extent each student demonstrates the expected learning.\n\nHow to apply it: the process starts from the assessment criteria, which are specified in observable indicators, appropriate evidence and assessment tools. An evidence map by criterion helps to verify that each assessment decision is supported by sufficient data.\n\nIt is especially important in competency-based approaches, because it allows the justification of which evidence demonstrates each criterion and prevents grading from being a sum of disconnected tasks.",
+    "pedagogic_function": "Align evidence, assessment criteria, indicators and grading decisions.",
+    "typical_evidence": [
+      "Tasks linked to criteria, competency rubrics, evidence maps."
+    ],
+    "when_to_use": "Whenever assessment is to be justified from curricular criteria or defined standards.",
+    "precautions": "Requires translating broad criteria into observable indicators without fragmenting learning excessively.",
+    "phase": "Diseño/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "criteria-based",
+      "criteria",
+      "indicators",
+      "alignment"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_TAREA_COMP_INT",
+      "INS_SIT_PROB",
+      "INS_EPORT_SEL",
+      "INS_LIBRO_ABIERTO"
+    ],
+    "related_tools": [
+      "HER_IND_CRIT",
+      "HER_MAP_EVID",
+      "HER_RUB_COMP",
+      "HER_TAB_CRIT",
+      "HER_DECL_IA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TAREA_COMP_INT": "principal",
+        "INS_SIT_PROB": "principal",
+        "INS_EPORT_SEL": "principal",
+        "INS_LIBRO_ABIERTO": "complementaria"
+      },
+      "rel_her": {
+        "HER_IND_CRIT": "principal",
+        "HER_MAP_EVID": "principal",
+        "HER_RUB_COMP": "complementaria",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_INCL",
+    "entity_type": "dimension",
+    "name": "Inclusive assessment and UDL",
+    "category": "Enfoque curricular",
+    "summary": "Design of assessment that is accessible, flexible and adjusted to student diversity.",
+    "desc": "Inclusive assessment, aligned with Universal Design for Learning, ensures that all students can demonstrate what they know and are able to do through accessible and varied evidence.\n\nHow to apply it: barriers of comprehension, expression, time, format or context are anticipated; reasonable supports and alternatives are offered; and the criteria being assessed remain clear. For example, the same criterion can be evidenced through text, oral presentation, visual product or practical demonstration if all of them allow the same learning to be observed.\n\nIts purpose is to increase the validity of assessment: so that the result reflects learning and not the barriers of the chosen format.",
+    "pedagogic_function": "Reduce barriers and offer different ways of demonstrating learning.",
+    "typical_evidence": [
+      "Alternative products, supports, scaffolding, access adaptations, guided self-assessments."
+    ],
+    "when_to_use": "In any diverse group, especially when a single form of evidence may conceal real learning.",
+    "precautions": "Flexibility must not lower the criteria, but rather diversify pathways and supports for evidencing them.",
+    "phase": "Diseño/Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "inclusion",
+      "udl",
+      "accessibility",
+      "diversity"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_TAREA_COMP_INT",
+      "INS_CUAD_DIG",
+      "INS_EPORT_SEL",
+      "INS_EXPO",
+      "INS_VIDEO",
+      "INS_PODCAST",
+      "INS_INFOG",
+      "INS_MAP_CONC",
+      "INS_PR_PRACT",
+      "INS_LAB",
+      "INS_ENTREV",
+      "INS_PORT",
+      "INS_DOC_COL",
+      "INS_F_REFLEX",
+      "INS_BILLETE",
+      "INS_SEMAF"
+    ],
+    "related_tools": [
+      "HER_ESC_PROG",
+      "HER_PLANT_FF",
+      "HER_MAP_EVID"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TAREA_COMP_INT": "principal",
+        "INS_CUAD_DIG": "principal",
+        "INS_EPORT_SEL": "principal",
+        "INS_EXPO": "complementaria",
+        "INS_VIDEO": "complementaria",
+        "INS_PODCAST": "complementaria",
+        "INS_INFOG": "complementaria",
+        "INS_MAP_CONC": "complementaria",
+        "INS_PR_PRACT": "complementaria",
+        "INS_LAB": "complementaria",
+        "INS_ENTREV": "complementaria",
+        "INS_PORT": "complementaria",
+        "INS_DOC_COL": "complementaria",
+        "INS_F_REFLEX": "complementaria",
+        "INS_BILLETE": "ocasional",
+        "INS_SEMAF": "ocasional"
+      },
+      "rel_her": {
+        "HER_ESC_PROG": "principal",
+        "HER_PLANT_FF": "complementaria",
+        "HER_MAP_EVID": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_CONT",
+    "entity_type": "dimension",
+    "name": "Continuous assessment",
+    "category": "Finalidad y momento",
+    "summary": "Gathering and interpreting evidence throughout the learning process.",
+    "desc": "Continuous assessment interprets evidence gathered at different moments to understand student progress. It does not consist of grading everything, but of using successive evidence to make better decisions.\n\nHow to apply it: information-gathering milestones are planned, relevant progress is recorded and feedback is returned while there is still room for improvement. Partial submissions, the digital notebook, the portfolio and progress scales are especially useful.\n\nWell used, it allows assessment to be part of learning and not just a check at the end.",
+    "pedagogic_function": "Track progress, detect needs and adjust teaching in a sustained way.",
+    "typical_evidence": [
+      "Drafts, partial submissions, journals, digital notebook, progress records."
+    ],
+    "when_to_use": "In long units, projects, competency-based learning and ordinary course monitoring.",
+    "precautions": "Must not be confused with accumulating many grades; it requires selecting significant evidence.",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "continuous",
+      "progress",
+      "monitoring"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_CUAD_DIG",
+      "INS_EPORT_SEL",
+      "INS_ENT_PAR",
+      "INS_BORR"
+    ],
+    "related_tools": [
+      "HER_ESC_PROG",
+      "HER_PANEL",
+      "HER_BANCO_EVID",
+      "HER_HOJA_IND"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_CUAD_DIG": "principal",
+        "INS_EPORT_SEL": "principal",
+        "INS_ENT_PAR": "principal",
+        "INS_BORR": "principal"
+      },
+      "rel_her": {
+        "HER_ESC_PROG": "principal",
+        "HER_PANEL": "complementaria",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_HOJA_IND": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_FEED",
+    "entity_type": "dimension",
+    "name": "Feedback and feedforward",
+    "category": "Finalidad y uso",
+    "summary": "Information to understand current performance and guide the next improvement.",
+    "desc": "Feedback explains to students where they stand in relation to the objective, what they have done well, what they need to improve and what the next step is. Feedforward adds guidance towards future tasks, not just correction of what has already been submitted.\n\nHow to apply it: brief comments, cards, individual conferences, draft reviews or guided peer assessment are used. The essential thing is that students can act on the information received.\n\nIt has more impact when it arrives during the process, focuses on specific criteria and avoids generic messages such as 'well done' or 'you need to try harder'.",
+    "pedagogic_function": "Turn assessment into concrete improvement action.",
+    "typical_evidence": [
+      "Comments, feedback cards, improvement commitments, draft reviews."
+    ],
+    "when_to_use": "When students can revise, repeat, improve or transfer what they have learned to a subsequent task.",
+    "precautions": "Must be specific, timely and actionable; a grade alone is not sufficient feedback.",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "feedback",
+      "feedforward",
+      "improvement"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_BORR",
+      "INS_REV_PARES",
+      "INS_2E1D",
+      "INS_ENT_PAR",
+      "INS_EPORT_SEL",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_PLANT_FF",
+      "HER_FICHA_RETRO",
+      "HER_REG_COMP",
+      "HER_DECL_IA"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_BORR": "principal",
+        "INS_REV_PARES": "principal",
+        "INS_2E1D": "principal",
+        "INS_ENT_PAR": "complementaria",
+        "INS_EPORT_SEL": "complementaria",
+        "INS_BIT_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_PLANT_FF": "principal",
+        "HER_FICHA_RETRO": "principal",
+        "HER_REG_COMP": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_CAL_ACRED",
+    "entity_type": "dimension",
+    "name": "Grading and accreditation",
+    "category": "Finalidad y uso",
+    "summary": "Justified transformation of evidence into a grade, promotion or certification decision.",
+    "desc": "Grading and accreditation convert learning evidence into a communicable decision: a grade, a level of achievement, a promotion or a certification.\n\nHow to apply it: it is made explicit which criteria count, what evidence supports them and how they are combined. Criteria grading tables, weighting matrices, records and individual reports help to make the decision traceable.\n\nIt is a necessary function of the educational system, but must be distinguished from formative feedback: grading informs about the level achieved; guiding improvement requires additional information.",
+    "pedagogic_function": "Communicate the level achieved and support academic decisions with evidence.",
+    "typical_evidence": [
+      "Tests, final tasks, rubrics, criteria tables, records and reports."
+    ],
+    "when_to_use": "When closing units, assessments, courses or processes requiring an administrative decision.",
+    "precautions": "Must be supported by sufficient criteria and evidence; does not replace formative assessment.",
+    "phase": "Final",
+    "participation": "Docente/Equipo docente",
+    "tags": [
+      "grading",
+      "accreditation",
+      "mark",
+      "promotion"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_PR_COMP",
+      "INS_TAREA_COMP_INT",
+      "INS_EPORT_SEL"
+    ],
+    "related_tools": [
+      "HER_TAB_CRIT",
+      "HER_MATRIZ_POND",
+      "HER_INF_IND",
+      "HER_ACTA",
+      "HER_MAP_EVID"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_PR_COMP": "principal",
+        "INS_TAREA_COMP_INT": "complementaria",
+        "INS_EPORT_SEL": "complementaria"
+      },
+      "rel_her": {
+        "HER_TAB_CRIT": "principal",
+        "HER_MATRIZ_POND": "principal",
+        "HER_INF_IND": "complementaria",
+        "HER_ACTA": "complementaria",
+        "HER_MAP_EVID": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_COMPART",
+    "entity_type": "dimension",
+    "name": "Shared and participatory assessment",
+    "category": "Agente evaluador",
+    "summary": "Student participation in criteria, evidence, review and improvement decisions.",
+    "desc": "Shared and participatory assessment involves students in different parts of the assessment process: understanding or constructing criteria, reviewing evidence, carrying out peer assessment, self-assessing and proposing improvements.\n\nHow to apply it: indicators can be agreed upon, group contracts used, drafts reviewed by peers, or self-assessment compared with the teacher's assessment. The final responsibility for grading remains with the teacher when the system requires it.\n\nIt is especially valuable because it makes the criteria visible and turns assessment into learning about the quality of one's own work.",
+    "pedagogic_function": "Increase understanding of criteria, responsibility and self-regulation.",
+    "typical_evidence": [
+      "Criteria negotiation, peer assessment, group contracts, improvement commitments."
+    ],
+    "when_to_use": "In projects, cooperative work, portfolios and tasks where students can review their process.",
+    "precautions": "Requires clear criteria and support; teacher responsibility must not be delegated without guidance.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "shared",
+      "participatory",
+      "peer assessment",
+      "negotiation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_TRAB_COOP",
+      "INS_REV_PARES",
+      "INS_CONTRATO",
+      "INS_EPORT_SEL",
+      "INS_ESCAPE",
+      "INS_SEMINARIO"
+    ],
+    "related_tools": [
+      "HER_CONTR_GRUP",
+      "HER_FICHA_COEV",
+      "HER_RUB_COEV",
+      "HER_REG_COMP",
+      "HER_SOCIO"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_TRAB_COOP": "principal",
+        "INS_REV_PARES": "principal",
+        "INS_CONTRATO": "complementaria",
+        "INS_EPORT_SEL": "complementaria",
+        "INS_ESCAPE": "complementaria",
+        "INS_SEMINARIO": "complementaria"
+      },
+      "rel_her": {
+        "HER_CONTR_GRUP": "principal",
+        "HER_FICHA_COEV": "principal",
+        "HER_RUB_COEV": "complementaria",
+        "HER_REG_COMP": "complementaria",
+        "HER_SOCIO": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_GAMIF",
+    "entity_type": "dimension",
+    "name": "Gamified assessment",
+    "category": "Contexto metodológico",
+    "summary": "Use of game mechanics to collect evidence of learning.",
+    "desc": "This dimension describes the didactic format or situation in which evidence is generated. It can combine several collection procedures.\n\nGamified assessment incorporates game mechanics (challenges, points, badges, countdowns, regulated cooperation or competition) to collect evidence of learning in a highly motivating environment. It is not synonymous with a specific instrument such as an escape room (INS_ESCAPE), but rather the methodological approach that encompasses any strategy using games for assessment purposes.\n\nHow to apply it: tasks or challenges are designed with clear rules, visible achievement criteria and immediate feedback. Points or badges can be used as evidence of the level reached if they are aligned with real assessment criteria. Analytics from the gamified platform (time, attempts, correct answers) complement the teacher's observation but do not replace it.\n\nIt is especially suitable for formative assessment, consolidation and diagnostic assessment, as the playful context reduces assessment anxiety and encourages participation from students who struggle with motivation.",
+    "pedagogic_function": "Increase motivation and engagement, and obtain immediate feedback on learning.",
+    "typical_evidence": [
+      "Challenges, escape rooms, timed rounds, badges, leaderboards, cooperative quests."
+    ],
+    "when_to_use": "When high motivation is sought, when consolidating learning, or when conducting active diagnostic assessment.",
+    "precautions": "Game mechanics must not distort assessment; participation must be distinguished from demonstrated learning.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "gamification",
+      "game-based",
+      "escape room",
+      "challenge",
+      "badges"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Classroom / Virtual",
+    "grouping": "Individual / Small group / Whole class",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_ESCAPE",
+      "INS_PROB",
+      "INS_SIT_PROB",
+      "INS_TAREA_COMP_INT",
+      "INS_CUEST_DIG"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_RUB_COMP",
+      "HER_ANALITICAS"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_ESCAPE": "principal",
+        "INS_PROB": "complementaria",
+        "INS_SIT_PROB": "complementaria",
+        "INS_TAREA_COMP_INT": "complementaria",
+        "INS_CUEST_DIG": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "complementaria",
+        "HER_RUB_COMP": "complementaria",
+        "HER_ANALITICAS": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "DIM_TRAZ_IA",
+    "entity_type": "dimension",
+    "name": "Traceability, authorship and AI use",
+    "category": "Soporte de evidencias",
+    "summary": "Documentation of the process, sources, external support and AI use behind a piece of evidence.",
+    "desc": "This dimension places assessment in contexts where the production process may be hidden or supported by external tools, including generative AI.\n\nHow to apply it: students document which sources, supports, tools or AI systems they used, what they used them for and which decisions were their own. They may keep versions, relevant prompts, changes made, source checks and brief justifications. The teacher assesses the quality of the process, critical review and the match between the final product and the learning demonstrated.\n\nIt is especially useful in research tasks, projects, collaborative documents, portfolios, digital products and tasks completed partly outside the classroom. Its purpose is not to penalise AI use, but to make it transparent and assessable.",
+    "pedagogic_function": "Make the production process visible and distinguish demonstrated learning from the support used.",
+    "typical_evidence": [
+      "Versions, prompts, sources, revision history, justified decisions, AI-use declaration."
+    ],
+    "when_to_use": "When a task allows external help, digital editing, work outside the classroom or generative AI use.",
+    "precautions": "It should not become bureaucracy; traceability must provide real evidence about decisions, review and authorship.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "ai",
+      "authorship",
+      "traceability",
+      "sources",
+      "process"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_DIARIO",
+      "INS_PORT",
+      "INS_INFO_INV",
+      "INS_MONO",
+      "INS_ENSAYO",
+      "INS_ART_DIV",
+      "INS_MEM_PROY",
+      "INS_PLAN_TRAB",
+      "INS_DOC_COL",
+      "INS_PORT_DIG",
+      "INS_BIT",
+      "INS_CUAD_DIG",
+      "INS_EPORT_SEL",
+      "INS_PRESENT_DIG",
+      "INS_WEB",
+      "INS_BLOG",
+      "INS_VIDEO",
+      "INS_TUTORIAL",
+      "INS_MICROVIDEO",
+      "INS_COM_TEXT",
+      "INS_COM_GRAF",
+      "INS_RESEÑA",
+      "INS_PROB",
+      "INS_CASO",
+      "INS_PR_COMP",
+      "INS_INFOG",
+      "INS_POSTER",
+      "INS_PODCAST",
+      "INS_MODELO_DIG",
+      "INS_FORO",
+      "INS_BORR",
+      "INS_ENT_PAR",
+      "INS_REV_PARES",
+      "INS_CUAD_CAMPO",
+      "INS_RESUMEN",
+      "INS_ESQUEMA",
+      "INS_MAP_CONC",
+      "INS_MAP_MENT",
+      "INS_LINEA",
+      "INS_GLOS",
+      "INS_FICHA_LECT",
+      "INS_ACTA",
+      "INS_F_REFLEX",
+      "INS_AUTOINF",
+      "INS_TAREA_COMP_INT",
+      "INS_SIT_PROB",
+      "INS_BIT_IA"
+    ],
+    "related_tools": [
+      "HER_DECL_IA",
+      "HER_HIST_REV",
+      "HER_MAP_EVID",
+      "HER_BANCO_EVID",
+      "HER_RUB_PROC",
+      "HER_FICHA_RETRO",
+      "HER_ANALITICAS"
+    ],
+    "rel_meta": {
+      "rel_ins": {
+        "INS_DIARIO": "principal",
+        "INS_PORT": "principal",
+        "INS_INFO_INV": "principal",
+        "INS_MONO": "principal",
+        "INS_ENSAYO": "principal",
+        "INS_ART_DIV": "principal",
+        "INS_MEM_PROY": "principal",
+        "INS_PLAN_TRAB": "principal",
+        "INS_DOC_COL": "principal",
+        "INS_PORT_DIG": "principal",
+        "INS_BIT": "principal",
+        "INS_CUAD_DIG": "principal",
+        "INS_EPORT_SEL": "principal",
+        "INS_PRESENT_DIG": "principal",
+        "INS_WEB": "principal",
+        "INS_BLOG": "principal",
+        "INS_VIDEO": "principal",
+        "INS_TUTORIAL": "principal",
+        "INS_MICROVIDEO": "principal",
+        "INS_COM_TEXT": "complementaria",
+        "INS_COM_GRAF": "complementaria",
+        "INS_RESEÑA": "complementaria",
+        "INS_PROB": "complementaria",
+        "INS_CASO": "complementaria",
+        "INS_PR_COMP": "complementaria",
+        "INS_INFOG": "complementaria",
+        "INS_POSTER": "complementaria",
+        "INS_PODCAST": "complementaria",
+        "INS_MODELO_DIG": "complementaria",
+        "INS_FORO": "complementaria",
+        "INS_BORR": "complementaria",
+        "INS_ENT_PAR": "complementaria",
+        "INS_REV_PARES": "complementaria",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_RESUMEN": "ocasional",
+        "INS_ESQUEMA": "ocasional",
+        "INS_MAP_CONC": "ocasional",
+        "INS_MAP_MENT": "ocasional",
+        "INS_LINEA": "ocasional",
+        "INS_GLOS": "ocasional",
+        "INS_FICHA_LECT": "ocasional",
+        "INS_ACTA": "ocasional",
+        "INS_F_REFLEX": "ocasional",
+        "INS_AUTOINF": "ocasional",
+        "INS_TAREA_COMP_INT": "ocasional",
+        "INS_SIT_PROB": "ocasional",
+        "INS_BIT_IA": "principal"
+      },
+      "rel_her": {
+        "HER_DECL_IA": "principal",
+        "HER_HIST_REV": "principal",
+        "HER_MAP_EVID": "principal",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_RUB_PROC": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_ANALITICAS": "ocasional"
+      }
+    },
+    "metac_ids": []
+  }
+]

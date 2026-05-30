@@ -4011,6 +4011,11 @@ function renderEvalList() {
   panel.querySelectorAll('.eval-list-item').forEach(el => {
     el.onclick = () => showEvalDetail(el.dataset.evalId);
   });
+
+  // Auto-select first item if nothing is selected yet
+  if (!S.evalSelected && filtered.length) {
+    showEvalDetail(filtered[0].id);
+  }
 }
 
 function showEvalDetail(evalId) {

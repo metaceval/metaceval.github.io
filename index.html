@@ -4200,6 +4200,8 @@ function switchView(view) {
   const mainEl    = document.getElementById('main');
   const splitEl   = document.getElementById('evalSplitView');
   const mapBtn    = document.getElementById('mapViewBtn');
+  const selectBtn = document.getElementById('selectBtn');
+  const favBtn    = document.getElementById('favBtn');
 
   if (view === 'tecnicas') {
     blockBar.style.display = '';
@@ -4207,7 +4209,9 @@ function switchView(view) {
     evalBar.style.display  = 'none';
     mainEl.style.display   = '';
     splitEl.style.display  = 'none';
-    if (mapBtn) mapBtn.style.display = '';
+    if (mapBtn)    mapBtn.style.display    = '';
+    if (selectBtn) selectBtn.style.display = '';
+    if (favBtn)    favBtn.style.display    = '';
     evalGraphStop();
     renderBlockTabs();
     renderTabs();
@@ -4217,7 +4221,9 @@ function switchView(view) {
     fieldBar.style.display = 'none';
     evalBar.style.display  = '';
     mainEl.style.display   = 'none';
-    if (mapBtn) mapBtn.style.display = 'none';
+    if (mapBtn)    mapBtn.style.display    = 'none';
+    if (selectBtn) selectBtn.style.display = 'none';
+    if (favBtn)    favBtn.style.display    = 'none';
 
     document.getElementById('evalDetailEmptyMsg').textContent = i('evalSelectPrompt') || 'Selecciona una entidad para ver sus relaciones';
     // Render tabs first so evalNavBar has its real height before we position the split view

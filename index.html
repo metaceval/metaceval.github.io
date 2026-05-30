@@ -4057,10 +4057,11 @@ function initEvalSplitEvents() {
     if (!panMoved) {
       const rect = canvas.getBoundingClientRect();
       const hit = evalGraphHitTest(e.clientX - rect.left, e.clientY - rect.top);
-      if (hit >= 0 && !EGRAPH.nodes[hit]?.isCenter) {
-        showEvalDetail(EGRAPH.nodes[hit].id);
+      const hitNode = hit >= 0 ? EGRAPH.nodes[hit] : null;
+      if (hitNode && !hitNode.isCenter) {
+        showEvalDetail(hitNode.id);
         // Update list tab if category changed
-        const prefix = evalEntityPrefix(EGRAPH.nodes[hit].id);
+        const prefix = evalEntityPrefix(hitNode.id);
         const newCat = EVAL_CATS.find(c => c.prefix === prefix);
         if (newCat && newCat.id !== S.evalCat) {
           S.evalCat = newCat.id;

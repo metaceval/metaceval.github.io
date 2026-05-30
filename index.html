@@ -1918,7 +1918,7 @@
     <button class="btn" id="uniMapFitBtn" style="font-size:.76rem;padding:3px 9px;">⊙ Centrar</button>
     <button class="icon-btn" id="uniMapCloseBtn" title="Cerrar mapa">✕</button>
   </div>
-  <canvas id="uniMapCanvas" style="flex:1;width:100%;cursor:grab;touch-action:none;"></canvas>
+  <canvas id="uniMapCanvas" style="display:block;flex:1;width:100%;min-height:0;cursor:grab;touch-action:none;"></canvas>
 </div>
 
 <!-- ═══ EVAL MAP VIEW ═══ -->
@@ -1929,7 +1929,7 @@
     <button class="btn" id="evalMapFitBtn" title="Centrar vista" style="font-size:.78rem;padding:4px 10px;">⊙ Centrar</button>
     <button class="icon-btn" id="evalMapCloseBtn" title="Cerrar mapa">✕</button>
   </div>
-  <canvas id="evalMapCanvas" style="flex:1;width:100%;cursor:grab;touch-action:none;"></canvas>
+  <canvas id="evalMapCanvas" style="display:block;flex:1;width:100%;min-height:0;cursor:grab;touch-action:none;"></canvas>
 </div>
 
 <!-- ═══ FAVORITES PANEL ═══ -->
@@ -6718,16 +6718,16 @@ function umapFit() {
   const canvas = UMAP.canvas;
   if (!canvas) return;
   const cw = canvas.clientWidth, ch = canvas.clientHeight;
+  if (!cw || !ch) { UMAP.camera.scale = 0.2; return; }
   const xs = UMAP.nodes.map(n => n.x), ys = UMAP.nodes.map(n => n.y);
   const minX = Math.min(...xs), maxX = Math.max(...xs);
   const minY = Math.min(...ys), maxY = Math.max(...ys);
-  const pad = 80;
+  const pad = 60;
   const sx = (cw - pad * 2) / (maxX - minX || 1);
   const sy = (ch - pad * 2) / (maxY - minY || 1);
-  UMAP.camera.scale = Math.min(sx, sy, 3);
+  UMAP.camera.scale = Math.min(sx, sy, 2);
   UMAP.camera.x = (minX + maxX) / 2;
   UMAP.camera.y = (minY + maxY) / 2;
-  umapDraw();
 }
 
 function openUnifiedMap() {
@@ -6740,16 +6740,18 @@ function openUnifiedMap() {
   const vTog = document.getElementById('viewToggle');
   view.style.top = ((hdr?.offsetHeight || 0) + (vTog?.offsetHeight || 0)) + 'px';
   view.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
 
   umapRenderToggles();
   umapBuild();
-  requestAnimationFrame(() => {
-    // warm-up: run 80 ticks synchronously for initial layout
-    for (let k = 0; k < 80; k++) umapTick();
+
+  // Double RAF: first lets the browser paint the overlay (flex layout),
+  // second reads real canvas dimensions for the fit calculation.
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    for (let k = 0; k < 80; k++) umapTick();  // warm-up physics
     umapFit();
     umapLoop();
-  });
-  document.body.style.overflow = 'hidden';
+  }));
 }
 
 function closeUnifiedMap() {

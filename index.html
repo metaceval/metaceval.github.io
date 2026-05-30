@@ -6690,10 +6690,14 @@ function initEvalMapEvents() {
     const rect = canvas.getBoundingClientRect();
     const sx = e.clientX - rect.left, sy = e.clientY - rect.top;
     if (EGRAPH.dragNode >= 1) {
+      const ddx = e.clientX - EGRAPH.panStart.x, ddy = e.clientY - EGRAPH.panStart.y;
+      if (!EGRAPH.dragMoved && ddx * ddx + ddy * ddy < 25) return;
+      EGRAPH.dragMoved = true;
       const dpr = window.devicePixelRatio || 1;
       const cam = EGRAPH.camera;
       const w = canvas.width / dpr, h = canvas.height / dpr;
       const nd = EGRAPH.nodes[EGRAPH.dragNode];
+      if (!nd) return;
       nd.x = (sx - w / 2) / cam.scale + cam.x;
       nd.y = (sy - h / 2) / cam.scale + cam.y;
       nd.vx = 0; nd.vy = 0; nd.fixed = true;
@@ -6723,7 +6727,9 @@ function initEvalMapEvents() {
     const sx = e.clientX - rect.left, sy = e.clientY - rect.top;
     const hit = evalGraphHitTest(sx, sy);
     if (hit >= 1) {
-      EGRAPH.dragNode = hit;
+      EGRAPH.dragNode     = hit;
+      EGRAPH.dragMoved    = false;
+      EGRAPH.panStart     = { x: e.clientX, y: e.clientY };
     } else {
       EGRAPH.isPanning = true;
       EGRAPH.panMoved  = false;
@@ -6736,15 +6742,22 @@ function initEvalMapEvents() {
     pointers.delete(e.pointerId);
     if (EGRAPH.dragNode >= 1) {
       const dragged = EGRAPH.nodes[EGRAPH.dragNode];
+      const wasDragged = EGRAPH.dragMoved;
       if (dragged) dragged.fixed = false;
-      EGRAPH.dragNode = -1;
+      EGRAPH.dragNode  = -1;
+      EGRAPH.dragMoved = false;
+      // No actual drag movement → treat as click on node
+      if (!wasDragged && dragged && !dragged.isCenter) {
+        closeEvalMap();
+        if (S.view === 'evaluacion') showEvalDetail(dragged.id);
+        else openEvalModal(dragged.id);
+      }
     } else if (!EGRAPH.panMoved) {
       const rect = canvas.getBoundingClientRect();
       const hit = evalGraphHitTest(e.clientX - rect.left, e.clientY - rect.top);
       const nd = hit >= 0 ? EGRAPH.nodes[hit] : null;
       if (nd && !nd.isCenter) {
         closeEvalMap();
-        // If in split view show detail inline, otherwise open modal
         if (S.view === 'evaluacion') showEvalDetail(nd.id);
         else openEvalModal(nd.id);
       }

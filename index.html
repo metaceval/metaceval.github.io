@@ -1890,7 +1890,10 @@
 <!-- ═══ EVAL TABS (evaluación view) ═══ -->
 <nav class="eval-nav" id="evalNavBar" style="display:none">
   <div class="eval-nav-inner" id="evalTabs"></div>
-
+  <div class="view-mode-wrap" id="evalViewModeWrap" style="flex-shrink:0;margin:4px 10px 4px 4px;">
+    <button class="view-mode-btn" id="evalViewModeCards"></button>
+    <button class="view-mode-btn active" id="evalViewModeMap"></button>
+  </div>
 </nav>
 
 <!-- ═══ SHARED BANNER ═══ -->
@@ -2787,6 +2790,7 @@ const S = {
   evalCat:          'instrumentos',
   evalModal:        null,         // currently open eval entity ID
   evalSelected:     null,         // selected entity in split view
+  evalMapMode:      true,         // true = split+graph, false = cards grid
 };
 
 // ─── JSON LOADER ─────────────────────────────────────────────────────────────
@@ -3881,6 +3885,35 @@ function renderEvalSection(item) {
 
 // ─── RENDER: EVAL VIEW ───────────────────────────────────────────────────────
 
+function syncEvalViewMode() {
+  const cardsBtn = document.getElementById('evalViewModeCards');
+  const mapBtn   = document.getElementById('evalViewModeMap');
+  if (cardsBtn) { cardsBtn.classList.toggle('active', !S.evalMapMode); cardsBtn.title = i('viewModeCards'); }
+  if (mapBtn)   { mapBtn.classList.toggle('active',  S.evalMapMode);  mapBtn.title   = i('viewModeMap');   }
+  // SVG icons
+  if (cardsBtn && !cardsBtn.innerHTML.trim()) {
+    cardsBtn.innerHTML = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
+    mapBtn.innerHTML   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
+  }
+}
+
+function toggleEvalMapMode() {
+  S.evalMapMode = !S.evalMapMode;
+  syncEvalViewMode();
+  const mainEl  = document.getElementById('main');
+  const splitEl = document.getElementById('evalSplitView');
+  if (S.evalMapMode) {
+    mainEl.style.display  = 'none';
+    splitEl.style.display = 'flex';
+    renderEvalList();
+  } else {
+    evalGraphStop();
+    splitEl.style.display = 'none';
+    mainEl.style.display  = '';
+    renderEvalCards();
+  }
+}
+
 function renderEvalTabs() {
   const bar = document.getElementById('evalTabs');
   if (!bar) return;
@@ -4286,15 +4319,24 @@ function switchView(view) {
     // Render tabs first so evalNavBar has its real height before we position the split view
     renderEvalTabs();
 
-    // Position split view below sticky bars (read heights after tabs are rendered)
+    syncEvalViewMode();
+
+    // Position fixed panels below sticky bars
     const hdr  = document.querySelector('header');
     const vTog = document.getElementById('viewToggle');
     const eNav = document.getElementById('evalNavBar');
     const top  = (hdr?.offsetHeight || 0) + (vTog?.offsetHeight || 0) + (eNav?.offsetHeight || 0);
-    splitEl.style.top     = (top + 6) + 'px';
-    splitEl.style.display = 'flex';
+    splitEl.style.top = (top + 6) + 'px';
 
-    renderEvalList();
+    if (S.evalMapMode) {
+      splitEl.style.display = 'flex';
+      mainEl.style.display  = 'none';
+      renderEvalList();
+    } else {
+      splitEl.style.display = 'none';
+      mainEl.style.display  = '';
+      renderEvalCards();
+    }
   }
 }
 
@@ -7415,6 +7457,8 @@ async function init() {
   document.getElementById('mapResetBtn').onclick  = () => { if (MAP.viewMode === 'blocks') initMapBlocks(); else initMapData(); };
   document.getElementById('viewModeCardsLegend').onclick = () => { if (S.mapMode) toggleMapView(); };
   document.getElementById('viewModeMapLegend').onclick   = () => {};
+  document.getElementById('evalViewModeCards').onclick   = () => { if (S.evalMapMode)  toggleEvalMapMode(); };
+  document.getElementById('evalViewModeMap').onclick     = () => { if (!S.evalMapMode) toggleEvalMapMode(); };
   const gapLabel = document.getElementById('mapGapLabel');
   const gapMinus = document.getElementById('mapGapMinus');
   const gapPlus  = document.getElementById('mapGapPlus');

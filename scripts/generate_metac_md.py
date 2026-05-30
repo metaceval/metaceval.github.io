@@ -62,6 +62,31 @@ LANGS = {
             "eval_dim": "Dimensions",
         },
     },
+    "en": {
+        "output": "metac-en.md",
+        "title": "Active Learning Methodologies for the Classroom",
+        "subtitle": "Catalogue of active-learning techniques, routines and methodologies with assessment guidance.",
+        "toc": "Contents by field",
+        "intro": (
+            "This catalogue brings together active-learning methodologies organised by pedagogical field. "
+            "Each technique includes a description, resources, links to related methodologies and guidance on "
+            "how to assess it using evaluation techniques, observable evidence, instruments and assessment dimensions.\n\n"
+            "The links between techniques and evaluation entities are indicative and non-exhaustive: "
+            "any given technique can be assessed in many different ways depending on context and teaching purpose."
+        ),
+        "labels": {
+            "block":    "Block",
+            "fields":   "Fields",
+            "tags":     "Keywords",
+            "programs": "Resources",
+            "related":  "Related techniques",
+            "eval":     "How to assess",
+            "eval_tec": "Evaluation techniques",
+            "eval_ins": "Observable evidence",
+            "eval_her": "Instruments",
+            "eval_dim": "Dimensions",
+        },
+    },
 }
 
 

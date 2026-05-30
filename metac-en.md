@@ -30,7 +30,7 @@ The links between techniques and evaluation entities are indicative and non-exha
 
 _A thinking routine in which students interpret an image, text, object, or situation and justify their response with evidence. It helps develop critical thinking, improve observation skills, substantiate hypotheses, and encourage students to explain the reasoning behind their ideas._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: evidence, interpretation, critical thinking, metacognition, reflection_
 
@@ -77,7 +77,7 @@ For this reason, “What makes you say that?” is especially useful for startin
 
 _This routine involves students identifying the main ideas in a text, image, or other content and summarizing them in an organized way. It helps improve comprehension, develop analysis and synthesis skills, and check whether the essential points have been grasped._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition
 
 _Keywords: analysis, synthesis, comprehension, reading, feedback_
 
@@ -114,7 +114,7 @@ As a final synthesis, each student writes three sentences explaining the whole p
 
 _A routine in which students use previously acquired knowledge to solve a new situation or problem. It serves to transfer learning, reinforce understanding, develop critical thinking, and reflect on how knowledge has been used in a specific context._
 
-**Fields:** Thinking Routines, Problem Solving and Challenges, Information Processing and Analysis
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Problem Solving and Challenges, Information Processing and Analysis
 
 _Keywords: application of knowledge, problem-solving, critical thinking, reflection, autonomy_
 
@@ -155,7 +155,7 @@ Students must apply the knowledge they have studied, calculate the final price i
 
 _A routine in which students analyze a topic from different points of view. It helps develop empathy, critical thinking, understanding of diverse perspectives, and the ability to formulate new questions about complex situations._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: perspective, empathy, critical thinking, reflection, debate_
 
@@ -209,7 +209,7 @@ At the end, the group shares what new ideas have emerged and what questions rema
 
 _A routine in which students compare different sources, ideas, or phenomena, identifying similarities and differences. It serves to improve comprehension, develop critical thinking, and justify comparisons based on relevant evidence or information._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition
 
 _Keywords: comparison, contrast, analysis, reading, critical thinking, feedback_
 
@@ -282,7 +282,7 @@ Objective: To improve students' understanding of the French Revolution
 
 _A routine in which students represent ideas using a color, a symbol, and an image. It helps to identify the essence of a topic, develop visual synthesis, stimulate creativity, and facilitate discussion about meanings._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: visual synthesis, creativity, communication, comprehension, reflection_
 
@@ -367,7 +367,7 @@ This routine can be useful in helping students improve their understanding of a 
 
 _A routine in which students look for relationships or regularities between concepts, data, or facts. It serves to improve understanding, connect ideas, justify interpretations, and develop critical thinking through the identification of patterns._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: patterns, analysis, relationships, critical thinking, communication_
 
@@ -422,7 +422,7 @@ The activity ends with a discussion about how these patterns can help with decis
 
 _A three-level self-assessment routine: what is understood, what is doubtful, and what is not understood. It serves to highlight difficulties, regulate learning, guide clarifications, and encourage reflection on understanding._
 
-**Fields:** Thinking Routines, Formative Assessment and Feedback, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Formative Assessment and Feedback, Critical Thinking and Metacognition
 
 _Keywords: comprehension, doubts, metacognition, self-assessment, feedback_
 
@@ -461,7 +461,7 @@ The teacher collects the responses or reviews them visually and spends the first
 
 _A metacognitive routine that guides students with questions about what they have learned, how, why, and where they can apply it. It serves to promote reflection, transfer of knowledge, self-regulation, and awareness of one's own learning._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: metacognition, transfer, reflection, self-assessment, application_
 
@@ -504,7 +504,7 @@ After completing a laboratory exercise, students fill in the ladder, indicating 
 
 _A routine in which students formulate hypotheses about a fact or concept and seek evidence to test them. It helps develop critical thinking, research skills, argumentation, and reflection on the validity of their own ideas._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: hypothesis, evidence, research, critical thinking, reflection_
 
@@ -557,7 +557,7 @@ Students generate hypotheses such as lack of light, overwatering, mineral defici
 
 _A routine in which students propose, evaluate, and select solutions to a situation or problem. It helps develop analysis, decision-making, critical thinking, and cooperation in the search for viable answers._
 
-**Fields:** Thinking Routines, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: solutions, problem-solving, decision-making, critical thinking, cooperation_
 
@@ -610,7 +610,7 @@ Then each group evaluates the proposals using three criteria: ease of use, impac
 
 _A three-stage routine: what students know, what they want to know, and what they have learned. It serves to activate prior knowledge, formulate questions, guide learning, and review progress at the end._
 
-**Fields:** Thinking Routines, Activation of Prior Knowledge, Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Activation of Prior Knowledge, Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: prior knowledge, questions, metacognition, synthesis, follow-up_
 
@@ -653,7 +653,7 @@ Before studying ecosystems, students write what they know about food chains, wha
 
 _A routine that uses cardinal points to analyze an idea: enthusiasm, obstacles, needs, and suggestions. It helps evaluate proposals, organize opinions, identify doubts, and decide on next steps in a structured way._
 
-**Fields:** Thinking Routines, Activation of Prior Knowledge, Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Activation of Prior Knowledge, Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: opinion, analysis, decision making, communication, formative assessment_
 
@@ -698,7 +698,7 @@ The teacher presents the following idea or proposal: "The school is considering 
 
 _A routine based on chaining together "why" questions to delve deeper into a concept or problem. It helps improve understanding, identify causes, connect ideas, and develop critical thinking._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: questions, critical thinking, comprehension, metacognition, relationships_
 
@@ -751,7 +751,7 @@ Based on this chain of questions, students propose checking soil moisture, revie
 
 _A routine in which students select a significant word, idea, and phrase from a text. It helps them grasp the essence, share interpretations, identify common themes, and improve reading comprehension._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: reading, synthesis, interpretation, discussion, reflection_
 
@@ -843,7 +843,7 @@ In small groups, students share their choices and justify why they selected them
 
 _This routine involves students comparing their previous understanding with their current understanding. It helps them become aware of conceptual change, develop metacognition, and reflect on how their comprehension has evolved._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Activation of Prior Knowledge
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Activation of Prior Knowledge
 
 _Keywords: Conceptual change, metacognition, reflection, prior knowledge_
 
@@ -883,7 +883,7 @@ The teacher can close the activity by asking each student to identify which idea
 
 _A routine for introducing a topic by connecting prior knowledge, interests, and potential research. It serves to stimulate curiosity, formulate working questions, and guide independent or guided research._
 
-**Fields:** Thinking Routines, Activation of Prior Knowledge, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Activation of Prior Knowledge, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: prior knowledge, curiosity, research, questions, metacognition_
 
@@ -939,7 +939,7 @@ After sharing their ideas about "I Investigate," the teacher guided the students
 
 _This routine involves students asking "why" questions and seeking answers through resources or research. It helps them delve deeper into concepts, develop critical thinking, and improve reasoned understanding._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: questions, research, critical thinking, understanding, reflection_
 
@@ -990,7 +990,7 @@ Students look for answers in maps, population graphs and short testimonies. Then
 
 _A routine in which students answer questions about a concept or fact studied. It serves to check understanding, promote critical thinking, organize ideas, and provide formative feedback._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: questions, comprehension, critical thinking, feedback, formative assessment_
 
@@ -1027,7 +1027,7 @@ Students answer individually first and then compare their answers in small group
 
 _This routine, performed before and after a topic, consists of three ideas, two questions, and an analogy. It serves to activate prior knowledge, observe changes in thinking, and promote metacognition._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Activation of Prior Knowledge
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Activation of Prior Knowledge
 
 _Keywords: prior knowledge, conceptual change, metacognition, questions, analogy_
 
@@ -1050,7 +1050,7 @@ This routine is performed twice, once at the beginning of a topic and once at th
 
 _A routine in which students analyze the consequences or implications of a situation, event, or concept. It helps develop critical thinking, anticipate effects, justify ideas, and evaluate problems from different perspectives._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: consequences, critical thinking, reflection, evidence, perspective_
 
@@ -1099,7 +1099,7 @@ Then each group classifies the consequences as positive, negative or necessary c
 
 _A visual technique that analyzes a character or concept using a silhouette with internal and external features. It is useful for working on perspective, evidence, interpretation, and the visual representation of complex information._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis
 
 _Keywords: character, perspective, evidence, analysis, visual representation_
 
@@ -1142,7 +1142,7 @@ In literature, students analyze a character from a novel. Inside the silhouette,
 
 _A routine in which students formulate a headline that captures the essence of a topic or discussion. It serves to synthesize ideas, communicate preliminary conclusions, and review how understanding changes._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Communication and Creativity
 
 _Keywords: synthesis, headline, comprehension, communication, metacognition_
 
@@ -1202,7 +1202,7 @@ Changes in thinking: The students started with a much more positive view of sing
 
 _An observation routine in which students distinguish what they see, what they think, and what they wonder. It serves to activate prior knowledge, formulate hypotheses, develop critical thinking, and prepare for learning._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Activation of Prior Knowledge
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Activation of Prior Knowledge
 
 _Keywords: observation, interpretation, questions, critical thinking, prior knowledge_
 
@@ -1245,7 +1245,7 @@ In “I think”, they interpret what may be happening: a citizens’ protest, a
 
 _An analysis routine that compares pros and cons of a proposal or problem. It helps assess alternatives, review previous experiences, and support reasoned decisions._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Information Processing and Analysis, Problem Solving and Challenges
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Information Processing and Analysis, Problem Solving and Challenges
 
 _Keywords: pros and cons, analysis, decision-making, argumentation, reflection_
 
@@ -1280,7 +1280,7 @@ Before deciding whether an activity will be done individually or in groups, the 
 
 _Argumentation structure in which students formulate a claim, select evidence and explain through reasoning why that evidence supports the claim. It helps develop critical thinking, scientific explanation, data analysis and justified responses._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: argumentation, evidence, reasoning, critical thinking, scientific explanation, justification, written communication_
 
@@ -1332,7 +1332,7 @@ In a biology lab, students observe that some seeds germinated better with water 
 
 _Technique in which students predict what will happen, observe the result and explain the difference between their prediction and the evidence obtained. It helps activate prior ideas, test hypotheses, detect alternative conceptions and promote conceptual change._
 
-**Fields:** Thinking Routines, Prior Knowledge Activation, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Prior Knowledge Activation, Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: prediction, observation, explanation, hypothesis, evidence, conceptual change, scientific thinking_
 
@@ -1377,7 +1377,7 @@ The experiment is then carried out. Students observe that the potato loses firmn
 
 _Routine in which students formulate a claim, provide support or evidence and ask a question. It helps justify ideas and open new lines of analysis or inquiry._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Information Processing and Analysis, Knowledge Building, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Information Processing and Analysis, Knowledge Building, Communication and Creativity
 
 _Keywords: claim, support, question, evidence, critical thinking, inquiry_
 
@@ -1407,7 +1407,7 @@ In history, after analysing a graph on urban population, a student writes: “Cl
 
 _Routine in which students connect a new idea with what they know, identify what extends their understanding and raise doubts or challenges. It helps integrate and review learning._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Prior Knowledge Activation
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Prior Knowledge Activation
 
 _Keywords: connection, extension, doubts, metacognition, understanding_
 
@@ -1443,7 +1443,7 @@ After reading a text on climate change, students spend 8 minutes completing thre
 
 _Routine for building a concept map from generated, sorted, connected and elaborated ideas. It helps organise knowledge and make relationships visible._
 
-**Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Information Processing and Analysis, Knowledge Building, Communication and Creativity
 
 _Keywords: concept map, connections, synthesis, prior knowledge, metacognition_
 
@@ -1477,7 +1477,7 @@ At the start of the circulatory system, students spend 3 minutes generating term
 
 _Visual routine for analysing a dilemma by placing arguments towards two opposing positions according to their strength. It helps assess controversies and nuance stances._
 
-**Fields:** Thinking Routines, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: dilemma, controversy, arguments, critical thinking, debate_
 
@@ -1517,7 +1517,7 @@ In biology, the class analyses whether the use of animals in biomedical research
 
 _A team-building activity where each student writes a personal description without mentioning their physical appearance, and the group tries to guess who it is. It helps foster mutual understanding, improve self-expression, and create a climate of trust within the class._
 
-**Fields:** Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation
 
 _Keywords: group cohesion, personal expression, active listening, oral presentation_
 
@@ -1548,7 +1548,7 @@ Source: Romero, G.A. (2009). Techniques for working on classroom cohesion.
 
 _A group activity in which participants seek partners who meet certain criteria or answer specific questions. It helps foster mutual understanding, build group cohesion, and improve interaction among students._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: group cohesion, personal knowledge, communication, questions_
 
@@ -1598,7 +1598,7 @@ For a few minutes, students move around the classroom, ask their classmates ques
 
 _A cooperative learning technique in which each student works on a part of a topic and then teaches it to their team. It helps to foster positive interdependence, individual responsibility, reading comprehension, and shared synthesis._
 
-**Fields:** Cohesion and Cooperation, Information Processing and Analysis
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Information Processing and Analysis
 
 _Keywords: puzzles, experts, cooperation, reading, synthesis_
 
@@ -1649,7 +1649,7 @@ The team completes a general diagram of the digestive process, linking the phase
 
 _A team-building activity in which students present personal objects that represent their own characteristics. It helps to foster mutual understanding, build trust, develop empathy, and improve self-expression._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: group cohesion, personal expression, empathy, oral presentation_
 
@@ -1692,7 +1692,7 @@ Then each student prepares their own box with three objects that explain somethi
 
 _This activity involves students physically positioning themselves according to their tastes, preferences, or opinions. It helps foster mutual understanding, express shared interests, accept differences, and strengthen group cohesion._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: group cohesion, personal expression, empathy, participation_
 
@@ -1730,7 +1730,7 @@ Students move to one side or the other depending on whether they agree or disagr
 
 _A team-building activity in which students offer personal clues for others to discover their meaning. It fosters mutual understanding, creativity, active listening, and interaction in pairs or groups._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: group cohesion, personal knowledge, questions, creativity, pairs_
 
@@ -1769,7 +1769,7 @@ Source: ECO. (2007). Group building activities.
 
 _This technique regulates participation in debates using cards that each student uses to participate. It helps prevent monopolies, encourages more reserved students, and ensures equitable communication._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: equitable participation, debate, communication, cooperation, roles_
 
@@ -1807,7 +1807,7 @@ Once a student has used all three chips, they listen until everyone has used the
 
 _A structured technique for gathering and prioritizing students' ideas. It supports balanced participation, prevents excessive dominance, and helps reach consensual decisions._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity, Critical Thinking and Metacognition
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity, Critical Thinking and Metacognition
 
 _Keywords: participation, decision-making, consensus, ideas, cooperation_
 
@@ -1844,7 +1844,7 @@ Before choosing a project topic, each student proposes several options. All idea
 
 _A pair structure in which one student acts as tutor for another. It provides explanations, hints, and support during problem solving without giving the finished solution._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity, Knowledge Building, Formative Assessment and Feedback
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity, Knowledge Building, Formative Assessment and Feedback
 
 _Keywords: tutoring, peer support, pairs, explanation, cooperation_
 
@@ -1883,7 +1883,7 @@ In mathematics, a student tutor supports a partner in solving a problem. The tut
 
 _A structure that combines heterogeneous teams and individualized instruction. It helps each student progress at their level with support, review, and mutual assistance from the team._
 
-**Fields:** Cohesion and Cooperation, Formative Assessment and Feedback, Knowledge Building
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Formative Assessment and Feedback, Knowledge Building
 
 _Keywords: mutual assistance, personalization, heterogeneous teams, cooperation, individual pace_
 
@@ -1922,7 +1922,7 @@ In arithmetic, each student works through a sequence of exercises adapted to the
 
 _A structure in which different groups specialize in different tasks and are later reorganized to teach one another. It helps share complementary learning._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity, Knowledge Building, Information Processing and Analysis
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity, Knowledge Building, Information Processing and Analysis
 
 _Keywords: specialization, peer tutoring, practical tasks, cooperation, synthesis_
 
@@ -1957,7 +1957,7 @@ In biology, half the class carries out a practical task observing plant cells an
 
 _A decision-making activity that compares individual, group, and expert answers. It demonstrates the effectiveness of cooperative work._
 
-**Fields:** Cohesion and Cooperation, Critical Thinking and Metacognition, Problem Solving and Challenges
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Critical Thinking and Metacognition, Problem Solving and Challenges
 
 _Keywords: decision-making, consensus, cooperation, argumentation, comparison_
 
@@ -1994,7 +1994,7 @@ The group must rank the most important objects for survival after a moon landing
 
 _An activity in which each student advertises something they know how to do and can teach. It creates a skill directory, promotes mutual knowledge, and encourages peer support._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: group cohesion, skills, peer support, directory, communication_
 
@@ -2023,7 +2023,7 @@ One student offers help with spreadsheets, another with drawing diagrams, and an
 
 _A shared teaching model in which two teachers plan, teach, and assess together. It improves instruction, mentoring, and support inside the classroom._
 
-**Fields:** Cohesion and Cooperation, Formative Assessment and Feedback, Communication and Creativity
+**Block:** Educational Frameworks · **Fields:** Cohesion and Cooperation, Formative Assessment and Feedback, Communication and Creativity
 
 _Keywords: shared teaching, teacher collaboration, mentoring, inclusion, support_
 
@@ -2061,7 +2061,7 @@ In an inclusive classroom, one teacher leads the explanation while another obser
 
 _Strategy for distributing responsibilities within a team. It is used to improve participation, organization, individual responsibility and the effectiveness of cooperative learning._
 
-**Fields:** Cohesion and Cooperation, Communication and Creativity, Formative Assessment and Feedback
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity, Formative Assessment and Feedback
 
 _Keywords: roles, cooperation, team, individual responsibility, participation, organization_
 
@@ -2116,7 +2116,7 @@ At the end, the team reviews whether each role helped organize the work better: 
 
 _A cooperative learning technique in which students first think individually, then compare ideas in pairs, and finally agree on a group answer. It helps activate prior knowledge, solve problems, improve participation, and develop more comprehensive answers through progressive comparison._
 
-**Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Cohesion and Cooperation
 
 _Keywords: activation of prior knowledge, cooperation, pairs, synthesis, problem solving_
 
@@ -2177,7 +2177,7 @@ Source: Pérez, M. (2015). Cooperative Dynamics.
 
 _This technique involves students defending opposing viewpoints on a topic and then switching perspectives. It helps improve argumentation skills, understand the complexity of the issues debated, listen to opposing arguments, and develop balanced summaries._
 
-**Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: debate, argumentation, perspective, critical thinking, cooperation, synthesis_
 
@@ -2236,7 +2236,7 @@ The activity helps students understand the complexity of the issue and learn to 
 
 _A cooperative structure in which a sheet of paper circulates among the team and each member adds a contribution. It serves to activate prior knowledge, generate ideas, build collective responses, and encourage everyone's participation._
 
-**Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: activation of prior knowledge, cooperation, synthesis, participation, writing_
 
@@ -2294,7 +2294,7 @@ In a second round, each student revises or improves one aspect of the text: voca
 
 _A teaching model based on the phases of engaging, exploring, explaining, elaborating, and evaluating. It serves to structure active learning sequences, activate prior knowledge, promote inquiry, apply concepts, and evaluate throughout the process._
 
-**Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Educational Frameworks · **Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: 5E model, inquiry, prior knowledge, application, formative assessment, cooperation_
 
@@ -2346,7 +2346,7 @@ Topic: **What do seeds need to germinate?**
 
 _This structure involves teams taking on listening roles during a presentation, such as asking questions, agreeing, disagreeing, or giving examples. It helps to increase attention, process information, and generate active participation during explanations._
 
-**Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: active listening, roles, questions, analysis, cooperation_
 
@@ -2411,7 +2411,7 @@ At the end of the presentation, the questioning team asks about causes and conse
 
 _This methodology involves covering theoretical explanations outside of class, while class time is dedicated to questions and activities. It fosters autonomy, allows for tailored instruction, and frees up in-person sessions for applying knowledge and solving problems._
 
-**Fields:** Activation of Prior Knowledge, Knowledge Building, Problem Solving and Challenges, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Activation of Prior Knowledge, Knowledge Building, Problem Solving and Challenges, Formative Assessment and Feedback
 
 _Keywords: flipped classroom, autonomy, prior knowledge, feedback, application_
 
@@ -2466,7 +2466,7 @@ Before class, the teacher reviews the answers and notices that many students con
 
 _This activity involves participants first writing down what they know about a topic individually, and then collaboratively developing a response. It serves to activate prior knowledge, compare ideas, and guide the development of the session._
 
-**Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Information Processing and Analysis, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: prior knowledge, pairs, synthesis, sharing, cooperation_
 
@@ -2511,7 +2511,7 @@ Then students form pairs and build a shared text using both contributions, corre
 
 _A cooperative structure in which all members prepare a task and one is chosen at random to respond. It serves to reinforce individual responsibility, mutual support, review, and formative assessment._
 
-**Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: individual responsibility, cooperation, formative assessment, review, participation_
 
@@ -2560,7 +2560,7 @@ When time is up, the teacher calls a random number, for example 3. All students 
 
 _This technique involves students answering questions in pairs during a session. It serves to activate prior knowledge, encourage dialogue, generate diverse responses, and promote participation before the group discussion._
 
-**Fields:** Activation of Prior Knowledge, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: prior knowledge, pairs, dialogue, consensus, participation_
 
@@ -2601,7 +2601,7 @@ Each pair discusses the questions for a few minutes and writes down two agreed i
 
 _This activity involves students scheduling meetings with classmates to answer questions or explain concepts. It fosters interaction, review, peer communication, and organized movement within the classroom._
 
-**Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: dating, couples, communication, review, interaction_
 
@@ -2642,7 +2642,7 @@ In the next round, with the six o’clock appointment, they answer another quest
 
 _A brief technique in which students think individually, compare their ideas in pairs, and then share with the group. It helps to activate ideas, improve responses, encourage participation, and prepare for debates or explanations._
 
-**Fields:** Activation of Prior Knowledge, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: prior knowledge, pairs, communication, critical thinking, synthesis_
 
@@ -2685,7 +2685,7 @@ In biology, before explaining natural selection, the teacher asks: **Why do some
 
 _A structure in which the team solves a task and a randomly chosen answer counts for everyone. It serves to promote group responsibility, mutual support, consensus, and shared preparation._
 
-**Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Activation of Prior Knowledge, Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: group responsibility, cooperation, evaluation, problem-solving, consensus_
 
@@ -2723,7 +2723,7 @@ At the end, the teacher randomly collects one notebook from each group. The corr
 
 _This methodology presents students with a realistic case study for analysis, discussion, and proposed solutions. It helps develop decision-making, argumentation, understanding of complex situations, and teamwork skills._
 
-**Fields:** Problem Solving and Challenges, Knowledge Building, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Problem Solving and Challenges, Knowledge Building, Communication and Creativity
 
 _Keywords: case studies, analysis, decision making, argumentation, teamwork_
 
@@ -2821,7 +2821,7 @@ Secondary school students are studying economics and have to work on the case of
 
 _A methodology focused on solving problems through empathy, defining the challenge, ideation, prototyping, and testing. It helps develop applied creativity, teamwork, improvement through feedback, and solutions centered on people's needs._
 
-**Fields:** Problem Solving and Challenges, Communication and Creativity, Cohesion and Cooperation, Formative Assessment and Feedback
+**Block:** Educational Frameworks · **Fields:** Problem Solving and Challenges, Communication and Creativity, Cohesion and Cooperation, Formative Assessment and Feedback
 
 _Keywords: design, empathy, prototyping, creativity, feedback, problem solving_
 
@@ -2868,7 +2868,7 @@ In a digitalization class, students design a solution to improve the organizatio
 
 _A structure in which students write down their questions, try to solve them as a team, and then put the unanswered questions in a common container. This helps to identify difficulties, promote mutual support, and guide the teacher's explanation._
 
-**Fields:** Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: questions, mutual help, formative assessment, cooperation, feedback_
 
@@ -2907,7 +2907,7 @@ First, the team tries to answer its members’ questions. Questions they cannot 
 
 _This technique involves gradually withdrawing support: first, the problem is solved as a team, then in pairs, and finally individually. It helps develop autonomy, consolidate procedures, and improve confidence when facing similar problems._
 
-**Fields:** Problem Solving and Challenges, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Problem Solving and Challenges, Cohesion and Cooperation
 
 _Keywords: withdrawal of support, cooperation, couples, problem-solving, autonomy_
 
@@ -2946,7 +2946,7 @@ At the end, the team compares the procedures used and reviews mistakes. The stru
 
 _This technique involves students formulating difficulties or questions, solving them in teams, and exchanging cards with other teams. It helps to identify comprehension problems, foster cooperation, and practice revising answers._
 
-**Fields:** Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: difficulties, problem-solving, peer assessment, feedback, cooperation_
 
@@ -2995,7 +2995,7 @@ In this way, with this technique, all students would have had the opportunity to
 
 _A cooperative technique in which pencils are left in the center while an answer is discussed before being written down. It helps to promote equitable participation, argumentation, consensus, and collaborative task completion._
 
-**Fields:** Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: argumentation, consensus, cooperation, problem-solving, participation_
 
@@ -3048,7 +3048,7 @@ The student responsible for the first question reads it and coordinates the cont
 
 _This refers to a working method based on research groups or problem-solving situations. It serves to organize learning around problems, cooperation, and shared research._
 
-**Fields:** Problem Solving and Challenges, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Problem Solving and Challenges, Cohesion and Cooperation
 
 _Keywords: research, problem-solving, cooperation, teamwork_
 
@@ -3071,7 +3071,7 @@ Each group searches for information, selects evidence and prepares a partial exp
 
 _A technique that organizes possible solutions and consequences in a table or matrix. It is used to analyze alternatives, compare effects, make informed decisions, and work on problem-solving in an organized way._
 
-**Fields:** Problem Solving and Challenges, Information Processing and Analysis
+**Block:** Active Methodologies · **Fields:** Problem Solving and Challenges, Information Processing and Analysis
 
 _Keywords: matrix, problem-solving, decision-making, consequences, analysis_
 
@@ -3125,7 +3125,7 @@ This matrix allows you to compare different solutions and assess which are the b
 
 _This technique involves each member writing a response, and the team then agrees on a common solution. It promotes individual participation, debate, consensus, and cooperative problem-solving._
 
-**Fields:** Problem Solving and Challenges, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Problem Solving and Challenges, Cohesion and Cooperation
 
 _Keywords: consensus, cooperation, problem-solving, decision-making, argumentation_
 
@@ -3160,7 +3160,7 @@ Then the team shares the ideas and writes in the center only those on which ever
 
 _This technique involves presenting a problem related to a unit of study, and students then propose solutions. It helps to activate critical thinking, cooperation, consensus building, and the application of content to relatable problems._
 
-**Fields:** Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: problem situation, problem solving, consensus, critical thinking, cooperation_
 
@@ -3206,7 +3206,7 @@ Finally, the teacher randomly selects one member from each group to explain the 
 
 _A cooperative learning technique using game tournaments between students of similar ability who accumulate points for their team. It serves to motivate, review material, and promote cooperation through balanced competition._
 
-**Fields:** Problem Solving and Challenges, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Problem Solving and Challenges, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: game, tournament, motivation, cooperation, review_
 
@@ -3244,7 +3244,7 @@ On tournament day, students compete at tables with classmates from other teams w
 
 _Technique that mixes different types of tasks so students identify which procedure to apply. It helps improve discrimination, transfer and flexible understanding._
 
-**Fields:** Problem Solving and Challenges, Information Processing and Analysis, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Problem Solving and Challenges, Information Processing and Analysis, Critical Thinking and Metacognition
 
 _Keywords: interleaved practice, transfer, procedures, discrimination, problem solving_
 
@@ -3278,7 +3278,7 @@ In a 20-minute mathematics session, the teacher mixes equations, systems, percen
 
 _Technique in which students study solved and justified problems before solving similar ones. It helps reduce cognitive load and learn complex procedures._
 
-**Fields:** Problem Solving and Challenges, Information Processing and Analysis, Knowledge Building
+**Block:** Active Methodologies · **Fields:** Problem Solving and Challenges, Information Processing and Analysis, Knowledge Building
 
 _Keywords: worked examples, scaffolding, cognitive load, procedures, problem solving_
 
@@ -3315,7 +3315,7 @@ In physics, before solving kinematics problems, the teacher shows an example whe
 
 _A methodology that uses educational games, both digital and analog, with defined learning objectives. It serves to increase motivation, encourage active participation, and develop content or skills through playful activities with an educational purpose._
 
-**Fields:** Knowledge Building, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: play, motivation, active learning, cooperation, creativity_
 
@@ -3364,7 +3364,7 @@ Imagine that secondary school students are studying history and the teacher want
 
 _A methodology in which learning begins with questions, observations, or problems that students must investigate. It serves to develop scientific thinking, formulate hypotheses, gather evidence, and construct reasoned explanations from data._
 
-**Fields:** Knowledge Building, Information Processing and Analysis, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Information Processing and Analysis, Critical Thinking and Metacognition
 
 _Keywords: inquiry, questions, hypotheses, research, evidence, scientific thinking_
 
@@ -3407,7 +3407,7 @@ In biology, students investigate why some seeds germinate better than others. Th
 
 _A methodology based on activities linked to the students' real-world environment. It serves to connect learning with contextualized situations, promote cooperation, encourage reflection, and give practical meaning to the content covered._
 
-**Fields:** Knowledge Building, Problem Solving and Challenges, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Problem Solving and Challenges, Cohesion and Cooperation
 
 _Keywords: situated learning, action, environment, cooperation, reflection_
 
@@ -3448,7 +3448,7 @@ Imagine that secondary school students are studying the environment and the teac
 
 _A methodology in which students develop a final product linked to a question or challenge. It serves to integrate content, research, creativity, cooperation, and formative assessment into a meaningful task with a tangible outcome._
 
-**Fields:** Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: projects, final product, research, formative assessment, creativity, cooperation_
 
@@ -3506,7 +3506,7 @@ Through the development of this project, the students have learned about energy 
 
 _This methodology involves students tackling a real-world challenge and proposing a concrete action to address it. It serves to connect learning with social needs, investigate solutions, test them in context, and disseminate the results._
 
-**Fields:** Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: challenges, real problem, action, research, dissemination, evaluation_
 
@@ -3567,7 +3567,7 @@ Example of applying Challenge-Based Learning to solve this problem:
 
 _A methodology based on learning from direct experiences and subsequent reflection. It serves to connect theory and reality, promote the practical understanding of concepts, and help students apply what they have learned in real-life situations._
 
-**Fields:** Knowledge Building, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Critical Thinking and Metacognition
 
 _Keywords: direct experience, reflection, application, environment, metacognition_
 
@@ -3596,7 +3596,7 @@ After the visit, the students can reflect on their observations and experiences 
 
 _A cooperative structure in pairs with defined times for speaking and listening. This helps ensure balanced participation, improve active listening, share ideas, and develop a common synthesis based on the contributions of both students._
 
-**Fields:** Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: couples, active listening, synthesis, participation, communication_
 
@@ -3648,7 +3648,7 @@ Sources:
 
 _This activity involves students creating digital stories by combining narration, images, audio, or video. It serves to communicate learning, develop creativity, organize information, and produce multimedia materials with expressive or explanatory intent._
 
-**Fields:** Knowledge Building, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Communication and Creativity
 
 _Keywords: digital storytelling, communication, creativity, project, multimedia_
 
@@ -3681,7 +3681,7 @@ The final product combines a short narration, images, simple diagrams, music or 
 
 _Organizing the classroom into stations with different tasks related to the same content helps to diversify activities, cater to different learning paces, promote cooperation, gather varied evidence, and foster student autonomy._
 
-**Fields:** Knowledge Building, Information Processing and Analysis, Cohesion and Cooperation, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Information Processing and Analysis, Cohesion and Cooperation, Formative Assessment and Feedback
 
 _Keywords: stations, rotation, autonomy, cooperation, formative assessment_
 
@@ -3724,7 +3724,7 @@ In biology, one station involves observing samples, another image analysis, anot
 
 _A collaborative, written, and rotating brainstorming activity. It serves to generate many contributions in a short time, enrich ideas with those of other groups, and build a collective synthesis._
 
-**Fields:** Knowledge Building, Communication and Creativity, Information Processing and Analysis
+**Block:** Cooperative Learning Organization · **Fields:** Knowledge Building, Communication and Creativity, Information Processing and Analysis
 
 _Keywords: brainstorming, cooperation, creativity, synthesis, rotation_
 
@@ -3762,7 +3762,7 @@ Each team starts at one poster and writes its ideas for three minutes. Then the 
 
 _This technique involves a group of expert students teaching different aspects of a topic to the rest of the group. It promotes peer teaching, responsibility, communication, and cooperative learning._
 
-**Fields:** Knowledge Building, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Knowledge Building, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: experts, cooperation, peer teaching, communication, synthesis_
 
@@ -3794,7 +3794,7 @@ For example, imagine that you want to carry out an activity on the use of weak p
 
 _This technique involves students formulating initial hypotheses in response to a complex question and then comparing them in pairs. It serves to spark curiosity, activate prior knowledge, and demonstrate that a problem can have multiple approaches._
 
-**Fields:** Knowledge Building, Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Knowledge Building, Problem Solving and Challenges, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: hypotheses, prior knowledge, pairs, problem-solving, curiosity_
 
@@ -3841,7 +3841,7 @@ Source: CRA Los Olivos. (2017). Cooperative Learning Techniques
 
 _A cooperative oral structure in pairs where participants alternate brief answers on a topic. It serves to generate ideas, review content, ensure participation, and improve communication._
 
-**Fields:** Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: brainstorming, pairing, participation, communication, cooperation_
 
@@ -3882,7 +3882,7 @@ The pair continues until they run out of ideas. Then some responses are collecte
 
 _A cooperative oral group structure in which students take turns contributing answers. It serves to generate ideas, review content, ensure balanced participation, and share knowledge quickly._
 
-**Fields:** Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: brainstorming, group, participation, communication, cooperation_
 
@@ -3925,7 +3925,7 @@ The round continues until several proposals have been collected. Then the team s
 
 _A dynamic dialogue in rotating tables where groups answer questions and expand on previous ideas. It serves to generate a collective synthesis, connect perspectives, promote participation, and build shared proposals._
 
-**Fields:** Knowledge Building, Communication and Creativity, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Knowledge Building, Communication and Creativity, Cohesion and Cooperation
 
 _Keywords: dialogue, rotation, collective synthesis, cooperation, creativity_
 
@@ -3960,7 +3960,7 @@ In a unit on sustainability, each table addresses one question: water consumptio
 
 _An approach that organizes learning around students' interests, needs, and direct experiences. It globalizes content through practical everyday-life situations._
 
-**Fields:** Knowledge Building, Information Processing and Analysis, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Information Processing and Analysis, Communication and Creativity
 
 _Keywords: interests, direct experience, globalization, everyday life, meaningful learning_
 
@@ -3995,7 +3995,7 @@ Starting from the center of interest “food”, students observe daily habits, 
 
 _Inquiry methodology in which students investigate a question, analyse evidence, build an argument, defend it before other groups, revise their explanation and produce a final report. It helps develop scientific thinking, argumentation, communication and evidence-based revision._
 
-**Fields:** Knowledge Building, Information Processing and Analysis, Critical Thinking and Metacognition, Communication and Creativity, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Information Processing and Analysis, Critical Thinking and Metacognition, Communication and Creativity, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: inquiry, argumentation, evidence, investigation, scientific thinking, revision, report, scientific communication_
 
@@ -4049,7 +4049,7 @@ Based on these questions, each group revises its explanation and writes a final 
 
 _Teaching model in which support is gradually withdrawn from teacher modelling to autonomous practice. It helps build autonomy with progressive support._
 
-**Fields:** Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition
 
 _Keywords: scaffolding, modelling, autonomy, responsibility, guided practice_
 
@@ -4088,7 +4088,7 @@ To solve geometry problems, the teacher solves one problem while thinking aloud 
 
 _A methodology in which students investigate a question or problem following procedures of the scientific method. It serves to formulate hypotheses, analyze data, draw conclusions, and develop critical thinking and rigor in the search for answers._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: research, scientific method, hypothesis, data, critical thinking, presentation_
 
@@ -4191,7 +4191,7 @@ We can also use a simpler structure for the same problem:
 
 _A methodology in which students learn science through observation, manipulation, and experimental design. It helps them better understand scientific concepts, formulate hypotheses, collect data, analyze it, and communicate results in a reasoned manner._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: laboratory, experimentation, data, hypothesis, scientific thinking, communication_
 
@@ -4246,7 +4246,7 @@ At the end, they analyze the data, compare the results with the initial hypothes
 
 _This methodology organizes a unit using hierarchical questions of knowledge, reasoning, and creativity. It serves to guide understanding, activate prior knowledge, promote synthesis, and help students apply what they have learned in new situations._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: questions, comprehension, synthesis, application, teamwork, formative assessment_
 
@@ -4308,7 +4308,7 @@ The teacher has divided the students into groups of three and assigned each grou
 
 _This methodology begins with an open-ended and meaningful problem that students must solve. It helps develop autonomy, information literacy, critical thinking, cooperation, and the ability to formulate justified solutions._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: problem-solving, research, autonomy, cooperation, presentation, reflection_
 
@@ -4371,7 +4371,7 @@ In the Technology subject, the challenge is to design an automatic irrigation sy
 
 _A methodology in which students construct knowledge through exploration, questioning, and research, with varying degrees of teacher guidance. It fosters autonomy, curiosity, problem-solving skills, and meaningful understanding._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Problem Solving and Challenges, Critical Thinking and Metacognition
 
 _Keywords: discovery, exploration, research, problem-solving, autonomy_
 
@@ -4418,7 +4418,7 @@ Other sources consulted: Jimenez Pierre, O. et al. (2007). Discovery learning mo
 
 _This technique involves students creating sentences from keywords and then organizing them into a diagram or map. It serves to review content, develop summaries, build shared meaning, and strengthen cooperation._
 
-**Fields:** Information Processing and Analysis, Problem Solving and Challenges, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Information Processing and Analysis, Problem Solving and Challenges, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: keywords, synthesis, concept map, cooperation, understanding_
 
@@ -4453,7 +4453,7 @@ The teacher writes key words such as “communication”, “leadership”, “t
 
 _A technique in which students adopt a role or character to deal with a situation. It helps develop empathy, communication, understanding of perspectives, decision-making, and problem-solving in simulated contexts._
 
-**Fields:** Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: role, perspective, decision-making, communication, problem-solving_
 
@@ -4480,7 +4480,7 @@ Imagine that the group is studying World War II. Participants can divide themsel
 
 _This technique involves students interviewing each other in pairs or small groups and then presenting a summary about their partner. It helps improve interpersonal skills, listening, communication, and group cohesion._
 
-**Fields:** Information Processing and Analysis, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Information Processing and Analysis, Cohesion and Cooperation
 
 _Keywords: interview, personal knowledge, couples, communication, summary_
 
@@ -4515,7 +4515,7 @@ After interviewing each other, each student writes a sentence about their partne
 
 _A group dialogue technique focused on a question or problem. It serves to promote participation, listen to different perspectives, build consensus, improve communication, and seek shared solutions._
 
-**Fields:** Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: debate, communication, consensus, perspective, problem solving_
 
@@ -4562,7 +4562,7 @@ The teacher moderates so that no one dominates the conversation and writes down 
 
 _A cooperative reading technique in which students take turns reading, explaining, and evaluating excerpts from a text. It helps improve reading comprehension, active listening, oral expression, and the shared construction of meaning._
 
-**Fields:** Information Processing and Analysis, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Information Processing and Analysis, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: reading, comprehension, summarizing, cooperation, active listening_
 
@@ -4609,7 +4609,7 @@ Then the second student reads the next paragraph and the third summarizes it. Th
 
 _A collective oral reading technique in which students spontaneously continue reading when another student stops. It helps improve comprehension, reading fluency, oral expression, attention, and respect within the group._
 
-**Fields:** Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: reading, comprehension, oral expression, active listening, cooperation_
 
@@ -4646,7 +4646,7 @@ At the end, the group discusses whether the rhythm was maintained, whether the p
 
 _A technique in which a team collaboratively constructs a final concept map or outline. It serves to organize information, synthesize content, distribute responsibilities, and create shared study materials._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Cohesion and Cooperation, Communication and Creativity
+**Block:** Cooperative Learning Organization · **Fields:** Information Processing and Analysis, Knowledge Building, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: Concept map, synthesis, cooperation, information organization, visual communication_
 
@@ -4685,7 +4685,7 @@ In each team, one student prepares the part on neurons, another the central nerv
 
 _This project combines curricular learning with community service to address a real need in the local area. It serves to educate students through social action, reflection, cooperation, and evaluation of results._
 
-**Fields:** Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Problem Solving and Challenges, Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: service-learning, community, project, reflection, evaluation, cooperation_
 
@@ -4798,7 +4798,7 @@ Creation of a community garden in a neighborhood with few green spaces and a hig
 
 _Graphic organiser for working with concepts through definition, characteristics, examples and non-examples. It helps clarify academic vocabulary, distinguish concepts and improve understanding._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: concepts, vocabulary, examples, non-examples, graphic organiser, understanding_
 
@@ -4829,7 +4829,7 @@ In mathematics, for the concept “function”, students write a definition, ide
 
 _Reading comprehension technique based on summarising, questioning, clarifying and predicting by turns. It helps improve active reading, self-regulation, dialogue and shared understanding of texts._
 
-**Fields:** Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Critical Thinking and Metacognition, Cohesion and Cooperation, Communication and Creativity
 
 _Keywords: reading comprehension, summary, questions, clarification, prediction, cooperative reading_
 
@@ -4862,7 +4862,7 @@ In biology, the group reads a text about vaccines. One student summarises the fi
 
 _Routine in which notes circulate and each peer adds an improvement. It helps enrich notes, review information and build a more complete version._
 
-**Fields:** Information Processing and Analysis, Cohesion and Cooperation, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Cohesion and Cooperation, Formative Assessment and Feedback
 
 _Keywords: notes, review, cooperation, synthesis, improvement_
 
@@ -4905,7 +4905,7 @@ After three rounds, the summary returns to its author. Each student spends 3 min
 
 _Note-taking system with a notes area, questions area and final summary. It helps take better notes, review through retrieval and organise autonomous study._
 
-**Fields:** Information Processing and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition
 
 _Keywords: Cornell notes, study, synthesis, retrieval, autonomy_
 
@@ -4943,7 +4943,7 @@ In history, during an explanation of the Second Republic, students take notes fo
 
 _Synthesis technique that condenses learning into one precise sentence. It helps distinguish essential ideas and check understanding quickly._
 
-**Fields:** Information Processing and Analysis, Communication and Creativity, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Communication and Creativity, Formative Assessment and Feedback
 
 _Keywords: summary, synthesis, precision, understanding, writing_
 
@@ -4984,7 +4984,7 @@ After studying the Second Republic, students spend 3 minutes writing a sentence 
 
 _A cooperative structure in which teams develop and answer questions about a topic covered. It serves to review content, prepare assessments, identify doubts, and promote peer support through a series of linked questions._
 
-**Fields:** Formative Assessment and Feedback, Activation of Prior Knowledge, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Formative Assessment and Feedback, Activation of Prior Knowledge, Cohesion and Cooperation
 
 _Keywords: questions, review, formative assessment, cooperation, feedback_
 
@@ -5030,7 +5030,7 @@ The biology teacher has been working on the concepts of blood circulation with h
 
 _An agreement between student and teacher regarding objectives, tasks, resources, deadlines, and evaluation criteria. It serves to promote autonomy, planning, personal responsibility, and monitoring of one's own learning._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
+**Block:** Educational Frameworks · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
 
 _Keywords: autonomy, planning, monitoring, formative assessment, metacognition_
 
@@ -5073,7 +5073,7 @@ In a research project, each student agrees with the teacher on the research ques
 
 _A visual self-assessment or peer-assessment tool that evaluates various criteria on a target. It serves to highlight the level of achievement, compare perceptions, justify assessments, and propose improvements._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: self-assessment, peer assessment, criteria, feedback, visual_
 
@@ -5118,7 +5118,7 @@ After an oral presentation, each student evaluates clarity, mastery of the conte
 
 _A brief formative assessment technique in which students answer one or two questions at the end of an activity. It serves to detect understanding, identify doubts, and adjust the next session._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
 
 _Keywords: formative assessment, doubts, synthesis, feedback, metacognition_
 
@@ -5163,7 +5163,7 @@ After studying mitosis, students write on a card the most important difference b
 
 _Formative assessment technique focused on identifying the most confusing point in an explanation or activity. It serves to highlight difficulties, prepare clarifications, and adjust instruction to real needs._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
 
 _Keywords: doubts, difficulties, formative assessment, feedback, understanding_
 
@@ -5205,7 +5205,7 @@ After explaining exponential functions, several students indicate that the most 
 
 _This structure involves the teacher interrupting the explanation to allow teams to formulate questions or summaries. It serves to check understanding, stimulate reflection, and adjust instruction during the session._
 
-**Fields:** Formative Assessment and Feedback, Information Processing and Analysis
+**Block:** Cooperative Learning Organization · **Fields:** Formative Assessment and Feedback, Information Processing and Analysis
 
 _Keywords: questions, comprehension, formative assessment, synthesis, feedback_
 
@@ -5251,7 +5251,7 @@ Then each team asks one question. The teacher notices that several doubts are fo
 
 _This technique involves students individually answering a conceptual question and then discussing it with their peers. It helps to identify misconceptions, improve understanding, and strengthen argumentation among classmates._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Information Processing and Analysis
+**Block:** Cooperative Learning Organization · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Information Processing and Analysis
 
 _Keywords: conceptual questions, discussion, understanding, feedback, peer teaching_
 
@@ -5296,7 +5296,7 @@ In mathematics, the teacher poses a question about conditional probability with 
 
 _A tool for collecting evidence, student work, and reflections on learning. It serves to document the learning process, select significant work, justify learning outcomes, and facilitate self-assessment and monitoring._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
+**Block:** Educational Frameworks · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
 
 _Keywords: portfolio, evidence, reflection, self-assessment, monitoring_
 
@@ -5339,7 +5339,7 @@ For each piece of evidence, the student explains why it has been included, what 
 
 _A review structure in which students ask and answer questions using cards, which they then exchange. It serves to review content dynamically, receive immediate feedback, and encourage interaction._
 
-**Fields:** Formative Assessment and Feedback, Activation of Prior Knowledge, Critical Thinking and Metacognition
+**Block:** Cooperative Learning Organization · **Fields:** Formative Assessment and Feedback, Activation of Prior Knowledge, Critical Thinking and Metacognition
 
 _Keywords: review, questions, feedback, game, interaction_
 
@@ -5383,7 +5383,7 @@ Then they switch roles, exchange cards and look for a new partner. In a few minu
 
 _A grading technique in which a group distributes points among its members based on their contributions. It serves to promote individual accountability, peer evaluation, and reflection on teamwork._
 
-**Fields:** Formative Assessment and Feedback
+**Block:** Cooperative Learning Organization · **Fields:** Formative Assessment and Feedback
 
 _Keywords: rating, peer assessment, self-assessment, individual responsibility, group_
 
@@ -5412,7 +5412,7 @@ Source: Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 
 _A cooperative technique for heterogeneous teams where individual progress contributes to the team's outcome. It helps improve performance, shared responsibility, mutual support, and academic motivation._
 
-**Fields:** Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: teams, individual improvement, responsibility, cooperation, evaluation_
 
@@ -5456,7 +5456,7 @@ At the end, each student takes an individual test with a new map. The team earns
 
 _A closing activity in which students briefly answer what they learned, what questions they still have, or how they evaluate the session. This serves to gather quick feedback, adjust the teaching, and encourage final reflection._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition
 
 _Keywords: formative assessment, summary, questions, feedback, closure_
 
@@ -5497,7 +5497,7 @@ A student might answer: “I understood that factories changed the organization 
 
 _Formative assessment technique in which students review classmates' work using clear criteria and provide comments to improve it. It helps develop feedback, self-regulation, peer assessment and progressive improvement of products._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity, Cohesion and Cooperation, Information Processing and Analysis
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity, Cohesion and Cooperation, Information Processing and Analysis
 
 _Keywords: peer review, feedback, peer assessment, improvement, rubric, draft, formative assessment_
 
@@ -5549,7 +5549,7 @@ The reviewer identifies one clear idea in the text, one part that is not easy to
 
 _Formative feedback technique in which students identify two positive aspects and one specific improvement. It helps review work in a brief, balanced and improvement-oriented way._
 
-**Fields:** Formative Assessment and Feedback, Communication and Creativity, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Communication and Creativity, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: feedback, peer assessment, improvement, review, formative assessment, comments_
 
@@ -5583,7 +5583,7 @@ After an oral presentation on an environmental problem, a classmate writes: “S
 
 _Review technique in which students actively recall what they have learned without consulting materials. It helps consolidate learning, detect gaps and improve long-term retention._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Prior Knowledge Activation
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Prior Knowledge Activation
 
 _Keywords: retrieval, memory, review, metacognition, formative assessment_
 
@@ -5623,7 +5623,7 @@ The teacher collects the most frequent doubts and uses the first minutes of the 
 
 _Technique that distributes review across sessions separated by increasing intervals. It helps improve long-term retention and keep previous learning active._
 
-**Fields:** Formative Assessment and Feedback, Prior Knowledge Activation, Knowledge Building
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Prior Knowledge Activation, Knowledge Building
 
 _Keywords: spaced practice, review, memory, planning, retrieval_
 
@@ -5661,7 +5661,7 @@ In mathematics, every Friday 10 minutes are devoted to a short worksheet with mi
 
 _Approach in which students move forward when they demonstrate sufficient mastery of a unit. It helps consolidate foundations, adjust support and personalise learning pace._
 
-**Fields:** Formative Assessment and Feedback, Knowledge Building, Educational Design and Analysis
+**Block:** Educational Frameworks · **Fields:** Formative Assessment and Feedback, Knowledge Building, Educational Design and Analysis
 
 _Keywords: mastery learning, personalisation, formative assessment, support, pace_
 
@@ -5699,7 +5699,7 @@ In a fractions unit, each subtopic ends with a short 5-question check. Students 
 
 _Guide that supports the process of a complex task through steps, questions and criteria. It helps develop autonomy and make progress explicit._
 
-**Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: orientation guide, scaffolding, criteria, autonomy, process_
 
@@ -5740,7 +5740,7 @@ For argumentative writing, the guide includes questions such as: “What is your
 
 _A cooperative learning method in which teams choose a topic, divide it into subtopics, and present it to the class. It fosters individual responsibility, cooperation, research, and peer evaluation of contributions and products._
 
-**Fields:** Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Cooperative Learning Organization · **Fields:** Critical Thinking and Metacognition, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: cooperation, research, presentation, peer evaluation, individual responsibility_
 
@@ -5799,7 +5799,7 @@ Adapted from: Research Group on Peer Learning. (2019). Cooperative Learning Meth
 
 _This tool allows students to regularly record their learning experiences, difficulties, and progress. It promotes metacognition, work tracking, self-assessment, and awareness of their own learning process._
 
-**Fields:** Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: learning journal, reflection, metacognition, monitoring, self-assessment_
 
@@ -5876,7 +5876,7 @@ I completed all the homework and reviewed the unit's concepts every day to be pr
 
 _A structured dialogue technique focused on a text, image, problem, or dilemma. It helps to build understanding, formulate questions, listen actively, argue with evidence, and reflect on the quality of the dialogue._
 
-**Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis
 
 _Keywords: dialogue, argumentation, active listening, critical thinking, text_
 
@@ -5917,7 +5917,7 @@ In philosophy or biology, the group analyzes a text on bioethics. Students prepa
 
 _Tool for building and analysing arguments by distinguishing claim, data, warrant, backing, qualifiers and rebuttals. It helps improve argumentation, evaluate evidence, anticipate objections and defend conclusions more precisely._
 
-**Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback
 
 _Keywords: argumentation, Toulmin, evidence, warrants, rebuttal, critical thinking, debate, reasoning_
 
@@ -5976,7 +5976,7 @@ The technique helps students not only defend a position, but also recognise its 
 
 _Visual technique for representing thesis, reasons, evidence, objections and counterarguments. It helps analyse the strength of an argument and improve texts, debates or justified decisions._
 
-**Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback
 
 _Keywords: argumentation, map, evidence, objections, counterarguments, critical thinking_
 
@@ -6013,7 +6013,7 @@ In citizenship education, students build a map around the question: “Should mo
 
 _Cooperative debate technique in which a controversial issue is analysed using sources and evidence. It helps students argue, distinguish data from opinion, revise stances and produce balanced syntheses._
 
-**Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback, Cohesion and Cooperation
 
 _Keywords: controversy, evidence, debate, argumentation, sources, critical thinking, synthesis_
 
@@ -6050,7 +6050,7 @@ In biology and citizenship education, the class debates whether the sale of ener
 
 _Technique in which the teacher verbalises their thinking while performing a task. It helps make strategies, doubts and self-regulation processes visible._
 
-**Fields:** Critical Thinking and Metacognition, Information Processing and Analysis, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Information Processing and Analysis, Communication and Creativity
 
 _Keywords: think-aloud, modelling, metacognition, self-regulation, strategies_
 
@@ -6089,7 +6089,7 @@ In a reading comprehension activity, the teacher reads a paragraph and says: “
 
 _A discussion technique in which a small group engages in dialogue while the rest observes with a specific task. It serves to improve the quality of debate, listening, argumentation, and peer evaluation of oral communication._
 
-**Fields:** Communication and Creativity, Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Active Methodologies · **Fields:** Communication and Creativity, Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: debate, observation, active listening, peer evaluation, argumentation_
 
@@ -6134,7 +6134,7 @@ In social sciences, the central group debates whether a city should limit privat
 
 _This technique involves teams presenting their work, while others rotate through to observe and provide feedback. It fosters peer evaluation, constructive feedback, visual communication, and the review of student work._
 
-**Fields:** Communication and Creativity, Formative Assessment and Feedback, Information Processing and Analysis
+**Block:** Active Methodologies · **Fields:** Communication and Creativity, Formative Assessment and Feedback, Information Processing and Analysis
 
 _Keywords: gallery, peer evaluation, feedback, visual communication, cooperation_
 
@@ -6178,7 +6178,7 @@ The posters are placed on the classroom walls. Groups rotate around the room and
 
 _A technique that represents ideas through drawings, diagrams, arrows, and simple graphic elements. It serves to organize information, synthesize concepts, promote understanding, and communicate ideas visually._
 
-**Fields:** Communication and Creativity, Information Processing and Analysis
+**Block:** Active Methodologies · **Fields:** Communication and Creativity, Information Processing and Analysis
 
 _Keywords: Visual thinking, visual communication, synthesis, creativity, organization of ideas_
 
@@ -6240,7 +6240,7 @@ Each group visually represents the problem, possible actions, people involved an
 
 _Strategy that incorporates game elements into a learning activity or sequence. It is used to increase engagement, make progress visible, provide frequent feedback and structure meaningful challenges linked to learning objectives._
 
-**Fields:** Communication and Creativity, Formative Assessment and Feedback, Problem Solving and Challenges, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Communication and Creativity, Formative Assessment and Feedback, Problem Solving and Challenges, Cohesion and Cooperation
 
 _Keywords: game, challenges, narrative, missions, motivation, feedback, progress_
 
@@ -6291,7 +6291,7 @@ The activity is not based on competing for points, but on using the game structu
 
 _Dialogic activity based on a common material. It is used to improve comprehension, argumentation, active listening and shared construction of meaning._
 
-**Fields:** Communication and Creativity, Critical Thinking and Metacognition, Information Processing and Analysis, Cohesion and Cooperation
+**Block:** Active Methodologies · **Fields:** Communication and Creativity, Critical Thinking and Metacognition, Information Processing and Analysis, Cohesion and Cooperation
 
 _Keywords: dialogue, gathering, argumentation, active listening, comprehension, participation_
 
@@ -6335,7 +6335,7 @@ The teacher does not look for a single correct interpretation, but helps the gro
 
 _A backward-planning model in which learning outcomes are defined first, then evidence, and finally activities. It helps align objectives, assessment, and learning experiences._
 
-**Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Knowledge Building, Critical Thinking and Metacognition
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Knowledge Building, Critical Thinking and Metacognition
 
 _Keywords: planning, curriculum design, evidence, objectives, assessment_
 
@@ -6378,7 +6378,7 @@ Before designing a unit on ecosystems, the teacher defines that students should 
 
 _A framework for analyzing the cognitive complexity of tasks. It helps distinguish the type of mental processing required, from simple reproduction to strategic or extended thinking._
 
-**Fields:** Educational Design and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback, Information Processing and Analysis
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Critical Thinking and Metacognition, Formative Assessment and Feedback, Information Processing and Analysis
 
 _Keywords: cognitive complexity, thinking, tasks, assessment, reasoning_
 
@@ -6420,7 +6420,7 @@ Memorizing a formula may have a low DOK level, while choosing which mathematical
 
 _A model for assessing the quality of understanding shown by students. It helps distinguish superficial, partial, integrated, or transferred responses to new contexts._
 
-**Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition, Information Processing and Analysis
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition, Information Processing and Analysis
 
 _Keywords: understanding, rubric, feedback, response quality, transfer_
 
@@ -6463,7 +6463,7 @@ In response to a question about natural selection, a student may mention only on
 
 _A taxonomy that classifies cognitive processes such as remembering, understanding, applying, analyzing, evaluating, and creating. It helps formulate objectives and design tasks aligned with the expected thinking._
 
-**Fields:** Educational Design and Analysis, Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Knowledge Building, Critical Thinking and Metacognition, Formative Assessment and Feedback
 
 _Keywords: objectives, cognitive processes, planning, assessment, tasks_
 
@@ -6507,7 +6507,7 @@ In a biology unit, students may remember terms, explain processes, apply a model
 
 _An assessment approach based on meaningful and contextualized tasks. It checks the functional application of learning in situations close to real or plausible contexts._
 
-**Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Problem Solving and Challenges, Critical Thinking and Metacognition
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Problem Solving and Challenges, Critical Thinking and Metacognition
 
 _Keywords: authentic assessment, context, application, rubric, evidence_
 
@@ -6543,7 +6543,7 @@ Instead of only answering questions about nutrition, students design a healthy m
 
 _An approach focused on teaching practices with visible impact on learning. It helps prioritize feedback, clarity, evidence of progress, and teaching decisions based on observable results._
 
-**Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition, Knowledge Building
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition, Knowledge Building
 
 _Keywords: evidence, feedback, progress, clarity, impact_
 
@@ -6580,7 +6580,7 @@ In a writing activity, the teacher shares clear criteria, reviews drafts, gives 
 
 _A model for integrating content, pedagogy, and technology coherently. It helps balance what is taught, how it is taught, and which tools best support learning._
 
-**Fields:** Educational Design and Analysis, Communication and Creativity, Information Processing and Analysis, Knowledge Building
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Communication and Creativity, Information Processing and Analysis, Knowledge Building
 
 _Keywords: technology, pedagogy, content, design, digital integration_
 
@@ -6619,7 +6619,7 @@ The teacher selects data close to students’ experience so that statistical con
 
 _A model for analyzing the level of technology integration. It helps check whether technology substitutes, improves, redesigns, or truly transforms a learning task._
 
-**Fields:** Educational Design and Analysis, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Communication and Creativity, Information Processing and Analysis, Formative Assessment and Feedback
 
 _Keywords: technology, digital integration, redesign, transformation, tasks_
 
@@ -6663,7 +6663,7 @@ Writing a text in a word processor may be substitution; collaborating in a share
 
 _An inclusive design framework that addresses learner diversity from the beginning. It offers multiple means of access, engagement, representation, and expression of learning._
 
-**Fields:** Educational Design and Analysis, Cohesion and Cooperation, Communication and Creativity, Formative Assessment and Feedback
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Cohesion and Cooperation, Communication and Creativity, Formative Assessment and Feedback
 
 _Keywords: inclusion, diversity, accessibility, expression, participation_
 
@@ -6706,7 +6706,7 @@ In a research task, students may consult texts, videos or diagrams, work with gr
 
 _A framework that groups critical thinking, creativity, communication, and collaboration. It helps incorporate these competencies transversally into the design of tasks and projects._
 
-**Fields:** Educational Design and Analysis, Critical Thinking and Metacognition, Communication and Creativity, Cohesion and Cooperation
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Critical Thinking and Metacognition, Communication and Creativity, Cohesion and Cooperation
 
 _Keywords: critical thinking, creativity, communication, collaboration, competencies_
 
@@ -6744,7 +6744,7 @@ In a sustainability project, students analyze data, design proposals, communicat
 
 _Tool that makes criteria and achievement levels explicit. It is used to guide work, support self-assessment, peer assessment and feedback, and make assessment more transparent._
 
-**Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity
 
 _Keywords: rubric, criteria, achievement levels, assessment, feedback, self-assessment, peer assessment_
 
@@ -6794,7 +6794,7 @@ Before presenting, each group reviews its work with the rubric and identifies wh
 
 _Framework of thinking dispositions such as persisting, listening, thinking flexibly and striving for accuracy. It helps cultivate transversal habits useful in any subject._
 
-**Fields:** Educational Design and Analysis, Critical Thinking and Metacognition, Cohesion and Cooperation
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Critical Thinking and Metacognition, Cohesion and Cooperation
 
 _Keywords: habits of mind, dispositions, metacognition, thinking, self-regulation_
 
@@ -6828,7 +6828,7 @@ In a research project, each team spends 5 minutes reviewing three habits: persis
 
 _Framework that helps design materials and sequences taking working-memory limits into account. It helps reduce unnecessary load and graduate support._
 
-**Fields:** Educational Design and Analysis, Information Processing and Analysis, Knowledge Building
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Information Processing and Analysis, Knowledge Building
 
 _Keywords: cognitive load, working memory, scaffolding, instructional design, worked examples_
 
@@ -6865,7 +6865,7 @@ In physics, early motion problems are presented with the data already identified
 
 _Technique using cartoons with characters who express different ideas about a phenomenon or concept. It helps detect alternative conceptions, create cognitive conflict and justify explanations with evidence._
 
-**Fields:** Prior Knowledge Activation, Critical Thinking and Metacognition, Knowledge Building, Information Processing and Analysis, Communication and Creativity
+**Block:** Active Methodologies · **Fields:** Prior Knowledge Activation, Critical Thinking and Metacognition, Knowledge Building, Information Processing and Analysis, Communication and Creativity
 
 _Keywords: cartoon, alternative conceptions, cognitive conflict, hypotheses, evidence, inquiry_
 
@@ -6898,7 +6898,7 @@ In physics, a cartoon shows three students talking about a falling ball. One say
 
 _Structured technique for generating, classifying, transforming and prioritising questions from a stimulus. It helps start investigations and develop intellectual autonomy._
 
-**Fields:** Prior Knowledge Activation, Critical Thinking and Metacognition, Information Processing and Analysis, Knowledge Building
+**Block:** Active Methodologies · **Fields:** Prior Knowledge Activation, Critical Thinking and Metacognition, Information Processing and Analysis, Knowledge Building
 
 _Keywords: questions, inquiry, curiosity, autonomy, research_
 

@@ -1702,7 +1702,7 @@ Durant uns minuts, l’alumnat es mou per l’aula, pregunta als companys i anot
 
 _Tècnica cooperativa en què cada alumne treballa una part d'un contingut i després l'ensenya al seu equip. Serveix per fomentar interdependència positiva, responsabilitat individual, comprensió de textos i síntesi compartida._
 
-**Bloc:** Organització de l’aprenentatge cooperatiu; Metodologies actives · **Àmbits:** Cohesió i Cooperació, Processament i Anàlisi de la informació
+**Bloc:** Organització de l’aprenentatge cooperatiu · **Àmbits:** Cohesió i Cooperació, Processament i Anàlisi de la informació
 
 _Paraules clau: trencaclosques, experts, cooperació, lectura, síntesi_
 
@@ -1982,7 +1982,7 @@ Abans d'escollir el tema d'un projecte, cada alumne proposa diverses opcions. De
 
 _Estructura en parelles on un alumne actua com a tutor d'un altre. Serveix per oferir explicacions, pistes i suport durant la resolució sense donar la solució ja feta._
 
-**Bloc:** Organització de l’aprenentatge cooperatiu; Metodologies actives · **Àmbits:** Cohesió i Cooperació, Comunicació i Creativitat, Construcció de coneixement, Avaluació Formativa i Feedback
+**Bloc:** Organització de l’aprenentatge cooperatiu · **Àmbits:** Cohesió i Cooperació, Comunicació i Creativitat, Construcció de coneixement, Avaluació Formativa i Feedback
 
 _Paraules clau: tutoria, ajuda entre iguals, parelles, explicació, cooperació_
 
@@ -2023,7 +2023,7 @@ En matemàtiques, un alumne tutor acompanya el seu company en la resolució d'un
 
 _Estructura que combina equips heterogenis i instrucció personalitzada. Serveix perquè cada alumne avanci segons el seu nivell amb suport, revisió i ajuda mútua de l'equip._
 
-**Bloc:** Organització de l’aprenentatge cooperatiu; Metodologies actives · **Àmbits:** Cohesió i Cooperació, Avaluació Formativa i Feedback, Construcció de coneixement
+**Bloc:** Organització de l’aprenentatge cooperatiu · **Àmbits:** Cohesió i Cooperació, Avaluació Formativa i Feedback, Construcció de coneixement
 
 _Paraules clau: ajuda mútua, personalització, equips heterogenis, cooperació, ritme individual_
 
@@ -2064,7 +2064,7 @@ En càlcul, cada alumne treballa una seqüència d'exercicis ajustada al seu niv
 
 _Estructura en què grups diferents s'especialitzen en tasques diferents i després es reorganitzen per ensenyar-se mútuament. Serveix per compartir aprenentatges complementaris._
 
-**Bloc:** Organització de l’aprenentatge cooperatiu; Metodologies actives · **Àmbits:** Cohesió i Cooperació, Comunicació i Creativitat, Construcció de coneixement, Processament i Anàlisi de la informació
+**Bloc:** Organització de l’aprenentatge cooperatiu · **Àmbits:** Cohesió i Cooperació, Comunicació i Creativitat, Construcció de coneixement, Processament i Anàlisi de la informació
 
 _Paraules clau: especialització, tutoria entre iguals, pràctiques, cooperació, síntesi_
 
@@ -3064,7 +3064,7 @@ Els aumnes de l'ESO estan estudiant l'economia i han de treballar amb el cas d'u
 
 _Metodologia centrada a resoldre problemes mitjançant empatia, definició del repte, ideació, prototipatge i prova. Serveix per desenvolupar creativitat aplicada, treball en equip, millora mitjançant feedback i solucions centrades en necessitats reals._
 
-**Bloc:** Marcs educatius; Metodologies actives · **Àmbits:** Resolució de problemes i Reptes, Comunicació i Creativitat, Cohesió i Cooperació, Avaluació Formativa i Feedback
+**Bloc:** Marcs educatius · **Àmbits:** Resolució de problemes i Reptes, Comunicació i Creativitat, Cohesió i Cooperació, Avaluació Formativa i Feedback
 
 _Paraules clau: disseny, empatia, prototip, creativitat, feedback, resolució de problemes_
 
@@ -3288,7 +3288,7 @@ L’alumne responsable de la primera qüestió la llegeix i coordina les interve
 
 _Referència a una modalitat de treball basada en grups de recerca o situacions problematitzades. Serveix per organitzar l'aprenentatge al voltant de problemes, cooperació i investigació compartida._
 
-**Bloc:** Organització de l’aprenentatge cooperatiu; Metodologies actives · **Àmbits:** Resolució de problemes i Reptes, Cohesió i Cooperació
+**Bloc:** Organització de l’aprenentatge cooperatiu · **Àmbits:** Resolució de problemes i Reptes, Cohesió i Cooperació
 
 _Paraules clau: investigació, resolució de problemes, cooperació, treball en equip_
 
@@ -5128,7 +5128,7 @@ En matemàtiques, per al concepte “funció”, l'alumnat escriu una definició
 
 _Tècnica de comprensió lectora basada a resumir, preguntar, aclarir i predir per torns. Serveix per millorar lectura activa, autoregulació, diàleg i comprensió compartida de textos._
 
-**Bloc:** Metodologies actives; Organització de l'aprenentatge cooperatiu · **Àmbits:** Processament i Anàlisi de la informació, Construcció de coneixement, Pensament Crític i Metacognició, Cohesió i Cooperació, Comunicació i Creativitat
+**Bloc:** Metodologies actives · **Àmbits:** Processament i Anàlisi de la informació, Construcció de coneixement, Pensament Crític i Metacognició, Cohesió i Cooperació, Comunicació i Creativitat
 
 _Paraules clau: comprensió lectora, resum, preguntes, aclariment, predicció, lectura cooperativa_
 
@@ -5594,7 +5594,7 @@ En matemàtiques, el professor planteja una pregunta sobre probabilitat condicio
 
 _Eina de recopilació d'evidències, produccions i reflexions de l'aprenentatge. Serveix per documentar el procés, seleccionar treballs significatius, justificar aprenentatges i afavorir autoavaluació i seguiment._
 
-**Bloc:** Marcs educatius; Metodologies actives · **Àmbits:** Avaluació Formativa i Feedback, Pensament Crític i Metacognició
+**Bloc:** Marcs educatius · **Àmbits:** Avaluació Formativa i Feedback, Pensament Crític i Metacognició
 
 _Paraules clau: portfolio, evidències, reflexió, autoavaluació, seguiment_
 
@@ -5971,7 +5971,7 @@ En matemàtiques, cada divendres es dediquen 10 minuts a una fitxa breu amb cont
 
 _Enfocament en què l’alumnat avança quan demostra domini suficient d’una unitat. Serveix per consolidar bases, ajustar suports i personalitzar el ritme d’aprenentatge._
 
-**Bloc:** Marcs educatius; Metodologies actives · **Àmbits:** Avaluació Formativa i Feedback, Construcció de coneixement, Disseny i anàlisi educatiu
+**Bloc:** Marcs educatius · **Àmbits:** Avaluació Formativa i Feedback, Construcció de coneixement, Disseny i anàlisi educatiu
 
 _Paraules clau: aprenentatge de domini, personalització, avaluació formativa, suport, ritme_
 
@@ -6056,7 +6056,7 @@ Per escriure un text argumentatiu, la guia inclou preguntes com: “Quina és la
 
 _Mètode cooperatiu en què els equips trien un tema, el divideixen en subtemes i el presenten al grup classe. Serveix per fomentar la responsabilitat individual, la cooperació, la investigació i la coavaluació d'aportacions i productes._
 
-**Bloc:** Organització de l’aprenentatge cooperatiu; Metodologies actives · **Àmbits:** Pensament Crític i Metacognició, Avaluació Formativa i Feedback, Cohesió i Cooperació
+**Bloc:** Organització de l’aprenentatge cooperatiu · **Àmbits:** Pensament Crític i Metacognició, Avaluació Formativa i Feedback, Cohesió i Cooperació
 
 _Paraules clau: cooperació, investigació, presentació, coavaluació, responsabilitat individual_
 
@@ -6185,7 +6185,7 @@ He fet tots els deures que ens han donat i he revisat els conceptes de la unitat
 
 _Tècnica de diàleg estructurat sobre un text, imatge, problema o dilema. Serveix per construir comprensió, formular preguntes, escoltar activament, argumentar amb evidències i reflexionar sobre la qualitat del diàleg._
 
-**Bloc:** Metodologies actives; Organització de l’aprenentatge cooperatiu · **Àmbits:** Pensament Crític i Metacognició, Comunicació i Creativitat, Processament i Anàlisi de la informació
+**Bloc:** Metodologies actives · **Àmbits:** Pensament Crític i Metacognició, Comunicació i Creativitat, Processament i Anàlisi de la informació
 
 _Paraules clau: diàleg, argumentació, escolta activa, pensament crític, text_
 
@@ -6224,7 +6224,7 @@ En filosofia o biologia, el grup analitza un text sobre bioètica. Els alumnes p
 
 _Eina per construir i analitzar arguments distingint afirmació, dades, garantia, suport, matisadors i refutacions. Serveix per millorar l'argumentació, valorar evidències, anticipar objeccions i defensar conclusions amb més precisió._
 
-**Bloc:** Metodologies actives; Marcs educatius · **Àmbits:** Pensament Crític i Metacognició, Comunicació i Creativitat, Processament i Anàlisi de la informació, Avaluació Formativa i Feedback
+**Bloc:** Metodologies actives · **Àmbits:** Pensament Crític i Metacognició, Comunicació i Creativitat, Processament i Anàlisi de la informació, Avaluació Formativa i Feedback
 
 _Paraules clau: argumentació, Toulmin, evidències, garanties, refutació, pensament crític, debat, raonament_
 
@@ -6324,7 +6324,7 @@ En ciutadania, l'alumnat construeix un mapa sobre la pregunta: “S'ha de limita
 
 _Tècnica de debat cooperatiu en què una qüestió controvertida s'analitza amb fonts i evidències. Serveix per argumentar, distingir dades i opinions, revisar postures i elaborar síntesis equilibrades._
 
-**Bloc:** Metodologies actives; Organització de l'aprenentatge cooperatiu · **Àmbits:** Pensament Crític i Metacognició, Comunicació i Creativitat, Processament i Anàlisi de la informació, Avaluació Formativa i Feedback, Cohesió i Cooperació
+**Bloc:** Metodologies actives · **Àmbits:** Pensament Crític i Metacognició, Comunicació i Creativitat, Processament i Anàlisi de la informació, Avaluació Formativa i Feedback, Cohesió i Cooperació
 
 _Paraules clau: controvèrsia, evidències, debat, argumentació, fonts, pensament crític, síntesi_
 
@@ -6406,7 +6406,7 @@ En una activitat de comprensió lectora, el professor llegeix un paràgraf i diu
 
 _Tècnica de discussió en què un petit grup dialoga mentre la resta observa amb una tasca concreta. Serveix per millorar la qualitat del debat, l'escolta, l'argumentació i la coavaluació de la comunicació oral._
 
-**Bloc:** Metodologies actives; Organització de l’aprenentatge cooperatiu · **Àmbits:** Comunicació i Creativitat, Pensament Crític i Metacognició, Avaluació Formativa i Feedback
+**Bloc:** Metodologies actives · **Àmbits:** Comunicació i Creativitat, Pensament Crític i Metacognició, Avaluació Formativa i Feedback
 
 _Paraules clau: debat, observació, escolta activa, coavaluació, argumentació_
 
@@ -6550,7 +6550,7 @@ Cada grup representa visualment el problema, les possibles accions, les persones
 
 _Estratègia que incorpora elements del joc en una activitat o seqüència didàctica. Serveix per augmentar la implicació, fer visible el progrés, oferir feedback freqüent i estructurar reptes significatius vinculats als objectius d’aprenentatge._
 
-**Bloc:** Metodologies actives; Marcs educatius · **Àmbits:** Comunicació i Creativitat, Avaluació Formativa i Feedback, Resolució de problemes i Reptes, Cohesió i Cooperació
+**Bloc:** Metodologies actives · **Àmbits:** Comunicació i Creativitat, Avaluació Formativa i Feedback, Resolució de problemes i Reptes, Cohesió i Cooperació
 
 _Paraules clau: joc, reptes, narrativa, missions, motivació, feedback, progrés_
 
@@ -6603,7 +6603,7 @@ L’activitat no es basa a competir per punts, sinó a utilitzar l’estructura 
 
 _Dinàmica de diàleg igualitari sobre un material comú. Serveix per millorar comprensió, argumentació, escolta activa i construcció compartida de significat._
 
-**Bloc:** Metodologies actives; Organització de l’aprenentatge cooperatiu · **Àmbits:** Comunicació i Creativitat, Pensament Crític i Metacognició, Processament i Anàlisi de la informació, Cohesió i Cooperació
+**Bloc:** Metodologies actives · **Àmbits:** Comunicació i Creativitat, Pensament Crític i Metacognició, Processament i Anàlisi de la informació, Cohesió i Cooperació
 
 _Paraules clau: diàleg, tertúlia, argumentació, escolta activa, comprensió, participació_
 
@@ -6833,7 +6833,7 @@ En una unitat de biologia, l’alumnat pot recordar termes, explicar processos, 
 
 _Enfocament d'avaluació basat en tasques significatives i contextualitzades. Serveix per comprovar l'aplicació funcional de l'aprenentatge en situacions properes a contextos reals o versemblants._
 
-**Bloc:** Marcs educatius; Metodologies actives · **Àmbits:** Disseny i anàlisi educativa, Avaluació Formativa i Feedback, Resolució de problemes i Reptes, Pensament Crític i Metacognició
+**Bloc:** Marcs educatius · **Àmbits:** Disseny i anàlisi educativa, Avaluació Formativa i Feedback, Resolució de problemes i Reptes, Pensament Crític i Metacognició
 
 _Paraules clau: avaluació autèntica, context, aplicació, rúbrica, evidències_
 

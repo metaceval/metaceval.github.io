@@ -1669,7 +1669,7 @@
       border-bottom: 1px solid var(--border);
       position: sticky;
       top: 58px;
-      z-index: 90;
+      z-index: 210;
     }
     /* Segmented control container */
     .view-toggle-inner {
@@ -1874,6 +1874,14 @@
   <div class="view-toggle-inner">
     <button class="view-btn active" id="viewBtnTecnicas" data-view="tecnicas"></button>
     <button class="view-btn" id="viewBtnEvaluacion" data-view="evaluacion"></button>
+  </div>
+  <div class="view-mode-wrap" id="viewModeToggle" style="position:absolute;right:16px;">
+    <button class="view-mode-btn active" id="viewModeCardsTop" title="">
+      <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+    </button>
+    <button class="view-mode-btn" id="viewModeMapTop" title="">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+    </button>
   </div>
 </div>
 
@@ -4230,6 +4238,13 @@ function renderViewToggle() {
   document.getElementById('viewBtnEvaluacion').textContent = i('viewEvaluacion');
   document.getElementById('viewBtnTecnicas').classList.toggle('active', S.view === 'tecnicas');
   document.getElementById('viewBtnEvaluacion').classList.toggle('active', S.view === 'evaluacion');
+  // Show/hide and sync the cards/map toggle
+  const vmToggle = document.getElementById('viewModeToggle');
+  if (vmToggle) {
+    vmToggle.style.display = S.view === 'tecnicas' ? '' : 'none';
+    document.getElementById('viewModeCardsTop')?.classList.toggle('active', !S.mapMode);
+    document.getElementById('viewModeMapTop')?.classList.toggle('active', S.mapMode);
+  }
 }
 
 function switchView(view) {
@@ -6041,7 +6056,7 @@ function toggleMapView() {
     mapView.style.display = 'block';
     mainEl.style.display  = 'none';
     document.body.classList.add('map-mode');
-    // mapViewBtn removed
+    renderViewToggle();
     document.getElementById('selectBtn').style.display = 'none';
     document.getElementById('favBtn').style.display    = 'none';
     mapResizeCanvas();
@@ -6054,7 +6069,7 @@ function toggleMapView() {
     mapView.style.display = 'none';
     mainEl.style.display  = '';
     document.body.classList.remove('map-mode');
-    // mapViewBtn removed
+    renderViewToggle();
     document.getElementById('selectBtn').style.display = '';
     document.getElementById('favBtn').style.display    = '';
     renderCards();
@@ -7400,7 +7415,9 @@ async function init() {
   document.getElementById('mapFitBtn').onclick    = mapFitAll;
   document.getElementById('mapResetBtn').onclick  = () => { if (MAP.viewMode === 'blocks') initMapBlocks(); else initMapData(); };
   document.getElementById('mapViewModeCards').onclick = () => toggleMapView();
-  document.getElementById('mapViewModeMap').onclick   = () => {}; // already in map mode
+  document.getElementById('mapViewModeMap').onclick   = () => {};
+  document.getElementById('viewModeCardsTop').onclick = () => { if (S.mapMode) toggleMapView(); };
+  document.getElementById('viewModeMapTop').onclick   = () => { if (!S.mapMode) toggleMapView(); };
   const gapLabel = document.getElementById('mapGapLabel');
   const gapMinus = document.getElementById('mapGapMinus');
   const gapPlus  = document.getElementById('mapGapPlus');

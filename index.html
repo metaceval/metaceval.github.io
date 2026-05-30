@@ -1584,10 +1584,29 @@
     }
     .eval-hub-wrap {
       position: relative;
-      height: 52%;
-      min-height: 180px;
+      min-height: 120px;
       flex-shrink: 0;
-      border-bottom: 1px solid var(--border);
+    }
+    .eval-split-handle {
+      height: 6px;
+      flex-shrink: 0;
+      background: var(--border);
+      cursor: row-resize;
+      position: relative;
+      transition: background .15s;
+    }
+    .eval-split-handle:hover, .eval-split-handle.dragging { background: var(--primary); }
+    .eval-split-handle::after {
+      content: '';
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: 32px;
+      height: 3px;
+      border-radius: 2px;
+      background: var(--text-muted);
+      opacity: .5;
     }
     .eval-hub-controls {
       position: absolute;
@@ -1995,7 +2014,7 @@
       <p id="evalDetailEmptyMsg"></p>
     </div>
     <div class="eval-detail-content" id="evalDetailContent" style="display:none;">
-      <div class="eval-hub-wrap" id="evalHubWrap">
+      <div class="eval-hub-wrap" id="evalHubWrap" style="height:52%">
         <canvas id="evalHubCanvas" style="display:block;width:100%;height:100%;cursor:grab;touch-action:none;"></canvas>
         <div class="eval-hub-controls">
           <button class="btn" id="evalHub2ndBtn" style="font-size:.74rem;padding:3px 8px;">2.º nivel</button>
@@ -2003,6 +2022,7 @@
           <button class="btn" id="evalHubFullBtn" style="font-size:.74rem;padding:3px 8px;" title="Pantalla completa">⛶</button>
         </div>
       </div>
+      <div class="eval-split-handle" id="evalSplitHandle" title="Arrastrar para redimensionar"></div>
       <div class="eval-detail-text" id="evalDetailText"></div>
     </div>
   </div>
@@ -3980,6 +4000,33 @@ function initEvalSplitEvents() {
       if (entity) { openEvalMap(entity, cat?.id || 'instrumentos'); }
     }
   };
+
+  // Resize handle between graph and detail text
+  const handle = document.getElementById('evalSplitHandle');
+  const hubWrap = document.getElementById('evalHubWrap');
+  const detailContent = document.getElementById('evalDetailContent');
+  if (handle && hubWrap) {
+    let resizing = false, startY = 0, startH = 0;
+    handle.addEventListener('pointerdown', e => {
+      resizing = true;
+      startY = e.clientY;
+      startH = hubWrap.offsetHeight;
+      handle.classList.add('dragging');
+      handle.setPointerCapture(e.pointerId);
+      e.preventDefault();
+    });
+    handle.addEventListener('pointermove', e => {
+      if (!resizing) return;
+      const dy = e.clientY - startY;
+      const containerH = detailContent?.offsetHeight || 600;
+      const newH = Math.min(Math.max(startH + dy, 100), containerH - 80);
+      hubWrap.style.height = newH + 'px';
+      if (EGRAPH.raf) evalGraphResizeCanvas();
+    });
+    const stopResize = () => { resizing = false; handle.classList.remove('dragging'); };
+    handle.addEventListener('pointerup',     stopResize);
+    handle.addEventListener('pointercancel', stopResize);
+  }
 
   // Pan / drag on hub canvas (reuse evalMapView pointer logic)
   let isPanning = false, panMoved = false;

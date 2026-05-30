@@ -2459,6 +2459,8 @@ const I18N = {
     footerDb:     'Base de datos: © Juan José de Haro, todos los derechos reservados',
     mapView:      'Mapa',
     mapViewHint:  'Mapa de relaciones',
+    viewModeCards:'Vista de fichas',
+    viewModeMap:  'Vista de mapa de relaciones',
     mapReset:     'Restablecer vista',
     mapFit:       'Ajustar todo en pantalla',
     mapNodes:     'recursos',
@@ -2582,6 +2584,8 @@ const I18N = {
     footerDb:     'Base de dades: © Juan José de Haro, tots els drets reservats',
     mapView:      'Mapa',
     mapViewHint:  'Mapa de relacions',
+    viewModeCards:"Vista de fitxes",
+    viewModeMap:  'Vista de mapa de relacions',
     mapReset:     'Restablir vista',
     mapFit:       'Ajustar tot a la pantalla',
     mapNodes:     'recursos',
@@ -2705,6 +2709,8 @@ const I18N = {
     footerDb:     'Database: © Juan José de Haro, all rights reserved',
     mapView:      'Map',
     mapViewHint:  'Relationship map',
+    viewModeCards:'Card view',
+    viewModeMap:  'Relationship map view',
     mapReset:     'Reset view',
     mapFit:       'Fit all in screen',
     mapNodes:     'resources',
@@ -4229,9 +4235,15 @@ function renderViewToggle() {
   document.getElementById('viewBtnEvaluacion').textContent = i('viewEvaluacion');
   document.getElementById('viewBtnTecnicas').classList.toggle('active', S.view === 'tecnicas');
   document.getElementById('viewBtnEvaluacion').classList.toggle('active', S.view === 'evaluacion');
-  // Sync legend toggle state
-  document.getElementById('viewModeCardsLegend')?.classList.toggle('active', !S.mapMode);
-  document.getElementById('viewModeMapLegend')?.classList.toggle('active',  S.mapMode);
+  // Sync legend toggle state + tooltips
+  ['viewModeCardsLegend', 'viewModeCards'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) { el.classList.toggle('active', !S.mapMode); el.title = i('viewModeCards'); }
+  });
+  ['viewModeMapLegend', 'viewModeMap'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) { el.classList.toggle('active', S.mapMode); el.title = i('viewModeMap'); }
+  });
 }
 
 function switchView(view) {

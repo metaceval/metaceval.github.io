@@ -1532,6 +1532,85 @@
   </style>
 
   <style>
+    /* ── Eval split view ───────────────────────────────────── */
+    #evalSplitView {
+      display: flex;
+      background: var(--bg);
+    }
+    .eval-list-panel {
+      width: 280px;
+      min-width: 200px;
+      max-width: 320px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      border-right: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .eval-list-item {
+      padding: 9px 14px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background .12s;
+    }
+    .eval-list-item:hover { background: var(--hover); }
+    .eval-list-item.selected { background: var(--hover); border-left: 3px solid var(--primary); padding-left: 11px; }
+    .eval-list-name { font-size: .84rem; font-weight: 600; color: var(--text); line-height: 1.3; }
+    .eval-list-summary { font-size: .74rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .eval-detail-panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      min-width: 0;
+    }
+    .eval-detail-empty {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+      font-size: .9rem;
+      text-align: center;
+      padding: 24px;
+    }
+    .eval-detail-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      min-height: 0;
+    }
+    .eval-hub-wrap {
+      position: relative;
+      height: 52%;
+      min-height: 180px;
+      flex-shrink: 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .eval-hub-controls {
+      position: absolute;
+      top: 6px;
+      right: 8px;
+      display: flex;
+      gap: 4px;
+      z-index: 2;
+    }
+    .eval-detail-text {
+      flex: 1;
+      overflow-y: auto;
+      padding: 14px 18px;
+      font-size: .86rem;
+      line-height: 1.7;
+    }
+    /* Mobile: stack vertically */
+    @media (max-width: 640px) {
+      .eval-list-panel { width: 100%; max-width: 100%; border-right: none; border-bottom: 1px solid var(--border); max-height: 35vh; }
+      #evalSplitView { flex-direction: column; }
+      .eval-hub-wrap { height: 220px; }
+    }
+
     /* ── View toggle ────────────────────────────────────────── */
     .view-toggle {
       display: flex;
@@ -1753,9 +1832,7 @@
 <!-- ═══ EVAL TABS (evaluación view) ═══ -->
 <nav class="eval-nav" id="evalNavBar" style="display:none">
   <div class="eval-nav-inner" id="evalTabs"></div>
-  <button class="btn" id="uniMapBtn" style="flex-shrink:0;margin:4px 10px 4px 4px;font-size:.82rem;padding:4px 12px;white-space:nowrap;">
-    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg><span id="uniMapBtnLabel">Mapa</span>
-  </button>
+
 </nav>
 
 <!-- ═══ SHARED BANNER ═══ -->
@@ -1909,16 +1986,26 @@
   </div>
 </div>
 
-<!-- ═══ UNIFIED MAP VIEW ═══ -->
-<div id="uniMapView" style="display:none;position:fixed;left:0;right:0;bottom:0;z-index:200;background:var(--bg);flex-direction:column;">
-  <div style="display:flex;align-items:center;gap:6px;padding:7px 12px;border-bottom:1px solid var(--border);flex-shrink:0;flex-wrap:wrap;">
-    <span style="font-weight:700;font-size:.88rem;color:var(--text);margin-right:4px" id="uniMapLabel"></span>
-    <div id="uniMapToggles" style="display:flex;gap:5px;flex-wrap:wrap;flex:1;"></div>
-    <button class="btn" id="uniMapPrinBtn" style="font-size:.76rem;padding:3px 9px;" title="Mostrar solo relaciones principales">Solo principales</button>
-    <button class="btn" id="uniMapFitBtn" style="font-size:.76rem;padding:3px 9px;">⊙ Centrar</button>
-    <button class="icon-btn" id="uniMapCloseBtn" title="Cerrar mapa">✕</button>
+<!-- ═══ EVAL SPLIT VIEW ═══ -->
+<div id="evalSplitView" style="display:none;position:fixed;left:0;right:0;bottom:0;overflow:hidden;z-index:10;">
+  <div class="eval-list-panel" id="evalListPanel"></div>
+  <div class="eval-detail-panel" id="evalDetailPanel">
+    <div class="eval-detail-empty" id="evalDetailEmpty">
+      <div style="font-size:2rem;margin-bottom:8px">←</div>
+      <p id="evalDetailEmptyMsg"></p>
+    </div>
+    <div class="eval-detail-content" id="evalDetailContent" style="display:none;">
+      <div class="eval-hub-wrap" id="evalHubWrap">
+        <canvas id="evalHubCanvas" style="display:block;width:100%;height:100%;cursor:grab;touch-action:none;"></canvas>
+        <div class="eval-hub-controls">
+          <button class="btn" id="evalHub2ndBtn" style="font-size:.74rem;padding:3px 8px;">2.º nivel</button>
+          <button class="btn" id="evalHubFitBtn" style="font-size:.74rem;padding:3px 8px;">⊙</button>
+          <button class="btn" id="evalHubFullBtn" style="font-size:.74rem;padding:3px 8px;" title="Pantalla completa">⛶</button>
+        </div>
+      </div>
+      <div class="eval-detail-text" id="evalDetailText"></div>
+    </div>
   </div>
-  <canvas id="uniMapCanvas" style="display:block;flex:1;width:100%;min-height:0;cursor:grab;touch-action:none;"></canvas>
 </div>
 
 <!-- ═══ EVAL MAP VIEW ═══ -->
@@ -2626,6 +2713,7 @@ const S = {
   view:             'tecnicas',   // 'tecnicas' | 'evaluacion'
   evalCat:          'instrumentos',
   evalModal:        null,         // currently open eval entity ID
+  evalSelected:     null,         // selected entity in split view
 };
 
 // ─── JSON LOADER ─────────────────────────────────────────────────────────────
@@ -3720,11 +3808,18 @@ function renderEvalTabs() {
   bar.querySelectorAll('[data-eval-cat]').forEach(btn => {
     btn.onclick = () => {
       S.evalCat = btn.dataset.evalCat;
+      S.evalSelected = null;
       S.search = '';
       document.getElementById('searchInput').value = '';
       updateSearchUI();
       renderEvalTabs();
-      renderEvalCards();
+      renderEvalList();
+      // Reset detail panel
+      const empty = document.getElementById('evalDetailEmpty');
+      const content = document.getElementById('evalDetailContent');
+      if (empty) empty.style.display = '';
+      if (content) content.style.display = 'none';
+      evalGraphStop();
     };
   });
 }
@@ -3762,6 +3857,178 @@ function renderEvalCards() {
   main.querySelectorAll('.eval-card').forEach(card => {
     card.onclick = () => openEvalModal(card.dataset.evalId);
   });
+}
+
+// ─── EVAL SPLIT VIEW FUNCTIONS ───────────────────────────────────────────────
+
+function renderEvalList() {
+  const panel = document.getElementById('evalListPanel');
+  if (!panel) return;
+  const cat = EVAL_CATS.find(c => c.id === S.evalCat);
+  const items = (EV.data[S.lang] || {})[S.evalCat] || [];
+  const q = (S.search || '').toLowerCase();
+  const filtered = q
+    ? items.filter(e => (e.name||'').toLowerCase().includes(q) || (e.summary||'').toLowerCase().includes(q) || (e.tags||[]).some(t => t.toLowerCase().includes(q)))
+    : items;
+
+  if (!filtered.length) {
+    panel.innerHTML = `<div style="padding:16px;color:var(--text-muted);font-size:.85rem;">${esc(i('noResults') || 'Sin resultados')}</div>`;
+    return;
+  }
+  panel.innerHTML = filtered.map(e => `
+    <div class="eval-list-item${S.evalSelected === e.id ? ' selected' : ''}" data-eval-id="${esc(e.id)}" role="button" tabindex="0">
+      <div class="eval-list-name">${esc(e.name)}</div>
+      ${e.summary ? `<div class="eval-list-summary">${esc(e.summary)}</div>` : ''}
+    </div>
+  `).join('');
+  panel.querySelectorAll('.eval-list-item').forEach(el => {
+    el.onclick = () => showEvalDetail(el.dataset.evalId);
+  });
+}
+
+function showEvalDetail(evalId) {
+  const entity = evalEntityById(evalId);
+  if (!entity) return;
+
+  S.evalSelected = evalId;
+  // Update selected highlight in list
+  document.querySelectorAll('#evalListPanel .eval-list-item').forEach(el => {
+    el.classList.toggle('selected', el.dataset.evalId === evalId);
+  });
+
+  document.getElementById('evalDetailEmpty').style.display   = 'none';
+  document.getElementById('evalDetailContent').style.display = 'flex';
+
+  // Hub graph
+  const canvas = document.getElementById('evalHubCanvas');
+  evalGraphStop();
+  EGRAPH.canvas   = canvas;
+  EGRAPH.expanded = false;
+  const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(evalId));
+  evalGraphBuild(entity, cat?.id || 'instrumentos');
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    evalGraphResizeCanvas();
+    EGRAPH.camera = { x: 0, y: 0, scale: 1 };
+    evalGraphLoop();
+  }));
+
+  // Detail text
+  renderEvalDetailText(entity, cat);
+}
+
+function renderEvalDetailText(entity, cat) {
+  const el = document.getElementById('evalDetailText');
+  if (!el) return;
+  const prefix = evalEntityPrefix(entity.id);
+
+  const metaBadges = [];
+  if (entity.phase)         metaBadges.push(`<span class="meta-badge">${esc(i('evalPhase'))} ${esc(entity.phase)}</span>`);
+  if (entity.participation) metaBadges.push(`<span class="meta-badge">${esc(i('evalPartic'))} ${esc(entity.participation)}</span>`);
+  if (entity.complexity)    metaBadges.push(`<span class="meta-badge">${esc(i('evalComplex'))} ${esc(entity.complexity)}</span>`);
+
+  const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
+
+  el.innerHTML = `
+    <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:8px">
+      ${cat ? `<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.74rem;padding:3px 8px">${esc(i(cat.i18n))}</span>` : ''}
+      ${metaBadges.join('')}
+    </div>
+    <h3 style="margin:0 0 6px;font-size:.98rem;font-weight:700">${esc(entity.name)}</h3>
+    ${entity.summary ? `<p style="font-size:.83rem;color:var(--text-muted);margin:0 0 10px;font-style:italic;line-height:1.5">${esc(entity.summary)}</p>` : ''}
+    ${metacItems.length ? `
+      <div class="modal-related" style="padding:0;border:none;margin-bottom:10px;gap:5px">
+        <span class="modal-related-label">${esc(i('evalUsedBy'))}</span>
+        ${metacItems.slice(0, 12).map(t => `<button class="related-btn" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`).join('')}
+        ${metacItems.length > 12 ? `<span style="font-size:.76rem;color:var(--text-muted)">+${metacItems.length-12}</span>` : ''}
+      </div>` : ''}
+    <div style="font-size:.86rem;line-height:1.75">${formatDesc(entity.desc || '')}</div>
+  `;
+
+  el.querySelectorAll('[data-metac-id]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      switchView('tecnicas');
+      openModal(btn.dataset.metacId);
+    });
+  });
+}
+
+function initEvalSplitEvents() {
+  const canvas = document.getElementById('evalHubCanvas');
+  if (!canvas) return;
+
+  // 2nd-level toggle
+  document.getElementById('evalHub2ndBtn').onclick = () => {
+    EGRAPH.expanded = !EGRAPH.expanded;
+    document.getElementById('evalHub2ndBtn').classList.toggle('active', EGRAPH.expanded);
+    if (S.evalSelected) {
+      const entity = evalEntityById(S.evalSelected);
+      const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(S.evalSelected));
+      if (entity) evalGraphBuild(entity, cat?.id || 'instrumentos');
+    }
+  };
+
+  // Fit
+  document.getElementById('evalHubFitBtn').onclick = () => {
+    EGRAPH.camera = { x: 0, y: 0, scale: 1 };
+  };
+
+  // Full screen
+  document.getElementById('evalHubFullBtn').onclick = () => {
+    if (S.evalSelected) {
+      const entity = evalEntityById(S.evalSelected);
+      const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(S.evalSelected));
+      if (entity) { openEvalMap(entity, cat?.id || 'instrumentos'); }
+    }
+  };
+
+  // Pan / drag on hub canvas (reuse evalMapView pointer logic)
+  let isPanning = false, panMoved = false;
+  let panStart = { x: 0, y: 0 }, camStart = { x: 0, y: 0 };
+
+  canvas.addEventListener('pointermove', e => {
+    const rect = canvas.getBoundingClientRect();
+    const sx = e.clientX - rect.left, sy = e.clientY - rect.top;
+    if (isPanning) {
+      EGRAPH.camera.x = camStart.x - (e.clientX - panStart.x) / EGRAPH.camera.scale;
+      EGRAPH.camera.y = camStart.y - (e.clientY - panStart.y) / EGRAPH.camera.scale;
+      panMoved = true;
+      return;
+    }
+    const hit = evalGraphHitTest(sx, sy);
+    if (hit !== EGRAPH.hover) {
+      EGRAPH.hover = hit;
+      canvas.classList.toggle('hovering', hit >= 0);
+    }
+  });
+  canvas.addEventListener('pointerdown', e => {
+    canvas.setPointerCapture(e.pointerId);
+    isPanning = true; panMoved = false;
+    panStart = { x: e.clientX, y: e.clientY };
+    camStart = { ...EGRAPH.camera };
+  });
+  canvas.addEventListener('pointerup', e => {
+    if (!panMoved) {
+      const rect = canvas.getBoundingClientRect();
+      const hit = evalGraphHitTest(e.clientX - rect.left, e.clientY - rect.top);
+      if (hit >= 0 && !EGRAPH.nodes[hit]?.isCenter) {
+        showEvalDetail(EGRAPH.nodes[hit].id);
+        // Update list tab if category changed
+        const prefix = evalEntityPrefix(EGRAPH.nodes[hit].id);
+        const newCat = EVAL_CATS.find(c => c.prefix === prefix);
+        if (newCat && newCat.id !== S.evalCat) {
+          S.evalCat = newCat.id;
+          renderEvalTabs();
+          renderEvalList();
+        }
+      }
+    }
+    isPanning = false; panMoved = false;
+  });
+  canvas.addEventListener('pointercancel', () => { isPanning = false; panMoved = false; });
+  canvas.addEventListener('wheel', e => {
+    e.preventDefault();
+    EGRAPH.camera.scale = Math.max(0.2, Math.min(4, EGRAPH.camera.scale * (e.deltaY < 0 ? 1.1 : 0.9)));
+  }, { passive: false });
 }
 
 // ─── OPEN EVAL MODAL ─────────────────────────────────────────────────────────
@@ -3860,15 +4127,21 @@ function switchView(view) {
   S.view = view;
   S.page = 0;
   renderViewToggle();
-  const blockBar = document.getElementById('blockNavBar');
-  const fieldBar = document.getElementById('fieldNavBar');
-  const evalBar  = document.getElementById('evalNavBar');
-  const mapBtn   = document.getElementById('mapViewBtn');
+  const blockBar  = document.getElementById('blockNavBar');
+  const fieldBar  = document.getElementById('fieldNavBar');
+  const evalBar   = document.getElementById('evalNavBar');
+  const mainEl    = document.getElementById('main');
+  const splitEl   = document.getElementById('evalSplitView');
+  const mapBtn    = document.getElementById('mapViewBtn');
+
   if (view === 'tecnicas') {
     blockBar.style.display = '';
     fieldBar.style.display = '';
     evalBar.style.display  = 'none';
+    mainEl.style.display   = '';
+    splitEl.style.display  = 'none';
     if (mapBtn) mapBtn.style.display = '';
+    evalGraphStop();
     renderBlockTabs();
     renderTabs();
     renderCards();
@@ -3876,9 +4149,20 @@ function switchView(view) {
     blockBar.style.display = 'none';
     fieldBar.style.display = 'none';
     evalBar.style.display  = '';
+    mainEl.style.display   = 'none';
     if (mapBtn) mapBtn.style.display = 'none';
+
+    // Position split view below sticky bars
+    const hdr  = document.querySelector('header');
+    const vTog = document.getElementById('viewToggle');
+    const eNav = document.getElementById('evalNavBar');
+    const top  = (hdr?.offsetHeight || 0) + (vTog?.offsetHeight || 0) + (eNav?.offsetHeight || 0);
+    splitEl.style.top     = top + 'px';
+    splitEl.style.display = 'flex';
+
+    document.getElementById('evalDetailEmptyMsg').textContent = i('evalSelectPrompt') || 'Selecciona una entidad para ver sus relaciones';
     renderEvalTabs();
-    renderEvalCards();
+    renderEvalList();
   }
 }
 
@@ -4413,7 +4697,7 @@ async function switchLang(lang) {
   S.page = 0;
   renderViewToggle();
   if (S.view === 'evaluacion') {
-    loadEvalLang(lang).then(() => { renderEvalTabs(); renderEvalCards(); }).catch(() => {});
+    loadEvalLang(lang).then(() => { renderEvalTabs(); renderEvalList(); }).catch(() => {});
   } else {
     renderBlockTabs();
     renderTabs();
@@ -6926,7 +7210,7 @@ async function init() {
       updateSearchUI();
       switchView(btn.dataset.view);
       // Load eval data on first switch to evaluacion view
-      if (btn.dataset.view === 'evaluacion') loadEvalLang(S.lang).then(renderEvalCards).catch(() => {});
+      if (btn.dataset.view === 'evaluacion') loadEvalLang(S.lang).then(renderEvalList).catch(() => {});
     };
   });
 
@@ -6934,7 +7218,7 @@ async function init() {
     S.search = e.target.value;
     S.page = 0;
     updateSearchUI();
-    if (S.view === 'evaluacion') renderEvalCards();
+    if (S.view === 'evaluacion') renderEvalList();
     else renderCards();
   });
   document.getElementById('searchClearBtn').onclick = () => {
@@ -6943,7 +7227,7 @@ async function init() {
     S.search = '';
     S.page = 0;
     updateSearchUI();
-    if (S.view === 'evaluacion') renderEvalCards();
+    if (S.view === 'evaluacion') renderEvalList();
     else renderCards();
     input.focus();
   };
@@ -6957,6 +7241,7 @@ async function init() {
 
   document.querySelectorAll('.lang-btn').forEach(b => b.onclick = () => switchLang(b.dataset.lang));
 
+  initEvalSplitEvents();
   initEvalMapEvents();
   initUnifiedMapEvents();
   document.getElementById('uniMapBtn').onclick    = () => { loadEvalLang(S.lang).then(openUnifiedMap).catch(() => {}); };

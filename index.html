@@ -1644,28 +1644,30 @@
     /* Segmented control container */
     .view-toggle-inner {
       display: inline-flex;
-      background: var(--hover);
+      background: #dde3ee;
       border-radius: 50px;
       padding: 3px;
       gap: 2px;
-      border: 1px solid var(--border);
     }
+    [data-theme="dark"] .view-toggle-inner { background: #1e2535; }
     .view-btn {
-      padding: 5px 20px;
+      padding: 5px 22px;
       border-radius: 50px;
       border: none;
       background: transparent;
-      color: var(--text-muted);
+      color: #64748b;
       font-size: .88rem;
       font-weight: 600;
       cursor: pointer;
       transition: background .15s, color .15s, box-shadow .15s;
     }
+    [data-theme="dark"] .view-btn { color: #94a3b8; }
     .view-btn.active {
-      background: var(--primary);
-      color: #fff;
-      box-shadow: 0 1px 4px rgba(0,0,0,.15);
+      background: #fff;
+      color: var(--primary);
+      box-shadow: 0 1px 3px rgba(0,0,0,.18);
     }
+    [data-theme="dark"] .view-btn.active { background: #2d3748; color: #60a5fa; }
     .view-btn:not(.active):hover { color: var(--text); }
 
     /* ── Eval nav tabs (evaluation view) ───────────────────── */

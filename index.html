@@ -1701,9 +1701,10 @@
     .view-btn:not(.active):hover { color: var(--text); }
 
     /* ── Eval nav tabs (evaluation view) ───────────────────── */
-    .eval-nav { background: var(--bg); border-bottom: 1px solid var(--border); overflow-x: auto; scrollbar-width: none; display: flex; align-items: center; }
+    .eval-nav { background: var(--bg); border-bottom: 1px solid var(--border); overflow-x: auto; scrollbar-width: none; }
     .eval-nav::-webkit-scrollbar { display: none; }
-    .eval-nav-inner { display: flex; gap: 4px; padding: 6px 12px; min-width: max-content; flex: 1; }
+    .eval-nav-inner { display: flex; gap: 4px; padding: 6px 12px; align-items: center; min-width: max-content; }
+    .eval-nav-sep { width: 1px; height: 18px; background: var(--border); margin: 0 8px; flex-shrink: 0; }
     /* Unified map toggles */
     .umap-toggle {
       padding: 4px 12px;
@@ -1890,10 +1891,6 @@
 <!-- ═══ EVAL TABS (evaluación view) ═══ -->
 <nav class="eval-nav" id="evalNavBar" style="display:none">
   <div class="eval-nav-inner" id="evalTabs"></div>
-  <div class="view-mode-wrap" id="evalViewModeWrap" style="flex-shrink:0;margin:4px 10px 4px 4px;">
-    <button class="view-mode-btn" id="evalViewModeCards"></button>
-    <button class="view-mode-btn active" id="evalViewModeMap"></button>
-  </div>
 </nav>
 
 <!-- ═══ SHARED BANNER ═══ -->
@@ -3581,12 +3578,13 @@ function renderCards() {
           <option value="0"   ${S.perPage===0   ?'selected':''}>${i('pageAll')}</option>
         </select>
       </span>
+      <span style="display:inline-block;width:1px;height:14px;background:var(--border);margin:0 10px 0 4px;vertical-align:middle;"></span>
       <span class="view-mode-wrap">
-        <button class="view-mode-btn${!S.mapMode ? ' active' : ''}" id="viewModeCards" title="${i('viewModeCards') || 'Fichas'}">
-          <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+        <button class="view-mode-btn${!S.mapMode ? ' active' : ''}" id="viewModeCards" title="${i('viewModeCards')}">
+          <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
         </button>
-        <button class="view-mode-btn${S.mapMode ? ' active' : ''}" id="viewModeMap" title="${i('mapView') || 'Mapa'}">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+        <button class="view-mode-btn${S.mapMode ? ' active' : ''}" id="viewModeMap" title="${i('viewModeMap')}">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
         </button>
       </span>
     </p>
@@ -3886,15 +3884,11 @@ function renderEvalSection(item) {
 // ─── RENDER: EVAL VIEW ───────────────────────────────────────────────────────
 
 function syncEvalViewMode() {
+  // Toggle is rendered inside renderEvalTabs — just sync state if already in DOM
   const cardsBtn = document.getElementById('evalViewModeCards');
   const mapBtn   = document.getElementById('evalViewModeMap');
-  if (cardsBtn) { cardsBtn.classList.toggle('active', !S.evalMapMode); cardsBtn.title = i('viewModeCards'); }
-  if (mapBtn)   { mapBtn.classList.toggle('active',  S.evalMapMode);  mapBtn.title   = i('viewModeMap');   }
-  // SVG icons
-  if (cardsBtn && !cardsBtn.innerHTML.trim()) {
-    cardsBtn.innerHTML = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
-    mapBtn.innerHTML   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
-  }
+  if (cardsBtn) cardsBtn.classList.toggle('active', !S.evalMapMode);
+  if (mapBtn)   mapBtn.classList.toggle('active',  S.evalMapMode);
 }
 
 function toggleEvalMapMode() {
@@ -3929,7 +3923,7 @@ function renderEvalTabs() {
       document.getElementById('searchInput').value = '';
       updateSearchUI();
       renderEvalTabs();
-      renderEvalList();
+      if (S.evalMapMode) renderEvalList(); else renderEvalCards();
       // Reset detail panel
       const empty = document.getElementById('evalDetailEmpty');
       const content = document.getElementById('evalDetailContent');
@@ -3938,6 +3932,23 @@ function renderEvalTabs() {
       evalGraphStop();
     };
   });
+
+  // Append separator + view toggle inline after tabs
+  const sep = document.createElement('div');
+  sep.className = 'eval-nav-sep';
+  bar.appendChild(sep);
+  const wrap = document.createElement('div');
+  wrap.className = 'view-mode-wrap';
+  wrap.id = 'evalViewModeWrap';
+  const svgCards = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
+  const svgMap   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
+  wrap.innerHTML = `
+    <button class="view-mode-btn${!S.evalMapMode ? ' active' : ''}" id="evalViewModeCards" title="${esc(i('viewModeCards'))}">${svgCards}</button>
+    <button class="view-mode-btn${S.evalMapMode  ? ' active' : ''}" id="evalViewModeMap"   title="${esc(i('viewModeMap'))}">${svgMap}</button>
+  `;
+  bar.appendChild(wrap);
+  document.getElementById('evalViewModeCards').onclick = () => { if (S.evalMapMode)  toggleEvalMapMode(); };
+  document.getElementById('evalViewModeMap').onclick   = () => { if (!S.evalMapMode) toggleEvalMapMode(); };
 }
 
 function renderEvalCards() {
@@ -7457,8 +7468,7 @@ async function init() {
   document.getElementById('mapResetBtn').onclick  = () => { if (MAP.viewMode === 'blocks') initMapBlocks(); else initMapData(); };
   document.getElementById('viewModeCardsLegend').onclick = () => { if (S.mapMode) toggleMapView(); };
   document.getElementById('viewModeMapLegend').onclick   = () => {};
-  document.getElementById('evalViewModeCards').onclick   = () => { if (S.evalMapMode)  toggleEvalMapMode(); };
-  document.getElementById('evalViewModeMap').onclick     = () => { if (!S.evalMapMode) toggleEvalMapMode(); };
+  // evalViewModeCards/Map are wired in renderEvalTabs each time tabs are rendered
   const gapLabel = document.getElementById('mapGapLabel');
   const gapMinus = document.getElementById('mapGapMinus');
   const gapPlus  = document.getElementById('mapGapPlus');

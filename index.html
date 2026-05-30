@@ -4171,6 +4171,13 @@ function renderViewToggle() {
 }
 
 function switchView(view) {
+  // Close técnicas map if open
+  if (S.mapMode) {
+    S.mapMode = false;
+    document.getElementById('mapView').style.display = 'none';
+    document.body.style.overflow = '';
+    setText('mapViewBtnLabel', i('mapView'));
+  }
   S.view = view;
   S.page = 0;
   renderViewToggle();

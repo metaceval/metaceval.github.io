@@ -4201,7 +4201,11 @@ function switchView(view) {
     mainEl.style.display   = 'none';
     if (mapBtn) mapBtn.style.display = 'none';
 
-    // Position split view below sticky bars
+    document.getElementById('evalDetailEmptyMsg').textContent = i('evalSelectPrompt') || 'Selecciona una entidad para ver sus relaciones';
+    // Render tabs first so evalNavBar has its real height before we position the split view
+    renderEvalTabs();
+
+    // Position split view below sticky bars (read heights after tabs are rendered)
     const hdr  = document.querySelector('header');
     const vTog = document.getElementById('viewToggle');
     const eNav = document.getElementById('evalNavBar');
@@ -4209,8 +4213,6 @@ function switchView(view) {
     splitEl.style.top     = top + 'px';
     splitEl.style.display = 'flex';
 
-    document.getElementById('evalDetailEmptyMsg').textContent = i('evalSelectPrompt') || 'Selecciona una entidad para ver sus relaciones';
-    renderEvalTabs();
     renderEvalList();
   }
 }

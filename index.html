@@ -6640,6 +6640,17 @@ function closeEvalMap() {
   evalGraphStop();
   document.getElementById('evalMapView').style.display = 'none';
   document.body.style.overflow = '';
+  // Restart inline hub graph if returning to the split view
+  if (S.view === 'evaluacion' && S.evalSelected) {
+    const hubCanvas = document.getElementById('evalHubCanvas');
+    if (hubCanvas) {
+      EGRAPH.canvas = hubCanvas;
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        evalGraphResizeCanvas();
+        evalGraphLoop();
+      }));
+    }
+  }
 }
 
 function initEvalMapEvents() {
@@ -6720,15 +6731,18 @@ function initEvalMapEvents() {
   const finishPtr = e => {
     pointers.delete(e.pointerId);
     if (EGRAPH.dragNode >= 1) {
-      EGRAPH.nodes[EGRAPH.dragNode].fixed = false;
+      const dragged = EGRAPH.nodes[EGRAPH.dragNode];
+      if (dragged) dragged.fixed = false;
       EGRAPH.dragNode = -1;
     } else if (!EGRAPH.panMoved) {
       const rect = canvas.getBoundingClientRect();
       const hit = evalGraphHitTest(e.clientX - rect.left, e.clientY - rect.top);
-      if (hit >= 0 && !EGRAPH.nodes[hit].isCenter) {
-        const nd = EGRAPH.nodes[hit];
+      const nd = hit >= 0 ? EGRAPH.nodes[hit] : null;
+      if (nd && !nd.isCenter) {
         closeEvalMap();
-        openEvalModal(nd.id);
+        // If in split view show detail inline, otherwise open modal
+        if (S.view === 'evaluacion') showEvalDetail(nd.id);
+        else openEvalModal(nd.id);
       }
     }
     EGRAPH.isPanning = false;

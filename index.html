@@ -336,6 +336,35 @@
       gap: 6px;
       margin-left: 10px;
     }
+    .view-mode-wrap {
+      display: inline-flex;
+      align-items: center;
+      gap: 2px;
+      margin-left: 10px;
+      background: var(--hover);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 2px;
+    }
+    .view-mode-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 26px;
+      height: 24px;
+      border: none;
+      border-radius: 4px;
+      background: transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: background .12s, color .12s;
+    }
+    .view-mode-btn.active {
+      background: var(--bg);
+      color: var(--primary);
+      box-shadow: 0 1px 2px rgba(0,0,0,.1);
+    }
+    .view-mode-btn:not(.active):hover { color: var(--text); }
     .sort-wrap select,
     .per-page-wrap select {
       padding: 4px 8px;
@@ -1831,10 +1860,6 @@
         <button class="lang-btn" data-lang="en">EN</button>
       </div>
       <button class="theme-btn" id="themeBtn" aria-label="Cambiar tema"></button>
-      <button class="btn" id="mapViewBtn" title="Mapa">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
-        <span id="mapViewBtnLabel">Mapa</span>
-      </button>
       <button class="btn" id="selectBtn">✓ <span id="selectBtnLabel">Seleccionar</span></button>
       <button class="btn" id="favBtn">
         ⭐ <span id="favBtnLabel">Favoritos</span>
@@ -3538,6 +3563,14 @@ function renderCards() {
           <option value="0"   ${S.perPage===0   ?'selected':''}>${i('pageAll')}</option>
         </select>
       </span>
+      <span class="view-mode-wrap">
+        <button class="view-mode-btn${!S.mapMode ? ' active' : ''}" id="viewModeCards" title="${i('viewModeCards') || 'Fichas'}">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+        </button>
+        <button class="view-mode-btn${S.mapMode ? ' active' : ''}" id="viewModeMap" title="${i('mapView') || 'Mapa'}">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+        </button>
+      </span>
     </p>
   `;
   bar.querySelector('#sortSelect').onchange = e => {
@@ -3551,6 +3584,8 @@ function renderCards() {
     S.page = 0;
     renderCards();
   };
+  bar.querySelector('#viewModeCards').onclick = () => { if (S.mapMode) toggleMapView(); };
+  bar.querySelector('#viewModeMap').onclick   = () => { if (!S.mapMode) toggleMapView(); };
   main.appendChild(bar);
 
   if (S.selectMode) {
@@ -4199,7 +4234,6 @@ function switchView(view) {
   const evalBar   = document.getElementById('evalNavBar');
   const mainEl    = document.getElementById('main');
   const splitEl   = document.getElementById('evalSplitView');
-  const mapBtn    = document.getElementById('mapViewBtn');
   const selectBtn = document.getElementById('selectBtn');
   const favBtn    = document.getElementById('favBtn');
 
@@ -5981,8 +6015,6 @@ function toggleMapView() {
   S.mapMode = !S.mapMode;
   const mapView = document.getElementById('mapView');
   const mainEl  = document.getElementById('main');
-  const btn     = document.getElementById('mapViewBtn');
-
   if (S.mapMode) {
     // Use getBoundingClientRect to get the exact bottom of the last visible bar
     const banner = document.getElementById('sharedBanner');
@@ -5999,9 +6031,8 @@ function toggleMapView() {
     mapView.style.top = topPx + 'px';
     mapView.style.display = 'block';
     mainEl.style.display  = 'none';
-    btn.classList.add('active');
     document.body.classList.add('map-mode');
-    document.getElementById('mapViewBtnLabel').textContent = i('mapViewClose');
+    // mapViewBtn removed
     document.getElementById('selectBtn').style.display = 'none';
     document.getElementById('favBtn').style.display    = 'none';
     mapResizeCanvas();
@@ -6013,9 +6044,8 @@ function toggleMapView() {
     mapStop();
     mapView.style.display = 'none';
     mainEl.style.display  = '';
-    btn.classList.remove('active');
     document.body.classList.remove('map-mode');
-    document.getElementById('mapViewBtnLabel').textContent = i('mapView');
+    // mapViewBtn removed
     document.getElementById('selectBtn').style.display = '';
     document.getElementById('favBtn').style.display    = '';
     renderCards();
@@ -7355,7 +7385,7 @@ async function init() {
   initEvalSplitEvents();
   initEvalMapEvents();
   initUnifiedMapEvents();
-  document.getElementById('mapViewBtn').onclick   = toggleMapView;
+  // mapViewBtn removed — view mode toggle is now in results bar
   document.getElementById('mapZoomIn').onclick    = () => { MAP.camera.scale = Math.min(6, MAP.camera.scale * 1.25); };
   document.getElementById('mapZoomOut').onclick   = () => { MAP.camera.scale = Math.max(0.12, MAP.camera.scale / 1.25); };
   document.getElementById('mapFitBtn').onclick    = mapFitAll;

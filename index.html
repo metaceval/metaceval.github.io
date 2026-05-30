@@ -5964,17 +5964,18 @@ function toggleMapView() {
   const btn     = document.getElementById('mapViewBtn');
 
   if (S.mapMode) {
-    // Compute offset below sticky header + view toggle + navs
-    const hdr    = document.querySelector('header');
-    const vTog   = document.getElementById('viewToggle');
-    const blkNav = document.querySelector('.block-nav');
-    const fldNav = document.querySelector('.field-nav');
+    // Use getBoundingClientRect to get the exact bottom of the last visible bar
     const banner = document.getElementById('sharedBanner');
-    const topPx  = (hdr?.offsetHeight    || 0)
-                 + (vTog?.offsetHeight   || 0)
-                 + (blkNav?.offsetHeight || 0)
-                 + (fldNav?.offsetHeight || 0)
-                 + (banner?.classList.contains('visible') ? (banner.offsetHeight || 0) : 0);
+    const bars = [
+      document.getElementById('viewToggle'),
+      document.querySelector('.block-nav'),
+      document.querySelector('.field-nav'),
+      banner?.classList.contains('visible') ? banner : null,
+    ].filter(Boolean);
+    const topPx = bars.reduce((max, el) => {
+      const b = el.getBoundingClientRect().bottom;
+      return b > max ? b : max;
+    }, document.querySelector('header')?.getBoundingClientRect().bottom || 0);
     mapView.style.top = topPx + 'px';
     mapView.style.display = 'block';
     mainEl.style.display  = 'none';
@@ -6226,18 +6227,19 @@ function mapSetupEvents() {
 
   window.addEventListener('resize', () => {
     if (!S.mapMode) return;
-    // Recompute top offset
-    const hdr    = document.querySelector('header');
-    const vTog   = document.getElementById('viewToggle');
-    const blkNav = document.querySelector('.block-nav');
-    const fldNav = document.querySelector('.field-nav');
-    const banner = document.getElementById('sharedBanner');
-    const topPx  = (hdr?.offsetHeight    || 0)
-                 + (vTog?.offsetHeight   || 0)
-                 + (blkNav?.offsetHeight || 0)
-                 + (fldNav?.offsetHeight || 0)
-                 + (banner?.classList.contains('visible') ? (banner.offsetHeight || 0) : 0);
-    document.getElementById('mapView').style.top = topPx + 'px';
+    // Recompute top offset using actual rendered positions
+    const bannerEl = document.getElementById('sharedBanner');
+    const resBars = [
+      document.getElementById('viewToggle'),
+      document.querySelector('.block-nav'),
+      document.querySelector('.field-nav'),
+      bannerEl?.classList.contains('visible') ? bannerEl : null,
+    ].filter(Boolean);
+    const resTop = resBars.reduce((max, el) => {
+      const b = el.getBoundingClientRect().bottom;
+      return b > max ? b : max;
+    }, document.querySelector('header')?.getBoundingClientRect().bottom || 0);
+    document.getElementById('mapView').style.top = resTop + 'px';
     mapResizeCanvas();
     if (document.getElementById('mapNodePanel')?.classList.contains('visible')) {
       if (!MAP.panelCollapseManual) {

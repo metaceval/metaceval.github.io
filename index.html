@@ -4031,13 +4031,16 @@ function initEvalSplitEvents() {
   // Pan / drag on hub canvas (reuse evalMapView pointer logic)
   let isPanning = false, panMoved = false;
   let panStart = { x: 0, y: 0 }, camStart = { x: 0, y: 0 };
+  const PAN_THRESHOLD = 5;
 
   canvas.addEventListener('pointermove', e => {
     const rect = canvas.getBoundingClientRect();
     const sx = e.clientX - rect.left, sy = e.clientY - rect.top;
     if (isPanning) {
-      EGRAPH.camera.x = camStart.x - (e.clientX - panStart.x) / EGRAPH.camera.scale;
-      EGRAPH.camera.y = camStart.y - (e.clientY - panStart.y) / EGRAPH.camera.scale;
+      const dx = e.clientX - panStart.x, dy = e.clientY - panStart.y;
+      if (!panMoved && dx * dx + dy * dy < PAN_THRESHOLD * PAN_THRESHOLD) return;
+      EGRAPH.camera.x = camStart.x - dx / EGRAPH.camera.scale;
+      EGRAPH.camera.y = camStart.y - dy / EGRAPH.camera.scale;
       panMoved = true;
       return;
     }
@@ -6700,6 +6703,7 @@ function initEvalMapEvents() {
     if (EGRAPH.isPanning && pointers.size === 1) {
       const dx = e.clientX - EGRAPH.panStart.x;
       const dy = e.clientY - EGRAPH.panStart.y;
+      if (!EGRAPH.panMoved && dx * dx + dy * dy < 25) return;
       EGRAPH.camera.x = EGRAPH.camStart.x - dx / EGRAPH.camera.scale;
       EGRAPH.camera.y = EGRAPH.camStart.y - dy / EGRAPH.camera.scale;
       EGRAPH.panMoved = true;
@@ -7175,8 +7179,10 @@ function initUnifiedMapEvents() {
     } else { lastPinchDist = 0; }
 
     if (UMAP.isPanning) {
-      UMAP.camera.x = UMAP.camStart.x - (e.clientX - UMAP.panStart.x) / UMAP.camera.scale;
-      UMAP.camera.y = UMAP.camStart.y - (e.clientY - UMAP.panStart.y) / UMAP.camera.scale;
+      const dx = e.clientX - UMAP.panStart.x, dy = e.clientY - UMAP.panStart.y;
+      if (!UMAP.panMoved && dx * dx + dy * dy < 25) return;
+      UMAP.camera.x = UMAP.camStart.x - dx / UMAP.camera.scale;
+      UMAP.camera.y = UMAP.camStart.y - dy / UMAP.camera.scale;
       UMAP.panMoved = true;
       return;
     }

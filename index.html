@@ -4422,9 +4422,10 @@ function openModal(itemId) {
   if (relatedItems.length) {
     relBox.style.display = '';
     relBox.innerHTML = `<span class="modal-related-label">${esc(i('related'))}</span>` +
-      relatedItems.map((rel, i) =>
-        `<button class="related-btn" type="button" data-related-id="${esc(rel.id)}">${esc(rel.name)}</button>${i < relatedItems.length - 1 ? '<span class="related-sep">,</span>' : ''}`
-      ).join('');
+      collapsibleBtns(relatedItems, COLLAPSE_LIMIT,
+        rel => `<button class="related-btn" type="button" data-related-id="${esc(rel.id)}">${esc(rel.name)}</button>`
+      );
+    initCollapsible(relBox);
     relBox.querySelectorAll('[data-related-id]').forEach(btn =>
       btn.addEventListener('click', ev => { ev.stopPropagation(); S.modalHistory.push(item.id); openModal(btn.dataset.relatedId); })
     );
@@ -4541,6 +4542,35 @@ function closeModal() {
   S.modalHistory = [];
 }
 
+// ─── COLLAPSIBLE LIST HELPERS ────────────────────────────────────────────────
+
+const COLLAPSE_LIMIT = 5;
+
+function collapsibleBtns(items, limit, renderFn) {
+  const visible = items.slice(0, limit);
+  const extra   = items.slice(limit);
+  let html = visible.map((item, i) =>
+    renderFn(item) + (i < visible.length - 1 || extra.length > 0 ? '<span class="related-sep">,</span>' : '')
+  ).join('');
+  if (extra.length) {
+    html += `<span class="collapsible-extra" style="display:none">${
+      extra.map((item, i) => renderFn(item) + (i < extra.length - 1 ? '<span class="related-sep">,</span>' : '')).join('')
+    }</span><button class="related-btn collapsible-more" type="button" style="font-size:.75rem;padding:3px 9px;border-style:dashed;opacity:.8">+${extra.length}</button>`;
+  }
+  return html;
+}
+
+function initCollapsible(container) {
+  container.querySelectorAll('.collapsible-more').forEach(btn => {
+    btn.addEventListener('click', ev => {
+      ev.stopPropagation();
+      const extra = btn.previousElementSibling;
+      if (extra && extra.classList.contains('collapsible-extra')) extra.style.display = '';
+      btn.remove();
+    });
+  });
+}
+
 // ─── RENDER: EVAL SECTION (inside technique modal) ───────────────────────────
 
 function renderEvalSection(item) {
@@ -4566,12 +4596,13 @@ function renderEvalSection(item) {
     <div class="modal-eval-head">${esc(i('evalSection'))}</div>
     ${groups.map(g => `
       <div class="eval-group">
-        <span class="eval-group-label">${esc(i(g.i18n))}:</span>${g.items.map((e, idx) =>
-          `<button class="eval-chip" type="button" data-prefix="${g.prefix}" data-eval-id="${esc(e.id)}">${esc(e.name)}</button>${idx < g.items.length - 1 ? '<span class="related-sep">,</span> ' : ''}`
-        ).join('')}
+        <span class="eval-group-label">${esc(i(g.i18n))}:</span>${collapsibleBtns(g.items, COLLAPSE_LIMIT,
+          e => `<button class="eval-chip" type="button" data-prefix="${g.prefix}" data-eval-id="${esc(e.id)}">${esc(e.name)}</button>`
+        )}
       </div>
     `).join('')}
   `;
+  initCollapsible(box);
   box.querySelectorAll('[data-eval-id]').forEach(btn => {
     btn.addEventListener('click', ev => {
       ev.stopPropagation();
@@ -5254,7 +5285,10 @@ function openEvalModal(evalId) {
   if (metacItems.length) {
     relBox.style.display = '';
     relBox.innerHTML = `<span class="modal-related-label">${esc(i('evalUsedBy'))}</span>` +
-      metacItems.map((t, idx) => `<button class="related-btn" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>${idx < metacItems.length - 1 ? '<span class="related-sep">,</span>' : ''}`).join('');
+      collapsibleBtns(metacItems, COLLAPSE_LIMIT,
+        t => `<button class="related-btn" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`
+      );
+    initCollapsible(relBox);
     relBox.querySelectorAll('[data-metac-id]').forEach(btn => {
       btn.addEventListener('click', ev => {
         ev.stopPropagation();
@@ -5326,10 +5360,11 @@ function openEvalModal(evalId) {
     innerEl.innerHTML = `<div class="modal-eval-head">${esc(i('evalInnerRel'))}</div>` +
       innerGroups.map(g => `
         <div class="eval-group">
-          <span class="eval-group-label">${esc(i(g.cat.i18n))}:</span>${g.items.map((e, idx) =>
-            `<button class="eval-chip" type="button" data-prefix="${g.cat.prefix}" data-inner-id="${esc(e.id)}">${esc(e.name)}</button>${idx < g.items.length - 1 ? '<span class="related-sep">,</span> ' : ''}`
-          ).join('')}
+          <span class="eval-group-label">${esc(i(g.cat.i18n))}:</span>${collapsibleBtns(g.items, COLLAPSE_LIMIT,
+            e => `<button class="eval-chip" type="button" data-prefix="${g.cat.prefix}" data-inner-id="${esc(e.id)}">${esc(e.name)}</button>`
+          )}
         </div>`).join('');
+    initCollapsible(innerEl);
     innerEl.querySelectorAll('[data-inner-id]').forEach(btn => {
       btn.addEventListener('click', ev => {
         ev.stopPropagation();

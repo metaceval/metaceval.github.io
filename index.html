@@ -730,7 +730,8 @@
     }
     .modal-body h4:first-child { margin-top: 0; }
     .modal-body p { margin-bottom: 6px; }
-    .modal-body ol { margin: 6px 0 10px 18px; display: flex; flex-direction: column; gap: 4px; }
+    .modal-body ol, .modal-body ul { margin: 6px 0 10px 18px; display: flex; flex-direction: column; gap: 4px; }
+    .modal-body ul { list-style: disc; }
     .desc-table { border-collapse: collapse; width: 100%; margin: 10px 0 14px; font-size: .82rem; }
     .desc-table th, .desc-table td { border: 1px solid var(--border); padding: 6px 10px; text-align: left; vertical-align: top; }
     .desc-table th { background: #eff6ff; color: var(--primary); font-weight: 700; }
@@ -3743,12 +3744,11 @@ function inlineFormat(raw) {
 
 function formatDesc(text) {
   const lines = text.split('\n');
-  let html = '', list = [], tableLines = [];
+  let html = '', list = [], ulList = [], tableLines = [];
 
   const flush = () => {
-    if (!list.length) return;
-    html += '<ol>' + list.map(li => `<li>${li}</li>`).join('') + '</ol>';
-    list = [];
+    if (list.length) { html += '<ol>' + list.map(li => `<li>${li}</li>`).join('') + '</ol>'; list = []; }
+    if (ulList.length) { html += '<ul>' + ulList.map(li => `<li>${li}</li>`).join('') + '</ul>'; ulList = []; }
   };
 
   const flushTable = () => {
@@ -3800,7 +3800,10 @@ function formatDesc(text) {
     }
 
     const num = line.match(/^\d+\.\s+([\s\S]+)/);
-    if (num) { list.push(inlineFormat(num[1])); continue; }
+    if (num) { if (ulList.length) { html += '<ul>' + ulList.map(li => `<li>${li}</li>`).join('') + '</ul>'; ulList = []; } list.push(inlineFormat(num[1])); continue; }
+
+    const ul = line.match(/^[-*]\s+([\s\S]+)/);
+    if (ul) { if (list.length) { html += '<ol>' + list.map(li => `<li>${li}</li>`).join('') + '</ol>'; list = []; } ulList.push(inlineFormat(ul[1])); continue; }
 
     flush();
 

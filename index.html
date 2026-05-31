@@ -6,8 +6,8 @@
   <meta name="analytics-endpoint" content="https://bilateria.org/app/estadistica/metac/track.php">
   <meta name="analytics-stats-url" content="https://bilateria.org/app/estadistica/metac/admin-stats.php">
   <meta name="analytics-site-id" content="metac">
-  <title>Metac — Recursos metodológicos para el aula</title>
-  <link rel="icon" type="image/svg+xml" href="metac-logo.svg">
+  <title>Metaceval — Recursos metodológicos para el aula</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <script>(function(){var p=localStorage.getItem('metac_theme')||'auto';var d=p==='dark'||(p==='auto'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.setAttribute('data-theme',d?'dark':'light');document.documentElement.setAttribute('data-theme-pref',p);})();</script>
   <style>
     :root {
@@ -350,12 +350,16 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 26px;
+      gap: 4px;
+      min-width: 26px;
       height: 24px;
+      padding: 0 7px;
       border: none;
       border-radius: 4px;
       background: transparent;
       color: var(--text-muted);
+      font-size: .78rem;
+      font-weight: 500;
       cursor: pointer;
       transition: background .12s, color .12s;
     }
@@ -681,39 +685,40 @@
     .program-btn svg { flex-shrink: 0; }
 
     .modal-related {
-      padding: 12px 20px;
+      padding: 10px 20px;
       border-bottom: 1px solid var(--border);
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
+      font-size: .8rem;
+      line-height: 1.7;
+      color: var(--text-muted);
     }
     .modal-related-label {
-      font-size: .78rem;
       font-weight: 600;
-      color: var(--text-muted);
-      margin-right: 2px;
+      margin-right: 4px;
     }
     .related-btn {
-      display: inline-flex;
-      align-items: center;
-      padding: 5px 12px;
-      background: var(--bg);
+      display: inline;
+      background: none;
+      border: none;
+      padding: 0;
       color: var(--primary);
-      border: 1px solid var(--border);
-      border-radius: 50px;
-      font-size: .8rem;
-      font-weight: 600;
+      font-size: inherit;
+      font-weight: 500;
       cursor: pointer;
-      transition: background .12s, border-color .12s;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      text-decoration-color: transparent;
+      transition: text-decoration-color .12s;
     }
-    .related-btn:hover { background: #eff6ff; border-color: #bfdbfe; }
-    [data-theme="dark"] .related-btn:hover { background: #0f1f3d; border-color: #3b82f6; }
+    .related-btn:hover { text-decoration-color: var(--primary); }
+    .related-sep { color: var(--text-muted); margin: 0 1px; }
 
+    .modal-scroll {
+      flex: 1;
+      overflow-y: auto;
+      min-height: 0;
+    }
     .modal-body {
       padding: 20px;
-      overflow-y: auto;
-      flex: 1;
       font-size: .88rem;
       line-height: 1.75;
     }
@@ -1192,7 +1197,7 @@
       max-width: 250px;
       pointer-events: none;
       box-shadow: var(--shadow-md);
-      z-index: 70;
+      z-index: 9999;
       display: none;
     }
     #mapTooltip strong {
@@ -1575,6 +1580,27 @@
       border-right: 1px solid var(--border);
       flex-shrink: 0;
     }
+    .eval-list-header {
+      padding: 12px 14px 10px;
+      border-bottom: 2px solid var(--border);
+      background: var(--surface);
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+    .eval-list-header-cat {
+      font-size: .7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--primary);
+      margin-bottom: 4px;
+    }
+    .eval-list-header-hint {
+      font-size: .76rem;
+      color: var(--text-muted);
+      line-height: 1.45;
+    }
     .eval-list-item {
       padding: 9px 14px;
       border-bottom: 1px solid var(--border);
@@ -1582,8 +1608,56 @@
       transition: background .12s;
     }
     .eval-list-item:hover { background: var(--hover); }
-    .eval-list-item.selected { background: var(--hover); border-left: 3px solid var(--primary); padding-left: 11px; }
+    .eval-list-item.selected {
+      border-left: 3px solid var(--primary);
+      padding-left: 11px;
+    }
+    .eval-list-item.selected .eval-list-name { font-weight: 700; }
+    .eval-list-item.selected.cat-tec { background: #dbeafe; border-left-color: #93c5fd; }
+    .eval-list-item.selected.cat-tec .eval-list-name { color: #1d4ed8; }
+    .eval-list-item.selected.cat-ins { background: #dcfce7; border-left-color: #4ade80; }
+    .eval-list-item.selected.cat-ins .eval-list-name { color: #15803d; }
+    .eval-list-item.selected.cat-her { background: #f3e8ff; border-left-color: #c084fc; }
+    .eval-list-item.selected.cat-her .eval-list-name { color: #7e22ce; }
+    .eval-list-item.selected.cat-dim { background: #fef3c7; border-left-color: #fbbf24; }
+    .eval-list-item.selected.cat-dim .eval-list-name { color: #b45309; }
+    [data-theme="dark"] .eval-list-item.selected.cat-tec { background: #1e3a5f; }
+    [data-theme="dark"] .eval-list-item.selected.cat-tec .eval-list-name { color: #93c5fd; }
+    [data-theme="dark"] .eval-list-item.selected.cat-ins { background: #14532d; }
+    [data-theme="dark"] .eval-list-item.selected.cat-ins .eval-list-name { color: #86efac; }
+    [data-theme="dark"] .eval-list-item.selected.cat-her { background: #3b0764; }
+    [data-theme="dark"] .eval-list-item.selected.cat-her .eval-list-name { color: #d8b4fe; }
+    [data-theme="dark"] .eval-list-item.selected.cat-dim { background: #451a03; }
+    [data-theme="dark"] .eval-list-item.selected.cat-dim .eval-list-name { color: #fde68a; }
     .eval-list-name { font-size: .84rem; font-weight: 600; color: var(--text); line-height: 1.3; }
+    .eval-cat-desc {
+      padding: 14px 20px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin: 12px 0 4px;
+      font-size: .84rem;
+      line-height: 1.65;
+      color: var(--text-muted);
+    }
+    .eval-cat-desc strong { color: var(--text); font-weight: 600; }
+    .eval-cat-desc em { font-style: italic; }
+    .modal-eval-section {
+      padding: 14px 20px;
+      border-top: 1px solid var(--border);
+    }
+    .modal-eval-section h5 {
+      font-size: .72rem;
+      font-weight: 700;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin: 0 0 8px;
+    }
+    .modal-eval-section p,
+    .modal-eval-section li { font-size: .84rem; line-height: 1.6; color: var(--text); margin: 0; }
+    .modal-eval-section ul { margin: 0; padding-left: 18px; }
+    .modal-eval-section li { margin-bottom: 3px; }
     .eval-list-summary { font-size: .74rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px;
       display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
     .eval-detail-panel {
@@ -1604,39 +1678,6 @@
       text-align: center;
       padding: 24px;
     }
-    .eval-detail-content {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      overflow: hidden;
-      min-height: 0;
-    }
-    .eval-hub-wrap {
-      position: relative;
-      min-height: 120px;
-      flex-shrink: 0;
-    }
-    .eval-split-handle {
-      height: 6px;
-      flex-shrink: 0;
-      background: var(--border);
-      cursor: row-resize;
-      position: relative;
-      transition: background .15s;
-    }
-    .eval-split-handle:hover, .eval-split-handle.dragging { background: var(--primary); }
-    .eval-split-handle::after {
-      content: '';
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      transform: translate(-50%, -50%);
-      width: 32px;
-      height: 3px;
-      border-radius: 2px;
-      background: var(--text-muted);
-      opacity: .5;
-    }
     .eval-hub-controls {
       position: absolute;
       top: 6px;
@@ -1644,13 +1685,6 @@
       display: flex;
       gap: 4px;
       z-index: 2;
-    }
-    .eval-detail-text {
-      flex: 1;
-      overflow-y: auto;
-      padding: 14px 18px;
-      font-size: .86rem;
-      line-height: 1.7;
     }
     /* Mobile: stack vertically */
     @media (max-width: 640px) {
@@ -1703,7 +1737,7 @@
     /* ── Eval nav tabs (evaluation view) ───────────────────── */
     .eval-nav { background: var(--bg); border-bottom: 1px solid var(--border); overflow-x: auto; scrollbar-width: none; }
     .eval-nav::-webkit-scrollbar { display: none; }
-    .eval-nav-inner { display: flex; gap: 4px; padding: 6px 12px; align-items: center; min-width: max-content; }
+    .eval-nav-inner { width: min(calc(100% - 40px), 1360px); margin: 0 auto; display: flex; gap: 4px; padding: 6px 0; align-items: center; }
     .eval-nav-sep { width: 1px; height: 18px; background: var(--border); margin: 0 8px; flex-shrink: 0; }
     /* Unified map toggles */
     .umap-toggle {
@@ -1777,26 +1811,42 @@
       letter-spacing: .05em;
     }
     .eval-group {
-      padding: 3px 20px 4px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 5px;
-      align-items: center;
+      padding: 2px 20px;
+      font-size: .8rem;
+      line-height: 1.7;
+      color: var(--text-muted);
     }
     .eval-group-label {
-      font-size: .72rem;
       font-weight: 600;
-      color: var(--text-muted);
-      min-width: 110px;
-      flex-shrink: 0;
+      margin-right: 4px;
     }
+    .eval-group .eval-chip {
+      display: inline;
+      background: none;
+      border: none;
+      padding: 0;
+      font-size: inherit;
+      font-weight: 500;
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      text-decoration-color: transparent;
+      transition: text-decoration-color .12s;
+    }
+    .eval-group .eval-chip:hover { text-decoration-color: currentColor; opacity: 1; }
+    .eval-group .eval-chip[data-prefix="TEC"] { color: #1d4ed8; }
+    .eval-group .eval-chip[data-prefix="INS"] { color: #15803d; }
+    .eval-group .eval-chip[data-prefix="HER"] { color: #7e22ce; }
+    .eval-group .eval-chip[data-prefix="DIM"] { color: #b45309; }
+    [data-theme="dark"] .eval-group .eval-chip[data-prefix="TEC"] { color: #93c5fd; }
+    [data-theme="dark"] .eval-group .eval-chip[data-prefix="INS"] { color: #86efac; }
+    [data-theme="dark"] .eval-group .eval-chip[data-prefix="HER"] { color: #d8b4fe; }
+    [data-theme="dark"] .eval-group .eval-chip[data-prefix="DIM"] { color: #fde68a; }
 
     /* ── Eval entity cards ───────────────────────────────────── */
-    .eval-card .card-type-row {
-      margin-bottom: 4px;
-    }
     .eval-card .card-name {
       font-size: .92rem;
+      flex: none;
     }
     .eval-card .card-summary {
       font-size: .8rem;
@@ -1819,6 +1869,261 @@
       background: var(--hover);
       color: var(--text-muted);
       border: 1px solid var(--border);
+    }
+
+    /* ── HOME VIEW ───────────────────────────────────────────────────────────── */
+    #homeView {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: var(--bg);
+      z-index: 300;
+      overflow-y: auto;
+      padding-bottom: 60px;
+    }
+    #homeView.visible { display: block; }
+
+    .home-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* Hero */
+    .home-hero {
+      text-align: center;
+      padding: 64px 20px 48px;
+    }
+    .home-hero-logo {
+      display: block;
+      margin: 0 auto 16px;
+    }
+    .home-hero-eyebrow {
+      display: inline-block;
+      font-size: .72rem;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--primary);
+      background: rgba(37,99,235,.08);
+      border: 1px solid rgba(37,99,235,.15);
+      border-radius: 50px;
+      padding: 4px 14px;
+      margin-bottom: 20px;
+    }
+    .home-hero h1 {
+      font-size: clamp(1.9rem, 4.5vw, 3rem);
+      font-weight: 900;
+      line-height: 1.1;
+      color: var(--text);
+      letter-spacing: -.03em;
+      margin-bottom: 18px;
+    }
+    .home-hero h1 span {
+      color: var(--primary);
+    }
+    .home-hero-sub {
+      font-size: clamp(.95rem, 1.5vw, 1.1rem);
+      color: var(--text-muted);
+      line-height: 1.7;
+      max-width: 600px;
+      margin: 0 auto 32px;
+    }
+    .home-connect-note {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: .82rem;
+      color: var(--text-muted);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 50px;
+      padding: 7px 18px;
+    }
+    .home-connect-note svg { flex-shrink: 0; color: var(--primary); }
+
+    /* Main section cards */
+    .home-sections {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+    .home-section-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,.06);
+      transition: box-shadow .18s, transform .18s;
+    }
+    .home-section-card:hover {
+      box-shadow: 0 8px 24px rgba(0,0,0,.1);
+      transform: translateY(-2px);
+    }
+    .home-section-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 16px;
+      flex-shrink: 0;
+    }
+    .home-section-icon.tec { background: linear-gradient(135deg,#fef3c7,#fde68a); color: #b45309; }
+    .home-section-icon.eval { background: linear-gradient(135deg,#d1fae5,#a7f3d0); color: #047857; }
+    .home-section-count {
+      font-size: .75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+    .home-section-card h2 {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: var(--text);
+      letter-spacing: -.02em;
+      margin-bottom: 10px;
+      line-height: 1.25;
+    }
+    .home-section-desc {
+      font-size: .88rem;
+      color: var(--text-muted);
+      line-height: 1.65;
+      margin-bottom: 20px;
+      flex: 1;
+    }
+
+    /* Blocks/categories inside cards */
+    .home-blocks {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 20px;
+    }
+    .home-block-chip {
+      font-size: .72rem;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 50px;
+      background: var(--hover);
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+    }
+
+    /* Eval subcategories */
+    .home-eval-cats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    .home-eval-cat {
+      display: flex;
+      align-items: stretch;
+      border-radius: 8px;
+      border: 1px solid transparent;
+      overflow: hidden;
+      transition: box-shadow .12s;
+    }
+    .home-eval-cat:hover { box-shadow: 0 3px 10px rgba(0,0,0,.1); }
+    .home-eval-cat-main {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 10px;
+      flex: 1;
+      font-size: .82rem;
+      font-weight: 600;
+      background: #fff;
+      border-radius: 7px 0 0 7px;
+    }
+    [data-theme="dark"] .home-eval-cat-main { background: #1e293b; }
+    .home-eval-cat-sep {
+      width: 1px;
+      background: rgba(0,0,0,.12);
+      flex-shrink: 0;
+    }
+    .home-eval-cat-cards,
+    .home-eval-cat-map {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 8px;
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      color: inherit;
+      transition: filter .12s;
+      flex-shrink: 0;
+    }
+    .home-eval-cat-cards { border-right: 1px solid rgba(0,0,0,.12); }
+    .home-eval-cat-cards:hover,
+    .home-eval-cat-map:hover { filter: brightness(.75); }
+    .home-eval-cat-tec { background: #dbeafe; border-color: #93c5fd; }
+    .home-eval-cat-ins { background: #dcfce7; border-color: #4ade80; }
+    .home-eval-cat-her { background: #f3e8ff; border-color: #c084fc; }
+    .home-eval-cat-dim { background: #fef3c7; border-color: #fbbf24; }
+    .home-eval-cat-label {
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--text);
+      flex: 1;
+      text-align: left;
+    }
+    .home-eval-cat-count {
+      font-size: .75rem;
+      font-weight: 800;
+      color: var(--text-muted);
+    }
+
+    /* View entry links (técnicas card) */
+    .home-view-links {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .home-view-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 8px;
+      border: 1px solid #fbbf24;
+      background: #fef3c7;
+      color: #b45309;
+      font-size: .82rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .12s, border-color .12s;
+    }
+    .home-view-link:hover { background: #fde68a; border-color: #f59e0b; }
+    [data-theme="dark"] .home-view-link { background: #451a03; border-color: #f59e0b; color: #fcd34d; }
+    [data-theme="dark"] .home-view-link:hover { background: #78350f; }
+
+    /* Logo as home button */
+    .logo { cursor: pointer; }
+    .logo:hover .logo-text { color: var(--primary); }
+
+    /* Dark mode adjustments */
+    [data-theme="dark"] .home-section-icon.tec { background: linear-gradient(135deg,#451a03,#78350f); color: #fcd34d; }
+    [data-theme="dark"] .home-section-icon.eval { background: linear-gradient(135deg,#022c22,#064e3b); color: #34d399; }
+    [data-theme="dark"] .home-eval-cat-tec { background: #1e3a5f; border-color: #3b82f6; }
+    [data-theme="dark"] .home-eval-cat-ins { background: #14532d; border-color: #22c55e; }
+    [data-theme="dark"] .home-eval-cat-her { background: #3b0764; border-color: #a855f7; }
+    [data-theme="dark"] .home-eval-cat-dim { background: #451a03; border-color: #f59e0b; }
+    [data-theme="dark"] .home-block-chip { background: var(--surface); }
+
+    /* Responsive */
+    @media (max-width: 700px) {
+      .home-sections { grid-template-columns: 1fr; }
+      .home-hero { padding: 40px 16px 32px; }
+      .home-eval-cats { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -1869,6 +2174,106 @@
     </div>
   </div>
 </header>
+
+<!-- ═══ HOME VIEW ═══ -->
+<div id="homeView">
+  <div class="home-inner">
+    <div class="home-hero">
+      <img src="favicon.svg" class="home-hero-logo" alt="Metaceval" width="56" height="56">
+      <div class="home-hero-eyebrow" id="homeEyebrow" style="display:none"></div>
+      <h1 id="homeTitle">Recursos metodológicos <span>para el aula</span></h1>
+      <p class="home-hero-sub" id="homeSubtitle">Más de 150 técnicas y metodologías activas —estructuras cooperativas, rutinas de pensamiento y marcos metodológicos— y más de 170 recursos de evaluación: técnicas, evidencias observables, instrumentos y dimensiones. Un catálogo integrado para diseñar y evaluar el aprendizaje activo.</p>
+      <div class="home-connect-note" id="homeConnectNote">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        <span id="homeConnectText">Técnicas activas y evaluación están interconectadas en ambas direcciones</span>
+      </div>
+    </div>
+
+    <div class="home-sections">
+
+      <!-- Técnicas activas -->
+      <div class="home-section-card">
+        <div class="home-section-icon tec">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>
+        </div>
+        <div class="home-section-count" id="homeTecCount">152 recursos</div>
+        <h2 id="homeTecTitle">Técnicas y metodologías activas</h2>
+        <p class="home-section-desc" id="homeTecDesc">Estructuras cooperativas, rutinas de pensamiento, técnicas de dinámica de aula y marcos metodológicos completos. Filtra por bloques y ámbitos, busca por nombre y accede a recursos y programas externos.</p>
+        <div class="home-view-links">
+          <button class="home-view-link" id="homeEnterTecCards">
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+            <span id="homeTecCardsLabel">Fichas</span>
+          </button>
+          <button class="home-view-link" id="homeEnterTecMap">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+            <span id="homeTecMapLabel">Mapa de relaciones</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Evaluación -->
+      <div class="home-section-card">
+        <div class="home-section-icon eval">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+        </div>
+        <div class="home-section-count" id="homeEvalCount">178 recursos</div>
+        <h2 id="homeEvalTitle">Evaluación</h2>
+        <p class="home-section-desc" id="homeEvalDesc">Técnicas de evaluación, evidencias observables, instrumentos y dimensiones. Un catálogo completo para planificar y ejecutar la evaluación del aprendizaje activo.</p>
+        <div class="home-eval-cats" id="homeEvalCats">
+          <div class="home-eval-cat home-eval-cat-tec">
+            <span class="home-eval-cat-main">
+              <span id="homeEvalCatTec">Técnicas de evaluación</span>
+            </span>
+            <span class="home-eval-cat-sep"></span>
+            <button class="home-eval-cat-cards" data-eval-cat="tecnicas" title="Fichas">
+              <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+            </button>
+            <button class="home-eval-cat-map" data-eval-cat="tecnicas" title="Mapa de relaciones">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+            </button>
+          </div>
+          <div class="home-eval-cat home-eval-cat-ins">
+            <span class="home-eval-cat-main">
+              <span id="homeEvalCatIns">Evidencias observables</span>
+            </span>
+            <span class="home-eval-cat-sep"></span>
+            <button class="home-eval-cat-cards" data-eval-cat="instrumentos" title="Fichas">
+              <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+            </button>
+            <button class="home-eval-cat-map" data-eval-cat="instrumentos" title="Mapa de relaciones">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+            </button>
+          </div>
+          <div class="home-eval-cat home-eval-cat-her">
+            <span class="home-eval-cat-main">
+              <span id="homeEvalCatHer">Instrumentos</span>
+            </span>
+            <span class="home-eval-cat-sep"></span>
+            <button class="home-eval-cat-cards" data-eval-cat="herramientas" title="Fichas">
+              <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+            </button>
+            <button class="home-eval-cat-map" data-eval-cat="herramientas" title="Mapa de relaciones">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+            </button>
+          </div>
+          <div class="home-eval-cat home-eval-cat-dim">
+            <span class="home-eval-cat-main">
+              <span id="homeEvalCatDim">Dimensiones</span>
+            </span>
+            <span class="home-eval-cat-sep"></span>
+            <button class="home-eval-cat-cards" data-eval-cat="dimensiones" title="Fichas">
+              <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+            </button>
+            <button class="home-eval-cat-map" data-eval-cat="dimensiones" title="Mapa de relaciones">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+            </button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
 
 <!-- ═══ VIEW TOGGLE ═══ -->
 <div class="view-toggle" id="viewToggle">
@@ -1978,10 +2383,6 @@
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
     </button>
   </div>
-  <div id="mapTooltip">
-    <strong id="mapTipName"></strong>
-    <span id="mapTipSummary"></span>
-  </div>
   <div id="mapNodePanel" class="map-node-panel">
     <div class="map-panel-head">
       <div class="map-panel-name" id="mapPanelName"></div>
@@ -2003,6 +2404,11 @@
       </button>
     </div>
   </div>
+</div>
+
+<div id="mapTooltip">
+  <strong id="mapTipName"></strong>
+  <span id="mapTipSummary"></span>
 </div>
 
 <!-- ═══ MODAL ═══ -->
@@ -2037,15 +2443,17 @@
         <button class="icon-btn" id="modalCloseBtn" title="Cerrar">✕</button>
       </div>
     </div>
-    <div class="modal-meta">
-      <div class="card-block" id="modalBlock"></div>
-      <div class="card-fields" id="modalFields"></div>
-      <div class="modal-tags-row" id="modalTags"></div>
+    <div class="modal-scroll">
+      <div class="modal-meta">
+        <div class="card-block" id="modalBlock"></div>
+        <div class="card-fields" id="modalFields"></div>
+        <div class="modal-tags-row" id="modalTags"></div>
+      </div>
+      <div class="modal-programs" id="modalPrograms" style="display:none"></div>
+      <div class="modal-related" id="modalRelated" style="display:none"></div>
+      <div class="modal-eval" id="modalEval" style="display:none"></div>
+      <div class="modal-body" id="modalBody"></div>
     </div>
-    <div class="modal-programs" id="modalPrograms" style="display:none"></div>
-    <div class="modal-related" id="modalRelated" style="display:none"></div>
-    <div class="modal-eval" id="modalEval" style="display:none"></div>
-    <div class="modal-body" id="modalBody"></div>
     <div class="modal-foot">
       <button class="btn" id="modalCloseBtnFooter"></button>
     </div>
@@ -2055,22 +2463,33 @@
 <!-- ═══ EVAL SPLIT VIEW ═══ -->
 <div id="evalSplitView" style="display:none;position:fixed;left:0;right:0;bottom:0;overflow:hidden;z-index:10;">
   <div class="eval-list-panel" id="evalListPanel"></div>
-  <div class="eval-detail-panel" id="evalDetailPanel">
-    <div class="eval-detail-empty" id="evalDetailEmpty">
-      <div style="font-size:2rem;margin-bottom:8px">←</div>
-      <p id="evalDetailEmptyMsg"></p>
+  <div class="eval-detail-panel" id="evalDetailPanel" style="position:relative;">
+    <canvas id="evalHubCanvas" style="display:block;width:100%;height:100%;cursor:grab;touch-action:none;"></canvas>
+    <!-- Controls overlay -->
+    <div class="eval-hub-controls">
+      <button class="btn" id="evalHub2ndBtn" style="font-size:.74rem;padding:3px 8px;">2.º nivel</button>
+      <button class="btn" id="evalHubFitBtn" style="font-size:.74rem;padding:3px 8px;">⊙</button>
+      <button class="btn" id="evalHubFullBtn" style="font-size:.74rem;padding:3px 8px;" title="Pantalla completa">⛶</button>
     </div>
-    <div class="eval-detail-content" id="evalDetailContent" style="display:none;">
-      <div class="eval-hub-wrap" id="evalHubWrap" style="height:52%">
-        <canvas id="evalHubCanvas" style="display:block;width:100%;height:100%;cursor:grab;touch-action:none;"></canvas>
-        <div class="eval-hub-controls">
-          <button class="btn" id="evalHub2ndBtn" style="font-size:.74rem;padding:3px 8px;">2.º nivel</button>
-          <button class="btn" id="evalHubFitBtn" style="font-size:.74rem;padding:3px 8px;">⊙</button>
-          <button class="btn" id="evalHubFullBtn" style="font-size:.74rem;padding:3px 8px;" title="Pantalla completa">⛶</button>
-        </div>
+    <!-- Floating detail panel (same system as técnicas map) -->
+    <div class="map-node-panel" id="evalNodePanel">
+      <div class="map-panel-head" id="evalNodePanelHead">
+        <span class="map-panel-name" id="evalNodePanelName"></span>
+        <button class="icon-btn map-panel-compact-open" id="evalNodePanelOpenCompact">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
+        </button>
+        <button class="map-panel-toggle icon-btn" id="evalNodePanelToggle" title="Contraer ficha">−</button>
+        <button class="map-panel-close icon-btn" id="evalNodePanelClose" title="Cerrar">✕</button>
       </div>
-      <div class="eval-split-handle" id="evalSplitHandle" title="Arrastrar para redimensionar"></div>
-      <div class="eval-detail-text" id="evalDetailText"></div>
+      <div class="map-panel-scroll" id="evalNodePanelScroll">
+        <div id="evalNodePanelBody"></div>
+      </div>
+      <div class="map-panel-foot" id="evalNodePanelFoot">
+        <button class="btn btn-primary" id="evalNodePanelOpenBtn" style="width:100%">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
+          <span id="evalNodePanelOpenBtnLabel">Abrir ficha</span>
+        </button>
+      </div>
     </div>
   </div>
 </div>
@@ -2083,7 +2502,26 @@
     <button class="btn" id="evalMapFitBtn" title="Centrar vista" style="font-size:.78rem;padding:4px 10px;">⊙ Centrar</button>
     <button class="icon-btn" id="evalMapCloseBtn" title="Cerrar mapa">✕</button>
   </div>
-  <canvas id="evalMapCanvas" style="display:block;flex:1;width:100%;min-height:0;cursor:grab;touch-action:none;"></canvas>
+  <div style="position:relative;flex:1;min-height:0;display:flex;flex-direction:column;">
+    <canvas id="evalMapCanvas" style="display:block;flex:1;width:100%;min-height:0;cursor:grab;touch-action:none;"></canvas>
+    <!-- Floating detail panel -->
+    <div class="map-node-panel" id="evalMapNodePanel">
+      <div class="map-panel-head" id="evalMapNodePanelHead">
+        <span class="map-panel-name" id="evalMapNodePanelName"></span>
+        <button class="icon-btn map-panel-compact-open" id="evalMapNodePanelOpenCompact">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
+        </button>
+        <button class="map-panel-toggle icon-btn" id="evalMapNodePanelToggle" title="Contraer ficha">−</button>
+        <button class="map-panel-close icon-btn" id="evalMapNodePanelClose" title="Cerrar">✕</button>
+      </div>
+      <div class="map-panel-scroll" id="evalMapNodePanelScroll">
+        <div id="evalMapNodePanelBody"></div>
+      </div>
+      <div class="map-panel-foot" id="evalMapNodePanelFoot" style="padding:8px 14px;border-top:1px solid var(--border);display:none;">
+        <button class="btn btn-primary" id="evalMapNodeOpenBtn" style="width:100%;font-size:.82rem;"></button>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- ═══ FAVORITES PANEL ═══ -->
@@ -2460,6 +2898,22 @@ const I18N = {
     mapView:      'Mapa',
     mapViewHint:  'Mapa de relaciones',
     viewModeCards:'Vista de fichas',
+    viewCardsBtn: 'Fichas',
+    viewMapBtn:   'Mapa',
+    homeEyebrow:       'Catálogo interactivo',
+    homeTitle:         'Recursos metodológicos para el aula',
+    homeSubtitle:      'Más de 150 técnicas y metodologías activas —estructuras cooperativas, rutinas de pensamiento y marcos metodológicos— y más de 170 recursos de evaluación: técnicas, evidencias observables, instrumentos y dimensiones. Un catálogo integrado para diseñar y evaluar el aprendizaje activo.',
+    homeConnectText:   'Técnicas activas y evaluación están interconectadas en ambas direcciones',
+    homeTecTitle:      'Técnicas y metodologías activas',
+    homeTecDesc:       'Estructuras cooperativas, rutinas de pensamiento, técnicas de dinámica de aula y marcos metodológicos completos. Filtra por bloques y ámbitos, busca por nombre y accede a recursos y programas externos.',
+    homeEvalTitle:     'Evaluación',
+    homeEvalDesc:      'Técnicas de evaluación, evidencias observables, instrumentos y dimensiones. Un catálogo completo para planificar y ejecutar la evaluación del aprendizaje activo.',
+    homeEvalCatTec:    'Técnicas de evaluación',
+    homeEvalCatIns:    'Evidencias observables',
+    homeEvalCatHer:    'Instrumentos',
+    homeEvalCatDim:    'Dimensiones',
+    homeEnterCards:    'Fichas',
+    homeEnterMap:      'Mapa de relaciones',
     viewModeMap:  'Vista de mapa de relaciones',
     mapReset:     'Restablecer vista',
     mapFit:       'Ajustar todo en pantalla',
@@ -2499,10 +2953,23 @@ const I18N = {
     evalCatDim:     'Dimensiones',
     evalSection:    'Cómo evaluar esta técnica',
     evalUsedBy:     'Técnicas activas que la usan:',
+    evalInnerRel:   'Relaciones dentro de la evaluación',
+    evalListHint:   'Selecciona un elemento de la lista para explorar sus relaciones en el mapa',
     evalPhase:      'Fase:',
     evalPartic:     'Participación:',
     evalComplex:    'Complejidad:',
+    evalPurpose:    'Finalidad',
+    evalWhenToUse:  'Cuándo usarla',
+    evalEvidence:   'Evidencias típicas',
+    evalLimitations:'Limitaciones',
+    evalCatDescTec: 'Las <strong>técnicas de evaluación</strong> son los procedimientos o métodos que el docente utiliza para recoger información sobre el aprendizaje del alumnado. Definen el <em>cómo</em> se evalúa: observación, prueba escrita, entrevista, análisis de producciones… Cada técnica se aplica en un momento del proceso y con un propósito concreto (diagnóstico, formativo o sumativo).',
+    evalCatDescIns: 'Las <strong>evidencias observables</strong> (también llamadas instrumentos de evaluación) son las producciones, actuaciones o tareas que el alumnado realiza y que sirven como prueba de su aprendizaje. Son el <em>qué</em> se evalúa: un trabajo escrito, una exposición oral, un proyecto, un portfolio… Su análisis permite al docente emitir juicios fundados sobre las competencias adquiridas.',
+    evalCatDescHer: 'Las <strong>herramientas de evaluación</strong> son los soportes documentales que concretan los criterios con los que se analiza y califica la evidencia recogida. Son el <em>con qué</em> se evalúa: rúbricas, escalas de valoración, listas de cotejo, guías de corrección… Permiten que la evaluación sea coherente, transparente y compartida entre docente y alumnado.',
+    evalCatDescDim: 'Las <strong>dimensiones de evaluación</strong> son las variables pedagógicas que condicionan el diseño y la práctica evaluadora: quién evalúa (autoevaluación, coevaluación, heteroevaluación), en qué momento del proceso (inicial, formativa, sumativa), con qué finalidad (diagnóstica, reguladora, acreditadora)… Comprender estas dimensiones permite diseñar una evaluación coherente con la metodología utilizada.',
     evalNoData:     'Cargando datos de evaluación…',
+    themeAuto:      'Automático (sistema)',
+    themeDark:      'Modo oscuro',
+    themeLight:     'Modo claro',
   },
   ca: {
     title:        "Metac — Recursos metodològics per a l'aula",
@@ -2585,6 +3052,22 @@ const I18N = {
     mapView:      'Mapa',
     mapViewHint:  'Mapa de relacions',
     viewModeCards:"Vista de fitxes",
+    viewCardsBtn: 'Fitxes',
+    viewMapBtn:   'Mapa',
+    homeEyebrow:       'Catàleg interactiu',
+    homeTitle:         'Recursos metodològics per a l\'aula',
+    homeSubtitle:      "Més de 150 tècniques i metodologies actives —estructures cooperatives, rutines de pensament i marcs metodològics— i més de 170 recursos d'avaluació: tècniques, evidències observables, instruments i dimensions. Un catàleg integrat per dissenyar i avaluar l'aprenentatge actiu.",
+    homeConnectText:   "Tècniques actives i avaluació estan interconnectades en les dues direccions",
+    homeTecTitle:      'Tècniques i metodologies actives',
+    homeTecDesc:       "Estructures cooperatives, rutines de pensament, tècniques de dinàmica d'aula i marcs metodològics complets. Filtra per blocs i àmbits, cerca per nom i accedeix a recursos i programes externs.",
+    homeEvalTitle:     'Avaluació',
+    homeEvalDesc:      "Tècniques d'avaluació, evidències observables, instruments i dimensions. Un catàleg complet per planificar i executar l'avaluació de l'aprenentatge actiu.",
+    homeEvalCatTec:    "Tècniques d'avaluació",
+    homeEvalCatIns:    'Evidències observables',
+    homeEvalCatHer:    'Instruments',
+    homeEvalCatDim:    'Dimensions',
+    homeEnterCards:    'Fitxes',
+    homeEnterMap:      'Mapa de relacions',
     viewModeMap:  'Vista de mapa de relacions',
     mapReset:     'Restablir vista',
     mapFit:       'Ajustar tot a la pantalla',
@@ -2624,10 +3107,23 @@ const I18N = {
     evalCatDim:     'Dimensions',
     evalSection:    'Com avaluar aquesta tècnica',
     evalUsedBy:     "Tècniques actives que l'utilitzen:",
+    evalInnerRel:   "Relacions dins de l'avaluació",
+    evalListHint:   "Selecciona un element de la llista per explorar les seves relacions al mapa",
     evalPhase:      'Fase:',
     evalPartic:     'Participació:',
     evalComplex:    'Complexitat:',
+    evalPurpose:    'Finalitat',
+    evalWhenToUse:  'Quan utilitzar-la',
+    evalEvidence:   'Evidències típiques',
+    evalLimitations:'Limitacions',
+    evalCatDescTec: 'Les <strong>tècniques d\'avaluació</strong> són els procediments o mètodes que el docent utilitza per recollir informació sobre l\'aprenentatge de l\'alumnat. Defineixen el <em>com</em> s\'avalua: observació, prova escrita, entrevista, anàlisi de produccions… Cada tècnica s\'aplica en un moment del procés i amb un propòsit concret (diagnòstic, formatiu o summatiu).',
+    evalCatDescIns: 'Les <strong>evidències observables</strong> (també anomenades instruments d\'avaluació) són les produccions, actuacions o tasques que l\'alumnat realitza i que serveixen com a prova del seu aprenentatge. Són el <em>què</em> s\'avalua: un treball escrit, una exposició oral, un projecte, un portfolio… La seva anàlisi permet al docent emetre judicis fonamentats sobre les competències adquirides.',
+    evalCatDescHer: 'Les <strong>eines d\'avaluació</strong> són els suports documentals que concreten els criteris amb els quals s\'analitza i qualifica l\'evidència recollida. Són el <em>amb què</em> s\'avalua: rúbriques, escales de valoració, llistes de verificació, guies de correcció… Permeten que l\'avaluació sigui coherent, transparent i compartida entre docent i alumnat.',
+    evalCatDescDim: 'Les <strong>dimensions de l\'avaluació</strong> són les variables pedagògiques que condicionen el disseny i la pràctica avaluadora: qui avalua (autoavaluació, coavaluació, heteroavaluació), en quin moment del procés (inicial, formativa, summativa), amb quina finalitat (diagnòstica, reguladora, acreditadora)… Comprendre aquestes dimensions permet dissenyar una avaluació coherent amb la metodologia utilitzada.',
     evalNoData:     "Carregant dades d\'avaluació…",
+    themeAuto:      'Automàtic (sistema)',
+    themeDark:      'Mode fosc',
+    themeLight:     'Mode clar',
   },
   en: {
     title:        'Metac — Methodological resources for the classroom',
@@ -2710,6 +3206,22 @@ const I18N = {
     mapView:      'Map',
     mapViewHint:  'Relationship map',
     viewModeCards:'Card view',
+    viewCardsBtn: 'Cards',
+    viewMapBtn:   'Map',
+    homeEyebrow:       'Interactive catalogue',
+    homeTitle:         'Methodological resources for the classroom',
+    homeSubtitle:      'Over 150 active learning techniques and methodologies —cooperative structures, thinking routines and methodological frameworks— and more than 170 assessment resources: techniques, observable evidence, instruments and dimensions. An integrated catalogue to design and assess active learning.',
+    homeConnectText:   'Active techniques and assessment are interconnected in both directions',
+    homeTecTitle:      'Active learning techniques and methodologies',
+    homeTecDesc:       'Cooperative structures, thinking routines, classroom dynamics and complete methodological frameworks. Filter by block and field, search by name and access external resources.',
+    homeEvalTitle:     'Assessment',
+    homeEvalDesc:      'Evaluation techniques, observable evidence, instruments and dimensions. A complete catalogue for planning and executing the assessment of active learning.',
+    homeEvalCatTec:    'Evaluation techniques',
+    homeEvalCatIns:    'Observable evidence',
+    homeEvalCatHer:    'Instruments',
+    homeEvalCatDim:    'Dimensions',
+    homeEnterCards:    'Cards',
+    homeEnterMap:      'Relationship map',
     viewModeMap:  'Relationship map view',
     mapReset:     'Reset view',
     mapFit:       'Fit all in screen',
@@ -2749,10 +3261,23 @@ const I18N = {
     evalCatDim:     'Dimensions',
     evalSection:    'How to assess this technique',
     evalUsedBy:     'Active techniques using this:',
+    evalInnerRel:   'Relationships within assessment',
+    evalListHint:   'Select an item from the list to explore its relationships on the map',
     evalPhase:      'Phase:',
     evalPartic:     'Participation:',
     evalComplex:    'Complexity:',
+    evalPurpose:    'Purpose',
+    evalWhenToUse:  'When to use it',
+    evalEvidence:   'Typical evidence',
+    evalLimitations:'Limitations',
+    evalCatDescTec: '<strong>Assessment techniques</strong> are the procedures or methods teachers use to gather information about student learning. They define the <em>how</em> of assessment: observation, written test, interview, product analysis… Each technique is applied at a specific moment in the process with a concrete purpose (diagnostic, formative or summative).',
+    evalCatDescIns: '<strong>Observable evidence</strong> (also called assessment instruments) are the productions, performances or tasks students carry out that serve as proof of their learning. They are the <em>what</em> of assessment: a written piece, an oral presentation, a project, a portfolio… Analysing them allows the teacher to make informed judgements about the competences acquired.',
+    evalCatDescHer: '<strong>Assessment tools</strong> are the documentary supports that specify the criteria used to analyse and grade the evidence collected. They are the <em>with what</em> of assessment: rubrics, rating scales, checklists, marking guides… They make assessment coherent, transparent and shared between teacher and students.',
+    evalCatDescDim: '<strong>Assessment dimensions</strong> are the pedagogical variables that shape the design and practice of assessment: who assesses (self-assessment, peer assessment, teacher assessment), at which point in the process (initial, formative, summative), and for what purpose (diagnostic, regulatory, accrediting)… Understanding these dimensions enables coherent assessment aligned with the methodology used.',
     evalNoData:     'Loading assessment data…',
+    themeAuto:      'Automatic (system)',
+    themeDark:      'Dark mode',
+    themeLight:     'Light mode',
   },
 };
 
@@ -2787,7 +3312,10 @@ const S = {
   evalCat:          'instrumentos',
   evalModal:        null,         // currently open eval entity ID
   evalSelected:     null,         // selected entity in split view
-  evalMapMode:      true,         // true = split+graph, false = cards grid
+  evalMapMode:      false,        // true = split+graph, false = cards grid
+  evalSortMode:     'random',
+  evalPerPage:      25,
+  evalPage:         0,
 };
 
 // ─── JSON LOADER ─────────────────────────────────────────────────────────────
@@ -2907,12 +3435,19 @@ function uniqueIds(ids) {
 
 function validItemIds(ids, lang = S.lang) {
   const map = S.byId[lang] || new Map();
-  return uniqueIds(ids).filter(id => map.has(id));
+  return uniqueIds(ids).filter(id => map.has(id) || !!evalEntityById(id, lang));
 }
 
 function sortedItemIds(ids, lang = S.lang) {
   const map = S.byId[lang] || new Map();
-  return validItemIds(ids, lang).sort((a, b) => map.get(a).idx - map.get(b).idx);
+  return validItemIds(ids, lang).sort((a, b) => {
+    const ia = map.has(a) ? map.get(a).idx : Infinity;
+    const ib = map.has(b) ? map.get(b).idx : Infinity;
+    if (ia !== ib) return ia - ib;
+    const na = (evalEntityById(a, lang) || {}).name || a;
+    const nb = (evalEntityById(b, lang) || {}).name || b;
+    return na.localeCompare(nb);
+  });
 }
 
 function refsToItemIds(refs, lang = S.lang) {
@@ -3303,6 +3838,11 @@ function saveSortMode() {
   try { localStorage.setItem(LS_SORT, S.sortMode); }
   catch {}
 }
+
+const LS_VIEW = 'metac_view_v1';
+function saveViewPref() {}
+function loadViewPref() {}
+
 function loadLangPref() {
   const saved = localStorage.getItem(LS_LANG);
   if (isSupportedLang(saved)) { S.lang = saved; return; }
@@ -3415,6 +3955,75 @@ function applyI18N() {
   document.querySelectorAll('.lang-btn').forEach(b =>
     b.classList.toggle('active', b.dataset.lang === S.lang));
   updateSearchUI();
+
+  // Home page strings
+  setText('homeEyebrow',          i('homeEyebrow'));
+  const titleEl = document.getElementById('homeTitle');
+  if (titleEl) titleEl.innerHTML = i('homeTitle').replace(/para el aula|per a l'aula|for the classroom/i, m => `<span>${m}</span>`);
+  setText('homeSubtitle',         i('homeSubtitle'));
+  setText('homeConnectText',      i('homeConnectText'));
+  setText('homeTecTitle',         i('homeTecTitle'));
+  setText('homeTecDesc',          i('homeTecDesc'));
+  setText('homeEvalTitle',        i('homeEvalTitle'));
+  setText('homeEvalDesc',         i('homeEvalDesc'));
+  setText('homeEvalCatTec',       i('homeEvalCatTec'));
+  setText('homeEvalCatIns',       i('homeEvalCatIns'));
+  setText('homeEvalCatHer',       i('homeEvalCatHer'));
+  setText('homeEvalCatDim',       i('homeEvalCatDim'));
+  setText('homeEnterTecCardsLabel', i('homeEnterCards'));
+  setText('homeEnterTecMapLabel',   i('homeEnterMap'));
+  setText('homeEnterEvalCardsLabel',i('homeEnterCards'));
+  setText('homeEnterEvalMapLabel',  i('homeEnterMap'));
+  setText('homeTecCardsLabel',    i('homeEnterCards'));
+  setText('homeTecMapLabel',      i('homeEnterMap'));
+  // Counts (use techniques label for both)
+  const evalCountEl = document.getElementById('homeEvalCount');
+  if (evalCountEl) evalCountEl.textContent = '178 ' + i('techniques');
+  if (S.data[S.lang] && S.data[S.lang].length) {
+    const tecCountEl = document.getElementById('homeTecCount');
+    if (tecCountEl) tecCountEl.textContent = S.data[S.lang].length + ' ' + i('techniques');
+  }
+  applyTheme(document.documentElement.getAttribute('data-theme-pref') || 'auto');
+}
+
+// ─── HOME VIEW ────────────────────────────────────────────────────────────────
+function showHome() {
+  document.getElementById('homeView').classList.add('visible');
+  document.getElementById('viewToggle').style.display  = 'none';
+  document.getElementById('blockNavBar').style.display = 'none';
+  document.getElementById('fieldNavBar').style.display = 'none';
+  document.getElementById('evalNavBar').style.display  = 'none';
+  document.getElementById('main').style.display        = 'none';
+  document.getElementById('evalSplitView').style.display = 'none';
+  const mapView = document.getElementById('mapView');
+  if (mapView) mapView.style.display = 'none';
+  const selBtn = document.getElementById('selectBtn');
+  const favBtn = document.getElementById('favBtn');
+  if (selBtn) selBtn.style.display = 'none';
+  if (favBtn) favBtn.style.display = 'none';
+  applyI18N();
+}
+
+function hideHome() {
+  document.getElementById('homeView').classList.remove('visible');
+  document.getElementById('viewToggle').style.display = '';
+}
+
+function enterView(view, mapMode, evalCat) {
+  if (evalCat) S.evalCat = evalCat;
+  hideHome();
+  if (view === 'tecnicas') {
+    // switchView handles renderViewToggle, navBar visibility, renderCards, etc.
+    S.evalMapMode = false;
+    switchView('tecnicas');
+    if (mapMode) toggleMapView();
+  } else {
+    // evaluacion
+    loadEvalLang(S.lang).then(() => {
+      S.evalMapMode = !!mapMode;
+      switchView('evaluacion');
+    }).catch(() => {});
+  }
 }
 
 // ─── RENDER: FILTER TABS ─────────────────────────────────────────────────────
@@ -3500,7 +4109,7 @@ function clearSelection(render = true) {
   S.selectMode = false;
   if (render) {
     applyI18N();
-    renderCards();
+    if (S.view === 'evaluacion') renderEvalCards(); else renderCards();
   }
 }
 
@@ -3508,7 +4117,7 @@ function toggleSelectMode() {
   S.selectMode = !S.selectMode;
   if (!S.selectMode) S.selected.clear();
   applyI18N();
-  renderCards();
+  if (S.view === 'evaluacion') renderEvalCards(); else renderCards();
 }
 
 function toggleCardSelection(itemId) {
@@ -3581,10 +4190,10 @@ function renderCards() {
       <span style="display:inline-block;width:1px;height:14px;background:var(--border);margin:0 10px 0 4px;vertical-align:middle;"></span>
       <span class="view-mode-wrap">
         <button class="view-mode-btn${!S.mapMode ? ' active' : ''}" id="viewModeCards" title="${i('viewModeCards')}">
-          <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+          <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg> ${i('viewCardsBtn')}
         </button>
         <button class="view-mode-btn${S.mapMode ? ' active' : ''}" id="viewModeMap" title="${i('viewModeMap')}">
-          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg> ${i('viewMapBtn')}
         </button>
       </span>
     </p>
@@ -3664,10 +4273,11 @@ function renderCards() {
   }
 }
 
-function buildPagination(pages) {
+function buildPagination(pages, currentPage, onNavigate) {
+  if (currentPage === undefined) { currentPage = S.page; onNavigate = n => { S.page = n; renderCards(); window.scrollTo(0,0); }; }
   const wrap = document.createElement('div');
   wrap.className = 'pagination-bar';
-  const p = S.page;
+  const p = currentPage;
 
   const btn = (label, title, disabled, active, onclick) => {
     const b = document.createElement('button');
@@ -3686,8 +4296,8 @@ function buildPagination(pages) {
     return s;
   };
 
-  wrap.appendChild(btn('«', i('pageFirst'), p === 0, false, () => { S.page = 0; renderCards(); window.scrollTo(0,0); }));
-  wrap.appendChild(btn('‹', i('pagePrev'),  p === 0, false, () => { S.page--; renderCards(); window.scrollTo(0,0); }));
+  wrap.appendChild(btn('«', i('pageFirst'), p === 0, false, () => { onNavigate(0); window.scrollTo(0,0); }));
+  wrap.appendChild(btn('‹', i('pagePrev'),  p === 0, false, () => { onNavigate(p - 1); window.scrollTo(0,0); }));
 
   // Page number buttons: always show first, last, current ±2, with ellipsis
   const show = new Set([0, pages - 1]);
@@ -3697,12 +4307,12 @@ function buildPagination(pages) {
   let prev = -1;
   nums.forEach(n => {
     if (prev !== -1 && n - prev > 1) wrap.appendChild(ellipsis());
-    wrap.appendChild(btn(n + 1, '', false, n === p, () => { S.page = n; renderCards(); window.scrollTo(0,0); }));
+    wrap.appendChild(btn(n + 1, '', false, n === p, () => { onNavigate(n); window.scrollTo(0,0); }));
     prev = n;
   });
 
-  wrap.appendChild(btn('›', i('pageNext'), p === pages - 1, false, () => { S.page++; renderCards(); window.scrollTo(0,0); }));
-  wrap.appendChild(btn('»', i('pageLast'), p === pages - 1, false, () => { S.page = pages - 1; renderCards(); window.scrollTo(0,0); }));
+  wrap.appendChild(btn('›', i('pageNext'), p === pages - 1, false, () => { onNavigate(p + 1); window.scrollTo(0,0); }));
+  wrap.appendChild(btn('»', i('pageLast'), p === pages - 1, false, () => { onNavigate(pages - 1); window.scrollTo(0,0); }));
 
   return wrap;
 }
@@ -3713,6 +4323,16 @@ function openModal(itemId) {
   const item = itemById(itemId);
   if (!item) return;
   S.modal = item.id;
+
+  // Reset order and restore relBox to its original DOM position (before modalEval)
+  document.getElementById('modalBody').style.order    = '';
+  document.getElementById('modalRelated').style.order = '';
+  const existingExtra = document.getElementById('modalEvalExtra');
+  if (existingExtra) existingExtra.remove();
+  const existingInner2 = document.getElementById('modalEvalInner');
+  if (existingInner2) existingInner2.remove();
+  const evalEl = document.getElementById('modalEval');
+  if (evalEl) evalEl.before(document.getElementById('modalRelated'));
 
   document.getElementById('modalBackBtn').style.display = S.modalHistory.length ? '' : 'none';
   document.getElementById('modalTitle').textContent = item.name;
@@ -3728,10 +4348,10 @@ function openModal(itemId) {
   const relBox = document.getElementById('modalRelated');
   const relatedItems = relatedBidirectional(item);
   if (relatedItems.length) {
-    relBox.style.display = 'flex';
+    relBox.style.display = '';
     relBox.innerHTML = `<span class="modal-related-label">${esc(i('related'))}</span>` +
-      relatedItems.map(rel =>
-        `<button class="related-btn" type="button" data-related-id="${esc(rel.id)}">${esc(rel.name)}</button>`
+      relatedItems.map((rel, i) =>
+        `<button class="related-btn" type="button" data-related-id="${esc(rel.id)}">${esc(rel.name)}</button>${i < relatedItems.length - 1 ? '<span class="related-sep">,</span>' : ''}`
       ).join('');
     relBox.querySelectorAll('[data-related-id]').forEach(btn =>
       btn.addEventListener('click', ev => { ev.stopPropagation(); S.modalHistory.push(item.id); openModal(btn.dataset.relatedId); })
@@ -3758,8 +4378,11 @@ function openModal(itemId) {
     progWrap.style.display = 'none';
   }
 
-  // "Cómo evaluar" section
+  // "Cómo evaluar" section — rendered then moved to end of scroll
   renderEvalSection(item);
+  const modalScroll = document.querySelector('.modal-scroll');
+  const evalEl2 = document.getElementById('modalEval');
+  if (modalScroll && evalEl2) modalScroll.appendChild(evalEl2);
 
   // Restore technique-specific action buttons; hide eval map button
   ['modalFavBtn', 'modalCopyBtn', 'modalPrintBtn', 'modalShareBtn'].forEach(id => {
@@ -3770,6 +4393,12 @@ function openModal(itemId) {
   if (evalMapBtn) evalMapBtn.style.display = 'none';
   const fav = S.favorites.has(item.id);
   document.getElementById('modalFavBtn').classList.toggle('fav-active', fav);
+
+  // Reset handlers to técnica versions (may have been overwritten by openEvalModal)
+  document.getElementById('modalFavBtn').onclick  = e => { if (S.modal !== null) toggleFav(S.modal, e.currentTarget); };
+  document.getElementById('modalCopyBtn').onclick  = copyModal;
+  document.getElementById('modalPrintBtn').onclick = printModal;
+  document.getElementById('modalShareBtn').onclick = () => { if (S.modal !== null) copy(shareURL([S.modal])); };
 
   S.evalModal = null;
   document.getElementById('modalOverlay').classList.add('open');
@@ -3865,10 +4494,9 @@ function renderEvalSection(item) {
     <div class="modal-eval-head">${esc(i('evalSection'))}</div>
     ${groups.map(g => `
       <div class="eval-group">
-        <span class="eval-group-label">${esc(i(g.i18n))}:</span>
-        ${g.items.map(e => `
-          <button class="eval-chip" type="button" data-prefix="${g.prefix}" data-eval-id="${esc(e.id)}">${esc(e.name)}</button>
-        `).join('')}
+        <span class="eval-group-label">${esc(i(g.i18n))}:</span>${g.items.map((e, idx) =>
+          `<button class="eval-chip" type="button" data-prefix="${g.prefix}" data-eval-id="${esc(e.id)}">${esc(e.name)}</button>${idx < g.items.length - 1 ? '<span class="related-sep">,</span> ' : ''}`
+        ).join('')}
       </div>
     `).join('')}
   `;
@@ -3893,17 +4521,21 @@ function syncEvalViewMode() {
 
 function toggleEvalMapMode() {
   S.evalMapMode = !S.evalMapMode;
+  saveViewPref();
   syncEvalViewMode();
   const mainEl  = document.getElementById('main');
   const splitEl = document.getElementById('evalSplitView');
+  const selectBtn = document.getElementById('selectBtn');
   if (S.evalMapMode) {
     mainEl.style.display  = 'none';
     splitEl.style.display = 'flex';
+    if (selectBtn) selectBtn.style.display = 'none';
     renderEvalList();
   } else {
     evalGraphStop();
     splitEl.style.display = 'none';
     mainEl.style.display  = '';
+    if (selectBtn) selectBtn.style.display = '';
     renderEvalCards();
   }
 }
@@ -3919,32 +4551,30 @@ function renderEvalTabs() {
     btn.onclick = () => {
       S.evalCat = btn.dataset.evalCat;
       S.evalSelected = null;
+      S.evalPage = 0;
       S.search = '';
       document.getElementById('searchInput').value = '';
       updateSearchUI();
+      // Reset panel and graph BEFORE rendering so showEvalDetail can re-show them
+      const panel = document.getElementById('evalNodePanel');
+      if (panel) panel.classList.remove('visible');
+      evalGraphStop();
       renderEvalTabs();
       if (S.evalMapMode) renderEvalList(); else renderEvalCards();
-      // Reset detail panel
-      const empty = document.getElementById('evalDetailEmpty');
-      const content = document.getElementById('evalDetailContent');
-      if (empty) empty.style.display = '';
-      if (content) content.style.display = 'none';
-      evalGraphStop();
     };
   });
 
-  // Append separator + view toggle inline after tabs
   const sep = document.createElement('div');
   sep.className = 'eval-nav-sep';
   bar.appendChild(sep);
-  const wrap = document.createElement('div');
-  wrap.className = 'view-mode-wrap';
-  wrap.id = 'evalViewModeWrap';
   const svgCards = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
   const svgMap   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
+  const wrap = document.createElement('span');
+  wrap.className = 'view-mode-wrap';
+  wrap.id = 'evalViewModeWrap';
   wrap.innerHTML = `
-    <button class="view-mode-btn${!S.evalMapMode ? ' active' : ''}" id="evalViewModeCards" title="${esc(i('viewModeCards'))}">${svgCards}</button>
-    <button class="view-mode-btn${S.evalMapMode  ? ' active' : ''}" id="evalViewModeMap"   title="${esc(i('viewModeMap'))}">${svgMap}</button>
+    <button class="view-mode-btn${!S.evalMapMode ? ' active' : ''}" id="evalViewModeCards" title="${esc(i('viewModeCards'))}">${svgCards} ${esc(i('viewCardsBtn'))}</button>
+    <button class="view-mode-btn${S.evalMapMode  ? ' active' : ''}" id="evalViewModeMap"   title="${esc(i('viewModeMap'))}">${svgMap} ${esc(i('viewMapBtn'))}</button>
   `;
   bar.appendChild(wrap);
   document.getElementById('evalViewModeCards').onclick = () => { if (S.evalMapMode)  toggleEvalMapMode(); };
@@ -3958,7 +4588,17 @@ function renderEvalCards() {
     return;
   }
   const cat = EVAL_CATS.find(c => c.id === S.evalCat) || EVAL_CATS[0];
-  const items = (EV.data[S.lang] || {})[cat.id] || [];
+
+  // When displaying a shared eval collection, show those specific items across all categories
+  const evalPrefixSet = new Set(EVAL_CATS.map(c => c.prefix));
+  const isEvalShared = S.shared && S.shared.length && S.shared.some(id => evalPrefixSet.has((id.split('_')[0] || '').toUpperCase()));
+  let items;
+  if (isEvalShared) {
+    items = S.shared.map(id => evalEntityById(id)).filter(Boolean);
+  } else {
+    items = (EV.data[S.lang] || {})[cat.id] || [];
+  }
+
   const q = (S.search || '').toLowerCase();
   const filtered = q
     ? items.filter(e =>
@@ -3968,22 +4608,131 @@ function renderEvalCards() {
       )
     : items;
 
-  if (!filtered.length) {
+  // Sort
+  const sorted = [...filtered].sort((a, b) => {
+    if (S.evalSortMode === 'alpha' || S.evalSortMode === 'alphaDesc') {
+      const cmp = a.name.localeCompare(b.name, S.lang, { sensitivity: 'base', numeric: true });
+      return S.evalSortMode === 'alphaDesc' ? -cmp : cmp;
+    }
+    return dailyRank(a.id) - dailyRank(b.id);
+  });
+
+  const total = sorted.length;
+  const pages = S.evalPerPage ? Math.max(1, Math.ceil(total / S.evalPerPage)) : 1;
+  if (S.evalPage >= pages) S.evalPage = pages - 1;
+  const paged = S.evalPerPage ? sorted.slice(S.evalPage * S.evalPerPage, (S.evalPage + 1) * S.evalPerPage) : sorted;
+
+  if (!total) {
     main.innerHTML = `<div class="state-box"><p>${esc(i('noResults') || 'Sin resultados')}</p></div>`;
     return;
   }
-  main.innerHTML = `<div class="cards-grid">${filtered.map(e => `
-    <div class="card eval-card" data-eval-id="${esc(e.id)}" role="button" tabindex="0">
-      <div class="card-type-row">
-        <span class="eval-chip" data-prefix="${cat.prefix}" style="font-size:.72rem;padding:3px 8px;cursor:default">${esc(i(cat.i18n))}</span>
+
+  main.innerHTML = '';
+  main.style.paddingBottom = S.selectMode ? '110px' : '';
+
+  // ── Results bar (mirrors técnicas) ───────────────────────────────────────
+  const bar = document.createElement('div');
+  bar.className = 'results-bar';
+  bar.innerHTML = `
+    <p class="results-info">
+      <strong>${total}</strong> ${isEvalShared ? i('techniques') : i(cat.i18n).toLowerCase()}
+      <span class="sort-wrap">
+        <label for="evalSortSelect">${i('sort')}</label>
+        <select id="evalSortSelect">
+          <option value="random"    ${S.evalSortMode==='random'    ?'selected':''}>${i('sortRandom')}</option>
+          <option value="alpha"     ${S.evalSortMode==='alpha'     ?'selected':''}>${i('sortAlpha')}</option>
+          <option value="alphaDesc" ${S.evalSortMode==='alphaDesc' ?'selected':''}>${i('sortAlphaDesc')}</option>
+        </select>
+      </span>
+      <span class="per-page-wrap">
+        <label for="evalPerPageSelect">${i('perPage')}</label>
+        <select id="evalPerPageSelect">
+          <option value="10"  ${S.evalPerPage===10  ?'selected':''}>10</option>
+          <option value="25"  ${S.evalPerPage===25  ?'selected':''}>${25}</option>
+          <option value="50"  ${S.evalPerPage===50  ?'selected':''}>${50}</option>
+          <option value="0"   ${S.evalPerPage===0   ?'selected':''}>${i('pageAll')}</option>
+        </select>
+      </span>
+    </p>
+  `;
+  bar.querySelector('#evalSortSelect').onchange = e => {
+    S.evalSortMode = e.target.value; S.evalPage = 0; renderEvalCards();
+  };
+  bar.querySelector('#evalPerPageSelect').onchange = e => {
+    S.evalPerPage = Number(e.target.value); S.evalPage = 0; renderEvalCards();
+  };
+  main.appendChild(bar);
+
+  // Category description (A)
+  if (!isEvalShared) {
+    const descKey = 'evalCatDesc' + cat.cls.charAt(0).toUpperCase() + cat.cls.slice(1);
+    const descText = i(descKey);
+    if (descText) {
+      const descEl = document.createElement('div');
+      descEl.className = 'eval-cat-desc';
+      descEl.innerHTML = descText;
+      main.appendChild(descEl);
+    }
+  }
+
+  if (S.selectMode) {
+    const selBar = document.createElement('div');
+    selBar.className = 'selection-bar';
+    selBar.innerHTML = `
+      <div class="selection-bar-info">${S.selected.size} ${i('selectedCount')}</div>
+      <div class="selection-bar-actions">
+        <button class="btn" id="evalSelectVisibleBtn">✓ ${i('selectVisible')}</button>
+        <button class="btn btn-primary" id="evalShareSelectedBtn">🔗 ${i('shareSel')}</button>
+        <button class="btn" id="evalCancelSelBtn">✕ ${i('selectOff')}</button>
       </div>
-      <div class="card-name">${esc(e.name)}</div>
+    `;
+    main.appendChild(selBar);
+    selBar.querySelector('#evalSelectVisibleBtn').onclick = () => {
+      paged.forEach(e => S.selected.add(e.id));
+      renderEvalCards();
+    };
+    selBar.querySelector('#evalShareSelectedBtn').onclick = () => {
+      if (!S.selected.size) return;
+      copy(shareURL([...S.selected]));
+    };
+    selBar.querySelector('#evalCancelSelBtn').onclick = () => clearSelection();
+  }
+
+  const grid = document.createElement('div');
+  grid.className = 'cards-grid';
+  paged.forEach(e => {
+    const fav = S.favorites.has(e.id);
+    const selected = S.selected.has(e.id);
+    const eCat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(e.id)) || cat;
+    const metaBadges = [
+      e.phase         ? `<span class="meta-badge">${esc(e.phase)}</span>` : '',
+      e.participation ? `<span class="meta-badge">${esc(e.participation)}</span>` : '',
+      e.complexity    ? `<span class="meta-badge">${esc(e.complexity)}</span>` : '',
+    ].join('');
+    const card = document.createElement('div');
+    card.className = 'card eval-card' + (fav ? ' is-fav' : '') + (selected ? ' is-selected' : '');
+    card.dataset.evalId = e.id;
+    card.innerHTML = `
+      <div class="card-top">
+        <div class="card-name">${esc(e.name)}</div>
+        <span class="card-select ${selected ? 'active' : ''}" style="display:${S.selectMode ? 'inline-flex' : 'none'}">✓</span>
+        <div class="cat-picker-wrap card-fav-wrap">
+          <button class="fav-star ${fav ? 'active' : ''}" data-id="${esc(e.id)}">⭐</button>
+        </div>
+      </div>
+      <div class="card-fields">
+        <span class="eval-chip" data-prefix="${eCat.prefix}" style="font-size:.72rem;padding:3px 8px;cursor:default">${esc(i(eCat.i18n))}</span>
+        ${metaBadges}
+      </div>
       ${e.summary ? `<div class="card-summary">${esc(e.summary)}</div>` : ''}
-    </div>
-  `).join('')}</div>`;
-  main.querySelectorAll('.eval-card').forEach(card => {
-    card.onclick = () => openEvalModal(card.dataset.evalId);
+    `;
+    card.querySelector('.fav-star').onclick = ev => { ev.stopPropagation(); toggleFav(e.id, ev.currentTarget); };
+    card.onclick = () => { if (S.selectMode) { if (S.selected.has(e.id)) S.selected.delete(e.id); else S.selected.add(e.id); renderEvalCards(); } else openEvalModal(e.id); };
+    grid.appendChild(card);
   });
+  main.appendChild(grid);
+
+  if (S.evalPerPage && pages > 1) main.appendChild(buildPagination(pages, S.evalPage, p => { S.evalPage = p; renderEvalCards(); }));
 }
 
 // ─── EVAL SPLIT VIEW FUNCTIONS ───────────────────────────────────────────────
@@ -3998,24 +4747,41 @@ function renderEvalList() {
     ? items.filter(e => (e.name||'').toLowerCase().includes(q) || (e.summary||'').toLowerCase().includes(q) || (e.tags||[]).some(t => t.toLowerCase().includes(q)))
     : items;
 
+  const header = `
+    <div class="eval-list-header">
+      <div class="eval-list-header-cat">${esc(cat ? i(cat.i18n) : '')}</div>
+      <div class="eval-list-header-hint">${esc(i('evalListHint'))}</div>
+    </div>`;
+
   if (!filtered.length) {
-    panel.innerHTML = `<div style="padding:16px;color:var(--text-muted);font-size:.85rem;">${esc(i('noResults') || 'Sin resultados')}</div>`;
+    panel.innerHTML = header + `<div style="padding:16px;color:var(--text-muted);font-size:.85rem;">${esc(i('noResults') || 'Sin resultados')}</div>`;
     return;
   }
-  panel.innerHTML = filtered.map(e => `
-    <div class="eval-list-item${S.evalSelected === e.id ? ' selected' : ''}" data-eval-id="${esc(e.id)}" role="button" tabindex="0">
+  panel.innerHTML = header + filtered.map(e => {
+    const pfx = evalEntityPrefix(e.id).toLowerCase();
+    const catCls = pfx ? ` cat-${pfx === 'tec' ? 'tec' : pfx === 'ins' ? 'ins' : pfx === 'her' ? 'her' : pfx === 'dim' ? 'dim' : ''}` : '';
+    const selCls = S.evalSelected === e.id ? ' selected' : '';
+    return `
+    <div class="eval-list-item${selCls}${catCls}" data-eval-id="${esc(e.id)}" role="button" tabindex="0">
       <div class="eval-list-name">${esc(e.name)}</div>
       ${e.summary ? `<div class="eval-list-summary">${esc(e.summary)}</div>` : ''}
-    </div>
-  `).join('');
+    </div>`;
+  }).join('');
   panel.querySelectorAll('.eval-list-item').forEach(el => {
     el.onclick = () => showEvalDetail(el.dataset.evalId);
   });
 
-  // Auto-select first item if nothing is selected yet
+  // Auto-select random item if nothing is selected yet
   if (!S.evalSelected && filtered.length) {
-    showEvalDetail(filtered[0].id);
+    const randIdx = Math.floor(Math.random() * filtered.length);
+    showEvalDetail(filtered[randIdx].id);
   }
+
+  // Scroll selected item into view after DOM is ready (handles category change rebuilds)
+  requestAnimationFrame(() => {
+    const selEl = panel.querySelector('.eval-list-item.selected');
+    if (selEl) selEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  });
 }
 
 function showEvalDetail(evalId) {
@@ -4023,65 +4789,143 @@ function showEvalDetail(evalId) {
   if (!entity) return;
 
   S.evalSelected = evalId;
-  // Update selected highlight in list
+  const selPrefix = evalEntityPrefix(evalId).toLowerCase();
+  const selCatCls = selPrefix === 'tec' ? 'cat-tec' : selPrefix === 'ins' ? 'cat-ins' : selPrefix === 'her' ? 'cat-her' : selPrefix === 'dim' ? 'cat-dim' : '';
+  let selectedEl = null;
   document.querySelectorAll('#evalListPanel .eval-list-item').forEach(el => {
-    el.classList.toggle('selected', el.dataset.evalId === evalId);
+    const isSelected = el.dataset.evalId === evalId;
+    el.classList.toggle('selected', isSelected);
+    if (isSelected) {
+      if (selCatCls) el.classList.add(selCatCls);
+      selectedEl = el;
+    }
   });
+  if (selectedEl) requestAnimationFrame(() => selectedEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' }));
 
-  document.getElementById('evalDetailEmpty').style.display   = 'none';
-  document.getElementById('evalDetailContent').style.display = 'flex';
-
-  // Hub graph
+  // Hub graph — canvas now fills full panel
   const canvas = document.getElementById('evalHubCanvas');
   evalGraphStop();
   EGRAPH.canvas   = canvas;
   EGRAPH.expanded = false;
   const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(evalId));
-  evalGraphBuild(entity, cat?.id || 'instrumentos');
+  const catId = cat?.id || 'instrumentos';
+  evalGraphBuild(entity, catId);
   requestAnimationFrame(() => requestAnimationFrame(() => {
     evalGraphResizeCanvas();
-    EGRAPH.camera = { x: 0, y: 0, scale: 1 };
+    const leftOffset = (catId === 'tecnicas' || catId === 'dimensiones')
+      ? (canvas.clientWidth || 0) * 0.28
+      : 0;
+    EGRAPH.camera = { x: leftOffset, y: 0, scale: 1 };
     evalGraphLoop();
   }));
 
-  // Detail text
-  renderEvalDetailText(entity, cat);
+  // Floating detail panel
+  renderEvalNodePanel(entity, cat);
 }
 
-function renderEvalDetailText(entity, cat) {
-  const el = document.getElementById('evalDetailText');
-  if (!el) return;
+function renderEvalNodePanel(entity, cat) {
+  const panel = document.getElementById('evalNodePanel');
+  if (!panel) return;
   const prefix = evalEntityPrefix(entity.id);
 
+  document.getElementById('evalNodePanelName').textContent = entity.name;
+
   const metaBadges = [];
-  if (entity.phase)         metaBadges.push(`<span class="meta-badge">${esc(i('evalPhase'))} ${esc(entity.phase)}</span>`);
-  if (entity.participation) metaBadges.push(`<span class="meta-badge">${esc(i('evalPartic'))} ${esc(entity.participation)}</span>`);
-  if (entity.complexity)    metaBadges.push(`<span class="meta-badge">${esc(i('evalComplex'))} ${esc(entity.complexity)}</span>`);
+  if (cat) metaBadges.push(`<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
+  if (entity.phase)         metaBadges.push(`<span class="meta-badge">${esc(entity.phase)}</span>`);
+  if (entity.participation) metaBadges.push(`<span class="meta-badge">${esc(entity.participation)}</span>`);
+  if (entity.complexity)    metaBadges.push(`<span class="meta-badge">${esc(entity.complexity)}</span>`);
 
   const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
 
-  el.innerHTML = `
-    <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:8px">
-      ${cat ? `<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.74rem;padding:3px 8px">${esc(i(cat.i18n))}</span>` : ''}
-      ${metaBadges.join('')}
-    </div>
-    <h3 style="margin:0 0 6px;font-size:.98rem;font-weight:700">${esc(entity.name)}</h3>
-    ${entity.summary ? `<p style="font-size:.83rem;color:var(--text-muted);margin:0 0 10px;font-style:italic;line-height:1.5">${esc(entity.summary)}</p>` : ''}
+  const body = document.getElementById('evalNodePanelBody');
+  body.innerHTML = `
+    ${metaBadges.length ? `<div class="map-panel-badges" style="gap:4px;flex-wrap:wrap">${metaBadges.join('')}</div>` : ''}
+    ${entity.summary ? `<p class="map-panel-summary">${esc(entity.summary)}</p>` : ''}
+    <div style="font-size:.84rem;line-height:1.7;margin-top:8px;padding:0 14px 8px">${formatDesc(entity.desc || '')}</div>
     ${metacItems.length ? `
-      <div class="modal-related" style="padding:0;border:none;margin-bottom:10px;gap:5px">
-        <span class="modal-related-label">${esc(i('evalUsedBy'))}</span>
-        ${metacItems.slice(0, 12).map(t => `<button class="related-btn" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`).join('')}
-        ${metacItems.length > 12 ? `<span style="font-size:.76rem;color:var(--text-muted)">+${metacItems.length-12}</span>` : ''}
+      <div class="map-panel-related">
+        <span class="modal-related-label" style="font-size:.72rem">${esc(i('evalUsedBy'))}</span>
+        <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:4px">
+          ${metacItems.slice(0, 5).map(t => `<button class="related-btn" style="font-size:.76rem;padding:3px 8px" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`).join('')}
+          ${metacItems.length > 5 ? `<span style="font-size:.72rem;color:var(--text-muted)">+${metacItems.length - 5}</span>` : ''}
+        </div>
       </div>` : ''}
-    <div style="font-size:.86rem;line-height:1.75">${formatDesc(entity.desc || '')}</div>
   `;
 
-  el.querySelectorAll('[data-metac-id]').forEach(btn => {
+  body.querySelectorAll('[data-metac-id]').forEach(btn => {
+    btn.addEventListener('click', () => { switchView('tecnicas'); openModal(btn.dataset.metacId); });
+  });
+
+  const toggle = document.getElementById('evalNodePanelToggle');
+  if (toggle) { toggle.textContent = '−'; toggle.title = i('mapPanelCollapse'); }
+  const openBtnLabel = document.getElementById('evalNodePanelOpenBtnLabel');
+  if (openBtnLabel) openBtnLabel.textContent = i('mapOpenFicha');
+  const compactOpen = document.getElementById('evalNodePanelOpenCompact');
+  if (compactOpen) compactOpen.title = i('mapOpenFicha');
+
+  panel.classList.add('visible');
+  panel.classList.remove('collapsed');
+}
+
+function renderEvalMapNodePanel(entity, cat) {
+  const panel = document.getElementById('evalMapNodePanel');
+  if (!panel) return;
+  const prefix = evalEntityPrefix(entity.id);
+
+  document.getElementById('evalMapNodePanelName').textContent = entity.name;
+
+  const metaBadges = [];
+  if (cat) metaBadges.push(`<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
+  if (entity.phase)         metaBadges.push(`<span class="meta-badge">${esc(entity.phase)}</span>`);
+  if (entity.participation) metaBadges.push(`<span class="meta-badge">${esc(entity.participation)}</span>`);
+  if (entity.complexity)    metaBadges.push(`<span class="meta-badge">${esc(entity.complexity)}</span>`);
+
+  const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
+
+  const body = document.getElementById('evalMapNodePanelBody');
+  body.innerHTML = `
+    ${metaBadges.length ? `<div class="map-panel-badges" style="gap:4px;flex-wrap:wrap">${metaBadges.join('')}</div>` : ''}
+    ${entity.summary ? `<p class="map-panel-summary">${esc(entity.summary)}</p>` : ''}
+    <div style="font-size:.84rem;line-height:1.7;margin-top:8px;padding:0 14px 8px">${formatDesc(entity.desc || '')}</div>
+    ${metacItems.length ? `
+      <div class="map-panel-related">
+        <span class="modal-related-label" style="font-size:.72rem">${esc(i('evalUsedBy'))}</span>
+        <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:4px">
+          ${metacItems.slice(0, 5).map(t => `<button class="related-btn" style="font-size:.76rem;padding:3px 8px" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`).join('')}
+          ${metacItems.length > 5 ? `<span style="font-size:.72rem;color:var(--text-muted)">+${metacItems.length - 5}</span>` : ''}
+        </div>
+      </div>` : ''}
+  `;
+
+  body.querySelectorAll('[data-metac-id]').forEach(btn => {
     btn.addEventListener('click', () => {
+      closeEvalMap();
       switchView('tecnicas');
       openModal(btn.dataset.metacId);
     });
   });
+
+  // "Open full card" button
+  const foot = document.getElementById('evalMapNodePanelFoot');
+  const openBtn = document.getElementById('evalMapNodeOpenBtn');
+  if (foot && openBtn) {
+    openBtn.textContent = i('mapOpenFicha');
+    openBtn.onclick = () => {
+      closeEvalMap();
+      if (S.view === 'evaluacion') showEvalDetail(entity.id);
+      else openEvalModal(entity.id);
+    };
+    foot.style.display = '';
+  }
+
+  const mapToggle = document.getElementById('evalMapNodePanelToggle');
+  if (mapToggle) { mapToggle.textContent = '−'; mapToggle.title = i('mapPanelCollapse'); }
+  const mapCompactOpen = document.getElementById('evalMapNodePanelOpenCompact');
+  if (mapCompactOpen) mapCompactOpen.title = i('mapOpenFicha');
+
+  panel.classList.add('visible');
+  panel.classList.remove('collapsed');
 }
 
 function initEvalSplitEvents() {
@@ -4101,7 +4945,10 @@ function initEvalSplitEvents() {
 
   // Fit
   document.getElementById('evalHubFitBtn').onclick = () => {
-    EGRAPH.camera = { x: 0, y: 0, scale: 1 };
+    const fitCat = S.evalSelected ? (EVAL_CATS.find(c => c.prefix === evalEntityPrefix(S.evalSelected))?.id || '') : '';
+    const fitOffset = (fitCat === 'tecnicas' || fitCat === 'dimensiones')
+      ? ((EGRAPH.canvas?.clientWidth || 0) * 0.28) : 0;
+    EGRAPH.camera = { x: fitOffset, y: 0, scale: 1 };
   };
 
   // Full screen
@@ -4113,41 +4960,80 @@ function initEvalSplitEvents() {
     }
   };
 
-  // Resize handle between graph and detail text
-  const handle = document.getElementById('evalSplitHandle');
-  const hubWrap = document.getElementById('evalHubWrap');
-  const detailContent = document.getElementById('evalDetailContent');
-  if (handle && hubWrap) {
-    let resizing = false, startY = 0, startH = 0;
-    handle.addEventListener('pointerdown', e => {
-      resizing = true;
-      startY = e.clientY;
-      startH = hubWrap.offsetHeight;
-      handle.classList.add('dragging');
-      handle.setPointerCapture(e.pointerId);
-      e.preventDefault();
+  // Floating panel drag + collapse + close
+  const nodePanel = document.getElementById('evalNodePanel');
+  const panelHead = document.getElementById('evalNodePanelHead');
+  if (nodePanel && panelHead) {
+    let pdrag = null;
+    panelHead.addEventListener('pointerdown', e => {
+      if (e.target.closest('button')) return;
+      const rect = nodePanel.getBoundingClientRect();
+      const parentRect = (nodePanel.offsetParent || nodePanel.parentElement).getBoundingClientRect();
+      pdrag = {
+        pointerId: e.pointerId,
+        x0: e.clientX,
+        y0: e.clientY,
+        right0: parentRect.right - rect.right,
+        top0: rect.top - parentRect.top,
+      };
+      panelHead.setPointerCapture(e.pointerId);
+      nodePanel.classList.add('is-dragging');
     });
-    handle.addEventListener('pointermove', e => {
-      if (!resizing) return;
-      const dy = e.clientY - startY;
-      const containerH = detailContent?.offsetHeight || 600;
-      const newH = Math.min(Math.max(startH + dy, 100), containerH - 80);
-      hubWrap.style.height = newH + 'px';
-      if (EGRAPH.raf) evalGraphResizeCanvas();
+    panelHead.addEventListener('pointermove', e => {
+      if (!pdrag || pdrag.pointerId !== e.pointerId) return;
+      const dx = e.clientX - pdrag.x0;
+      const dy = e.clientY - pdrag.y0;
+      nodePanel.style.right = Math.max(0, pdrag.right0 - dx) + 'px';
+      nodePanel.style.top   = Math.max(0, pdrag.top0  + dy) + 'px';
     });
-    const stopResize = () => { resizing = false; handle.classList.remove('dragging'); };
-    handle.addEventListener('pointerup',     stopResize);
-    handle.addEventListener('pointercancel', stopResize);
+    const stopDrag = e => {
+      if (pdrag && pdrag.pointerId !== e.pointerId) return;
+      pdrag = null;
+      nodePanel.classList.remove('is-dragging');
+    };
+    panelHead.addEventListener('pointerup',     stopDrag);
+    panelHead.addEventListener('pointercancel', stopDrag);
+
+    document.getElementById('evalNodePanelToggle').onclick = () => {
+      const collapsed = nodePanel.classList.toggle('collapsed');
+      const toggle = document.getElementById('evalNodePanelToggle');
+      toggle.textContent = collapsed ? '+' : '−';
+      toggle.title = collapsed ? i('mapPanelExpand') : i('mapPanelCollapse');
+    };
+    document.getElementById('evalNodePanelOpenCompact').onclick = () => {
+      if (S.evalSelected) openEvalModal(S.evalSelected);
+    };
+    document.getElementById('evalNodePanelOpenBtn').onclick = () => {
+      if (S.evalSelected) openEvalModal(S.evalSelected);
+    };
+    document.getElementById('evalNodePanelClose').onclick = () => {
+      nodePanel.classList.remove('visible');
+      S.evalSelected = null;
+      document.querySelectorAll('#evalListPanel .eval-list-item').forEach(el => el.classList.remove('selected'));
+    };
   }
 
   // Pan / drag on hub canvas (reuse evalMapView pointer logic)
   let isPanning = false, panMoved = false;
   let panStart = { x: 0, y: 0 }, camStart = { x: 0, y: 0 };
+  let splitNodeDragStart = null;
   const PAN_THRESHOLD = 5;
 
   canvas.addEventListener('pointermove', e => {
     const rect = canvas.getBoundingClientRect();
     const sx = e.clientX - rect.left, sy = e.clientY - rect.top;
+    if (EGRAPH.dragNode >= 0) {
+      const dx = e.clientX - panStart.x, dy = e.clientY - panStart.y;
+      if (!EGRAPH.dragMoved && dx * dx + dy * dy < PAN_THRESHOLD * PAN_THRESHOLD) return;
+      EGRAPH.dragMoved = true;
+      const nd = EGRAPH.nodes[EGRAPH.dragNode];
+      if (!nd || !splitNodeDragStart) return;
+      nd.x = splitNodeDragStart.nx0 + dx / EGRAPH.camera.scale;
+      nd.y = splitNodeDragStart.ny0 + dy / EGRAPH.camera.scale;
+      nd.vx = 0; nd.vy = 0; nd.fixed = true;
+      EGRAPH.alpha = Math.max(EGRAPH.alpha, 0.3);
+      return;
+    }
     if (isPanning) {
       const dx = e.clientX - panStart.x, dy = e.clientY - panStart.y;
       if (!panMoved && dx * dx + dy * dy < PAN_THRESHOLD * PAN_THRESHOLD) return;
@@ -4161,14 +5047,58 @@ function initEvalSplitEvents() {
       EGRAPH.hover = hit;
       canvas.classList.toggle('hovering', hit >= 0);
     }
+    const tip = document.getElementById('mapTooltip');
+    if (hit >= 0) {
+      const nd = EGRAPH.nodes[hit];
+      document.getElementById('mapTipName').textContent    = nd.name;
+      document.getElementById('mapTipSummary').textContent = nd.summary || '';
+      tip.style.display = 'block';
+      const tw = tip.offsetWidth  || 250;
+      const th = tip.offsetHeight || 80;
+      tip.style.left = Math.min(e.clientX + 14, window.innerWidth  - tw - 8) + 'px';
+      tip.style.top  = Math.min(e.clientY - 10, window.innerHeight - th - 8) + 'px';
+    } else {
+      tip.style.display = 'none';
+    }
   });
   canvas.addEventListener('pointerdown', e => {
     canvas.setPointerCapture(e.pointerId);
-    isPanning = true; panMoved = false;
+    const rect = canvas.getBoundingClientRect();
+    const hit = evalGraphHitTest(e.clientX - rect.left, e.clientY - rect.top);
     panStart = { x: e.clientX, y: e.clientY };
-    camStart = { ...EGRAPH.camera };
+    if (hit >= 0) {
+      const nd = EGRAPH.nodes[hit];
+      EGRAPH.dragNode = hit;
+      EGRAPH.dragMoved = false;
+      splitNodeDragStart = { nx0: nd.x, ny0: nd.y };
+      isPanning = false;
+      panMoved = false;
+    } else {
+      isPanning = true; panMoved = false;
+      camStart = { ...EGRAPH.camera };
+    }
   });
   canvas.addEventListener('pointerup', e => {
+    if (EGRAPH.dragNode >= 0) {
+      const hitNode = EGRAPH.nodes[EGRAPH.dragNode];
+      const wasDragged = EGRAPH.dragMoved;
+      if (hitNode) hitNode.fixed = false;
+      EGRAPH.dragNode = -1;
+      EGRAPH.dragMoved = false;
+      splitNodeDragStart = null;
+      if (!wasDragged && hitNode && !hitNode.isCenter) {
+        showEvalDetail(hitNode.id);
+        const prefix = evalEntityPrefix(hitNode.id);
+        const newCat = EVAL_CATS.find(c => c.prefix === prefix);
+        if (newCat && newCat.id !== S.evalCat) {
+          S.evalCat = newCat.id;
+          renderEvalTabs();
+          renderEvalList();
+        }
+      }
+      isPanning = false; panMoved = false;
+      return;
+    }
     if (!panMoved) {
       const rect = canvas.getBoundingClientRect();
       const hit = evalGraphHitTest(e.clientX - rect.left, e.clientY - rect.top);
@@ -4187,7 +5117,18 @@ function initEvalSplitEvents() {
     }
     isPanning = false; panMoved = false;
   });
-  canvas.addEventListener('pointercancel', () => { isPanning = false; panMoved = false; });
+  canvas.addEventListener('mouseleave', () => {
+    document.getElementById('mapTooltip').style.display = 'none';
+    EGRAPH.hover = -1;
+    canvas.classList.remove('hovering');
+  });
+  canvas.addEventListener('pointercancel', () => {
+    EGRAPH.dragNode = -1;
+    EGRAPH.dragMoved = false;
+    splitNodeDragStart = null;
+    isPanning = false;
+    panMoved = false;
+  });
   canvas.addEventListener('wheel', e => {
     e.preventDefault();
     EGRAPH.camera.scale = Math.max(0.2, Math.min(4, EGRAPH.camera.scale * (e.deltaY < 0 ? 1.1 : 0.9)));
@@ -4237,12 +5178,9 @@ function openEvalModal(evalId) {
   const relBox = document.getElementById('modalRelated');
   const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
   if (metacItems.length) {
-    relBox.style.display = 'flex';
-    const shown = metacItems.slice(0, 14);
-    const extra = metacItems.length - shown.length;
+    relBox.style.display = '';
     relBox.innerHTML = `<span class="modal-related-label">${esc(i('evalUsedBy'))}</span>` +
-      shown.map(t => `<button class="related-btn" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`).join('') +
-      (extra > 0 ? `<span style="font-size:.78rem;color:var(--text-muted)">+${extra}</span>` : '');
+      metacItems.map((t, idx) => `<button class="related-btn" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>${idx < metacItems.length - 1 ? '<span class="related-sep">,</span>' : ''}`).join('');
     relBox.querySelectorAll('[data-metac-id]').forEach(btn => {
       btn.addEventListener('click', ev => {
         ev.stopPropagation();
@@ -4259,14 +5197,126 @@ function openEvalModal(evalId) {
   const evalBox = document.getElementById('modalEval');
   if (evalBox) evalBox.style.display = 'none';
 
+  // Reset order (not needed now but keep clean)
+  document.getElementById('modalBody').style.order    = '';
+  document.getElementById('modalRelated').style.order = '';
+
   // Description
   document.getElementById('modalBody').innerHTML = formatDesc(entity.desc || '');
 
-  // Technique-specific action buttons: hide; show map button
+  // Extra fields (F): purpose, when_to_use, typical_evidence, limitations
+  const extraSections = [
+    { key: 'evalPurpose',     value: entity.purpose },
+    { key: 'evalWhenToUse',   value: entity.when_to_use },
+    { key: 'evalEvidence',    value: entity.typical_evidence },
+    { key: 'evalLimitations', value: entity.limitations },
+  ];
+  const existingExtra = document.getElementById('modalEvalExtra');
+  if (existingExtra) existingExtra.remove();
+  const hasExtra = extraSections.some(s => s.value && (Array.isArray(s.value) ? s.value.length : s.value));
+  if (hasExtra) {
+    const extraEl = document.createElement('div');
+    extraEl.id = 'modalEvalExtra';
+    extraSections.forEach(({ key, value }) => {
+      if (!value || (Array.isArray(value) && !value.length)) return;
+      const sec = document.createElement('div');
+      sec.className = 'modal-eval-section';
+      const isArr = Array.isArray(value);
+      sec.innerHTML = `<h5>${esc(i(key))}</h5>` +
+        (isArr
+          ? `<ul>${value.map(v => `<li>${esc(v)}</li>`).join('')}</ul>`
+          : `<p>${esc(value)}</p>`);
+      extraEl.appendChild(sec);
+    });
+    document.getElementById('modalBody').after(extraEl);
+  }
+
+  // Internal eval relationships (técnicas↔instrumentos↔herramientas↔dimensiones)
+  const existingInner = document.getElementById('modalEvalInner');
+  if (existingInner) existingInner.remove();
+  const byId = EV.byId[S.lang];
+  const innerGroups = [
+    { field: 'related_tecnicas',    cat: EVAL_CATS.find(c => c.prefix === 'TEC') },
+    { field: 'related_instruments', cat: EVAL_CATS.find(c => c.prefix === 'INS') },
+    { field: 'related_tools',       cat: EVAL_CATS.find(c => c.prefix === 'HER') },
+    { field: 'related_dimensions',  cat: EVAL_CATS.find(c => c.prefix === 'DIM') },
+  ].map(({ field, cat }) => ({
+    cat,
+    items: (entity[field] || []).map(id => byId?.get(id)).filter(Boolean),
+  })).filter(g => g.items.length);
+
+  if (innerGroups.length) {
+    const innerEl = document.createElement('div');
+    innerEl.id = 'modalEvalInner';
+    innerEl.className = 'modal-eval';
+    innerEl.innerHTML = `<div class="modal-eval-head">${esc(i('evalInnerRel'))}</div>` +
+      innerGroups.map(g => `
+        <div class="eval-group">
+          <span class="eval-group-label">${esc(i(g.cat.i18n))}:</span>${g.items.map((e, idx) =>
+            `<button class="eval-chip" type="button" data-prefix="${g.cat.prefix}" data-inner-id="${esc(e.id)}">${esc(e.name)}</button>${idx < g.items.length - 1 ? '<span class="related-sep">,</span> ' : ''}`
+          ).join('')}
+        </div>`).join('');
+    innerEl.querySelectorAll('[data-inner-id]').forEach(btn => {
+      btn.addEventListener('click', ev => {
+        ev.stopPropagation();
+        S.modalHistory.push({ type: 'eval', id: S.evalModal });
+        openEvalModal(btn.dataset.innerId);
+      });
+    });
+    const modalScroll = document.querySelector('.modal-scroll');
+    if (modalScroll) modalScroll.appendChild(innerEl);
+  }
+
+  // Move "técnicas activas" to the end of the scroll container
+  const modalScroll = document.querySelector('.modal-scroll');
+  if (modalScroll && relBox) modalScroll.appendChild(relBox);
+
+  // Show all action buttons adapted for eval entity
   ['modalFavBtn', 'modalCopyBtn', 'modalPrintBtn', 'modalShareBtn'].forEach(id => {
     const el = document.getElementById(id);
-    if (el) el.style.display = 'none';
+    if (el) el.style.display = '';
   });
+
+  // Fav
+  const favBtn = document.getElementById('modalFavBtn');
+  if (favBtn) {
+    favBtn.classList.toggle('fav-active', S.favorites.has(entity.id));
+    favBtn.onclick = e => toggleFav(entity.id, e.currentTarget);
+  }
+
+  // Copy
+  const copyBtn = document.getElementById('modalCopyBtn');
+  if (copyBtn) {
+    copyBtn.onclick = () => {
+      const eCat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(entity.id));
+      const meta = [eCat ? i(eCat.i18n) : '', entity.phase, entity.participation, entity.complexity].filter(Boolean).join(' · ');
+      const plain = [entity.name, meta, entity.summary ? '\n' + entity.summary : '', entity.desc ? '\n' + entity.desc : ''].filter(Boolean).join('\n');
+      const html  = [`<h2>${esc(entity.name)}</h2>`, meta ? `<p><em>${esc(meta)}</em></p>` : '', entity.summary ? `<blockquote><p>${esc(entity.summary)}</p></blockquote>` : '', entity.desc ? formatDesc(entity.desc) : ''].filter(Boolean).join('\n');
+      const promise = (typeof ClipboardItem !== 'undefined')
+        ? navigator.clipboard.write([new ClipboardItem({ 'text/html': new Blob([html], { type: 'text/html' }), 'text/plain': new Blob([plain], { type: 'text/plain' }) })])
+        : navigator.clipboard.writeText(plain);
+      promise.then(() => { copyBtn.style.color = 'var(--primary)'; setTimeout(() => { copyBtn.style.color = ''; }, 2000); });
+    };
+  }
+
+  // Print
+  const printBtn = document.getElementById('modalPrintBtn');
+  if (printBtn) {
+    printBtn.onclick = () => {
+      const eCat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(entity.id));
+      const meta = [eCat ? i(eCat.i18n) : '', entity.phase, entity.participation, entity.complexity].filter(Boolean).join(' · ');
+      let el = document.getElementById('printArea');
+      if (!el) { el = document.createElement('div'); el.id = 'printArea'; document.body.appendChild(el); }
+      el.innerHTML = `<h1>${esc(entity.name)}</h1>${meta ? `<p class="print-meta">${esc(meta)}</p>` : ''}${entity.summary ? `<p class="print-summary">${esc(entity.summary)}</p>` : ''}<div class="print-body">${formatDesc(entity.desc || '')}</div>`;
+      window.print();
+    };
+  }
+
+  // Share
+  const shareBtn = document.getElementById('modalShareBtn');
+  if (shareBtn) shareBtn.onclick = () => copy(shareURL([entity.id]));
+
+  // Map button
   const mapBtn = document.getElementById('modalEvalMapBtn');
   if (mapBtn) {
     mapBtn.style.display = '';
@@ -4298,7 +5348,9 @@ function renderViewToggle() {
 function switchView(view) {
   // Close técnicas map if open (toggleMapView restores #main properly)
   if (S.mapMode) toggleMapView();
+  if (S.selectMode) { S.selectMode = false; S.selected.clear(); }
   S.view = view;
+  saveViewPref();
   S.page = 0;
   renderViewToggle();
   const blockBar  = document.getElementById('blockNavBar');
@@ -4328,10 +5380,9 @@ function switchView(view) {
     evalBar.style.display  = '';
     mainEl.style.display   = 'none';
 
-    if (selectBtn) selectBtn.style.display = 'none';
-    if (favBtn)    favBtn.style.display    = 'none';
+    if (selectBtn) selectBtn.style.display = S.evalMapMode ? 'none' : '';
+    if (favBtn)    favBtn.style.display    = '';
 
-    document.getElementById('evalDetailEmptyMsg').textContent = i('evalSelectPrompt') || 'Selecciona una entidad para ver sus relaciones';
     // Render tabs first so evalNavBar has its real height before we position the split view
     renderEvalTabs();
 
@@ -4360,7 +5411,7 @@ function switchView(view) {
 
 function toggleFav(itemId, anchorEl = null) {
   itemId = normalizeId(itemId);
-  if (!itemById(itemId)) return;
+  if (!itemById(itemId) && !evalEntityById(itemId)) return;
   const adding = !S.favorites.has(itemId);
   const fromCardStar = anchorEl && anchorEl.classList.contains('fav-star');
   const fromModalFav = anchorEl && anchorEl.id === 'modalFavBtn';
@@ -4376,7 +5427,7 @@ function toggleFav(itemId, anchorEl = null) {
   }
   saveFavs();
   updateFavBadge();
-  renderCards();
+  if (S.view === 'evaluacion') renderEvalCards(); else renderCards();
   if (S.modal !== null)
     document.getElementById('modalFavBtn').classList.toggle('fav-active', S.favorites.has(S.modal));
 
@@ -4703,8 +5754,9 @@ function openCatPicker(itemId, anchorEl) {
 
 function buildFavItem(itemId, catId) {
   itemId = normalizeId(itemId);
-  const item = itemById(itemId);
+  const item = itemById(itemId) || evalEntityById(itemId);
   if (!item) return null;
+  const isEval = !itemById(itemId);
   const el = document.createElement('div');
   el.className = 'fav-item';
 
@@ -4735,7 +5787,7 @@ function buildFavItem(itemId, catId) {
   el.appendChild(nameSpan);
   el.appendChild(pickerWrap);
   el.appendChild(rmBtn);
-  el.onclick = () => { closePanel(); openModal(itemId); };
+  el.onclick = () => { closePanel(); if (isEval) openEvalModal(itemId); else openModal(itemId); };
   return el;
 }
 
@@ -4910,14 +5962,19 @@ const THEME_ICONS = {
   dark:  `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>`,
   light: `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>`,
 };
-const THEME_LABELS = { auto: 'Automático (sistema)', dark: 'Modo oscuro', light: 'Modo claro' };
+const THEME_LABEL_KEYS = { auto: 'themeAuto', dark: 'themeDark', light: 'themeLight' };
 
 function applyTheme(pref) {
   const isDark = pref === 'dark' || (pref === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
   document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
   document.documentElement.setAttribute('data-theme-pref', pref);
   const btn = document.getElementById('themeBtn');
-  if (btn) { btn.innerHTML = THEME_ICONS[pref]; btn.title = THEME_LABELS[pref]; btn.setAttribute('aria-label', THEME_LABELS[pref]); }
+  if (btn) {
+    const label = i(THEME_LABEL_KEYS[pref]);
+    btn.innerHTML = THEME_ICONS[pref];
+    btn.title = label;
+    btn.setAttribute('aria-label', label);
+  }
 }
 
 applyTheme(localStorage.getItem(THEME_KEY) || 'auto');
@@ -6094,6 +7151,7 @@ function mapSetupPanelDrag() {
 
 function toggleMapView() {
   S.mapMode = !S.mapMode;
+  saveViewPref();
   const mapView = document.getElementById('mapView');
   const mainEl  = document.getElementById('main');
   if (S.mapMode) {
@@ -6471,7 +7529,7 @@ function evalGraphBuild(entity, cat) {
   nodes.push({
     x: 0, y: 0, vx: 0, vy: 0,
     r: EG.CENTER_R, prefix, cat,
-    name: entity.name, id: entity.id, isCenter: true, targetX: 0,
+    name: entity.name, id: entity.id, summary: entity.summary || '', isCenter: true, targetX: 0,
   });
   idToIdx.set(entity.id, 0);
 
@@ -6506,7 +7564,7 @@ function evalGraphBuild(entity, cat) {
           vx: 0, vy: 0,
           r, baseR, kindPriority: EVAL_REL_PRI[kind],
           prefix: evalEntityPrefix(ni.id), cat: relDef.cat,
-          name: ni.name, id: ni.id, isCenter: false, targetX,
+          name: ni.name, id: ni.id, summary: ni.summary || '', isCenter: false, targetX,
         });
       } else if (!nodes[nodeIdx].isCenter && EVAL_REL_PRI[kind] > (nodes[nodeIdx].kindPriority || 0)) {
         nodes[nodeIdx].r            = kindRadius(nodes[nodeIdx].baseR, kind);
@@ -6766,6 +7824,10 @@ function openEvalMap(entity, cat) {
   const lbl = document.getElementById('evalMapTitle');
   if (lbl) lbl.textContent = entity.name;
 
+  // Reset floating panel
+  const np = document.getElementById('evalMapNodePanel');
+  if (np) np.classList.remove('visible', 'collapsed');
+
   evalGraphBuild(entity, cat);
   requestAnimationFrame(() => {
     evalGraphResizeCanvas();
@@ -6822,23 +7884,22 @@ function initEvalMapEvents() {
   // Pointer events: pan + drag
   let pointers = new Map();
   let lastPinchDist = 0;
+  let nodeDragStart = null;
 
   canvas.addEventListener('pointermove', e => {
     const rect = canvas.getBoundingClientRect();
     const sx = e.clientX - rect.left, sy = e.clientY - rect.top;
-    if (EGRAPH.dragNode >= 1) {
+    if (EGRAPH.dragNode >= 0) {
       const ddx = e.clientX - EGRAPH.panStart.x, ddy = e.clientY - EGRAPH.panStart.y;
       if (!EGRAPH.dragMoved && ddx * ddx + ddy * ddy < 25) return;
       EGRAPH.dragMoved = true;
-      const dpr = window.devicePixelRatio || 1;
       const cam = EGRAPH.camera;
-      const w = canvas.width / dpr, h = canvas.height / dpr;
       const nd = EGRAPH.nodes[EGRAPH.dragNode];
       if (!nd) return;
-      nd.x = (sx - w / 2) / cam.scale + cam.x;
-      nd.y = (sy - h / 2) / cam.scale + cam.y;
+      nd.x = nodeDragStart.nx0 + (e.clientX - EGRAPH.panStart.x) / cam.scale;
+      nd.y = nodeDragStart.ny0 + (e.clientY - EGRAPH.panStart.y) / cam.scale;
       nd.vx = 0; nd.vy = 0; nd.fixed = true;
-      if (EGRAPH.alpha < 0.1) EGRAPH.alpha = 0.1;
+      EGRAPH.alpha = Math.max(EGRAPH.alpha, 0.3);
       return;
     }
     if (EGRAPH.isPanning && pointers.size === 1) {
@@ -6855,6 +7916,19 @@ function initEvalMapEvents() {
       EGRAPH.hover = hit;
       canvas.classList.toggle('hovering', hit >= 0);
     }
+    const tip = document.getElementById('mapTooltip');
+    if (hit >= 0) {
+      const nd = EGRAPH.nodes[hit];
+      document.getElementById('mapTipName').textContent    = nd.name;
+      document.getElementById('mapTipSummary').textContent = nd.summary || '';
+      tip.style.display = 'block';
+      const tw = tip.offsetWidth  || 250;
+      const th = tip.offsetHeight || 80;
+      tip.style.left = Math.min(e.clientX + 14, window.innerWidth  - tw - 8) + 'px';
+      tip.style.top  = Math.min(e.clientY - 10, window.innerHeight - th - 8) + 'px';
+    } else {
+      tip.style.display = 'none';
+    }
   });
 
   canvas.addEventListener('pointerdown', e => {
@@ -6863,10 +7937,12 @@ function initEvalMapEvents() {
     const rect = canvas.getBoundingClientRect();
     const sx = e.clientX - rect.left, sy = e.clientY - rect.top;
     const hit = evalGraphHitTest(sx, sy);
-    if (hit >= 1) {
+    if (hit >= 0) {
+      const nd = EGRAPH.nodes[hit];
       EGRAPH.dragNode     = hit;
       EGRAPH.dragMoved    = false;
       EGRAPH.panStart     = { x: e.clientX, y: e.clientY };
+      nodeDragStart       = { nx0: nd.x, ny0: nd.y };
     } else {
       EGRAPH.isPanning = true;
       EGRAPH.panMoved  = false;
@@ -6877,26 +7953,27 @@ function initEvalMapEvents() {
 
   const finishPtr = e => {
     pointers.delete(e.pointerId);
-    if (EGRAPH.dragNode >= 1) {
+    if (EGRAPH.dragNode >= 0) {
       const dragged = EGRAPH.nodes[EGRAPH.dragNode];
       const wasDragged = EGRAPH.dragMoved;
       if (dragged) dragged.fixed = false;
       EGRAPH.dragNode  = -1;
       EGRAPH.dragMoved = false;
+      nodeDragStart = null;
       // No actual drag movement → treat as click on node
       if (!wasDragged && dragged && !dragged.isCenter) {
-        closeEvalMap();
-        if (S.view === 'evaluacion') showEvalDetail(dragged.id);
-        else openEvalModal(dragged.id);
+        const entity = evalEntityById(dragged.id);
+        const dcat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(dragged.id));
+        if (entity) renderEvalMapNodePanel(entity, dcat);
       }
     } else if (!EGRAPH.panMoved) {
       const rect = canvas.getBoundingClientRect();
       const hit = evalGraphHitTest(e.clientX - rect.left, e.clientY - rect.top);
       const nd = hit >= 0 ? EGRAPH.nodes[hit] : null;
       if (nd && !nd.isCenter) {
-        closeEvalMap();
-        if (S.view === 'evaluacion') showEvalDetail(nd.id);
-        else openEvalModal(nd.id);
+        const entity = evalEntityById(nd.id);
+        const ncat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(nd.id));
+        if (entity) renderEvalMapNodePanel(entity, ncat);
       }
     }
     EGRAPH.isPanning = false;
@@ -6904,6 +7981,11 @@ function initEvalMapEvents() {
   };
   canvas.addEventListener('pointerup',     finishPtr);
   canvas.addEventListener('pointercancel', finishPtr);
+  canvas.addEventListener('mouseleave', () => {
+    document.getElementById('mapTooltip').style.display = 'none';
+    EGRAPH.hover = -1;
+    canvas.classList.remove('hovering');
+  });
 
   // Pinch zoom
   canvas.addEventListener('pointermove', e => {
@@ -6929,6 +8011,59 @@ function initEvalMapEvents() {
     const factor = e.deltaY < 0 ? 1.1 : 0.9;
     EGRAPH.camera.scale = Math.max(0.2, Math.min(4, EGRAPH.camera.scale * factor));
   }, { passive: false });
+
+  // Floating node panel: drag + collapse + close
+  const nodePanel  = document.getElementById('evalMapNodePanel');
+  const panelHead  = document.getElementById('evalMapNodePanelHead');
+  if (nodePanel && panelHead) {
+    let mpDrag = null;
+
+    panelHead.addEventListener('pointerdown', e => {
+      if (e.target.closest('button')) return;
+      const rect = nodePanel.getBoundingClientRect();
+      const parentRect = (nodePanel.offsetParent || nodePanel.parentElement).getBoundingClientRect();
+      mpDrag = {
+        pointerId: e.pointerId,
+        x0: e.clientX,
+        y0: e.clientY,
+        right0: parentRect.right - rect.right,
+        top0:   rect.top - parentRect.top,
+      };
+      panelHead.setPointerCapture(e.pointerId);
+      nodePanel.classList.add('is-dragging');
+    });
+
+    panelHead.addEventListener('pointermove', e => {
+      if (!mpDrag || mpDrag.pointerId !== e.pointerId) return;
+      const dx = e.clientX - mpDrag.x0;
+      const dy = e.clientY - mpDrag.y0;
+      nodePanel.style.right = Math.max(0, mpDrag.right0 - dx) + 'px';
+      nodePanel.style.top   = Math.max(0, mpDrag.top0  + dy) + 'px';
+    });
+
+    const mpStop = e => {
+      if (mpDrag && mpDrag.pointerId === e.pointerId) {
+        mpDrag = null;
+        nodePanel.classList.remove('is-dragging');
+      }
+    };
+    panelHead.addEventListener('pointerup',     mpStop);
+    panelHead.addEventListener('pointercancel', mpStop);
+
+    document.getElementById('evalMapNodePanelToggle').onclick = () => {
+      const collapsed = nodePanel.classList.toggle('collapsed');
+      const toggle = document.getElementById('evalMapNodePanelToggle');
+      toggle.textContent = collapsed ? '+' : '−';
+      toggle.title = collapsed ? i('mapPanelExpand') : i('mapPanelCollapse');
+    };
+    document.getElementById('evalMapNodePanelOpenCompact').onclick = () => {
+      const btn = document.getElementById('evalMapNodeOpenBtn');
+      if (btn) btn.click();
+    };
+    document.getElementById('evalMapNodePanelClose').onclick = () => {
+      nodePanel.classList.remove('visible');
+    };
+  }
 
   // Theme change → redraw
   new MutationObserver(() => { if (EGRAPH.raf) evalGraphDraw(); })
@@ -7386,6 +8521,7 @@ async function init() {
   loadCats();
   updateFavBadge();
   loadLangPref();
+  loadViewPref();
 
   // Read URL params (override saved preference)
   const p = new URLSearchParams(location.search);
@@ -7405,23 +8541,87 @@ async function init() {
     document.getElementById('main').innerHTML = `<div class="state-box"><h3>${i('error')}</h3></div>`;
     return;
   }
-  if (S.shared) S.shared = refsToItemIds(S.shared);
+  // Detect if shared IDs belong to eval entities (prefixes: TEC, INS, HER, DIM)
+  const evalPrefixSet = new Set(EVAL_CATS.map(c => c.prefix));
+  const sharedHasEval = S.shared && S.shared.some(id => evalPrefixSet.has((id.split('_')[0] || '').toUpperCase()));
+
+  if (sharedHasEval) {
+    // Load eval data synchronously so shared IDs resolve correctly
+    try { await loadEvalLang(S.lang); } catch {}
+    S.shared = S.shared.filter(id => !!evalEntityById(id));
+    S.view = 'evaluacion';
+    S.evalMapMode = false;
+  } else {
+    if (S.shared) S.shared = refsToItemIds(S.shared);
+  }
+
   syncActiveFilters();
   updateFavBadge();
   updateSharedBanner();
 
   renderViewToggle();
-  renderBlockTabs();
-  renderTabs();
-  renderCards();
 
-  // Load evalmap data in background (needed for "Cómo evaluar" sections)
-  loadEvalLang(S.lang).catch(() => {});
+  const hasSharedUrl = !!S.shared;
 
-  // Auto-open modal for single shared methodological resource
-  if (S.shared && S.shared.length === 1) openModal(S.shared[0]);
+  if (sharedHasEval) {
+    // Shared eval URL — show eval view directly
+    document.getElementById('blockNavBar').style.display = 'none';
+    document.getElementById('fieldNavBar').style.display = 'none';
+    document.getElementById('evalNavBar').style.display  = '';
+    document.getElementById('main').style.display        = '';
+    document.getElementById('evalSplitView').style.display = 'none';
+    const selBtn = document.getElementById('selectBtn');
+    const favBtn2 = document.getElementById('favBtn');
+    if (selBtn) selBtn.style.display = '';
+    if (favBtn2) favBtn2.style.display = '';
+    renderEvalTabs();
+    renderEvalCards();
+    if (S.shared && S.shared.length === 1) openEvalModal(S.shared[0]);
+  } else if (hasSharedUrl) {
+    // Shared técnicas URL — show técnicas view directly
+    if (S.shared) S.shared = refsToItemIds(S.shared);
+    syncActiveFilters(); updateSharedBanner();
+    renderBlockTabs(); renderTabs(); renderCards();
+    loadEvalLang(S.lang).catch(() => {});
+    if (S.shared && S.shared.length === 1) openModal(S.shared[0]);
+  } else if (S._hasSessionView && S.view === 'evaluacion') {
+    // Restore session eval view
+    try { await loadEvalLang(S.lang); } catch {}
+    switchView('evaluacion');
+  } else if (S._hasSessionView) {
+    // Restore session técnicas view
+    renderBlockTabs(); renderTabs();
+    const savedMapMode = S.mapMode;
+    S.mapMode = false;
+    renderCards();
+    if (savedMapMode) toggleMapView();
+    loadEvalLang(S.lang).catch(() => {});
+  } else {
+    // No session, no shared URL → show home page
+    showHome();
+    // Pre-load técnicas data in background so home is ready
+    loadEvalLang(S.lang).catch(() => {});
+  }
 
   // ── Event listeners ──────────────────────────────────────────────────────
+
+  // Logo → home
+  document.querySelector('.logo').addEventListener('click', () => {
+    if (S.mapMode) toggleMapView();
+    if (S.selectMode) { S.selectMode = false; S.selected.clear(); }
+    showHome();
+  });
+
+  // Home: técnicas entry links
+  document.getElementById('homeEnterTecCards').onclick = () => enterView('tecnicas', false);
+  document.getElementById('homeEnterTecMap').onclick   = () => enterView('tecnicas', true);
+  // Home: eval category chips — cards and map icon buttons
+  document.querySelectorAll('#homeEvalCats .home-eval-cat-cards').forEach(btn => {
+    btn.onclick = () => enterView('evaluacion', false, btn.dataset.evalCat);
+  });
+  document.querySelectorAll('#homeEvalCats .home-eval-cat-map').forEach(btn => {
+    btn.onclick = () => enterView('evaluacion', true, btn.dataset.evalCat);
+  });
 
   // View toggle
   document.querySelectorAll('.view-btn[data-view]').forEach(btn => {
@@ -7538,8 +8738,10 @@ async function init() {
     const prev = S.modalHistory.pop();
     if (!prev) return;
     if (typeof prev === 'string') { openModal(prev); return; }
-    if (prev.type === 'eval') openEvalModal(prev.id);
-    else openModal(prev.id);
+    if (prev.type === 'eval') {
+      if (S.view !== 'evaluacion') switchView('evaluacion');
+      openEvalModal(prev.id);
+    } else openModal(prev.id);
   };
   document.getElementById('modalFavBtn').onclick = e => { if (S.modal !== null) toggleFav(S.modal, e.currentTarget); };
   document.getElementById('modalShareBtn').onclick = () => { if (S.modal !== null) copy(shareURL([S.modal])); };
@@ -7559,7 +8761,7 @@ async function init() {
     history.replaceState({}, '', u);
     updateSharedBanner();
     applyI18N();
-    renderCards();
+    if (S.view === 'evaluacion') renderEvalCards(); else renderCards();
   };
 
   document.addEventListener('keydown', e => {

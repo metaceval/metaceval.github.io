@@ -276,7 +276,13 @@
         "HER_REG_ANE": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_003",
+      "metac_019",
+      "metac_024",
+      "metac_028",
+      "metac_031"
+    ]
   },
   {
     "id": "INS_ASAM",
@@ -328,7 +334,12 @@
         "HER_ESC_OBS": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_002",
+      "metac_019",
+      "metac_032",
+      "metac_036"
+    ]
   },
   {
     "id": "INS_LAB",
@@ -580,7 +591,13 @@
         "HER_RUB_ORAL": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_005",
+      "metac_007",
+      "metac_026",
+      "metac_079",
+      "metac_117"
+    ]
   },
   {
     "id": "INS_EXPO",
@@ -702,7 +719,12 @@
         "HER_RUB_ORAL": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_014",
+      "metac_015",
+      "metac_027",
+      "metac_043"
+    ]
   },
   {
     "id": "INS_ENTREV",
@@ -806,7 +828,12 @@
         "HER_REG_ANE": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_001",
+      "metac_012",
+      "metac_025",
+      "metac_046"
+    ]
   },
   {
     "id": "INS_CUADERNO",
@@ -858,7 +885,13 @@
         "HER_LISTA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_032",
+      "metac_045",
+      "metac_065",
+      "metac_080",
+      "metac_085"
+    ]
   },
   {
     "id": "INS_DIARIO",
@@ -1034,7 +1067,13 @@
         "HER_LISTA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_011",
+      "metac_029",
+      "metac_043",
+      "metac_098",
+      "metac_126"
+    ]
   },
   {
     "id": "INS_INFO_INV",
@@ -1088,7 +1127,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_010",
+      "metac_008",
+      "metac_043",
+      "metac_046",
+      "metac_130"
+    ]
   },
   {
     "id": "INS_MONO",
@@ -1142,7 +1187,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_010",
+      "metac_062",
+      "metac_080",
+      "metac_110"
+    ]
   },
   {
     "id": "INS_ENSAYO",
@@ -1198,7 +1249,12 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_006",
+      "metac_004",
+      "metac_022",
+      "metac_024"
+    ]
   },
   {
     "id": "INS_COM_TEXT",
@@ -1254,7 +1310,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_017",
+      "metac_022",
+      "metac_051",
+      "metac_089"
+    ]
   },
   {
     "id": "INS_COM_GRAF",
@@ -1306,7 +1368,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_022",
+      "metac_028",
+      "metac_043",
+      "metac_069",
+      "metac_085"
+    ]
   },
   {
     "id": "INS_RESUMEN",
@@ -1515,7 +1583,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_022",
+      "metac_026",
+      "metac_032",
+      "metac_085"
+    ]
   },
   {
     "id": "INS_LINEA",
@@ -1565,7 +1639,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_017",
+      "metac_028",
+      "metac_039",
+      "metac_045",
+      "metac_062"
+    ]
   },
   {
     "id": "INS_GLOS",
@@ -1617,7 +1697,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_018",
+      "metac_045",
+      "metac_048",
+      "metac_089",
+      "metac_098"
+    ]
   },
   {
     "id": "INS_FICHA_LECT",
@@ -1669,7 +1755,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_016",
+      "metac_051",
+      "metac_062",
+      "metac_065",
+      "metac_080"
+    ]
   },
   {
     "id": "INS_RESEÑA",
@@ -1777,7 +1869,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_010",
+      "metac_048",
+      "metac_089",
+      "metac_098",
+      "metac_110"
+    ]
   },
   {
     "id": "INS_MEM_PROY",
@@ -1833,7 +1931,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_014",
+      "metac_027",
+      "metac_065",
+      "metac_080",
+      "metac_110"
+    ]
   },
   {
     "id": "INS_PLAN_TRAB",
@@ -1939,7 +2043,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_002",
+      "metac_003",
+      "metac_020",
+      "metac_024",
+      "metac_036"
+    ]
   },
   {
     "id": "INS_CONTRATO",
@@ -2047,7 +2157,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_016",
+      "metac_023",
+      "metac_030",
+      "metac_037",
+      "metac_040"
+    ]
   },
   {
     "id": "INS_AUTOINF",
@@ -2101,7 +2217,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_023",
+      "metac_030",
+      "metac_045",
+      "metac_053",
+      "metac_110"
+    ]
   },
   {
     "id": "INS_PROB",
@@ -2211,7 +2333,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_006",
+      "metac_013",
+      "metac_024",
+      "metac_052",
+      "metac_069"
+    ]
   },
   {
     "id": "INS_PR_DES",
@@ -2268,7 +2396,13 @@
         "HER_RUB_ANA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_001",
+      "metac_004",
+      "metac_012",
+      "metac_022",
+      "metac_024"
+    ]
   },
   {
     "id": "INS_PR_OBJ",
@@ -2324,7 +2458,13 @@
         "HER_PLANT_CORR": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_008",
+      "metac_018",
+      "metac_045",
+      "metac_062",
+      "metac_069"
+    ]
   },
   {
     "id": "INS_TEST",
@@ -2378,7 +2518,13 @@
         "HER_ESC_NUM": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_018",
+      "metac_045",
+      "metac_062",
+      "metac_069",
+      "metac_088"
+    ]
   },
   {
     "id": "INS_RESP_CORTA",
@@ -2432,7 +2578,13 @@
         "HER_BAREMO": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_001",
+      "metac_012",
+      "metac_018",
+      "metac_025",
+      "metac_028"
+    ]
   },
   {
     "id": "INS_PR_ORAL",
@@ -2486,7 +2638,13 @@
         "HER_RUB_ORAL": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_001",
+      "metac_012",
+      "metac_024",
+      "metac_030",
+      "metac_053"
+    ]
   },
   {
     "id": "INS_PR_PRACT",
@@ -2534,7 +2692,13 @@
         "HER_LISTA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_005",
+      "metac_007",
+      "metac_011",
+      "metac_016",
+      "metac_080"
+    ]
   },
   {
     "id": "INS_PR_COMP",
@@ -2594,7 +2758,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_027",
+      "metac_052"
+    ]
   },
   {
     "id": "INS_DOCS",
@@ -2648,7 +2818,13 @@
         "HER_RUB_ANA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_008",
+      "metac_039",
+      "metac_052",
+      "metac_069"
+    ]
   },
   {
     "id": "INS_CUEST_DIG",
@@ -2700,7 +2876,13 @@
         "HER_ANALITICAS": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_018",
+      "metac_031",
+      "metac_052",
+      "metac_069",
+      "metac_084"
+    ]
   },
   {
     "id": "INS_INFOG",
@@ -2860,7 +3042,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_045",
+      "metac_048",
+      "metac_069",
+      "metac_083"
+    ]
   },
   {
     "id": "INS_VIDEO",
@@ -2964,7 +3152,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_005",
+      "metac_048",
+      "metac_083",
+      "metac_088",
+      "metac_098"
+    ]
   },
   {
     "id": "INS_PODCAST",
@@ -3018,7 +3212,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_048",
+      "metac_065",
+      "metac_083",
+      "metac_088",
+      "metac_098"
+    ]
   },
   {
     "id": "INS_COMIC",
@@ -3066,7 +3266,13 @@
         "HER_ESC_OBS": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_017",
+      "metac_026",
+      "metac_045",
+      "metac_048"
+    ]
   },
   {
     "id": "INS_MAQUETA",
@@ -3166,7 +3372,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_005",
+      "metac_016",
+      "metac_032",
+      "metac_069",
+      "metac_083"
+    ]
   },
   {
     "id": "INS_PROTOTIPO",
@@ -3270,7 +3482,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_014",
+      "metac_048",
+      "metac_069",
+      "metac_083",
+      "metac_084"
+    ]
   },
   {
     "id": "INS_BLOG",
@@ -3376,7 +3594,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_001",
+      "metac_013",
+      "metac_019",
+      "metac_024",
+      "metac_084"
+    ]
   },
   {
     "id": "INS_DOC_COL",
@@ -3440,7 +3664,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_003",
+      "metac_009",
+      "metac_014",
+      "metac_020",
+      "metac_084"
+    ]
   },
   {
     "id": "INS_PORT_DIG",
@@ -3555,7 +3785,13 @@
         "HER_REG_DESC": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_008",
+      "metac_016",
+      "metac_017",
+      "metac_043",
+      "metac_053"
+    ]
   },
   {
     "id": "INS_MAP_INI",
@@ -3607,7 +3843,13 @@
         "HER_FORM_DIG": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_016",
+      "metac_032",
+      "metac_043",
+      "metac_053",
+      "metac_080"
+    ]
   },
   {
     "id": "INS_LLUVIA",
@@ -3779,7 +4021,13 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_014",
+      "metac_023",
+      "metac_040",
+      "metac_065",
+      "metac_080"
+    ]
   },
   {
     "id": "INS_BIT",
@@ -3835,7 +4083,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_014",
+      "metac_027",
+      "metac_040",
+      "metac_043",
+      "metac_080"
+    ]
   },
   {
     "id": "INS_REV_PARES",
@@ -4108,7 +4362,13 @@
         "HER_BAREMO": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_005",
+      "metac_012",
+      "metac_013",
+      "metac_024",
+      "metac_069"
+    ]
   },
   {
     "id": "INS_TAREA_COMP_INT",
@@ -4174,7 +4434,13 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_027",
+      "metac_052"
+    ]
   },
   {
     "id": "INS_SIT_PROB",
@@ -4405,7 +4671,13 @@
         "HER_REG_ANE": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_011",
+      "metac_029",
+      "metac_098",
+      "metac_126",
+      "metac_129"
+    ]
   },
   {
     "id": "INS_CUAD_DIG",
@@ -4468,7 +4740,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_014",
+      "metac_069",
+      "metac_080",
+      "metac_083",
+      "metac_084"
+    ]
   },
   {
     "id": "INS_EPORT_SEL",
@@ -4537,7 +4815,13 @@
         "HER_DECL_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_016",
+      "metac_023",
+      "metac_030",
+      "metac_045",
+      "metac_053"
+    ]
   },
   {
     "id": "INS_CUAD_CAMPO",
@@ -4602,7 +4886,13 @@
         "DIM_TRAZ_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_008",
+      "metac_029",
+      "metac_039",
+      "metac_043",
+      "metac_098"
+    ]
   },
   {
     "id": "INS_MICROVIDEO",
@@ -4667,7 +4957,13 @@
         "DIM_TRAZ_IA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_005",
+      "metac_028",
+      "metac_048",
+      "metac_083",
+      "metac_088"
+    ]
   },
   {
     "id": "INS_BIT_IA",
@@ -4742,6 +5038,12 @@
         "HER_BANCO_EVID": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_014",
+      "metac_027",
+      "metac_040",
+      "metac_053",
+      "metac_083"
+    ]
   }
 ]

@@ -125,8 +125,8 @@ function renderEvalTypeToggles(targetId) {
     const locked = lockedPrefix === type.prefix;
     return `<button class="eval-type-toggle${active ? ' on' : ''}" data-prefix="${type.prefix}"
       ${locked ? 'disabled aria-disabled="true"' : ''}
-      style="${active ? `background:${col.bg};color:${col.text};border-color:${col.edge}` : ''}"
-      title="${esc(i(type.label))}"
+      style="${active ? `color:${col.text};border-color:${col.edge};background:${col.bg}` : ''}"
+      title="${esc(typeof i('evalTypeToggleTip') === 'function' ? i('evalTypeToggleTip')(i(type.label)) : i(type.label))}"
     >${esc(i(type.label))}</button>`;
   }).join('');
 

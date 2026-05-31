@@ -191,12 +191,24 @@
 <!-- ═══ EVAL TABS (evaluación view) ═══ -->
 <nav class="eval-nav" id="evalNavBar" style="display:none">
   <div class="eval-nav-inner" id="evalTabs"></div>
-  <div class="eval-type-filter-bar" id="evalHubTypeToggles" style="display:none"></div>
-  <div class="eval-hub-controls-nav" id="evalHubControls" style="display:none">
-    <button class="btn" id="evalHub2ndBtn" style="font-size:.74rem;padding:3px 8px;">2.º nivel</button>
-    <button class="btn" id="evalHubOccasionalBtn" style="font-size:.74rem;padding:3px 8px;">Ocasionales</button>
-    <button class="btn" id="evalHubFitBtn" style="font-size:.74rem;padding:3px 8px;">⊙</button>
-    <button class="btn" id="evalHubFullBtn" style="font-size:.74rem;padding:3px 8px;" title="Pantalla completa">⛶</button>
+  <div class="eval-tools-row" id="evalToolsRow" style="display:none">
+    <div id="evalHubTypeToggles"></div>
+    <div class="eval-tools-controls" id="evalHubControls">
+      <button class="eval-tool-btn" id="evalHub2ndBtn">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><circle cx="18" cy="6" r="3"/><circle cx="12" cy="18" r="3"/><path d="M6 9v1a6 6 0 0 0 6 6 6 6 0 0 0 6-6V9"/></svg>
+        <span>2.º nivel</span>
+      </button>
+      <button class="eval-tool-btn" id="evalHubOccasionalBtn">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M3 12h18M3 18h18"/><circle cx="6" cy="6" r="1.5" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none"/><circle cx="18" cy="18" r="1.5" fill="currentColor" stroke="none"/></svg>
+        <span>Ocasionales</span>
+      </button>
+      <button class="eval-tool-btn" id="evalHubFitBtn">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+      </button>
+      <button class="eval-tool-btn" id="evalHubFullBtn">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3"/><path d="M21 8V5a2 2 0 0 0-2-2h-3"/><path d="M3 16v3a2 2 0 0 0 2 2h3"/><path d="M16 21h3a2 2 0 0 0 2-2v-3"/></svg>
+      </button>
+    </div>
   </div>
   <div class="eval-nav-filter-row" id="evalNavFilterRow" style="display:none"></div>
 </nav>

@@ -44,10 +44,8 @@ function syncEvalViewMode() {
   const mapBtn   = document.getElementById('evalViewModeMap');
   if (cardsBtn) cardsBtn.classList.toggle('active', !S.evalMapMode);
   if (mapBtn)   mapBtn.classList.toggle('active',  S.evalMapMode);
-  const hubCtrl = document.getElementById('evalHubControls');
-  if (hubCtrl) hubCtrl.style.display = S.evalMapMode ? '' : 'none';
-  const hubTypes = document.getElementById('evalHubTypeToggles');
-  if (hubTypes) hubTypes.style.display = S.evalMapMode ? '' : 'none';
+  const toolsRow = document.getElementById('evalToolsRow');
+  if (toolsRow) toolsRow.style.display = S.evalMapMode ? '' : 'none';
   const filterRow = document.getElementById('evalNavFilterRow');
   if (filterRow) filterRow.style.display = S.evalMapMode ? '' : 'none';
   const hub2nd = document.getElementById('evalHub2ndBtn');

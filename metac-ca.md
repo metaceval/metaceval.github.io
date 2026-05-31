@@ -72,8 +72,6 @@ Per això, «Què et fa dir això?» és especialment útil per iniciar una conv
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Pràctica de laboratori, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -106,8 +104,6 @@ Com a síntesi final, cada estudiant escriu tres frases que expliquin el procés
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Esquema
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -157,8 +153,6 @@ L’alumnat ha d’aplicar els coneixements treballats, calcular el preu final e
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Resolució de problemes
 
 - *Dimensions:* Resolució de problemes
 
@@ -221,8 +215,6 @@ Al final, el grup comparteix quines noves idees han aparegut i quines preguntes 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Joc de rol, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -289,8 +281,6 @@ Objectiu: Millorar la comprensió dels alumnes sobre la Revolució Francesa
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Vídeo
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -380,8 +370,6 @@ Aquesta rutina pot ser útil per ajudar als alumnes a millorar la comprensió d'
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Vídeo
-
 ---
 
 
@@ -435,8 +423,6 @@ L’activitat acaba amb una discussió sobre com aquests patrons poden ajudar a 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes
 
 - *Dimensions:* Resolució de problemes
 
@@ -511,8 +497,6 @@ En acabar una pràctica de laboratori, els alumnes completen l'escala indicant q
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Pràctica de laboratori, Joc de rol
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -562,8 +546,6 @@ L’alumnat genera hipòtesis com: manca de llum, excés de reg, carència de sa
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -617,8 +599,6 @@ Després, cada grup valora les propostes amb tres criteris: facilitat d’ús, i
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Llista de verificació o control, Rúbrica de treball cooperatiu
 
@@ -757,8 +737,6 @@ A partir de la cadena de preguntes, l’alumnat proposa comprovar la humitat del
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Mapa conceptual, Joc de rol
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -850,8 +828,6 @@ En petits grups, comparteixen les seves eleccions i justifiquen per què les han
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Pòster acadèmic, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
@@ -895,8 +871,6 @@ El docent pot tancar l’activitat demanant que cada estudiant indiqui quina ide
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Esquema
 
 - *Dimensions:* Finalitat diagnòstica
 
@@ -958,8 +932,6 @@ Després de compartir les idees sobre "Investigo", el professor guia als alumnes
 
 - *Tècniques d'avaluació:* Anàlisi documental, Entrevista avaluativa, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Entrevista, Pòster acadèmic, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat diagnòstica, Indagació
@@ -1013,8 +985,6 @@ Els alumnes busquen respostes en mapes, gràfics de població i testimonis breus
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu, Vídeo
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Avaluació inclusiva i DUA
@@ -1050,8 +1020,6 @@ Els alumnes responen primer de manera individual i després comparen les respost
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -1134,8 +1102,6 @@ Després, cada grup classifica les conseqüències en positives, negatives i con
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -1174,8 +1140,6 @@ En literatura, els alumnes analitzen un personatge d'una novel·la. Dins de la s
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Joc de rol
 
 ---
 
@@ -1263,8 +1227,6 @@ Canvis en el pensament: Els alumnes van començar amb una visió molt més posit
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 - *Dimensions:* Resolució de problemes
 
 ---
@@ -1341,8 +1303,6 @@ Abans de decidir si una activitat es farà individualment o en grup, la classe e
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Resolució de problemes
-
 - *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes, Finalitat sumativa
 
 ---
@@ -1394,8 +1354,6 @@ En una pràctica de biologia, l'alumnat observa que unes llavors han germinat mi
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -1478,8 +1436,6 @@ En història, després d'analitzar un gràfic sobre població urbana, un alumne 
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 - *Dimensions:* Resolució de problemes
 
 ---
@@ -1517,8 +1473,6 @@ Després de llegir un text sobre canvi climàtic, l’alumnat dedica 8 minuts a 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Pòster acadèmic, Vídeo
 
 - *Dimensions:* Finalitat diagnòstica
 
@@ -1558,8 +1512,6 @@ En iniciar el sistema circulatori, els alumnes generen durant 3 minuts termes co
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Mapa conceptual
-
 ---
 
 
@@ -1597,8 +1549,6 @@ En biologia, la classe analitza si s’ha de permetre l’ús d’animals en inv
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 ---
 
 
@@ -1632,8 +1582,6 @@ Font: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase.
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals
-
-- *Evidències observables:* Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -1688,8 +1636,6 @@ Durant uns minuts, l’alumnat es mou per l’aula, pregunta als companys i anot
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -1750,8 +1696,6 @@ L’equip completa un esquema general del procés digestiu, relacionant les fase
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions
 
-- *Evidències observables:* Esquema, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Avaluació inclusiva i DUA
@@ -1800,8 +1744,6 @@ Després, cada alumne prepara la seva pròpia caixa amb tres objectes que expliq
 
 - *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -1847,8 +1789,6 @@ L’alumnat es desplaça a un costat o a l’altre segons hi estigui d’acord o
 
 - *Tècniques d'avaluació:* Intercanvis orals
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -1891,8 +1831,6 @@ Font: ECO. (2007). Dinámicas para hacer grupo.
 
 - *Tècniques d'avaluació:* Intercanvis orals
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -1930,8 +1868,6 @@ Qui ja ha utilitzat les tres fitxes escolta fins que tothom hagi participat. Aix
 
 - *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Joc de rol, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -1968,8 +1904,6 @@ Abans d'escollir el tema d'un projecte, cada alumne proposa diverses opcions. De
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -2010,8 +1944,6 @@ En matemàtiques, un alumne tutor acompanya el seu company en la resolució d'un
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Joc de rol, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Resolució de problemes
@@ -2050,8 +1982,6 @@ En càlcul, cada alumne treballa una seqüència d'exercicis ajustada al seu niv
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de produccions
-
-- *Evidències observables:* Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -2092,8 +2022,6 @@ En biologia, mitja classe fa una pràctica d'observació de cèl·lules vegetals
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -2130,8 +2058,6 @@ El grup ha d'ordenar els objectes més importants per sobreviure després d'un a
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -2172,8 +2098,6 @@ Un alumne ofereix ajuda per utilitzar un full de càlcul, un altre per dibuixar 
 
 - *Tècniques d'avaluació:* Intercanvis orals
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -2209,8 +2133,6 @@ En una classe inclusiva, un docent condueix l'explicació mentre un altre observ
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals
-
-- *Evidències observables:* Exposició oral, Pòster acadèmic, Joc de rol, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -2263,8 +2185,6 @@ En acabar, l’equip revisa si cada rol ha ajudat a organitzar millor la feina: 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
-
-- *Evidències observables:* Exposició oral, Joc de rol, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -2325,8 +2245,6 @@ Font: Pérez, M. (2015). Dinámicas cooperativas.
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Sondeig i qüestionament
 
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat diagnòstica, Avaluació inclusiva i DUA, Resolució de problemes
@@ -2382,8 +2300,6 @@ L’activitat permet que l’alumnat comprengui la complexitat del tema i apreng
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -2443,8 +2359,6 @@ En una segona volta, cada estudiant revisa o millora una part del text: vocabula
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Joc de rol, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
@@ -2496,8 +2410,6 @@ Tema: **Què necessiten les llavors per germinar?**
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Joc de rol, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -2554,8 +2466,6 @@ En acabar l’exposició, l’equip de preguntes planteja qüestions sobre cause
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Joc de rol, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -2618,8 +2528,6 @@ Abans de la classe, el professor revisa les respostes i detecta que molts alumne
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Resolució de problemes, Joc de rol, Vídeo
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -2665,8 +2573,6 @@ Després, es formen parelles i construeixen un text comú amb les idees de tots 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Joc de rol, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -2717,8 +2623,6 @@ Quan s’acaba el temps, el professor diu un número a l’atzar, per exemple el
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Sondeig i qüestionament
 
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Resolució de problemes
@@ -2760,8 +2664,6 @@ Cada parella comenta les preguntes durant uns minuts i anota dues idees consensu
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -2812,8 +2714,6 @@ En la ronda següent, amb la cita de les sis, responen una altra pregunta: “Qu
 
 - *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat diagnòstica, Resolució de problemes
@@ -2853,8 +2753,6 @@ En biologia, abans d'explicar la selecció natural, el professor pregunta: **per
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat diagnòstica, Avaluació inclusiva i DUA, Resolució de problemes, Finalitat sumativa
@@ -2887,8 +2785,6 @@ En acabar, el professor recull a l’atzar el quadern d’un alumne de cada grup
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Sondeig i qüestionament
-
-- *Evidències observables:* Pràctica de laboratori, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -2926,8 +2822,6 @@ En física, una vinyeta mostra tres alumnes parlant sobre una pilota que cau. Un
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Vídeo
 
 - *Dimensions:* Finalitat diagnòstica, Resolució de problemes
 
@@ -3053,8 +2947,6 @@ Els aumnes de l'ESO estan estudiant l'economia i han de treballar amb el cas d'u
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Exposició oral, Resolució de problemes
-
 - *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
@@ -3094,8 +2986,6 @@ En digitalització, els alumnes dissenyen una solució per millorar l'organitzac
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals
 
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -3133,8 +3023,6 @@ Primer, l’equip intenta resoldre els dubtes dels seus membres. Els que no pode
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica
-
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -3174,8 +3062,6 @@ Al final, l’equip compara els procediments utilitzats i revisa els errors. L�
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de produccions
-
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -3222,8 +3108,6 @@ Així, amb aquesta tècnica, tots els estudiants haurien tingut l'oportunitat de
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -3275,8 +3159,6 @@ L’alumne responsable de la primera qüestió la llegeix i coordina les interve
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Debat, Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -3305,8 +3187,6 @@ Cada grup busca informació, selecciona evidències i prepara una explicació pa
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de produccions
-
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -3361,8 +3241,6 @@ Amb aquesta matriu, es poden comparar les diferents solucions i valorar quines s
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions
 
-- *Evidències observables:* Resolució de problemes
-
 - *Dimensions:* Resolució de problemes
 
 ---
@@ -3395,8 +3273,6 @@ Després, l’equip comparteix les idees i només escriu al centre aquelles en q
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Sondeig i qüestionament
-
-- *Evidències observables:* Resolució de problemes, Taller, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -3440,8 +3316,6 @@ Finalment, el professor tria a l'atzar un membre de cada grup perquè expliqui l
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
@@ -3481,8 +3355,6 @@ El dia del torneig, els alumnes competeixen en taules amb companys de nivell sem
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -3524,8 +3396,6 @@ En una sessió de matemàtiques de 20 minuts, el professor barreja equacions, si
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Resolució de problemes
-
 - *Dimensions:* Resolució de problemes
 
 ---
@@ -3563,8 +3433,6 @@ En física, abans de resoldre problemes de cinemàtica, el professor mostra un e
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions
-
-- *Evidències observables:* Resolució de problemes
 
 - *Dimensions:* Resolució de problemes
 
@@ -3612,8 +3480,6 @@ Imagineu que els estudiants de l'ESO estan estudiant la història i el professor
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -3695,8 +3561,6 @@ Imagineu que els estudiants de l'ESO estan estudiant el medi ambient i el profes
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions
 
-- *Evidències observables:* Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes, Treball per projectes
@@ -3762,8 +3626,6 @@ Aquí es pot consultar un desenvolupament més detallat d'aquest projecte.
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Maqueta, Resolució de problemes, Treball cooperatiu, Vídeo
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Indagació, Resolució de problemes, Treball per projectes
@@ -3820,8 +3682,6 @@ Exemple d'aplicació d'ABR per a resoldre aquest problema:
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Pluja d'idees, Resolució de problemes, Treball cooperatiu, Vídeo
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -3856,8 +3716,6 @@ Després de la visita, els estudiants poden reflexionar sobre les seves observac
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Pòster acadèmic
 
 ---
 
@@ -3897,8 +3755,6 @@ Fonts:
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Joc de rol, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -3935,8 +3791,6 @@ El producte final combina una narració breu, imatges, esquemes senzills, músic
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Exposició oral, Vídeo
-
 ---
 
 
@@ -3971,8 +3825,6 @@ En biologia, una estació conté observació de mostres, una altra anàlisi d'im
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions
-
-- *Evidències observables:* Esquema, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -4015,8 +3867,6 @@ Cada equip comença en un cartell i escriu les seves idees durant tres minuts. D
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 ---
 
 
@@ -4045,8 +3895,6 @@ Per exemple, imagineu que es vol fer una activitat sobre l'ús dels pronoms febl
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de produccions
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -4093,8 +3941,6 @@ Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Resolució de problemes, Joc de rol, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -4134,8 +3980,6 @@ La parella continua fins que esgota les idees. Després, algunes respostes es re
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Joc de rol, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -4179,8 +4023,6 @@ La ronda continua fins a reunir diverses propostes. Després, l’equip seleccio
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Joc de rol, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
@@ -4220,8 +4062,6 @@ En una unitat sobre sostenibilitat, cada taula aborda una pregunta: consum d'aig
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat sumativa
@@ -4260,8 +4100,6 @@ A partir del centre d'interès “l'alimentació”, l'alumnat observa hàbits q
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
-
-- *Evidències observables:* Exposició oral, Joc de rol
 
 ---
 
@@ -4313,8 +4151,6 @@ A partir d'aquestes preguntes, cada grup revisa la seva explicació i redacta un
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Pràctica de laboratori, Joc de rol, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -4354,8 +4190,6 @@ Per resoldre problemes de geometria, el professor en resol un pensant en veu alt
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Resolució de problemes
 
 - *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
 
@@ -4448,8 +4282,6 @@ També podem utilitzar una estructura més simple pel mateix problema:
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Pràctica de laboratori, Resolució de problemes, Joc de rol, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Enfocament competencial, Indagació, Resolució de problemes
@@ -4500,8 +4332,6 @@ Al final, analitzen les dades, comparen els resultats amb la hipòtesi inicial i
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Pràctica de laboratori, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -4562,8 +4392,6 @@ El professor ha dividit els estudiants en grups de 3 i ha assignat a cada grup u
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Treball per projectes
@@ -4615,8 +4443,6 @@ En l'assignatura de Tecnologia, es planteja el repte de dissenyar un sistema de 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -4674,8 +4500,6 @@ Altres fonts consultades: Jimenez Pierre,O.et al. (2007). Modelo de aprendizaje 
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Maqueta, Resolució de problemes
-
 - *Dimensions:* Resolució de problemes
 
 ---
@@ -4715,8 +4539,6 @@ El mestre escriu a la pissarra paraules clau com “comunicació”, “lideratg
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Esquema, Exposició oral, Mapa conceptual, Resolució de problemes, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 - *Dimensions:* Resolució de problemes
@@ -4743,8 +4565,6 @@ Imaginarem que el grup està estudiant la Segona Guerra Mundial. Els participant
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Joc de rol, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -4786,8 +4606,6 @@ Després d’entrevistar-se mútuament, cada alumne escriu una frase sobre el se
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Entrevista avaluativa, Anàlisi de produccions
-
-- *Evidències observables:* Entrevista, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -4837,8 +4655,6 @@ El docent modera perquè ningú monopolitzi la conversa i anota les propostes m�
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Resolució de problemes, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -4893,8 +4709,6 @@ Després, el segon alumne llegeix el paràgraf següent i el tercer el resumeix.
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Exposició oral, Pòster acadèmic, Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -4929,8 +4743,6 @@ En acabar, el grup comenta si s’ha mantingut el ritme, si les pauses han ajuda
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
-
-- *Evidències observables:* Exposició oral, Pòster acadèmic, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -4974,8 +4786,6 @@ En cada equip, un alumne prepara la part sobre neurones, un altre la del sistema
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions
-
-- *Evidències observables:* Esquema, Exposició oral, Mapa conceptual, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -5080,8 +4890,6 @@ Creació d'un hort comunitari en un barri amb pocs espais verds i alta concentra
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Resolució de problemes, Taller, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Treball per projectes
@@ -5119,8 +4927,6 @@ En matemàtiques, per al concepte “funció”, l'alumnat escriu una definició
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 ---
 
 
@@ -5153,8 +4959,6 @@ En biologia, el grup llegeix un text sobre vacunes. Un alumne resumeix el primer
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Joc de rol, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -5198,8 +5002,6 @@ Després de tres rondes, el resum torna al seu autor. Cada alumne dedica 3 minut
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -5281,8 +5083,6 @@ Després d’estudiar la Segona República, l’alumnat dedica 3 minuts a escriu
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Exposició oral
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -5329,8 +5129,6 @@ Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para apr
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Proves específiques, Sondeig i qüestionament
-
-- *Evidències observables:* Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -5411,8 +5209,6 @@ Després d'una exposició oral, cada alumne valora claredat, domini del contingu
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -5540,8 +5336,6 @@ Després, cada equip planteja una pregunta. El professor detecta que diversos du
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -5625,8 +5419,6 @@ En cada evidència, l’alumne explica per què l’ha inclosa, quina dificultat
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Portafoli, Portfoli digital, Vídeo
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -5666,8 +5458,6 @@ Després canvien els rols, intercanvien les targetes i busquen una nova parella.
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Joc de rol
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -5741,8 +5531,6 @@ Al final, cada alumne fa una prova individual amb un mapa nou. L’equip obté p
 
 - *Tècniques d'avaluació:* Observació sistemàtica
 
-- *Evidències observables:* Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
@@ -5781,8 +5569,6 @@ Un alumne pot respondre: “He entès que les fàbriques van canviar l’organit
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Bitllet de sortida
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -5836,8 +5622,6 @@ El revisor assenyala una idea clara del text, una part que no s'entén bé i una
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral, Pràctica de laboratori, Portafoli, Treball cooperatiu
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -5873,8 +5657,6 @@ Després d'una exposició oral sobre un problema ambiental, un company escriu: �
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -5958,8 +5740,6 @@ En matemàtiques, cada divendres es dediquen 10 minuts a una fitxa breu amb cont
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Pòster acadèmic
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
@@ -6040,8 +5820,6 @@ Per escriure un text argumentatiu, la guia inclou preguntes com: “Quina és la
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -6100,8 +5878,6 @@ Adaptat de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos de
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -6172,8 +5948,6 @@ He fet tots els deures que ens han donat i he revisat els conceptes de la unitat
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Vídeo
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
@@ -6212,8 +5986,6 @@ En filosofia o biologia, el grup analitza un text sobre bioètica. Els alumnes p
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral
 
 - *Dimensions:* Resolució de problemes
 
@@ -6272,8 +6044,6 @@ La tècnica ajuda que l'alumnat no només defensi una posició, sinó que recone
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -6311,8 +6081,6 @@ En ciutadania, l'alumnat construeix un mapa sobre la pregunta: “S'ha de limita
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
@@ -6349,8 +6117,6 @@ En biologia i ciutadania, la classe debat si s'ha de limitar la venda de begudes
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
@@ -6392,8 +6158,6 @@ En una activitat de comprensió lectora, el professor llegeix un paràgraf i diu
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 - *Dimensions:* Avaluació inclusiva i DUA
 
 ---
@@ -6433,8 +6197,6 @@ En ciències socials, el grup central debat si una ciutat hauria de limitar el t
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -6476,8 +6238,6 @@ Els pòsters es col·loquen a les parets de l’aula. Els grups roten per la cla
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -6539,8 +6299,6 @@ Cada grup representa visualment el problema, les possibles accions, les persones
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Esquema, Exposició oral
-
 - *Dimensions:* Resolució de problemes
 
 ---
@@ -6590,8 +6348,6 @@ L’activitat no es basa a competir per punts, sinó a utilitzar l’estructura 
 
 - *Tècniques d'avaluació:* Entrevista avaluativa, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Entrevista, Exposició oral, Resolució de problemes, Treball cooperatiu, Vídeo
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Resolució de problemes
@@ -6636,8 +6392,6 @@ El professor no busca una única interpretació correcta, sinó que ajuda el gru
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -6728,8 +6482,6 @@ Memoritzar una fórmula pot tenir un nivell baix de DOK, mentre que triar quin m
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Joc de rol
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -6860,8 +6612,6 @@ En lloc de respondre només preguntes sobre nutrició, l'alumnat dissenya una pr
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Resolució de problemes
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -6950,8 +6700,6 @@ El professor selecciona dades properes a l’alumnat perquè els conceptes estad
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 ---
 
 
@@ -6991,8 +6739,6 @@ Escriure un text en un processador pot ser substitució; col·laborar en un docu
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
-
-- *Evidències observables:* Exposició oral
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
@@ -7037,8 +6783,6 @@ En una tasca d’investigació, l’alumnat pot consultar textos, vídeos o esqu
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
 
-- *Evidències observables:* Exposició oral, Infografia, Treball cooperatiu, Vídeo
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
@@ -7082,8 +6826,6 @@ En un projecte sobre sostenibilitat, l’alumnat analitza dades, dissenya propos
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
-
-- *Evidències observables:* Exposició oral, Treball cooperatiu
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -7137,8 +6879,6 @@ Abans d’exposar, cada grup revisa la seva presentació amb la rúbrica i detec
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Evidències observables:* Exposició oral
-
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
 
 - *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
@@ -7182,8 +6922,6 @@ En un projecte d’investigació, cada equip revisa durant 5 minuts tres hàbits
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Evidències observables:* Treball cooperatiu
-
 - *Instruments:* Rúbrica de treball cooperatiu
 
 ---
@@ -7221,8 +6959,6 @@ En física, els primers problemes de moviment es presenten amb les dades ja iden
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions
-
-- *Evidències observables:* Pòster acadèmic
 
 - *Dimensions:* Avaluació inclusiva i DUA
 

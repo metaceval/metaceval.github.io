@@ -16,20 +16,20 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATS = {
     "es": [
         {"file": "tecnicas.json",    "prefix": "TEC", "heading": "Técnicas de evaluación"},
-        {"file": "instrumentos.json","prefix": "INS", "heading": "Evidencias observables"},
-        {"file": "herramientas.json","prefix": "HER", "heading": "Instrumentos de evaluación"},
+        {"file": "evidencias.json",  "prefix": "INS", "heading": "Evidencias observables"},
+        {"file": "instrumentos.json","prefix": "HER", "heading": "Instrumentos de evaluación"},
         {"file": "dimensiones.json", "prefix": "DIM", "heading": "Dimensiones de evaluación"},
     ],
     "ca": [
         {"file": "tecnicas.json",    "prefix": "TEC", "heading": "Tècniques d'avaluació"},
-        {"file": "instrumentos.json","prefix": "INS", "heading": "Evidències observables"},
-        {"file": "herramientas.json","prefix": "HER", "heading": "Instruments d'avaluació"},
+        {"file": "evidencias.json",  "prefix": "INS", "heading": "Evidències observables"},
+        {"file": "instrumentos.json","prefix": "HER", "heading": "Instruments d'avaluació"},
         {"file": "dimensiones.json", "prefix": "DIM", "heading": "Dimensions d'avaluació"},
     ],
     "en": [
         {"file": "tecnicas.json",    "prefix": "TEC", "heading": "Evaluation techniques"},
-        {"file": "instrumentos.json","prefix": "INS", "heading": "Observable evidence"},
-        {"file": "herramientas.json","prefix": "HER", "heading": "Evaluation instruments"},
+        {"file": "evidencias.json",  "prefix": "INS", "heading": "Observable evidence"},
+        {"file": "instrumentos.json","prefix": "HER", "heading": "Evaluation instruments"},
         {"file": "dimensiones.json", "prefix": "DIM", "heading": "Assessment dimensions"},
     ],
 }

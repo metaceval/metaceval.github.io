@@ -144,10 +144,6 @@ After studying percentages and simple interest, the teacher presents a practical
 
 Students must apply the knowledge they have studied, calculate the final price in each case and justify their decision. At the end, they explain which concepts they used, which steps they followed and which mistakes they had to correct. The routine helps check whether students can use their knowledge in a realistic situation, not only in isolated exercises.
 
-**How to assess:**
-
-- *Observable evidence:* Role play
-
 ---
 
 
@@ -199,8 +195,6 @@ At the end, the group shares what new ideas have emerged and what questions rema
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Debate, Brainstorming
 
 ---
 
@@ -268,8 +262,6 @@ Objective: To improve students' understanding of the French Revolution
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of processes and reflections
-
-- *Observable evidence:* Video
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -358,8 +350,6 @@ This routine can be useful in helping students improve their understanding of a 
 
 - *Evaluation techniques:* Analysis of processes and reflections
 
-- *Observable evidence:* Video
-
 ---
 
 
@@ -413,8 +403,6 @@ The activity ends with a discussion about how these patterns can help with decis
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
 
-- *Observable evidence:* Debate
-
 ---
 
 
@@ -447,8 +435,6 @@ The teacher collects the responses or reviews them visually and spends the first
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
-
-- *Observable evidence:* Role play
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -490,8 +476,6 @@ After completing a laboratory exercise, students fill in the ladder, indicating 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
-
-- *Observable evidence:* Role play
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -544,8 +528,6 @@ Students generate hypotheses such as lack of light, overwatering, mineral defici
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Specific tests
 
-- *Observable evidence:* Debate, Objective test, Multiple-choice test
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -596,8 +578,6 @@ Then each group evaluates the proposals using three criteria: ease of use, impac
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of processes and reflections, Specific tests
-
-- *Observable evidence:* Objective test, Role play, Multiple-choice test
 
 - *Instruments:* Checklist
 
@@ -738,8 +718,6 @@ Based on this chain of questions, students propose checking soil moisture, revie
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
 
-- *Observable evidence:* Debate, Role play
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -830,8 +808,6 @@ In small groups, students share their choices and justify why they selected them
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
 
-- *Observable evidence:* Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -873,8 +849,6 @@ The teacher can close the activity by asking each student to identify which idea
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of processes and reflections
-
-- *Observable evidence:* Academic poster, Role play
 
 ---
 
@@ -978,8 +952,6 @@ Students look for answers in maps, population graphs and short testimonies. Then
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
-
-- *Observable evidence:* Video
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -1090,8 +1062,6 @@ Then each group classifies the consequences as positive, negative or necessary c
 
 - *Evaluation techniques:* Analysis of processes and reflections
 
-- *Observable evidence:* Role play
-
 ---
 
 
@@ -1132,8 +1102,6 @@ In literature, students analyze a character from a novel. Inside the silhouette,
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of processes and reflections
-
-- *Observable evidence:* Role play
 
 ---
 
@@ -1233,8 +1201,6 @@ In “I think”, they interpret what may be happening: a citizens’ protest, a
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
-
-- *Observable evidence:* Blog post
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -1364,8 +1330,6 @@ The experiment is then carried out. Students observe that the potato loses firmn
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Specific tests
 
-- *Observable evidence:* Objective test, Multiple-choice test
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -1433,8 +1397,6 @@ After reading a text on climate change, students spend 8 minutes completing thre
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of processes and reflections
-
-- *Observable evidence:* Role play, Video
 
 ---
 
@@ -1504,8 +1466,6 @@ In biology, the class analyses whether the use of animals in biomedical research
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Debate
 
 ---
 
@@ -1637,8 +1597,6 @@ The team completes a general diagram of the digestive process, linking the phase
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
 **How to assess:**
-
-- *Observable evidence:* Cooperative work
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -1798,8 +1756,6 @@ Once a student has used all three chips, they listen until everyone has used the
 
 - *Evaluation techniques:* Oral exchanges
 
-- *Observable evidence:* Debate, Role play
-
 ---
 
 
@@ -1832,8 +1788,6 @@ Before choosing a project topic, each student proposes several options. All idea
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Debate
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -1869,8 +1823,6 @@ In mathematics, a student tutor supports a partner in solving a problem. The tut
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
-
-- *Observable evidence:* Role play, Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -1909,8 +1861,6 @@ In arithmetic, each student works through a sequence of exercises adapted to the
 
 - *Evaluation techniques:* Systematic observation
 
-- *Observable evidence:* Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -1948,8 +1898,6 @@ In biology, half the class carries out a practical task observing plant cells an
 
 - *Evaluation techniques:* Analysis of productions
 
-- *Observable evidence:* Cooperative work
-
 ---
 
 
@@ -1982,8 +1930,6 @@ The group must rank the most important objects for survival after a moon landing
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions
-
-- *Observable evidence:* Cooperative work
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -2048,8 +1994,6 @@ In an inclusive classroom, one teacher leads the explanation while another obser
 
 - *Evaluation techniques:* Systematic observation
 
-- *Observable evidence:* Role play
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -2099,8 +2043,6 @@ At the end, the team reviews whether each role helped organize the work better: 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of productions
-
-- *Observable evidence:* Podcast, Role play, Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -2166,8 +2108,6 @@ Source: Pérez, M. (2015). Cooperative Dynamics.
 
 - *Evaluation techniques:* Systematic observation
 
-- *Observable evidence:* Cooperative work
-
 - *Dimensions:* Inclusive assessment and UDL
 
 ---
@@ -2222,8 +2162,6 @@ The activity helps students understand the complexity of the issue and learn to 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
-
-- *Observable evidence:* Debate
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -2281,8 +2219,6 @@ In a second round, each student revises or improves one aspect of the text: voca
 
 - *Evaluation techniques:* Systematic observation, Analysis of productions
 
-- *Observable evidence:* Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -2332,8 +2268,6 @@ Topic: **What do seeds need to germinate?**
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
-
-- *Observable evidence:* Role play
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -2398,8 +2332,6 @@ At the end of the presentation, the questioning team asks about causes and conse
 
 - *Evaluation techniques:* Systematic observation
 
-- *Observable evidence:* Role play, Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -2453,8 +2385,6 @@ Before class, the teacher reviews the answers and notices that many students con
 
 - *Evaluation techniques:* Systematic observation
 
-- *Observable evidence:* Video
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Problem solving
@@ -2499,8 +2429,6 @@ Then students form pairs and build a shared text using both contributions, corre
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of productions
-
-- *Observable evidence:* Cooperative work
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -2547,8 +2475,6 @@ When time is up, the teacher calls a random number, for example 3. All students 
 
 - *Evaluation techniques:* Systematic observation
 
-- *Observable evidence:* Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -2592,8 +2518,6 @@ Each pair discusses the questions for a few minutes and writes down two agreed i
 
 - *Evaluation techniques:* Oral exchanges
 
-- *Observable evidence:* Debate, Cooperative work
-
 ---
 
 
@@ -2630,10 +2554,6 @@ In a reading comprehension unit, each student completes their appointment clock 
 In the next round, with the six o’clock appointment, they answer another question: “Which detail in the text best supports that main idea?”. At the end, answers are shared with the class. The technique allows students to compare their interpretation with several classmates and improve their responses through brief dialogue.
 
 **Resources:** [Appointment Clock](https://reloj-citas.github.io/)
-
-**How to assess:**
-
-- *Observable evidence:* Cooperative work
 
 ---
 
@@ -2674,8 +2594,6 @@ In biology, before explaining natural selection, the teacher asks: **Why do some
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
 
-- *Observable evidence:* Debate, Cooperative work
-
 - *Dimensions:* Inclusive assessment and UDL
 
 ---
@@ -2706,8 +2624,6 @@ At the end, the teacher randomly collects one notebook from each group. The corr
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
-
-- *Observable evidence:* Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -2810,8 +2726,6 @@ Secondary school students are studying economics and have to work on the case of
 
 - *Evaluation techniques:* Oral exchanges, Analysis of productions
 
-- *Observable evidence:* Role play
-
 - *Dimensions:* Inclusive assessment and UDL
 
 ---
@@ -2855,8 +2769,6 @@ In a digitalization class, students design a solution to improve the organizatio
 
 - *Evaluation techniques:* Systematic observation, Specific tests
 
-- *Observable evidence:* Objective test, Multiple-choice test
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -2893,8 +2805,6 @@ First, the team tries to answer its members’ questions. Questions they cannot 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
-
-- *Observable evidence:* Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -2982,8 +2892,6 @@ In this way, with this technique, all students would have had the opportunity to
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
 
-- *Observable evidence:* Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -3034,8 +2942,6 @@ The student responsible for the first question reads it and coordinates the cont
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of productions
-
-- *Observable evidence:* Debate, Role play, Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -3149,8 +3055,6 @@ Then the team shares the ideas and writes in the center only those on which ever
 
 - *Evaluation techniques:* Oral exchanges
 
-- *Observable evidence:* Debate, Cooperative work
-
 - *Dimensions:* Inclusive assessment and UDL
 
 ---
@@ -3195,8 +3099,6 @@ Finally, the teacher randomly selects one member from each group to explain the 
 
 - *Evaluation techniques:* Analysis of processes and reflections
 
-- *Observable evidence:* Cooperative work
-
 - *Dimensions:* Inclusive assessment and UDL
 
 ---
@@ -3232,8 +3134,6 @@ On tournament day, students compete at tables with classmates from other teams w
 **Resources:** [QPlay: Interactive Contest](https://jjdeharo.github.io/qplay/) · [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
 **How to assess:**
-
-- *Observable evidence:* Cooperative work
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -3398,8 +3298,6 @@ In biology, students investigate why some seeds germinate better than others. Th
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Specific tests
 
-- *Observable evidence:* Objective test, Multiple-choice test
-
 ---
 
 
@@ -3436,8 +3334,6 @@ Imagine that secondary school students are studying the environment and the teac
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
-
-- *Observable evidence:* Cooperative work
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -3492,8 +3388,6 @@ Through the development of this project, the students have learned about energy 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
-
-- *Observable evidence:* Podcast, Video
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -3553,8 +3447,6 @@ Example of applying Challenge-Based Learning to solve this problem:
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Specific tests
-
-- *Observable evidence:* Blog post, Brainstorming, Objective test, Role play, Multiple-choice test, Video
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -3635,8 +3527,6 @@ Sources:
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
 
-- *Observable evidence:* Role play, Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -3671,8 +3561,6 @@ The final product combines a short narration, images, simple diagrams, music or 
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of productions
-
-- *Observable evidence:* Video
 
 ---
 
@@ -3751,10 +3639,6 @@ Each team starts at one poster and writes its ideas for three minutes. Then the 
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html) · [Interactive wall](https://jjdeharo.github.io/directo/muro.html)
 
-**How to assess:**
-
-- *Observable evidence:* Brainstorming, Academic poster, Cooperative work
-
 ---
 
 
@@ -3782,8 +3666,6 @@ Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to le
 For example, imagine that you want to carry out an activity on the use of weak pronouns in Catalan. You could select four students who consider themselves to have already mastered this topic and ask them to prepare to explain it to the others. Next, the group would be divided into teams of four students, and one student from each team would visit one of the "wise men" to receive instruction on the use of weak pronouns. After this initial phase, each student would return to their team and explain to their classmates what they had learned from the "wise man" they visited. In this way, all students would have learned about the use of weak pronouns thanks to the explanations provided by the different "wise men."
 
 **How to assess:**
-
-- *Observable evidence:* Role play, Cooperative work
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -3828,8 +3710,6 @@ Source: CRA Los Olivos. (2017). Cooperative Learning Techniques
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges
 
-- *Observable evidence:* Debate, Role play, Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -3868,8 +3748,6 @@ The pair continues until they run out of ideas. Then some responses are collecte
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Brainstorming, Role play, Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -3911,8 +3789,6 @@ The round continues until several proposals have been collected. Then the team s
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Brainstorming, Role play, Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -3986,8 +3862,6 @@ Starting from the center of interest “food”, students observe daily habits, 
 
 - *Evaluation techniques:* Analysis of productions
 
-- *Observable evidence:* Role play
-
 ---
 
 
@@ -4035,8 +3909,6 @@ Based on these questions, each group revises its explanation and writes a final 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
-
-- *Observable evidence:* Role play
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -4180,8 +4052,6 @@ We can also use a simpler structure for the same problem:
 
 - *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions
 
-- *Observable evidence:* Role play
-
 - *Dimensions:* Problem solving
 
 ---
@@ -4295,8 +4165,6 @@ The teacher has divided the students into groups of three and assigned each grou
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Specific tests
 
-- *Observable evidence:* Objective test, Multiple-choice test
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -4357,8 +4225,6 @@ In the Technology subject, the challenge is to design an automatic irrigation sy
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
-
-- *Observable evidence:* Role play, Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -4442,10 +4308,6 @@ The teacher writes key words such as “communication”, “leadership”, “t
 
 **Resources:** [Word cloud](https://jjdeharo.github.io/directo/nube.html)
 
-**How to assess:**
-
-- *Observable evidence:* Cooperative work
-
 ---
 
 
@@ -4466,8 +4328,6 @@ Imagine that the group is studying World War II. Participants can divide themsel
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
-
-- *Observable evidence:* Role play
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -4503,10 +4363,6 @@ Adapted from Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate 
 During the first week of cooperative teamwork, the teacher forms random pairs and gives them a short interview guide: “What are you good at?”, “What is harder for you in class?”, “How do you prefer to work?”, “What can you contribute to a team?” and “What do you need from your classmates to work better?”.
 
 After interviewing each other, each student writes a sentence about their partner, for example: “Marta is organized, prefers clear tasks and can help the team distribute the work”. At the end, the sentences are read aloud and help build a richer picture of the group.
-
-**How to assess:**
-
-- *Observable evidence:* Cooperative work
 
 ---
 
@@ -4553,8 +4409,6 @@ The teacher moderates so that no one dominates the conversation and writes down 
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
 
-- *Observable evidence:* Debate
-
 ---
 
 
@@ -4599,8 +4453,6 @@ Then the second student reads the next paragraph and the third summarizes it. Th
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges
-
-- *Observable evidence:* Cooperative work
 
 ---
 
@@ -4673,8 +4525,6 @@ In each team, one student prepares the part on neurons, another the central nerv
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
 **How to assess:**
-
-- *Observable evidence:* Cooperative work
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -4853,8 +4703,6 @@ In biology, the group reads a text about vaccines. One student summarises the fi
 
 - *Evaluation techniques:* Analysis of processes and reflections
 
-- *Observable evidence:* Role play, Cooperative work
-
 ---
 
 
@@ -5016,8 +4864,6 @@ The biology teacher has been working on the concepts of blood circulation with h
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
-
-- *Observable evidence:* Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -5238,8 +5084,6 @@ Then each team asks one question. The teacher notices that several doubts are fo
 
 - *Evaluation techniques:* Systematic observation, Analysis of productions
 
-- *Observable evidence:* Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -5326,8 +5170,6 @@ For each piece of evidence, the student explains why it has been included, what 
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
 
-- *Observable evidence:* Learning portfolio, Video
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -5369,8 +5211,6 @@ Then they switch roles, exchange cards and look for a new partner. In a few minu
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Role play
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -5443,8 +5283,6 @@ At the end, each student takes an individual test with a new map. The team earns
 
 - *Evaluation techniques:* Systematic observation, Specific tests
 
-- *Observable evidence:* Objective test, Multiple-choice test, Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -5483,8 +5321,6 @@ A student might answer: “I understood that factories changed the organization 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Exit ticket, Debate
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -5535,8 +5371,6 @@ The reviewer identifies one clear idea in the text, one part that is not easy to
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
-
-- *Observable evidence:* Learning portfolio
 
 - *Instruments:* Feedback card, Checklist, Feedback/feedforward template
 
@@ -5786,8 +5620,6 @@ Adapted from: Research Group on Peer Learning. (2019). Cooperative Learning Meth
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
 
-- *Observable evidence:* Cooperative work
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -5863,8 +5695,6 @@ I completed all the homework and reviewed the unit's concepts every day to be pr
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
 
-- *Observable evidence:* Podcast, Video
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -5907,8 +5737,6 @@ In philosophy or biology, the group analyzes a text on bioethics. Students prepa
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Debate
 
 ---
 
@@ -5963,8 +5791,6 @@ The technique helps students not only defend a position, but also recognise its 
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
 
-- *Observable evidence:* Debate
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -6000,8 +5826,6 @@ In citizenship education, students build a map around the question: “Should mo
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
 
-- *Observable evidence:* Debate
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -6036,8 +5860,6 @@ In biology and citizenship education, the class debates whether the sale of ener
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
-
-- *Observable evidence:* Debate, Cooperative work
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -6121,8 +5943,6 @@ In social sciences, the central group debates whether a city should limit privat
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
 
-- *Observable evidence:* Debate, Role play
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -6164,8 +5984,6 @@ The posters are placed on the classroom walls. Groups rotate around the room and
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
-
-- *Observable evidence:* Academic poster
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -6229,10 +6047,6 @@ Each group visually represents the problem, possible actions, people involved an
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
-**How to assess:**
-
-- *Observable evidence:* Academic poster
-
 ---
 
 
@@ -6278,8 +6092,6 @@ The activity is not based on competing for points, but on using the game structu
 
 - *Evaluation techniques:* Systematic observation, Analysis of productions
 
-- *Observable evidence:* Cooperative work, Video
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
@@ -6323,8 +6135,6 @@ The teacher does not look for a single correct interpretation, but helps the gro
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
 
-- *Observable evidence:* Debate
-
 ---
 
 
@@ -6364,8 +6174,6 @@ Before designing a unit on ecosystems, the teacher defines that students should 
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
-
-- *Observable evidence:* Debate
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -6650,8 +6458,6 @@ Writing a text in a word processor may be substitution; collaborating in a share
 
 - *Evaluation techniques:* Systematic observation
 
-- *Observable evidence:* Role play
-
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Formative purpose
@@ -6692,8 +6498,6 @@ In a research task, students may consult texts, videos or diagrams, work with gr
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
-
-- *Observable evidence:* Video
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -6889,8 +6693,6 @@ In physics, a cartoon shows three students talking about a falling ball. One say
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
 
-- *Observable evidence:* Video
-
 ---
 
 
@@ -6925,7 +6727,5 @@ In biology, the teacher shows the sentence: “There are more and more antibioti
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
-
-- *Observable evidence:* Debate
 
 ---

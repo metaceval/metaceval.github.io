@@ -71,8 +71,6 @@ Por eso, «¿Qué te hace decir eso?» es especialmente útil para iniciar una c
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Práctica de laboratorio, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -105,8 +103,6 @@ Como síntesis final, cada estudiante escribe tres frases que expliquen el proce
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Esquema, Resumen, Juego de rol
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -156,8 +152,6 @@ El alumnado debe aplicar los conocimientos trabajados, calcular el precio final 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Resolución de problemas, Juego de rol
 
 - *Dimensiones:* Resolución de problemas
 
@@ -220,8 +214,6 @@ Al final, el grupo comparte qué nuevas ideas han aparecido y qué preguntas que
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Lluvia de ideas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -288,8 +280,6 @@ Objetivo: Mejorar la comprensión de los alumnos sobre la Revolución Francesa
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Juego de rol, Vídeo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -379,8 +369,6 @@ Esta rutina puede ser útil para ayudar a los alumnos a mejorar la comprensión 
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Juego de rol, Vídeo
-
 ---
 
 
@@ -435,8 +423,6 @@ La actividad termina con una discusión sobre cómo esos patrones pueden ayudar 
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Exposición oral, Resolución de problemas, Resumen, Juego de rol
-
 - *Dimensiones:* Resolución de problemas
 
 ---
@@ -471,8 +457,6 @@ El profesor recoge las respuestas o las revisa visualmente y dedica los primeros
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Semáforo de aprendizaje
 
 - *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
 
@@ -511,8 +495,6 @@ Al terminar una práctica de laboratorio, los alumnos completan la escalera indi
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Práctica de laboratorio, Juego de rol
 
 - *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
 
@@ -563,8 +545,6 @@ El alumnado genera hipótesis como: falta de luz, exceso de riego, carencia de s
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Resumen, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -618,8 +598,6 @@ Después, cada grupo valora las propuestas con tres criterios: facilidad de uso,
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Resolución de problemas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Lista de cotejo o control, Rúbrica de trabajo cooperativo
 
@@ -758,8 +736,6 @@ A partir de la cadena de preguntas, el alumnado propone comprobar la humedad del
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Mapa conceptual, Juego de rol
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -851,8 +827,6 @@ En pequeños grupos, comparten sus elecciones y justifican por qué las han eleg
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de interacciones digitales, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Exposición oral, Póster académico, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Trazabilidad, autoría y uso de IA
@@ -896,8 +870,6 @@ El docente puede cerrar la actividad pidiendo que cada estudiante señale qué i
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Esquema, Juego de rol
 
 - *Dimensiones:* Finalidad diagnóstica
 
@@ -959,8 +931,6 @@ Después de compartir las ideas sobre ""Investigo" ", el profesor guía a los al
 
 - *Técnicas de evaluación:* Análisis documental, Entrevista evaluativa, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Entrevista, Lluvia de ideas, Póster académico, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad diagnóstica, Indagación
@@ -1014,8 +984,6 @@ Los alumnos buscan respuestas en mapas, gráficos de población y testimonios br
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Juego de rol, Trabajo cooperativo, Vídeo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Indagación
@@ -1051,8 +1019,6 @@ Los alumnos responden primero de forma individual y después comparan sus respue
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -1135,8 +1101,6 @@ Después, cada grupo clasifica las consecuencias en positivas, negativas y condi
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Resolución de problemas
@@ -1177,8 +1141,6 @@ En literatura, los alumnos analizan un personaje de una novela. Dentro de la sil
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Juego de rol
 
 ---
 
@@ -1266,8 +1228,6 @@ Canvis en el pensament: Los alumnos empezaron con una visión mucho más positiv
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral
-
 - *Dimensiones:* Resolución de problemas
 
 ---
@@ -1303,8 +1263,6 @@ En “Pienso”, interpreta lo que puede estar ocurriendo: una protesta ciudadan
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Entrada de blog, Juego de rol
 
 - *Dimensiones:* Finalidad diagnóstica, Evaluación inclusiva y DUA, Indagación, Finalidad sumativa
 
@@ -1342,8 +1300,6 @@ Antes de decidir si una actividad se hará individualmente o en grupo, la clase 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Resolución de problemas
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas, Finalidad sumativa
 
@@ -1397,8 +1353,6 @@ En una práctica de biología, el alumnado observa que unas semillas han germina
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Juego de rol
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Retroalimentación y feedforward, Resolución de problemas
@@ -1444,8 +1398,6 @@ Después se realiza la experiencia. El alumnado observa que la patata pierde fir
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Juego de rol, Simulación
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Simulación
@@ -1481,8 +1433,6 @@ En historia, tras analizar un gráfico sobre población urbana, un alumno escrib
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral
 
 - *Dimensiones:* Indagación, Resolución de problemas
 
@@ -1522,8 +1472,6 @@ Tras leer un texto sobre cambio climático, el alumnado dedica 8 minutos a compl
 
 - *Técnicas de evaluación:* Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Póster académico, Vídeo
-
 - *Dimensiones:* Finalidad diagnóstica, Indagación
 
 ---
@@ -1561,8 +1509,6 @@ Al iniciar el sistema circulatorio, los alumnos generan durante 3 minutos térmi
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Mapa conceptual
 
 - *Dimensiones:* Finalidad diagnóstica
 
@@ -1603,8 +1549,6 @@ En biología, la clase analiza si debe permitirse el uso de animales en investig
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Exposición oral, Juego de rol
-
 - *Dimensiones:* Indagación
 
 ---
@@ -1640,8 +1584,6 @@ Fuente: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase.
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales
-
-- *Evidencias observables:* Exposición oral, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -1697,8 +1639,6 @@ Durante unos minutos, el alumnado se mueve por el aula, pregunta a sus compañer
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad sumativa
@@ -1749,8 +1689,6 @@ El equipo completa un esquema general del proceso digestivo, relacionando las fa
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones
 
-- *Evidencias observables:* Esquema, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación inclusiva y DUA
@@ -1799,8 +1737,6 @@ Después, cada alumno prepara su propia caja con tres objetos que expliquen algo
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -1846,8 +1782,6 @@ El alumnado se desplaza a un lado u otro según esté de acuerdo o no; quienes e
 
 - *Técnicas de evaluación:* Intercambios orales
 
-- *Evidencias observables:* Exposición oral, Participación en clase, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -1890,8 +1824,6 @@ Fuente: ECO. (2007). Dinámicas para hacer grupo.
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -1929,8 +1861,6 @@ Quien ya ha usado sus tres fichas escucha hasta que todos hayan participado. Est
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Exposición oral, Participación en clase, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -1967,8 +1897,6 @@ Antes de elegir el tema de un proyecto, cada alumno propone varias opciones. Des
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Participación en clase, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -2009,8 +1937,6 @@ En matemáticas, un alumno tutor acompaña a su compañero en la resolución de 
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Resolución de problemas
@@ -2049,8 +1975,6 @@ En cálculo, cada alumno trabaja una secuencia de ejercicios ajustada a su nivel
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de producciones
-
-- *Evidencias observables:* Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -2091,8 +2015,6 @@ En biología, media clase realiza una práctica de observación de células vege
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones
 
-- *Evidencias observables:* Exposición oral, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -2129,8 +2051,6 @@ El grupo debe ordenar los objetos más importantes para sobrevivir tras un aluni
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Resolución de problemas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -2171,8 +2091,6 @@ Un alumno ofrece ayuda para usar una hoja de cálculo, otro para dibujar esquema
 
 - *Técnicas de evaluación:* Intercambios orales
 
-- *Evidencias observables:* Esquema, Exposición oral, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -2208,8 +2126,6 @@ En una clase inclusiva, un docente conduce la explicación mientras otro observa
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales
-
-- *Evidencias observables:* Exposición oral, Participación en clase, Póster académico, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -2262,8 +2178,6 @@ Al terminar, el equipo revisa si cada rol ha ayudado a organizar mejor el trabaj
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de producciones
-
-- *Evidencias observables:* Exposición oral, Participación en clase, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -2324,8 +2238,6 @@ Fuente: Pérez, M. (2015). Dinámicas cooperativas.
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Participación en clase, Resolución de problemas, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad diagnóstica, Evaluación inclusiva y DUA, Resolución de problemas
@@ -2381,8 +2293,6 @@ La actividad permite que el alumnado comprenda la complejidad del tema y aprenda
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Exposición oral, Resolución de problemas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -2442,8 +2352,6 @@ En una segunda vuelta, cada estudiante revisa o mejora una parte del texto: voca
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Participación en clase, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa
@@ -2495,8 +2403,6 @@ Tema: **¿Qué necesitan las semillas para germinar?**
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de trabajo cooperativo
 
@@ -2553,8 +2459,6 @@ Al acabar la exposición, el equipo de preguntas plantea cuestiones sobre causas
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Participación en clase, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -2617,8 +2521,6 @@ Antes de la clase, el profesor revisa las respuestas y detecta que muchos alumno
 
 - *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Juego de rol, Vídeo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -2664,8 +2566,6 @@ Después, se forman parejas y construyen un texto común con las ideas de ambos,
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -2716,8 +2616,6 @@ Cuando termina el tiempo, el profesor dice un número al azar, por ejemplo el 3.
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Participación en clase, Resolución de problemas, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Resolución de problemas
@@ -2759,8 +2657,6 @@ Cada pareja comenta las preguntas durante unos minutos y anota dos ideas consens
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Participación en clase, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -2811,8 +2707,6 @@ En la siguiente ronda, con la cita de las seis, responden otra pregunta: “¿Qu
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad diagnóstica, Resolución de problemas
@@ -2852,8 +2746,6 @@ En biología, antes de explicar la selección natural, el profesor pregunta: **�
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Exposición oral, Participación en clase, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad diagnóstica, Evaluación inclusiva y DUA, Resolución de problemas, Finalidad sumativa
@@ -2886,8 +2778,6 @@ Al terminar, el profesor recoge al azar el cuaderno de un alumno de cada grupo. 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Pruebas específicas, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Práctica de laboratorio, Resolución de problemas, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -2925,8 +2815,6 @@ En física, una viñeta muestra tres alumnos hablando sobre una pelota que cae. 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Vídeo
 
 - *Dimensiones:* Finalidad diagnóstica, Indagación, Resolución de problemas
 
@@ -2966,8 +2854,6 @@ En biología, el profesor muestra la frase: “Cada vez hay más bacterias resis
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Juego de rol
 
 - *Dimensiones:* Finalidad diagnóstica, Indagación
 
@@ -3054,8 +2940,6 @@ Los alumnos de la ESO están estudiando la economía y tienen que trabajar con e
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de producciones
 
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Juego de rol, Trabajo cooperativo
-
 - *Dimensiones:* Estudio de casos, Enfoque competencial, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
@@ -3095,8 +2979,6 @@ En digitalización, los alumnos diseñan una solución para mejorar la organizac
 
 - *Técnicas de evaluación:* Entrevista evaluativa, Observación sistemática, Intercambios orales, Pruebas específicas
 
-- *Evidencias observables:* Entrevista, Exposición oral, Resolución de problemas, Prototipo, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -3134,8 +3016,6 @@ Primero, el equipo intenta resolver las dudas de sus miembros. Las que no pueden
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática
-
-- *Evidencias observables:* Resolución de problemas, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -3175,8 +3055,6 @@ Al final, el equipo compara los procedimientos utilizados y revisa los errores. 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis de producciones
-
-- *Evidencias observables:* Resolución de problemas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -3223,8 +3101,6 @@ Así, con esta técnica, todos los estudiantes habrían tenido la oportunidad de
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Revisión por pares, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
@@ -3276,8 +3152,6 @@ El alumno responsable de la primera cuestión la lee y coordina las intervencion
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Participación en clase, Resolución de problemas, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -3306,8 +3180,6 @@ Cada grupo busca información, selecciona evidencias y prepara una explicación 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis de producciones
-
-- *Evidencias observables:* Resolución de problemas, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -3362,8 +3234,6 @@ Con esta matriz, se pueden comparar las diferentes soluciones y valorar cuáles 
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones
 
-- *Evidencias observables:* Resolución de problemas
-
 - *Dimensiones:* Resolución de problemas
 
 ---
@@ -3396,8 +3266,6 @@ Después, el equipo comparte las ideas y solo escribe en el centro aquellas en l
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Participación en clase, Resolución de problemas, Taller, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -3441,8 +3309,6 @@ Finalmente, el profesor elige al azar un miembro de cada grupo para que explique
 
 - *Técnicas de evaluación:* Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Resolución de problemas, Juego de rol, Situación-problema, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
@@ -3482,8 +3348,6 @@ El día del torneo, los alumnos compiten en mesas con compañeros de nivel parec
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Pruebas específicas, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -3525,8 +3389,6 @@ En una sesión de matemáticas de 20 minutos, el profesor mezcla ecuaciones, sis
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Resolución de problemas, Juego de rol
-
 - *Dimensiones:* Enfoque competencial, Resolución de problemas
 
 ---
@@ -3564,8 +3426,6 @@ En física, antes de resolver problemas de cinemática, el profesor muestra un e
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones, Pruebas específicas
-
-- *Evidencias observables:* Resolución de problemas
 
 - *Dimensiones:* Resolución de problemas
 
@@ -3614,8 +3474,6 @@ Imaginad que los estudiantes de la ESO están estudiando la historia y el profes
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Escape room o reto gamificado, Exposición oral, Participación en clase, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada
@@ -3655,8 +3513,6 @@ En biología, los alumnos investigan por qué algunas semillas germinan mejor qu
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Juego de rol
 
 - *Dimensiones:* Indagación, Resolución de problemas
 
@@ -3699,8 +3555,6 @@ Imaginad que los estudiantes de la ESO están estudiando el medio ambiente y el 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Entrevista evaluativa, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Entrevista, Exposición oral, Resolución de problemas, Juego de rol, Trabajo cooperativo, Trabajo individual en aula
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -3767,8 +3621,6 @@ Aquí se puede consultar un desarrollo más detallado de este proyecto.
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Maqueta, Resolución de problemas, Resumen, Juego de rol, Trabajo cooperativo, Vídeo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas, Trabajo por proyectos
@@ -3825,8 +3677,6 @@ Ejemplo de aplicación de ABR para resolver este problema:
 
 - *Técnicas de evaluación:* Entrevista evaluativa, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Entrada de blog, Entrevista, Exposición oral, Lluvia de ideas, Resolución de problemas, Juego de rol, Trabajo cooperativo, Vídeo
-
 - *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas
@@ -3861,8 +3711,6 @@ Después de la visita, los estudiantes pueden reflexionar sobre sus observacione
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Póster académico
 
 - *Dimensiones:* Evaluación inclusiva y DUA
 
@@ -3904,8 +3752,6 @@ Fuentes:
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Participación en clase, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
@@ -3941,8 +3787,6 @@ El producto final combina una narración breve, imágenes, esquemas sencillos, m
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Entrevista evaluativa, Intercambios orales, Análisis de producciones
-
-- *Evidencias observables:* Entrevista, Esquema, Exposición oral, Juego de rol, Vídeo
 
 - *Dimensiones:* Trabajo por proyectos
 
@@ -3980,8 +3824,6 @@ En biología, una estación contiene observación de muestras, otra análisis de
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Esquema, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -4024,8 +3866,6 @@ Cada equipo empieza en un cartel y escribe sus ideas durante tres minutos. Despu
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Lluvia de ideas, Trabajo cooperativo
-
 - *Dimensiones:* Resolución de problemas, Trabajo por proyectos
 
 ---
@@ -4056,8 +3896,6 @@ Por ejemplo, imaginad que se quiere realizar una actividad sobre el uso de los p
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de producciones
-
-- *Evidencias observables:* Exposición oral, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -4104,8 +3942,6 @@ Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Finalidad sumativa
@@ -4145,8 +3981,6 @@ La pareja continúa hasta que agota sus ideas. Después, algunas respuestas se r
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Lluvia de ideas, Participación en clase, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -4190,8 +4024,6 @@ La ronda continúa hasta reunir varias propuestas. Después, el equipo seleccion
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Lluvia de ideas, Participación en clase, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
@@ -4231,8 +4063,6 @@ En una unidad sobre sostenibilidad, cada mesa aborda una pregunta: consumo de ag
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Participación en clase, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad sumativa
@@ -4271,8 +4101,6 @@ A partir del centro de interés “la alimentación”, el alumnado observa háb
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones
-
-- *Evidencias observables:* Debate, Exposición oral, Juego de rol
 
 - *Dimensiones:* Indagación, Resolución de problemas
 
@@ -4326,8 +4154,6 @@ A partir de esas preguntas, cada grupo revisa su explicación y redacta un infor
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Práctica de laboratorio, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas
@@ -4367,8 +4193,6 @@ Para resolver problemas de geometría, el profesor resuelve uno pensando en voz 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Resolución de problemas
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
 
@@ -4461,8 +4285,6 @@ También podemos utilizar una estructura más simple para el mismo problema:
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Práctica de laboratorio, Resolución de problemas, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Enfoque competencial, Finalidad diagnóstica, Indagación, Resolución de problemas, Trabajo por proyectos
@@ -4513,8 +4335,6 @@ Al final, analizan los datos, comparan los resultados con la hipótesis inicial 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Práctica de laboratorio, Resolución de problemas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -4575,8 +4395,6 @@ El profesor ha dividido a los estudiantes en grupos de 3 y ha asignado a cada gr
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Enfoque competencial, Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Trabajo por proyectos
@@ -4628,8 +4446,6 @@ En la asignatura de Tecnología, se plantea el reto de diseñar un sistema de ri
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Exposición oral, Plan de trabajo, Resolución de problemas, Prototipo, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -4687,8 +4503,6 @@ Otras fuentes consultadas: Jimenez Pierre,O.et al. (2007). Modelo de aprendizaje
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Maqueta, Resolución de problemas, Juego de rol
-
 - *Dimensiones:* Indagación, Resolución de problemas
 
 ---
@@ -4737,8 +4551,6 @@ Adaptado de Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar pa
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones
 
-- *Evidencias observables:* Esquema, Exposición oral, Mapa conceptual, Participación en clase, Resolución de problemas, Resumen, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación gamificada, Resolución de problemas
@@ -4765,8 +4577,6 @@ Imaginaremos que el grupo está estudiando la Segunda Guerra Mundial. Los partic
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Resolución de problemas, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -4808,8 +4618,6 @@ Después de entrevistarse mutuamente, cada alumno escribe una frase sobre su com
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Entrevista evaluativa, Análisis de producciones
-
-- *Evidencias observables:* Entrevista, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -4859,8 +4667,6 @@ El docente modera para que nadie monopolice la conversación y anota las propues
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Exposición oral, Participación en clase, Resolución de problemas, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -4915,8 +4721,6 @@ Después, el segundo alumno lee el siguiente párrafo y el tercero lo resume. El
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones, Pruebas específicas
 
-- *Evidencias observables:* Exposición oral, Póster académico, Resumen, Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 ---
@@ -4951,8 +4755,6 @@ Al finalizar, el grupo comenta si se ha mantenido el ritmo, si las pausas han ay
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones
-
-- *Evidencias observables:* Exposición oral, Póster académico, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -4996,8 +4798,6 @@ En cada equipo, un alumno prepara la parte sobre neuronas, otro la del sistema n
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones
-
-- *Evidencias observables:* Esquema, Exposición oral, Mapa conceptual, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -5102,8 +4902,6 @@ Creación de un huerto comunitario en un barrio con pocos espacios verdes y alta
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Participación en clase, Resolución de problemas, Juego de rol, Taller, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Trabajo por proyectos
@@ -5141,8 +4939,6 @@ En matemáticas, para el concepto “función”, el alumnado escribe una defini
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral
-
 ---
 
 
@@ -5175,8 +4971,6 @@ En biología, el grupo lee un texto sobre vacunas. Un alumno resume el primer p�
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Resumen, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -5220,8 +5014,6 @@ Tras tres rondas, el resumen vuelve a su autor. Cada alumno dedica 3 minutos a r
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Resumen, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -5303,8 +5095,6 @@ Tras estudiar la Segunda República, el alumnado dedica 3 minutos a escribir una
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones
 
-- *Evidencias observables:* Exposición oral, Resumen
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
@@ -5352,8 +5142,6 @@ Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para a
 
 - *Técnicas de evaluación:* Observación sistemática, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Resumen, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa
@@ -5392,8 +5180,6 @@ En un proyecto de investigación, cada alumno acuerda con el profesor la pregunt
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Contrato de aprendizaje
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -5435,8 +5221,6 @@ Después de una exposición oral, cada alumno valora claridad, dominio del conte
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Participación en clase, Revisión por pares
 
 - *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
@@ -5564,8 +5348,6 @@ Después, cada equipo plantea una pregunta. El profesor detecta que varias dudas
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Participación en clase, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
@@ -5607,8 +5389,6 @@ En matemáticas, el profesor plantea una pregunta sobre probabilidad condicionad
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Juego de rol
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
@@ -5648,8 +5428,6 @@ En cada evidencia, el alumno explica por qué la ha incluido, qué dificultad mu
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Porfolio, Portfolio digital, Reseña, Juego de rol, Vídeo
 
 - *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
 
@@ -5691,8 +5469,6 @@ Después cambian los roles, intercambian las tarjetas y buscan una nueva pareja.
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Juego de rol
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada
@@ -5723,8 +5499,6 @@ Fuente:  Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones
-
-- *Evidencias observables:* Revisión por pares, Trabajo cooperativo
 
 - *Instrumentos:* Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
@@ -5767,8 +5541,6 @@ Al final, cada alumno realiza una prueba individual con un mapa nuevo. El equipo
 
 - *Técnicas de evaluación:* Observación sistemática, Pruebas específicas
 
-- *Evidencias observables:* Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
@@ -5807,8 +5579,6 @@ Un alumno puede responder: “He entendido que las fábricas cambiaron la organi
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Billete de salida, Debate
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -5862,8 +5632,6 @@ El revisor señala una idea clara del texto, una parte que no se entiende bien y
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Borrador, Exposición oral, Práctica de laboratorio, Porfolio, Revisión por pares, Juego de rol, Trabajo cooperativo
-
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Trabajo por proyectos, Finalidad sumativa
@@ -5899,8 +5667,6 @@ Tras una exposición oral sobre un problema ambiental, un compañero escribe: �
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Dos estrellas y un deseo, Borrador, Exposición oral, Revisión por pares, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
@@ -5984,8 +5750,6 @@ En matemáticas, cada viernes se dedican 10 minutos a una hoja breve con conteni
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Póster académico
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa
@@ -6066,8 +5830,6 @@ Para escribir un texto argumentativo, la guía incluye preguntas como: “¿Cuá
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
@@ -6126,8 +5888,6 @@ Adaptado de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos d
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Esquema, Exposición oral, Participación en clase, Revisión por pares, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
@@ -6198,8 +5958,6 @@ He hecho todos los deberes que nos han dado y he revisado los conceptos de la un
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Diario de aprendizaje, Trabajo cooperativo, Vídeo
-
 - *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
 
 - *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Resolución de problemas
@@ -6238,8 +5996,6 @@ En filosofía o biología, el grupo analiza un texto sobre bioética. Los alumno
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Exposición oral, Juego de rol, Seminario socrático
 
 - *Dimensiones:* Resolución de problemas
 
@@ -6298,8 +6054,6 @@ La técnica ayuda a que el alumnado no solo defienda una postura, sino que recon
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Exposición oral
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -6337,8 +6091,6 @@ En ciudadanía, el alumnado construye un mapa sobre la pregunta: “¿Debe limit
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate, Exposición oral
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -6375,8 +6127,6 @@ En biología y ciudadanía, la clase debate si debe limitarse la venta de bebida
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Exposición oral, Trabajo cooperativo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
@@ -6418,8 +6168,6 @@ En una actividad de comprensión lectora, el profesor lee un párrafo y dice: �
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral
-
 - *Dimensiones:* Evaluación inclusiva y DUA
 
 ---
@@ -6459,8 +6207,6 @@ En ciencias sociales, el grupo central debate si una ciudad debería limitar el 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Exposición oral, Participación en clase, Revisión por pares
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación
 
@@ -6502,8 +6248,6 @@ Los pósteres se colocan en las paredes del aula. Los grupos rotan por la clase 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Póster académico, Revisión por pares
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación
 
@@ -6565,8 +6309,6 @@ Cada grupo representa visualmente el problema, las posibles acciones, las person
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Esquema, Exposición oral, Juego de rol
-
 - *Dimensiones:* Resolución de problemas
 
 ---
@@ -6616,8 +6358,6 @@ La actividad no se basa en competir por puntos, sino en usar la estructura de ju
 
 - *Técnicas de evaluación:* Entrevista evaluativa, Observación sistemática, Intercambios orales, Análisis de producciones
 
-- *Evidencias observables:* Entrevista, Escape room o reto gamificado, Exposición oral, Participación en clase, Resolución de problemas, Trabajo cooperativo, Vídeo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada, Evaluación inclusiva y DUA, Resolución de problemas
@@ -6662,8 +6402,6 @@ El profesor no busca una única interpretación correcta, sino que ayuda a que e
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Debate, Exposición oral, Participación en clase, Juego de rol, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -6711,8 +6449,6 @@ Antes de diseñar una unidad sobre ecosistemas, el profesor define que el alumna
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Debate
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
@@ -6756,8 +6492,6 @@ Memorizar una fórmula puede tener un nivel bajo de DOK, mientras que elegir qu�
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Juego de rol
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -6888,8 +6622,6 @@ En lugar de responder solo preguntas sobre nutrición, el alumnado diseña una p
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Resolución de problemas
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -6928,8 +6660,6 @@ En una actividad de escritura, el profesor comparte criterios claros, revisa bor
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Borrador
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -6980,8 +6710,6 @@ El profesor selecciona datos cercanos al alumnado para que los conceptos estadí
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral
-
 - *Dimensiones:* Indagación
 
 ---
@@ -7023,8 +6751,6 @@ Escribir un texto en un procesador puede ser sustitución; colaborar en un docum
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones
-
-- *Evidencias observables:* Exposición oral
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -7069,8 +6795,6 @@ En una tarea de investigación, el alumnado puede consultar textos, vídeos o es
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de producciones
 
-- *Evidencias observables:* Esquema, Exposición oral, Infografía, Participación en clase, Trabajo cooperativo, Vídeo
-
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Indagación
@@ -7114,8 +6838,6 @@ En un proyecto sobre sostenibilidad, el alumnado analiza datos, diseña propuest
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
-
-- *Evidencias observables:* Exposición oral, Trabajo cooperativo
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -7169,8 +6891,6 @@ Antes de exponer, cada grupo revisa su presentación con la rúbrica y detecta q
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Exposición oral, Participación en clase, Revisión por pares, Trabajo cooperativo
-
 - *Instrumentos:* Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
 - *Dimensiones:* Autoevaluación, Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
@@ -7211,8 +6931,6 @@ En un proyecto de investigación, cada equipo revisa durante 5 minutos tres háb
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Evidencias observables:* Trabajo cooperativo
-
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Indagación, Resolución de problemas, Trabajo por proyectos
@@ -7252,8 +6970,6 @@ En física, los primeros problemas de movimiento se presentan con los datos ya i
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones
-
-- *Evidencias observables:* Esquema, Póster académico
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
 

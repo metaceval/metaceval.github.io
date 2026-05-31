@@ -2,6 +2,17 @@
 
 Aplicación web estática para explorar técnicas y metodologías activas junto con su capa de evaluación: técnicas de evaluación, evidencias observables, instrumentos y dimensiones.
 
+## Funcionalidades principales
+
+- Exploración de técnicas y metodologías activas por bloques y ámbitos.
+- Vista de evaluación con técnicas de evaluación, evidencias, instrumentos y dimensiones.
+- Mapas de relaciones para técnicas, evaluación y mapa unificado.
+- Filtros globales en evaluación por modalidad, lugar, agrupamiento y resistencia IA.
+- Control para mostrar u ocultar relaciones ocasionales en los mapas de evaluación.
+- Control para mostrar u ocultar categorías del grafo de evaluación.
+- Exportación de fichas a Markdown en técnicas activas y evaluación.
+- Favoritos, categorías, selección múltiple y enlaces compartibles por URL.
+
 ## Ejecutar en local
 
 ```bash
@@ -36,14 +47,14 @@ data/
 
 ## Responsabilidad de cada módulo
 
-- `src/data.js`: configuración, estado global, carga de datos, utilidades compartidas, taxonomías y almacenamiento local.
+- `src/data.js`: configuración, estado global, carga de datos, utilidades compartidas, exportación, taxonomías y almacenamiento local.
 - `src/i18n.js`: diccionarios, `i()`, `toast()` y `applyI18N()`.
 - `src/shell.js`: banner compartido, cambio de idioma y gestión de tema.
 - `src/ui-tecnicas.js`: home, navegación principal, filtros, tarjetas y modal de técnicas.
-- `src/evaluacion.js`: vista de evaluación, tarjetas, split view y modal de entidades de evaluación.
+- `src/evaluacion.js`: vista de evaluación, tarjetas, split view, filtros globales y modal de entidades de evaluación.
 - `src/favoritos.js`: favoritos, categorías y panel lateral.
 - `src/metac-map.js`: mapa de técnicas/metodologías.
-- `src/eval-map.js`: mapa de evaluación.
+- `src/eval-map.js`: mapa de evaluación, relaciones ocasionales y visibilidad por categorías.
 - `src/unified-map.js`: mapa unificado entre técnicas y evaluación.
 - `src/init.js`: arranque, lectura de URL y cableado de eventos.
 - `src/analytics.js`: telemetría no bloqueante.
@@ -72,3 +83,9 @@ Los siguientes pasos deberían mantener este criterio:
 - no cambiar comportamiento visible salvo que el objetivo sea funcional;
 - mover primero por dominios, no por tamaño;
 - reducir dependencias cruzadas antes de portar nuevas funciones desde `evalmap`.
+
+## Notas de uso
+
+- La aplicación sigue siendo estática y sin dependencias externas de frontend.
+- Los scripts comparten estado global, así que el orden de carga en `index.html` sigue siendo parte del contrato técnico.
+- La exportación Markdown descarga ficheros `.md` directamente desde el modal compartido.

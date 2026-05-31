@@ -1,5 +1,7 @@
 // ─── RENDER: EVAL VIEW ───────────────────────────────────────────────────────
 
+const dismissedEvalDescs = new Set();
+
 function syncEvalViewMode() {
   const cardsBtn = document.getElementById('evalViewModeCards');
   const mapBtn   = document.getElementById('evalViewModeMap');
@@ -142,9 +144,16 @@ function getEvalCategoryDescription(cat, isEvalShared = false) {
 function buildEvalCategoryDescription(cat, isEvalShared = false) {
   const descText = getEvalCategoryDescription(cat, isEvalShared);
   if (!descText) return null;
+  if (dismissedEvalDescs.has(cat.id)) return null;
   const descEl = document.createElement('div');
   descEl.className = 'eval-cat-desc';
   descEl.innerHTML = descText;
+  const closeBtn = document.createElement('button');
+  closeBtn.className = 'eval-cat-desc-close';
+  closeBtn.title = 'Cerrar';
+  closeBtn.textContent = '✕';
+  closeBtn.onclick = () => { dismissedEvalDescs.add(cat.id); descEl.remove(); };
+  descEl.appendChild(closeBtn);
   return descEl;
 }
 
@@ -282,10 +291,10 @@ function renderEvalCards() {
   bar.querySelector('#evalPerPageSelect').onchange = e => {
     S.evalPerPage = Number(e.target.value); S.evalPage = 0; renderEvalCards();
   };
-  main.appendChild(bar);
   const descEl = buildEvalCategoryDescription(cat, isEvalShared);
   if (descEl) main.appendChild(descEl);
   main.appendChild(buildEvalFilterBar(false));
+  main.appendChild(bar);
 
   if (!total) {
     const empty = document.createElement('div');

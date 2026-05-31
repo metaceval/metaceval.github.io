@@ -4653,6 +4653,7 @@ function toggleEvalMapMode() {
     mainEl.style.display  = 'none';
     splitEl.style.display = 'flex';
     if (selectBtn) selectBtn.style.display = 'none';
+    EGRAPH.navHistory = []; EGRAPH.navPos = -1; evalNavUpdateBtns();
     renderEvalList();
   } else {
     evalGraphStop();
@@ -4680,6 +4681,7 @@ function renderEvalTabs() {
       document.getElementById('searchInput').value = '';
       updateSearchUI();
       // Reset panel and graph BEFORE rendering so showEvalDetail can re-show them
+      EGRAPH.navHistory = []; EGRAPH.navPos = -1; evalNavUpdateBtns();
       const panel = document.getElementById('evalNodePanel');
       if (panel) panel.classList.remove('visible');
       evalGraphStop();
@@ -4863,7 +4865,6 @@ function renderEvalCards() {
 // ─── EVAL SPLIT VIEW FUNCTIONS ───────────────────────────────────────────────
 
 function renderEvalList() {
-  EGRAPH.navHistory = []; EGRAPH.navPos = -1; evalNavUpdateBtns();
   const panel = document.getElementById('evalListPanel');
   if (!panel) return;
   const cat = EVAL_CATS.find(c => c.id === S.evalCat);

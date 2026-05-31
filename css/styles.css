@@ -1861,7 +1861,7 @@
     .view-btn:not(.active):hover { color: var(--text); }
 
     /* ── Eval nav tabs (evaluation view) ───────────────────── */
-    .eval-nav { background: var(--bg); border-bottom: 0; padding: 8px 0 4px; overflow-x: visible; scrollbar-width: none; display: flex; align-items: center; flex-wrap: wrap; }
+    .eval-nav { background: var(--bg); border-bottom: 0; padding: 0; overflow-x: visible; scrollbar-width: none; display: flex; align-items: center; flex-wrap: wrap; align-content: flex-start; }
     .eval-nav::-webkit-scrollbar { display: none; }
     .eval-nav-inner { width: min(calc(100% - 40px), 1360px); margin: 0 auto; display: flex; gap: 4px; padding: 6px 10px; align-items: center; background: #eef2ff; border: 1px solid #c7d2fe; border-radius: var(--radius-sm); flex-wrap: wrap; }
     [data-theme="dark"] .eval-nav-inner { background: #1e1b4b; border-color: #3730a3; }

@@ -22,6 +22,31 @@ function applyViewParam(u) {
   const vp = getViewParam();
   if (vp) u.searchParams.set('view', vp);
   else u.searchParams.delete('view');
+
+  if (S.view === 'tecnicas' && S.block) u.searchParams.set('block', S.block);
+  else u.searchParams.delete('block');
+  if (S.view === 'tecnicas' && S.field) u.searchParams.set('field', S.field);
+  else u.searchParams.delete('field');
+
+  const openModalId = S.modal || S.evalModal;
+  if (openModalId) u.searchParams.set('modal', openModalId);
+  else u.searchParams.delete('modal');
+
+  if (S.mapMode && typeof MAP !== 'undefined' && MAP.selected >= 0 && MAP.nodes?.[MAP.selected]) {
+    u.searchParams.set('node', MAP.nodes[MAP.selected].id);
+  } else {
+    u.searchParams.delete('node');
+  }
+
+  if (S.evalSelected) u.searchParams.set('item', S.evalSelected);
+  else u.searchParams.delete('item');
+}
+
+function updateURL() {
+  if (S._popping) return;
+  const u = new URL(location.href);
+  applyViewParam(u);
+  history.replaceState(history.state || getNavState(), '', u);
 }
 
 function navPush() {
@@ -95,6 +120,7 @@ function renderBlockTabs() {
       renderBlockTabs();
       renderTabs();
       renderCards();
+      updateURL();
     };
     wrap.appendChild(b);
   };
@@ -111,7 +137,7 @@ function renderTabs() {
     b.textContent = label;
     b.title = hint;
     b.setAttribute('aria-label', hint);
-    b.onclick = () => { S.field = S.field === val ? null : val; S.page = 0; renderTabs(); renderCards(); };
+    b.onclick = () => { S.field = S.field === val ? null : val; S.page = 0; renderTabs(); renderCards(); updateURL(); };
     wrap.appendChild(b);
   };
   mkTab(i('allFields'), null, i('allFieldsHint'));
@@ -452,6 +478,7 @@ function openModal(itemId) {
 
   S.evalModal = null;
   openSharedModal();
+  updateURL();
 }
 
 function printModal() {
@@ -547,6 +574,7 @@ function closeModal() {
   S.modal = null;
   S.evalModal = null;
   S.modalHistory = [];
+  updateURL();
 }
 
 // ─── COLLAPSIBLE LIST HELPERS ────────────────────────────────────────────────

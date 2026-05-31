@@ -867,6 +867,7 @@ function mapSelectNode(idx) {
     MAP.selected     = -1;
     MAP.selNeighbors = new Map();
     mapHidePanel();
+    updateURL();
     return;
   }
   if (MAP.selected < 0) MAP._prevColorMode = S.mapColorMode;
@@ -921,6 +922,7 @@ function mapSelectNode(idx) {
   MAP.camTarget = { x: nd.x, y: nd.y, scale: Math.max(MAP.camera.scale, 0.9) };
   mapShowPanel(idx);
   updateMapLegend();
+  updateURL();
 }
 
 function mapShowPanel(idx) {

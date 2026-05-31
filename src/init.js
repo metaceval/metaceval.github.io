@@ -29,7 +29,12 @@ async function init() {
   if (t) S.shared = uniqueIds(t.split(','));
   const tname = p.get('tname');
   if (tname) S.sharedName = tname;
-  const viewParam = p.get('view');
+  const viewParam  = p.get('view');
+  const blockParam = p.get('block');
+  const fieldParam = p.get('field');
+  const modalParam = p.get('modal');
+  const nodeParam  = p.get('node');
+  const itemParam  = p.get('item');
 
   applyI18N();
   updateSharedBanner();
@@ -90,12 +95,25 @@ async function init() {
       S.evalCat = vp.evalCat;
       try { await loadEvalLang(S.lang); } catch {}
       S.evalMapMode = vp.mapMode;
+      if (itemParam && evalEntityById(itemParam)) S.evalSelected = itemParam;
       switchView('evaluacion');
+      if (itemParam && evalEntityById(itemParam)) showEvalDetail(itemParam);
+      else if (modalParam) openEvalModal(modalParam);
     } else {
+      if (blockParam) S.block = blockParam;
+      if (fieldParam) S.field = fieldParam;
       renderBlockTabs(); renderTabs();
       S.mapMode = false;
       renderCards();
-      if (vp.mapMode) toggleMapView();
+      if (vp.mapMode) {
+        toggleMapView();
+        if (nodeParam) {
+          const nIdx = MAP.nodes.findIndex(n => n.id === nodeParam);
+          if (nIdx >= 0) mapSelectNode(nIdx);
+        }
+      } else if (modalParam) {
+        openModal(modalParam);
+      }
       loadEvalLang(S.lang).catch(() => {});
     }
   } else if (S._hasSessionView && S.view === 'evaluacion') {

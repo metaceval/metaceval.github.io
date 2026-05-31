@@ -486,6 +486,7 @@ function showEvalDetail(evalId) {
   }
 
   S.evalSelected = evalId;
+  updateURL();
   const selPrefix = evalEntityPrefix(evalId).toLowerCase();
   const selCatCls = selPrefix === 'tec' ? 'cat-tec' : selPrefix === 'ins' ? 'cat-ins' : selPrefix === 'her' ? 'cat-her' : selPrefix === 'dim' ? 'cat-dim' : '';
   let selectedEl = null;
@@ -1040,6 +1041,7 @@ function openEvalModal(evalId) {
   }
 
   openSharedModal();
+  updateURL();
 }
 
 function buildEvalMarkdown(entity) {

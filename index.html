@@ -2252,10 +2252,10 @@
               <span id="homeEvalCatIns">Evidencias observables</span>
             </span>
             <span class="home-eval-cat-sep"></span>
-            <button class="home-eval-cat-cards" data-eval-cat="instrumentos" title="Fichas">
+            <button class="home-eval-cat-cards" data-eval-cat="evidencias" title="Fichas">
               <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
             </button>
-            <button class="home-eval-cat-map" data-eval-cat="instrumentos" title="Mapa de relaciones">
+            <button class="home-eval-cat-map" data-eval-cat="evidencias" title="Mapa de relaciones">
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
             </button>
           </div>
@@ -2264,10 +2264,10 @@
               <span id="homeEvalCatHer">Instrumentos</span>
             </span>
             <span class="home-eval-cat-sep"></span>
-            <button class="home-eval-cat-cards" data-eval-cat="herramientas" title="Fichas">
+            <button class="home-eval-cat-cards" data-eval-cat="instrumentos" title="Fichas">
               <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
             </button>
-            <button class="home-eval-cat-map" data-eval-cat="herramientas" title="Mapa de relaciones">
+            <button class="home-eval-cat-map" data-eval-cat="instrumentos" title="Mapa de relaciones">
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
             </button>
           </div>
@@ -2596,15 +2596,15 @@ const LOCAL_JSON = {
 
 const LOCAL_EVAL_JSON = {
   tecnicas:    lang => `data/${lang}/tecnicas.json`,
+  evidencias:lang => `data/${lang}/evidencias.json`,
   instrumentos:lang => `data/${lang}/instrumentos.json`,
-  herramientas:lang => `data/${lang}/herramientas.json`,
   dimensiones: lang => `data/${lang}/dimensiones.json`,
 };
 
 const EVAL_CATS = [
   { id: 'tecnicas',     prefix: 'TEC', cls: 'tec', i18n: 'evalCatTec' },
-  { id: 'instrumentos', prefix: 'INS', cls: 'ins', i18n: 'evalCatIns' },
-  { id: 'herramientas', prefix: 'HER', cls: 'her', i18n: 'evalCatHer' },
+  { id: 'evidencias', prefix: 'INS', cls: 'ins', i18n: 'evalCatIns' },
+  { id: 'instrumentos', prefix: 'HER', cls: 'her', i18n: 'evalCatHer' },
   { id: 'dimensiones',  prefix: 'DIM', cls: 'dim', i18n: 'evalCatDim' },
 ];
 
@@ -3349,7 +3349,7 @@ const S = {
   mapColorMode:     localStorage.getItem('metac_map_color_v1') || 'depth',
   mapLegendVisible: localStorage.getItem('metac_map_legend_v1') !== 'hidden',
   view:             'tecnicas',   // 'tecnicas' | 'evaluacion'
-  evalCat:          'instrumentos',
+  evalCat:          'evidencias',
   evalModal:        null,         // currently open eval entity ID
   evalSelected:     null,         // selected entity in split view
   evalMapMode:      false,        // true = split+graph, false = cards grid
@@ -4856,7 +4856,7 @@ function showEvalDetail(evalId) {
   EGRAPH.canvas   = canvas;
   EGRAPH.expanded = false;
   const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(evalId));
-  const catId = cat?.id || 'instrumentos';
+  const catId = cat?.id || 'evidencias';
   evalGraphBuild(entity, catId);
   requestAnimationFrame(() => requestAnimationFrame(() => {
     evalGraphResizeCanvas();
@@ -4987,7 +4987,7 @@ function initEvalSplitEvents() {
     if (S.evalSelected) {
       const entity = evalEntityById(S.evalSelected);
       const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(S.evalSelected));
-      if (entity) evalGraphBuild(entity, cat?.id || 'instrumentos');
+      if (entity) evalGraphBuild(entity, cat?.id || 'evidencias');
     }
   };
 
@@ -5004,7 +5004,7 @@ function initEvalSplitEvents() {
     if (S.evalSelected) {
       const entity = evalEntityById(S.evalSelected);
       const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(S.evalSelected));
-      if (entity) { openEvalMap(entity, cat?.id || 'instrumentos'); }
+      if (entity) { openEvalMap(entity, cat?.id || 'evidencias'); }
     }
   };
 
@@ -5279,7 +5279,7 @@ function openEvalModal(evalId) {
     document.getElementById('modalBody').after(extraEl);
   }
 
-  // Internal eval relationships (técnicas↔instrumentos↔herramientas↔dimensiones)
+  // Internal eval relationships (técnicas↔evidencias↔instrumentos↔dimensiones)
   const existingInner = document.getElementById('modalEvalInner');
   if (existingInner) existingInner.remove();
   const byId = EV.byId[S.lang];
@@ -7529,12 +7529,12 @@ const EGPAL = {
 // Relation definitions (field names in metaceval JSON schema)
 const EVAL_RELATIONS = {
   tecnicas:     { left: null,
-                  right: { cat: 'instrumentos', field: 'related_instruments', metaKey: 'rel_ins' } },
+                  right: { cat: 'evidencias',   field: 'related_instruments', metaKey: 'rel_ins' } },
   dimensiones:  { left: null,
-                  right: { cat: 'instrumentos', field: 'related_instruments', metaKey: 'rel_ins' } },
-  instrumentos: { left:  { cat: 'tecnicas',     field: 'related_tecnicas',    metaKey: 'rel_tec' },
-                  right: { cat: 'herramientas', field: 'related_tools',       metaKey: 'rel_her' } },
-  herramientas: { left:  { cat: 'instrumentos', field: 'related_instruments', metaKey: 'rel_ins' },
+                  right: { cat: 'evidencias',   field: 'related_instruments', metaKey: 'rel_ins' } },
+  evidencias:   { left:  { cat: 'tecnicas',     field: 'related_tecnicas',    metaKey: 'rel_tec' },
+                  right: { cat: 'instrumentos', field: 'related_tools',       metaKey: 'rel_her' } },
+  instrumentos: { left:  { cat: 'evidencias',   field: 'related_instruments', metaKey: 'rel_ins' },
                   right: null },
 };
 const EVAL_DIM_REL  = { cat: 'dimensiones', field: 'related_dimensions', metaKey: 'rel_dim' };
@@ -7624,7 +7624,7 @@ function evalGraphBuild(entity, cat) {
 
   const L1 = EG.COLUMN_X, L2 = EG.COLUMN_X * 2.0, L3 = EG.COLUMN_X * 2.7;
 
-  if (cat === 'instrumentos') {
+  if (cat === 'evidencias') {
     addConnected(entity, EVAL_RELATIONS[cat].left,  0, -L1, EG.NODE_R);
     addConnected(entity, EVAL_DIM_REL,              0, -L1, EG.NODE_R);
     const tools = addConnected(entity, EVAL_RELATIONS[cat].right, 0, L1, EG.NODE_R);
@@ -7645,7 +7645,7 @@ function evalGraphBuild(entity, cat) {
         addConnected(ni, EVAL_DIM_REL, idx, L2, EG.NODE_R2);
       });
     }
-  } else { // herramientas
+  } else { // instrumentos
     addConnected(entity, EVAL_DIM_REL, 0, L1, EG.NODE_R);
     const l1 = addConnected(entity, EVAL_RELATIONS[cat].left, 0, -L1, EG.NODE_R);
     l1.forEach(({ idx, entity: ni, cat: nc }) =>
@@ -8191,8 +8191,8 @@ function umapBuild() {
   // ── Add eval entities ──
   const evalMap = [
     { cat: 'tecnicas',    prefix: 'TEC' },
-    { cat: 'instrumentos',prefix: 'INS' },
-    { cat: 'herramientas',prefix: 'HER' },
+    { cat: 'evidencias',prefix: 'INS' },
+    { cat: 'instrumentos',prefix: 'HER' },
     { cat: 'dimensiones', prefix: 'DIM' },
   ];
   evalMap.forEach(({ cat, prefix }) => {
@@ -8223,11 +8223,11 @@ function umapBuild() {
   };
   const ev = EV.data[S.lang] || {};
   addEvalEdges(ev.tecnicas    || [], 'related_instruments', 'INS');
-  addEvalEdges(ev.instrumentos|| [], 'related_tools',       'HER');
-  addEvalEdges(ev.instrumentos|| [], 'related_tecnicas',    'TEC');
+  addEvalEdges(ev.evidencias  || [], 'related_tools',       'HER');
+  addEvalEdges(ev.evidencias  || [], 'related_tecnicas',    'TEC');
+  addEvalEdges(ev.evidencias  || [], 'related_dimensions',  'DIM');
+  addEvalEdges(ev.instrumentos|| [], 'related_instruments', 'INS');
   addEvalEdges(ev.instrumentos|| [], 'related_dimensions',  'DIM');
-  addEvalEdges(ev.herramientas|| [], 'related_instruments', 'INS');
-  addEvalEdges(ev.herramientas|| [], 'related_dimensions',  'DIM');
   addEvalEdges(ev.dimensiones || [], 'related_instruments', 'INS');
 
   // ── metac ↔ eval edges ──

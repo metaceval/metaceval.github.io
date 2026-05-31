@@ -1,0 +1,5049 @@
+[
+  {
+    "id": "INS_TRAB_IND",
+    "entity_type": "instrumento",
+    "name": "Individual classroom work",
+    "type": "Observation",
+    "summary": "Observation of the student working individually on tasks in class.",
+    "desc": "Individual classroom work refers to any task the student performs alone during class time: exercises, readings, responses, problems, etc. The teacher can observe the process (how the student approaches the task) and the product (the completed work).\n\nHow to use it for assessment: combined with an observation guide or anecdotal record, it allows collecting information about pace, autonomy, persistence and problem-solving strategies.\n\nIt is especially useful for formative assessment and for detecting learning difficulties early.",
+    "suitable_for": [
+      "Autonomy",
+      "effort",
+      "pace",
+      "individual progress."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "individual work",
+      "classroom observation",
+      "autonomy"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_OBS_INC"
+    ],
+    "related_tools": [
+      "HER_CUAD_CAL",
+      "HER_ESC_OBS",
+      "HER_HOJA_IND",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_OBS_INC": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal"
+      },
+      "rel_her": {
+        "HER_CUAD_CAL": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_LISTA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_TRAB_COOP",
+    "entity_type": "instrumento",
+    "name": "Cooperative work",
+    "type": "Observation",
+    "summary": "Observation of students working in a structured group with defined roles.",
+    "desc": "Cooperative work involves structured activities in which students work in teams with defined roles, shared goals and individual accountability. The teacher can observe interaction, role-play and contribution to the group product.\n\nHow to use it for assessment: a cooperative work rubric allows evaluating both the process (participation, communication, conflict resolution) and the product. Peer assessment adds a complementary perspective.\n\nIt is important to evaluate individual contributions and not only the group result.",
+    "suitable_for": [
+      "Collaboration",
+      "communication",
+      "shared responsibility."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "cooperative",
+      "group",
+      "collaboration"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_OBS_INC"
+    ],
+    "related_tools": [
+      "HER_DIARIO_PROF",
+      "HER_FICHA_COEV",
+      "HER_RUB_COOP",
+      "HER_CONTR_GRUP",
+      "HER_SOCIO",
+      "HER_GUIA_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_DESEMP",
+      "DIM_PROY",
+      "DIM_HET",
+      "DIM_COMPART"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_OBS_INC": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "principal",
+        "DIM_PROY": "complementaria",
+        "DIM_HET": "complementaria",
+        "DIM_COMPART": "principal"
+      },
+      "rel_her": {
+        "HER_DIARIO_PROF": "principal",
+        "HER_FICHA_COEV": "complementaria",
+        "HER_RUB_COOP": "complementaria",
+        "HER_CONTR_GRUP": "complementaria",
+        "HER_SOCIO": "ocasional",
+        "HER_GUIA_OBS": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PART",
+    "entity_type": "instrumento",
+    "name": "Class participation",
+    "type": "Observation",
+    "summary": "Observation of the quality and frequency of student contributions in class.",
+    "desc": "Class participation refers to the student's contributions during group sessions: questions, responses, interventions, debates and collaborative interactions. It is assessed observationally by the teacher.\n\nHow to use it for assessment: a participation record or observation scale allows noting frequency and quality of contributions. It is important to define criteria clearly (relevance, argumentative quality, respect for turns) and avoid confusing participation with extroversion.\n\nIt is best used as a formative indicator rather than a standalone summative mark.",
+    "suitable_for": [
+      "Engagement",
+      "oral communication",
+      "critical thinking."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "participation",
+      "oral",
+      "classroom"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_OBS_INC"
+    ],
+    "related_tools": [
+      "HER_CUAD_CAL",
+      "HER_DIARIO_PROF",
+      "HER_ESC_OBS",
+      "HER_REG_PART"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_OBS_INC": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_CUAD_CAL": "principal",
+        "HER_DIARIO_PROF": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_REG_PART": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_DEBATE",
+    "entity_type": "instrumento",
+    "name": "Debate",
+    "type": "Oral",
+    "summary": "Structured oral confrontation of opposing positions with evidence and arguments.",
+    "desc": "A debate is a structured oral activity in which two or more students or groups defend opposing positions on a given topic. It requires preparation, use of evidence and respect for speaking turns.\n\nHow to use it for assessment: an oral rubric or observation guide allows evaluating the quality of arguments, use of evidence, clarity, respect for turns and responsiveness to opposing arguments.\n\nIt is important to assess both the preparation process and the oral performance, and to separate the quality of the argument from agreement with the teacher's position.",
+    "suitable_for": [
+      "Argumentation",
+      "critical thinking",
+      "respectful communication."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "debate",
+      "argumentation",
+      "oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_FICHA_COEV"
+    ],
+    "related_dimensions": [
+      "DIM_COEV"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COEV": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_FICHA_COEV": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_COLOQ",
+    "entity_type": "instrumento",
+    "name": "Colloquium",
+    "type": "Oral",
+    "summary": "Open group dialogue to explore and share understanding of a topic.",
+    "desc": "A colloquium is an open group dialogue — less formal than a debate — in which students share interpretations, doubts and reflections on a topic. The teacher facilitates the conversation and can guide it with probing questions.\n\nHow to use it for assessment: an observation guide or participation record allows noting the quality of contributions, conceptual depth and listening skills.\n\nIt is less suitable for individual summative assessment but very valuable as a formative tool to detect misunderstandings.",
+    "suitable_for": [
+      "Collective understanding",
+      "conceptual depth",
+      "shared construction."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "colloquium",
+      "dialogue",
+      "oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_003",
+      "metac_019",
+      "metac_024",
+      "metac_028",
+      "metac_031"
+    ]
+  },
+  {
+    "id": "INS_ASAM",
+    "entity_type": "instrumento",
+    "name": "Assembly",
+    "type": "Oral",
+    "summary": "Participatory group space for sharing, deciding and reflecting collectively.",
+    "desc": "An assembly is a participatory group space in which students share opinions, make decisions and reflect collectively on life in the classroom or learning processes. It is common in primary education but also applicable in secondary.\n\nHow to use it for assessment: through a participation record or observation guide, the teacher can note communicative competencies, democratic values and quality of reflections.\n\nIt has significant formative value but is difficult to use for individual summative assessment.",
+    "suitable_for": [
+      "Democratic participation",
+      "decision-making",
+      "collective reflection."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "assembly",
+      "participation",
+      "collective"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_REG_PART",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_COEV"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_COEV": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_PART": "principal",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_002",
+      "metac_019",
+      "metac_032",
+      "metac_036"
+    ]
+  },
+  {
+    "id": "INS_LAB",
+    "entity_type": "instrumento",
+    "name": "Laboratory practice",
+    "type": "Practical activity",
+    "summary": "Practical activity in which students apply scientific procedures in a laboratory context.",
+    "desc": "Laboratory practice is a hands-on activity in which students apply experimental or scientific procedures: taking measurements, handling materials, recording data and drawing conclusions. The teacher can observe the process and assess the laboratory report.\n\nHow to use it for assessment: an observation guide allows evaluating safety, procedure and technique; a process rubric assesses the quality of the report and conclusions.\n\nIt is important to assess both the practical process and the written output.",
+    "suitable_for": [
+      "Scientific procedure",
+      "data handling",
+      "scientific thinking."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "laboratory",
+      "experiment",
+      "science"
+    ],
+    "modality": "Presencial",
+    "location": "Laboratorio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_DIARIO_PROF",
+      "HER_ESC_OBS",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_DIARIO_PROF": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_TALLER",
+    "entity_type": "instrumento",
+    "name": "Workshop",
+    "type": "Practical activity",
+    "summary": "Practical and collaborative activity focused on creating a product or developing a skill.",
+    "desc": "A workshop is a practical and collaborative learning space focused on creating a product (a craft, a text, a programme) or developing a specific skill. The teacher can observe the process and assess the resulting product.\n\nHow to use it for assessment: a process rubric evaluates the work process; a product rubric evaluates the finished result. A self-assessment sheet helps students reflect on their learning.\n\nIt is particularly suitable for competency-based assessment because it integrates knowledge, skills and attitudes.",
+    "suitable_for": [
+      "Applied skills",
+      "creative process",
+      "hands-on competencies."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "workshop",
+      "practical",
+      "skills"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_RUB_ANA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_RUB_ANA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_SIM",
+    "entity_type": "instrumento",
+    "name": "Simulation",
+    "type": "Performance",
+    "summary": "Recreation of a real or hypothetical situation to apply knowledge and skills.",
+    "desc": "A simulation recreates a real or hypothetical situation in which students must apply knowledge and skills to solve a problem or carry out a task: medical simulations, business negotiations, historical reconstructions, etc.\n\nHow to use it for assessment: an analytic rubric allows evaluating different dimensions of performance (decision-making, communication, use of knowledge). An observation guide records key moments.\n\nIt is demanding to design and assess, but offers high validity for competency-based assessment.",
+    "suitable_for": [
+      "Decision-making",
+      "application in context",
+      "professional skills."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "simulation",
+      "context",
+      "performance"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_RUB_ANA",
+      "HER_REG_DESC"
+    ],
+    "related_dimensions": [
+      "DIM_SIM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_REG_DESC": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ROL",
+    "entity_type": "instrumento",
+    "name": "Role play",
+    "type": "Performance",
+    "summary": "Activity in which students take on specific roles to explore situations or demonstrate competencies.",
+    "desc": "Role play involves students taking on specific roles — historical figures, professionals, fictional characters — to explore situations, practise skills or demonstrate competencies in a simulated context.\n\nHow to use it for assessment: an oral rubric or observation guide allows evaluating quality of interpretation, use of relevant content and communication.\n\nIt is important to clearly define what is being assessed (the content, the performance or both) and to avoid penalising shyness.",
+    "suitable_for": [
+      "Empathy",
+      "oral communication",
+      "situational application."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "role play",
+      "drama",
+      "oral"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_REG_ANE",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_SIM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_DRAMA",
+    "entity_type": "instrumento",
+    "name": "Drama",
+    "type": "Performance",
+    "summary": "Theatrical or expressive performance to communicate, interpret or explore content.",
+    "desc": "Drama involves students creating or staging a theatrical piece to communicate, interpret or explore content. Unlike role play, it typically involves greater preparation, script work and group coordination.\n\nHow to use it for assessment: an oral rubric or performance observation guide allows evaluating expressive quality, understanding of the content and teamwork.\n\nIt is important to separate the quality of the performance from artistic talent and define the criteria clearly beforehand.",
+    "suitable_for": [
+      "Oral and bodily expression",
+      "creativity",
+      "collective work."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "drama",
+      "theatre",
+      "expression"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Exterior",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_SIM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_RUB_ORAL": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_005",
+      "metac_007",
+      "metac_026",
+      "metac_079",
+      "metac_117"
+    ]
+  },
+  {
+    "id": "INS_EXPO",
+    "entity_type": "instrumento",
+    "name": "Oral presentation",
+    "type": "Oral",
+    "summary": "Structured oral exposition of content, project or work before an audience.",
+    "desc": "An oral presentation is a structured activity in which a student or group presents content, a project or a work to an audience. It involves planning, organisation and oral communication.\n\nHow to use it for assessment: an oral rubric allows evaluating clarity of exposition, structure, use of resources and command of the topic. Peer assessment can add a complementary perspective.\n\nIt is important to assess the content and not only the presentation style, and to adapt criteria to the educational level.",
+    "suitable_for": [
+      "Oral communication",
+      "organisation of ideas",
+      "subject mastery."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "oral presentation",
+      "exposition",
+      "communication"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_BANCO_DESC",
+      "HER_CONV",
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_SUM",
+      "DIM_COEV",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_COEV": "complementaria",
+        "DIM_HET": "ocasional"
+      },
+      "rel_her": {
+        "HER_BANCO_DESC": "principal",
+        "HER_CONV": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "ocasional",
+        "HER_RUB_ORAL": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_DEF_PROY",
+    "entity_type": "instrumento",
+    "name": "Project defence",
+    "type": "Oral",
+    "summary": "Oral presentation and defence of a project before a panel or audience.",
+    "desc": "A project defence involves students presenting their project and responding to questions from the teacher or a panel. It combines oral presentation with the ability to justify decisions, respond to objections and demonstrate deep understanding.\n\nHow to use it for assessment: an oral rubric assesses the presentation; an evaluative interview guide assesses responses to questions. It can be individual or group.\n\nIt is one of the most complete forms of assessment but requires clear preparation of criteria and adequate time.",
+    "suitable_for": [
+      "Command of the project",
+      "argumentation",
+      "response to questions."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "project defence",
+      "oral",
+      "presentation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_ENTREV_EVAL"
+    ],
+    "related_tools": [
+      "HER_ACTA",
+      "HER_BANCO_DESC",
+      "HER_CONV",
+      "HER_ESC_OBS",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_PROD": "complementaria",
+        "TEC_ENTREV_EVAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_ACTA": "principal",
+        "HER_BANCO_DESC": "complementaria",
+        "HER_CONV": "complementaria",
+        "HER_ESC_OBS": "ocasional",
+        "HER_RUB_ORAL": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_015",
+      "metac_027",
+      "metac_043"
+    ]
+  },
+  {
+    "id": "INS_ENTREV",
+    "entity_type": "instrumento",
+    "name": "Interview",
+    "type": "Oral",
+    "summary": "Structured or semi-structured dialogue between teacher and student to assess learning.",
+    "desc": "An evaluative interview is a structured or semi-structured conversation between teacher and student to explore understanding, reasoning and learning processes. Unlike questioning in class, it is individual and planned.\n\nHow to use it for assessment: an interview guide with open questions allows evaluating depth of understanding. Responses can be recorded in an anecdotal record.\n\nIt is particularly useful for detecting difficulties, assessing metacognition and providing personalised feedback, but is time-demanding.",
+    "suitable_for": [
+      "Deep understanding",
+      "reasoning processes",
+      "individual feedback."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "interview",
+      "oral",
+      "individual"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_ENTREV_EVAL"
+    ],
+    "related_tools": [
+      "HER_REG_ANE",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_ENTREV_EVAL": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_ANE": "principal",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PREG_ORAL",
+    "entity_type": "instrumento",
+    "name": "Structured oral question",
+    "type": "Oral",
+    "summary": "Targeted oral question to check understanding or reasoning during class.",
+    "desc": "A structured oral question is a targeted question directed at a student or the group to verify understanding, reasoning or application of content. It differs from open questions in that it is deliberate and focused on specific learning criteria.\n\nHow to use it for assessment: an anecdotal record or brief observation note allows registering responses and patterns. It is one of the most immediate and frequent formative assessment tools.\n\nIt is important to avoid assessing only those who raise their hand and to distribute questions equitably among students.",
+    "suitable_for": [
+      "Immediate checking",
+      "detecting misunderstandings",
+      "active engagement."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "oral question",
+      "checking",
+      "immediate"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_SONDEO": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_012",
+      "metac_025",
+      "metac_046"
+    ]
+  },
+  {
+    "id": "INS_CUADERNO",
+    "entity_type": "instrumento",
+    "name": "Class notebook",
+    "type": "Written production",
+    "summary": "Student's personal written record of activities, notes and work done in class.",
+    "desc": "The class notebook is the student's personal record of activities, notes and work done in class over time. It reflects organisation, neatness, continuity and understanding of content.\n\nHow to use it for assessment: a checklist or descriptive scale allows evaluating completeness, organisation and quality of content. It can be complemented with corrections and personalised feedback.\n\nIt is a simple and accessible tool, though it tends to reflect effort and organisation more than deep learning.",
+    "suitable_for": [
+      "Organisation",
+      "continuity",
+      "record of learning process."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "notebook",
+      "class",
+      "written record"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_ANAL_DOC"
+    ],
+    "related_tools": [
+      "HER_CUAD_CAL",
+      "HER_ESC_OBS",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_ANAL_DOC": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal"
+      },
+      "rel_her": {
+        "HER_CUAD_CAL": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_032",
+      "metac_045",
+      "metac_065",
+      "metac_080",
+      "metac_085"
+    ]
+  },
+  {
+    "id": "INS_DIARIO",
+    "entity_type": "instrumento",
+    "name": "Learning diary",
+    "type": "Written reflection",
+    "summary": "Personal written record in which the student reflects regularly on their learning process.",
+    "desc": "The learning diary is a personal written record in which the student regularly notes what they have learned, how they have learned it, difficulties encountered and proposed improvements. It prioritises the reflective process over the product.\n\nHow to use it for assessment: a reflection sheet or assessment scale allows evaluating depth of reflection, self-regulation capacity and metacognitive awareness. The teacher can provide written feedback on selected entries.\n\nIt is a powerful tool for formative assessment but requires teaching students what a genuine reflection is.",
+    "suitable_for": [
+      "Metacognition",
+      "self-regulation",
+      "awareness of learning process."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "diary",
+      "reflection",
+      "metacognition"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_DIANA",
+      "HER_ESC_AUTO",
+      "HER_ESC_VERB",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_DIANA": "principal",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_ESC_VERB": "complementaria",
+        "HER_FICHA_RETRO": "ocasional",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PORT",
+    "entity_type": "instrumento",
+    "name": "Learning portfolio",
+    "type": "Complex production",
+    "summary": "Purposeful collection of evidence showing learning progress and achievement.",
+    "desc": "A learning portfolio is a purposeful collection of evidence — tasks, reflections, drafts, final products — that shows learning progress and achievement over a period. The student selects, organises and reflects on the included evidence.\n\nHow to use it for assessment: an assessment matrix or evidence map allows evaluating coverage of criteria and quality of reflections. It combines self-assessment, teacher assessment and evidence triangulation.\n\nIt is one of the most complete tools for competency-based and formative assessment, but requires clear structure, time and student guidance.",
+    "suitable_for": [
+      "Demonstrating progress",
+      "self-regulation",
+      "competency-based assessment."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "portfolio",
+      "evidence",
+      "progress"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_BANCO_DESC",
+      "HER_ESC_DESC",
+      "HER_ESC_VERB",
+      "HER_HOJA_CALC",
+      "HER_HOJA_IND",
+      "HER_MATRIZ_POND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_AUTO",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_PROC_REFLEX": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_AUTO": "complementaria",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_BANCO_DESC": "principal",
+        "HER_ESC_DESC": "complementaria",
+        "HER_ESC_VERB": "complementaria",
+        "HER_HOJA_CALC": "ocasional",
+        "HER_HOJA_IND": "ocasional",
+        "HER_MATRIZ_POND": "ocasional",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_INFO_LAB",
+    "entity_type": "instrumento",
+    "name": "Laboratory report",
+    "type": "Written production",
+    "summary": "Written document presenting the process, data and conclusions of a laboratory or field experiment.",
+    "desc": "A laboratory report is a structured written document presenting the process, results and conclusions of an experiment or laboratory practice. It typically includes sections for objectives, materials, procedure, data, analysis and conclusions.\n\nHow to use it for assessment: an analytic rubric or product rubric allows evaluating scientific accuracy, quality of argumentation and text structure. A correction guide helps ensure consistency.\n\nIt is especially suitable for assessing scientific competency and the ability to communicate in specialist written language.",
+    "suitable_for": [
+      "Scientific thinking",
+      "data presentation",
+      "writing scientific texts."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "laboratory report",
+      "science",
+      "written"
+    ],
+    "modality": "Presencial",
+    "location": "Laboratorio / Aula",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_011",
+      "metac_029",
+      "metac_043",
+      "metac_098",
+      "metac_126"
+    ]
+  },
+  {
+    "id": "INS_INFO_INV",
+    "entity_type": "instrumento",
+    "name": "Research report",
+    "type": "Written production",
+    "summary": "Extended written document presenting the process, results and conclusions of a research project.",
+    "desc": "A research report is an extended written document in which students present the complete process of a research project: question, theoretical framework, methodology, results and conclusions. It is common in upper secondary and higher education.\n\nHow to use it for assessment: an analytic rubric allows evaluating different dimensions (structure, use of sources, argumentation, conclusions). A weighting matrix allows combining scores from different criteria.\n\nIt requires prior instruction in academic writing and research methodology.",
+    "suitable_for": [
+      "Research competency",
+      "academic writing",
+      "extended projects."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "research",
+      "report",
+      "academic writing"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_TAB_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "principal",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_010",
+      "metac_008",
+      "metac_043",
+      "metac_046",
+      "metac_130"
+    ]
+  },
+  {
+    "id": "INS_MONO",
+    "entity_type": "instrumento",
+    "name": "Monograph",
+    "type": "Written production",
+    "summary": "In-depth study of a specific topic presented in a structured academic format.",
+    "desc": "A monograph is an in-depth written study on a specific topic presented in an academic format: introduction, development, conclusions and bibliography. It is one of the most traditional forms of extended academic writing.\n\nHow to use it for assessment: an analytic rubric allows evaluating structure, use of sources, argumentation and writing quality. A correction guide ensures consistency.\n\nIt requires clear instruction on the difference between summarising and analysing, and guidance on how to cite sources.",
+    "suitable_for": [
+      "Academic depth",
+      "use of sources",
+      "structured written exposition."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "monograph",
+      "academic",
+      "depth"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_010",
+      "metac_062",
+      "metac_080",
+      "metac_110"
+    ]
+  },
+  {
+    "id": "INS_ENSAYO",
+    "entity_type": "instrumento",
+    "name": "Essay",
+    "type": "Written production",
+    "summary": "Argumentative written text that defends a position or interprets a topic with a personal voice.",
+    "desc": "An essay is an argumentative written text in which the student defends a position, interprets a topic or develops an idea with a personal and reasoned voice. Unlike a monograph, it allows greater freedom of expression.\n\nHow to use it for assessment: an analytic rubric or correction guide allows evaluating the quality of the argument, coherence, use of evidence and writing quality.\n\nIt is important to teach students to argue from evidence and to distinguish between argumentation and mere opinion.",
+    "suitable_for": [
+      "Argumentation",
+      "critical thinking",
+      "academic writing."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "essay",
+      "argumentation",
+      "writing"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_TAB_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_COMP",
+      "DIM_HET",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_HET": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_006",
+      "metac_004",
+      "metac_022",
+      "metac_024"
+    ]
+  },
+  {
+    "id": "INS_COM_TEXT",
+    "entity_type": "instrumento",
+    "name": "Text commentary",
+    "type": "Written production",
+    "summary": "Written analysis and interpretation of a text following a structured methodology.",
+    "desc": "A text commentary is a structured written activity in which the student analyses, contextualises and interprets a text — literary, historical, philosophical or scientific — following a methodological approach specific to the subject.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating comprehension, analysis and quality of argumentation. A correction template ensures marking consistency.\n\nIt is important to teach the specific methodology for each type of text and to provide model commentaries.",
+    "suitable_for": [
+      "Reading comprehension",
+      "analysis",
+      "written expression."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "text commentary",
+      "analysis",
+      "reading"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_ANA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_PRUEBA": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_017",
+      "metac_022",
+      "metac_051",
+      "metac_089"
+    ]
+  },
+  {
+    "id": "INS_COM_GRAF",
+    "entity_type": "instrumento",
+    "name": "Graph or data commentary",
+    "type": "Written production",
+    "summary": "Interpretation and analysis in writing of graphs, maps, tables or statistical data.",
+    "desc": "A graph or data commentary requires students to interpret, describe and analyse information presented in visual or numerical format: graphs, tables, maps, statistics, etc. It is common in social sciences, geography, biology and mathematics.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating accuracy of description, quality of interpretation and writing conventions.\n\nIt is important to teach students to distinguish between describing what they see and interpreting what it means.",
+    "suitable_for": [
+      "Data literacy",
+      "interpretation",
+      "scientific or social writing."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "graph",
+      "data",
+      "interpretation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROB",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROB": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_022",
+      "metac_028",
+      "metac_043",
+      "metac_069",
+      "metac_085"
+    ]
+  },
+  {
+    "id": "INS_RESUMEN",
+    "entity_type": "instrumento",
+    "name": "Summary",
+    "type": "Written production",
+    "summary": "Condensed written version of a text or topic preserving the main ideas.",
+    "desc": "A summary is a condensed written version of a text or topic that preserves the main ideas, omits secondary details and uses the student's own words. It assesses reading comprehension and the ability to select and organise information.\n\nHow to use it for assessment: a correction guide or checklist allows evaluating completeness, accuracy and quality of writing.\n\nIt is a simple and quick instrument that reflects comprehension well, though it tends to assess reproduction more than critical analysis.",
+    "suitable_for": [
+      "Comprehension",
+      "identification of key ideas",
+      "written synthesis."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "summary",
+      "comprehension",
+      "synthesis"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_DESC",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_DESC": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ESQUEMA",
+    "entity_type": "instrumento",
+    "name": "Outline",
+    "type": "Visual/written production",
+    "summary": "Hierarchical or structured visual organisation of the main ideas of a topic.",
+    "desc": "An outline is a hierarchical or structured visual organisation of the main ideas and their relationships within a topic or text. It can take the form of a tree diagram, a branching structure or a sequential list.\n\nHow to use it for assessment: a checklist or descriptive scale allows evaluating completeness, hierarchical accuracy and organisation. It is quick to assess and easily comparable between students.\n\nIt reflects understanding of structure and relationships better than a verbatim summary, though it says little about the depth of conceptual understanding.",
+    "suitable_for": [
+      "Organisation",
+      "comprehension",
+      "identification of relationships between concepts."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "outline",
+      "structure",
+      "organisation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MAP_CONC",
+    "entity_type": "instrumento",
+    "name": "Concept map",
+    "type": "Visual production",
+    "summary": "Visual representation of concepts and their relationships using nodes and labelled links.",
+    "desc": "A concept map is a visual representation of concepts and their relationships using nodes (concepts) and labelled links (relationship words). It shows how the student organises and connects their knowledge.\n\nHow to use it for assessment: a checklist or analytic rubric allows evaluating accuracy of concepts, quality of links and hierarchical structure. It can be used before and after a topic to detect conceptual change.\n\nIt is more informative than a summary about the depth of understanding, though it requires teaching students how to construct it.",
+    "suitable_for": [
+      "Understanding conceptual relationships",
+      "deep learning",
+      "organising knowledge."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "concept map",
+      "visual",
+      "relationships"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Parejas",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MAP_MENT",
+    "entity_type": "instrumento",
+    "name": "Mind map",
+    "type": "Visual production",
+    "summary": "Radial visual representation of ideas, associations and connections around a central concept.",
+    "desc": "A mind map is a radial visual representation that starts from a central concept and expands outwards through related ideas, associations and connections. Unlike a concept map, it is more free-form and personal.\n\nHow to use it for assessment: a checklist or descriptive scale allows evaluating richness of associations, use of visual resources and coverage of key content. It is better suited for formative assessment than for summative grading.\n\nIt is a good tool for brainstorming and for activating prior knowledge, though its scoring can be subjective.",
+    "suitable_for": [
+      "Creative thinking",
+      "associations",
+      "brainstorming",
+      "personalised organisation."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "mind map",
+      "visual",
+      "creativity"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_022",
+      "metac_026",
+      "metac_032",
+      "metac_085"
+    ]
+  },
+  {
+    "id": "INS_LINEA",
+    "entity_type": "instrumento",
+    "name": "Timeline",
+    "type": "Visual production",
+    "summary": "Chronological visual representation of events, processes or historical periods.",
+    "desc": "A timeline is a chronological visual representation of events, processes or historical periods on a time axis. It helps students organise and relate information over time.\n\nHow to use it for assessment: a checklist or correction guide allows evaluating chronological accuracy, selection of relevant events and quality of annotations.\n\nIt is particularly useful in social sciences and history for assessing temporal understanding and cause-effect relationships.",
+    "suitable_for": [
+      "Temporal ordering",
+      "historical understanding",
+      "cause-effect relationships."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "timeline",
+      "history",
+      "chronological"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_017",
+      "metac_028",
+      "metac_039",
+      "metac_045",
+      "metac_062"
+    ]
+  },
+  {
+    "id": "INS_GLOS",
+    "entity_type": "instrumento",
+    "name": "Glossary",
+    "type": "Written production",
+    "summary": "Alphabetical or thematic list of key terms with definitions written by the student.",
+    "desc": "A glossary is an alphabetical or thematic list of key terms with definitions written by the student in their own words. It assesses understanding and precise use of subject-specific vocabulary.\n\nHow to use it for assessment: a checklist or correction guide allows evaluating accuracy of definitions, use of the student's own words and coverage of key terms.\n\nIt is a simple and accessible instrument, though it assesses conceptual understanding at a surface level. It can be enriched with examples.",
+    "suitable_for": [
+      "Specific vocabulary",
+      "conceptual understanding",
+      "semantic precision."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "glossary",
+      "vocabulary",
+      "definitions"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_GUIA_CORR",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_018",
+      "metac_045",
+      "metac_048",
+      "metac_089",
+      "metac_098"
+    ]
+  },
+  {
+    "id": "INS_FICHA_LECT",
+    "entity_type": "instrumento",
+    "name": "Reading card",
+    "type": "Written production",
+    "summary": "Structured document that records reading data and the student's analysis or response.",
+    "desc": "A reading card is a structured document in which the student records data from the read text (author, title, genre, etc.) and develops an analysis, summary or personal response. It can be adapted to different types of text and educational levels.\n\nHow to use it for assessment: a checklist or correction guide allows evaluating completeness, comprehension and quality of the personal response.\n\nIt is a versatile instrument that combines reading comprehension with structured written expression.",
+    "suitable_for": [
+      "Reading comprehension",
+      "analysis",
+      "organised personal response."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "reading",
+      "reading card",
+      "comprehension"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_016",
+      "metac_051",
+      "metac_062",
+      "metac_065",
+      "metac_080"
+    ]
+  },
+  {
+    "id": "INS_RESEÑA",
+    "entity_type": "instrumento",
+    "name": "Review",
+    "type": "Written production",
+    "summary": "Critical text that describes, analyses and evaluates a work (book, film, exhibition, etc.).",
+    "desc": "A review is a critical written text that describes, analyses and evaluates a work — book, film, exhibition, event — combining descriptive information with argued personal assessment. It is common in language and social sciences subjects.\n\nHow to use it for assessment: an analytic rubric or correction guide allows evaluating structure, quality of argument, use of evidence and writing quality.\n\nIt requires teaching students the specific conventions of this text genre and how to argue an opinion.",
+    "suitable_for": [
+      "Critical opinion",
+      "structured writing",
+      "evaluative analysis."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "review",
+      "critical opinion",
+      "writing"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ART_DIV",
+    "entity_type": "instrumento",
+    "name": "Popular science article",
+    "type": "Written production",
+    "summary": "Informative text that communicates a topic to a general audience in accessible language.",
+    "desc": "A popular science article is an informative text in which the student communicates a topic of interest in accessible language to a non-specialist audience. It combines content knowledge with science communication skills.\n\nHow to use it for assessment: an analytic rubric allows evaluating accuracy of content, adequacy of language for the target audience, structure and quality of writing.\n\nIt is especially suitable for assessing communication competency and the ability to transfer knowledge to new contexts.",
+    "suitable_for": [
+      "Science communication",
+      "writing for real audiences",
+      "content transfer."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "popular science",
+      "science communication",
+      "writing"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Domicilio / Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_DESC",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_DESC": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_010",
+      "metac_048",
+      "metac_089",
+      "metac_098",
+      "metac_110"
+    ]
+  },
+  {
+    "id": "INS_MEM_PROY",
+    "entity_type": "instrumento",
+    "name": "Project report",
+    "type": "Written production",
+    "summary": "Document that records, justifies and evaluates the development and results of a project.",
+    "desc": "A project report is a document that records, justifies and evaluates the development and results of a project: initial planning, process, obstacles, decisions taken and final conclusions. It goes beyond the product itself.\n\nHow to use it for assessment: an analytic rubric allows evaluating the quality of documentation, coherence of the process, quality of reflection and presentation of results. It can be complemented with an oral defence.\n\nIt is especially suitable for project-based work because it captures both the product and the process.",
+    "suitable_for": [
+      "Project documentation",
+      "process reflection",
+      "final results."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "project report",
+      "documentation",
+      "reflection"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_CONV",
+      "HER_HOJA_CALC",
+      "HER_HOJA_IND",
+      "HER_MATRIZ_POND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROY",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROY": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_CONV": "principal",
+        "HER_HOJA_CALC": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_MATRIZ_POND": "ocasional",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_027",
+      "metac_065",
+      "metac_080",
+      "metac_110"
+    ]
+  },
+  {
+    "id": "INS_PLAN_TRAB",
+    "entity_type": "instrumento",
+    "name": "Work plan",
+    "type": "Process",
+    "summary": "Document in which the student or group plans tasks, timing and responsibilities.",
+    "desc": "A work plan is a document in which the student or group defines tasks to be completed, the timeline, responsibilities and resources needed. It is used at the start of a project or extended task.\n\nHow to use it for assessment: a checklist or assessment card allows evaluating realism of planning, clarity of objectives and clarity of roles. It can be compared with the actual process.\n\nIt is especially useful for assessing planning capacity and self-regulation, as well as promoting responsibility and anticipation.",
+    "suitable_for": [
+      "Planning",
+      "self-regulation",
+      "organisation of group work."
+    ],
+    "complexity": "Media",
+    "phase": "Inicial/Proceso",
+    "participation": "Docente/Grupo",
+    "tags": [
+      "work plan",
+      "planning",
+      "organisation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_HOJA_IND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_PROY",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_PROY": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_HOJA_IND": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ACTA",
+    "entity_type": "instrumento",
+    "name": "Meeting minutes",
+    "type": "Process",
+    "summary": "Written record of a group meeting: agreements, tasks and responsibilities.",
+    "desc": "Meeting minutes are a written record produced at the end of a group working session that documents what was discussed, decisions taken and tasks assigned. Each student can take on the role of secretary in rotation.\n\nHow to use it for assessment: a checklist allows evaluating completeness, clarity and compliance with what was agreed in subsequent sessions.\n\nThey are especially useful in project-based work as evidence of the collaborative process and group organisation.",
+    "suitable_for": [
+      "Group organisation",
+      "collaborative responsibility",
+      "documentation of process."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Grupo",
+    "tags": [
+      "minutes",
+      "group work",
+      "meeting"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_ANAL_DOC"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_ANAL_DOC": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_002",
+      "metac_003",
+      "metac_020",
+      "metac_024",
+      "metac_036"
+    ]
+  },
+  {
+    "id": "INS_CONTRATO",
+    "entity_type": "instrumento",
+    "name": "Learning contract",
+    "type": "Self-assessment",
+    "summary": "Agreement between student and teacher on learning objectives, activities and evaluation criteria.",
+    "desc": "A learning contract is a written agreement between student and teacher defining learning objectives, activities to be carried out, timelines and evaluation criteria. It promotes autonomy and shared responsibility.\n\nHow to use it for assessment: the contract itself is a planning instrument; to assess learning, it is combined with a reflection sheet or achievement profile that compares what was planned with what was achieved.\n\nIt is especially suitable for personalised learning environments and for students with greater autonomy.",
+    "suitable_for": [
+      "Autonomy",
+      "self-regulation",
+      "personalised learning."
+    ],
+    "complexity": "Media",
+    "phase": "Inicial/Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "learning contract",
+      "self-regulation",
+      "personalised"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_REG_COMP"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "DIM_COMPART"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_COMPART": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_COMP": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_F_REFLEX",
+    "entity_type": "instrumento",
+    "name": "Reflection sheet",
+    "type": "Self-assessment",
+    "summary": "Structured questionnaire that guides the student in reflecting on their learning or process.",
+    "desc": "A reflection sheet is a structured questionnaire that guides the student in reflecting on what they have learned, how they have learned it, what difficulties they encountered and what they would improve. It is one of the most accessible self-assessment tools.\n\nHow to use it for assessment: the teacher reviews the quality and depth of responses. A self-assessment scale or assessment card allows evaluating the richness of reflection.\n\nIt requires teaching students what meaningful reflection means to avoid superficial responses.",
+    "suitable_for": [
+      "Metacognition",
+      "self-regulation",
+      "guided self-assessment."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso/Final",
+    "participation": "Alumno",
+    "tags": [
+      "reflection",
+      "self-assessment",
+      "metacognition"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_DIANA",
+      "HER_ESC_OBS",
+      "HER_ESC_VERB",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_DIANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_ESC_VERB": "complementaria",
+        "HER_FICHA_RETRO": "ocasional",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_016",
+      "metac_023",
+      "metac_030",
+      "metac_037",
+      "metac_040"
+    ]
+  },
+  {
+    "id": "INS_AUTOINF",
+    "entity_type": "instrumento",
+    "name": "Self-report",
+    "type": "Self-assessment",
+    "summary": "Free or guided written account in which the student assesses their own learning and performance.",
+    "desc": "A self-report is a free or guided written account in which the student reflects on and assesses their own learning, performance, competency development or progress over a period. It goes beyond a reflection sheet in length and depth.\n\nHow to use it for assessment: a self-assessment rubric or assessment scale allows evaluating the quality of self-assessment, honesty, depth of reflection and alignment with actual performance.\n\nIt is especially suitable for summative self-assessment periods and for older students with greater metacognitive capacity.",
+    "suitable_for": [
+      "Self-assessment",
+      "self-regulation",
+      "critical self-awareness."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Alumno",
+    "tags": [
+      "self-report",
+      "self-assessment",
+      "written"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_RUB_AUTO",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_SUM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_AUTO": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_023",
+      "metac_030",
+      "metac_045",
+      "metac_053",
+      "metac_110"
+    ]
+  },
+  {
+    "id": "INS_PROB",
+    "entity_type": "instrumento",
+    "name": "Problem solving",
+    "type": "Test/performance",
+    "summary": "Resolving a real or simulated problem that requires applying knowledge and skills in context.",
+    "desc": "Problem solving involves the student resolving a real or simulated problem that requires applying knowledge, using procedures and reasoning in a relevant context. The problem can be mathematical, scientific, social, linguistic, etc.\n\nHow to use it for assessment: an analytic rubric or correction guide allows evaluating the problem-solving process (approach, procedure, result) as well as the final answer.\n\nIt is one of the most valid instruments for assessing learning transfer and competency-based thinking.",
+    "suitable_for": [
+      "Application",
+      "reasoning",
+      "transfer of knowledge."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "problem solving",
+      "application",
+      "reasoning"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_COMP",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROB",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROB": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_COMP": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_CASO",
+    "entity_type": "instrumento",
+    "name": "Case study",
+    "type": "Test/performance",
+    "summary": "Analysis of a real or simulated situation requiring argumentation, decision-making or proposals.",
+    "desc": "A case study involves analysing a real or simulated situation — clinical, business, historical, social, legal — and providing a justified response: diagnosis, decision, proposal or action plan. It requires applying knowledge to complex contexts.\n\nHow to use it for assessment: an analytic rubric allows evaluating the quality of analysis, argumentation, identification of key elements and proposed solution.\n\nIt is one of the most complete instruments for assessing competency-based thinking and professional reasoning.",
+    "suitable_for": [
+      "Critical analysis",
+      "decision-making",
+      "contextualised application."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "case study",
+      "analysis",
+      "decision-making"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_RUB_COMP",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_CASO",
+      "DIM_COMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_CASO": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_RUB_COMP": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_006",
+      "metac_013",
+      "metac_024",
+      "metac_052",
+      "metac_069"
+    ]
+  },
+  {
+    "id": "INS_PR_DES",
+    "entity_type": "instrumento",
+    "name": "Written development test",
+    "type": "Test",
+    "summary": "Written exam requiring extended answers, justifications or argumentation.",
+    "desc": "A written development test consists of open questions requiring extended written answers: explanations, justifications, comparisons, arguments, analyses. It assesses conceptual understanding and the ability to express ideas in writing.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating content, structure and quality of argumentation consistently across different students.\n\nIt is important to provide clear marking criteria beforehand and to teach students how to structure extended responses.",
+    "suitable_for": [
+      "Extended knowledge",
+      "argumentation",
+      "synthesis",
+      "structured exposition."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "written test",
+      "development",
+      "argumentation"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_BAREMO",
+      "HER_ESC_NUM",
+      "HER_GUIA_CORR",
+      "HER_MATRIZ_POND",
+      "HER_RUB_ANA"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_BAREMO": "principal",
+        "HER_ESC_NUM": "complementaria",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_MATRIZ_POND": "ocasional",
+        "HER_RUB_ANA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_004",
+      "metac_012",
+      "metac_022",
+      "metac_024"
+    ]
+  },
+  {
+    "id": "INS_PR_OBJ",
+    "entity_type": "instrumento",
+    "name": "Objective test",
+    "type": "Test",
+    "summary": "Test with closed questions (true/false, matching, fill-in-the-blank) that admit a single correct answer.",
+    "desc": "An objective test consists of closed questions that admit a single correct answer and can be marked without interpretation: true/false, matching, fill-in-the-blank, multiple choice. It allows rapid and consistent assessment of a broad content area.\n\nHow to use it for assessment: a scoring scale or correction template allows applying consistent marking. Results can be analysed to identify difficult items or common errors.\n\nIt is effective for assessing recall and recognition, though it is less suitable for evaluating understanding or application in depth.",
+    "suitable_for": [
+      "Recall",
+      "recognition",
+      "verification of specific knowledge."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Inicial/Final",
+    "participation": "Docente",
+    "tags": [
+      "objective test",
+      "closed questions",
+      "recall"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_BAREMO",
+      "HER_ESC_NUM",
+      "HER_HOJA_CALC",
+      "HER_PLANT_CORR"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_DIAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_DIAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_BAREMO": "principal",
+        "HER_ESC_NUM": "complementaria",
+        "HER_HOJA_CALC": "complementaria",
+        "HER_PLANT_CORR": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_008",
+      "metac_018",
+      "metac_045",
+      "metac_062",
+      "metac_069"
+    ]
+  },
+  {
+    "id": "INS_TEST",
+    "entity_type": "instrumento",
+    "name": "Multiple-choice test",
+    "type": "Test",
+    "summary": "Test with multiple-choice questions, each with several options and a single correct answer.",
+    "desc": "A multiple-choice test consists of questions each accompanied by several answer options, only one of which is correct. It allows assessing a broad content area quickly and with high consistency of marking.\n\nHow to use it for assessment: a correction template allows rapid automated marking. A scoring scale can penalise random guessing. It is often used for diagnostic or summative purposes.\n\nIt is efficient and reliable for assessing recall, but has limited validity for assessing deep understanding, reasoning or competencies.",
+    "suitable_for": [
+      "Recall",
+      "recognition",
+      "broad coverage of content."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "multiple choice",
+      "test",
+      "recognition"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
+    ],
+    "related_tools": [
+      "HER_BAREMO",
+      "HER_ESC_NUM"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_DIAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_SONDEO": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_DIAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_BAREMO": "principal",
+        "HER_ESC_NUM": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_018",
+      "metac_045",
+      "metac_062",
+      "metac_069",
+      "metac_088"
+    ]
+  },
+  {
+    "id": "INS_RESP_CORTA",
+    "entity_type": "instrumento",
+    "name": "Short-answer test",
+    "type": "Test",
+    "summary": "Test with questions requiring brief written answers — a word, a sentence or a short paragraph.",
+    "desc": "A short-answer test consists of questions requiring a brief written response: a word, a definition, a formula, a short sentence or a brief explanation. It is less closed than multiple-choice but more structured than a development test.\n\nHow to use it for assessment: a correction guide or correction template allows marking consistently. It can also serve as a quick diagnostic check or formative exit activity.\n\nIt is more flexible than multiple-choice for detecting understanding, though it is more demanding to mark consistently.",
+    "suitable_for": [
+      "Recall",
+      "comprehension",
+      "brief explanation of concepts."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "short answer",
+      "brief response",
+      "written test"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_BAREMO"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_DIAG",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_SONDEO": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_DIAG": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_BAREMO": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_012",
+      "metac_018",
+      "metac_025",
+      "metac_028"
+    ]
+  },
+  {
+    "id": "INS_PR_ORAL",
+    "entity_type": "instrumento",
+    "name": "Oral test",
+    "type": "Oral test",
+    "summary": "Individual oral assessment of knowledge or competency through questions and answers.",
+    "desc": "An oral test is a structured assessment session in which the teacher poses questions to the student and evaluates the oral responses. It allows assessing depth of understanding, reasoning and communication in real time.\n\nHow to use it for assessment: an oral rubric or observation guide with predefined criteria allows evaluating content, argumentation, oral fluency and response to questions consistently.\n\nIt is particularly valuable for assessing understanding that is difficult to detect in written tests, though it requires significant time and careful management of anxiety.",
+    "suitable_for": [
+      "Oral command",
+      "depth of understanding",
+      "justified reasoning."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "oral test",
+      "individual",
+      "examination"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_ACTA",
+      "HER_RUB_ORAL"
+    ],
+    "related_dimensions": [
+      "DIM_SUM",
+      "DIM_DESEMP",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "complementaria",
+        "TEC_ORAL": "principal"
+      },
+      "rel_dim": {
+        "DIM_SUM": "principal",
+        "DIM_DESEMP": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_ACTA": "principal",
+        "HER_RUB_ORAL": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_012",
+      "metac_024",
+      "metac_030",
+      "metac_053"
+    ]
+  },
+  {
+    "id": "INS_PR_PRACT",
+    "entity_type": "instrumento",
+    "name": "Practical test",
+    "type": "Practical test",
+    "summary": "Assessment activity requiring demonstration of practical skills or application of procedures.",
+    "desc": "A practical test requires students to demonstrate practical skills or apply procedures in a real or simulated setting: laboratory experiments, musical performance, sports activity, graphic design, cooking, etc.\n\nHow to use it for assessment: an analytic rubric or observation guide allows evaluating the process (technique, safety, method) and the result (product quality). It can include self-assessment.\n\nIt is especially valid for assessing practical competencies that cannot be assessed through written tests.",
+    "suitable_for": [
+      "Practical skills",
+      "application of procedures",
+      "contextualised competency."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "practical test",
+      "skills",
+      "procedure"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_005",
+      "metac_007",
+      "metac_011",
+      "metac_016",
+      "metac_080"
+    ]
+  },
+  {
+    "id": "INS_PR_COMP",
+    "entity_type": "instrumento",
+    "name": "Contextualised competency test",
+    "type": "Competency test",
+    "summary": "Assessment activity set in a real context that requires applying several competencies simultaneously.",
+    "desc": "A contextualised competency test is an assessment activity designed around a realistic situation that requires students to apply knowledge, skills and attitudes from different areas simultaneously. It does not assess isolated content but integrated competency.\n\nHow to use it for assessment: a competency rubric or analytic rubric allows evaluating different dimensions of performance. A weighting matrix combines scores from different criteria.\n\nIt is the most rigorous instrument for competency-based assessment but requires careful design and clear criteria.",
+    "suitable_for": [
+      "Transfer",
+      "integrated competency",
+      "real-world application."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "competency",
+      "contextualised",
+      "transfer"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_COMP",
+      "HER_TAB_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_HET",
+      "DIM_CAL_ACRED",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_TRIANG": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_HET": "complementaria",
+        "DIM_CAL_ACRED": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_COMP": "complementaria",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_027",
+      "metac_052"
+    ]
+  },
+  {
+    "id": "INS_DOCS",
+    "entity_type": "instrumento",
+    "name": "Document-based test",
+    "type": "Test",
+    "summary": "Written test that uses primary or secondary sources as the basis for analysis and response.",
+    "desc": "A document-based test provides students with a set of primary or secondary sources — texts, images, maps, statistics — and requires them to analyse, interpret and use them to respond to assessment questions. It is common in social sciences and history.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating quality of analysis, use of sources and argumentation.\n\nIt is especially suitable for assessing historical, geographical and scientific thinking, and for developing critical literacy.",
+    "suitable_for": [
+      "Source analysis",
+      "historical thinking",
+      "contextualised reasoning."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "document-based test",
+      "sources",
+      "analysis"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_ANA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_SUM",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_SUM": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_ANA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_008",
+      "metac_039",
+      "metac_052",
+      "metac_069"
+    ]
+  },
+  {
+    "id": "INS_CUEST_DIG",
+    "entity_type": "instrumento",
+    "name": "Digital questionnaire",
+    "type": "Digital/test",
+    "summary": "Online questionnaire with various question types, automated feedback and immediate results.",
+    "desc": "A digital questionnaire is an online test using platforms such as Google Forms, Kahoot, Socrative or similar, allowing a variety of question formats with automated correction and immediate feedback to students.\n\nHow to use it for assessment: the platform generates results and statistics that help the teacher identify errors and learning patterns. It is especially useful for formative assessment and quick diagnostics.\n\nAutomatic feedback should be complemented with teacher comments to promote genuine learning.",
+    "suitable_for": [
+      "Immediate checking",
+      "formative assessment",
+      "quick diagnostic."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Inicial/Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "digital questionnaire",
+      "online",
+      "immediate"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_SONDEO",
+      "TEC_ENC_CUEST"
+    ],
+    "related_tools": [
+      "HER_FORM_DIG",
+      "HER_ANALITICAS"
+    ],
+    "related_dimensions": [
+      "DIM_DIG"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_SONDEO": "complementaria",
+        "TEC_ENC_CUEST": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal"
+      },
+      "rel_her": {
+        "HER_FORM_DIG": "principal",
+        "HER_ANALITICAS": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_018",
+      "metac_031",
+      "metac_052",
+      "metac_069",
+      "metac_084"
+    ]
+  },
+  {
+    "id": "INS_INFOG",
+    "entity_type": "instrumento",
+    "name": "Infographic",
+    "type": "Visual production",
+    "summary": "Visual document that presents information or data in a clear, attractive and structured format.",
+    "desc": "An infographic is a visual document that presents information, data or a process in a structured, clear and visually attractive format. It combines textual, graphic and visual elements to communicate ideas efficiently.\n\nHow to use it for assessment: an analytic rubric allows evaluating content accuracy, visual clarity, structure and information design quality.\n\nIt is especially suitable for assessing visual communication competency and the ability to synthesise and organise information creatively.",
+    "suitable_for": [
+      "Visual communication",
+      "synthesis",
+      "information design."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "infographic",
+      "visual",
+      "information design"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Parejas",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_DIG": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_POSTER",
+    "entity_type": "instrumento",
+    "name": "Academic poster",
+    "type": "Visual production",
+    "summary": "Visual document presenting the results of a project or research in a structured and synthetic format.",
+    "desc": "An academic poster presents the results of a project or research in a visual and synthetic format. It is usually displayed publicly and accompanied by an oral presentation or Q&A session.\n\nHow to use it for assessment: an analytic rubric allows evaluating content quality, visual organisation, synthesis and oral explanation. Peer assessment can add a complementary perspective.\n\nIt is especially suitable for scientific communication and for presenting project results.",
+    "suitable_for": [
+      "Scientific communication",
+      "synthesis",
+      "visual and oral presentation."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "poster",
+      "academic",
+      "visual communication"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_OBS": "principal",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_PRESENT_DIG",
+    "entity_type": "instrumento",
+    "name": "Digital presentation",
+    "type": "Digital production",
+    "summary": "Visual presentation created with digital tools to support an oral or written exposition.",
+    "desc": "A digital presentation is a slide deck or similar visual document created with tools such as PowerPoint, Google Slides or Canva to support an oral presentation or as a standalone product.\n\nHow to use it for assessment: an analytic rubric or checklist allows evaluating design, content quality, structure and use of visual resources. If it accompanies an oral presentation, the presentation and the oral delivery are assessed separately.\n\nIt is a very common instrument but tends to assess slide design more than depth of understanding. It should be used with clear content criteria.",
+    "suitable_for": [
+      "Visual support",
+      "synthesis",
+      "digital and oral communication."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "digital presentation",
+      "slides",
+      "visual"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_DESEMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_DESEMP": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_045",
+      "metac_048",
+      "metac_069",
+      "metac_083"
+    ]
+  },
+  {
+    "id": "INS_VIDEO",
+    "entity_type": "instrumento",
+    "name": "Video",
+    "type": "Audiovisual production",
+    "summary": "Audiovisual product created by students to explain, demonstrate or communicate content.",
+    "desc": "A student-produced video can serve various assessment purposes: explaining a concept, presenting a project, demonstrating a procedure or creating a documentary piece. It combines content knowledge with audiovisual communication skills.\n\nHow to use it for assessment: an analytic rubric allows evaluating content accuracy, narrative clarity, technical quality and visual and audio resources. Peer assessment can complement the teacher's evaluation.\n\nIt requires access to recording and editing tools and clear prior instruction on assessment criteria.",
+    "suitable_for": [
+      "Digital communication",
+      "audiovisual creativity",
+      "content explanation."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "video",
+      "audiovisual",
+      "digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Exterior / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_PROD",
+      "HER_ESC_VAL",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_PROD": "principal",
+        "HER_ESC_VAL": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_TUTORIAL",
+    "entity_type": "instrumento",
+    "name": "Video tutorial",
+    "type": "Audiovisual production",
+    "summary": "Instructional video in which the student explains a procedure or concept step by step.",
+    "desc": "A video tutorial is an instructional audiovisual production in which the student explains a procedure, concept or process step by step, as if teaching someone else. Creating a tutorial requires deep understanding of what is being explained.\n\nHow to use it for assessment: an analytic rubric allows evaluating conceptual accuracy, clarity of explanation, logical sequence and technical quality.\n\nThe act of teaching others ('learning by teaching') is one of the most powerful strategies for consolidating deep learning.",
+    "suitable_for": [
+      "Procedural understanding",
+      "teaching others",
+      "digital communication."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "tutorial",
+      "video",
+      "explanation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_005",
+      "metac_048",
+      "metac_083",
+      "metac_088",
+      "metac_098"
+    ]
+  },
+  {
+    "id": "INS_PODCAST",
+    "entity_type": "instrumento",
+    "name": "Podcast",
+    "type": "Oral/digital production",
+    "summary": "Recorded audio episode in which students discuss, explain or investigate a topic.",
+    "desc": "A podcast is a recorded audio episode in which students discuss, explain or investigate a topic. It combines oral communication skills with research, planning and audio production.\n\nHow to use it for assessment: an analytic rubric allows evaluating content quality, clarity of exposition, argumentation, audio production and originality.\n\nIt is especially suitable for assessing oral communication competency in a digital medium and allows students to work on speaking for a real audience.",
+    "suitable_for": [
+      "Oral communication",
+      "content research",
+      "digital production."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "podcast",
+      "audio",
+      "oral digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ORAL",
+      "HER_ESC_VAL",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ORAL": "principal",
+        "HER_ESC_VAL": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_048",
+      "metac_065",
+      "metac_083",
+      "metac_088",
+      "metac_098"
+    ]
+  },
+  {
+    "id": "INS_COMIC",
+    "entity_type": "instrumento",
+    "name": "Comic",
+    "type": "Visual production",
+    "summary": "Narrative visual production that combines images and text to tell a story or explain a concept.",
+    "desc": "A comic (or graphic novel) is a visual and narrative production that combines images and text to tell a story, explain a concept or present content creatively. It allows assessing content understanding through a different medium.\n\nHow to use it for assessment: an analytic rubric allows evaluating content accuracy, narrative clarity, use of visual resources and creative quality.\n\nIt is especially motivating for students who communicate better through visual or artistic media. Clear content criteria help prevent it being reduced to a purely artistic exercise.",
+    "suitable_for": [
+      "Creative narration",
+      "visual expression",
+      "communication of content."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "comic",
+      "visual",
+      "narration"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS"
+    ],
+    "related_dimensions": [
+      "DIM_COMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_004",
+      "metac_017",
+      "metac_026",
+      "metac_045",
+      "metac_048"
+    ]
+  },
+  {
+    "id": "INS_MAQUETA",
+    "entity_type": "instrumento",
+    "name": "Scale model",
+    "type": "Physical production",
+    "summary": "Three-dimensional physical object that represents a structure, place or concept.",
+    "desc": "A scale model is a three-dimensional physical object that represents a structure, place, organism or concept in miniature or at scale. It combines manual skills with content knowledge and spatial reasoning.\n\nHow to use it for assessment: an analytic rubric allows evaluating accuracy of representation, technical quality, use of materials and accompanying explanations.\n\nIt is especially suitable for inclusive assessment (UDL) as it allows students who express themselves better through physical and spatial media to demonstrate their competency.",
+    "suitable_for": [
+      "Spatial representation",
+      "applied creativity",
+      "hands-on skills."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "scale model",
+      "3D",
+      "physical"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_MODELO_DIG",
+    "entity_type": "instrumento",
+    "name": "Digital model",
+    "type": "Digital production",
+    "summary": "Digital representation (3D, interactive or simulation) of a concept, structure or process.",
+    "desc": "A digital model is a digital representation — 3D, interactive or simulation — of a concept, structure, organism or process created with specialised tools (Tinkercad, GeoGebra, scratch, modelling software, etc.).\n\nHow to use it for assessment: an analytic rubric allows evaluating technical accuracy, functionality and conceptual understanding behind the model.\n\nIt is especially suitable for STEM subjects and for assessing digital and spatial competency in applied contexts.",
+    "suitable_for": [
+      "Simulation",
+      "spatial visualisation",
+      "applied digital competency."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "digital model",
+      "3D",
+      "simulation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_005",
+      "metac_016",
+      "metac_032",
+      "metac_069",
+      "metac_083"
+    ]
+  },
+  {
+    "id": "INS_PROTOTIPO",
+    "entity_type": "instrumento",
+    "name": "Prototype",
+    "type": "Physical/digital production",
+    "summary": "First functional version of a product or solution designed to respond to a real problem.",
+    "desc": "A prototype is the first functional version of a product, device or solution designed to respond to a real problem. It can be physical (assembled object, model) or digital (app, interface). It reflects design thinking and creative problem solving.\n\nHow to use it for assessment: an analytic rubric allows evaluating the quality of the proposed solution, technical viability, creativity and connection to the identified problem. It can be complemented with an oral defence.\n\nIt is one of the most authentic instruments for project-based assessment and design thinking.",
+    "suitable_for": [
+      "Design thinking",
+      "creative problem solving",
+      "applied innovation."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "prototype",
+      "design",
+      "innovation"
+    ],
+    "modality": "Presencial",
+    "location": "Aula / Laboratorio / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_HOJA_IND",
+      "HER_RUB_PROD"
+    ],
+    "related_dimensions": [
+      "DIM_PROY",
+      "DIM_DESEMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_OBS_SIS": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_PROY": "principal",
+        "DIM_DESEMP": "complementaria"
+      },
+      "rel_her": {
+        "HER_HOJA_IND": "principal",
+        "HER_RUB_PROD": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_WEB",
+    "entity_type": "instrumento",
+    "name": "Website",
+    "type": "Digital production",
+    "summary": "Website or web page created by students as a product or learning portfolio.",
+    "desc": "A website is a digital production in which students create web pages to communicate information, present a project or build a digital portfolio. It combines content knowledge with digital design and communication skills.\n\nHow to use it for assessment: an analytic rubric allows evaluating content quality, navigation structure, visual design and correctness of information. Accessibility and usability can also be assessed criteria.\n\nIt is especially suitable for digital competency projects and for creating authentic products for real audiences.",
+    "suitable_for": [
+      "Digital communication",
+      "content organisation",
+      "web publishing."
+    ],
+    "complexity": "Alta",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "website",
+      "web",
+      "digital"
+    ],
+    "modality": "Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_DIG",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_DIG": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_048",
+      "metac_069",
+      "metac_083",
+      "metac_084"
+    ]
+  },
+  {
+    "id": "INS_BLOG",
+    "entity_type": "instrumento",
+    "name": "Blog post",
+    "type": "Digital production",
+    "summary": "Published digital text in which students write about a topic for a real or simulated audience.",
+    "desc": "A blog post is a digital text published on an educational blog, written with a real or simulated audience in mind. It differs from conventional academic writing in its more conversational and accessible register.\n\nHow to use it for assessment: an analytic rubric allows evaluating content quality, appropriateness of register, text structure and writing quality. Interaction — if comments are allowed — can also be assessed.\n\nIt is especially suitable for practising writing for real audiences and for developing digital communication competency.",
+    "suitable_for": [
+      "Digital writing",
+      "real audience",
+      "reflection and communication."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "blog",
+      "digital writing",
+      "audience"
+    ],
+    "modality": "Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_ESC_OBS",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_FORO",
+    "entity_type": "instrumento",
+    "name": "Discussion forum",
+    "type": "Digital/written oral",
+    "summary": "Online space where students share, discuss and respond to contributions on a topic.",
+    "desc": "A discussion forum is an asynchronous online space — virtual campus, LMS, digital platform — in which students publish contributions, respond to peers' posts and develop collaborative discussions on a topic.\n\nHow to use it for assessment: an analytic rubric allows evaluating frequency of participation, quality of contributions, use of evidence and quality of interaction with peers. The teacher can review the history of all interventions.\n\nIt is especially suitable for asynchronous learning environments and for developing written argumentation in digital media.",
+    "suitable_for": [
+      "Asynchronous collaboration",
+      "argumentation",
+      "digital participation."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "forum",
+      "digital",
+      "collaboration"
+    ],
+    "modality": "Online",
+    "location": "Virtual",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Baja",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_INTER_DIG"
+    ],
+    "related_tools": [
+      "HER_REG_PART",
+      "HER_RUB_ORAL",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_INTER_DIG": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_REG_PART": "principal",
+        "HER_RUB_ORAL": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_001",
+      "metac_013",
+      "metac_019",
+      "metac_024",
+      "metac_084"
+    ]
+  },
+  {
+    "id": "INS_DOC_COL",
+    "entity_type": "instrumento",
+    "name": "Collaborative document",
+    "type": "Digital/process",
+    "summary": "Shared digital document created jointly by several students, with revision history.",
+    "desc": "A collaborative document is a shared digital text — Google Docs, Office 365, Etherpad — created jointly by several students. The revision history allows seeing who contributed what and when, facilitating assessment of individual contribution.\n\nHow to use it for assessment: a cooperative work rubric allows evaluating collaborative process; a product rubric evaluates the quality of the final document. The revision history shows individual contributions.\n\nIt is especially suitable for cooperative writing projects and for assessing both the process and the collaborative product.",
+    "suitable_for": [
+      "Collaborative writing",
+      "shared process",
+      "digital co-authorship."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Grupo",
+    "tags": [
+      "collaborative document",
+      "co-writing",
+      "shared"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PROC_REFLEX",
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG"
+    ],
+    "related_tools": [
+      "HER_HIST_REV",
+      "HER_RUB_ANA",
+      "HER_HOJA_IND",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "complementaria",
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_ANAL_DOC": "complementaria",
+        "TEC_INTER_DIG": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_COEV": "complementaria",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_HIST_REV": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_003",
+      "metac_009",
+      "metac_014",
+      "metac_020",
+      "metac_084"
+    ]
+  },
+  {
+    "id": "INS_PORT_DIG",
+    "entity_type": "instrumento",
+    "name": "Digital portfolio",
+    "type": "Digital/process",
+    "summary": "Digital collection of works, reflections and evidence of learning organised and published online.",
+    "desc": "A digital portfolio is an online collection of works, reflections and evidence of learning organised and published using digital platforms (Seesaw, Google Sites, Mahara, etc.). It combines the characteristics of a traditional portfolio with digital tools and accessibility.\n\nHow to use it for assessment: an assessment matrix or evidence map allows evaluating coverage of criteria and quality of reflections. The revision history can show the evolution of contributions.\n\nIt is especially suitable for continuous assessment, digital competency and shared assessment involving families or the educational community.",
+    "suitable_for": [
+      "Digital evidence",
+      "progress",
+      "metacognition",
+      "online assessment."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "digital portfolio",
+      "evidence",
+      "digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_PROC_REFLEX",
+      "TEC_ENTREV_EVAL",
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG"
+    ],
+    "related_tools": [
+      "HER_PANEL",
+      "HER_BANCO_EVID",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "complementaria",
+        "TEC_PROC_REFLEX": "complementaria",
+        "TEC_ENTREV_EVAL": "complementaria",
+        "TEC_ANAL_DOC": "principal",
+        "TEC_INTER_DIG": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_PANEL": "principal",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_KPSI",
+    "entity_type": "instrumento",
+    "name": "KPSI",
+    "type": "Diagnostic/self-assessment",
+    "summary": "Self-assessment questionnaire to detect prior knowledge and self-perception of competency level.",
+    "desc": "A KPSI (Knowledge and Prior Study Inventory) is a structured self-assessment questionnaire in which students indicate their level of knowledge or confidence for each learning objective before beginning a topic. It is one of the most useful diagnostic tools.\n\nHow to use it for assessment: the teacher analyses results to identify prior knowledge gaps and plan instruction. Comparing KPSI responses before and after the topic shows perceived learning progress.\n\nIt should be used with care: it assesses self-perceived competency, not actual competency. It gains value when combined with other diagnostic instruments.",
+    "suitable_for": [
+      "Prior knowledge",
+      "diagnostic assessment",
+      "metacognitive awareness."
+    ],
+    "complexity": "Baja",
+    "phase": "Inicial/Final",
+    "participation": "Alumno",
+    "tags": [
+      "KPSI",
+      "prior knowledge",
+      "diagnostic"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_ENC_CUEST"
+    ],
+    "related_tools": [
+      "HER_ESC_AUTO",
+      "HER_FORM_DIG",
+      "HER_REG_DESC"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG",
+      "DIM_AUTO"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_ENC_CUEST": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal",
+        "DIM_AUTO": "complementaria"
+      },
+      "rel_her": {
+        "HER_ESC_AUTO": "principal",
+        "HER_FORM_DIG": "complementaria",
+        "HER_REG_DESC": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_008",
+      "metac_016",
+      "metac_017",
+      "metac_043",
+      "metac_053"
+    ]
+  },
+  {
+    "id": "INS_MAP_INI",
+    "entity_type": "instrumento",
+    "name": "Initial concept map",
+    "type": "Diagnostic",
+    "summary": "Concept map created at the start of a topic to show initial knowledge and organisation.",
+    "desc": "An initial concept map is constructed by students at the start of a topic or unit to externalise what they already know and how they organise their knowledge. It serves as a diagnostic baseline.\n\nHow to use it for assessment: comparing the initial map with one produced at the end allows the teacher and student to observe conceptual change and learning progress. A checklist or descriptive scale can be used for assessment.\n\nIt is a simple diagnostic instrument but requires teaching students to build concept maps beforehand.",
+    "suitable_for": [
+      "Prior knowledge",
+      "conceptual structure",
+      "diagnostic assessment."
+    ],
+    "complexity": "Media",
+    "phase": "Inicial",
+    "participation": "Docente",
+    "tags": [
+      "concept map",
+      "initial",
+      "diagnostic"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_REG_DESC",
+      "HER_FORM_DIG"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_REG_DESC": "complementaria",
+        "HER_FORM_DIG": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_016",
+      "metac_032",
+      "metac_043",
+      "metac_053",
+      "metac_080"
+    ]
+  },
+  {
+    "id": "INS_LLUVIA",
+    "entity_type": "instrumento",
+    "name": "Brainstorming",
+    "type": "Diagnostic",
+    "summary": "Collective or individual activity for generating and recording ideas freely on a topic.",
+    "desc": "Brainstorming is an activity — individual or collective — in which students freely generate ideas, words or associations on a topic without initial censorship. It serves primarily as a diagnostic activity to detect prior knowledge.\n\nHow to use it for assessment: an anecdotal record or field notes allow noting relevant ideas, misunderstandings and conceptual gaps. It is not an instrument for summative grading.\n\nIt is especially useful as a lesson starter or topic introduction, and for getting a quick snapshot of what the group knows.",
+    "suitable_for": [
+      "Prior knowledge",
+      "creative thinking",
+      "group activation."
+    ],
+    "complexity": "Baja",
+    "phase": "Inicial",
+    "participation": "Grupo",
+    "tags": [
+      "brainstorming",
+      "ideas",
+      "activation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_NOTAS_CAMPO",
+      "HER_REG_ANE",
+      "HER_REG_DESC"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DIAG": "principal",
+        "DIM_FORM": "complementaria"
+      },
+      "rel_her": {
+        "HER_NOTAS_CAMPO": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_REG_DESC": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_BORR",
+    "entity_type": "instrumento",
+    "name": "Draft",
+    "type": "Process",
+    "summary": "Preliminary version of a written or visual work used to improve before the final product.",
+    "desc": "A draft is a preliminary version of a written, visual or audiovisual work that the student produces before the final version. Assessing the draft allows giving feedback during the process rather than only at the end.\n\nHow to use it for assessment: a feedback card or feedback/feedforward template allows providing structured comments on what to improve. The comparison between draft and final product also shows the quality of the revision process.\n\nThe draft is especially valuable in writing process assessment and in formative feedback approaches.",
+    "suitable_for": [
+      "Writing process",
+      "formative feedback",
+      "iterative improvement."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "draft",
+      "writing process",
+      "revision"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Domicilio / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_FICHA_RETRO",
+      "HER_LISTA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_CONT",
+      "DIM_FEED",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_CONT": "principal",
+        "DIM_FEED": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_FICHA_RETRO": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ENT_PAR",
+    "entity_type": "instrumento",
+    "name": "Partial submission",
+    "type": "Process",
+    "summary": "Intermediate delivery of a section or stage of a project or extended task.",
+    "desc": "A partial submission is an intermediate delivery of a section, chapter or stage of a project or extended task. It allows the teacher to give feedback before the final version and detect difficulties early.\n\nHow to use it for assessment: a feedback card or checklist allows providing structured comments on each intermediate submission. Partial marks can be included in the overall assessment.\n\nIt is especially useful for managing extended projects and promoting sustained and planned student effort.",
+    "suitable_for": [
+      "Process monitoring",
+      "regulated feedback",
+      "project management."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "partial submission",
+      "milestone",
+      "process"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_HOJA_IND",
+      "HER_RUB_PROC",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_FORM",
+      "DIM_CONT",
+      "DIM_FEED",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_FORM": "principal",
+        "DIM_CONT": "principal",
+        "DIM_FEED": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_HOJA_IND": "principal",
+        "HER_RUB_PROC": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_023",
+      "metac_040",
+      "metac_065",
+      "metac_080"
+    ]
+  },
+  {
+    "id": "INS_BIT",
+    "entity_type": "instrumento",
+    "name": "Project log",
+    "type": "Process",
+    "summary": "Sequential record of decisions, advances and difficulties throughout the development of a project.",
+    "desc": "A project log is a sequential record in which students document decisions taken, advances made, obstacles encountered and changes introduced throughout the development of a project. It externalises the project process.\n\nHow to use it for assessment: a checklist or assessment card allows evaluating regularity of documentation, quality of reflections and coherence between what was planned and what was done.\n\nIt is one of the most complete instruments for assessing the process in project-based work, as it captures evolution over time.",
+    "suitable_for": [
+      "Process documentation",
+      "reflection",
+      "project self-regulation."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso",
+    "participation": "Grupo/Alumno",
+    "tags": [
+      "project log",
+      "process",
+      "documentation"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Grupo pequeño / Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_HOJA_IND",
+      "HER_ESC_OBS",
+      "HER_RUB_PROC",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROY",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_PROY": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_HOJA_IND": "principal",
+        "HER_ESC_OBS": "complementaria",
+        "HER_RUB_PROC": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_027",
+      "metac_040",
+      "metac_043",
+      "metac_080"
+    ]
+  },
+  {
+    "id": "INS_REV_PARES",
+    "entity_type": "instrumento",
+    "name": "Peer review",
+    "type": "Peer assessment",
+    "summary": "Activity in which students assess or give feedback on a peer's work using criteria.",
+    "desc": "Peer review is an activity in which students assess or give structured feedback on a peer's work using previously agreed criteria. It promotes the appropriation of assessment criteria and collaborative learning.\n\nHow to use it for assessment: a peer assessment rubric or peer assessment card structures the review. The teacher should review the quality of feedback given and use it in combination with other assessments.\n\nIt is important to train students in how to give constructive feedback and to ensure the process is fair and does not cause conflict.",
+    "suitable_for": [
+      "Peer feedback",
+      "learning from others",
+      "assessment criteria appropriation."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso",
+    "participation": "Iguales",
+    "tags": [
+      "peer review",
+      "peer assessment",
+      "feedback"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Parejas / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_FICHA_COEV",
+      "HER_RUB_COEV",
+      "HER_FICHA_RETRO",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_FEED",
+      "DIM_COMPART",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_FEED": "principal",
+        "DIM_COMPART": "principal",
+        "DIM_TRAZ_IA": "complementaria"
+      },
+      "rel_her": {
+        "HER_FICHA_COEV": "principal",
+        "HER_RUB_COEV": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_DECL_IA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_2E1D",
+    "entity_type": "instrumento",
+    "name": "Two stars and a wish",
+    "type": "Peer assessment",
+    "summary": "Simple peer feedback technique identifying two strengths and one area for improvement.",
+    "desc": "Two stars and a wish is a simple peer feedback technique in which each student identifies two positive aspects ('stars') and one area for improvement ('wish') in a peer's work. It is quick, accessible and promotes a positive feedback climate.\n\nHow to use it for assessment: the teacher can review the feedback sheets to assess the quality of comments. They should be complemented with criteria to ensure comments go beyond the superficial.\n\nIt is especially suitable for introducing peer assessment in early stages or with younger students, as it is simple and non-threatening.",
+    "suitable_for": [
+      "Quick peer feedback",
+      "constructive assessment",
+      "positive climate."
+    ],
+    "complexity": "Baja",
+    "phase": "Proceso",
+    "participation": "Iguales",
+    "tags": [
+      "two stars and a wish",
+      "peer feedback",
+      "simple"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Parejas / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_FICHA_RETRO",
+      "HER_FICHA_COEV"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "DIM_FEED"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_FEED": "principal"
+      },
+      "rel_her": {
+        "HER_FICHA_RETRO": "principal",
+        "HER_FICHA_COEV": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_SEMAF",
+    "entity_type": "instrumento",
+    "name": "Learning traffic light",
+    "type": "Self-assessment",
+    "summary": "Quick self-assessment using three colours to indicate level of understanding or confidence.",
+    "desc": "A learning traffic light is a quick self-assessment technique in which students indicate their level of understanding or confidence using three colours: green (I understand it well), amber (I have some doubts), red (I do not understand it). It is one of the most accessible formative assessment tools.\n\nHow to use it for assessment: the teacher uses the results to adjust the pace of instruction and identify students who need support. It can be done on paper, with coloured cards, or digitally.\n\nIt assesses self-perceived understanding, not actual understanding. It gains value when followed by immediate teacher response.",
+    "suitable_for": [
+      "Quick self-assessment",
+      "metacognitive awareness",
+      "formative check."
+    ],
+    "complexity": "Baja",
+    "phase": "Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "traffic light",
+      "self-assessment",
+      "quick"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_SEMAFORO",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "complementaria",
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_FORM": "complementaria"
+      },
+      "rel_her": {
+        "HER_SEMAFORO": "principal",
+        "HER_LISTA": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_BILLETE",
+    "entity_type": "instrumento",
+    "name": "Exit ticket",
+    "type": "Self-assessment/formative",
+    "summary": "Brief written response at the end of a session to check understanding and raise doubts.",
+    "desc": "An exit ticket is a brief written activity completed at the end of a session in which students respond to one or two questions: What have I learned? What question do I have? What do I need to review? The teacher collects the responses and reviews them before the next session.\n\nHow to use it for assessment: the teacher analyses the responses to adjust subsequent instruction. It is not an instrument for summative grading but a powerful formative tool.\n\nIt is especially quick and easy to implement and provides very direct information about comprehension at the end of each session.",
+    "suitable_for": [
+      "Lesson closing",
+      "immediate check",
+      "collecting doubts."
+    ],
+    "complexity": "Baja",
+    "phase": "Proceso",
+    "participation": "Alumno",
+    "tags": [
+      "exit ticket",
+      "lesson closing",
+      "check"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_ENC_CUEST"
+    ],
+    "related_tools": [
+      "HER_FORM_DIG",
+      "HER_LISTA",
+      "HER_FICHA_RETRO"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_SONDEO": "principal",
+        "TEC_ENC_CUEST": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_AUTO": "complementaria",
+        "DIM_FORM": "principal"
+      },
+      "rel_her": {
+        "HER_FORM_DIG": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_FICHA_RETRO": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_LIBRO_ABIERTO",
+    "entity_type": "instrumento",
+    "name": "Open-book test",
+    "type": "Competency test",
+    "summary": "Written test in which students can consult materials, notes or sources during the exam.",
+    "desc": "An open-book test is a written assessment in which students can consult notes, textbooks, digital sources or reference materials during the exam. Since information is accessible, questions focus on application, analysis, synthesis or evaluation rather than recall.\n\nHow to use it for assessment: an analytic rubric or correction guide allows evaluating the quality of reasoning, use of information and argumentation, rather than memorisation.\n\nIt is especially suitable for competency-based assessment and for assessing higher-order thinking.",
+    "suitable_for": [
+      "Application",
+      "analysis",
+      "reasoning with information",
+      "competency-based assessment."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "open-book test",
+      "consultation",
+      "application"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_RUB_ANA",
+      "HER_BAREMO"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_HET"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_CRIT": "complementaria",
+        "DIM_HET": "complementaria"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_BAREMO": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_005",
+      "metac_012",
+      "metac_013",
+      "metac_024",
+      "metac_069"
+    ]
+  },
+  {
+    "id": "INS_TAREA_COMP_INT",
+    "entity_type": "instrumento",
+    "name": "Integrated competency task",
+    "type": "Competency test",
+    "summary": "Complex task that integrates several competencies and areas of knowledge around a real situation.",
+    "desc": "An integrated competency task is a complex assessment activity designed around a real situation that requires students to mobilise several competencies and areas of knowledge simultaneously. It goes beyond a single subject and seeks authentic transfer.\n\nHow to use it for assessment: a competency rubric or analytic rubric allows evaluating different dimensions. A weighting matrix combines scores from different competencies or criteria. Evidence triangulation strengthens the validity of the assessment.\n\nIt is the most complete instrument for competency-based assessment but requires careful design and cross-subject coordination.",
+    "suitable_for": [
+      "Competency integration",
+      "real-world transfer",
+      "interdisciplinary assessment."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "competency task",
+      "integrated",
+      "interdisciplinary"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Exterior",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_OBS_SIS",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_RUB_COMP",
+      "HER_MAP_EVID",
+      "HER_IND_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_INCL",
+      "DIM_CAL_ACRED",
+      "DIM_GAMIF",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_OBS_SIS": "complementaria",
+        "TEC_TRIANG": "principal"
+      },
+      "rel_dim": {
+        "DIM_COMP": "principal",
+        "DIM_CRIT": "principal",
+        "DIM_INCL": "principal",
+        "DIM_CAL_ACRED": "complementaria",
+        "DIM_GAMIF": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_COMP": "principal",
+        "HER_MAP_EVID": "principal",
+        "HER_IND_CRIT": "principal",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_027",
+      "metac_052"
+    ]
+  },
+  {
+    "id": "INS_SIT_PROB",
+    "entity_type": "instrumento",
+    "name": "Problem-situation",
+    "type": "Test/performance",
+    "summary": "Real or simulated situation that poses a challenge requiring the student to apply competencies to resolve it.",
+    "desc": "A problem-situation is a real or simulated context that presents a challenge or problem which the student must resolve by applying knowledge and competencies in an integrated way. It is the structural unit of competency-based assessment: context + task + criteria.\n\nHow to use it for assessment: a competency rubric or analytic rubric allows evaluating the quality of the response, the reasoning process and the use of resources.\n\nIt is especially suitable for assessing learning transfer and the ability to mobilise knowledge in authentic situations.",
+    "suitable_for": [
+      "Transfer",
+      "reasoning",
+      "contextualised competency."
+    ],
+    "complexity": "Media/Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente",
+    "tags": [
+      "problem-situation",
+      "transfer",
+      "competency"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PRUEBA",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_IND_CRIT",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_PROB",
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_GAMIF",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PRUEBA": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_PROB": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_CRIT": "principal",
+        "DIM_GAMIF": "complementaria",
+        "DIM_TRAZ_IA": "ocasional"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_IND_CRIT": "complementaria",
+        "HER_DECL_IA": "ocasional"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_ESCAPE",
+    "entity_type": "instrumento",
+    "name": "Escape room or gamified challenge",
+    "type": "Performance",
+    "summary": "Gamified activity in which students must solve challenges or puzzles using knowledge and teamwork.",
+    "desc": "An escape room or gamified challenge is an activity in which students must solve a series of linked problems or puzzles that require applying knowledge, collaboration and problem-solving strategies. It combines assessment with motivating game elements.\n\nHow to use it for assessment: an observation guide allows noting team strategies and individual contributions; an analytic rubric evaluates quality of decisions and use of content.\n\nIt is especially suitable for assessing application of knowledge in novel contexts and for competency-based assessment in a motivating format.",
+    "suitable_for": [
+      "Application of knowledge",
+      "teamwork",
+      "problem solving in context."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "escape room",
+      "gamification",
+      "challenge"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Exterior",
+    "grouping": "Grupo pequeño / Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_GUIA_OBS",
+      "HER_RUB_COOP",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_SIM",
+      "DIM_PROB",
+      "DIM_COMPART",
+      "DIM_GAMIF"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_PROD": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_SIM": "principal",
+        "DIM_PROB": "complementaria",
+        "DIM_COMPART": "complementaria",
+        "DIM_GAMIF": "principal"
+      },
+      "rel_her": {
+        "HER_GUIA_OBS": "principal",
+        "HER_RUB_COOP": "complementaria",
+        "HER_REG_ANE": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_SEMINARIO",
+    "entity_type": "instrumento",
+    "name": "Socratic seminar",
+    "type": "Oral",
+    "summary": "Structured dialogue based on open questions and evidence.",
+    "desc": "A Socratic seminar is a structured dialogue built around open questions, texts, cases or problems. Students construct responses by listening, arguing and questioning.\n\nHow to use it for assessment: a central question is prepared, ground rules for participation are agreed and the quality of contributions is recorded with an oral rubric or observation guide.\n\nIt allows assessing critical thinking and deep understanding, but requires training in listening and argumentation.",
+    "suitable_for": [
+      "Critical thinking",
+      "argumentation",
+      "deep understanding."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "socratic",
+      "seminar",
+      "dialogue"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Gran grupo / Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_ENTREV_EVAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ORAL",
+      "HER_GUIA_OBS",
+      "HER_REG_PART"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_COMPART",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ORAL": "principal",
+        "TEC_ENTREV_EVAL": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_COMPART": "complementaria",
+        "DIM_FORM": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ORAL": "principal",
+        "HER_GUIA_OBS": "complementaria",
+        "HER_REG_PART": "complementaria"
+      }
+    },
+    "metac_ids": []
+  },
+  {
+    "id": "INS_CHECK_LAB",
+    "entity_type": "instrumento",
+    "name": "Laboratory checklist",
+    "type": "Observation",
+    "summary": "Observation and self-recording activity for procedures, safety and data in the laboratory.",
+    "desc": "A laboratory checklist is a practical activity in which the student follows, documents and verifies their own laboratory procedures step by step. The evidence generated is the observable practical performance and the completed record during the session.\n\nHow to use it: it is distributed at the start of the practical session with safety, materials, procedure and data collection indicators. The student completes it as they progress. The teacher can review it together with the laboratory report.\n\nNote: strictly speaking, a checklist is also an assessment instrument (list of criteria). It is included here as assessable evidence because the student completes it as an active part of the practical session. When the teacher uses it to observe the student from outside, it functions as an assessment instrument (laboratory checklist).",
+    "suitable_for": [
+      "Safety",
+      "procedures",
+      "use of materials",
+      "data collection."
+    ],
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "laboratory",
+      "checklist",
+      "safety"
+    ],
+    "modality": "Presencial",
+    "location": "Laboratorio",
+    "grouping": "Individual / Parejas",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_LISTA",
+      "HER_GUIA_OBS",
+      "HER_REG_ANE"
+    ],
+    "related_dimensions": [
+      "DIM_DESEMP",
+      "DIM_FORM",
+      "DIM_AUTO"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal"
+      },
+      "rel_dim": {
+        "DIM_DESEMP": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_AUTO": "ocasional"
+      },
+      "rel_her": {
+        "HER_LISTA": "principal",
+        "HER_GUIA_OBS": "complementaria",
+        "HER_REG_ANE": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_011",
+      "metac_029",
+      "metac_098",
+      "metac_126",
+      "metac_129"
+    ]
+  },
+  {
+    "id": "INS_CUAD_DIG",
+    "entity_type": "instrumento",
+    "name": "Digital notebook",
+    "type": "Digital/process",
+    "summary": "Continuous digital record of activities, notes, evidence and reflections.",
+    "desc": "A digital notebook is a working space where the student keeps activities, notes, responses, evidence and reflections in digital format.\n\nHow to use it for assessment: the teacher reviews selected entries, progress, corrections and organisation. The revision history can show progress and consistency, but should be interpreted alongside the quality of the evidence.\n\nIt is useful for continuous assessment and digital competency, provided there are clear review criteria.",
+    "suitable_for": [
+      "Monitoring",
+      "organisation",
+      "progress",
+      "digital evidence."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "digital notebook",
+      "monitoring",
+      "evidence"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_HIST_REV",
+      "HER_PANEL",
+      "HER_BANCO_EVID",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_CONT",
+      "DIM_INCL",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ANAL_DOC": "principal",
+        "TEC_INTER_DIG": "complementaria",
+        "TEC_PROC_REFLEX": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_CONT": "principal",
+        "DIM_INCL": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_HIST_REV": "principal",
+        "HER_PANEL": "complementaria",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_069",
+      "metac_080",
+      "metac_083",
+      "metac_084"
+    ]
+  },
+  {
+    "id": "INS_EPORT_SEL",
+    "entity_type": "instrumento",
+    "name": "E-portfolio with selected evidence",
+    "type": "Digital/process",
+    "summary": "Digital portfolio where students select and justify their learning evidence.",
+    "desc": "An e-portfolio with selected evidence is not simply a folder of works: it requires students to choose evidence, explain why it demonstrates specific criteria and reflect on their progress.\n\nHow to use it for assessment: criteria to be evidenced are defined, the number of pieces of evidence to be selected is specified and how they are to be justified is explained. The evidence map by criterion allows checking coverage and quality.\n\nIt is especially suitable for continuous, criteria-based and competency-based assessment.",
+    "suitable_for": [
+      "Progress",
+      "metacognition",
+      "criteria-based assessment",
+      "accreditation."
+    ],
+    "complexity": "Alta",
+    "phase": "Proceso/Final",
+    "participation": "Alumno/Docente",
+    "tags": [
+      "eportfolio",
+      "evidence",
+      "selection"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_ANAL_DOC",
+      "TEC_PROC_REFLEX",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_MAP_EVID",
+      "HER_BANCO_EVID",
+      "HER_ESC_PROG",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_CRIT",
+      "DIM_CONT",
+      "DIM_FEED",
+      "DIM_CAL_ACRED",
+      "DIM_COMPART",
+      "DIM_INCL",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_ANAL_DOC": "principal",
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_TRIANG": "principal"
+      },
+      "rel_dim": {
+        "DIM_CRIT": "principal",
+        "DIM_CONT": "principal",
+        "DIM_FEED": "complementaria",
+        "DIM_CAL_ACRED": "complementaria",
+        "DIM_COMPART": "complementaria",
+        "DIM_INCL": "principal",
+        "DIM_TRAZ_IA": "principal"
+      },
+      "rel_her": {
+        "HER_MAP_EVID": "principal",
+        "HER_BANCO_EVID": "principal",
+        "HER_ESC_PROG": "complementaria",
+        "HER_DECL_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_016",
+      "metac_023",
+      "metac_030",
+      "metac_045",
+      "metac_053"
+    ]
+  },
+  {
+    "id": "INS_CUAD_CAMPO",
+    "entity_type": "instrumento",
+    "name": "Field notebook",
+    "type": "Written/observational production",
+    "summary": "Record of observations, data and reflections during outdoor or real-world activities.",
+    "desc": "The field notebook is the record produced by the student during activities carried out outside the classroom: field trips, visits, environmental studies or activities in natural spaces. Unlike the classroom notebook (INS_CUADERNO), it documents real-time observations in uncontrolled contexts; unlike the laboratory report (INS_INFO_LAB), it does not follow a closed experimental structure, but collects notes, sketches, measurements and on-the-spot reflections.\n\nHow to use it for assessment: the student records direct observations, measured data, drawings or sketches, emerging questions and initial reflections. The teacher assesses the accuracy and completeness of observations, the ability to record relevant data, and the quality of reflection on what was observed. A correction guide listing the expected elements supports consistent assessment.\n\nIt is especially useful in natural sciences, geography, environmental education, local history and any subject that uses the environment as a source of learning. Its value lies in the fact that evidence is generated on the spot, providing authenticity and contextualisation that are hard to replicate in the classroom.",
+    "suitable_for": [
+      "In situ observation",
+      "data recording",
+      "connection with the natural or social environment."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "field notebook",
+      "outdoor",
+      "observation",
+      "nature"
+    ],
+    "modality": "Presencial",
+    "location": "Outdoors / Laboratory / Classroom",
+    "grouping": "Individual / Small group",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_OBS_SIS",
+      "TEC_PROD",
+      "TEC_PROC_REFLEX"
+    ],
+    "related_tools": [
+      "HER_GUIA_CORR",
+      "HER_LISTA",
+      "HER_NOTAS_CAMPO",
+      "HER_RUB_ANA",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_INDAG",
+      "DIM_COMP",
+      "DIM_FORM",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_OBS_SIS": "principal",
+        "TEC_PROD": "complementaria",
+        "TEC_PROC_REFLEX": "ocasional"
+      },
+      "rel_her": {
+        "HER_GUIA_CORR": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_NOTAS_CAMPO": "complementaria",
+        "HER_RUB_ANA": "ocasional",
+        "HER_DECL_IA": "complementaria"
+      },
+      "rel_dim": {
+        "DIM_INDAG": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_FORM": "complementaria",
+        "DIM_TRAZ_IA": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_008",
+      "metac_029",
+      "metac_039",
+      "metac_043",
+      "metac_098"
+    ]
+  },
+  {
+    "id": "INS_MICROVIDEO",
+    "entity_type": "instrumento",
+    "name": "Educational micro-video",
+    "type": "Audiovisual production",
+    "summary": "Short video (60–90 s) that explains, communicates or argues about a topic.",
+    "desc": "An educational micro-video is a short audiovisual production (usually between 60 and 90 seconds) in which the student explains a concept, argues a position, summarises a topic or communicates results in a concise and direct way. It differs from a conventional video (INS_VIDEO) in that it requires maximum condensation of the message; and from a video tutorial (INS_TUTORIAL) in that it does not necessarily follow a step-by-step procedural structure.\n\nHow to use it for assessment: clarity and accuracy of the message, suitability for the intended audience, narrative structure within the limited duration, correctness of content and basic technical quality (image, sound) are all assessed. An analytical rubric that distinguishes between content and production allows specific feedback. Peer assessment is particularly natural for this format.\n\nIt is motivating for students who learn better through visual and oral formats than through writing. It develops digital competence, communication skills and the ability to synthesise.",
+    "suitable_for": [
+      "Synthesis",
+      "concise communication",
+      "creativity",
+      "digital competence."
+    ],
+    "complexity": "Media",
+    "phase": "Final",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "micro-video",
+      "short",
+      "reel",
+      "educational",
+      "digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Classroom / Virtual / Home / Outdoors",
+    "grouping": "Individual / Pairs",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROD",
+      "TEC_ORAL"
+    ],
+    "related_tools": [
+      "HER_RUB_ANA",
+      "HER_RUB_PROD",
+      "HER_LISTA",
+      "HER_FICHA_COEV",
+      "HER_DECL_IA"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_COMP",
+      "DIM_DESEMP",
+      "DIM_TRAZ_IA"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROD": "principal",
+        "TEC_ORAL": "complementaria"
+      },
+      "rel_her": {
+        "HER_RUB_ANA": "principal",
+        "HER_RUB_PROD": "complementaria",
+        "HER_LISTA": "complementaria",
+        "HER_FICHA_COEV": "ocasional",
+        "HER_DECL_IA": "principal"
+      },
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_COMP": "complementaria",
+        "DIM_DESEMP": "complementaria",
+        "DIM_TRAZ_IA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_005",
+      "metac_028",
+      "metac_048",
+      "metac_083",
+      "metac_088"
+    ]
+  },
+  {
+    "id": "INS_BIT_IA",
+    "entity_type": "instrumento",
+    "name": "AI process log",
+    "type": "Digital/proceso",
+    "summary": "Record of the work process, AI use, sources, versions and decisions made.",
+    "desc": "The AI process log is evidence in which the student documents how they produced a task when digital tools, external sources or generative AI could be used. It records the work journey, not only the final product.\n\nHow to use it for assessment: students record relevant steps, sources consulted, prompts or instructions used, responses used or discarded, changes between versions, checks carried out and their own decisions. They do not need to keep everything, only enough evidence to explain the process.\n\nIt supports assessment of authorship, critical thinking, revision, improvement and responsible AI use. It should be linked to specific criteria so that it does not become a formal declaration with no assessment value.",
+    "suitable_for": [
+      "Projects",
+      "research tasks",
+      "digital productions",
+      "AI-supported tasks",
+      "work outside the classroom."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "ai",
+      "prompts",
+      "process",
+      "authorship",
+      "sources",
+      "versions"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual / Domicilio",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG",
+      "TEC_TRIANG"
+    ],
+    "related_tools": [
+      "HER_DECL_IA",
+      "HER_HIST_REV",
+      "HER_MAP_EVID",
+      "HER_RUB_PROC",
+      "HER_FICHA_RETRO",
+      "HER_BANCO_EVID"
+    ],
+    "related_dimensions": [
+      "DIM_TRAZ_IA",
+      "DIM_DIG",
+      "DIM_FORM",
+      "DIM_FEED",
+      "DIM_COMP"
+    ],
+    "rel_meta": {
+      "rel_tec": {
+        "TEC_PROC_REFLEX": "principal",
+        "TEC_ANAL_DOC": "principal",
+        "TEC_INTER_DIG": "complementaria",
+        "TEC_TRIANG": "ocasional"
+      },
+      "rel_dim": {
+        "DIM_TRAZ_IA": "principal",
+        "DIM_DIG": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_FEED": "complementaria",
+        "DIM_COMP": "ocasional"
+      },
+      "rel_her": {
+        "HER_DECL_IA": "principal",
+        "HER_HIST_REV": "principal",
+        "HER_MAP_EVID": "complementaria",
+        "HER_RUB_PROC": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_BANCO_EVID": "ocasional"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_027",
+      "metac_040",
+      "metac_053",
+      "metac_083"
+    ]
+  }
+]

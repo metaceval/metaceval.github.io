@@ -4922,21 +4922,31 @@ function evalNavUpdateBtns() {
   });
 }
 
+function evalNavGo(id) {
+  const entity = evalEntityById(id);
+  if (!entity) return;
+  EGRAPH._navigating = true;
+  const inFullMap = document.getElementById('evalMapView')?.style.display !== 'none';
+  if (inFullMap) {
+    const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(id));
+    renderEvalMapNodePanel(entity, cat);
+  } else {
+    showEvalDetail(id);
+  }
+  EGRAPH._navigating = false;
+}
+
 function evalNavBack() {
   if (EGRAPH.navPos <= 0) return;
   EGRAPH.navPos--;
-  EGRAPH._navigating = true;
-  showEvalDetail(EGRAPH.navHistory[EGRAPH.navPos]);
-  EGRAPH._navigating = false;
+  evalNavGo(EGRAPH.navHistory[EGRAPH.navPos]);
   evalNavUpdateBtns();
 }
 
 function evalNavFwd() {
   if (EGRAPH.navPos >= EGRAPH.navHistory.length - 1) return;
   EGRAPH.navPos++;
-  EGRAPH._navigating = true;
-  showEvalDetail(EGRAPH.navHistory[EGRAPH.navPos]);
-  EGRAPH._navigating = false;
+  evalNavGo(EGRAPH.navHistory[EGRAPH.navPos]);
   evalNavUpdateBtns();
 }
 
@@ -5034,6 +5044,14 @@ function renderEvalNodePanel(entity, cat) {
 function renderEvalMapNodePanel(entity, cat) {
   const panel = document.getElementById('evalMapNodePanel');
   if (!panel) return;
+
+  if (!EGRAPH._navigating) {
+    EGRAPH.navHistory = EGRAPH.navHistory.slice(0, EGRAPH.navPos + 1);
+    EGRAPH.navHistory.push(entity.id);
+    EGRAPH.navPos = EGRAPH.navHistory.length - 1;
+    evalNavUpdateBtns();
+  }
+
   const prefix = evalEntityPrefix(entity.id);
 
   document.getElementById('evalMapNodePanelName').textContent = entity.name;

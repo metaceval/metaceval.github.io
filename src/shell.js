@@ -25,7 +25,8 @@ async function switchLang(lang) {
 
   const u = new URL(location.href);
   u.searchParams.set('lang', lang);
-  history.replaceState({}, '', u);
+  applyViewParam(u);
+  history.replaceState(history.state || {}, '', u);
 
   applyI18N();
   updateSharedBanner();

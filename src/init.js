@@ -1,5 +1,19 @@
 // ─── INIT ────────────────────────────────────────────────────────────────────
 
+function parseViewParam(vp) {
+  if (!vp) return null;
+  if (vp === 'tecnicas') return { view: 'tecnicas', mapMode: false };
+  if (vp === 'tecnicas-map') return { view: 'tecnicas', mapMode: true };
+  if (vp.startsWith('eval-')) {
+    const rest = vp.slice(5);
+    const isMap = rest.endsWith('-map');
+    const cat = isMap ? rest.slice(0, -4) : rest;
+    if (!EVAL_CATS.find(c => c.id === cat)) return null;
+    return { view: 'evaluacion', evalCat: cat, mapMode: isMap };
+  }
+  return null;
+}
+
 async function init() {
   loadFavs();
   loadCats();
@@ -15,6 +29,7 @@ async function init() {
   if (t) S.shared = uniqueIds(t.split(','));
   const tname = p.get('tname');
   if (tname) S.sharedName = tname;
+  const viewParam = p.get('view');
 
   applyI18N();
   updateSharedBanner();
@@ -68,6 +83,21 @@ async function init() {
     renderBlockTabs(); renderTabs(); renderCards();
     loadEvalLang(S.lang).catch(() => {});
     if (S.shared && S.shared.length === 1) openModal(S.shared[0]);
+  } else if (viewParam && parseViewParam(viewParam)) {
+    // Deep-link URL → navigate to specified view
+    const vp = parseViewParam(viewParam);
+    if (vp.view === 'evaluacion') {
+      S.evalCat = vp.evalCat;
+      try { await loadEvalLang(S.lang); } catch {}
+      S.evalMapMode = vp.mapMode;
+      switchView('evaluacion');
+    } else {
+      renderBlockTabs(); renderTabs();
+      S.mapMode = false;
+      renderCards();
+      if (vp.mapMode) toggleMapView();
+      loadEvalLang(S.lang).catch(() => {});
+    }
   } else if (S._hasSessionView && S.view === 'evaluacion') {
     // Restore session eval view
     try { await loadEvalLang(S.lang); } catch {}
@@ -247,7 +277,8 @@ async function init() {
     const u = new URL(location.href);
     u.searchParams.delete('t');
     u.searchParams.delete('tname');
-    history.replaceState({}, '', u);
+    applyViewParam(u);
+    history.replaceState(history.state || {}, '', u);
     updateSharedBanner();
     applyI18N();
     if (S.view === 'evaluacion') renderEvalCards(); else renderCards();
@@ -294,7 +325,9 @@ async function init() {
   });
 
   // Seed initial history state so popstate has something to return to
-  history.replaceState(getNavState(), '');
+  const uSeed = new URL(location.href);
+  applyViewParam(uSeed);
+  history.replaceState(getNavState(), '', uSeed);
 }
 
 init();

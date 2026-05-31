@@ -9,12 +9,29 @@ function getNavState() {
   return { screen: 'tecnicas', map: !!S.mapMode };
 }
 
+function getViewParam() {
+  if (document.getElementById('homeView').classList.contains('visible')) return null;
+  if (S.view === 'evaluacion') {
+    const cat = S.evalCat || EVAL_CATS[0].id;
+    return 'eval-' + cat + (S.evalMapMode ? '-map' : '');
+  }
+  return 'tecnicas' + (S.mapMode ? '-map' : '');
+}
+
+function applyViewParam(u) {
+  const vp = getViewParam();
+  if (vp) u.searchParams.set('view', vp);
+  else u.searchParams.delete('view');
+}
+
 function navPush() {
   if (S._popping || S._navLock) return;
   const st = getNavState();
   const cur = history.state;
   if (cur && cur.screen === st.screen && cur.evalCat === st.evalCat && !!cur.map === !!st.map) return;
-  history.pushState(st, '');
+  const u = new URL(location.href);
+  applyViewParam(u);
+  history.pushState(st, '', u);
 }
 
 function showHome() {

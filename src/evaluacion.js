@@ -2,6 +2,43 @@
 
 const dismissedEvalDescs = new Set();
 
+function recalcSplitViewTop() {
+  const hdr   = document.querySelector('header');
+  const vTog  = document.getElementById('viewToggle');
+  const eNav  = document.getElementById('evalNavBar');
+  const split = document.getElementById('evalSplitView');
+  if (!split || split.style.display === 'none') return;
+  const top = (hdr?.offsetHeight || 0) + (vTog?.offsetHeight || 0) + (eNav?.offsetHeight || 0);
+  split.style.top = (top + 6) + 'px';
+}
+
+function renderEvalNavFilter() {
+  const row = document.getElementById('evalNavFilterRow');
+  if (!row) return;
+  const activeCount = evalActiveFilterCount();
+  row.innerHTML = EVAL_GLOBAL_FILTERS.map(filter => `
+    <div class="eval-filter-nav-item">
+      <span class="eval-filter-nav-label">${esc(i(filter.label))}</span>
+      <select data-eval-filter="${filter.key}">
+        <option value="">${esc(i('evalFilterAll'))}</option>
+        ${getEvalFilterOptions(filter.field).map(value =>
+          `<option value="${esc(value)}" ${S[filter.key] === value ? 'selected' : ''}>${esc(evalFilterValueLabel(value))}</option>`
+        ).join('')}
+      </select>
+    </div>
+  `).join('') + `<button class="btn eval-filter-clear-inline" type="button" ${activeCount ? '' : 'style="display:none"'}>${esc(i('evalFiltersClear'))}</button>`;
+
+  row.querySelectorAll('[data-eval-filter]').forEach(sel => {
+    sel.onchange = e => {
+      S[e.target.dataset.evalFilter] = e.target.value;
+      S.evalPage = 0;
+      renderEvalList();
+    };
+  });
+  const clearBtn = row.querySelector('.eval-filter-clear-inline');
+  if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; renderEvalList(); };
+}
+
 function syncEvalViewMode() {
   const cardsBtn = document.getElementById('evalViewModeCards');
   const mapBtn   = document.getElementById('evalViewModeMap');
@@ -11,6 +48,8 @@ function syncEvalViewMode() {
   if (hubCtrl) hubCtrl.style.display = S.evalMapMode ? '' : 'none';
   const hubTypes = document.getElementById('evalHubTypeToggles');
   if (hubTypes) hubTypes.style.display = S.evalMapMode ? '' : 'none';
+  const filterRow = document.getElementById('evalNavFilterRow');
+  if (filterRow) filterRow.style.display = S.evalMapMode ? '' : 'none';
   const hub2nd = document.getElementById('evalHub2ndBtn');
   if (hub2nd) hub2nd.classList.toggle('active', !!EGRAPH.expanded);
   if (typeof syncEvalOccasionalButtons === 'function') syncEvalOccasionalButtons();
@@ -381,9 +420,11 @@ function renderEvalList() {
     </div>
     ${descText ? `<div class="eval-cat-desc">${descText}</div>` : ''}`;
 
+  renderEvalNavFilter();
+  recalcSplitViewTop();
+
   if (!filtered.length) {
     panel.innerHTML = header;
-    panel.appendChild(buildEvalFilterBar(true));
     const empty = document.createElement('div');
     empty.style.padding = '16px';
     empty.style.color = 'var(--text-muted)';
@@ -399,7 +440,6 @@ function renderEvalList() {
     return;
   }
   panel.innerHTML = header;
-  panel.appendChild(buildEvalFilterBar(true));
   panel.insertAdjacentHTML('beforeend', filtered.map(e => {
     const pfx = evalEntityPrefix(e.id).toLowerCase();
     const catCls = pfx ? ` cat-${pfx === 'tec' ? 'tec' : pfx === 'ins' ? 'ins' : pfx === 'her' ? 'her' : pfx === 'dim' ? 'dim' : ''}` : '';

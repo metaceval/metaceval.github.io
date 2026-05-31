@@ -1867,7 +1867,7 @@
     .view-btn:not(.active):hover { color: var(--text); }
 
     /* ── Eval nav tabs (evaluation view) ───────────────────── */
-    .eval-nav { background: var(--bg); border-bottom: 0; padding: 8px 0 4px; overflow-x: visible; scrollbar-width: none; display: flex; align-items: center; }
+    .eval-nav { background: var(--bg); border-bottom: 0; padding: 8px 0 4px; overflow-x: visible; scrollbar-width: none; display: flex; align-items: center; flex-wrap: wrap; }
     .eval-nav::-webkit-scrollbar { display: none; }
     .eval-nav-inner { width: min(calc(100% - 40px), 1360px); margin: 0 auto; display: flex; gap: 4px; padding: 6px 10px; align-items: center; background: #eef2ff; border: 1px solid #c7d2fe; border-radius: var(--radius-sm); flex-wrap: wrap; }
     [data-theme="dark"] .eval-nav-inner { background: #1e1b4b; border-color: #3730a3; }
@@ -1878,6 +1878,31 @@
       flex-wrap: wrap;
     }
     .eval-nav-sep { width: 1px; height: 18px; background: #a5b4fc; margin: 0 8px; flex-shrink: 0; }
+    .eval-nav-filter-row {
+      flex-basis: 100%;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px 14px;
+      padding: 5px 14px 8px;
+      border-top: 1px solid #c7d2fe;
+      background: #eef2ff;
+    }
+    [data-theme="dark"] .eval-nav-filter-row { background: #1e1b4b; border-top-color: #3730a3; }
+    .eval-filter-nav-item { display: flex; align-items: center; gap: 5px; }
+    .eval-filter-nav-label { font-size: .72rem; font-weight: 600; color: #4338ca; white-space: nowrap; }
+    [data-theme="dark"] .eval-filter-nav-label { color: #a5b4fc; }
+    .eval-nav-filter-row select {
+      padding: 3px 6px;
+      border: 1px solid #a5b4fc;
+      border-radius: var(--radius-sm);
+      background: #fff;
+      font-size: .78rem;
+      color: var(--text);
+      cursor: pointer;
+    }
+    [data-theme="dark"] .eval-nav-filter-row select { background: #1e1b4b; border-color: #4338ca; color: var(--text); }
+    .eval-filter-clear-inline { padding: 3px 10px !important; font-size: .75rem !important; margin-left: auto; }
     [data-theme="dark"] .eval-nav-sep { background: #4338ca; }
     /* Unified map toggles */
     .umap-toggle {

@@ -1782,7 +1782,7 @@
     /* ── Eval nav tabs (evaluation view) ───────────────────── */
     .eval-nav { background: var(--bg); border-bottom: 1px solid var(--border); overflow-x: auto; scrollbar-width: none; display: flex; align-items: center; }
     .eval-nav::-webkit-scrollbar { display: none; }
-    .eval-nav-inner { flex: 1; min-width: 0; margin: 0 auto; display: flex; gap: 4px; padding: 6px 0 6px 20px; align-items: center; }
+    .eval-nav-inner { width: min(calc(100% - 40px), 1360px); margin: 0 auto; display: flex; gap: 4px; padding: 6px 0; align-items: center; }
     .eval-nav-sep { width: 1px; height: 18px; background: var(--border); margin: 0 8px; flex-shrink: 0; }
     /* Unified map toggles */
     .umap-toggle {

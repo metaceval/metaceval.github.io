@@ -1294,6 +1294,8 @@
       padding: 8px 10px;
     }
     .map-node-panel.is-dragging .map-panel-head { cursor: grabbing; }
+    .map-nav-btn { flex-shrink: 0; }
+    .map-nav-btn:disabled { opacity: .3; cursor: default; }
     .map-panel-name {
       flex: 1;
       font-size: .92rem;
@@ -2425,6 +2427,12 @@
   </div>
   <div id="mapNodePanel" class="map-node-panel">
     <div class="map-panel-head">
+      <button class="icon-btn map-nav-btn" id="mapNavBack" style="display:none" title="Anterior">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <button class="icon-btn map-nav-btn" id="mapNavFwd" style="display:none" title="Siguiente">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
       <div class="map-panel-name" id="mapPanelName"></div>
       <button class="icon-btn map-panel-compact-open" id="mapPanelOpenCompact">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
@@ -6118,6 +6126,9 @@ const MAP = {
   panelCollapseManual: false,
   legendPos: null,
   legendDrag: null,
+  navHistory: [],   // node IDs visited in the panel
+  navPos: -1,       // current position in navHistory
+  _navigating: false,
 };
 
 const MAP_REPULSION  = 6000;
@@ -6388,6 +6399,7 @@ function initMapBlocks() {
 }
 
 function initMapData() {
+  MAP.navHistory = []; MAP.navPos = -1; mapUpdateNavBtns();
   MAP.viewMode     = 'techniques';
   const rows = filteredData().map(r => r.item)
     .sort((a, b) => alphaByLabel(a.name, b.name));
@@ -6922,6 +6934,32 @@ function mapRemoveGhosts() {
   MAP.edges  = MAP.edges.filter(e => !e.ghost && e.a < first && e.b < first);
 }
 
+function mapUpdateNavBtns() {
+  const back = document.getElementById('mapNavBack');
+  const fwd  = document.getElementById('mapNavFwd');
+  const show = MAP.navHistory.length > 1;
+  if (back) { back.style.display = show ? '' : 'none'; back.disabled = MAP.navPos <= 0; }
+  if (fwd)  { fwd.style.display  = show ? '' : 'none'; fwd.disabled  = MAP.navPos >= MAP.navHistory.length - 1; }
+}
+
+function mapNavBack() {
+  if (MAP.navPos <= 0) return;
+  MAP.navPos--;
+  const id  = MAP.navHistory[MAP.navPos];
+  const idx = MAP.nodes.findIndex(n => n.id === id);
+  if (idx >= 0) { MAP._navigating = true; mapSelectNode(idx); MAP._navigating = false; }
+  mapUpdateNavBtns();
+}
+
+function mapNavFwd() {
+  if (MAP.navPos >= MAP.navHistory.length - 1) return;
+  MAP.navPos++;
+  const id  = MAP.navHistory[MAP.navPos];
+  const idx = MAP.nodes.findIndex(n => n.id === id);
+  if (idx >= 0) { MAP._navigating = true; mapSelectNode(idx); MAP._navigating = false; }
+  mapUpdateNavBtns();
+}
+
 function mapSelectNode(idx) {
   mapRemoveGhosts();
   if (idx < 0) {
@@ -6935,6 +6973,14 @@ function mapSelectNode(idx) {
   S.mapColorMode = 'depth';
   MAP.selected     = idx;
   MAP.selNeighbors = new Map();
+
+  // Push to navigation history (skip when navigating via back/forward)
+  if (!MAP._navigating) {
+    MAP.navHistory = MAP.navHistory.slice(0, MAP.navPos + 1);
+    MAP.navHistory.push(MAP.nodes[idx].id);
+    MAP.navPos = MAP.navHistory.length - 1;
+  }
+  mapUpdateNavBtns();
 
   const nd   = MAP.nodes[idx];
   const item = itemById(nd.id);
@@ -8801,6 +8847,8 @@ async function init() {
   if (gapPlus)  gapPlus.onclick  = () => { MAP.gap = Math.min(GAP_MAX, MAP.gap + GAP_STEP); updateGapUI(); MAP.alpha = Math.max(MAP.alpha, 0.6); };
   updateGapUI();
   document.getElementById('mapPanelClose').onclick = () => { mapSelectNode(-1); };
+  document.getElementById('mapNavBack').onclick = e => { e.stopPropagation(); mapNavBack(); };
+  document.getElementById('mapNavFwd').onclick  = e => { e.stopPropagation(); mapNavFwd(); };
   document.getElementById('mapPanelToggle').onclick = e => {
     e.stopPropagation();
     mapSetPanelCollapsed(!MAP.panelCollapsed);

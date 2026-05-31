@@ -1872,6 +1872,13 @@
     }
 
     /* ── HOME VIEW ───────────────────────────────────────────────────────────── */
+    .home-topbar {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 20px 0;
+    }
     #homeView {
       display: none;
       position: fixed;
@@ -2177,6 +2184,14 @@
 
 <!-- ═══ HOME VIEW ═══ -->
 <div id="homeView">
+  <div class="home-topbar">
+    <div class="lang-group">
+      <button class="lang-btn" data-lang="es" onclick="switchLang('es')">ES</button>
+      <button class="lang-btn" data-lang="ca" onclick="switchLang('ca')">CA</button>
+      <button class="lang-btn" data-lang="en" onclick="switchLang('en')">EN</button>
+    </div>
+    <button class="theme-btn" id="homethemeBtn" aria-label="Cambiar tema"></button>
+  </div>
   <div class="home-inner">
     <div class="home-hero">
       <img src="favicon.svg" class="home-hero-logo" alt="Metaceval" width="56" height="56">
@@ -2273,6 +2288,31 @@
 
     </div>
   </div>
+  <footer class="site-footer">
+    <div class="footer-row">
+      <span>© <a href="https://bilateria.org" target="_blank" rel="noopener noreferrer">Juan José de Haro</a></span>
+      <span class="footer-sep">·</span>
+      <a id="hfooterProject" href="https://github.com/metaceval/metaceval.github.io" target="_blank" rel="noopener noreferrer">Proyecto en GitHub</a>
+      <span class="footer-sep">·</span>
+      <a id="hfooterIssues" href="https://github.com/metaceval/metaceval.github.io/issues" target="_blank" rel="noopener noreferrer">Sugerencias y problemas</a>
+      <span class="footer-sep">·</span>
+      <span>v1.0.3</span>
+    </div>
+    <div class="footer-licenses">
+      <span class="footer-badge" id="hfooterContentBadge" title="Contenido bajo licencia Creative Commons BY-SA 4.0">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+        <span id="hfooterContentLabel">Contenido:</span> <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>
+      </span>
+      <span class="footer-badge" id="hfooterCodeBadge" title="Código fuente bajo licencia AGPLv3">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+        <span id="hfooterCodeLabel">Código:</span> <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank" rel="noopener noreferrer">AGPLv3</a>
+      </span>
+      <span class="footer-badge" id="hfooterDbBadge" title="Los archivos CSV no pueden ser reproducidos ni redistribuidos sin permiso">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        <span id="hfooterDbText">Base de datos: © Juan José de Haro, todos los derechos reservados</span>
+      </span>
+    </div>
+  </footer>
 </div>
 
 <!-- ═══ VIEW TOGGLE ═══ -->
@@ -3917,6 +3957,14 @@ function applyI18N() {
   setText('footerCodeLabel', i('footerCode'));
   setTitle('footerDbBadge', i('footerDbTitle'));
   setText('footerDbText', i('footerDb'));
+  setText('hfooterProject', i('footerProject'));
+  setText('hfooterIssues', i('footerIssues'));
+  setTitle('hfooterContentBadge', i('footerContentTitle'));
+  setText('hfooterContentLabel', i('footerContent'));
+  setTitle('hfooterCodeBadge', i('footerCodeTitle'));
+  setText('hfooterCodeLabel', i('footerCode'));
+  setTitle('hfooterDbBadge', i('footerDbTitle'));
+  setText('hfooterDbText', i('footerDb'));
   const loadingMsg = document.getElementById('loadingMsg');
   if (loadingMsg) loadingMsg.textContent = i('loading');
   setText('mapViewBtnLabel', S.mapMode ? i('mapViewClose') : i('mapView'));
@@ -5968,13 +6016,11 @@ function applyTheme(pref) {
   const isDark = pref === 'dark' || (pref === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
   document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
   document.documentElement.setAttribute('data-theme-pref', pref);
-  const btn = document.getElementById('themeBtn');
-  if (btn) {
-    const label = i(THEME_LABEL_KEYS[pref]);
-    btn.innerHTML = THEME_ICONS[pref];
-    btn.title = label;
-    btn.setAttribute('aria-label', label);
-  }
+  const label = i(THEME_LABEL_KEYS[pref]);
+  ['themeBtn', 'homethemeBtn'].forEach(id => {
+    const btn = document.getElementById(id);
+    if (btn) { btn.innerHTML = THEME_ICONS[pref]; btn.title = label; btn.setAttribute('aria-label', label); }
+  });
 }
 
 applyTheme(localStorage.getItem(THEME_KEY) || 'auto');
@@ -8654,11 +8700,14 @@ async function init() {
     input.focus();
   };
 
-  document.getElementById('themeBtn').addEventListener('click', () => {
-    const cur = document.documentElement.getAttribute('data-theme-pref') || 'auto';
-    const next = THEMES[(THEMES.indexOf(cur) + 1) % THEMES.length];
-    localStorage.setItem(THEME_KEY, next);
-    applyTheme(next);
+  ['themeBtn', 'homethemeBtn'].forEach(id => {
+    const btn = document.getElementById(id);
+    if (btn) btn.addEventListener('click', () => {
+      const cur = document.documentElement.getAttribute('data-theme-pref') || 'auto';
+      const next = THEMES[(THEMES.indexOf(cur) + 1) % THEMES.length];
+      localStorage.setItem(THEME_KEY, next);
+      applyTheme(next);
+    });
   });
 
   document.querySelectorAll('.lang-btn').forEach(b => b.onclick = () => switchLang(b.dataset.lang));

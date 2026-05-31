@@ -118,18 +118,19 @@ function renderEvalTypeToggles(targetId) {
   const pal  = dark ? EGPAL.dark : EGPAL.light;
   const lockedPrefix = evalCurrentCenterPrefix();
 
-  bar.innerHTML = EVAL_GRAPH_TYPES.map(type => {
+  bar.innerHTML = `<span class="eval-type-filter-label">${esc(i('evalTypeFilterLabel'))}</span>` +
+  EVAL_GRAPH_TYPES.map(type => {
     const col = pal[type.prefix];
     const active = EGRAPH.vis[type.prefix];
     const locked = lockedPrefix === type.prefix;
-    return `<button class="umap-toggle${active ? ' on' : ''}" data-prefix="${type.prefix}"
+    return `<button class="eval-type-toggle${active ? ' on' : ''}" data-prefix="${type.prefix}"
       ${locked ? 'disabled aria-disabled="true"' : ''}
-      style="background:${active ? col.bg : 'transparent'};color:${active ? col.text : 'var(--text-muted)'};border-color:${active ? col.edge : 'var(--border)'}"
+      style="${active ? `background:${col.bg};color:${col.text};border-color:${col.edge}` : ''}"
       title="${esc(i(type.label))}"
     >${esc(i(type.label))}</button>`;
   }).join('');
 
-  bar.querySelectorAll('.umap-toggle').forEach(btn => {
+  bar.querySelectorAll('.eval-type-toggle').forEach(btn => {
     if (btn.disabled) return;
     btn.onclick = () => {
       EGRAPH.vis[btn.dataset.prefix] = !EGRAPH.vis[btn.dataset.prefix];

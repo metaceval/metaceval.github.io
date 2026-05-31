@@ -1871,12 +1871,39 @@
     .eval-nav::-webkit-scrollbar { display: none; }
     .eval-nav-inner { width: min(calc(100% - 40px), 1360px); margin: 0 auto; display: flex; gap: 4px; padding: 6px 10px; align-items: center; background: #eef2ff; border: 1px solid #c7d2fe; border-radius: var(--radius-sm); flex-wrap: wrap; }
     [data-theme="dark"] .eval-nav-inner { background: #1e1b4b; border-color: #3730a3; }
-    #evalHubTypeToggles {
-      margin-top: -2px;
-      padding-top: 0;
-      padding-bottom: 6px;
+    .eval-type-filter-bar {
+      flex-basis: 100%;
+      display: flex;
+      align-items: center;
       flex-wrap: wrap;
+      gap: 5px;
+      padding: 5px 14px 7px;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
     }
+    .eval-type-filter-label {
+      font-size: .72rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      white-space: nowrap;
+      margin-right: 2px;
+    }
+    .eval-type-toggle {
+      padding: 3px 10px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-muted);
+      font-size: .76rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all .15s;
+    }
+    .eval-type-toggle.on { opacity: 1; }
+    .eval-type-toggle:not(.on) { opacity: .45; }
+    .eval-type-toggle:hover { opacity: 1 !important; }
+    .eval-type-toggle:disabled { cursor: default; opacity: 1 !important; }
+    [data-theme="dark"] .eval-type-filter-bar { background: var(--bg); border-top-color: var(--border); }
     .eval-nav-sep { width: 1px; height: 18px; background: #a5b4fc; margin: 0 8px; flex-shrink: 0; }
     .eval-nav-filter-row {
       flex-basis: 100%;

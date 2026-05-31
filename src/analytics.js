@@ -1,6 +1,6 @@
 (function () {
-  const ANALYTICS_FALLBACK_ENDPOINT = 'https://bilateria.org/app/estadistica/metac/track.php';
-  const ANALYTICS_FALLBACK_SITE_ID = 'metac';
+  const ANALYTICS_FALLBACK_ENDPOINT = 'https://bilateria.org/app/estadistica/metaceval/track.php';
+  const ANALYTICS_FALLBACK_SITE_ID = 'metaceval';
   const ANALYTICS_COOLDOWN_MS = 30 * 60 * 1000;
   const ANALYTICS_TIMEOUT_MS = 4000;
 

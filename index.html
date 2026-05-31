@@ -1689,13 +1689,12 @@
       text-align: center;
       padding: 24px;
     }
-    .eval-hub-controls {
-      position: absolute;
-      top: 6px;
-      right: 8px;
+    .eval-hub-controls-nav {
       display: flex;
+      align-items: center;
       gap: 4px;
-      z-index: 2;
+      margin-left: auto;
+      padding-right: 8px;
     }
     /* Mobile: stack vertically */
     @media (max-width: 640px) {
@@ -1746,9 +1745,9 @@
     .view-btn:not(.active):hover { color: var(--text); }
 
     /* ── Eval nav tabs (evaluation view) ───────────────────── */
-    .eval-nav { background: var(--bg); border-bottom: 1px solid var(--border); overflow-x: auto; scrollbar-width: none; }
+    .eval-nav { background: var(--bg); border-bottom: 1px solid var(--border); overflow-x: auto; scrollbar-width: none; display: flex; align-items: center; }
     .eval-nav::-webkit-scrollbar { display: none; }
-    .eval-nav-inner { width: min(calc(100% - 40px), 1360px); margin: 0 auto; display: flex; gap: 4px; padding: 6px 0; align-items: center; }
+    .eval-nav-inner { flex: 1; min-width: 0; margin: 0 auto; display: flex; gap: 4px; padding: 6px 0 6px 20px; align-items: center; }
     .eval-nav-sep { width: 1px; height: 18px; background: var(--border); margin: 0 8px; flex-shrink: 0; }
     /* Unified map toggles */
     .umap-toggle {
@@ -2347,6 +2346,11 @@
 <!-- ═══ EVAL TABS (evaluación view) ═══ -->
 <nav class="eval-nav" id="evalNavBar" style="display:none">
   <div class="eval-nav-inner" id="evalTabs"></div>
+  <div class="eval-hub-controls-nav" id="evalHubControls" style="display:none">
+    <button class="btn" id="evalHub2ndBtn" style="font-size:.74rem;padding:3px 8px;">2.º nivel</button>
+    <button class="btn" id="evalHubFitBtn" style="font-size:.74rem;padding:3px 8px;">⊙</button>
+    <button class="btn" id="evalHubFullBtn" style="font-size:.74rem;padding:3px 8px;" title="Pantalla completa">⛶</button>
+  </div>
 </nav>
 
 <!-- ═══ SHARED BANNER ═══ -->
@@ -2519,12 +2523,6 @@
   <div class="eval-list-panel" id="evalListPanel"></div>
   <div class="eval-detail-panel" id="evalDetailPanel" style="position:relative;">
     <canvas id="evalHubCanvas" style="display:block;width:100%;height:100%;cursor:grab;touch-action:none;"></canvas>
-    <!-- Controls overlay -->
-    <div class="eval-hub-controls">
-      <button class="btn" id="evalHub2ndBtn" style="font-size:.74rem;padding:3px 8px;">2.º nivel</button>
-      <button class="btn" id="evalHubFitBtn" style="font-size:.74rem;padding:3px 8px;">⊙</button>
-      <button class="btn" id="evalHubFullBtn" style="font-size:.74rem;padding:3px 8px;" title="Pantalla completa">⛶</button>
-    </div>
     <!-- Floating detail panel (same system as técnicas map) -->
     <div class="map-node-panel" id="evalNodePanel">
       <div class="map-panel-head" id="evalNodePanelHead">
@@ -4635,11 +4633,12 @@ function renderEvalSection(item) {
 // ─── RENDER: EVAL VIEW ───────────────────────────────────────────────────────
 
 function syncEvalViewMode() {
-  // Toggle is rendered inside renderEvalTabs — just sync state if already in DOM
   const cardsBtn = document.getElementById('evalViewModeCards');
   const mapBtn   = document.getElementById('evalViewModeMap');
   if (cardsBtn) cardsBtn.classList.toggle('active', !S.evalMapMode);
   if (mapBtn)   mapBtn.classList.toggle('active',  S.evalMapMode);
+  const hubCtrl = document.getElementById('evalHubControls');
+  if (hubCtrl) hubCtrl.style.display = S.evalMapMode ? '' : 'none';
 }
 
 function toggleEvalMapMode() {

@@ -1970,6 +1970,8 @@
     }
     [data-theme="dark"] .eval-nav-filter-row { background: #1e1b4b; border-top-color: #3730a3; }
     .eval-filter-nav-item { display: flex; align-items: center; gap: 5px; }
+    .eval-filter-nav-sep { width: 1px; height: 20px; background: #cbd5e1; margin: 0 6px; align-self: center; flex-shrink: 0; }
+    [data-theme="dark"] .eval-filter-nav-sep { background: #334155; }
     .eval-filter-nav-label { font-size: .72rem; font-weight: 600; color: #4338ca; white-space: nowrap; }
     [data-theme="dark"] .eval-filter-nav-label { color: #a5b4fc; }
     .eval-nav-filter-row select {

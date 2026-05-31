@@ -16,38 +16,68 @@ function renderEvalNavFilter() {
   const row = document.getElementById('evalNavFilterRow');
   if (!row) return;
   const activeCount = evalActiveFilterCount();
-  row.innerHTML = EVAL_GLOBAL_FILTERS.map(filter => `
-    <div class="eval-filter-nav-item">
-      <span class="eval-filter-nav-label">${esc(i(filter.label))}</span>
-      <select data-eval-filter="${filter.key}">
-        <option value="">${esc(i('evalFilterAll'))}</option>
-        ${getEvalFilterOptions(filter.field).map(value =>
-          `<option value="${esc(value)}" ${S[filter.key] === value ? 'selected' : ''}>${esc(evalFilterValueLabel(value))}</option>`
-        ).join('')}
+  const svgCards = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
+  const svgMap   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
+
+  row.innerHTML =
+    // Category select (first)
+    `<div class="eval-filter-nav-item">
+      <span class="eval-filter-nav-label">${esc(i('evalCatLabel'))}</span>
+      <select id="evalNavCatSelect">
+        <option value="" ${S.evalCat === null ? 'selected' : ''}>${esc(i('evalCatAll'))}</option>
+        ${EVAL_CATS.map(c => `<option value="${c.id}" ${S.evalCat === c.id ? 'selected' : ''}>${esc(i(c.i18n))}</option>`).join('')}
       </select>
     </div>
-  `).join('') + `<button class="btn eval-filter-clear-inline" type="button" ${activeCount ? '' : 'style="display:none"'}>${esc(i('evalFiltersClear'))}</button>`;
+    <span class="eval-filter-nav-sep"></span>` +
+    // Global attribute filters
+    EVAL_GLOBAL_FILTERS.map(filter => `
+      <div class="eval-filter-nav-item">
+        <span class="eval-filter-nav-label">${esc(i(filter.label))}</span>
+        <select data-eval-filter="${filter.key}">
+          <option value="">${esc(i('evalFilterAll'))}</option>
+          ${getEvalFilterOptions(filter.field).map(value =>
+            `<option value="${esc(value)}" ${S[filter.key] === value ? 'selected' : ''}>${esc(evalFilterValueLabel(value))}</option>`
+          ).join('')}
+        </select>
+      </div>
+    `).join('') +
+    // Clear + view toggle
+    `<button class="btn eval-filter-clear-inline" type="button" ${activeCount ? '' : 'style="display:none"'}>${esc(i('evalFiltersClear'))}</button>
+    <span class="eval-filter-nav-sep" style="margin-left:auto"></span>
+    <span class="view-mode-wrap" id="evalViewModeWrap" style="margin-left:0">
+      <button class="view-mode-btn${!S.evalMapMode ? ' active' : ''}" id="evalViewModeCards" title="${esc(i('viewModeCards'))}">${svgCards} ${esc(i('viewCardsBtn'))}</button>
+      <button class="view-mode-btn${S.evalMapMode  ? ' active' : ''}" id="evalViewModeMap"   title="${esc(i('viewModeMap'))}">${svgMap} ${esc(i('viewMapBtn'))}</button>
+    </span>`;
 
+  row.querySelector('#evalNavCatSelect').onchange = e => evalCatSelect(e.target.value || null);
   row.querySelectorAll('[data-eval-filter]').forEach(sel => {
     sel.onchange = e => {
       S[e.target.dataset.evalFilter] = e.target.value;
       S.evalPage = 0;
-      renderEvalList();
+      if (S.evalMapMode) renderEvalList(); else renderEvalCards();
     };
   });
   const clearBtn = row.querySelector('.eval-filter-clear-inline');
-  if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; renderEvalList(); };
+  if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; if (S.evalMapMode) renderEvalList(); else renderEvalCards(); };
+  const cardsBtn = row.querySelector('#evalViewModeCards');
+  const mapBtn   = row.querySelector('#evalViewModeMap');
+  if (cardsBtn) cardsBtn.onclick = () => { if (S.evalMapMode)  toggleEvalMapMode(); };
+  if (mapBtn)   mapBtn.onclick   = () => { if (!S.evalMapMode) toggleEvalMapMode(); };
+  recalcSplitViewTop();
 }
 
 function syncEvalViewMode() {
+  // Update Fichas/Mapa buttons (now inside renderEvalNavFilter row)
   const cardsBtn = document.getElementById('evalViewModeCards');
   const mapBtn   = document.getElementById('evalViewModeMap');
   if (cardsBtn) cardsBtn.classList.toggle('active', !S.evalMapMode);
   if (mapBtn)   mapBtn.classList.toggle('active',  S.evalMapMode);
+  // Tools row: graph controls + type visibility (map only)
   const toolsRow = document.getElementById('evalToolsRow');
   if (toolsRow) toolsRow.style.display = S.evalMapMode ? '' : 'none';
+  // Filter row: always visible in eval view
   const filterRow = document.getElementById('evalNavFilterRow');
-  if (filterRow) filterRow.style.display = S.evalMapMode ? '' : 'none';
+  if (filterRow) filterRow.style.display = '';
   const hub2nd = document.getElementById('evalHub2ndBtn');
   if (hub2nd) hub2nd.classList.toggle('active', !!EGRAPH.expanded);
   if (typeof syncEvalOccasionalButtons === 'function') syncEvalOccasionalButtons();
@@ -218,48 +248,25 @@ function toggleEvalMapMode() {
 }
 
 function renderEvalTabs() {
+  // Category selection moved to renderEvalNavFilter; this bar is now empty/hidden
   const bar = document.getElementById('evalTabs');
-  if (!bar) return;
-  // "Todos" chip
-  bar.innerHTML = `<button class="eval-cat-chip${S.evalCat === null ? ' active-all' : ''}" data-eval-cat="">${esc(i('evalCatAll'))}</button>` +
-    EVAL_CATS.map(cat => `
-      <button class="eval-cat-chip ${S.evalCat === cat.id ? 'active-' + cat.cls : ''}"
-              data-eval-cat="${cat.id}">${esc(i(cat.i18n))}</button>
-    `).join('');
-  bar.querySelectorAll('[data-eval-cat]').forEach(btn => {
-    btn.onclick = () => {
-      S.evalCat = btn.dataset.evalCat || null;
-      S.evalSelected = null;
-      S.evalPage = 0;
-      S.search = '';
-      document.getElementById('searchInput').value = '';
-      updateSearchUI();
-      // Reset panel and graph BEFORE rendering so showEvalDetail can re-show them
-      EGRAPH.navHistory = []; EGRAPH.navPos = -1; evalNavUpdateBtns();
-      const panel = document.getElementById('evalNodePanel');
-      if (panel) panel.classList.remove('visible');
-      evalGraphStop();
-      renderEvalTabs();
-      if (S.evalMapMode) renderEvalList(); else renderEvalCards();
-      navPush();
-    };
-  });
+  if (bar) { bar.innerHTML = ''; bar.style.display = 'none'; }
+}
 
-  const sep = document.createElement('div');
-  sep.className = 'eval-nav-sep';
-  bar.appendChild(sep);
-  const svgCards = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
-  const svgMap   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
-  const wrap = document.createElement('span');
-  wrap.className = 'view-mode-wrap';
-  wrap.id = 'evalViewModeWrap';
-  wrap.innerHTML = `
-    <button class="view-mode-btn${!S.evalMapMode ? ' active' : ''}" id="evalViewModeCards" title="${esc(i('viewModeCards'))}">${svgCards} ${esc(i('viewCardsBtn'))}</button>
-    <button class="view-mode-btn${S.evalMapMode  ? ' active' : ''}" id="evalViewModeMap"   title="${esc(i('viewModeMap'))}">${svgMap} ${esc(i('viewMapBtn'))}</button>
-  `;
-  bar.appendChild(wrap);
-  document.getElementById('evalViewModeCards').onclick = () => { if (S.evalMapMode)  toggleEvalMapMode(); };
-  document.getElementById('evalViewModeMap').onclick   = () => { if (!S.evalMapMode) toggleEvalMapMode(); };
+function evalCatSelect(newCat) {
+  S.evalCat = newCat;
+  S.evalSelected = null;
+  S.evalPage = 0;
+  S.search = '';
+  document.getElementById('searchInput').value = '';
+  updateSearchUI();
+  EGRAPH.navHistory = []; EGRAPH.navPos = -1; evalNavUpdateBtns();
+  const panel = document.getElementById('evalNodePanel');
+  if (panel) panel.classList.remove('visible');
+  evalGraphStop();
+  renderEvalNavFilter();
+  if (S.evalMapMode) renderEvalList(); else renderEvalCards();
+  navPush();
 }
 
 function renderEvalCards() {
@@ -332,9 +339,9 @@ function renderEvalCards() {
   bar.querySelector('#evalPerPageSelect').onchange = e => {
     S.evalPerPage = Number(e.target.value); S.evalPage = 0; renderEvalCards();
   };
+  renderEvalNavFilter();
   const descEl = buildEvalCategoryDescription(cat, isEvalShared);
   if (descEl) main.appendChild(descEl);
-  main.appendChild(buildEvalFilterBar(false));
   main.appendChild(bar);
 
   if (!total) {

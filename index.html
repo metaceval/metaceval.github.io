@@ -1924,8 +1924,9 @@
       background: var(--bg);
       z-index: 300;
       overflow-y: auto;
-      padding-bottom: 60px;
+      scrollbar-width: none;
     }
+    #homeView::-webkit-scrollbar { display: none; }
     #homeView.visible { display: block; }
 
     .home-inner {

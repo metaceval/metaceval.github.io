@@ -1375,25 +1375,33 @@
       top: 10px;
       left: 10px;
       background: var(--surface);
-      border: 1px solid var(--border);
+      border: 1.5px solid var(--border);
       border-radius: 10px;
       padding: 8px 12px 10px;
-      box-shadow: var(--shadow-sm);
+      box-shadow: 0 2px 12px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.08);
       z-index: 10;
-      min-width: 130px;
-      max-width: 210px;
+      min-width: 150px;
+      max-width: 240px;
       pointer-events: auto;
+    }
+    [data-theme="dark"] .map-legend {
+      box-shadow: 0 2px 12px rgba(0,0,0,.4), 0 1px 4px rgba(0,0,0,.3);
+      background: #1a2233;
     }
     .map-legend.is-dragging { box-shadow: var(--shadow-lg); }
     .map-legend-head {
       display: flex;
-      align-items: center;
-      justify-content: space-between;
+      flex-direction: column;
       gap: 6px;
       margin-bottom: 6px;
       cursor: grab;
       user-select: none;
       touch-action: none;
+    }
+    .map-legend-head-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
     .map-legend.is-dragging .map-legend-head { cursor: grabbing; }
     .map-legend-title {
@@ -2376,9 +2384,9 @@
   <canvas id="mapCanvas"></canvas>
   <div class="map-legend" id="mapLegend" style="display:none">
     <div class="map-legend-head">
-      <span class="map-legend-title" id="mapLegendTitle"></span>
-      <div style="position:relative;display:flex;align-items:center;gap:5px">
-        <div class="view-mode-wrap" style="margin-right:4px">
+      <div class="map-legend-head-row">
+        <span class="map-legend-title" id="mapLegendTitle"></span>
+        <div class="view-mode-wrap" style="margin-left:auto">
           <button class="view-mode-btn active" id="viewModeCardsLegend" title="">
             <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
           </button>
@@ -2386,8 +2394,10 @@
             <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
           </button>
         </div>
-        <span class="map-color-label" id="mapColorLabel" style="display:none"></span>
-        <button class="map-legend-mode-btn" id="mapColorModeBtn" style="display:none"></button>
+      </div>
+      <div class="map-legend-head-row" id="mapColorRow" style="display:none;position:relative">
+        <span class="map-color-label" id="mapColorLabel"></span>
+        <button class="map-legend-mode-btn" id="mapColorModeBtn"></button>
         <div class="map-color-dropdown" id="mapColorDropdown" style="display:none"></div>
       </div>
     </div>
@@ -6886,11 +6896,12 @@ function updateMapLegend() {
   const dropdown  = document.getElementById('mapColorDropdown');
   const colorLabel = document.getElementById('mapColorLabel');
   const showBtn = MAP.viewMode === 'techniques';
-  if (colorLabel) { colorLabel.style.display = showBtn ? '' : 'none'; colorLabel.textContent = i('mapColorLabel'); }
+  const colorRow = document.getElementById('mapColorRow');
+  if (colorRow) colorRow.style.display = showBtn ? '' : 'none';
+  if (colorLabel) colorLabel.textContent = i('mapColorLabel');
   if (modeBtn) {
-    modeBtn.style.display = showBtn ? '' : 'none';
-    modeBtn.innerHTML     = `${esc(modeLabel[effectiveMode])} <span style="font-size:.6rem">▾</span>`;
-    modeBtn.title         = i('mapColorTip');
+    modeBtn.innerHTML = `${esc(modeLabel[effectiveMode])} <span style="font-size:.6rem">▾</span>`;
+    modeBtn.title     = i('mapColorTip');
   }
   if (dropdown) {
     const availableModes = hasSelection ? modeOrder : modeOrder.filter(m => m !== 'depth');

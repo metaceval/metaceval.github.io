@@ -1188,6 +1188,8 @@
     .map-btn:hover { background: var(--bg); }
     .map-btn.active { background: #eff6ff; border-color: var(--primary); color: var(--primary); }
     [data-theme="dark"] .map-btn.active { background: #0f1f3d; border-color: #3b82f6; color: #60a5fa; }
+    .btn.active { background: #eff6ff; border-color: var(--primary); color: var(--primary); font-weight: 700; }
+    [data-theme="dark"] .btn.active { background: #0f1f3d; border-color: #3b82f6; color: #60a5fa; }
     #mapTooltip {
       position: fixed;
       background: var(--surface);
@@ -4651,6 +4653,8 @@ function syncEvalViewMode() {
   if (mapBtn)   mapBtn.classList.toggle('active',  S.evalMapMode);
   const hubCtrl = document.getElementById('evalHubControls');
   if (hubCtrl) hubCtrl.style.display = S.evalMapMode ? '' : 'none';
+  const hub2nd = document.getElementById('evalHub2ndBtn');
+  if (hub2nd) hub2nd.classList.toggle('active', !!EGRAPH.expanded);
 }
 
 function toggleEvalMapMode() {

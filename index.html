@@ -957,7 +957,6 @@
     /* ── Responsive ── */
     /* ── Footer ── */
     .site-footer {
-      margin-top: 48px;
       border-top: 1px solid var(--border);
       background: var(--surface);
       padding: 28px 20px;
@@ -966,6 +965,8 @@
       color: var(--text-muted);
       line-height: 1.9;
     }
+    /* Reserve space for fixed compact footer */
+    body { padding-bottom: 44px; }
     .site-footer a {
       color: var(--primary);
       text-decoration: none;
@@ -999,8 +1000,13 @@
       background: var(--bg);
     }
     .site-footer--compact {
-      margin-top: 16px;
-      padding: 10px 20px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 301;
+      margin-top: 0;
+      padding: 8px 20px;
       line-height: 1.4;
     }
     .site-footer--compact .footer-row,
@@ -4088,11 +4094,7 @@ function navPush() {
 }
 
 function showHome() {
-  const footer = document.getElementById('siteFooter');
-  const fh = footer ? footer.offsetHeight : 0;
-  const hv = document.getElementById('homeView');
-  hv.style.bottom = fh + 'px';
-  hv.classList.add('visible');
+  document.getElementById('homeView').classList.add('visible');
   document.getElementById('viewToggle').style.display  = 'none';
   document.getElementById('blockNavBar').style.display = 'none';
   document.getElementById('fieldNavBar').style.display = 'none';
@@ -4110,9 +4112,7 @@ function showHome() {
 }
 
 function hideHome() {
-  const hv = document.getElementById('homeView');
-  hv.classList.remove('visible');
-  hv.style.bottom = '';
+  document.getElementById('homeView').classList.remove('visible');
   document.getElementById('viewToggle').style.display = '';
 }
 

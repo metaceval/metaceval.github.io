@@ -346,8 +346,8 @@ async function init() {
         if (S.mapMode) toggleMapView();
         if (!EV.data[S.lang]) { try { await loadEvalLang(S.lang); } catch {} }
         if (S.view !== 'evaluacion') switchView('evaluacion');
-        if (st.evalCat && st.evalCat !== S.evalCat) {
-          S.evalCat = st.evalCat;
+        if (st.evalCat !== S.evalCat) {
+          S.evalCat = st.evalCat || null;
           S.evalSelected = null;
           renderEvalTabs();
           if (S.evalMapMode) renderEvalList(); else renderEvalCards();

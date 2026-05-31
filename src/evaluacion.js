@@ -220,13 +220,15 @@ function toggleEvalMapMode() {
 function renderEvalTabs() {
   const bar = document.getElementById('evalTabs');
   if (!bar) return;
-  bar.innerHTML = EVAL_CATS.map(cat => `
-    <button class="eval-tab ${S.evalCat === cat.id ? 'active-' + cat.cls : ''}"
-            data-eval-cat="${cat.id}">${esc(i(cat.i18n))}</button>
-  `).join('');
+  // "Todos" chip
+  bar.innerHTML = `<button class="eval-cat-chip${S.evalCat === null ? ' active-all' : ''}" data-eval-cat="">${esc(i('evalCatAll'))}</button>` +
+    EVAL_CATS.map(cat => `
+      <button class="eval-cat-chip ${S.evalCat === cat.id ? 'active-' + cat.cls : ''}"
+              data-eval-cat="${cat.id}">${esc(i(cat.i18n))}</button>
+    `).join('');
   bar.querySelectorAll('[data-eval-cat]').forEach(btn => {
     btn.onclick = () => {
-      S.evalCat = btn.dataset.evalCat;
+      S.evalCat = btn.dataset.evalCat || null;
       S.evalSelected = null;
       S.evalPage = 0;
       S.search = '';
@@ -266,7 +268,7 @@ function renderEvalCards() {
     main.innerHTML = `<div class="state-box"><div class="spinner"></div><p>${esc(i('evalNoData'))}</p></div>`;
     return;
   }
-  const cat = EVAL_CATS.find(c => c.id === S.evalCat) || EVAL_CATS[0];
+  const cat = S.evalCat ? (EVAL_CATS.find(c => c.id === S.evalCat) || null) : null;
 
   // When displaying a shared eval collection, show those specific items across all categories
   const evalPrefixSet = new Set(EVAL_CATS.map(c => c.prefix));
@@ -274,8 +276,10 @@ function renderEvalCards() {
   let items;
   if (isEvalShared) {
     items = S.shared.map(id => evalEntityById(id)).filter(Boolean);
-  } else {
+  } else if (cat) {
     items = (EV.data[S.lang] || {})[cat.id] || [];
+  } else {
+    items = EVAL_CATS.flatMap(c => (EV.data[S.lang] || {})[c.id] || []);
   }
 
   const filtered = filterEvalItems(items);
@@ -302,7 +306,7 @@ function renderEvalCards() {
   bar.className = 'results-bar';
   bar.innerHTML = `
     <p class="results-info">
-      <strong>${total}</strong> ${isEvalShared ? i('techniques') : i(cat.i18n).toLowerCase()}
+      <strong>${total}</strong> ${isEvalShared ? i('techniques') : cat ? i(cat.i18n).toLowerCase() : i('evalCatAll').toLowerCase()}
       <span class="sort-wrap">
         <label for="evalSortSelect">${i('sort')}</label>
         <select id="evalSortSelect">
@@ -406,14 +410,16 @@ function renderEvalCards() {
 function renderEvalList() {
   const panel = document.getElementById('evalListPanel');
   if (!panel) return;
-  const cat = EVAL_CATS.find(c => c.id === S.evalCat);
-  const items = (EV.data[S.lang] || {})[S.evalCat] || [];
+  const cat = S.evalCat ? EVAL_CATS.find(c => c.id === S.evalCat) : null;
+  const items = cat
+    ? ((EV.data[S.lang] || {})[cat.id] || [])
+    : EVAL_CATS.flatMap(c => (EV.data[S.lang] || {})[c.id] || []);
   const filtered = filterEvalItems(items);
-  const descText = getEvalCategoryDescription(cat, false);
+  const descText = cat ? getEvalCategoryDescription(cat, false) : '';
 
   const header = `
     <div class="eval-list-header">
-      <div class="eval-list-header-cat">${esc(cat ? i(cat.i18n) : '')}</div>
+      <div class="eval-list-header-cat">${esc(cat ? i(cat.i18n) : i('evalCatAll'))}</div>
       <div class="eval-list-header-hint">${esc(i('evalListHint'))}</div>
     </div>
     ${descText ? `<div class="eval-cat-desc">${descText}</div>` : ''}`;

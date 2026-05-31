@@ -2000,28 +2000,31 @@
       cursor: default;
       opacity: 1 !important;
     }
-    .eval-tab {
-      padding: 5px 16px;
-      border-radius: 50px;
-      border: 1px solid transparent;
-      font-size: .84rem;
-      font-weight: 600;
+    /* Category filter chips (replaces old eval-tab navigation tabs) */
+    .eval-cat-chip {
+      padding: 4px 12px;
+      border-radius: 6px;
+      border: 1.5px solid var(--border);
+      font-size: .8rem;
+      font-weight: 500;
       cursor: pointer;
       color: var(--text-muted);
-      background: transparent;
-      transition: all .15s;
+      background: var(--bg);
+      transition: all .12s;
       white-space: nowrap;
     }
-    .eval-tab.active-tec  { background: #dbeafe; color: #1d4ed8; border-color: #93c5fd; }
-    .eval-tab.active-ins  { background: #dcfce7; color: #15803d; border-color: #4ade80; }
-    .eval-tab.active-her  { background: #f3e8ff; color: #7e22ce; border-color: #c084fc; }
-    .eval-tab.active-dim  { background: #fef3c7; color: #b45309; border-color: #fbbf24; }
-    .eval-tab:not([class*="active"]):hover { background: var(--hover); }
-
-    [data-theme="dark"] .eval-tab.active-tec { background: #1e3a5f; color: #93c5fd; border-color: #3b82f6; }
-    [data-theme="dark"] .eval-tab.active-ins { background: #14532d; color: #86efac; border-color: #22c55e; }
-    [data-theme="dark"] .eval-tab.active-her { background: #3b0764; color: #d8b4fe; border-color: #a855f7; }
-    [data-theme="dark"] .eval-tab.active-dim { background: #451a03; color: #fde68a; border-color: #f59e0b; }
+    .eval-cat-chip:not([class*="active"]):hover { background: var(--hover); color: var(--text); border-color: #94a3b8; }
+    .eval-cat-chip.active-all { background: #f1f5f9; color: #334155; border-color: #64748b; font-weight: 700; }
+    .eval-cat-chip.active-tec { background: #dbeafe; color: #1d4ed8; border-color: #93c5fd; font-weight: 700; }
+    .eval-cat-chip.active-ins { background: #dcfce7; color: #15803d; border-color: #4ade80; font-weight: 700; }
+    .eval-cat-chip.active-her { background: #f3e8ff; color: #7e22ce; border-color: #c084fc; font-weight: 700; }
+    .eval-cat-chip.active-dim { background: #fef3c7; color: #b45309; border-color: #fbbf24; font-weight: 700; }
+    [data-theme="dark"] .eval-cat-chip { background: #1e293b; border-color: #334155; color: #94a3b8; }
+    [data-theme="dark"] .eval-cat-chip.active-all { background: #1e293b; color: #e2e8f0; border-color: #64748b; }
+    [data-theme="dark"] .eval-cat-chip.active-tec { background: #1e3a5f; color: #93c5fd; border-color: #3b82f6; }
+    [data-theme="dark"] .eval-cat-chip.active-ins { background: #14532d; color: #86efac; border-color: #22c55e; }
+    [data-theme="dark"] .eval-cat-chip.active-her { background: #3b0764; color: #d8b4fe; border-color: #a855f7; }
+    [data-theme="dark"] .eval-cat-chip.active-dim { background: #451a03; color: #fde68a; border-color: #f59e0b; }
 
     /* ── Eval entity chips (modal + cards) ──────────────────── */
     .eval-chip {

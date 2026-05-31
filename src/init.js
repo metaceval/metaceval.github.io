@@ -314,6 +314,19 @@ async function init() {
     const st = ev.state;
     S._popping = true;
     try {
+      const pp = new URLSearchParams(location.search);
+      const blockP = pp.get('block');
+      const fieldP = pp.get('field');
+      const modalP = pp.get('modal');
+      const nodeP  = pp.get('node');
+      const itemP  = pp.get('item');
+
+      // Set block/field before view code — filteredData() is used inside switchView/toggleMapView
+      if (st?.screen === 'tecnicas') {
+        S.block = blockP || null;
+        S.field = fieldP || null;
+      }
+
       const homeVisible = document.getElementById('homeView').classList.contains('visible');
       if (!st || st.screen === 'home') {
         if (S.mapMode) toggleMapView();
@@ -322,8 +335,12 @@ async function init() {
       } else if (st.screen === 'tecnicas') {
         if (homeVisible) hideHome();
         if (S.evalMapMode) toggleEvalMapMode();
-        if (S.view !== 'tecnicas') switchView('tecnicas');
-        if (!!st.map !== !!S.mapMode) toggleMapView();
+        const viewChanged = S.view !== 'tecnicas';
+        if (viewChanged) switchView('tecnicas');
+        const mapChanged = !!st.map !== !!S.mapMode;
+        if (mapChanged) toggleMapView();
+        // Re-render if only block/field changed (view and map mode stayed the same)
+        if (!viewChanged && !mapChanged && !S.mapMode) { renderBlockTabs(); renderTabs(); renderCards(); }
       } else if (st.screen === 'evaluacion') {
         if (homeVisible) hideHome();
         if (S.mapMode) toggleMapView();
@@ -336,6 +353,31 @@ async function init() {
           if (S.evalMapMode) renderEvalList(); else renderEvalCards();
         }
         if (!!st.map !== !!S.evalMapMode) toggleEvalMapMode();
+      }
+
+      // Restore map node after map is in its final state
+      if (S.mapMode && typeof MAP !== 'undefined') {
+        if (nodeP) {
+          const nIdx = MAP.nodes.findIndex(n => n.id === nodeP);
+          if (nIdx >= 0) mapSelectNode(nIdx); else mapSelectNode(-1);
+        } else if (MAP.selected >= 0) {
+          mapSelectNode(-1);
+        }
+      }
+
+      // Sync modal
+      const curModal = S.modal || S.evalModal || null;
+      if (curModal !== modalP) {
+        if (curModal) closeModal();
+        if (modalP) {
+          if (evalEntityById(modalP)) openEvalModal(modalP);
+          else openModal(modalP);
+        }
+      }
+
+      // Sync eval selected item in split view
+      if (st?.screen === 'evaluacion' && st.map && itemP && S.evalSelected !== itemP) {
+        if (evalEntityById(itemP)) showEvalDetail(itemP);
       }
     } finally {
       S._popping = false;

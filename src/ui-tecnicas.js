@@ -46,7 +46,8 @@ function updateURL() {
   if (S._popping) return;
   const u = new URL(location.href);
   applyViewParam(u);
-  history.replaceState(history.state || getNavState(), '', u);
+  if (u.href === location.href) return;
+  history.pushState(getNavState(), '', u);
 }
 
 function navPush() {

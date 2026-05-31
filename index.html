@@ -3356,6 +3356,8 @@ const S = {
   evalSortMode:     'random',
   evalPerPage:      25,
   evalPage:         0,
+  _navLock:         false,  // prevents intermediate pushState during enterView
+  _popping:         false,  // true while handling popstate
 };
 
 // ─── JSON LOADER ─────────────────────────────────────────────────────────────
@@ -4035,6 +4037,24 @@ function applyI18N() {
 }
 
 // ─── HOME VIEW ────────────────────────────────────────────────────────────────
+// ─── HISTORY NAVIGATION ──────────────────────────────────────────────────────
+
+function getNavState() {
+  if (document.getElementById('homeView').classList.contains('visible'))
+    return { screen: 'home' };
+  if (S.view === 'evaluacion')
+    return { screen: 'evaluacion', evalCat: S.evalCat, map: !!S.evalMapMode };
+  return { screen: 'tecnicas', map: !!S.mapMode };
+}
+
+function navPush() {
+  if (S._popping || S._navLock) return;
+  const st = getNavState();
+  const cur = history.state;
+  if (cur && cur.screen === st.screen && cur.evalCat === st.evalCat && !!cur.map === !!st.map) return;
+  history.pushState(st, '');
+}
+
 function showHome() {
   document.getElementById('homeView').classList.add('visible');
   document.getElementById('viewToggle').style.display  = 'none';
@@ -4050,6 +4070,7 @@ function showHome() {
   if (selBtn) selBtn.style.display = 'none';
   if (favBtn) favBtn.style.display = 'none';
   applyI18N();
+  navPush();
 }
 
 function hideHome() {
@@ -4058,19 +4079,22 @@ function hideHome() {
 }
 
 function enterView(view, mapMode, evalCat) {
+  S._navLock = true;
   if (evalCat) S.evalCat = evalCat;
   hideHome();
   if (view === 'tecnicas') {
-    // switchView handles renderViewToggle, navBar visibility, renderCards, etc.
     S.evalMapMode = false;
     switchView('tecnicas');
     if (mapMode) toggleMapView();
+    S._navLock = false;
+    navPush();
   } else {
-    // evaluacion
     loadEvalLang(S.lang).then(() => {
       S.evalMapMode = !!mapMode;
       switchView('evaluacion');
-    }).catch(() => {});
+      S._navLock = false;
+      navPush();
+    }).catch(() => { S._navLock = false; });
   }
 }
 
@@ -4586,6 +4610,7 @@ function toggleEvalMapMode() {
     if (selectBtn) selectBtn.style.display = '';
     renderEvalCards();
   }
+  navPush();
 }
 
 function renderEvalTabs() {
@@ -4609,6 +4634,7 @@ function renderEvalTabs() {
       evalGraphStop();
       renderEvalTabs();
       if (S.evalMapMode) renderEvalList(); else renderEvalCards();
+      navPush();
     };
   });
 
@@ -5453,6 +5479,7 @@ function switchView(view) {
       renderEvalCards();
     }
   }
+  navPush();
 }
 
 // ─── FAVORITES ───────────────────────────────────────────────────────────────
@@ -7235,6 +7262,7 @@ function toggleMapView() {
     document.getElementById('favBtn').style.display    = '';
     renderCards();
   }
+  navPush();
 }
 
 function mapSetupEvents() {
@@ -8820,6 +8848,41 @@ async function init() {
     else if (S.selectMode) clearSelection();
     else if (S.mapMode) toggleMapView();
   });
+
+  window.addEventListener('popstate', async ev => {
+    const st = ev.state;
+    S._popping = true;
+    try {
+      const homeVisible = document.getElementById('homeView').classList.contains('visible');
+      if (!st || st.screen === 'home') {
+        if (S.mapMode) toggleMapView();
+        if (S.evalMapMode) toggleEvalMapMode();
+        if (!homeVisible) showHome();
+      } else if (st.screen === 'tecnicas') {
+        if (homeVisible) hideHome();
+        if (S.evalMapMode) toggleEvalMapMode();
+        if (S.view !== 'tecnicas') switchView('tecnicas');
+        if (!!st.map !== !!S.mapMode) toggleMapView();
+      } else if (st.screen === 'evaluacion') {
+        if (homeVisible) hideHome();
+        if (S.mapMode) toggleMapView();
+        if (!EV.data[S.lang]) { try { await loadEvalLang(S.lang); } catch {} }
+        if (S.view !== 'evaluacion') switchView('evaluacion');
+        if (st.evalCat && st.evalCat !== S.evalCat) {
+          S.evalCat = st.evalCat;
+          S.evalSelected = null;
+          renderEvalTabs();
+          if (S.evalMapMode) renderEvalList(); else renderEvalCards();
+        }
+        if (!!st.map !== !!S.evalMapMode) toggleEvalMapMode();
+      }
+    } finally {
+      S._popping = false;
+    }
+  });
+
+  // Seed initial history state so popstate has something to return to
+  history.replaceState(getNavState(), '');
 }
 
 init();

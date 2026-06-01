@@ -1027,6 +1027,7 @@ function mapShowPanel(idx) {
   const bpBtn = document.getElementById('mapBipartiteBtn');
   if (bpBtn) {
     bpBtn.style.display = '';
+    bpBtn.title = i('bipartiteTip');
     bpBtn.onclick = () => openBipartiteMap(nd.id, 'tecnica');
   }
   document.getElementById('mapNodePanel').classList.add('visible');

@@ -64,6 +64,7 @@ async function init() {
   updateSharedBanner();
 
   renderViewToggle();
+  updateViewToggleSlider(true);
 
   const hasSharedUrl = !!S.shared;
 
@@ -155,18 +156,29 @@ async function init() {
     btn.onclick = () => enterView('evaluacion', true, btn.dataset.evalCat);
   });
 
-  // View toggle
+  // View toggle (section)
   document.querySelectorAll('.view-btn[data-view]').forEach(btn => {
     btn.onclick = () => {
-      if (S.view === btn.dataset.view) return;
+      const target = S.view === btn.dataset.view
+        ? (btn.dataset.view === 'tecnicas' ? 'evaluacion' : 'tecnicas')
+        : btn.dataset.view;
       S.search = '';
       document.getElementById('searchInput').value = '';
       updateSearchUI();
-      switchView(btn.dataset.view);
-      // Load eval data on first switch to evaluacion view
-      if (btn.dataset.view === 'evaluacion') loadEvalLang(S.lang).then(renderEvalList).catch(() => {});
+      switchView(target);
+      if (target === 'evaluacion') loadEvalLang(S.lang).then(renderEvalList).catch(() => {});
     };
   });
+
+  // Fichas/Mapa toggle in view-toggle bar
+  document.getElementById('viewToggleFichas').onclick = () => {
+    if (S.view === 'evaluacion') { if (S.evalMapMode) toggleEvalMapMode(); }
+    else { if (S.mapMode) toggleMapView(); }
+  };
+  document.getElementById('viewToggleMapa').onclick = () => {
+    if (S.view === 'evaluacion') { if (!S.evalMapMode) toggleEvalMapMode(); }
+    else { if (!S.mapMode) toggleMapView(); }
+  };
 
   document.getElementById('searchInput').addEventListener('input', e => {
     S.search = e.target.value;
@@ -206,9 +218,6 @@ async function init() {
   document.getElementById('mapZoomOut').onclick   = () => { MAP.camera.scale = Math.max(0.12, MAP.camera.scale / 1.25); };
   document.getElementById('mapFitBtn').onclick    = mapFitAll;
   document.getElementById('mapResetBtn').onclick  = () => { if (MAP.viewMode === 'blocks') initMapBlocks(); else initMapData(); };
-  document.getElementById('viewModeCardsLegend').onclick = () => { if (S.mapMode) toggleMapView(); };
-  document.getElementById('viewModeMapLegend').onclick   = () => {};
-  // evalViewModeCards/Map are wired in renderEvalTabs each time tabs are rendered
   const gapLabel = document.getElementById('mapGapLabel');
   const gapMinus = document.getElementById('mapGapMinus');
   const gapPlus  = document.getElementById('mapGapPlus');

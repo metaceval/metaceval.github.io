@@ -173,10 +173,14 @@
 <!-- ═══ VIEW TOGGLE ═══ -->
 <div class="view-toggle" id="viewToggle">
   <div class="view-toggle-inner">
+    <div class="view-toggle-slider" id="viewToggleSlider"></div>
     <button class="view-btn active" id="viewBtnTecnicas" data-view="tecnicas"></button>
     <button class="view-btn" id="viewBtnEvaluacion" data-view="evaluacion"></button>
   </div>
-  <span class="global-count" id="globalCount"></span>
+  <div class="view-sub-toggle">
+    <button class="view-sub-btn active" id="viewToggleFichas"></button>
+    <button class="view-sub-btn" id="viewToggleMapa"></button>
+  </div>
 </div>
 
 <!-- ═══ BLOCK TABS (técnicas view) ═══ -->
@@ -237,16 +241,6 @@
     <div class="map-legend-head">
       <div class="map-legend-head-row">
         <span class="map-legend-title" id="mapLegendTitle"></span>
-        <div class="view-mode-wrap" style="margin-left:auto">
-          <button class="view-mode-btn active" id="viewModeCardsLegend" title="">
-            <svg width="12" height="12" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
-            <span id="viewModeCardsLegendLabel">Fichas</span>
-          </button>
-          <button class="view-mode-btn" id="viewModeMapLegend" title="">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>
-            <span id="viewModeMapLegendLabel">Mapa</span>
-          </button>
-        </div>
       </div>
       <div class="map-legend-head-row" id="mapColorRow" style="display:none;position:relative">
         <span class="map-color-label" id="mapColorLabel"></span>

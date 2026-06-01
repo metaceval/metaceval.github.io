@@ -1751,7 +1751,7 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      margin: 12px 0 4px;
+      margin: 0 0 4px;
       font-size: .84rem;
       line-height: 1.65;
       color: var(--text-muted);
@@ -1822,33 +1822,44 @@
     /* ── View toggle ────────────────────────────────────────── */
     .view-toggle {
       display: flex;
+      flex-direction: column;
       align-items: center;
-      justify-content: center;
-      padding: 7px 16px;
+      gap: 2px;
+      padding: 6px 16px 0;
       background: var(--bg);
       border-bottom: 1px solid var(--border);
       position: sticky;
       top: 58px;
       z-index: 90;
-      gap: 10px;
     }
-    .global-count {
-      font-size: .75rem;
-      font-weight: 600;
+    .view-sub-toggle {
+      display: flex;
+      align-items: center;
+    }
+    .view-sub-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      padding: 4px 14px 5px;
+      font-size: .78rem;
+      font-weight: 500;
       color: var(--text-muted);
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 50px;
-      padding: 2px 10px;
-      white-space: nowrap;
-      opacity: 0;
-      transition: opacity .2s;
-      pointer-events: none;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
     }
-    .global-count.visible { opacity: 1; }
-    [data-theme="dark"] .global-count { background: #1e2535; }
+    .view-sub-btn.active {
+      color: var(--primary);
+      border-bottom-color: var(--primary);
+      font-weight: 600;
+    }
+    .view-sub-btn:not(.active):hover { color: var(--text); }
+    [data-theme="dark"] .view-sub-btn.active { color: #60a5fa; border-bottom-color: #60a5fa; }
     /* Segmented control container */
     .view-toggle-inner {
+      position: relative;
       display: inline-flex;
       background: #dde3ee;
       border-radius: 50px;
@@ -1856,7 +1867,21 @@
       gap: 2px;
     }
     [data-theme="dark"] .view-toggle-inner { background: #1e2535; }
+    .view-toggle-slider {
+      position: absolute;
+      top: 3px;
+      bottom: 3px;
+      border-radius: 50px;
+      background: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,.18);
+      transition: left .22s cubic-bezier(.4,0,.2,1), width .22s cubic-bezier(.4,0,.2,1);
+      pointer-events: none;
+      z-index: 0;
+    }
+    [data-theme="dark"] .view-toggle-slider { background: #2d3748; }
     .view-btn {
+      position: relative;
+      z-index: 1;
       padding: 5px 22px;
       border-radius: 50px;
       border: none;
@@ -1865,15 +1890,18 @@
       font-size: .88rem;
       font-weight: 600;
       cursor: pointer;
-      transition: background .15s, color .15s, box-shadow .15s;
+      transition: color .15s;
     }
     [data-theme="dark"] .view-btn { color: #94a3b8; }
+    /* fallback visual mientras el slider JS no está posicionado */
     .view-btn.active {
-      background: #fff;
       color: var(--primary);
+      background: #fff;
       box-shadow: 0 1px 3px rgba(0,0,0,.18);
     }
-    [data-theme="dark"] .view-btn.active { background: #2d3748; color: #60a5fa; }
+    [data-theme="dark"] .view-btn.active { color: #60a5fa; background: #2d3748; box-shadow: none; }
+    /* una vez JS posiciona el slider, quitamos el fondo del botón */
+    .view-toggle-inner.slider-ready .view-btn.active { background: transparent; box-shadow: none; }
     .view-btn:not(.active):hover { color: var(--text); }
 
     /* ── Eval nav tabs (evaluation view) ───────────────────── */
@@ -1887,7 +1915,7 @@
       display: flex;
       align-items: center;
       gap: 0;
-      padding: 4px 14px 5px;
+      padding: 4px max(14px, calc((100% - 1400px) / 2 + 14px)) 5px;
       background: #f1f5f9;
       border-top: 2px solid #e2e8f0;
     }
@@ -1975,16 +2003,20 @@
     [data-theme="dark"] .eval-tool-btn.active { background: #1e3a5f; color: #60a5fa; border-color: #3b82f6; }
     .eval-nav-sep { width: 1px; height: 18px; background: #a5b4fc; margin: 0 8px; flex-shrink: 0; }
     .eval-nav-filter-row {
-      flex-basis: 100%;
+      box-sizing: border-box;
+      width: calc(100% - 40px);
+      max-width: 1400px;
+      margin: 12px auto 0;
       display: flex;
       align-items: center;
       flex-wrap: wrap;
       gap: 6px 14px;
-      padding: 5px 14px 8px;
-      border-top: 1px solid #c7d2fe;
+      padding: 5px 20px 8px;
+      border: 1px solid #c7d2fe;
+      border-radius: 8px;
       background: #eef2ff;
     }
-    [data-theme="dark"] .eval-nav-filter-row { background: #1e1b4b; border-top-color: #3730a3; }
+    [data-theme="dark"] .eval-nav-filter-row { background: #1e1b4b; border-color: #3730a3; }
     .eval-filter-nav-item { display: flex; align-items: center; gap: 5px; }
     .eval-filter-nav-sep { width: 1px; height: 20px; background: #cbd5e1; margin: 0 6px; align-self: center; flex-shrink: 0; }
     [data-theme="dark"] .eval-filter-nav-sep { background: #334155; }
@@ -2140,6 +2172,12 @@
       color: var(--text-muted);
       border: 1px solid var(--border);
     }
+    .meta-badge-phase   { background: #dbeafe; color: #1d4ed8; border-color: #93c5fd; }
+    .meta-badge-partic  { background: #f3e8ff; color: #7e22ce; border-color: #c084fc; }
+    .meta-badge-complex { background: #ffedd5; color: #c2410c; border-color: #fb923c; }
+    [data-theme="dark"] .meta-badge-phase   { background: #1e3a5f; color: #93c5fd; border-color: #3b82f6; }
+    [data-theme="dark"] .meta-badge-partic  { background: #3b0764; color: #d8b4fe; border-color: #a855f7; }
+    [data-theme="dark"] .meta-badge-complex { background: #431407; color: #fdba74; border-color: #f97316; }
 
     /* ── HOME VIEW ───────────────────────────────────────────────────────────── */
     .home-topbar {

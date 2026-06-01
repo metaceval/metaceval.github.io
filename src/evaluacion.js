@@ -2,6 +2,9 @@
 
 const dismissedEvalDescs = new Set();
 
+const svgCards = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
+const svgMap   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
+
 function recalcSplitViewTop() {
   const hdr   = document.querySelector('header');
   const vTog  = document.getElementById('viewToggle');
@@ -16,8 +19,6 @@ function renderEvalNavFilter() {
   const row = document.getElementById('evalNavFilterRow');
   if (!row) return;
   const activeCount = evalActiveFilterCount();
-  const svgCards = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
-  const svgMap   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
 
   row.innerHTML =
     // Category select (first)
@@ -41,13 +42,8 @@ function renderEvalNavFilter() {
         </select>
       </div>
     `).join('') +
-    // Clear + view toggle
-    `<button class="btn eval-filter-clear-inline" type="button" ${activeCount ? '' : 'style="display:none"'}>${esc(i('evalFiltersClear'))}</button>
-    <span class="eval-filter-nav-sep" style="margin-left:auto"></span>
-    <span class="view-mode-wrap" id="evalViewModeWrap" style="margin-left:0">
-      <button class="view-mode-btn${!S.evalMapMode ? ' active' : ''}" id="evalViewModeCards" title="${esc(i('viewModeCards'))}">${svgCards} ${esc(i('viewCardsBtn'))}</button>
-      <button class="view-mode-btn${S.evalMapMode  ? ' active' : ''}" id="evalViewModeMap"   title="${esc(i('viewModeMap'))}">${svgMap} ${esc(i('viewMapBtn'))}</button>
-    </span>`;
+    // Clear
+    `<button class="btn eval-filter-clear-inline" type="button" ${activeCount ? '' : 'style="display:none"'}>${esc(i('evalFiltersClear'))}</button>`;
 
   row.querySelector('#evalNavCatSelect').onchange = e => evalCatSelect(e.target.value || null);
   row.querySelectorAll('[data-eval-filter]').forEach(sel => {
@@ -59,19 +55,15 @@ function renderEvalNavFilter() {
   });
   const clearBtn = row.querySelector('.eval-filter-clear-inline');
   if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; if (S.evalMapMode) renderEvalList(); else renderEvalCards(); };
-  const cardsBtn = row.querySelector('#evalViewModeCards');
-  const mapBtn   = row.querySelector('#evalViewModeMap');
-  if (cardsBtn) cardsBtn.onclick = () => { if (S.evalMapMode)  toggleEvalMapMode(); };
-  if (mapBtn)   mapBtn.onclick   = () => { if (!S.evalMapMode) toggleEvalMapMode(); };
   recalcSplitViewTop();
 }
 
 function syncEvalViewMode() {
-  // Update Fichas/Mapa buttons (now inside renderEvalNavFilter row)
-  const cardsBtn = document.getElementById('evalViewModeCards');
-  const mapBtn   = document.getElementById('evalViewModeMap');
-  if (cardsBtn) cardsBtn.classList.toggle('active', !S.evalMapMode);
-  if (mapBtn)   mapBtn.classList.toggle('active',  S.evalMapMode);
+  // Update Fichas/Mapa buttons in view-toggle bar
+  const fichasBtn = document.getElementById('viewToggleFichas');
+  const mapaBtn   = document.getElementById('viewToggleMapa');
+  if (fichasBtn) fichasBtn.classList.toggle('active', !S.evalMapMode);
+  if (mapaBtn)   mapaBtn.classList.toggle('active',  S.evalMapMode);
   // Tools row: graph controls + type visibility (map only)
   const toolsRow = document.getElementById('evalToolsRow');
   if (toolsRow) toolsRow.style.display = S.evalMapMode ? '' : 'none';
@@ -301,7 +293,6 @@ function renderEvalCards() {
   });
 
   const total = sorted.length;
-  updateGlobalCount(total);
   const pages = S.evalPerPage ? Math.max(1, Math.ceil(total / S.evalPerPage)) : 1;
   if (S.evalPage >= pages) S.evalPage = pages - 1;
   const paged = S.evalPerPage ? sorted.slice(S.evalPage * S.evalPerPage, (S.evalPage + 1) * S.evalPerPage) : sorted;
@@ -383,9 +374,9 @@ function renderEvalCards() {
     const selected = S.selected.has(e.id);
     const eCat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(e.id)) || cat;
     const metaBadges = [
-      e.phase         ? `<span class="meta-badge">${esc(e.phase)}</span>` : '',
-      e.participation ? `<span class="meta-badge">${esc(e.participation)}</span>` : '',
-      e.complexity    ? `<span class="meta-badge">${esc(e.complexity)}</span>` : '',
+      e.phase         ? `<span class="meta-badge meta-badge-phase">${esc(e.phase)}</span>` : '',
+      e.participation ? `<span class="meta-badge meta-badge-partic">${esc(e.participation)}</span>` : '',
+      e.complexity    ? `<span class="meta-badge meta-badge-complex">${esc(e.complexity)}</span>` : '',
     ].join('');
     const card = document.createElement('div');
     card.className = 'card eval-card' + (fav ? ' is-fav' : '') + (selected ? ' is-selected' : '');
@@ -430,7 +421,6 @@ function renderEvalList() {
       <div class="eval-list-header-hint">${esc(i('evalListHint'))}</div>
     </div>`;
 
-  updateGlobalCount(filtered.length);
   renderEvalNavFilter();
   recalcSplitViewTop();
 
@@ -581,9 +571,9 @@ function renderEvalNodePanel(entity, cat) {
 
   const metaBadges = [];
   if (cat) metaBadges.push(`<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
-  if (entity.phase)         metaBadges.push(`<span class="meta-badge">${esc(entity.phase)}</span>`);
-  if (entity.participation) metaBadges.push(`<span class="meta-badge">${esc(entity.participation)}</span>`);
-  if (entity.complexity)    metaBadges.push(`<span class="meta-badge">${esc(entity.complexity)}</span>`);
+  if (entity.phase)         metaBadges.push(`<span class="meta-badge meta-badge-phase">${esc(entity.phase)}</span>`);
+  if (entity.participation) metaBadges.push(`<span class="meta-badge meta-badge-partic">${esc(entity.participation)}</span>`);
+  if (entity.complexity)    metaBadges.push(`<span class="meta-badge meta-badge-complex">${esc(entity.complexity)}</span>`);
 
   const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
 
@@ -634,9 +624,9 @@ function renderEvalMapNodePanel(entity, cat) {
 
   const metaBadges = [];
   if (cat) metaBadges.push(`<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
-  if (entity.phase)         metaBadges.push(`<span class="meta-badge">${esc(entity.phase)}</span>`);
-  if (entity.participation) metaBadges.push(`<span class="meta-badge">${esc(entity.participation)}</span>`);
-  if (entity.complexity)    metaBadges.push(`<span class="meta-badge">${esc(entity.complexity)}</span>`);
+  if (entity.phase)         metaBadges.push(`<span class="meta-badge meta-badge-phase">${esc(entity.phase)}</span>`);
+  if (entity.participation) metaBadges.push(`<span class="meta-badge meta-badge-partic">${esc(entity.participation)}</span>`);
+  if (entity.complexity)    metaBadges.push(`<span class="meta-badge meta-badge-complex">${esc(entity.complexity)}</span>`);
 
   const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
 
@@ -928,9 +918,9 @@ function openEvalModal(evalId) {
 
   // Phase / participation / complexity as meta badges
   const metaParts = [];
-  if (entity.phase)         metaParts.push(`<span class="meta-badge">${esc(i('evalPhase'))} ${esc(entity.phase)}</span>`);
-  if (entity.participation) metaParts.push(`<span class="meta-badge">${esc(i('evalPartic'))} ${esc(entity.participation)}</span>`);
-  if (entity.complexity)    metaParts.push(`<span class="meta-badge">${esc(i('evalComplex'))} ${esc(entity.complexity)}</span>`);
+  if (entity.phase)         metaParts.push(`<span class="meta-badge meta-badge-phase">${esc(i('evalPhase'))} ${esc(entity.phase)}</span>`);
+  if (entity.participation) metaParts.push(`<span class="meta-badge meta-badge-partic">${esc(i('evalPartic'))} ${esc(entity.participation)}</span>`);
+  if (entity.complexity)    metaParts.push(`<span class="meta-badge meta-badge-complex">${esc(i('evalComplex'))} ${esc(entity.complexity)}</span>`);
   const fieldsEl = document.getElementById('modalFields');
   fieldsEl.innerHTML = metaParts.join('');
 
@@ -1153,35 +1143,47 @@ function downloadEvalMarkdown(entity) {
   toast(i('markdownDownloaded'));
 }
 
-// ─── GLOBAL COUNT BADGE ──────────────────────────────────────────────────────
-
-function updateGlobalCount(n) {
-  const el = document.getElementById('globalCount');
-  if (!el) return;
-  el.textContent = n;
-  el.classList.toggle('visible', n != null);
-}
-
 // ─── VIEW SWITCH ─────────────────────────────────────────────────────────────
+
+function updateViewToggleSlider(instant = false) {
+  const doUpdate = () => {
+    const slider = document.getElementById('viewToggleSlider');
+    if (!slider) return;
+    const parent = slider.parentElement;
+    const activeBtn = parent.querySelector('.view-btn.active');
+    if (!activeBtn || !activeBtn.offsetWidth) return;
+    if (instant) slider.style.transition = 'none';
+    slider.style.left  = activeBtn.offsetLeft + 'px';
+    slider.style.width = activeBtn.offsetWidth + 'px';
+    parent.classList.add('slider-ready');
+    if (instant) requestAnimationFrame(() => { slider.style.transition = ''; });
+  };
+  // defer to ensure layout is calculated after text/class changes
+  requestAnimationFrame(doUpdate);
+}
 
 function renderViewToggle() {
   document.getElementById('viewBtnTecnicas').textContent  = i('viewTecnicas');
   document.getElementById('viewBtnEvaluacion').textContent = i('viewEvaluacion');
   document.getElementById('viewBtnTecnicas').classList.toggle('active', S.view === 'tecnicas');
   document.getElementById('viewBtnEvaluacion').classList.toggle('active', S.view === 'evaluacion');
-  // Sync legend toggle state + tooltips
-  ['viewModeCardsLegend', 'viewModeCards'].forEach(id => {
-    const el = document.getElementById(id);
-    if (el) { el.classList.toggle('active', !S.mapMode); el.title = i('viewModeCards'); }
-  });
-  ['viewModeMapLegend', 'viewModeMap'].forEach(id => {
-    const el = document.getElementById(id);
-    if (el) { el.classList.toggle('active', S.mapMode); el.title = i('viewModeMap'); }
-  });
-  const lCards = document.getElementById('viewModeCardsLegendLabel');
-  const lMap   = document.getElementById('viewModeMapLegendLabel');
-  if (lCards) lCards.textContent = i('viewCardsBtn');
-  if (lMap)   lMap.textContent   = i('viewMapBtn');
+  updateViewToggleSlider();
+
+  // Sync Fichas/Mapa buttons in view-toggle bar
+  const isMapActive = S.view === 'evaluacion' ? S.evalMapMode : S.mapMode;
+  const fichasBtn = document.getElementById('viewToggleFichas');
+  const mapaBtn   = document.getElementById('viewToggleMapa');
+  if (fichasBtn) {
+    fichasBtn.innerHTML = svgCards + ' ' + esc(i('viewCardsBtn'));
+    fichasBtn.classList.toggle('active', !isMapActive);
+    fichasBtn.title = i('viewModeCards');
+  }
+  if (mapaBtn) {
+    mapaBtn.innerHTML = svgMap + ' ' + esc(i('viewMapBtn'));
+    mapaBtn.classList.toggle('active', isMapActive);
+    mapaBtn.title = i('viewModeMap');
+  }
+
 }
 
 function switchView(view) {

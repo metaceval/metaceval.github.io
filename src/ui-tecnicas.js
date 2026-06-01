@@ -224,7 +224,6 @@ function renderCards() {
   const main = document.getElementById('main');
   const allRows = filteredData();
   const total = allRows.length;
-  updateGlobalCount(total);
   main.style.paddingBottom = S.selectMode ? '110px' : '';
 
   if (!total) {
@@ -266,15 +265,6 @@ function renderCards() {
           <option value="0"   ${S.perPage===0   ?'selected':''}>${i('pageAll')}</option>
         </select>
       </span>
-      <span style="display:inline-block;width:1px;height:14px;background:var(--border);margin:0 10px 0 4px;vertical-align:middle;"></span>
-      <span class="view-mode-wrap">
-        <button class="view-mode-btn${!S.mapMode ? ' active' : ''}" id="viewModeCards" title="${i('viewModeCards')}">
-          <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg> ${i('viewCardsBtn')}
-        </button>
-        <button class="view-mode-btn${S.mapMode ? ' active' : ''}" id="viewModeMap" title="${i('viewModeMap')}">
-          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg> ${i('viewMapBtn')}
-        </button>
-      </span>
     </p>
   `;
   bar.querySelector('#sortSelect').onchange = e => {
@@ -288,8 +278,6 @@ function renderCards() {
     S.page = 0;
     renderCards();
   };
-  bar.querySelector('#viewModeCards').onclick = () => { if (S.mapMode) toggleMapView(); };
-  bar.querySelector('#viewModeMap').onclick   = () => { if (!S.mapMode) toggleMapView(); };
   main.appendChild(bar);
 
   if (S.selectMode) {

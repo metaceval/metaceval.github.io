@@ -300,7 +300,7 @@ const S = {
   mapColorMode:     localStorage.getItem('metac_map_color_v1') || 'depth',
   mapLegendVisible: localStorage.getItem('metac_map_legend_v1') !== 'hidden',
   view:             'tecnicas',   // 'tecnicas' | 'evaluacion'
-  evalCat:          'evidencias',
+  evalCat:          null,
   evalModal:        null,         // currently open eval entity ID
   evalSelected:     null,         // selected entity in split view
   evalMapMode:      false,        // true = split+graph, false = cards grid

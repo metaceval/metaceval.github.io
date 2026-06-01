@@ -474,6 +474,7 @@ function openModal(itemId) {
   const bipartiteBtn = document.getElementById('modalBipartiteBtn');
   if (bipartiteBtn) {
     bipartiteBtn.style.display = '';
+    bipartiteBtn.title = i('bipartiteTip');
     bipartiteBtn.onclick = () => openBipartiteMap(item.id, 'tecnica');
   }
   const fav = S.favorites.has(item.id);

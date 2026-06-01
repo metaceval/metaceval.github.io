@@ -1070,6 +1070,7 @@ function openEvalModal(evalId) {
   const bipartiteBtn = document.getElementById('modalBipartiteBtn');
   if (bipartiteBtn) {
     bipartiteBtn.style.display = (entity.metac_ids || []).length > 0 ? '' : 'none';
+    bipartiteBtn.title = i('bipartiteTip');
     bipartiteBtn.onclick = () => openBipartiteMap(entity.id, 'eval');
   }
 

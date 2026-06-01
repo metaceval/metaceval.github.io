@@ -390,7 +390,7 @@ function renderEvalCards() {
         </div>
       </div>
       <div class="card-fields">
-        ${isEvalShared ? `<span class="eval-chip" data-prefix="${eCat.prefix}" style="font-size:.72rem;padding:3px 8px;cursor:default">${esc(i(eCat.i18n))}</span>` : ''}
+        ${(isEvalShared || !S.evalCat) ? `<span class="eval-chip" data-prefix="${eCat.prefix}" style="font-size:.72rem;padding:3px 8px;cursor:default">${esc(i(eCat.i18n))}</span>` : ''}
         ${metaBadges}
       </div>
       ${e.summary ? `<div class="card-summary">${esc(e.summary)}</div>` : ''}

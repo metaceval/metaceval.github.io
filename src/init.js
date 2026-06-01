@@ -4,6 +4,8 @@ function parseViewParam(vp) {
   if (!vp) return null;
   if (vp === 'tecnicas') return { view: 'tecnicas', mapMode: false };
   if (vp === 'tecnicas-map') return { view: 'tecnicas', mapMode: true };
+  if (vp === 'eval') return { view: 'evaluacion', evalCat: null, mapMode: false };
+  if (vp === 'eval-map') return { view: 'evaluacion', evalCat: null, mapMode: true };
   if (vp.startsWith('eval-')) {
     const rest = vp.slice(5);
     const isMap = rest.endsWith('-map');

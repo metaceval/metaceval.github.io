@@ -12,8 +12,8 @@ function getNavState() {
 function getViewParam() {
   if (document.getElementById('homeView').classList.contains('visible')) return null;
   if (S.view === 'evaluacion') {
-    const cat = S.evalCat || EVAL_CATS[0].id;
-    return 'eval-' + cat + (S.evalMapMode ? '-map' : '');
+    const suffix = S.evalMapMode ? '-map' : '';
+    return S.evalCat ? 'eval-' + S.evalCat + suffix : 'eval' + suffix;
   }
   return 'tecnicas' + (S.mapMode ? '-map' : '');
 }

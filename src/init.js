@@ -359,13 +359,11 @@ async function init() {
         if (S.mapMode) toggleMapView();
         if (!EV.data[S.lang]) { try { await loadEvalLang(S.lang); } catch {} }
         if (S.view !== 'evaluacion') switchView('evaluacion');
-        if (st.evalCat !== S.evalCat) {
-          S.evalCat = st.evalCat || null;
-          S.evalSelected = null;
-          renderEvalTabs();
-          if (S.evalMapMode) renderEvalList(); else renderEvalCards();
-        }
+        S.evalCat = st.evalCat || null;
+        S.evalSelected = null;
+        renderEvalTabs();
         if (!!st.map !== !!S.evalMapMode) toggleEvalMapMode();
+        else if (S.evalMapMode) renderEvalList(); else renderEvalCards();
       }
 
       // Restore map node after map is in its final state

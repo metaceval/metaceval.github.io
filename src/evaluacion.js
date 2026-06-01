@@ -34,7 +34,7 @@ function renderEvalNavFilter() {
       <div class="eval-filter-nav-item">
         <span class="eval-filter-nav-label">${esc(i(filter.label))}</span>
         <select data-eval-filter="${filter.key}">
-          <option value="">${esc(i('evalFilterAll'))}</option>
+          <option value="">${esc(i(filter.allKey))}</option>
           ${getEvalFilterOptions(filter.field).map(value =>
             `<option value="${esc(value)}" ${S[filter.key] === value ? 'selected' : ''}>${esc(evalFilterValueLabel(value))}</option>`
           ).join('')}
@@ -85,10 +85,10 @@ function syncEvalViewMode() {
 }
 
 const EVAL_GLOBAL_FILTERS = [
-  { key: 'evalModality',     field: 'modality',      label: 'evalFilterModality' },
-  { key: 'evalLocation',     field: 'location',      label: 'evalFilterLocation' },
-  { key: 'evalGrouping',     field: 'grouping',      label: 'evalFilterGrouping' },
-  { key: 'evalAiResistance', field: 'ai_resistance', label: 'evalFilterAiResistance' },
+  { key: 'evalModality',     field: 'modality',      label: 'evalFilterModality',     allKey: 'evalFilterAll' },
+  { key: 'evalLocation',     field: 'location',      label: 'evalFilterLocation',     allKey: 'evalFilterAllMasc' },
+  { key: 'evalGrouping',     field: 'grouping',      label: 'evalFilterGrouping',     allKey: 'evalFilterAllMasc' },
+  { key: 'evalAiResistance', field: 'ai_resistance', label: 'evalFilterAiResistance', allKey: 'evalFilterAll' },
 ];
 
 function evalFilterValueLabel(value) {
@@ -173,7 +173,7 @@ function buildEvalFilterBar(compact = false) {
         <label class="eval-filter-control">
           <span>${esc(i(filter.label))}</span>
           <select data-eval-filter="${filter.key}">
-            <option value="">${esc(i('evalFilterAll'))}</option>
+            <option value="">${esc(i(filter.allKey))}</option>
             ${getEvalFilterOptions(filter.field).map(value => `
               <option value="${esc(value)}" ${S[filter.key] === value ? 'selected' : ''}>${esc(evalFilterValueLabel(value))}</option>
             `).join('')}
@@ -422,14 +422,12 @@ function renderEvalList() {
     ? ((EV.data[S.lang] || {})[cat.id] || [])
     : EVAL_CATS.flatMap(c => (EV.data[S.lang] || {})[c.id] || []);
   const filtered = filterEvalItems(items);
-  const descText = cat ? getEvalCategoryDescription(cat, false) : '';
 
   const header = `
     <div class="eval-list-header">
-      <div class="eval-list-header-cat">${esc(cat ? i(cat.i18n) : i('evalCatAll'))}</div>
+      <div class="eval-list-header-cat">${esc(cat ? i(cat.i18n) : i('evalCatAll'))} <span class="eval-list-count">(${filtered.length})</span></div>
       <div class="eval-list-header-hint">${esc(i('evalListHint'))}</div>
-    </div>
-    ${descText ? `<div class="eval-cat-desc">${descText}</div>` : ''}`;
+    </div>`;
 
   renderEvalNavFilter();
   recalcSplitViewTop();

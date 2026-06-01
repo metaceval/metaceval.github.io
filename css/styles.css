@@ -1711,6 +1711,11 @@
       color: var(--primary);
       margin-bottom: 4px;
     }
+    .eval-list-count {
+      font-weight: 400;
+      opacity: .65;
+      letter-spacing: 0;
+    }
     .eval-list-header-hint {
       font-size: .76rem;
       color: var(--text-muted);

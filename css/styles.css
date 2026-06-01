@@ -1216,7 +1216,7 @@
       bottom: 0;
       top: 0;
       background: var(--surface);
-      z-index: 60;
+      z-index: 310;
       display: none;
       overflow: hidden;
     }

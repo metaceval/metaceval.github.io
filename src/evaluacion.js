@@ -51,10 +51,11 @@ function renderEvalNavFilter() {
       S[e.target.dataset.evalFilter] = e.target.value;
       S.evalPage = 0;
       if (S.evalMapMode) renderEvalList(); else renderEvalCards();
+      updateURL();
     };
   });
   const clearBtn = row.querySelector('.eval-filter-clear-inline');
-  if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; if (S.evalMapMode) renderEvalList(); else renderEvalCards(); };
+  if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; if (S.evalMapMode) renderEvalList(); else renderEvalCards(); updateURL(); };
   recalcSplitViewTop();
 }
 
@@ -180,6 +181,7 @@ function buildEvalFilterBar(compact = false) {
     S.evalPage = 0;
     if (S.evalMapMode) renderEvalList();
     else renderEvalCards();
+    updateURL();
   };
 
   wrap.querySelectorAll('[data-eval-filter]').forEach(select => {
@@ -188,6 +190,7 @@ function buildEvalFilterBar(compact = false) {
       S.evalPage = 0;
       if (S.evalMapMode) renderEvalList();
       else renderEvalCards();
+      updateURL();
     };
   });
 

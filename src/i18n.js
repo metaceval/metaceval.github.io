@@ -22,6 +22,7 @@ const I18N = {
     clearSearch:  'Limpiar búsqueda',
     assistant:    'Asistente de IA',
     assistantTip: '¿Tienes dudas sobre una técnica o no sabes cómo evaluar una actividad? Consúltale al asistente de IA.',
+    bipartiteTip: 'Ver las conexiones de esta técnica con los recursos de evaluación: técnicas de evaluación, evidencias, instrumentos y dimensiones.',
     clearConfirm: '¿Eliminar todos los favoritos?',
     noFavs:       'Sin favoritos aún',
     noFavsHint:   'Pulsa ⭐ en cualquier recurso metodológico',
@@ -212,6 +213,7 @@ const I18N = {
     clearSearch:  'Netejar cerca',
     assistant:    "Assistent d'IA",
     assistantTip: "Tens dubtes sobre una tècnica o no saps com avaluar una activitat? Consulta l'assistent d'IA.",
+    bipartiteTip: 'Veure les connexions d\'aquesta tècnica amb els recursos d\'avaluació: tècniques d\'avaluació, evidències, instruments i dimensions.',
     clearConfirm: 'Eliminar tots els preferits?',
     noFavs:       'Sense preferits encara',
     noFavsHint:   'Prem ⭐ a qualsevol recurs metodològic',
@@ -402,6 +404,7 @@ const I18N = {
     clearSearch:  'Clear search',
     assistant:    'AI assistant',
     assistantTip: 'Have questions about a technique or unsure how to assess an activity? Ask the AI assistant.',
+    bipartiteTip: 'View the connections between this technique and its assessment resources: evaluation techniques, evidence, instruments and dimensions.',
     clearConfirm: 'Delete all favorites?',
     noFavs:       'No favorites yet',
     noFavsHint:   'Press ⭐ on any methodological resource',
@@ -606,6 +609,8 @@ function applyI18N() {
   document.getElementById('searchInput').placeholder   = i('search');
   document.getElementById('assistantLinkLabel').textContent = i('assistant');
   document.getElementById('assistantLink').title       = i('assistantTip');
+  const bipartiteBtn = document.getElementById('modalBipartiteBtn');
+  if (bipartiteBtn) bipartiteBtn.title = i('bipartiteTip');
   document.getElementById('selectBtnLabel').textContent = S.selectMode ? i('selectOff') : i('selectMode');
   document.getElementById('favBtnLabel').textContent   = i('favBtn');
   document.getElementById('panelTitle').textContent    = i('favPanel');

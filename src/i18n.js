@@ -21,6 +21,7 @@ const I18N = {
     selectedFavsAdded:'Añadidos a favoritos',
     clearSearch:  'Limpiar búsqueda',
     assistant:    'Asistente de IA',
+    assistantTip: '¿Tienes dudas sobre una técnica o no sabes cómo evaluar una actividad? Consúltale al asistente de IA.',
     clearConfirm: '¿Eliminar todos los favoritos?',
     noFavs:       'Sin favoritos aún',
     noFavsHint:   'Pulsa ⭐ en cualquier recurso metodológico',
@@ -210,6 +211,7 @@ const I18N = {
     selectedFavsAdded:'Afegits als preferits',
     clearSearch:  'Netejar cerca',
     assistant:    "Assistent d'IA",
+    assistantTip: "Tens dubtes sobre una tècnica o no saps com avaluar una activitat? Consulta l'assistent d'IA.",
     clearConfirm: 'Eliminar tots els preferits?',
     noFavs:       'Sense preferits encara',
     noFavsHint:   'Prem ⭐ a qualsevol recurs metodològic',
@@ -399,6 +401,7 @@ const I18N = {
     selectedFavsAdded:'Added to favorites',
     clearSearch:  'Clear search',
     assistant:    'AI assistant',
+    assistantTip: 'Have questions about a technique or unsure how to assess an activity? Ask the AI assistant.',
     clearConfirm: 'Delete all favorites?',
     noFavs:       'No favorites yet',
     noFavsHint:   'Press ⭐ on any methodological resource',
@@ -602,7 +605,7 @@ function applyI18N() {
   document.getElementById('logoSub').textContent       = i('sub');
   document.getElementById('searchInput').placeholder   = i('search');
   document.getElementById('assistantLinkLabel').textContent = i('assistant');
-  document.getElementById('assistantLink').title       = i('assistant');
+  document.getElementById('assistantLink').title       = i('assistantTip');
   document.getElementById('selectBtnLabel').textContent = S.selectMode ? i('selectOff') : i('selectMode');
   document.getElementById('favBtnLabel').textContent   = i('favBtn');
   document.getElementById('panelTitle').textContent    = i('favPanel');

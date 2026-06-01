@@ -40,6 +40,21 @@ function applyViewParam(u) {
 
   if (S.evalSelected) u.searchParams.set('item', S.evalSelected);
   else u.searchParams.delete('item');
+
+  const EVAL_FILTER_PARAMS = [
+    { key: 'evalModality',     param: 'emod' },
+    { key: 'evalLocation',     param: 'eloc' },
+    { key: 'evalGrouping',     param: 'egrp' },
+    { key: 'evalAiResistance', param: 'eai'  },
+  ];
+  if (S.view === 'evaluacion') {
+    EVAL_FILTER_PARAMS.forEach(({ key, param }) => {
+      if (S[key]) u.searchParams.set(param, S[key]);
+      else u.searchParams.delete(param);
+    });
+  } else {
+    EVAL_FILTER_PARAMS.forEach(({ param }) => u.searchParams.delete(param));
+  }
 }
 
 function updateURL() {

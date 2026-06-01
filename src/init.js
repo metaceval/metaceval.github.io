@@ -37,6 +37,8 @@ async function init() {
   const modalParam = p.get('modal');
   const nodeParam  = p.get('node');
   const itemParam  = p.get('item');
+  const evalFilterParams = { emod: 'evalModality', eloc: 'evalLocation', egrp: 'evalGrouping', eai: 'evalAiResistance' };
+  Object.entries(evalFilterParams).forEach(([param, key]) => { const v = p.get(param); if (v) S[key] = v; });
 
   applyI18N();
   updateSharedBanner();
@@ -329,6 +331,8 @@ async function init() {
       const modalP = pp.get('modal');
       const nodeP  = pp.get('node');
       const itemP  = pp.get('item');
+      const evalFP = { emod: 'evalModality', eloc: 'evalLocation', egrp: 'evalGrouping', eai: 'evalAiResistance' };
+      Object.entries(evalFP).forEach(([param, key]) => { S[key] = pp.get(param) || ''; });
 
       // Set block/field before view code — filteredData() is used inside switchView/toggleMapView
       if (st?.screen === 'tecnicas') {

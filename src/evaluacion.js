@@ -301,6 +301,7 @@ function renderEvalCards() {
   });
 
   const total = sorted.length;
+  updateGlobalCount(total);
   const pages = S.evalPerPage ? Math.max(1, Math.ceil(total / S.evalPerPage)) : 1;
   if (S.evalPage >= pages) S.evalPage = pages - 1;
   const paged = S.evalPerPage ? sorted.slice(S.evalPage * S.evalPerPage, (S.evalPage + 1) * S.evalPerPage) : sorted;
@@ -425,10 +426,11 @@ function renderEvalList() {
 
   const header = `
     <div class="eval-list-header">
-      <div class="eval-list-header-cat">${esc(cat ? i(cat.i18n) : i('evalCatAll'))} <span class="eval-list-count">(${filtered.length})</span></div>
+      <div class="eval-list-header-cat">${esc(cat ? i(cat.i18n) : i('evalCatAll'))}</div>
       <div class="eval-list-header-hint">${esc(i('evalListHint'))}</div>
     </div>`;
 
+  updateGlobalCount(filtered.length);
   renderEvalNavFilter();
   recalcSplitViewTop();
 
@@ -1149,6 +1151,15 @@ function downloadEvalMarkdown(entity) {
   if (!entity) return;
   downloadTextFile(`${slugifyFilename(entity.name)}.md`, buildEvalMarkdown(entity));
   toast(i('markdownDownloaded'));
+}
+
+// ─── GLOBAL COUNT BADGE ──────────────────────────────────────────────────────
+
+function updateGlobalCount(n) {
+  const el = document.getElementById('globalCount');
+  if (!el) return;
+  el.textContent = n;
+  el.classList.toggle('visible', n != null);
 }
 
 // ─── VIEW SWITCH ─────────────────────────────────────────────────────────────

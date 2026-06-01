@@ -224,6 +224,7 @@ function renderCards() {
   const main = document.getElementById('main');
   const allRows = filteredData();
   const total = allRows.length;
+  updateGlobalCount(total);
   main.style.paddingBottom = S.selectMode ? '110px' : '';
 
   if (!total) {

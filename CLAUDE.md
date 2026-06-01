@@ -4,193 +4,125 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-**Metac** is a single-page, zero-dependency web app for browsing and sharing active-learning methodologies (técnicas de aprendizaje activo). It is a single HTML file (`index.html`) with all CSS and JavaScript inlined.
+**Metac** is a zero-dependency, no-framework web app for browsing, relating and sharing two connected catalogs:
 
-There is no build step, no package manager, and no test suite. To develop, open `index.html` directly in a browser or serve it with any static server (e.g. `python3 -m http.server`).
+1. **Métodos activos** (`metac_*`) — active-learning methodologies / técnicas de aprendizaje activo.
+2. **Evaluación** — evaluation resources grouped in four categories (see below), used to assess those methods.
+
+The two catalogs are cross-linked: each technique declares which evaluation resources fit it (`eval_ids`), and the app renders these relationships both inside the technique modal and as interactive bipartite/ego-network maps.
+
+There is **no build step, no package manager, and no test suite**. To develop, serve the repo root with any static server (the app fetches local JSON via `fetch`, so opening `index.html` from `file://` will not work in most browsers):
+
+```bash
+python3 -m http.server
+```
+
+The app supports **three languages**: `es`, `ca`, `en` (`DEFAULT_LANG` is `en`).
 
 ## Architecture
 
-Everything lives in `index.html` in three logical sections:
+The app is **modular vanilla JS**, not a single file. `index.html` is a declarative shell (inlined CSS-critical bits + HTML) that loads, in order, the scripts in `src/` (see the `<script src="src/…">` tags near the end of `index.html`):
 
-1. **CSS** (`<style>`) — CSS custom properties drive theming; layout uses CSS Grid for the card grid and Flexbox elsewhere. No external stylesheet.
+| File | Responsibility |
+|------|----------------|
+| `src/data.js` | CONFIG, global `S` (technique state) and `EV` (evaluation state), JSON loaders, parsers, normalizers, color/field helpers, `formatDesc`, sharing, favorites/categories persistence. |
+| `src/i18n.js` | `I18N` object (strings for `es`/`ca`/`en`), `i(key)` accessor, language switching. |
+| `src/shell.js` | App shell, theme handling, top-level view wiring. |
+| `src/ui-tecnicas.js` | Técnicas view: cards, tabs, `openModal`, related block, **eval section in modal** (`renderEvalSection`). |
+| `src/evaluacion.js` | Evaluación view: cards/list/tabs for the four eval categories, `openEvalModal`. |
+| `src/eval-map.js` | Evaluation relationship map + type toggles. |
+| `src/bipartite-map.js` | Bipartite map técnicas ↔ evaluación. |
+| `src/metac-map.js` / `src/unified-map.js` | Technique relationship maps. |
+| `src/favoritos.js` | Favorites panel. |
+| `src/init.js` | Reads URL params, loads data, wires all event listeners (entry point). |
+| `src/analytics.js` | Lightweight visit analytics. |
 
-2. **HTML** — Declarative shell only. All dynamic content (cards, tabs, modal body, panel items) is injected by JavaScript at runtime.
+Stylesheets live in `css/`. CSS custom properties drive theming (light/dark/auto, persisted under `metac_theme`); layout uses CSS Grid for card grids and Flexbox elsewhere.
 
-3. **JavaScript** (`<script>`) — Plain vanilla JS, no framework. Key sections, in order:
+All dynamic content (cards, tabs, modal bodies, panels, maps) is injected by JS at runtime. Render functions re-read `S`/`EV` and rebuild DOM.
 
-   - **CONFIG** — `CSV` object holds Google Sheets published-CSV URLs for ES and CA languages. `COLORS` / `FIELD_MAP` map field names to badge colors.
-   - **I18N** — `I18N` object with all UI strings for `es` and `ca`. Access via `i(key)`.
-   - **STATE** — `S` object is the single source of truth: `lang`, `data` (per-language parsed arrays), `byId` (per-language ID maps), `favorites` (Set of technique IDs), `search`, `field` (active tab), `modal` (open technique ID), `shared` (URL-decoded technique IDs).
-   - **CSV PARSER** — `parseCSV` / `toObjects` convert raw Google Sheets CSV into technique objects `{ id, name, desc, tags, fields, programs, summary }`. Programs are parsed from the format `Label|url ; Label2|url2`.
-   - **RENDER functions** — `renderTabs()`, `renderCards()`, `openModal(itemId)`, `renderPanel()`. All re-read `S` and rebuild DOM.
-   - **DATA FETCH** — `loadLang(lang)` fetches the CSV for the given language (cached in `S.data`). Also falls back to local CSV files during development (the two `.csv` files in the repo).
-   - **SHARING** — `shareURL(itemIds)` encodes technique IDs as `?t=metac_001,metac_003&lang=es`. The `?t=` param populates `S.shared` on load, which filters the card grid.
-   - **INIT** — Reads URL params, loads data, wires all event listeners.
+## State
+
+- **`S`** (in `src/data.js`) — single source of truth for the técnicas catalog: `lang`, `data` (per-language parsed arrays), `byId` (per-language ID maps), `favorites` (Set of technique IDs), `categories`, `search`, active tab, `modal` (open technique ID), `modalHistory`, `shared` (URL-decoded IDs), map color/legend prefs, etc.
+- **`EV`** (in `src/data.js`) — evaluation catalog: `EV.data[lang]` (object keyed by the four category ids) and `EV.byId[lang]` (a single `Map` combining all four files, keyed by entity ID). Populated lazily by `loadEvalLang(lang)`.
 
 ## Data sources
 
-- **Live** (production): Google Sheets published as CSV, URLs in the `CSV` constant.
-- **Local** (backup/offline fallback): `data/metac - ca.csv` (Catalan) and `data/metac - es.csv` (Spanish). These mirror the Google Sheets data and are loaded automatically if the published Google Sheets CSV is unavailable.
+All data is **local JSON** under `data/{es,ca,en}/` (no Google Sheets / CSV anymore):
 
-## CSV column format
+- `data/{lang}/metac.json` — the techniques catalog (loaded by `loadLang`).
+- `data/{lang}/tecnicas.json`, `evidencias.json`, `instrumentos.json`, `dimensiones.json` — the four evaluation categories (loaded by `loadEvalLang`).
 
-| Column | Field | Notes |
-|--------|-------|-------|
-| 0 | `id` | Stable technique ID shared by both languages |
-| 1 | `name` | Technique name |
-| 2 | `desc` | Markdown-lite description: `## Heading`, numbered lists `1. item`, ALL-CAPS: label |
-| 3 | `tags` | Comma-separated keywords |
-| 4 | `fields` | Comma-separated ámbitos (field/domain badges) |
-| 5 | `programs` | Semicolon-separated `Label|url` pairs (optional) |
-| 6 | `summary` | Abstract shown in cards and modal metadata |
+The repo-root `metac-*.md` and `eval-*.md` files are **generated documentation exports** (for NotebookLM, etc.), produced by `scripts/generate_metac_md.py` and `scripts/generate_eval_md.py` from the JSON. They are not consumed by the app; regenerate them with those scripts after editing the JSON.
 
-## Related techniques
+### Technique object shape
 
-The spreadsheet may include a final column with related technique IDs:
+`fromJSON` (in `src/data.js`) maps each raw JSON item to:
 
-| Column | Field | Notes |
-|--------|-------|-------|
-| 7 | `block` | Block/category name (already present) |
-| 8 | `related` | Semicolon-separated stable technique IDs, e.g. `metac_099; metac_045; metac_078` |
+```js
+{ id, name, desc, tags, blocks, blockIds, fields, fieldIds, programs, summary, related, eval_ids }
+```
 
-The `related` field must be treated as a list of internal links between techniques.
+- `programs` is an array of `{ label, url }`.
+- `fields`/`fieldIds` and `blocks`/`blockIds` are produced by `normalizeField` / `normalizeBlock` (these normalize labels and assign stable language-independent IDs — update them if new fields/blocks or typos appear).
+
+## Evaluation system (`eval_ids`)
+
+Each technique JSON item may carry an `eval_ids` array of evaluation entity IDs. Entity IDs are **prefixed by category**, and `EVAL_CATS` (in `src/data.js`) maps prefix → category:
+
+| Prefix | Category id | JSON file | i18n label |
+|--------|-------------|-----------|------------|
+| `TEC_` | `tecnicas` | `tecnicas.json` | `evalCatTec` |
+| `INS_` | `evidencias` | `evidencias.json` | `evalCatIns` |
+| `HER_` | `instrumentos` | `instrumentos.json` | `evalCatHer` |
+| `DIM_` | `dimensiones` | `dimensiones.json` | `evalCatDim` |
+
+Note the deliberate cross-naming: `evidencias.json` holds `INS_*` entities and `instrumentos.json` holds `HER_*` entities.
+
+`renderEvalSection(item)` (in `src/ui-tecnicas.js`) renders the "Cómo evaluar" block in the technique modal: it groups `eval_ids` by prefix, resolves each via `evalEntityById`, and renders a chip per resource. Clicking a chip pushes onto `S.modalHistory` and opens the eval modal.
+
+**Lazy-load guard:** eval data is loaded by `loadEvalLang` and may not be ready when a modal opens via a direct/shared URL (`?t=metac_099`). `renderEvalSection` handles this: if `EV.byId[S.lang]` is not yet populated it hides the box, kicks off `loadEvalLang`, and re-renders on resolve **only if the same modal is still open** (`S.modal === item.id`). Preserve this guard when editing.
+
+## Related techniques (`related`)
+
+Each technique JSON item may carry a `related` array of stable technique IDs (internal links between techniques).
 
 ### Data rules
 
-- Related techniques must always be stored as stable IDs, never as translated technique names.
-- IDs must use the exact format `metac_001`, `metac_002`, etc.
-- Multiple related IDs are separated with semicolon and one space: `metac_099; metac_045; metac_078`
+- Related techniques are stored as **stable IDs**, never as translated technique names.
+- IDs use the exact format `metac_001`, `metac_002`, …
 - A technique must never include its own ID in its `related` list.
 - Ignore related IDs that do not exist in the current language dataset.
-- The same related IDs should be used across languages because IDs are language-independent.
-- Related techniques are optional. If the column is missing or a cell is empty, the UI must not show the related block.
+- The same related IDs are used across languages because IDs are language-independent.
+- `related` is optional; if empty the UI hides the related block.
 
-### Parser requirements
+### UI behavior (`renderRelated` in `src/ui-tecnicas.js`)
 
-When converting CSV rows into technique objects, include a new `related` property:
-
-```js
-related: (r[col.related] || '')
-  .split(';')
-  .map(x => x.trim())
-  .filter(Boolean)
-  .filter(id => id !== r[col.id])
-```
-
-The parser must not depend on the translated column name. It should use the column position, just like the other CSV fields.
-
-### UI requirements
-
-When a technique modal is opened, show a block of related techniques if `item.related` contains valid IDs.
-
-The related block should:
-
-- appear in the modal, preferably after program links and before the full description;
-- show the localized label (Spanish: `Relacionadas:`, Catalan: `Relacionades:`, English: `Related:`);
-- display the translated names of the related techniques for the current language;
-- use the related IDs only to look up the corresponding items in `S.byId[S.lang]`;
-- open the corresponding technique modal when a related item is clicked;
-- not modify search, filters, favorites, categories or shared links;
-- not create a new URL parameter;
-- not break existing shared URLs, because those already use stable IDs.
-
-### Suggested implementation
-
-Add localized strings to `I18N`:
-
-```js
-// es
-related: 'Relacionadas:',
-// ca
-related: 'Relacionades:',
-// en
-related: 'Related:',
-```
-
-Add a container to the modal HTML, after `modalPrograms`:
-
-```html
-<div class="modal-related" id="modalRelated" style="display:none"></div>
-```
-
-Add CSS near the existing modal program styles:
-
-```css
-.modal-related {
-  padding: 12px 20px;
-  border-bottom: 1px solid var(--border);
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  align-items: center;
-}
-.modal-related-label {
-  font-size: .78rem;
-  font-weight: 600;
-  color: var(--text-muted);
-  margin-right: 2px;
-}
-.related-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  padding: 5px 12px;
-  background: #f8fafc;
-  color: var(--primary);
-  border: 1px solid var(--border);
-  border-radius: 50px;
-  font-size: .8rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background .12s, border-color .12s;
-}
-.related-btn:hover { background: #eff6ff; border-color: #bfdbfe; }
-[data-theme="dark"] .related-btn { background: #111827; border-color: var(--border); color: var(--primary); }
-[data-theme="dark"] .related-btn:hover { background: #0f1f3d; border-color: #3b82f6; }
-```
-
-Add a helper function in the render section:
-
-```js
-function renderRelated(item) {
-  const box = document.getElementById('modalRelated');
-  if (!box) return;
-  const byId = S.byId[S.lang] || {};
-  const relatedItems = (item.related || []).map(id => byId[id]).filter(Boolean);
-  if (!relatedItems.length) { box.style.display = 'none'; box.innerHTML = ''; return; }
-  box.style.display = 'flex';
-  box.innerHTML = `
-    <span class="modal-related-label">${esc(i('related'))}</span>
-    ${relatedItems.map(rel => `
-      <button class="related-btn" type="button" data-related-id="${esc(rel.id)}">${esc(rel.name)}</button>
-    `).join('')}
-  `;
-  box.querySelectorAll('[data-related-id]').forEach(btn => {
-    btn.addEventListener('click', ev => { ev.stopPropagation(); openModal(btn.dataset.relatedId); });
-  });
-}
-```
-
-Call `renderRelated(item)` inside `openModal(itemId)`, after rendering programs and before rendering the modal body.
-
-### Manual tests
-
-After implementing related techniques, test:
-
-1. Open a technique with related IDs — related block appears in the correct language.
-2. Click a related technique — its modal opens.
-3. Change language — same related IDs show translated names.
-4. Open a technique with no related IDs — block is hidden.
-5. Verify favorites, shared URLs (`?t=metac_001&lang=es`), and local CSV fallback still work.
+- Appears in the modal, after program links and before the full description.
+- Shows the localized label (`Relacionadas:` / `Relacionades:` / `Related:`, key `related` in `I18N`).
+- Displays the **translated names** for the current language, looked up via `S.byId[S.lang]`.
+- Clicking a related item opens that technique's modal.
+- Must not modify search, filters, favorites, categories or shared links, and must not introduce a new URL parameter.
 
 ### Important
 
-Do not use translated technique names as internal references. The program must always use IDs for relationships and only use names for display.
+Never use translated technique names as internal references. Relationships (`related`, `eval_ids`) always use IDs; names are only for display.
 
 ## Key conventions
 
-- **IDs are the stable cross-language reference**: favorites, categories, selection state, modal state, and share URLs store technique IDs. Row order can differ between languages as long as IDs stay aligned.
-- **`normField()`** corrects known typos in the ES CSV field names; update it if new typos appear.
-- **`fieldColor()`** maps field names to colors via keyword matching in `FIELD_MAP`. Add entries there for new field categories before falling back to the hash.
-- **`formatDesc()`** is a lightweight renderer: `## ` → `<h4>`, numbered lines → `<ol>`, ALL-CAPS-colon prefixes → `<span class="section-label">`. It is not a Markdown parser; keep the CSV format consistent with these rules.
-- **LocalStorage key** is `metec_favs_v1` (note: "metec", not "metac" — changing it would lose existing users' favorites).
+- **IDs are the stable cross-language reference**: favorites, categories, selection/modal state, share URLs, `related` and `eval_ids` all store IDs. Row order may differ between languages as long as IDs stay aligned.
+- **`fieldColor()` / `fieldColorIdx()`** map field names to colors via keyword matching in `FIELD_MAP` (entries cover es/ca/en). Add entries there for new field categories before falling back to the hash.
+- **`formatDesc()`** is a lightweight renderer (not a Markdown parser): `## ` → `<h4>`, numbered lines → `<ol>`, ALL-CAPS-colon prefixes → section labels. Keep the `desc` JSON content consistent with these rules.
+- **Sharing**: `shareURL(itemIds)` encodes `?t=metac_001,metac_003&lang=es`; `?t=` populates `S.shared` on load. Eval entities can also be deep-linked.
+- **LocalStorage keys**: favorites `metec_favs_v1` (note the "metec" typo — do not change it or existing users lose favorites), theme `metac_theme`, map prefs `metac_map_color_v1` / `metac_map_legend_v1`.
+
+## Manual tests
+
+After changing technique/eval rendering, verify:
+
+1. Open a technique with `eval_ids` (e.g. `metac_099`) — the "Cómo evaluar" block shows the resources grouped by category, in the current language.
+2. Open the same technique via direct URL `?t=metac_099&lang=es` on a fresh load — the eval block still appears once eval data loads (lazy-load guard).
+3. Click an eval chip — its modal opens; back button returns to the technique.
+4. Open a technique with `related` IDs — related block appears; clicking opens the target technique.
+5. Switch language — related and eval names show translated labels for the same IDs.
+6. Verify favorites and shared URLs still work.

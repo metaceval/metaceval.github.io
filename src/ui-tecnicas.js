@@ -607,8 +607,17 @@ function renderEvalSection(item) {
   const box = document.getElementById('modalEval');
   if (!box) return;
   const evalIds = item.eval_ids || [];
-  if (!evalIds.length || !EV.byId[S.lang]) {
+  if (!evalIds.length) {
     box.style.display = 'none';
+    return;
+  }
+  // Eval data may not be loaded yet (e.g. modal opened via direct/shared URL
+  // before loadEvalLang resolved). Hide for now and re-render once it arrives.
+  if (!EV.byId[S.lang]) {
+    box.style.display = 'none';
+    loadEvalLang(S.lang)
+      .then(() => { if (S.modal === item.id) renderEvalSection(item); })
+      .catch(() => {});
     return;
   }
   const groups = EVAL_CATS.map(cat => ({

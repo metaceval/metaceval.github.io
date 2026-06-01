@@ -1055,7 +1055,28 @@ function mapHidePanel() {
 }
 
 function refreshMap() {
-  if (MAP.viewMode === 'blocks') initMapBlocks(); else initMapData();
+  // Preserve the current selection across a refresh (search typing/clearing,
+  // filter tab changes) so the focused node stays selected and its relations
+  // stay visible. Without this, clearing the search box via its X would rebuild
+  // the graph and deselect, making it impossible to locate an item by search
+  // and then explore its relations in the full graph. The map "reset" button
+  // calls initMapData directly (bypassing refreshMap) so it still clears.
+  const prevSelId = (MAP.selected >= 0 && MAP.nodes && MAP.nodes[MAP.selected])
+    ? MAP.nodes[MAP.selected].id : null;
+  const prevColorMode = MAP._prevColorMode;
+
+  if (MAP.viewMode === 'blocks') { initMapBlocks(); return; }
+  initMapData();
+
+  if (prevSelId == null) return;
+  const idx = MAP.nodes.findIndex(n => n.id === prevSelId);
+  if (idx < 0) return;
+  // Re-select. Pre-set MAP.selected and restore _prevColorMode so the
+  // first-selection bookkeeping inside mapSelectNode is skipped and the base
+  // color mode to return to on deselect is preserved.
+  MAP._prevColorMode = prevColorMode;
+  MAP.selected = idx;
+  mapSelectNode(idx);
 }
 
 function shouldOpenMapWithBlocks() {

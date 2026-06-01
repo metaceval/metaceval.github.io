@@ -94,10 +94,12 @@ function bmapBuild(id, type) {
   BMAP.groups = [];
   BMAP.allNodes = [];
 
-  // Determine ego side and connected side x positions
+  // Determine ego side and connected side x positions. The connected column is
+  // pulled slightly inward to leave room for the vertical group labels drawn on
+  // its outer edge.
   const W = canvas.clientWidth || canvas.width;
-  const egoX = type === 'tecnica' ? W * 0.22 : W * 0.78;
-  const connX = type === 'tecnica' ? W * 0.72 : W * 0.28;
+  const egoX = type === 'tecnica' ? W * 0.20 : W * 0.80;
+  const connX = type === 'tecnica' ? W * 0.66 : W * 0.34;
 
   // Build groups of connected nodes
   let rawGroups;
@@ -194,8 +196,8 @@ function bmapDraw() {
     ctx.globalAlpha = 1;
   });
 
-  // Draw group labels
-  const dark = document.documentElement.dataset.theme === 'dark';
+  // Draw group brackets + vertical labels on the outer edge of the node column,
+  // so each group is delimited on the side instead of interrupting the column.
   const GROUP_LABELS = {
     TEC: () => i('evalCatTec'),
     INS: () => i('evalCatIns'),
@@ -203,17 +205,50 @@ function bmapDraw() {
     DIM: () => i('evalCatDim'),
     tec: () => i('techniques') || 'Técnicas activas',
   };
+  // Connected nodes all share the same x; the labels go on the side away from
+  // the ego node (right column → right side, left column → left side).
+  const nodesOnRight = BMAP.allNodes.length ? BMAP.allNodes[0].x >= ep.x : true;
+  const dir = nodesOnRight ? 1 : -1;
+  const TICK = 7;
+
   BMAP.groups.forEach(g => {
     if (!g.nodes.length) return;
-    const firstY = g.nodes[0].y - NODE_H / 2 - 14;
-    const gX = g.nodes[0].x;
-    const col = bmapNodeColor('eval', g.prefix);
+    const top   = g.nodes[0].y - NODE_H / 2;
+    const bot   = g.nodes[g.nodes.length - 1].y + NODE_H / 2;
+    const midY  = (top + bot) / 2;
+    const edge  = g.nodes[0].x + dir * (NODE_W / 2);
+    const brX   = edge + dir * 12;          // vertical bracket line
+    const col   = bmapNodeColor('eval', g.prefix);
+
+    // Bracket: vertical line with end ticks pointing back toward the nodes.
+    ctx.strokeStyle = col.border;
+    ctx.lineWidth = 1.5;
+    ctx.globalAlpha = 0.85;
+    ctx.beginPath();
+    ctx.moveTo(brX, top);
+    ctx.lineTo(brX, bot);
+    ctx.moveTo(brX, top); ctx.lineTo(brX - dir * TICK, top);
+    ctx.moveTo(brX, bot); ctx.lineTo(brX - dir * TICK, bot);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+
+    // Vertical label, truncated to the group's extent (+ the gap to its
+    // neighbour) so adjacent group labels never overlap.
+    let label = (GROUP_LABELS[g.prefix] ? GROUP_LABELS[g.prefix]() : g.prefix).toUpperCase();
+    ctx.font = '700 10px system-ui,sans-serif';
+    const maxLen = (bot - top) + GROUP_GAP - 6;
+    if (ctx.measureText(label).width > maxLen) {
+      while (label.length > 1 && ctx.measureText(label + '…').width > maxLen) label = label.slice(0, -1);
+      label += '…';
+    }
+    ctx.save();
+    ctx.translate(brX + dir * 16, midY);
+    ctx.rotate(dir > 0 ? Math.PI / 2 : -Math.PI / 2);
     ctx.fillStyle = col.border;
-    ctx.font = '600 10px system-ui,sans-serif';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
-    const label = GROUP_LABELS[g.prefix] ? GROUP_LABELS[g.prefix]() : g.prefix;
-    ctx.fillText(label.toUpperCase(), gX, firstY);
+    ctx.fillText(label, 0, 0);
+    ctx.restore();
   });
 
   // Draw connected nodes

@@ -602,7 +602,6 @@ function renderEvalNodePanel(entity, cat) {
   if (openBtnLabel) openBtnLabel.textContent = i('mapOpenFicha');
   const compactOpen = document.getElementById('evalNodePanelOpenCompact');
   if (compactOpen) compactOpen.title = i('mapOpenFicha');
-
   panel.classList.add('visible');
   panel.classList.remove('collapsed');
 }
@@ -1064,6 +1063,11 @@ function openEvalModal(evalId) {
   if (mapBtn) {
     mapBtn.style.display = '';
     mapBtn.onclick = () => { closeModal(); openEvalMap(entity, cat?.id || entity.entity_type); };
+  }
+  const bipartiteBtn = document.getElementById('modalBipartiteBtn');
+  if (bipartiteBtn) {
+    bipartiteBtn.style.display = (entity.metac_ids || []).length > 0 ? '' : 'none';
+    bipartiteBtn.onclick = () => openBipartiteMap(entity.id, 'eval');
   }
 
   openSharedModal();

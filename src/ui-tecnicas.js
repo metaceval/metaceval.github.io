@@ -456,6 +456,11 @@ function openModal(itemId) {
   showModalActionButtons();
   const evalMapBtn = document.getElementById('modalEvalMapBtn');
   if (evalMapBtn) evalMapBtn.style.display = 'none';
+  const bipartiteBtn = document.getElementById('modalBipartiteBtn');
+  if (bipartiteBtn) {
+    bipartiteBtn.style.display = '';
+    bipartiteBtn.onclick = () => openBipartiteMap(item.id, 'tecnica');
+  }
   const fav = S.favorites.has(item.id);
   document.getElementById('modalFavBtn').classList.toggle('fav-active', fav);
 

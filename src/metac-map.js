@@ -1024,6 +1024,11 @@ function mapShowPanel(idx) {
 
   document.getElementById('mapOpenBtn').onclick = () => openModal(nd.id);
   document.getElementById('mapPanelOpenCompact').onclick = () => openModal(nd.id);
+  const bpBtn = document.getElementById('mapBipartiteBtn');
+  if (bpBtn) {
+    bpBtn.style.display = '';
+    bpBtn.onclick = () => openBipartiteMap(nd.id, 'tecnica');
+  }
   document.getElementById('mapNodePanel').classList.add('visible');
   if (!MAP.panelCollapseManual) MAP.panelCollapsed = mapShouldAutoCollapsePanel();
   mapApplyPanelCollapsed();
@@ -1032,6 +1037,8 @@ function mapShowPanel(idx) {
 
 function mapHidePanel() {
   document.getElementById('mapNodePanel').classList.remove('visible', 'is-dragging');
+  const bpBtn = document.getElementById('mapBipartiteBtn');
+  if (bpBtn) bpBtn.style.display = 'none';
   MAP.panelDrag = null;
   const cv = mapCanvas(); if (cv) cv.style.pointerEvents = '';
   const depthGroup = document.getElementById('mapToolbarDepth');

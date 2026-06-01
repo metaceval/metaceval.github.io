@@ -209,6 +209,8 @@ async function init() {
   initEvalSplitEvents();
   initEvalMapEvents();
   initUnifiedMapEvents();
+  initBipartiteMapEvents();
+
   // mapViewBtn removed — view mode toggle is now in results bar
   document.getElementById('mapZoomIn').onclick    = () => { MAP.camera.scale = Math.min(6, MAP.camera.scale * 1.25); };
   document.getElementById('mapZoomOut').onclick   = () => { MAP.camera.scale = Math.max(0.12, MAP.camera.scale / 1.25); };

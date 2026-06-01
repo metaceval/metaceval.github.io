@@ -148,13 +148,9 @@ async function init() {
   // Home: técnicas entry links
   document.getElementById('homeEnterTecCards').onclick = () => enterView('tecnicas', false);
   document.getElementById('homeEnterTecMap').onclick   = () => enterView('tecnicas', true);
-  // Home: eval category chips — cards and map icon buttons
-  document.querySelectorAll('#homeEvalCats .home-eval-cat-cards').forEach(btn => {
-    btn.onclick = () => enterView('evaluacion', false, btn.dataset.evalCat);
-  });
-  document.querySelectorAll('#homeEvalCats .home-eval-cat-map').forEach(btn => {
-    btn.onclick = () => enterView('evaluacion', true, btn.dataset.evalCat);
-  });
+  // Home: eval entry buttons (all items, no category filter)
+  document.getElementById('homeEnterEvalCards').onclick = () => { S.evalCat = null; enterView('evaluacion', false); };
+  document.getElementById('homeEnterEvalMap').onclick   = () => { S.evalCat = null; enterView('evaluacion', true); };
 
   // View toggle (section)
   document.querySelectorAll('.view-btn[data-view]').forEach(btn => {

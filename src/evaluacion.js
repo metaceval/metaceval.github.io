@@ -699,22 +699,7 @@ function initEvalSplitEvents() {
     };
   }
 
-  // Fit
-  document.getElementById('evalHubFitBtn').onclick = () => {
-    const fitCat = S.evalSelected ? (EVAL_CATS.find(c => c.prefix === evalEntityPrefix(S.evalSelected))?.id || '') : '';
-    const fitOffset = (fitCat === 'tecnicas' || fitCat === 'dimensiones')
-      ? ((EGRAPH.canvas?.clientWidth || 0) * 0.28) : 0;
-    EGRAPH.camera = { x: fitOffset, y: 0, scale: 1 };
-  };
 
-  // Full screen
-  document.getElementById('evalHubFullBtn').onclick = () => {
-    if (S.evalSelected) {
-      const entity = evalEntityById(S.evalSelected);
-      const cat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(S.evalSelected));
-      if (entity) { openEvalMap(entity, cat?.id || 'evidencias'); }
-    }
-  };
 
   // Floating panel drag + collapse + close
   const nodePanel = document.getElementById('evalNodePanel');
@@ -771,7 +756,7 @@ function initEvalSplitEvents() {
     };
   }
 
-  // Pan / drag on hub canvas (reuse evalMapView pointer logic)
+  // Pan / drag on hub canvas
   let isPanning = false, panMoved = false;
   let panStart = { x: 0, y: 0 }, camStart = { x: 0, y: 0 };
   let splitNodeDragStart = null;

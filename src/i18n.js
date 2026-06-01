@@ -626,8 +626,6 @@ function applyI18N() {
   setTitle('evalHub2ndBtn',  i('evalHub2ndTip'));
   setText('evalHubOccasionalBtn', i('evalOccasionalBtn'));
   setTitle('evalHubOccasionalBtn', i('evalOccasionalTip'));
-  setTitle('evalHubFitBtn',  i('evalHubFitTip'));
-  setTitle('evalHubFullBtn', i('evalHubFullTip'));
   setTitle('evalMapExpandBtn', i('evalHub2ndTip'));
   setTitle('evalMapFitBtn', i('evalHubFitTip'));
   setText('evalMapOccasionalBtn', i('evalOccasionalBtn'));

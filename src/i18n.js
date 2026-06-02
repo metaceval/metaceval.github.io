@@ -734,7 +734,7 @@ function applyI18N() {
   setTitle('homeEnterEvalMap',    i('homeEvalMapTip'));
   // Counts (use techniques label for both)
   const evalCountEl = document.getElementById('homeEvalCount');
-  if (evalCountEl) evalCountEl.textContent = '178 ' + i('techniques');
+  if (evalCountEl) evalCountEl.textContent = '187 ' + i('techniques');
   if (S.data[S.lang] && S.data[S.lang].length) {
     const tecCountEl = document.getElementById('homeTecCount');
     if (tecCountEl) tecCountEl.textContent = S.data[S.lang].length + ' ' + i('techniques');

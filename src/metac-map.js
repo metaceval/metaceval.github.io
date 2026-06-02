@@ -478,11 +478,7 @@ function mapDraw() {
     ctx.beginPath();
     ctx.moveTo(MAP.nodes[a].x, MAP.nodes[a].y);
     ctx.lineTo(MAP.nodes[b].x, MAP.nodes[b].y);
-    if (ghostEdge) {
-      ctx.setLineDash([5 / cam.scale, 4 / cam.scale]);
-      ctx.lineWidth   = 1.5 / cam.scale;
-      ctx.strokeStyle = dark ? 'rgba(148,163,184,0.6)' : 'rgba(100,116,139,0.5)';
-    } else if (isSelEdge) {
+    if (ghostEdge || isSelEdge) {
       ctx.setLineDash([]);
       ctx.lineWidth   = 2 / cam.scale;
       ctx.strokeStyle = dark ? 'rgba(148,163,184,0.95)' : 'rgba(37,99,235,0.75)';
@@ -512,7 +508,7 @@ function mapDraw() {
       col = nd.colorIdx >= 0 ? COLORS[nd.colorIdx] : { bg: dark ? '#1e293b' : '#f1f5f9', text: '#64748b', border: '#e2e8f0' };
     }
 
-    ctx.globalAlpha = dimmed ? 0.15 : nd.ghost ? 0.55 : 1;
+    ctx.globalAlpha = dimmed ? 0.15 : 1;
 
     if (isSel || isBlock && isHov) {
       ctx.shadowColor = col.text + 'cc'; ctx.shadowBlur = 20 / cam.scale;
@@ -531,11 +527,11 @@ function mapDraw() {
       ctx.strokeStyle = dark ? col.border : col.text;
       ctx.setLineDash([]);
     } else if (nd.ghost) {
-      ctx.fillStyle   = dark ? col.border : col.bg + 'aa';
+      ctx.fillStyle   = dark ? col.border : col.bg;
       ctx.fill();
-      ctx.lineWidth   = 1.5 / cam.scale;
-      ctx.strokeStyle = dark ? col.border : col.text;
-      ctx.setLineDash([3 / cam.scale, 3 / cam.scale]);
+      ctx.lineWidth   = (isHov ? 2.2 : 1.2) / cam.scale;
+      ctx.strokeStyle = isHov ? (dark ? col.border : col.text) : col.border;
+      ctx.setLineDash([]);
     } else {
       ctx.fillStyle   = dark ? col.border : col.bg;
       ctx.fill();

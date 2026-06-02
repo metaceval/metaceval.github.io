@@ -363,7 +363,6 @@ function openBipartiteMap(id, type) {
   view.style.display = 'flex';
   closeModal();
 
-
   BMAP.navHistory = [{ id, type }];
   BMAP.navPos = 0;
   BMAP.camera = { x: 0, y: 0 };
@@ -373,7 +372,13 @@ function openBipartiteMap(id, type) {
   canvas.width  = canvas.clientWidth;
   canvas.height = canvas.clientHeight;
 
-  bmapBuild(id, type);
+  if (!EV.data[S.lang]) {
+    loadEvalLang(S.lang)
+      .then(() => { bmapBuild(id, type); })
+      .catch(() => { bmapBuild(id, type); });
+  } else {
+    bmapBuild(id, type);
+  }
   cancelAnimationFrame(BMAP.animFrame);
   BMAP.animFrame = requestAnimationFrame(bmapLoop);
 }

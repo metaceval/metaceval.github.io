@@ -109,6 +109,7 @@ const I18N = {
     mapZoomOut:   'Alejar',
     mapZoomHint:   'Acerca para ver los nombres · Pasa el cursor para detalles',
     mapOpenFicha:  'Abrir ficha',
+    mapVerEnEval:  'Ver en evaluación',
     mapPanelExpand:'Ampliar ficha',
     mapPanelCollapse:'Contraer ficha',
     mapBlocks:     'bloques',
@@ -300,6 +301,7 @@ const I18N = {
     mapZoomOut:   'Allunyar',
     mapZoomHint:   'Apropa per veure els noms · Passa el cursor per als detalls',
     mapOpenFicha:  'Obrir fitxa',
+    mapVerEnEval:  'Veure en avaluació',
     mapPanelExpand:'Ampliar fitxa',
     mapPanelCollapse:'Contraure fitxa',
     mapBlocks:     'blocs',
@@ -491,6 +493,7 @@ const I18N = {
     mapZoomOut:   'Zoom out',
     mapZoomHint:   'Zoom in to see names · Hover for details',
     mapOpenFicha:  'Open card',
+    mapVerEnEval:  'View in assessment',
     mapPanelExpand:'Expand card',
     mapPanelCollapse:'Collapse card',
     mapBlocks:     'blocks',
@@ -650,6 +653,7 @@ function applyI18N() {
   setText('mapViewBtnLabel', S.mapMode ? i('mapViewClose') : i('mapView'));
   setText('mapOpenBtnLabel', i('mapOpenFicha'));
   setTitle('mapPanelOpenCompact', i('mapOpenFicha'));
+  setText('mapBipartiteBtnLabel', i('mapVerEnEval'));
   const mapViewBtn = document.getElementById('mapViewBtn');
   if (mapViewBtn) mapViewBtn.title = i('mapViewHint');
   const depthGroup = document.getElementById('mapToolbarDepth');

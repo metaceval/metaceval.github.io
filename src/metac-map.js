@@ -1029,6 +1029,8 @@ function mapShowPanel(idx) {
     bpBtn.style.display = '';
     bpBtn.title = i('bipartiteTip');
     bpBtn.onclick = () => openBipartiteMap(nd.id, 'tecnica');
+    const bpLabel = document.getElementById('mapBipartiteBtnLabel');
+    if (bpLabel) bpLabel.textContent = i('mapVerEnEval');
   }
   document.getElementById('mapNodePanel').classList.add('visible');
   if (!MAP.panelCollapseManual) MAP.panelCollapsed = mapShouldAutoCollapsePanel();

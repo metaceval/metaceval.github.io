@@ -2160,6 +2160,48 @@ Permet valorar autoria, pensament crític, revisió, millora i ús responsable d
 ---
 
 
+### 87. Targetes de resposta / mini-pissarra `INS_TARJ_RESP`
+
+_Evidència de resposta immediata en què tot el grup contesta alhora amb targetes (A/B/C/D), polzes o mini-pissarres individuals, donant al docent una foto instantània del nivell de comprensió._
+
+**Tipus:** Observació · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Gran grupo · **Resistència IA:** Alta
+
+_Paraules clau: targetes de resposta, mini-pissarra, resposta immediata, participació_
+
+Les targetes de resposta i les mini-pissarres són suports per recollir la resposta simultània de tota la classe davant una pregunta. En lloc que responguin només uns pocs, cada alumne mostra la seva resposta alhora —una targeta amb una lletra o color, els polzes amunt/avall, o el que ha escrit a la seva pissarra individual—, de manera que el docent obté en segons una imatge de l’estat de comprensió del grup sencer.
+
+Com recull evidència: el docent planteja una pregunta tancada o de resposta breu, dóna uns segons de pensament i, a un senyal, tothom mostra la seva resposta. El patró de respostes (quants encerten, quin error predomina) és l’evidència: permet decidir a l’instant si avançar, reexplicar o reagrupar. Es pot registrar de manera puntual amb una escala o registre de participació.
+
+El seu valor és la immediatesa i la participació universal: fa visible l’aprenentatge en directe, manté tot l’alumnat actiu i és molt resistent a l’ús d’IA perquè es produeix a l’aula i en temps real. Aporta evidència formativa i diagnòstica més que qualificadora.
+
+**Adequada per a:** Comprovació ràpida de comprensió, preguntes frontissa, repàs, activació d’idees prèvies.
+
+**Tècniques actives que l'utilitzen:** El semàfor, Peer Instruction (Instrucció entre iguals), Preguntes frontissa (hinge questions), Resposta de tothom alhora
+
+---
+
+
+### 88. Guió gràfic (storyboard) `INS_STORYBOARD`
+
+_Seqüència de vinyetes que planifica visualment un vídeo, animació o relat digital: en cada quadre s’esbossen la imatge, l’acció i el text o àudio, abans de produir la peça final._
+
+**Tipus:** Producció visual · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+
+_Paraules clau: storyboard, guió gràfic, planificació visual, relat digital_
+
+El guió gràfic o storyboard és una evidència de procés: una sèrie de vinyetes ordenades que representen, pla a pla, com serà un producte audiovisual o narratiu (un vídeo, una animació, un còmic, un relat digital) abans de gravar-lo o muntar-lo. Cada vinyeta inclou un esbós de la imatge, una nota de l’acció que passa i el text, diàleg o so que l’acompanya.
+
+Com evidencia l’aprenentatge: en elaborar-lo, l’alumnat ha d’estructurar la història o el missatge, seqüenciar la informació, prendre decisions de comunicació visual i anticipar el resultat. El docent pot valorar la planificació (coherència narrativa, claredat, adequació a l’objectiu) abans d’invertir temps en la producció, donant retroalimentació primerenca.
+
+El seu valor és fer visible el pensament previ a la producció i separar la planificació de l’execució tècnica. És especialment útil en projectes de relat digital, vídeo i comunicació audiovisual, i connecta el pensament visual amb la competència digital.
+
+**Adequada per a:** Relats digitals, vídeos i animacions, còmics, projectes de comunicació audiovisual.
+
+**Tècniques actives que l'utilitzen:** Digital storytelling (relats digitals), Visual Thinking (pensament visual), Aprenentatge maker / STEAM
+
+---
+
+
 ## Instruments d'avaluació
 
 
@@ -3613,6 +3655,106 @@ No substitueix una rúbrica ni demostra per si sola l'aprenentatge, però ajuda 
 ---
 
 
+### 59. Taula d’especificacions `HER_TAB_ESPEC`
+
+_Matriu que creua els continguts a avaluar amb els nivells cognitius i reparteix el pes de cada ítem, per dissenyar proves equilibrades i vàlides abans de redactar-les._
+
+**Tipus:** Planificació de l’avaluació · **Fase:** Diseño · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+
+_Paraules clau: taula d’especificacions, disseny de proves, validesa, nivells cognitius_
+
+La taula d’especificacions (o matriu d’examen, test blueprint) és una eina de disseny que s’elabora abans de redactar una prova. Creua, en una taula de doble entrada, els continguts o aprenentatges a avaluar (files) amb els nivells cognitius que es volen mesurar (columnes, per exemple seguint la taxonomia de Bloom o la profunditat del coneixement), i indica quants ítems i quin pes corresponen a cada cel·la.
+
+Com usar-la: es llisten els aprenentatges clau de la unitat, es decideix el nivell cognitiu desitjat per a cadascun i s’assigna el nombre de preguntes i la puntuació proporcionals a la seva importància. A partir d’aquesta matriu es redacten els ítems, garantint que la prova cobreix l’essencial i no es concentra només en allò memorístic ni en un únic tema.
+
+El seu valor és assegurar la validesa de contingut i l’equilibri de la prova: evita exàmens esbiaixats, fa transparent què s’avalua i amb quin pes, i connecta directament amb l’alineament entre objectius, ensenyament i avaluació.
+
+**Propòsit:** Dissenyar proves equilibrades i vàlides repartint continguts, nivells cognitius i pesos.
+
+**Adequada per a:** Proves objectives, exàmens de desenvolupament, proves competencials, disseny de qüestionaris.
+
+**Limitacions:** Requereix temps previ de planificació i domini dels nivells cognitius.
+
+**Tècniques actives que l'utilitzen:** Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Alineament constructiu
+
+---
+
+
+### 60. Rúbrica de punt únic `HER_RUB_PUNTO`
+
+_Rúbrica que descriu només el nivell objectiu (el rendiment esperat) en cada criteri, deixant espai per anotar en què es queda curta i en què el supera. Simplifica el disseny i prioritza la retroalimentació._
+
+**Tipus:** Valoració qualitativa · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+
+_Paraules clau: rúbrica, punt únic, retroalimentació, single-point_
+
+La rúbrica de punt únic (single-point rubric) és una variant simplificada de la rúbrica analítica. En lloc de descriure tots els nivells de rendiment per a cada criteri, descriu únicament el nivell objectiu (el que s’espera assolir) en una columna central, i reserva una columna a l’esquerra per anotar en quins aspectes el treball es queda per sota i una altra a la dreta per assenyalar en què el supera.
+
+Com usar-la: es redacten els criteris i, per a cadascun, només el descriptor del nivell esperat. En corregir, el docent (o el mateix alumne o un company) escriu comentaris concrets a les columnes de «encara no hi arriba» i «destaca», personalitzant la retroalimentació en lloc de marcar una casella.
+
+El seu valor és que és ràpida de dissenyar, no encasella l’alumnat en nivells predefinits i desplaça el focus cap al feedback qualitatiu i la millora. És especialment adequada per a autoavaluació i coavaluació i per a tasques obertes o creatives.
+
+**Propòsit:** Valorar criteris descrivint només el nivell esperat i centrant la correcció en la retroalimentació.
+
+**Adequada per a:** Assajos, projectes, tasques obertes o creatives, autoavaluació i coavaluació.
+
+**Limitacions:** Aporta menys detall que l’analítica i depèn de la qualitat dels comentaris escrits.
+
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Portfolio (dossier d'aprenentatge), Avaluació autèntica, Rúbrica d’avaluació, Revisió entre iguals (peer review)
+
+---
+
+
+### 61. Escala de retroalimentació `HER_ESCAL_FB`
+
+_Protocol estructurat de feedback en quatre graons —aclarir, valorar, preguntar i suggerir— que ordena els comentaris perquè siguin respectuosos, concrets i útils, sobretot entre iguals._
+
+**Tipus:** Retroalimentació · **Fase:** Proceso · **Participació:** Docente/Iguales/Alumno · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Alta
+
+_Paraules clau: retroalimentació, escala de feedback, coavaluació, Project Zero_
+
+L’escala de retroalimentació (ladder of feedback), proposada en el marc de Project Zero, és un protocol que organitza el feedback en una seqüència de quatre passos perquè sigui constructiu i no es converteixi en una crítica vaga o ferint.
+
+Els quatre graons són: 1) Aclarir (fer preguntes per entendre bé el que s’ha fet, evitant suposicions); 2) Valorar (assenyalar de manera específica els punts forts i el que funciona); 3) Preguntar (plantejar dubtes i preocupacions en forma de pregunta, no de judici); i 4) Suggerir (oferir idees concretes de millora).
+
+Com usar-la: abans d’una sessió de revisió entre iguals o de comentari d’un treball, es presenta l’escala i es demana que els comentaris segueixin aquest ordre. Funciona molt bé amb un guió o plantilla amb frases d’inici per a cada graó. El seu valor és crear un clima segur per al feedback, millorar la qualitat dels comentaris i ensenyar l’alumnat a donar i rebre retroalimentació.
+
+**Propòsit:** Estructurar el feedback en passos (aclarir, valorar, preguntar, suggerir) perquè sigui útil i respectuós.
+
+**Adequada per a:** Revisió entre iguals, comentari d’esborranys, sessions de crítica de projectes.
+
+**Limitacions:** Requereix pràctica i modelatge previ perquè no es quedi en un tràmit mecànic.
+
+**Tècniques actives que l'utilitzen:** Pensament de disseny (Design Thinking), Revisió entre iguals (peer review), Dues estrelles i un desig
+
+---
+
+
+### 62. Base d’orientació `HER_BASE_ORIENT`
+
+_Guió amb els passos i criteris clau per fer correctament una tasca o procediment, que l’alumnat usa per autoregular-se mentre treballa i que després li serveix per autoavaluar-se._
+
+**Tipus:** Suport a la valoració · **Fase:** Diseño/Proceso · **Participació:** Docente/Alumno · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+
+_Paraules clau: base d’orientació, avaluació formadora, autoregulació, bastida_
+
+La base d’orientació és un instrument de l’avaluació formadora: una guia, elaborada idealment amb l’alumnat, que recull de manera ordenada els passos, les operacions i els criteris necessaris per executar bé una tasca o procediment (resoldre un problema, escriure un text argumentatiu, fer una pràctica de laboratori).
+
+Com s’aplica: després d’analitzar conjuntament com es fa bé una tasca, es construeix un llistat o esquema amb les accions clau i els punts en què convé aturar-se. L’alumnat el té al davant mentre treballa i el fa servir per guiar i revisar el seu propi procés; amb el temps, el va interioritzant fins a no necessitar-lo. També funciona com a instrument d’autoavaluació i de detecció d’errors.
+
+El seu valor és desenvolupar l’autonomia i l’autoregulació: trasllada a l’alumnat el control del procés, fa explícit el «com es fa» i redueix la dependència del docent. És especialment útil per a procediments complexos i per a l’atenció a la diversitat.
+
+**Propòsit:** Guiar l’execució i autoregulació d’una tasca mitjançant els seus passos i criteris clau.
+
+**Adequada per a:** Resolució de problemes, procediments de laboratori, escriptura estructurada, tasques complexes.
+
+**Limitacions:** Si es dóna ja feta i no es construeix amb l’alumnat, es pot usar de manera mecànica.
+
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Escala de metacognició, Afirmació, evidència i raonament (CER), Alliberament gradual de la responsabilitat, Guies d’orientació, Bastida i zona de desenvolupament proper (ZDP)
+
+---
+
+
 ## Dimensions d'avaluació
 
 
@@ -4192,5 +4334,80 @@ Com aplicar-la: l'alumnat documenta quines fonts, ajudes, eines o sistemes d'IA 
 **Funció pedagògica:** Fer visible com s'ha elaborat una producció i distingir l'aprenentatge demostrat de les ajudes utilitzades.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge per descobriment, Coneguem-nos, Paraula, idea, frase
+
+---
+
+
+### 23. Avaluació ipsativa `DIM_IPSA`
+
+_Valoració que compara l’alumnat amb si mateix: mesura el progrés respecte al seu propi punt de partida, no respecte a la norma del grup ni només a un criteri fix._
+
+**Categoria:** Enfoque curricular · **Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+
+_Paraules clau: ipsativa, progrés individual, motivació, autoregulació_
+
+L’avaluació ipsativa pren com a referència el rendiment anterior del propi alumne: el que importa és quant ha avançat respecte a si mateix. No compara amb la mitjana de la classe (normativa) ni es limita a contrastar amb un estàndard extern (criterial), sinó que posa el focus en la millora individual al llarg del temps.
+
+Com aplicar-la: es registra un punt de partida (una primera producció, una prova inicial, una rúbrica emplenada) i, en moments successius, es torna a valorar la mateixa competència amb els mateixos criteris, comparant cada nova evidència amb l’anterior del mateix alumne. El progrés es fa visible mitjançant escales de progrés, perfils d’assoliment o taulers que mostren l’evolució.
+
+El seu valor és motivacional i metacognitiu: reconeix l’esforç i la millora de cada alumne des d’on parteix, resulta especialment justa amb la diversitat i afavoreix l’autoregulació. Convé combinar-la amb l’avaluació criterial per no perdre de vista els estàndards.
+
+**Quan usar-la:** Quan es vol valorar la millora de cada alumne respecte al seu propi punt de partida.
+
+**Evidències típiques:** Comparació de produccions successives, escales de progrés, perfils d’assoliment, porfolis.
+
+**Funció pedagògica:** Fer visible el progrés individual i reforçar la motivació i l’autoregulació.
+
+**Tècniques actives que l'utilitzen:** Contracte d'aprenentatge, Diana d'avaluació, Diari d'aprenentatge, Escala de metacognició, Portfolio (dossier d'aprenentatge), Repartir punts, STAD (Student Teams Achievement Divisions), TGT (Torneig de Jocs per Equips), Aprenentatge de domini, Aprenentatge personalitzat amb itineraris (playlists)
+
+---
+
+
+### 24. Avaluació normativa `DIM_NORM`
+
+_Valoració que interpreta el rendiment de cada alumne comparant-lo amb el del grup (la norma): situa la persona respecte a la posició relativa dels seus companys._
+
+**Categoria:** Enfoque curricular · **Fase:** Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Media
+
+_Paraules clau: normativa, referida a la norma, barem, comparació_
+
+L’avaluació normativa (o referida a la norma) interpreta els resultats comparant cada alumne amb el rendiment del conjunt: el referent és la distribució del grup, no un criteri absolut. Respon a preguntes com «està per sobre o per sota de la mitjana?» o «en quina posició relativa queda?».
+
+Com s’aplica: s’administra una mateixa prova a tot el grup i els resultats s’interpreten amb barems, percentils o escales que ordenen els alumnes entre si. És habitual en proves estandarditzades i en processos de selecció o classificació.
+
+S’inclou al catàleg com a referència conceptual, però amb cautela: per a l’avaluació d’aula es recomana l’avaluació criterial (comparar amb criteris d’assoliment) i la ipsativa (comparar amb un mateix), perquè la normativa pot ser injusta amb la diversitat i desplaçar el focus de l’aprenentatge cap a la comparació entre iguals.
+
+**Quan usar-la:** Quan cal ordenar o classificar (p. ex., proves estandarditzades); poc recomanable a l’aula.
+
+**Evidències típiques:** Proves estandarditzades, barems, percentils, escales comparatives.
+
+**Funció pedagògica:** Situar el rendiment individual respecte a la posició relativa del grup.
+
+**Tècniques actives que l'utilitzen:** Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia de Bloom, Alineament constructiu
+
+---
+
+
+### 25. Avaluació dinàmica `DIM_DINAM`
+
+_Avaluació que mesura el potencial d’aprenentatge observant com millora l’alumnat quan rep ajuda durant la mateixa avaluació, en lloc de mesurar només el que fa sense suport._
+
+**Categoria:** Contexto metodológico · **Fase:** Proceso · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+
+_Paraules clau: dinàmica, potencial d’aprenentatge, mediació, Vygotsky, ZDP_
+
+L’avaluació dinàmica, inspirada en la zona de desenvolupament proper de Vygotsky i en els treballs de Feuerstein, no es limita a registrar el que l’alumnat sap fer tot sol, sinó que valora què és capaç d’assolir amb mediació. Segueix una seqüència test–mediació–retest: primer s’observa el rendiment autònom, després el docent ofereix ajudes graduades (pistes, preguntes, models) i per últim es torna a observar el rendiment per veure quant i com ha millorat.
+
+Com s’aplica: durant una tasca d’una certa dificultat, el docent intervé amb suports cada cop més explícits i registra quin tipus d’ajuda necessita l’alumne i com hi respon. L’interès no és només en el resultat, sinó en el procés d’aprenentatge i en el potencial que es revela amb la mediació.
+
+El seu valor és diagnòstic i formatiu alhora: informa de la zona de desenvolupament proper de cada alumne i orienta la bastida posterior. Requereix temps i interacció individualitzada, per la qual cosa sol aplicar-se de manera puntual o amb grups reduïts.
+
+**Quan usar-la:** Quan interessa conèixer el potencial d’aprenentatge i quins suports necessita l’alumnat, no només el resultat.
+
+**Evidències típiques:** Registre d’ajudes necessàries i de la millora en la seqüència test-mediació-retest.
+
+**Funció pedagògica:** Revelar el potencial d’aprenentatge i orientar la bastida a partir de la resposta a la mediació.
+
+**Tècniques actives que l'utilitzen:** Tutoria entre iguals (Peer Tutoring), Ensenyament recíproc, Alliberament gradual de la responsabilitat, Guies d’orientació, Bastida i zona de desenvolupament proper (ZDP)
 
 ---

@@ -497,9 +497,9 @@ En acabar una pràctica de laboratori, els alumnes completen l'escala indicant q
 
 - *Tècniques d'avaluació:* Observació incidental, Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Declaració d'ús d'IA i fonts, Diari del docent, Escala d'autoavaluació, Escala de progrés, Escala verbal, Fitxa de retroalimentació, Historial de revisions, Llista de verificació d'autoavaluació, Notes de camp, Tauler de progrés, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica d'autoavaluació, Rúbrica digital
+- *Instruments:* Base d’orientació, Declaració d'ús d'IA i fonts, Diari del docent, Escala d'autoavaluació, Escala de progrés, Escala verbal, Fitxa de retroalimentació, Historial de revisions, Llista de verificació d'autoavaluació, Notes de camp, Tauler de progrés, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica d'autoavaluació, Rúbrica digital
 
-- *Dimensions:* Autoavaluació, Enfocament competencial, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Autoavaluació, Enfocament competencial, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació ipsativa
 
 ---
 
@@ -1359,7 +1359,7 @@ En una pràctica de biologia, l'alumnat observa que unes llavors han germinat mi
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Base d’orientació, Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
 - *Dimensions:* Retroalimentació i feedforward, Resolució de problemes
 
@@ -2104,7 +2104,7 @@ En matemàtiques, un alumne tutor acompanya el seu company en la resolució d'un
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Avaluació dinàmica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -3294,7 +3294,7 @@ En digitalització, els alumnes dissenyen una solució per millorar l'organitzac
 
 - *Tècniques d'avaluació:* Enquesta i qüestionari, Entrevista avaluativa, Observació sistemàtica, Intercanvis orals, Proves específiques, Triangulació d'evidències
 
-- *Instruments:* Analítiques d'aprenentatge, Banc de descriptors, Conversor de nivells a qualificació, Declaració d'ús d'IA i fonts, Fitxa de retroalimentació, Historial de revisions, Llista d'indicadors per criteri, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de ponderació, Tauler de progrés, Perfil d'assoliment, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica digital, Rúbrica global o holística, Rúbrica oral, Rúbrica de procés, Rúbrica de producte, Taula de qualificació per criteris
+- *Instruments:* Analítiques d'aprenentatge, Banc de descriptors, Conversor de nivells a qualificació, Declaració d'ús d'IA i fonts, Escala de retroalimentació, Fitxa de retroalimentació, Historial de revisions, Llista d'indicadors per criteri, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de ponderació, Tauler de progrés, Perfil d'assoliment, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica digital, Rúbrica global o holística, Rúbrica oral, Rúbrica de procés, Rúbrica de producte, Taula de qualificació per criteris
 
 - *Dimensions:* Avaluació contínua, Avaluació criterial, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
@@ -3666,7 +3666,7 @@ El dia del torneig, els alumnes competeixen en taules amb companys de nivell sem
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Qualificació i acreditació, Evidència de desempenys, Avaluació gamificada, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Qualificació i acreditació, Evidència de desempenys, Avaluació gamificada, Heteroavaluació, Avaluació inclusiva i DUA, Avaluació ipsativa, Resolució de problemes
 
 ---
 
@@ -4012,7 +4012,7 @@ Aquí es pot consultar un desenvolupament més detallat d'aquest projecte.
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament, Triangulació d'evidències
 
-- *Instruments:* Analítiques d'aprenentatge, Banc de descriptors, Banc digital d'evidències, Contracte de grup, Conversor de nivells a qualificació, Quadern de qualificacions, Declaració d'ús d'IA i fonts, Diana d'avaluació, Escala de progrés, Escala verbal, Fitxa de retroalimentació, Fitxa de valoració, Historial de revisions, Full de seguiment grupal, Full de seguiment individual, Llista d'indicadors per criteri, Informe individual d'avaluació, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de valoració, Matriu de ponderació, Tauler de progrés, Perfil d'assoliment, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica digital, Rúbrica global o holística, Rúbrica oral, Rúbrica de procés, Rúbrica de producte, Taula de qualificació per criteris
+- *Instruments:* Analítiques d'aprenentatge, Banc de descriptors, Banc digital d'evidències, Contracte de grup, Conversor de nivells a qualificació, Quadern de qualificacions, Declaració d'ús d'IA i fonts, Diana d'avaluació, Escala de progrés, Escala verbal, Fitxa de retroalimentació, Fitxa de valoració, Historial de revisions, Full de seguiment grupal, Full de seguiment individual, Llista d'indicadors per criteri, Informe individual d'avaluació, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de valoració, Matriu de ponderació, Tauler de progrés, Perfil d'assoliment, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica digital, Rúbrica global o holística, Rúbrica oral, Rúbrica de procés, Rúbrica de producte, Rúbrica de punt únic, Taula de qualificació per criteris
 
 - *Dimensions:* Avaluació contínua, Avaluació criterial, Evidència de desempenys, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Resolució de problemes, Treball per projectes
 
@@ -4591,7 +4591,9 @@ Per resoldre problemes de geometria, el professor en resol un pensant en veu alt
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
+- *Instruments:* Base d’orientació
+
+- *Dimensions:* Avaluació dinàmica, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -4881,7 +4883,7 @@ En l'assignatura de Tecnologia, es planteja el repte de dissenyar un sistema de 
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació incidental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
-- *Instruments:* Banc de descriptors, Barem, Conversor de nivells a qualificació, Quadern de qualificacions, Diari del docent, Escala descriptiva, Escala d'observació, Escala de progrés, Escala de valoració, Escala verbal, Fitxa de retroalimentació, Guia de correcció, Guia d'observació, Llista d'indicadors per criteri, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de ponderació, Notes de camp, Perfil d'assoliment, Plantilla de correcció, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica oral, Taula de qualificació per criteris
+- *Instruments:* Banc de descriptors, Barem, Base d’orientació, Conversor de nivells a qualificació, Quadern de qualificacions, Diari del docent, Escala descriptiva, Escala d'observació, Escala de progrés, Escala de valoració, Escala verbal, Fitxa de retroalimentació, Guia de correcció, Guia d'observació, Llista d'indicadors per criteri, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de ponderació, Notes de camp, Perfil d'assoliment, Plantilla de correcció, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica oral, Taula de qualificació per criteris
 
 - *Dimensions:* Estudi de casos, Enfocament competencial, Avaluació contínua, Avaluació criterial, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Resolució de problemes, Treball per projectes
 
@@ -5438,6 +5440,8 @@ En biologia, el grup llegeix un text sobre vacunes. Un alumne resumeix el primer
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
+- *Dimensions:* Avaluació dinàmica
+
 ---
 
 
@@ -5870,7 +5874,7 @@ En un projecte d'investigació, cada alumne acorda amb el professor la pregunta 
 
 - *Instruments:* Banc digital d'evidències, Fitxa de retroalimentació, Fitxa de valoració, Full de seguiment individual, Informe individual d'avaluació, Matriu de valoració, Plantilla de feedback/feedforward
 
-- *Dimensions:* Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Treball per projectes
+- *Dimensions:* Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Avaluació ipsativa, Treball per projectes
 
 ---
 
@@ -5911,7 +5915,7 @@ Després d'una exposició oral, cada alumne valora claredat, domini del contingu
 
 - *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació, Rúbrica de coavaluació
 
-- *Dimensions:* Autoavaluació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
+- *Dimensions:* Autoavaluació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació ipsativa
 
 ---
 
@@ -6118,9 +6122,9 @@ En cada evidència, l’alumne explica per què l’ha inclosa, quina dificultat
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació
+- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació, Rúbrica de punt únic
 
-- *Dimensions:* Autoavaluació, Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Indagació
+- *Dimensions:* Autoavaluació, Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Indagació, Avaluació ipsativa
 
 ---
 
@@ -6191,7 +6195,7 @@ Font:  Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 
 - *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació, Rúbrica de coavaluació
 
-- *Dimensions:* Autoavaluació, Qualificació i acreditació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Finalitat sumativa
+- *Dimensions:* Autoavaluació, Qualificació i acreditació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Avaluació ipsativa, Finalitat sumativa
 
 ---
 
@@ -6232,7 +6236,7 @@ Al final, cada alumne fa una prova individual amb un mapa nou. L’equip obté p
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA
+- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Avaluació ipsativa
 
 ---
 
@@ -6321,7 +6325,7 @@ El revisor assenyala una idea clara del text, una part que no s'entén bé i una
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Diana d'avaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació o control, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coavaluació, Rúbrica de treball cooperatiu
+- *Instruments:* Diana d'avaluació, Escala de retroalimentació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació o control, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coavaluació, Rúbrica de treball cooperatiu, Rúbrica de punt únic
 
 - *Dimensions:* Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Treball per projectes, Finalitat sumativa
 
@@ -6357,7 +6361,7 @@ Després d'una exposició oral sobre un problema ambiental, un company escriu: �
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de coavaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de coavaluació, Rúbrica de treball cooperatiu
+- *Instruments:* Escala de retroalimentació, Fitxa de coavaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de coavaluació, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
@@ -6481,7 +6485,7 @@ En una unitat de fraccions, cada subtema acaba amb una prova breu de 5 preguntes
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
+- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació ipsativa
 
 ---
 
@@ -6519,9 +6523,9 @@ Per escriure un text argumentatiu, la guia inclou preguntes com: “Quina és la
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Base d’orientació, Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Avaluació dinàmica, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -6706,7 +6710,7 @@ En una unitat de matemàtiques, cada alumne rep una llista amb vídeos, exercici
 
 - *Instruments:* Escala de progrés, Tauler de progrés
 
-- *Dimensions:* Avaluació contínua, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Finalitat formativa, Avaluació inclusiva i DUA, Avaluació ipsativa
 
 ---
 
@@ -6834,7 +6838,7 @@ He fet tots els deures que ens han donat i he revisat els conceptes de la unitat
 
 - *Instruments:* Banc digital d'evidències, Diana d'avaluació, Escala d'autoavaluació, Fitxa de retroalimentació, Fitxa de valoració, Full de seguiment individual, Informe individual d'avaluació, Llista de verificació d'autoavaluació, Matriu de valoració, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació
 
-- *Dimensions:* Autoavaluació, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Autoavaluació, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Avaluació ipsativa, Resolució de problemes
 
 ---
 
@@ -7473,9 +7477,9 @@ Abans de dissenyar una unitat sobre ecosistemes, el professor defineix que l’a
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Taula d’especificacions
 
-- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
+- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació normativa
 
 ---
 
@@ -7517,9 +7521,9 @@ Memoritzar una fórmula pot tenir un nivell baix de DOK, mentre que triar quin m
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Taula d’especificacions
 
-- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació normativa, Resolució de problemes
 
 ---
 
@@ -7562,7 +7566,7 @@ Davant una pregunta sobre selecció natural, un alumne pot mencionar només un f
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
+- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica, Taula d’especificacions
 
 - *Dimensions:* Enfocament competencial, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
@@ -7608,9 +7612,9 @@ En una unitat de biologia, l’alumnat pot recordar termes, explicar processos, 
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Taula d’especificacions
 
-- *Dimensions:* Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
+- *Dimensions:* Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació normativa
 
 ---
 
@@ -7646,7 +7650,7 @@ En lloc de respondre només preguntes sobre nutrició, l'alumnat dissenya una pr
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Diana d'avaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
+- *Instruments:* Diana d'avaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de punt únic
 
 - *Dimensions:* Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
@@ -7915,7 +7919,7 @@ Abans d’exposar, cada grup revisa la seva presentació amb la rúbrica i detec
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica d'autoavaluació, Rúbrica de coavaluació
+- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica d'autoavaluació, Rúbrica de coavaluació, Rúbrica de punt únic
 
 - *Dimensions:* Autoavaluació, Qualificació i acreditació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
@@ -7952,9 +7956,9 @@ Un alumne sap resoldre equacions senzilles però no les de dos passos. El docent
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions
 
-- *Instruments:* Escala d'observació, Escala de progrés
+- *Instruments:* Base d’orientació, Escala d'observació, Escala de progrés
 
-- *Dimensions:* Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació dinàmica, Finalitat formativa, Avaluació inclusiva i DUA
 
 ---
 
@@ -7989,9 +7993,9 @@ Si l’objectiu és «l’alumnat serà capaç de dissenyar un experiment per re
 
 - *Tècniques d'avaluació:* Triangulació d'evidències
 
-- *Instruments:* Matriu de valoració, Rúbrica competencial
+- *Instruments:* Matriu de valoració, Rúbrica competencial, Taula d’especificacions
 
-- *Dimensions:* Enfocament competencial, Avaluació criterial, Finalitat formativa
+- *Dimensions:* Enfocament competencial, Avaluació criterial, Finalitat formativa, Avaluació normativa
 
 ---
 

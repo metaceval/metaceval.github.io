@@ -2160,6 +2160,48 @@ It supports assessment of authorship, critical thinking, revision, improvement a
 ---
 
 
+### 87. Response cards / mini-whiteboards `INS_TARJ_RESP`
+
+_Immediate-response evidence in which the whole group answers at once with cards (A/B/C/D), thumbs or individual mini-whiteboards, giving the teacher an instant snapshot of understanding._
+
+**Type:** Observation · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja · **Modality:** Presencial · **Location:** Aula · **Grouping:** Gran grupo · **AI resistance:** Alta
+
+_Keywords: response cards, mini-whiteboard, immediate response, participation_
+
+Response cards and mini-whiteboards are supports for collecting the whole class’s simultaneous answer to a question. Instead of only a few responding, every student shows their answer at once —a card with a letter or colour, thumbs up/down, or what they wrote on their individual whiteboard— so the teacher gets a picture of the whole group’s understanding within seconds.
+
+How it gathers evidence: the teacher poses a closed or short-answer question, gives a few seconds of thinking time and, on a signal, everyone shows their answer. The pattern of responses (how many are right, which error dominates) is the evidence: it allows deciding on the spot whether to move on, re-explain or regroup. It can be recorded occasionally with a participation scale or log.
+
+Its value is immediacy and universal participation: it makes learning visible in real time, keeps every student active and is highly resistant to AI use because it happens in the classroom in real time. It provides formative and diagnostic evidence rather than grading evidence.
+
+**Suitable for:** Quick comprehension checks, hinge questions, review, activating prior knowledge.
+
+**Active techniques using this:** Traffic Light, Peer Instruction, Hinge questions, All-student response
+
+---
+
+
+### 88. Storyboard `INS_STORYBOARD`
+
+_A sequence of frames that visually plans a video, animation or digital story: each panel sketches the image, the action and the text or audio, before producing the final piece._
+
+**Type:** Visual production · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+
+_Keywords: storyboard, visual planning, digital storytelling, pre-production_
+
+The storyboard is a process evidence: a series of ordered panels representing, shot by shot, what an audiovisual or narrative product will look like (a video, an animation, a comic, a digital story) before recording or editing it. Each panel includes a sketch of the image, a note of the action taking place and the text, dialogue or sound that accompanies it.
+
+How it evidences learning: in making it, learners must structure the story or message, sequence the information, make visual-communication decisions and anticipate the result. The teacher can assess the planning (narrative coherence, clarity, fit to the goal) before time is invested in production, giving early feedback.
+
+Its value is making the thinking that precedes production visible and separating planning from technical execution. It is especially useful in digital-storytelling, video and audiovisual-communication projects, and connects visual thinking with digital competence.
+
+**Suitable for:** Digital storytelling, videos and animations, comics, audiovisual communication projects.
+
+**Active techniques using this:** Digital Storytelling, Visual Thinking, Maker learning / STEAM
+
+---
+
+
 ## Evaluation instruments
 
 
@@ -3613,6 +3655,106 @@ It does not replace a rubric or prove learning by itself, but it helps turn AI u
 ---
 
 
+### 59. Table of specifications `HER_TAB_ESPEC`
+
+_A matrix crossing the content to be assessed with cognitive levels and distributing the weight of each item, to design balanced, valid tests before writing them._
+
+**Type:** Assessment planning · **Phase:** Diseño · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+
+_Keywords: table of specifications, test design, validity, cognitive levels_
+
+The table of specifications (or test blueprint) is a design tool created before writing a test. In a two-way table it crosses the content or learning to be assessed (rows) with the cognitive levels to be measured (columns, for example following Bloom’s taxonomy or depth of knowledge), and states how many items and what weight correspond to each cell.
+
+How to use it: list the unit’s key learning, decide the intended cognitive level for each and assign the number of questions and the score in proportion to their importance. The items are then written from that matrix, ensuring the test covers the essentials and does not concentrate only on rote recall or a single topic.
+
+Its value is to ensure content validity and a balanced test: it avoids biased exams, makes transparent what is assessed and with what weight, and connects directly with the alignment between objectives, teaching and assessment.
+
+**Purpose:** Design balanced, valid tests by distributing content, cognitive levels and weights.
+
+**Suitable for:** Objective tests, essay exams, competence-based tests, questionnaire design.
+
+**Limitations:** Requires upfront planning time and command of the cognitive levels.
+
+**Active techniques using this:** Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Constructive alignment
+
+---
+
+
+### 60. Single-point rubric `HER_RUB_PUNTO`
+
+_A rubric that describes only the target level (the expected performance) for each criterion, leaving space to note where work falls short and where it exceeds it. It simplifies design and prioritises feedback._
+
+**Type:** Qualitative assessment · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+
+_Keywords: rubric, single-point, feedback, qualitative_
+
+The single-point rubric is a simplified variant of the analytic rubric. Instead of describing every level of performance for each criterion, it describes only the target level (what is expected) in a central column, and reserves a column on the left to note where the work falls short and another on the right to note where it exceeds expectations.
+
+How to use it: write the criteria and, for each, only the descriptor of the expected level. When marking, the teacher (or the student or a peer) writes concrete comments in the “not yet there” and “exceeds” columns, personalising the feedback instead of ticking a box.
+
+Its value is that it is quick to design, does not box learners into predefined levels and shifts the focus towards qualitative feedback and improvement. It is especially suitable for self- and peer assessment and for open or creative tasks.
+
+**Purpose:** Assess criteria by describing only the expected level and focusing marking on feedback.
+
+**Suitable for:** Essays, projects, open or creative tasks, self- and peer assessment.
+
+**Limitations:** Provides less detail than an analytic rubric and depends on the quality of written comments.
+
+**Active techniques using this:** Project-Based Learning (PjBL), Portfolio (learning dossier), Authentic Assessment, Assessment Rubric, Peer Review
+
+---
+
+
+### 61. Ladder of feedback `HER_ESCAL_FB`
+
+_A structured feedback protocol in four rungs —clarify, value, ask questions and suggest— that orders comments so they are respectful, specific and useful, especially among peers._
+
+**Type:** Feedback · **Phase:** Proceso · **Participation:** Docente/Iguales/Alumno · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Alta
+
+_Keywords: feedback, ladder of feedback, peer assessment, Project Zero_
+
+The ladder of feedback, proposed within the Project Zero framework, is a protocol that organises feedback into a sequence of four steps so that it is constructive and does not turn into vague or hurtful criticism.
+
+The four rungs are: 1) Clarify (ask questions to understand well what has been done, avoiding assumptions); 2) Value (point out strengths and what works specifically); 3) Ask questions (raise doubts and concerns as questions, not judgements); and 4) Suggest (offer concrete ideas for improvement).
+
+How to use it: before a peer-review session or a discussion of a piece of work, the ladder is presented and comments are asked to follow that order. It works very well with a script or template providing sentence starters for each rung. Its value is to create a safe climate for feedback, improve the quality of comments and teach learners to give and receive feedback.
+
+**Purpose:** Structure feedback into steps (clarify, value, ask, suggest) so it is useful and respectful.
+
+**Suitable for:** Peer review, commenting on drafts, project critique sessions.
+
+**Limitations:** Requires practice and prior modelling so it does not become a mechanical formality.
+
+**Active techniques using this:** Design Thinking, Peer Review, Two Stars and a Wish
+
+---
+
+
+### 62. Self-regulation guide (base of orientation) `HER_BASE_ORIENT`
+
+_A guide listing the key steps and criteria for correctly carrying out a task or procedure, which learners use to self-regulate while working and later to self-assess._
+
+**Type:** Assessment support · **Phase:** Diseño/Proceso · **Participation:** Docente/Alumno · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+
+_Keywords: base of orientation, assessment as learning, self-regulation, scaffolding_
+
+The base of orientation is an instrument of formative-as-learning assessment: a guide, ideally built with the learners, that sets out in order the steps, operations and criteria needed to perform a task or procedure well (solving a problem, writing an argumentative text, carrying out a lab practical).
+
+How it is applied: after jointly analysing how a task is done well, a list or diagram is built with the key actions and the points where it is worth pausing. Learners keep it in front of them while working and use it to guide and review their own process; over time they internalise it until they no longer need it. It also works as an instrument for self-assessment and error detection.
+
+Its value is developing autonomy and self-regulation: it hands learners control of the process, makes the “how to do it” explicit and reduces dependence on the teacher. It is especially useful for complex procedures and for attention to diversity.
+
+**Purpose:** Guide the execution and self-regulation of a task through its key steps and criteria.
+
+**Suitable for:** Problem solving, lab procedures, structured writing, complex tasks.
+
+**Limitations:** If handed over ready-made instead of built with learners, it may be used mechanically.
+
+**Active techniques using this:** Problem-Based Learning (PBL), Metacognition Ladder, Claim, Evidence and Reasoning (CER), Gradual release of responsibility, Orientation guides, Scaffolding and zone of proximal development (ZPD)
+
+---
+
+
 ## Assessment dimensions
 
 
@@ -4192,5 +4334,80 @@ It is especially useful in research tasks, projects, collaborative documents, po
 **Pedagogic function:** Make the production process visible and distinguish demonstrated learning from the support used.
 
 **Active techniques using this:** Discovery Learning, Getting to Know Each Other, Word-Phrase-Sentence
+
+---
+
+
+### 23. Ipsative assessment `DIM_IPSA`
+
+_Assessment that compares learners with themselves: it measures progress relative to their own starting point, not relative to the group norm nor only to a fixed criterion._
+
+**Category:** Enfoque curricular · **Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+
+_Keywords: ipsative, individual progress, motivation, self-regulation_
+
+Ipsative assessment takes the student’s own previous performance as its reference: what matters is how much they have progressed relative to themselves. It does not compare with the class average (norm-referenced) nor merely against an external standard (criterion-referenced); instead it focuses on individual improvement over time.
+
+How to apply it: a starting point is recorded (a first piece of work, an initial test, a completed rubric) and, at successive moments, the same competence is assessed again with the same criteria, comparing each new piece of evidence with the student’s previous one. Progress is made visible through progress scales, achievement profiles or dashboards showing the evolution.
+
+Its value is motivational and metacognitive: it recognises each student’s effort and improvement from wherever they start, is especially fair to diversity and fosters self-regulation. It should be combined with criterion-referenced assessment so as not to lose sight of the standards.
+
+**When to use:** When you want to assess each student’s improvement relative to their own starting point.
+
+**Typical evidence:** Comparison of successive pieces of work, progress scales, achievement profiles, portfolios.
+
+**Pedagogic function:** Make individual progress visible and strengthen motivation and self-regulation.
+
+**Active techniques using this:** Learning Contract, Assessment Target, Learning Journal, Metacognition Ladder, Portfolio (learning dossier), Distribute Points, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Mastery learning, Personalised learning playlists
+
+---
+
+
+### 24. Norm-referenced assessment `DIM_NORM`
+
+_Assessment that interprets each student’s performance by comparing it with the group (the norm): it places the person relative to their peers’ standing._
+
+**Category:** Enfoque curricular · **Phase:** Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Media
+
+_Keywords: norm-referenced, norm, scoring norms, comparison_
+
+Norm-referenced assessment interprets results by comparing each student with the performance of the whole group: the reference is the group’s distribution, not an absolute criterion. It answers questions like “are they above or below average?” or “what is their relative standing?”.
+
+How it is applied: the same test is given to the whole group and results are interpreted with norms, percentiles or scales that rank students against one another. It is common in standardised tests and in selection or classification processes.
+
+It is included in the catalogue as a conceptual reference, but with caution: for classroom assessment, criterion-referenced (comparing against achievement criteria) and ipsative (comparing with oneself) assessment are recommended, because norm-referencing can be unfair to diversity and shift the focus of learning towards peer comparison.
+
+**When to use:** When ranking or classification is needed (e.g. standardised tests); not advisable in the classroom.
+
+**Typical evidence:** Standardised tests, norms, percentiles, comparative scales.
+
+**Pedagogic function:** Place individual performance relative to the group’s standing.
+
+**Active techniques using this:** Understanding by Design (UbD), Depth of Knowledge (DOK), Bloom's Taxonomy, Constructive alignment
+
+---
+
+
+### 25. Dynamic assessment `DIM_DINAM`
+
+_Assessment that measures learning potential by observing how learners improve when given help during the assessment itself, rather than measuring only what they do unaided._
+
+**Category:** Contexto metodológico · **Phase:** Proceso · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+
+_Keywords: dynamic, learning potential, mediation, Vygotsky, ZPD_
+
+Dynamic assessment, inspired by Vygotsky’s zone of proximal development and Feuerstein’s work, does not merely record what learners can do on their own but assesses what they can achieve with mediation. It follows a test–mediation–retest sequence: first autonomous performance is observed, then the teacher offers graduated help (hints, questions, models), and finally performance is observed again to see how much and how it has improved.
+
+How it is applied: during a sufficiently challenging task, the teacher intervenes with increasingly explicit supports and records what kind of help the student needs and how they respond to it. The interest lies not only in the result but in the learning process and the potential revealed through mediation.
+
+Its value is both diagnostic and formative: it informs about each student’s zone of proximal development and guides subsequent scaffolding. It requires time and individualised interaction, so it is usually applied occasionally or with small groups.
+
+**When to use:** When you want to know learning potential and what supports learners need, not just the result.
+
+**Typical evidence:** Record of the help needed and of improvement across the test-mediation-retest sequence.
+
+**Pedagogic function:** Reveal learning potential and guide scaffolding based on the response to mediation.
+
+**Active techniques using this:** Peer Tutoring, Reciprocal Teaching, Gradual release of responsibility, Orientation guides, Scaffolding and zone of proximal development (ZPD)
 
 ---

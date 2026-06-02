@@ -496,9 +496,9 @@ Al terminar una práctica de laboratorio, los alumnos completan la escalera indi
 
 - *Técnicas de evaluación:* Observación incidental, Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Declaración de uso de IA y fuentes, Diario del profesor, Escala de autoevaluación, Escala de progreso, Escala verbal, Ficha de retroalimentación, Historial de revisión, Lista de cotejo de autoevaluación, Notas de campo, Panel de progreso, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica de autoevaluación, Rúbrica digital
+- *Instrumentos:* Base de orientación, Declaración de uso de IA y fuentes, Diario del profesor, Escala de autoevaluación, Escala de progreso, Escala verbal, Ficha de retroalimentación, Historial de revisión, Lista de cotejo de autoevaluación, Notas de campo, Panel de progreso, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica de autoevaluación, Rúbrica digital
 
-- *Dimensiones:* Autoevaluación, Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Autoevaluación, Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación ipsativa
 
 ---
 
@@ -1355,7 +1355,7 @@ En una práctica de biología, el alumnado observa que unas semillas han germina
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Base de orientación, Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Retroalimentación y feedforward, Resolución de problemas
 
@@ -2091,7 +2091,7 @@ En matemáticas, un alumno tutor acompaña a su compañero en la resolución de 
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Evaluación continua, Evaluación dinámica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -3281,7 +3281,7 @@ En digitalización, los alumnos diseñan una solución para mejorar la organizac
 
 - *Técnicas de evaluación:* Encuesta y cuestionario, Entrevista evaluativa, Observación sistemática, Intercambios orales, Pruebas específicas, Triangulación de evidencias
 
-- *Instrumentos:* Analíticas de aprendizaje, Banco de descriptores, Conversor de niveles a calificación, Declaración de uso de IA y fuentes, Ficha de retroalimentación, Historial de revisión, Lista de indicadores por criterio, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de ponderación, Panel de progreso, Perfil de logro, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica digital, Rúbrica global u holística, Rúbrica oral, Rúbrica de proceso, Rúbrica de producto, Tabla de calificación por criterios
+- *Instrumentos:* Analíticas de aprendizaje, Banco de descriptores, Conversor de niveles a calificación, Declaración de uso de IA y fuentes, Escalera de retroalimentación, Ficha de retroalimentación, Historial de revisión, Lista de indicadores por criterio, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de ponderación, Panel de progreso, Perfil de logro, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica digital, Rúbrica global u holística, Rúbrica oral, Rúbrica de proceso, Rúbrica de producto, Tabla de calificación por criterios
 
 - *Dimensiones:* Evaluación continua, Evaluación criterial, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
@@ -3653,7 +3653,7 @@ El día del torneo, los alumnos compiten en mesas con compañeros de nivel parec
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Calificación y acreditación, Evidencia de desempeño, Evaluación gamificada, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Calificación y acreditación, Evidencia de desempeño, Evaluación gamificada, Heteroevaluación, Evaluación inclusiva y DUA, Evaluación ipsativa, Resolución de problemas
 
 ---
 
@@ -3999,7 +3999,7 @@ Aquí se puede consultar un desarrollo más detallado de este proyecto.
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento, Triangulación de evidencias
 
-- *Instrumentos:* Analíticas de aprendizaje, Banco de descriptores, Banco digital de evidencias, Contrato de grupo, Conversor de niveles a calificación, Cuaderno de calificaciones, Declaración de uso de IA y fuentes, Diana de evaluación, Escala de progreso, Escala verbal, Ficha de retroalimentación, Ficha de valoración, Historial de revisión, Hoja de seguimiento grupal, Hoja de seguimiento individual, Lista de indicadores por criterio, Informe individual de evaluación, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de valoración, Matriz de ponderación, Panel de progreso, Perfil de logro, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica digital, Rúbrica global u holística, Rúbrica oral, Rúbrica de proceso, Rúbrica de producto, Tabla de calificación por criterios
+- *Instrumentos:* Analíticas de aprendizaje, Banco de descriptores, Banco digital de evidencias, Contrato de grupo, Conversor de niveles a calificación, Cuaderno de calificaciones, Declaración de uso de IA y fuentes, Diana de evaluación, Escala de progreso, Escala verbal, Ficha de retroalimentación, Ficha de valoración, Historial de revisión, Hoja de seguimiento grupal, Hoja de seguimiento individual, Lista de indicadores por criterio, Informe individual de evaluación, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de valoración, Matriz de ponderación, Panel de progreso, Perfil de logro, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica digital, Rúbrica global u holística, Rúbrica oral, Rúbrica de proceso, Rúbrica de producto, Rúbrica de punto único, Tabla de calificación por criterios
 
 - *Dimensiones:* Evaluación continua, Evaluación criterial, Evidencia de desempeño, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Resolución de problemas, Trabajo por proyectos
 
@@ -4578,7 +4578,9 @@ Para resolver problemas de geometría, el profesor resuelve uno pensando en voz 
 
 - *Técnicas de evaluación:* Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
+- *Instrumentos:* Base de orientación
+
+- *Dimensiones:* Evaluación dinámica, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -4868,7 +4870,7 @@ En la asignatura de Tecnología, se plantea el reto de diseñar un sistema de ri
 
 - *Técnicas de evaluación:* Análisis documental, Observación incidental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Instrumentos:* Banco de descriptores, Baremo, Conversor de niveles a calificación, Cuaderno de calificaciones, Diario del profesor, Escala descriptiva, Escala de observación, Escala de progreso, Escala de valoración, Escala verbal, Ficha de retroalimentación, Guía de corrección, Guía de observación, Lista de indicadores por criterio, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de ponderación, Notas de campo, Perfil de logro, Plantilla de corrección, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica oral, Tabla de calificación por criterios
+- *Instrumentos:* Banco de descriptores, Baremo, Base de orientación, Conversor de niveles a calificación, Cuaderno de calificaciones, Diario del profesor, Escala descriptiva, Escala de observación, Escala de progreso, Escala de valoración, Escala verbal, Ficha de retroalimentación, Guía de corrección, Guía de observación, Lista de indicadores por criterio, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de ponderación, Notas de campo, Perfil de logro, Plantilla de corrección, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica oral, Tabla de calificación por criterios
 
 - *Dimensiones:* Estudio de casos, Enfoque competencial, Evaluación continua, Evaluación criterial, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Resolución de problemas, Trabajo por proyectos
 
@@ -5434,6 +5436,8 @@ En biología, el grupo lee un texto sobre vacunas. Un alumno resume el primer p�
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
+- *Dimensiones:* Evaluación dinámica
+
 ---
 
 
@@ -5866,7 +5870,7 @@ En un proyecto de investigación, cada alumno acuerda con el profesor la pregunt
 
 - *Instrumentos:* Banco digital de evidencias, Ficha de retroalimentación, Ficha de valoración, Hoja de seguimiento individual, Informe individual de evaluación, Matriz de valoración, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Trabajo por proyectos
+- *Dimensiones:* Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Evaluación ipsativa, Trabajo por proyectos
 
 ---
 
@@ -5907,7 +5911,7 @@ Después de una exposición oral, cada alumno valora claridad, dominio del conte
 
 - *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
-- *Dimensiones:* Autoevaluación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
+- *Dimensiones:* Autoevaluación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación ipsativa
 
 ---
 
@@ -6112,9 +6116,9 @@ En cada evidencia, el alumno explica por qué la ha incluido, qué dificultad mu
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
+- *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de punto único
 
-- *Dimensiones:* Autoevaluación, Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Indagación
+- *Dimensiones:* Autoevaluación, Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Indagación, Evaluación ipsativa
 
 ---
 
@@ -6185,7 +6189,7 @@ Fuente:  Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 
 - *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
-- *Dimensiones:* Autoevaluación, Calificación y acreditación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Finalidad sumativa
+- *Dimensiones:* Autoevaluación, Calificación y acreditación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Evaluación ipsativa, Finalidad sumativa
 
 ---
 
@@ -6226,7 +6230,7 @@ Al final, cada alumno realiza una prueba individual con un mapa nuevo. El equipo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Calificación y acreditación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA
+- *Dimensiones:* Calificación y acreditación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Evaluación ipsativa
 
 ---
 
@@ -6315,7 +6319,7 @@ El revisor señala una idea clara del texto, una parte que no se entiende bien y
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Diana de evaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo o control, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Diana de evaluación, Escalera de retroalimentación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo o control, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo, Rúbrica de punto único
 
 - *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Trabajo por proyectos, Finalidad sumativa
 
@@ -6351,7 +6355,7 @@ Tras una exposición oral sobre un problema ambiental, un compañero escribe: �
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Escalera de retroalimentación, Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
@@ -6475,7 +6479,7 @@ En una unidad de fracciones, cada subtema termina con una prueba breve de 5 preg
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Calificación y acreditación, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
+- *Dimensiones:* Calificación y acreditación, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación ipsativa
 
 ---
 
@@ -6513,9 +6517,9 @@ Para escribir un texto argumentativo, la guía incluye preguntas como: “¿Cuá
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Base de orientación, Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Evaluación dinámica, Retroalimentación y feedforward, Finalidad formativa
 
 ---
 
@@ -6700,7 +6704,7 @@ En una unidad de matemáticas, cada alumno recibe una lista con vídeos, ejercic
 
 - *Instrumentos:* Escala de progreso, Panel de progreso
 
-- *Dimensiones:* Evaluación continua, Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Evaluación continua, Finalidad formativa, Evaluación inclusiva y DUA, Evaluación ipsativa
 
 ---
 
@@ -6828,7 +6832,7 @@ He hecho todos los deberes que nos han dado y he revisado los conceptos de la un
 
 - *Instrumentos:* Banco digital de evidencias, Diana de evaluación, Escala de autoevaluación, Ficha de retroalimentación, Ficha de valoración, Hoja de seguimiento individual, Informe individual de evaluación, Lista de cotejo de autoevaluación, Matriz de valoración, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
 
-- *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Evaluación ipsativa, Resolución de problemas
 
 ---
 
@@ -7467,9 +7471,9 @@ Antes de diseñar una unidad sobre ecosistemas, el profesor define que el alumna
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Tabla de especificaciones
 
-- *Dimensiones:* Calificación y acreditación, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
+- *Dimensiones:* Calificación y acreditación, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación normativa
 
 ---
 
@@ -7511,9 +7515,9 @@ Memorizar una fórmula puede tener un nivel bajo de DOK, mientras que elegir qu�
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Tabla de especificaciones
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación normativa, Resolución de problemas
 
 ---
 
@@ -7556,7 +7560,7 @@ Ante una pregunta sobre selección natural, un alumno puede mencionar solo un fa
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica
+- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica, Tabla de especificaciones
 
 - *Dimensiones:* Enfoque competencial, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
@@ -7602,9 +7606,9 @@ En una unidad de biología, el alumnado puede recordar términos, explicar proce
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Tabla de especificaciones
 
-- *Dimensiones:* Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
+- *Dimensiones:* Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación normativa
 
 ---
 
@@ -7640,7 +7644,7 @@ En lugar de responder solo preguntas sobre nutrición, el alumnado diseña una p
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Diana de evaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica
+- *Instrumentos:* Diana de evaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de punto único
 
 - *Dimensiones:* Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
@@ -7909,7 +7913,7 @@ Antes de exponer, cada grupo revisa su presentación con la rúbrica y detecta q
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de autoevaluación, Rúbrica de coevaluación
+- *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de autoevaluación, Rúbrica de coevaluación, Rúbrica de punto único
 
 - *Dimensiones:* Autoevaluación, Calificación y acreditación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
@@ -8024,9 +8028,9 @@ Un alumno sabe resolver ecuaciones sencillas pero no las de dos pasos. El docent
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones
 
-- *Instrumentos:* Escala de observación, Escala de progreso
+- *Instrumentos:* Base de orientación, Escala de observación, Escala de progreso
 
-- *Dimensiones:* Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Evaluación dinámica, Finalidad formativa, Evaluación inclusiva y DUA
 
 ---
 
@@ -8061,9 +8065,9 @@ Si el objetivo es «el alumnado será capaz de diseñar un experimento para resp
 
 - *Técnicas de evaluación:* Triangulación de evidencias
 
-- *Instrumentos:* Matriz de valoración, Rúbrica competencial
+- *Instrumentos:* Matriz de valoración, Rúbrica competencial, Tabla de especificaciones
 
-- *Dimensiones:* Enfoque competencial, Evaluación criterial, Finalidad formativa
+- *Dimensiones:* Enfoque competencial, Evaluación criterial, Finalidad formativa, Evaluación normativa
 
 ---
 

@@ -40,7 +40,9 @@
       "HER_LISTA",
       "HER_SEMAFORO",
       "HER_LISTA_AUTO",
-      "HER_REG_COMP"
+      "HER_REG_COMP",
+      "HER_RUB_PUNTO",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -55,13 +57,15 @@
         "INS_CHECK_LAB": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
+        "HER_BASE_ORIENT": "principal",
         "HER_DIANA": "principal",
-        "HER_SEMAFORO": "principal",
         "HER_ESC_AUTO": "principal",
-        "HER_RUB_AUTO": "principal",
+        "HER_LISTA": "principal",
         "HER_LISTA_AUTO": "principal",
-        "HER_REG_COMP": "principal"
+        "HER_REG_COMP": "principal",
+        "HER_RUB_AUTO": "principal",
+        "HER_RUB_PUNTO": "complementaria",
+        "HER_SEMAFORO": "principal"
       }
     },
     "metac_ids": [
@@ -118,7 +122,8 @@
       "HER_RUB_ORAL",
       "HER_RUB_COOP",
       "HER_REG_COOP",
-      "HER_FICHA_COEV"
+      "HER_FICHA_COEV",
+      "HER_ESCAL_FB"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -132,13 +137,14 @@
         "INS_2E1D": "principal"
       },
       "rel_her": {
-        "HER_RUB_ORAL": "complementaria",
-        "HER_RUB_COOP": "principal",
+        "HER_ESCAL_FB": "principal",
         "HER_ESC_OBS": "principal",
+        "HER_FICHA_COEV": "principal",
+        "HER_FORM_DIG": "principal",
         "HER_REG_COOP": "principal",
         "HER_RUB_COEV": "principal",
-        "HER_FICHA_COEV": "principal",
-        "HER_FORM_DIG": "principal"
+        "HER_RUB_COOP": "principal",
+        "HER_RUB_ORAL": "complementaria"
       }
     },
     "metac_ids": [
@@ -203,7 +209,8 @@
       "HER_LISTA",
       "HER_ESC_OBS",
       "HER_CUAD_CAL",
-      "HER_ACTA"
+      "HER_ACTA",
+      "HER_RUB_PUNTO"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -227,12 +234,13 @@
         "INS_LIBRO_ABIERTO": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_LISTA": "complementaria",
+        "HER_ACTA": "complementaria",
+        "HER_CUAD_CAL": "complementaria",
         "HER_ESC_OBS": "complementaria",
         "HER_GUIA_CORR": "principal",
-        "HER_CUAD_CAL": "complementaria",
-        "HER_ACTA": "complementaria"
+        "HER_LISTA": "complementaria",
+        "HER_RUB_ANA": "principal",
+        "HER_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -330,18 +338,20 @@
       "INS_RESP_CORTA",
       "INS_KPSI",
       "INS_MAP_INI",
-      "INS_LLUVIA"
+      "INS_LLUVIA",
+      "INS_TARJ_RESP"
     ],
     "related_tools": [],
     "rel_meta": {
       "rel_ins": {
-        "INS_MAP_CONC": "principal",
-        "INS_PR_OBJ": "complementaria",
-        "INS_TEST": "complementaria",
-        "INS_RESP_CORTA": "complementaria",
         "INS_KPSI": "principal",
+        "INS_LLUVIA": "principal",
+        "INS_MAP_CONC": "principal",
         "INS_MAP_INI": "principal",
-        "INS_LLUVIA": "principal"
+        "INS_PR_OBJ": "complementaria",
+        "INS_RESP_CORTA": "complementaria",
+        "INS_TARJ_RESP": "principal",
+        "INS_TEST": "complementaria"
       }
     },
     "metac_ids": [
@@ -437,7 +447,9 @@
       "INS_SEMINARIO",
       "INS_CHECK_LAB",
       "INS_CUAD_CAMPO",
-      "INS_BIT_IA"
+      "INS_BIT_IA",
+      "INS_TARJ_RESP",
+      "INS_STORYBOARD"
     ],
     "related_tools": [
       "HER_FICHA_RETRO",
@@ -461,65 +473,73 @@
       "HER_GUIA_OBS",
       "HER_PLANT_FF",
       "HER_CONTR_GRUP",
-      "HER_SOCIO"
+      "HER_SOCIO",
+      "HER_RUB_PUNTO",
+      "HER_ESCAL_FB",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
-        "INS_TRAB_IND": "principal",
-        "INS_PART": "principal",
-        "INS_COLOQ": "principal",
-        "INS_ASAM": "principal",
-        "INS_ENTREV": "principal",
-        "INS_PREG_ORAL": "principal",
-        "INS_CUADERNO": "principal",
-        "INS_DIARIO": "complementaria",
-        "INS_PORT": "principal",
-        "INS_RESUMEN": "principal",
-        "INS_ESQUEMA": "principal",
-        "INS_MAP_MENT": "principal",
-        "INS_GLOS": "principal",
-        "INS_FICHA_LECT": "principal",
-        "INS_PLAN_TRAB": "principal",
-        "INS_CONTRATO": "complementaria",
-        "INS_F_REFLEX": "complementaria",
-        "INS_RESP_CORTA": "principal",
-        "INS_DOC_COL": "complementaria",
-        "INS_LLUVIA": "complementaria",
-        "INS_BORR": "principal",
-        "INS_ENT_PAR": "principal",
-        "INS_BIT": "complementaria",
-        "INS_REV_PARES": "complementaria",
         "INS_2E1D": "complementaria",
-        "INS_SEMAF": "complementaria",
+        "INS_ASAM": "principal",
         "INS_BILLETE": "principal",
-        "INS_TRAB_COOP": "principal",
-        "INS_SEMINARIO": "complementaria",
+        "INS_BIT": "complementaria",
+        "INS_BIT_IA": "complementaria",
+        "INS_BORR": "principal",
         "INS_CHECK_LAB": "complementaria",
+        "INS_COLOQ": "principal",
+        "INS_CONTRATO": "complementaria",
+        "INS_CUADERNO": "principal",
         "INS_CUAD_CAMPO": "complementaria",
-        "INS_BIT_IA": "complementaria"
+        "INS_DIARIO": "complementaria",
+        "INS_DOC_COL": "complementaria",
+        "INS_ENTREV": "principal",
+        "INS_ENT_PAR": "principal",
+        "INS_ESQUEMA": "principal",
+        "INS_FICHA_LECT": "principal",
+        "INS_F_REFLEX": "complementaria",
+        "INS_GLOS": "principal",
+        "INS_LLUVIA": "complementaria",
+        "INS_MAP_MENT": "principal",
+        "INS_PART": "principal",
+        "INS_PLAN_TRAB": "principal",
+        "INS_PORT": "principal",
+        "INS_PREG_ORAL": "principal",
+        "INS_RESP_CORTA": "principal",
+        "INS_RESUMEN": "principal",
+        "INS_REV_PARES": "complementaria",
+        "INS_SEMAF": "complementaria",
+        "INS_SEMINARIO": "complementaria",
+        "INS_STORYBOARD": "complementaria",
+        "INS_TARJ_RESP": "principal",
+        "INS_TRAB_COOP": "principal",
+        "INS_TRAB_IND": "principal"
       },
       "rel_her": {
-        "HER_LISTA": "complementaria",
-        "HER_ESC_OBS": "complementaria",
-        "HER_ESC_VAL": "principal",
-        "HER_REG_DESC": "principal",
-        "HER_DIARIO_PROF": "principal",
-        "HER_HOJA_GRUP": "principal",
-        "HER_REG_PART": "principal",
-        "HER_NOTAS_CAMPO": "principal",
-        "HER_FICHA_VAL": "complementaria",
-        "HER_FICHA_RETRO": "principal",
-        "HER_SEMAFORO": "complementaria",
-        "HER_REG_COMP": "complementaria",
-        "HER_ESC_VERB": "principal",
-        "HER_HIST_REV": "complementaria",
-        "HER_PANEL": "complementaria",
         "HER_ANALITICAS": "complementaria",
         "HER_BANCO_EVID": "complementaria",
-        "HER_ESC_PROG": "complementaria",
-        "HER_GUIA_OBS": "complementaria",
-        "HER_PLANT_FF": "complementaria",
+        "HER_BASE_ORIENT": "principal",
         "HER_CONTR_GRUP": "complementaria",
+        "HER_DIARIO_PROF": "principal",
+        "HER_ESCAL_FB": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_ESC_PROG": "complementaria",
+        "HER_ESC_VAL": "principal",
+        "HER_ESC_VERB": "principal",
+        "HER_FICHA_RETRO": "principal",
+        "HER_FICHA_VAL": "complementaria",
+        "HER_GUIA_OBS": "complementaria",
+        "HER_HIST_REV": "complementaria",
+        "HER_HOJA_GRUP": "principal",
+        "HER_LISTA": "complementaria",
+        "HER_NOTAS_CAMPO": "principal",
+        "HER_PANEL": "complementaria",
+        "HER_PLANT_FF": "complementaria",
+        "HER_REG_COMP": "complementaria",
+        "HER_REG_DESC": "principal",
+        "HER_REG_PART": "principal",
+        "HER_RUB_PUNTO": "principal",
+        "HER_SEMAFORO": "complementaria",
         "HER_SOCIO": "complementaria"
       }
     },
@@ -685,7 +705,8 @@
       "HER_HOJA_CALC",
       "HER_INF_IND",
       "HER_ACTA",
-      "HER_RUB_DIG"
+      "HER_RUB_DIG",
+      "HER_TAB_ESPEC"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -703,26 +724,27 @@
         "INS_DOCS": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "complementaria",
-        "HER_RUB_HOL": "principal",
-        "HER_RUB_PROD": "principal",
-        "HER_RUB_ORAL": "complementaria",
-        "HER_ESC_VAL": "complementaria",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_PLANT_CORR": "principal",
+        "HER_ACTA": "principal",
         "HER_BAREMO": "principal",
-        "HER_FICHA_VAL": "principal",
-        "HER_MATRIZ": "complementaria",
-        "HER_CUAD_CAL": "principal",
-        "HER_TAB_CRIT": "principal",
-        "HER_MATRIZ_POND": "principal",
-        "HER_ESC_NUM": "principal",
-        "HER_ESC_VERB": "complementaria",
         "HER_CONV": "principal",
+        "HER_CUAD_CAL": "principal",
+        "HER_ESC_NUM": "principal",
+        "HER_ESC_VAL": "complementaria",
+        "HER_ESC_VERB": "complementaria",
+        "HER_FICHA_VAL": "principal",
+        "HER_GUIA_CORR": "complementaria",
         "HER_HOJA_CALC": "complementaria",
         "HER_INF_IND": "principal",
-        "HER_ACTA": "principal",
-        "HER_RUB_DIG": "complementaria"
+        "HER_MATRIZ": "complementaria",
+        "HER_MATRIZ_POND": "principal",
+        "HER_PLANT_CORR": "principal",
+        "HER_RUB_ANA": "complementaria",
+        "HER_RUB_DIG": "complementaria",
+        "HER_RUB_HOL": "principal",
+        "HER_RUB_ORAL": "complementaria",
+        "HER_RUB_PROD": "principal",
+        "HER_TAB_CRIT": "principal",
+        "HER_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -791,7 +813,9 @@
       "HER_BANCO_DESC",
       "HER_TAB_CRIT",
       "HER_IND_CRIT",
-      "HER_MAP_EVID"
+      "HER_MAP_EVID",
+      "HER_TAB_ESPEC",
+      "HER_RUB_PUNTO"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -814,13 +838,15 @@
         "INS_BIT_IA": "ocasional"
       },
       "rel_her": {
-        "HER_RUB_COMP": "principal",
-        "HER_MATRIZ": "principal",
         "HER_BANCO_DESC": "principal",
-        "HER_PERFIL_LOGRO": "principal",
-        "HER_TAB_CRIT": "complementaria",
         "HER_IND_CRIT": "complementaria",
-        "HER_MAP_EVID": "principal"
+        "HER_MAP_EVID": "principal",
+        "HER_MATRIZ": "principal",
+        "HER_PERFIL_LOGRO": "principal",
+        "HER_RUB_COMP": "principal",
+        "HER_RUB_PUNTO": "complementaria",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_TAB_ESPEC": "complementaria"
       }
     },
     "metac_ids": [
@@ -993,7 +1019,8 @@
       "INS_PLAN_TRAB",
       "INS_PROTOTIPO",
       "INS_BIT",
-      "INS_TRAB_COOP"
+      "INS_TRAB_COOP",
+      "INS_STORYBOARD"
     ],
     "related_tools": [
       "HER_HOJA_IND",
@@ -1005,10 +1032,11 @@
     ],
     "rel_meta": {
       "rel_ins": {
+        "INS_BIT": "principal",
         "INS_MEM_PROY": "principal",
         "INS_PLAN_TRAB": "complementaria",
         "INS_PROTOTIPO": "principal",
-        "INS_BIT": "principal",
+        "INS_STORYBOARD": "complementaria",
         "INS_TRAB_COOP": "complementaria"
       },
       "rel_her": {
@@ -1378,7 +1406,8 @@
       "INS_PORT_DIG",
       "INS_CUAD_DIG",
       "INS_MICROVIDEO",
-      "INS_BIT_IA"
+      "INS_BIT_IA",
+      "INS_STORYBOARD"
     ],
     "related_tools": [
       "HER_RUB_DIG",
@@ -1392,20 +1421,21 @@
     ],
     "rel_meta": {
       "rel_ins": {
-        "INS_CUEST_DIG": "principal",
-        "INS_INFOG": "complementaria",
-        "INS_PRESENT_DIG": "principal",
-        "INS_VIDEO": "principal",
-        "INS_PODCAST": "principal",
-        "INS_MODELO_DIG": "principal",
-        "INS_WEB": "principal",
+        "INS_BIT_IA": "principal",
         "INS_BLOG": "principal",
-        "INS_FORO": "principal",
-        "INS_DOC_COL": "principal",
-        "INS_PORT_DIG": "principal",
         "INS_CUAD_DIG": "principal",
+        "INS_CUEST_DIG": "principal",
+        "INS_DOC_COL": "principal",
+        "INS_FORO": "principal",
+        "INS_INFOG": "complementaria",
         "INS_MICROVIDEO": "principal",
-        "INS_BIT_IA": "principal"
+        "INS_MODELO_DIG": "principal",
+        "INS_PODCAST": "principal",
+        "INS_PORT_DIG": "principal",
+        "INS_PRESENT_DIG": "principal",
+        "INS_STORYBOARD": "principal",
+        "INS_VIDEO": "principal",
+        "INS_WEB": "principal"
       },
       "rel_her": {
         "HER_HOJA_CALC": "principal",
@@ -1470,7 +1500,8 @@
       "HER_MAP_EVID",
       "HER_RUB_COMP",
       "HER_TAB_CRIT",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_TAB_ESPEC"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -1480,11 +1511,12 @@
         "INS_LIBRO_ABIERTO": "complementaria"
       },
       "rel_her": {
+        "HER_DECL_IA": "complementaria",
         "HER_IND_CRIT": "principal",
         "HER_MAP_EVID": "principal",
         "HER_RUB_COMP": "complementaria",
         "HER_TAB_CRIT": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "HER_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -1552,7 +1584,8 @@
     "related_tools": [
       "HER_ESC_PROG",
       "HER_PLANT_FF",
-      "HER_MAP_EVID"
+      "HER_MAP_EVID",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -1574,9 +1607,10 @@
         "INS_SEMAF": "ocasional"
       },
       "rel_her": {
+        "HER_BASE_ORIENT": "complementaria",
         "HER_ESC_PROG": "principal",
-        "HER_PLANT_FF": "complementaria",
-        "HER_MAP_EVID": "complementaria"
+        "HER_MAP_EVID": "complementaria",
+        "HER_PLANT_FF": "complementaria"
       }
     },
     "metac_ids": [
@@ -1798,7 +1832,10 @@
       "HER_PLANT_FF",
       "HER_FICHA_RETRO",
       "HER_REG_COMP",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_RUB_PUNTO",
+      "HER_ESCAL_FB",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -1810,10 +1847,13 @@
         "INS_BIT_IA": "complementaria"
       },
       "rel_her": {
-        "HER_PLANT_FF": "principal",
+        "HER_BASE_ORIENT": "complementaria",
+        "HER_DECL_IA": "ocasional",
+        "HER_ESCAL_FB": "principal",
         "HER_FICHA_RETRO": "principal",
+        "HER_PLANT_FF": "principal",
         "HER_REG_COMP": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "HER_RUB_PUNTO": "principal"
       }
     },
     "metac_ids": [
@@ -1999,7 +2039,8 @@
       "HER_FICHA_COEV",
       "HER_RUB_COEV",
       "HER_REG_COMP",
-      "HER_SOCIO"
+      "HER_SOCIO",
+      "HER_ESCAL_FB"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -2012,9 +2053,10 @@
       },
       "rel_her": {
         "HER_CONTR_GRUP": "principal",
+        "HER_ESCAL_FB": "complementaria",
         "HER_FICHA_COEV": "principal",
-        "HER_RUB_COEV": "complementaria",
         "HER_REG_COMP": "complementaria",
+        "HER_RUB_COEV": "complementaria",
         "HER_SOCIO": "complementaria"
       }
     },
@@ -2251,6 +2293,198 @@
       "metac_017",
       "metac_021",
       "metac_069"
+    ]
+  },
+  {
+    "id": "DIM_IPSA",
+    "entity_type": "dimension",
+    "name": "Evaluación ipsativa",
+    "category": "Enfoque curricular",
+    "summary": "Valoración que compara al alumnado consigo mismo: mide el progreso respecto a su propio punto de partida, no respecto a la norma del grupo ni solo a un criterio fijo.",
+    "desc": "La evaluación ipsativa toma como referencia el desempeño anterior del propio alumno: lo que importa es cuánto ha avanzado respecto a sí mismo. No compara con la media de la clase (normativa) ni se limita a contrastar con un estándar externo (criterial), sino que pone el foco en la mejora individual a lo largo del tiempo.\n\nCómo aplicarla: se registra un punto de partida (una primera producción, una prueba inicial, una rúbrica cumplimentada) y, en momentos sucesivos, se vuelve a valorar la misma competencia con los mismos criterios, comparando cada nueva evidencia con la anterior del mismo alumno. El progreso se hace visible mediante escalas de progreso, perfiles de logro o paneles que muestran la evolución.\n\nSu valor es motivacional y metacognitivo: reconoce el esfuerzo y la mejora de cada alumno desde donde parte, resulta especialmente justa con la diversidad y favorece la autorregulación. Conviene combinarla con la evaluación criterial para no perder de vista los estándares.",
+    "pedagogic_function": "Hacer visible el progreso individual y reforzar la motivación y la autorregulación.",
+    "typical_evidence": [
+      "Comparación de producciones sucesivas, escalas de progreso, perfiles de logro, porfolios."
+    ],
+    "when_to_use": "Cuando se quiere valorar la mejora de cada alumno respecto a su propio punto de partida.",
+    "precautions": "No debe sustituir a los criterios de logro: hay que combinarla con la evaluación criterial.",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "ipsativa",
+      "progreso individual",
+      "motivación",
+      "autorregulación"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_DIARIO",
+      "INS_PORT",
+      "INS_AUTOINF",
+      "INS_BORR",
+      "INS_ENT_PAR",
+      "INS_F_REFLEX"
+    ],
+    "related_tools": [
+      "HER_ESC_PROG",
+      "HER_PANEL",
+      "HER_REG_COMP",
+      "HER_PERFIL_LOGRO",
+      "HER_RUB_AUTO"
+    ],
+    "rel_meta": {
+      "rel_her": {
+        "HER_ESC_PROG": "principal",
+        "HER_PANEL": "principal",
+        "HER_PERFIL_LOGRO": "complementaria",
+        "HER_REG_COMP": "principal",
+        "HER_RUB_AUTO": "complementaria"
+      },
+      "rel_ins": {
+        "INS_AUTOINF": "complementaria",
+        "INS_BORR": "complementaria",
+        "INS_DIARIO": "principal",
+        "INS_ENT_PAR": "complementaria",
+        "INS_F_REFLEX": "complementaria",
+        "INS_PORT": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_023",
+      "metac_029",
+      "metac_030",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_092",
+      "metac_094",
+      "metac_141",
+      "metac_175"
+    ]
+  },
+  {
+    "id": "DIM_NORM",
+    "entity_type": "dimension",
+    "name": "Evaluación normativa",
+    "category": "Enfoque curricular",
+    "summary": "Valoración que interpreta el desempeño de cada alumno comparándolo con el del grupo (la norma): sitúa a la persona respecto a la posición relativa de sus compañeros.",
+    "desc": "La evaluación normativa (o referida a la norma) interpreta los resultados comparando a cada alumno con el rendimiento del conjunto: el referente es la distribución del grupo, no un criterio absoluto. Responde a preguntas como «¿está por encima o por debajo de la media?» o «¿en qué posición relativa queda?».\n\nCómo se aplica: se administra una misma prueba a todo el grupo y los resultados se interpretan con baremos, percentiles o escalas que ordenan a los alumnos entre sí. Es habitual en pruebas estandarizadas y en procesos de selección o clasificación.\n\nSe incluye en el catálogo como referencia conceptual, pero con cautela: para la evaluación de aula se recomienda la evaluación criterial (comparar con criterios de logro) y la ipsativa (comparar con uno mismo), porque la normativa puede ser injusta con la diversidad y desplazar el foco del aprendizaje hacia la comparación entre iguales.",
+    "pedagogic_function": "Situar el desempeño individual respecto a la posición relativa del grupo.",
+    "typical_evidence": [
+      "Pruebas estandarizadas, baremos, percentiles, escalas comparativas."
+    ],
+    "when_to_use": "Cuando se necesita ordenar o clasificar (p. ej., pruebas estandarizadas); poco recomendable en el aula.",
+    "precautions": "Puede ser injusta con la diversidad y desviar el foco hacia la comparación; preferir criterial e ipsativa.",
+    "phase": "Final",
+    "participation": "Docente",
+    "tags": [
+      "normativa",
+      "referida a la norma",
+      "baremo",
+      "comparación"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Gran grupo",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_PR_OBJ",
+      "INS_TEST",
+      "INS_CUEST_DIG",
+      "INS_PR_DES"
+    ],
+    "related_tools": [
+      "HER_BAREMO",
+      "HER_ESC_NUM",
+      "HER_CONV",
+      "HER_TAB_CRIT",
+      "HER_TAB_ESPEC"
+    ],
+    "rel_meta": {
+      "rel_her": {
+        "HER_BAREMO": "principal",
+        "HER_CONV": "complementaria",
+        "HER_ESC_NUM": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_TAB_ESPEC": "complementaria"
+      },
+      "rel_ins": {
+        "INS_CUEST_DIG": "complementaria",
+        "INS_PR_DES": "complementaria",
+        "INS_PR_OBJ": "principal",
+        "INS_TEST": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_102",
+      "metac_103",
+      "metac_105",
+      "metac_181"
+    ]
+  },
+  {
+    "id": "DIM_DINAM",
+    "entity_type": "dimension",
+    "name": "Evaluación dinámica",
+    "category": "Contexto metodológico",
+    "summary": "Evaluación que mide el potencial de aprendizaje observando cómo mejora el alumnado cuando recibe ayuda durante la propia evaluación, en lugar de medir solo lo que hace sin apoyo.",
+    "desc": "La evaluación dinámica, inspirada en la zona de desarrollo próximo de Vygotsky y en los trabajos de Feuerstein, no se limita a registrar lo que el alumnado sabe hacer por sí solo, sino que valora qué es capaz de lograr con mediación. Sigue una secuencia test–mediación–retest: primero se observa el desempeño autónomo, luego el docente ofrece ayudas graduadas (pistas, preguntas, modelos) y por último se vuelve a observar el desempeño para ver cuánto y cómo ha mejorado.\n\nCómo se aplica: durante una tarea de cierta dificultad, el docente interviene con apoyos cada vez más explícitos y registra qué tipo de ayuda necesita el alumno y cómo responde a ella. El interés no está solo en el resultado, sino en el proceso de aprendizaje y en el potencial que se revela con la mediación.\n\nSu valor es diagnóstico y formativo a la vez: informa de la zona de desarrollo próximo de cada alumno y orienta el andamiaje posterior. Requiere tiempo e interacción individualizada, por lo que suele aplicarse de forma puntual o con grupos reducidos.",
+    "pedagogic_function": "Revelar el potencial de aprendizaje y orientar el andamiaje a partir de la respuesta a la mediación.",
+    "typical_evidence": [
+      "Registro de ayudas necesarias y de la mejora en la secuencia test-mediación-retest."
+    ],
+    "when_to_use": "Cuando interesa conocer el potencial de aprendizaje y qué apoyos necesita el alumnado, no solo el resultado.",
+    "precautions": "Requiere tiempo e interacción individualizada; difícil de aplicar a gran grupo.",
+    "phase": "Proceso",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "dinámica",
+      "potencial de aprendizaje",
+      "mediación",
+      "Vygotsky",
+      "ZDP"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_PROB",
+      "INS_SIT_PROB",
+      "INS_F_REFLEX",
+      "INS_LAB"
+    ],
+    "related_tools": [
+      "HER_BASE_ORIENT",
+      "HER_ESC_OBS",
+      "HER_GUIA_OBS",
+      "HER_ESC_PROG",
+      "HER_REG_DESC"
+    ],
+    "rel_meta": {
+      "rel_her": {
+        "HER_BASE_ORIENT": "principal",
+        "HER_ESC_OBS": "principal",
+        "HER_ESC_PROG": "complementaria",
+        "HER_GUIA_OBS": "principal",
+        "HER_REG_DESC": "complementaria"
+      },
+      "rel_ins": {
+        "INS_F_REFLEX": "complementaria",
+        "INS_LAB": "complementaria",
+        "INS_PROB": "principal",
+        "INS_SIT_PROB": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_114",
+      "metac_135",
+      "metac_142",
+      "metac_144",
+      "metac_180"
     ]
   }
 ]

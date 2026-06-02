@@ -207,7 +207,8 @@
       "INS_PORT_DIG",
       "INS_BIT",
       "INS_ENT_PAR",
-      "INS_BIT_IA"
+      "INS_BIT_IA",
+      "INS_STORYBOARD"
     ],
     "related_dimensions": [
       "DIM_PROY",
@@ -222,11 +223,12 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_ins": {
-        "INS_DEF_PROY": "principal",
-        "INS_PORT_DIG": "principal",
         "INS_BIT": "complementaria",
+        "INS_BIT_IA": "complementaria",
+        "INS_DEF_PROY": "principal",
         "INS_ENT_PAR": "complementaria",
-        "INS_BIT_IA": "complementaria"
+        "INS_PORT_DIG": "principal",
+        "INS_STORYBOARD": "complementaria"
       },
       "rel_tec": {
         "TEC_PROC_REFLEX": "principal"
@@ -273,7 +275,8 @@
       "INS_VIDEO",
       "INS_WEB",
       "INS_PROTOTIPO",
-      "INS_MICROVIDEO"
+      "INS_MICROVIDEO",
+      "INS_STORYBOARD"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -289,10 +292,11 @@
         "INS_INFOG": "principal",
         "INS_INFO_LAB": "principal",
         "INS_MAQUETA": "complementaria",
-        "INS_VIDEO": "principal",
-        "INS_WEB": "complementaria",
+        "INS_MICROVIDEO": "complementaria",
         "INS_PROTOTIPO": "complementaria",
-        "INS_MICROVIDEO": "complementaria"
+        "INS_STORYBOARD": "principal",
+        "INS_VIDEO": "principal",
+        "INS_WEB": "complementaria"
       }
     },
     "metac_ids": [
@@ -626,7 +630,9 @@
       "INS_WEB",
       "INS_MAP_INI",
       "INS_BORR",
-      "INS_CHECK_LAB"
+      "INS_CHECK_LAB",
+      "INS_TARJ_RESP",
+      "INS_STORYBOARD"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -649,32 +655,34 @@
         "DIM_INDAG": "ocasional"
       },
       "rel_ins": {
+        "INS_ACTA": "principal",
         "INS_BILLETE": "complementaria",
+        "INS_BORR": "complementaria",
+        "INS_CHECK_LAB": "principal",
         "INS_CUADERNO": "complementaria",
+        "INS_ESQUEMA": "principal",
+        "INS_EXPO": "ocasional",
+        "INS_FICHA_LECT": "principal",
+        "INS_GLOS": "principal",
+        "INS_INFOG": "complementaria",
         "INS_INFO_LAB": "complementaria",
         "INS_LAB": "complementaria",
-        "INS_SEMAF": "complementaria",
-        "INS_TRAB_IND": "ocasional",
-        "INS_TALLER": "principal",
-        "INS_EXPO": "ocasional",
-        "INS_RESUMEN": "principal",
-        "INS_ESQUEMA": "principal",
-        "INS_MAP_CONC": "complementaria",
-        "INS_MAP_MENT": "complementaria",
         "INS_LINEA": "principal",
-        "INS_GLOS": "principal",
-        "INS_FICHA_LECT": "principal",
-        "INS_PLAN_TRAB": "principal",
-        "INS_ACTA": "principal",
-        "INS_PR_PRACT": "principal",
-        "INS_INFOG": "complementaria",
-        "INS_PRESENT_DIG": "complementaria",
-        "INS_TUTORIAL": "complementaria",
-        "INS_MAQUETA": "complementaria",
-        "INS_WEB": "complementaria",
+        "INS_MAP_CONC": "complementaria",
         "INS_MAP_INI": "principal",
-        "INS_BORR": "complementaria",
-        "INS_CHECK_LAB": "principal"
+        "INS_MAP_MENT": "complementaria",
+        "INS_MAQUETA": "complementaria",
+        "INS_PLAN_TRAB": "principal",
+        "INS_PRESENT_DIG": "complementaria",
+        "INS_PR_PRACT": "principal",
+        "INS_RESUMEN": "principal",
+        "INS_SEMAF": "complementaria",
+        "INS_STORYBOARD": "complementaria",
+        "INS_TALLER": "principal",
+        "INS_TARJ_RESP": "ocasional",
+        "INS_TRAB_IND": "ocasional",
+        "INS_TUTORIAL": "complementaria",
+        "INS_WEB": "complementaria"
       },
       "rel_tec": {
         "TEC_OBS_SIS": "principal",
@@ -755,7 +763,8 @@
       "DIM_HET",
       "DIM_FORM",
       "DIM_DESEMP",
-      "DIM_SIM"
+      "DIM_SIM",
+      "DIM_DINAM"
     ],
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -764,9 +773,10 @@
     "rel_meta": {
       "rel_dim": {
         "DIM_COEV": "principal",
-        "DIM_HET": "complementaria",
-        "DIM_FORM": "complementaria",
         "DIM_DESEMP": "ocasional",
+        "DIM_DINAM": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_HET": "complementaria",
         "DIM_SIM": "ocasional"
       },
       "rel_ins": {
@@ -1120,13 +1130,15 @@
       "INS_LIBRO_ABIERTO"
     ],
     "related_dimensions": [
-      "DIM_SUM"
+      "DIM_SUM",
+      "DIM_NORM"
     ],
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
     "rel_meta": {
       "rel_dim": {
+        "DIM_NORM": "principal",
         "DIM_SUM": "principal"
       },
       "rel_ins": {
@@ -1258,15 +1270,17 @@
     ],
     "related_dimensions": [
       "DIM_FORM",
-      "DIM_DESEMP"
+      "DIM_DESEMP",
+      "DIM_DINAM"
     ],
     "related_tecnicas": [
       "TEC_SONDEO"
     ],
     "rel_meta": {
       "rel_dim": {
-        "DIM_FORM": "principal",
-        "DIM_DESEMP": "complementaria"
+        "DIM_DESEMP": "complementaria",
+        "DIM_DINAM": "complementaria",
+        "DIM_FORM": "principal"
       },
       "rel_ins": {
         "INS_DEF_PROY": "principal",
@@ -1500,7 +1514,8 @@
       "INS_ASAM",
       "INS_COLOQ",
       "INS_PART",
-      "INS_SEMINARIO"
+      "INS_SEMINARIO",
+      "INS_TARJ_RESP"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -1513,12 +1528,13 @@
         "DIM_DESEMP": "complementaria"
       },
       "rel_ins": {
-        "INS_DEBATE": "principal",
-        "INS_FORO": "principal",
         "INS_ASAM": "principal",
         "INS_COLOQ": "complementaria",
+        "INS_DEBATE": "principal",
+        "INS_FORO": "principal",
         "INS_PART": "ocasional",
-        "INS_SEMINARIO": "complementaria"
+        "INS_SEMINARIO": "complementaria",
+        "INS_TARJ_RESP": "complementaria"
       }
     },
     "metac_ids": [
@@ -1984,14 +2000,16 @@
       "INS_DEF_PROY"
     ],
     "related_dimensions": [
-      "DIM_COMP"
+      "DIM_COMP",
+      "DIM_IPSA"
     ],
     "related_tecnicas": [
       "TEC_TRIANG"
     ],
     "rel_meta": {
       "rel_dim": {
-        "DIM_COMP": "principal"
+        "DIM_COMP": "principal",
+        "DIM_IPSA": "complementaria"
       },
       "rel_ins": {
         "INS_PORT_DIG": "principal",
@@ -2094,7 +2112,8 @@
     "ai_resistance": "Alta",
     "related_instruments": [
       "INS_BILLETE",
-      "INS_SEMAF"
+      "INS_SEMAF",
+      "INS_TARJ_RESP"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -2108,7 +2127,8 @@
       },
       "rel_ins": {
         "INS_BILLETE": "principal",
-        "INS_SEMAF": "principal"
+        "INS_SEMAF": "principal",
+        "INS_TARJ_RESP": "complementaria"
       }
     },
     "metac_ids": [
@@ -2217,12 +2237,14 @@
       "INS_AUTOINF"
     ],
     "related_dimensions": [
-      "DIM_AUTO"
+      "DIM_AUTO",
+      "DIM_IPSA"
     ],
     "related_tecnicas": [],
     "rel_meta": {
       "rel_dim": {
-        "DIM_AUTO": "principal"
+        "DIM_AUTO": "principal",
+        "DIM_IPSA": "complementaria"
       },
       "rel_ins": {
         "INS_DEF_PROY": "principal",
@@ -2448,7 +2470,8 @@
       "DIM_AUTO",
       "DIM_FORM",
       "DIM_FEED",
-      "DIM_COMPART"
+      "DIM_COMPART",
+      "DIM_IPSA"
     ],
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -2456,9 +2479,10 @@
     "rel_meta": {
       "rel_dim": {
         "DIM_AUTO": "principal",
-        "DIM_FORM": "complementaria",
+        "DIM_COMPART": "complementaria",
         "DIM_FEED": "complementaria",
-        "DIM_COMPART": "complementaria"
+        "DIM_FORM": "complementaria",
+        "DIM_IPSA": "principal"
       },
       "rel_ins": {
         "INS_PORT_DIG": "principal",
@@ -2564,17 +2588,19 @@
       "DIM_SUM",
       "DIM_COMP",
       "DIM_CRIT",
-      "DIM_CAL_ACRED"
+      "DIM_CAL_ACRED",
+      "DIM_NORM"
     ],
     "related_tecnicas": [
       "TEC_TRIANG"
     ],
     "rel_meta": {
       "rel_dim": {
-        "DIM_SUM": "principal",
+        "DIM_CAL_ACRED": "principal",
         "DIM_COMP": "complementaria",
         "DIM_CRIT": "complementaria",
-        "DIM_CAL_ACRED": "principal"
+        "DIM_NORM": "complementaria",
+        "DIM_SUM": "principal"
       },
       "rel_ins": {
         "INS_PR_COMP": "complementaria",
@@ -2674,13 +2700,15 @@
       "INS_PR_DES"
     ],
     "related_dimensions": [
-      "DIM_SUM"
+      "DIM_SUM",
+      "DIM_NORM"
     ],
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
     "rel_meta": {
       "rel_dim": {
+        "DIM_NORM": "principal",
         "DIM_SUM": "principal"
       },
       "rel_ins": {
@@ -2781,11 +2809,13 @@
       "INS_MEM_PROY"
     ],
     "related_dimensions": [
-      "DIM_SUM"
+      "DIM_SUM",
+      "DIM_NORM"
     ],
     "related_tecnicas": [],
     "rel_meta": {
       "rel_dim": {
+        "DIM_NORM": "complementaria",
         "DIM_SUM": "principal"
       },
       "rel_ins": {
@@ -3169,7 +3199,8 @@
     "related_dimensions": [
       "DIM_DIG",
       "DIM_FORM",
-      "DIM_CONT"
+      "DIM_CONT",
+      "DIM_IPSA"
     ],
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
@@ -3177,9 +3208,10 @@
     ],
     "rel_meta": {
       "rel_dim": {
+        "DIM_CONT": "complementaria",
         "DIM_DIG": "principal",
         "DIM_FORM": "complementaria",
-        "DIM_CONT": "complementaria"
+        "DIM_IPSA": "principal"
       },
       "rel_ins": {
         "INS_PORT_DIG": "principal",
@@ -3414,14 +3446,18 @@
     "related_dimensions": [
       "DIM_CONT",
       "DIM_INCL",
-      "DIM_FORM"
+      "DIM_FORM",
+      "DIM_IPSA",
+      "DIM_DINAM"
     ],
     "related_tecnicas": [],
     "rel_meta": {
       "rel_dim": {
         "DIM_CONT": "principal",
+        "DIM_DINAM": "complementaria",
+        "DIM_FORM": "complementaria",
         "DIM_INCL": "principal",
-        "DIM_FORM": "complementaria"
+        "DIM_IPSA": "principal"
       },
       "rel_ins": {
         "INS_EPORT_SEL": "complementaria",
@@ -3473,7 +3509,8 @@
     ],
     "related_dimensions": [
       "DIM_DESEMP",
-      "DIM_FORM"
+      "DIM_FORM",
+      "DIM_DINAM"
     ],
     "related_tecnicas": [
       "TEC_ENTREV_EVAL"
@@ -3481,6 +3518,7 @@
     "rel_meta": {
       "rel_dim": {
         "DIM_DESEMP": "principal",
+        "DIM_DINAM": "principal",
         "DIM_FORM": "complementaria"
       },
       "rel_ins": {
@@ -3966,6 +4004,300 @@
       "metac_040",
       "metac_053",
       "metac_083"
+    ]
+  },
+  {
+    "id": "HER_TAB_ESPEC",
+    "entity_type": "herramienta",
+    "name": "Taula d’especificacions",
+    "type": "Planificació de l’avaluació",
+    "summary": "Matriu que creua els continguts a avaluar amb els nivells cognitius i reparteix el pes de cada ítem, per dissenyar proves equilibrades i vàlides abans de redactar-les.",
+    "desc": "La taula d’especificacions (o matriu d’examen, test blueprint) és una eina de disseny que s’elabora abans de redactar una prova. Creua, en una taula de doble entrada, els continguts o aprenentatges a avaluar (files) amb els nivells cognitius que es volen mesurar (columnes, per exemple seguint la taxonomia de Bloom o la profunditat del coneixement), i indica quants ítems i quin pes corresponen a cada cel·la.\n\nCom usar-la: es llisten els aprenentatges clau de la unitat, es decideix el nivell cognitiu desitjat per a cadascun i s’assigna el nombre de preguntes i la puntuació proporcionals a la seva importància. A partir d’aquesta matriu es redacten els ítems, garantint que la prova cobreix l’essencial i no es concentra només en allò memorístic ni en un únic tema.\n\nEl seu valor és assegurar la validesa de contingut i l’equilibri de la prova: evita exàmens esbiaixats, fa transparent què s’avalua i amb quin pes, i connecta directament amb l’alineament entre objectius, ensenyament i avaluació.",
+    "purpose": "Dissenyar proves equilibrades i vàlides repartint continguts, nivells cognitius i pesos.",
+    "suitable_for": [
+      "Proves objectives",
+      "exàmens de desenvolupament",
+      "proves competencials",
+      "disseny de qüestionaris."
+    ],
+    "advantages": "Assegura validesa de contingut i equilibri; fa transparent què s’avalua i amb quin pes.",
+    "limitations": "Requereix temps previ de planificació i domini dels nivells cognitius.",
+    "complexity": "Media/Alta",
+    "phase": "Diseño",
+    "participation": "Docente",
+    "tags": [
+      "taula d’especificacions",
+      "disseny de proves",
+      "validesa",
+      "nivells cognitius"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_PR_DES",
+      "INS_PR_OBJ",
+      "INS_TEST",
+      "INS_DOCS",
+      "INS_PR_COMP",
+      "INS_RESP_CORTA"
+    ],
+    "related_dimensions": [
+      "DIM_CRIT",
+      "DIM_SUM",
+      "DIM_COMP",
+      "DIM_NORM"
+    ],
+    "related_tecnicas": [
+      "TEC_PRUEBA"
+    ],
+    "rel_meta": {
+      "rel_dim": {
+        "DIM_COMP": "complementaria",
+        "DIM_CRIT": "principal",
+        "DIM_NORM": "complementaria",
+        "DIM_SUM": "principal"
+      },
+      "rel_ins": {
+        "INS_DOCS": "complementaria",
+        "INS_PR_COMP": "complementaria",
+        "INS_PR_DES": "principal",
+        "INS_PR_OBJ": "principal",
+        "INS_RESP_CORTA": "complementaria",
+        "INS_TEST": "principal"
+      },
+      "rel_tec": {
+        "TEC_PRUEBA": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_102",
+      "metac_103",
+      "metac_104",
+      "metac_105",
+      "metac_181"
+    ]
+  },
+  {
+    "id": "HER_RUB_PUNTO",
+    "entity_type": "herramienta",
+    "name": "Rúbrica de punt únic",
+    "type": "Valoració qualitativa",
+    "summary": "Rúbrica que descriu només el nivell objectiu (el rendiment esperat) en cada criteri, deixant espai per anotar en què es queda curta i en què el supera. Simplifica el disseny i prioritza la retroalimentació.",
+    "desc": "La rúbrica de punt únic (single-point rubric) és una variant simplificada de la rúbrica analítica. En lloc de descriure tots els nivells de rendiment per a cada criteri, descriu únicament el nivell objectiu (el que s’espera assolir) en una columna central, i reserva una columna a l’esquerra per anotar en quins aspectes el treball es queda per sota i una altra a la dreta per assenyalar en què el supera.\n\nCom usar-la: es redacten els criteris i, per a cadascun, només el descriptor del nivell esperat. En corregir, el docent (o el mateix alumne o un company) escriu comentaris concrets a les columnes de «encara no hi arriba» i «destaca», personalitzant la retroalimentació en lloc de marcar una casella.\n\nEl seu valor és que és ràpida de dissenyar, no encasella l’alumnat en nivells predefinits i desplaça el focus cap al feedback qualitatiu i la millora. És especialment adequada per a autoavaluació i coavaluació i per a tasques obertes o creatives.",
+    "purpose": "Valorar criteris descrivint només el nivell esperat i centrant la correcció en la retroalimentació.",
+    "suitable_for": [
+      "Assajos",
+      "projectes",
+      "tasques obertes o creatives",
+      "autoavaluació i coavaluació."
+    ],
+    "advantages": "Ràpida de dissenyar, no encasella en nivells i prioritza la retroalimentació qualitativa.",
+    "limitations": "Aporta menys detall que l’analítica i depèn de la qualitat dels comentaris escrits.",
+    "complexity": "Media",
+    "phase": "Proceso/Final",
+    "participation": "Docente/Alumno/Iguales",
+    "tags": [
+      "rúbrica",
+      "punt únic",
+      "retroalimentació",
+      "single-point"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Media",
+    "related_instruments": [
+      "INS_ENSAYO",
+      "INS_COM_TEXT",
+      "INS_DEF_PROY",
+      "INS_INFO_INV",
+      "INS_MEM_PROY",
+      "INS_PRESENT_DIG"
+    ],
+    "related_dimensions": [
+      "DIM_FEED",
+      "DIM_FORM",
+      "DIM_AUTO",
+      "DIM_COMP",
+      "DIM_HET"
+    ],
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "rel_meta": {
+      "rel_dim": {
+        "DIM_AUTO": "complementaria",
+        "DIM_COMP": "complementaria",
+        "DIM_FEED": "principal",
+        "DIM_FORM": "principal",
+        "DIM_HET": "complementaria"
+      },
+      "rel_ins": {
+        "INS_COM_TEXT": "complementaria",
+        "INS_DEF_PROY": "complementaria",
+        "INS_ENSAYO": "principal",
+        "INS_INFO_INV": "complementaria",
+        "INS_MEM_PROY": "complementaria",
+        "INS_PRESENT_DIG": "complementaria"
+      },
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_014",
+      "metac_077",
+      "metac_106",
+      "metac_122",
+      "metac_129"
+    ]
+  },
+  {
+    "id": "HER_ESCAL_FB",
+    "entity_type": "herramienta",
+    "name": "Escala de retroalimentació",
+    "type": "Retroalimentació",
+    "summary": "Protocol estructurat de feedback en quatre graons —aclarir, valorar, preguntar i suggerir— que ordena els comentaris perquè siguin respectuosos, concrets i útils, sobretot entre iguals.",
+    "desc": "L’escala de retroalimentació (ladder of feedback), proposada en el marc de Project Zero, és un protocol que organitza el feedback en una seqüència de quatre passos perquè sigui constructiu i no es converteixi en una crítica vaga o ferint.\n\nEls quatre graons són: 1) Aclarir (fer preguntes per entendre bé el que s’ha fet, evitant suposicions); 2) Valorar (assenyalar de manera específica els punts forts i el que funciona); 3) Preguntar (plantejar dubtes i preocupacions en forma de pregunta, no de judici); i 4) Suggerir (oferir idees concretes de millora).\n\nCom usar-la: abans d’una sessió de revisió entre iguals o de comentari d’un treball, es presenta l’escala i es demana que els comentaris segueixin aquest ordre. Funciona molt bé amb un guió o plantilla amb frases d’inici per a cada graó. El seu valor és crear un clima segur per al feedback, millorar la qualitat dels comentaris i ensenyar l’alumnat a donar i rebre retroalimentació.",
+    "purpose": "Estructurar el feedback en passos (aclarir, valorar, preguntar, suggerir) perquè sigui útil i respectuós.",
+    "suitable_for": [
+      "Revisió entre iguals",
+      "comentari d’esborranys",
+      "sessions de crítica de projectes."
+    ],
+    "advantages": "Crea un clima segur, millora la qualitat del feedback i ensenya a donar-lo i rebre’l.",
+    "limitations": "Requereix pràctica i modelatge previ perquè no es quedi en un tràmit mecànic.",
+    "complexity": "Baja/Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales/Alumno",
+    "tags": [
+      "retroalimentació",
+      "escala de feedback",
+      "coavaluació",
+      "Project Zero"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Grupo pequeño",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_BORR",
+      "INS_REV_PARES",
+      "INS_2E1D",
+      "INS_DEF_PROY",
+      "INS_PRESENT_DIG"
+    ],
+    "related_dimensions": [
+      "DIM_COEV",
+      "DIM_FEED",
+      "DIM_COMPART",
+      "DIM_FORM"
+    ],
+    "related_tecnicas": [
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX"
+    ],
+    "rel_meta": {
+      "rel_dim": {
+        "DIM_COEV": "principal",
+        "DIM_COMPART": "complementaria",
+        "DIM_FEED": "principal",
+        "DIM_FORM": "complementaria"
+      },
+      "rel_ins": {
+        "INS_2E1D": "complementaria",
+        "INS_BORR": "principal",
+        "INS_DEF_PROY": "complementaria",
+        "INS_PRESENT_DIG": "complementaria",
+        "INS_REV_PARES": "principal"
+      },
+      "rel_tec": {
+        "TEC_ORAL": "complementaria",
+        "TEC_PROC_REFLEX": "complementaria"
+      }
+    },
+    "metac_ids": [
+      "metac_027",
+      "metac_129",
+      "metac_130"
+    ]
+  },
+  {
+    "id": "HER_BASE_ORIENT",
+    "entity_type": "herramienta",
+    "name": "Base d’orientació",
+    "type": "Suport a la valoració",
+    "summary": "Guió amb els passos i criteris clau per fer correctament una tasca o procediment, que l’alumnat usa per autoregular-se mentre treballa i que després li serveix per autoavaluar-se.",
+    "desc": "La base d’orientació és un instrument de l’avaluació formadora: una guia, elaborada idealment amb l’alumnat, que recull de manera ordenada els passos, les operacions i els criteris necessaris per executar bé una tasca o procediment (resoldre un problema, escriure un text argumentatiu, fer una pràctica de laboratori).\n\nCom s’aplica: després d’analitzar conjuntament com es fa bé una tasca, es construeix un llistat o esquema amb les accions clau i els punts en què convé aturar-se. L’alumnat el té al davant mentre treballa i el fa servir per guiar i revisar el seu propi procés; amb el temps, el va interioritzant fins a no necessitar-lo. També funciona com a instrument d’autoavaluació i de detecció d’errors.\n\nEl seu valor és desenvolupar l’autonomia i l’autoregulació: trasllada a l’alumnat el control del procés, fa explícit el «com es fa» i redueix la dependència del docent. És especialment útil per a procediments complexos i per a l’atenció a la diversitat.",
+    "purpose": "Guiar l’execució i autoregulació d’una tasca mitjançant els seus passos i criteris clau.",
+    "suitable_for": [
+      "Resolució de problemes",
+      "procediments de laboratori",
+      "escriptura estructurada",
+      "tasques complexes."
+    ],
+    "advantages": "Desenvolupa autonomia i autoregulació i fa explícit el procediment.",
+    "limitations": "Si es dóna ja feta i no es construeix amb l’alumnat, es pot usar de manera mecànica.",
+    "complexity": "Media",
+    "phase": "Diseño/Proceso",
+    "participation": "Docente/Alumno",
+    "tags": [
+      "base d’orientació",
+      "avaluació formadora",
+      "autoregulació",
+      "bastida"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual",
+    "ai_resistance": "Alta",
+    "related_instruments": [
+      "INS_PROB",
+      "INS_SIT_PROB",
+      "INS_CHECK_LAB",
+      "INS_F_REFLEX",
+      "INS_INFO_LAB"
+    ],
+    "related_dimensions": [
+      "DIM_AUTO",
+      "DIM_DINAM",
+      "DIM_FORM",
+      "DIM_FEED",
+      "DIM_INCL"
+    ],
+    "related_tecnicas": [
+      "TEC_PROC_REFLEX",
+      "TEC_OBS_SIS"
+    ],
+    "rel_meta": {
+      "rel_dim": {
+        "DIM_AUTO": "principal",
+        "DIM_DINAM": "principal",
+        "DIM_FEED": "complementaria",
+        "DIM_FORM": "principal",
+        "DIM_INCL": "complementaria"
+      },
+      "rel_ins": {
+        "INS_CHECK_LAB": "complementaria",
+        "INS_F_REFLEX": "complementaria",
+        "INS_INFO_LAB": "complementaria",
+        "INS_PROB": "principal",
+        "INS_SIT_PROB": "principal"
+      },
+      "rel_tec": {
+        "TEC_OBS_SIS": "complementaria",
+        "TEC_PROC_REFLEX": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_013",
+      "metac_040",
+      "metac_125",
+      "metac_142",
+      "metac_144",
+      "metac_180"
     ]
   }
 ]

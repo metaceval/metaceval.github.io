@@ -2160,6 +2160,48 @@ Permite valorar autoría, pensamiento crítico, revisión, mejora y uso responsa
 ---
 
 
+### 87. Tarjetas de respuesta / mini-pizarra `INS_TARJ_RESP`
+
+_Evidencia de respuesta inmediata en la que todo el grupo contesta a la vez con tarjetas (A/B/C/D), pulgares o mini-pizarras individuales, dando al docente una foto instantánea del nivel de comprensión._
+
+**Tipo:** Observación · **Fase:** Proceso · **Participación:** Docente · **Complejidad:** Baja · **Modalidad:** Presencial · **Espacio:** Aula · **Agrupamiento:** Gran grupo · **Resistencia IA:** Alta
+
+_Palabras clave: tarjetas de respuesta, mini-pizarra, respuesta inmediata, participación_
+
+Las tarjetas de respuesta y las mini-pizarras son soportes para recoger la respuesta simultánea de toda la clase ante una pregunta. En lugar de que respondan solo unos pocos, cada alumno muestra su respuesta a la vez —una tarjeta con una letra o color, los pulgares arriba/abajo, o lo que ha escrito en su pizarra individual—, de modo que el docente obtiene en segundos una imagen del estado de comprensión del grupo entero.
+
+Cómo recoge evidencia: el docente plantea una pregunta cerrada o de respuesta breve, da unos segundos de pensamiento y, a una señal, todos muestran su respuesta. El patrón de respuestas (cuántos aciertan, qué error predomina) es la evidencia: permite decidir al momento si avanzar, reexplicar o reagrupar. Puede registrarse de forma puntual con una escala o registro de participación.
+
+Su valor es la inmediatez y la participación universal: hace visible el aprendizaje en directo, mantiene a todo el alumnado activo y es muy resistente al uso de IA por producirse en el aula y en tiempo real. Aporta evidencia formativa y diagnóstica más que calificadora.
+
+**Adecuada para:** Comprobación rápida de comprensión, preguntas bisagra, repaso, activación de ideas previas.
+
+**Técnicas activas que la usan:** El semáforo, Peer Instruction (Instrucción entre iguales), Preguntas bisagra (hinge questions), Respuesta de todos a la vez
+
+---
+
+
+### 88. Guion gráfico (storyboard) `INS_STORYBOARD`
+
+_Secuencia de viñetas que planifica visualmente un vídeo, animación o relato digital: en cada cuadro se bocetan la imagen, la acción y el texto o audio, antes de producir la pieza final._
+
+**Tipo:** Producción visual · **Fase:** Proceso · **Participación:** Docente/Iguales · **Complejidad:** Media · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Individual / Grupo pequeño · **Resistencia IA:** Media
+
+_Palabras clave: storyboard, guion gráfico, planificación visual, relato digital_
+
+El guion gráfico o storyboard es una evidencia de proceso: una serie de viñetas ordenadas que representan, plano a plano, cómo será un producto audiovisual o narrativo (un vídeo, una animación, un cómic, un relato digital) antes de grabarlo o montarlo. Cada viñeta incluye un boceto de la imagen, una nota de la acción que ocurre y el texto, diálogo o sonido que la acompaña.
+
+Cómo evidencia el aprendizaje: al elaborarlo, el alumnado debe estructurar la historia o el mensaje, secuenciar la información, tomar decisiones de comunicación visual y anticipar el resultado. El docente puede valorar la planificación (coherencia narrativa, claridad, adecuación al objetivo) antes de invertir tiempo en la producción, dando retroalimentación temprana.
+
+Su valor es hacer visible el pensamiento previo a la producción y separar la planificación de la ejecución técnica. Es especialmente útil en proyectos de relato digital, vídeo y comunicación audiovisual, y conecta el pensamiento visual con la competencia digital.
+
+**Adecuada para:** Relatos digitales, vídeos y animaciones, cómics, proyectos de comunicación audiovisual.
+
+**Técnicas activas que la usan:** Digital storytelling (relatos digitales), Visual Thinking (pensamiento visual), Aprendizaje maker / STEAM
+
+---
+
+
 ## Instrumentos de evaluación
 
 
@@ -3613,6 +3655,106 @@ No sustituye a una rúbrica ni demuestra por sí sola el aprendizaje, pero ayuda
 ---
 
 
+### 59. Tabla de especificaciones `HER_TAB_ESPEC`
+
+_Matriz que cruza los contenidos a evaluar con los niveles cognitivos y reparte el peso de cada ítem, para diseñar pruebas equilibradas y válidas antes de redactarlas._
+
+**Tipo:** Planificación de la evaluación · **Fase:** Diseño · **Participación:** Docente · **Complejidad:** Media/Alta · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Individual · **Resistencia IA:** Alta
+
+_Palabras clave: tabla de especificaciones, diseño de pruebas, validez, niveles cognitivos_
+
+La tabla de especificaciones (o matriz de examen, test blueprint) es una herramienta de diseño que se elabora antes de redactar una prueba. Cruza, en una tabla de doble entrada, los contenidos o aprendizajes a evaluar (filas) con los niveles cognitivos que se quieren medir (columnas, por ejemplo siguiendo la taxonomía de Bloom o la profundidad del conocimiento), e indica cuántos ítems y qué peso corresponden a cada celda.
+
+Cómo usarla: se listan los aprendizajes clave de la unidad, se decide el nivel cognitivo deseado para cada uno y se asigna el número de preguntas y la puntuación proporcionales a su importancia. A partir de esa matriz se redactan los ítems, garantizando que la prueba cubre lo esencial y no se concentra solo en lo memorístico ni en un único tema.
+
+Su valor es asegurar la validez de contenido y el equilibrio de la prueba: evita exámenes sesgados, hace transparente qué se evalúa y con qué peso, y conecta directamente con el alineamiento entre objetivos, enseñanza y evaluación.
+
+**Propósito:** Diseñar pruebas equilibradas y válidas repartiendo contenidos, niveles cognitivos y pesos.
+
+**Adecuada para:** Pruebas objetivas, exámenes de desarrollo, pruebas competenciales, diseño de cuestionarios.
+
+**Limitaciones:** Requiere tiempo previo de planificación y dominio de los niveles cognitivos.
+
+**Técnicas activas que la usan:** Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Alineamiento constructivo
+
+---
+
+
+### 60. Rúbrica de punto único `HER_RUB_PUNTO`
+
+_Rúbrica que describe solo el nivel objetivo (el desempeño esperado) en cada criterio, dejando espacio para anotar en qué se queda corto y en qué lo supera. Simplifica el diseño y prioriza la retroalimentación._
+
+**Tipo:** Valoración cualitativa · **Fase:** Proceso/Final · **Participación:** Docente/Alumno/Iguales · **Complejidad:** Media · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Individual · **Resistencia IA:** Media
+
+_Palabras clave: rúbrica, punto único, retroalimentación, single-point_
+
+La rúbrica de punto único (single-point rubric) es una variante simplificada de la rúbrica analítica. En lugar de describir todos los niveles de desempeño para cada criterio, describe únicamente el nivel objetivo (lo que se espera lograr) en una columna central, y reserva una columna a la izquierda para anotar en qué aspectos el trabajo se queda por debajo y otra a la derecha para señalar en qué lo supera.
+
+Cómo usarla: se redactan los criterios y, para cada uno, solo el descriptor del nivel esperado. Al corregir, el docente (o el propio alumno o un compañero) escribe comentarios concretos en las columnas de «aún no llega» y «destaca», personalizando la retroalimentación en vez de marcar una casilla.
+
+Su valor está en que es rápida de diseñar, no encasilla al alumnado en niveles predefinidos y desplaza el foco hacia el feedback cualitativo y la mejora. Es especialmente adecuada para autoevaluación y coevaluación y para tareas abiertas o creativas.
+
+**Propósito:** Valorar criterios describiendo solo el nivel esperado y centrando la corrección en la retroalimentación.
+
+**Adecuada para:** Ensayos, proyectos, tareas abiertas o creativas, autoevaluación y coevaluación.
+
+**Limitaciones:** Aporta menos detalle que la analítica y depende de la calidad de los comentarios escritos.
+
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Portfolio (dosier de aprendizaje), Evaluación auténtica, Rúbrica de evaluación, Revisión entre iguales (peer review)
+
+---
+
+
+### 61. Escalera de retroalimentación `HER_ESCAL_FB`
+
+_Protocolo estructurado de feedback en cuatro peldaños —aclarar, valorar, preguntar y sugerir— que ordena los comentarios para que sean respetuosos, concretos y útiles, sobre todo entre iguales._
+
+**Tipo:** Retroalimentación · **Fase:** Proceso · **Participación:** Docente/Iguales/Alumno · **Complejidad:** Baja/Media · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Grupo pequeño · **Resistencia IA:** Alta
+
+_Palabras clave: retroalimentación, escalera de feedback, coevaluación, Project Zero_
+
+La escalera de retroalimentación (ladder of feedback), propuesta en el marco de Project Zero, es un protocolo que organiza el feedback en una secuencia de cuatro pasos para que sea constructivo y no se convierta en una crítica vaga o hiriente.
+
+Los cuatro peldaños son: 1) Aclarar (hacer preguntas para entender bien lo que se ha hecho, evitando suposiciones); 2) Valorar (señalar de forma específica los puntos fuertes y lo que funciona); 3) Preguntar (plantear dudas y preocupaciones en forma de pregunta, no de juicio); y 4) Sugerir (ofrecer ideas concretas de mejora).
+
+Cómo usarla: antes de una sesión de revisión entre iguales o de comentario de un trabajo, se presenta la escalera y se pide que los comentarios sigan ese orden. Funciona muy bien con un guion o plantilla con frases de inicio para cada peldaño. Su valor es crear un clima seguro para el feedback, mejorar la calidad de los comentarios y enseñar al alumnado a dar y recibir retroalimentación.
+
+**Propósito:** Estructurar el feedback en pasos (aclarar, valorar, preguntar, sugerir) para que sea útil y respetuoso.
+
+**Adecuada para:** Revisión entre iguales, comentario de borradores, sesiones de crítica de proyectos.
+
+**Limitaciones:** Requiere práctica y modelado previo para que no se quede en un trámite mecánico.
+
+**Técnicas activas que la usan:** Pensamiento de diseño (Design Thinking), Revisión entre iguales (peer review), Dos estrellas y un deseo
+
+---
+
+
+### 62. Base de orientación `HER_BASE_ORIENT`
+
+_Guion con los pasos y criterios clave para realizar correctamente una tarea o procedimiento, que el alumnado usa para autorregularse mientras trabaja y que después le sirve para autoevaluarse._
+
+**Tipo:** Apoyo a valoración · **Fase:** Diseño/Proceso · **Participación:** Docente/Alumno · **Complejidad:** Media · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Individual · **Resistencia IA:** Alta
+
+_Palabras clave: base de orientación, evaluación formadora, autorregulación, andamiaje_
+
+La base de orientación es un instrumento de la evaluación formadora: una guía, elaborada idealmente con el alumnado, que recoge de forma ordenada los pasos, las operaciones y los criterios necesarios para ejecutar bien una tarea o procedimiento (resolver un problema, escribir un texto argumentativo, realizar una práctica de laboratorio).
+
+Cómo se aplica: tras analizar conjuntamente cómo se hace bien una tarea, se construye un listado o esquema con las acciones clave y los puntos en los que conviene detenerse. El alumnado lo tiene delante mientras trabaja y lo usa para guiar y revisar su propio proceso; con el tiempo, lo va interiorizando hasta no necesitarlo. También funciona como instrumento de autoevaluación y de detección de errores.
+
+Su valor es desarrollar la autonomía y la autorregulación: traslada al alumnado el control del proceso, hace explícito el «cómo se hace» y reduce la dependencia del docente. Es especialmente útil para procedimientos complejos y para la atención a la diversidad.
+
+**Propósito:** Guiar la ejecución y autorregulación de una tarea mediante sus pasos y criterios clave.
+
+**Adecuada para:** Resolución de problemas, procedimientos de laboratorio, escritura estructurada, tareas complejas.
+
+**Limitaciones:** Si se da ya hecha y no se construye con el alumnado, puede usarse de forma mecánica.
+
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Escalera de metacognición, Afirmación, evidencia y razonamiento (CER), Liberación gradual de la responsabilidad, Guías de orientación, Andamiaje y zona de desarrollo próximo (ZDP)
+
+---
+
+
 ## Dimensiones de evaluación
 
 
@@ -4192,5 +4334,80 @@ Es especialmente útil en trabajos de investigación, proyectos, documentos cola
 **Función pedagógica:** Hacer visible cómo se ha elaborado una producción y distinguir el aprendizaje demostrado de las ayudas utilizadas.
 
 **Técnicas activas que la usan:** Aprendizaje por descubrimiento, Conozcámonos, Palabra, idea, frase
+
+---
+
+
+### 23. Evaluación ipsativa `DIM_IPSA`
+
+_Valoración que compara al alumnado consigo mismo: mide el progreso respecto a su propio punto de partida, no respecto a la norma del grupo ni solo a un criterio fijo._
+
+**Categoría:** Enfoque curricular · **Fase:** Proceso/Final · **Participación:** Docente/Alumno · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Individual · **Resistencia IA:** Media
+
+_Palabras clave: ipsativa, progreso individual, motivación, autorregulación_
+
+La evaluación ipsativa toma como referencia el desempeño anterior del propio alumno: lo que importa es cuánto ha avanzado respecto a sí mismo. No compara con la media de la clase (normativa) ni se limita a contrastar con un estándar externo (criterial), sino que pone el foco en la mejora individual a lo largo del tiempo.
+
+Cómo aplicarla: se registra un punto de partida (una primera producción, una prueba inicial, una rúbrica cumplimentada) y, en momentos sucesivos, se vuelve a valorar la misma competencia con los mismos criterios, comparando cada nueva evidencia con la anterior del mismo alumno. El progreso se hace visible mediante escalas de progreso, perfiles de logro o paneles que muestran la evolución.
+
+Su valor es motivacional y metacognitivo: reconoce el esfuerzo y la mejora de cada alumno desde donde parte, resulta especialmente justa con la diversidad y favorece la autorregulación. Conviene combinarla con la evaluación criterial para no perder de vista los estándares.
+
+**Cuándo usarla:** Cuando se quiere valorar la mejora de cada alumno respecto a su propio punto de partida.
+
+**Evidencias típicas:** Comparación de producciones sucesivas, escalas de progreso, perfiles de logro, porfolios.
+
+**Función pedagógica:** Hacer visible el progreso individual y reforzar la motivación y la autorregulación.
+
+**Técnicas activas que la usan:** Contrato de aprendizaje, Diana de evaluación, Diario de aprendizaje, Escalera de metacognición, Portfolio (dosier de aprendizaje), Repartir puntos, STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos), Aprendizaje de dominio, Aprendizaje personalizado con itinerarios (playlists)
+
+---
+
+
+### 24. Evaluación normativa `DIM_NORM`
+
+_Valoración que interpreta el desempeño de cada alumno comparándolo con el del grupo (la norma): sitúa a la persona respecto a la posición relativa de sus compañeros._
+
+**Categoría:** Enfoque curricular · **Fase:** Final · **Participación:** Docente · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Individual / Gran grupo · **Resistencia IA:** Media
+
+_Palabras clave: normativa, referida a la norma, baremo, comparación_
+
+La evaluación normativa (o referida a la norma) interpreta los resultados comparando a cada alumno con el rendimiento del conjunto: el referente es la distribución del grupo, no un criterio absoluto. Responde a preguntas como «¿está por encima o por debajo de la media?» o «¿en qué posición relativa queda?».
+
+Cómo se aplica: se administra una misma prueba a todo el grupo y los resultados se interpretan con baremos, percentiles o escalas que ordenan a los alumnos entre sí. Es habitual en pruebas estandarizadas y en procesos de selección o clasificación.
+
+Se incluye en el catálogo como referencia conceptual, pero con cautela: para la evaluación de aula se recomienda la evaluación criterial (comparar con criterios de logro) y la ipsativa (comparar con uno mismo), porque la normativa puede ser injusta con la diversidad y desplazar el foco del aprendizaje hacia la comparación entre iguales.
+
+**Cuándo usarla:** Cuando se necesita ordenar o clasificar (p. ej., pruebas estandarizadas); poco recomendable en el aula.
+
+**Evidencias típicas:** Pruebas estandarizadas, baremos, percentiles, escalas comparativas.
+
+**Función pedagógica:** Situar el desempeño individual respecto a la posición relativa del grupo.
+
+**Técnicas activas que la usan:** Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía de Bloom, Alineamiento constructivo
+
+---
+
+
+### 25. Evaluación dinámica `DIM_DINAM`
+
+_Evaluación que mide el potencial de aprendizaje observando cómo mejora el alumnado cuando recibe ayuda durante la propia evaluación, en lugar de medir solo lo que hace sin apoyo._
+
+**Categoría:** Contexto metodológico · **Fase:** Proceso · **Participación:** Docente/Alumno · **Modalidad:** Presencial / Online · **Espacio:** Aula / Virtual · **Agrupamiento:** Individual / Grupo pequeño · **Resistencia IA:** Media
+
+_Palabras clave: dinámica, potencial de aprendizaje, mediación, Vygotsky, ZDP_
+
+La evaluación dinámica, inspirada en la zona de desarrollo próximo de Vygotsky y en los trabajos de Feuerstein, no se limita a registrar lo que el alumnado sabe hacer por sí solo, sino que valora qué es capaz de lograr con mediación. Sigue una secuencia test–mediación–retest: primero se observa el desempeño autónomo, luego el docente ofrece ayudas graduadas (pistas, preguntas, modelos) y por último se vuelve a observar el desempeño para ver cuánto y cómo ha mejorado.
+
+Cómo se aplica: durante una tarea de cierta dificultad, el docente interviene con apoyos cada vez más explícitos y registra qué tipo de ayuda necesita el alumno y cómo responde a ella. El interés no está solo en el resultado, sino en el proceso de aprendizaje y en el potencial que se revela con la mediación.
+
+Su valor es diagnóstico y formativo a la vez: informa de la zona de desarrollo próximo de cada alumno y orienta el andamiaje posterior. Requiere tiempo e interacción individualizada, por lo que suele aplicarse de forma puntual o con grupos reducidos.
+
+**Cuándo usarla:** Cuando interesa conocer el potencial de aprendizaje y qué apoyos necesita el alumnado, no solo el resultado.
+
+**Evidencias típicas:** Registro de ayudas necesarias y de la mejora en la secuencia test-mediación-retest.
+
+**Función pedagógica:** Revelar el potencial de aprendizaje y orientar el andamiaje a partir de la respuesta a la mediación.
+
+**Técnicas activas que la usan:** Tutoría entre iguales (Peer Tutoring), Enseñanza recíproca, Liberación gradual de la responsabilidad, Guías de orientación, Andamiaje y zona de desarrollo próximo (ZDP)
 
 ---

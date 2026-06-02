@@ -544,15 +544,17 @@
     ],
     "related_dimensions": [
       "DIM_INDAG",
-      "DIM_HET"
+      "DIM_HET",
+      "DIM_DINAM"
     ],
     "rel_meta": {
       "rel_tec": {
         "TEC_OBS_SIS": "principal"
       },
       "rel_dim": {
-        "DIM_INDAG": "complementaria",
-        "DIM_HET": "complementaria"
+        "DIM_DINAM": "complementaria",
+        "DIM_HET": "complementaria",
+        "DIM_INDAG": "complementaria"
       },
       "rel_her": {
         "HER_DIARIO_PROF": "principal",
@@ -1040,7 +1042,9 @@
       "HER_BANCO_DESC",
       "HER_CONV",
       "HER_ESC_OBS",
-      "HER_RUB_ORAL"
+      "HER_RUB_ORAL",
+      "HER_RUB_PUNTO",
+      "HER_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -1060,8 +1064,10 @@
         "HER_ACTA": "principal",
         "HER_BANCO_DESC": "complementaria",
         "HER_CONV": "complementaria",
+        "HER_ESCAL_FB": "complementaria",
         "HER_ESC_OBS": "ocasional",
-        "HER_RUB_ORAL": "ocasional"
+        "HER_RUB_ORAL": "ocasional",
+        "HER_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -1283,7 +1289,8 @@
     "related_dimensions": [
       "DIM_AUTO",
       "DIM_FORM",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_IPSA"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -1292,6 +1299,7 @@
       "rel_dim": {
         "DIM_AUTO": "principal",
         "DIM_FORM": "complementaria",
+        "DIM_IPSA": "principal",
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
@@ -1355,7 +1363,8 @@
       "DIM_FORM",
       "DIM_AUTO",
       "DIM_HET",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_IPSA"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -1363,9 +1372,10 @@
         "TEC_PROC_REFLEX": "complementaria"
       },
       "rel_dim": {
-        "DIM_FORM": "principal",
         "DIM_AUTO": "complementaria",
+        "DIM_FORM": "principal",
         "DIM_HET": "complementaria",
+        "DIM_IPSA": "principal",
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
@@ -1424,7 +1434,8 @@
     "related_tools": [
       "HER_RUB_ANA",
       "HER_GUIA_CORR",
-      "HER_LISTA"
+      "HER_LISTA",
+      "HER_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_INDAG",
@@ -1439,9 +1450,10 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
+        "HER_BASE_ORIENT": "complementaria",
         "HER_GUIA_CORR": "complementaria",
-        "HER_LISTA": "complementaria"
+        "HER_LISTA": "complementaria",
+        "HER_RUB_ANA": "principal"
       }
     },
     "metac_ids": [
@@ -1481,7 +1493,8 @@
     "related_tools": [
       "HER_GUIA_CORR",
       "HER_TAB_CRIT",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_INDAG",
@@ -1498,9 +1511,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
+        "HER_DECL_IA": "principal",
         "HER_GUIA_CORR": "principal",
-        "HER_TAB_CRIT": "complementaria",
-        "HER_DECL_IA": "principal"
+        "HER_RUB_PUNTO": "complementaria",
+        "HER_TAB_CRIT": "complementaria"
       }
     },
     "metac_ids": [
@@ -1598,7 +1612,8 @@
     "related_tools": [
       "HER_GUIA_CORR",
       "HER_TAB_CRIT",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -1617,9 +1632,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
+        "HER_DECL_IA": "principal",
         "HER_GUIA_CORR": "principal",
-        "HER_TAB_CRIT": "complementaria",
-        "HER_DECL_IA": "principal"
+        "HER_RUB_PUNTO": "principal",
+        "HER_TAB_CRIT": "complementaria"
       }
     },
     "metac_ids": [
@@ -1659,7 +1675,8 @@
     "related_tools": [
       "HER_GUIA_CORR",
       "HER_RUB_ANA",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -1677,9 +1694,10 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
+        "HER_DECL_IA": "complementaria",
         "HER_GUIA_CORR": "principal",
         "HER_RUB_ANA": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "HER_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -2300,7 +2318,8 @@
       "HER_HOJA_CALC",
       "HER_HOJA_IND",
       "HER_MATRIZ_POND",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_PROY",
@@ -2316,10 +2335,11 @@
       },
       "rel_her": {
         "HER_CONV": "principal",
+        "HER_DECL_IA": "principal",
         "HER_HOJA_CALC": "complementaria",
         "HER_HOJA_IND": "complementaria",
         "HER_MATRIZ_POND": "ocasional",
-        "HER_DECL_IA": "principal"
+        "HER_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -2537,12 +2557,15 @@
       "HER_ESC_OBS",
       "HER_ESC_VERB",
       "HER_FICHA_RETRO",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_AUTO",
       "DIM_FORM",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_IPSA",
+      "DIM_DINAM"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -2550,15 +2573,18 @@
       },
       "rel_dim": {
         "DIM_AUTO": "principal",
+        "DIM_DINAM": "complementaria",
         "DIM_FORM": "complementaria",
+        "DIM_IPSA": "complementaria",
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
+        "HER_BASE_ORIENT": "complementaria",
+        "HER_DECL_IA": "ocasional",
         "HER_DIANA": "principal",
         "HER_ESC_OBS": "complementaria",
         "HER_ESC_VERB": "complementaria",
-        "HER_FICHA_RETRO": "ocasional",
-        "HER_DECL_IA": "ocasional"
+        "HER_FICHA_RETRO": "ocasional"
       }
     },
     "metac_ids": [
@@ -2607,7 +2633,8 @@
     "related_dimensions": [
       "DIM_AUTO",
       "DIM_SUM",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_IPSA"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -2615,6 +2642,7 @@
       },
       "rel_dim": {
         "DIM_AUTO": "principal",
+        "DIM_IPSA": "complementaria",
         "DIM_SUM": "complementaria",
         "DIM_TRAZ_IA": "ocasional"
       },
@@ -2661,24 +2689,28 @@
     "related_tools": [
       "HER_GUIA_CORR",
       "HER_RUB_COMP",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_PROB",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_DINAM"
     ],
     "rel_meta": {
       "rel_tec": {
         "TEC_PRUEBA": "principal"
       },
       "rel_dim": {
+        "DIM_DINAM": "principal",
         "DIM_PROB": "principal",
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
+        "HER_BASE_ORIENT": "principal",
+        "HER_DECL_IA": "complementaria",
         "HER_GUIA_CORR": "principal",
-        "HER_RUB_COMP": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "HER_RUB_COMP": "complementaria"
       }
     },
     "metac_ids": [
@@ -2821,26 +2853,30 @@
       "HER_ESC_NUM",
       "HER_GUIA_CORR",
       "HER_MATRIZ_POND",
-      "HER_RUB_ANA"
+      "HER_RUB_ANA",
+      "HER_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_SUM",
-      "DIM_HET"
+      "DIM_HET",
+      "DIM_NORM"
     ],
     "rel_meta": {
       "rel_tec": {
         "TEC_PRUEBA": "principal"
       },
       "rel_dim": {
-        "DIM_SUM": "principal",
-        "DIM_HET": "complementaria"
+        "DIM_HET": "complementaria",
+        "DIM_NORM": "complementaria",
+        "DIM_SUM": "principal"
       },
       "rel_her": {
         "HER_BAREMO": "principal",
         "HER_ESC_NUM": "complementaria",
         "HER_GUIA_CORR": "complementaria",
         "HER_MATRIZ_POND": "ocasional",
-        "HER_RUB_ANA": "ocasional"
+        "HER_RUB_ANA": "ocasional",
+        "HER_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -2880,27 +2916,31 @@
       "HER_BAREMO",
       "HER_ESC_NUM",
       "HER_HOJA_CALC",
-      "HER_PLANT_CORR"
+      "HER_PLANT_CORR",
+      "HER_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_SUM",
       "DIM_DIAG",
-      "DIM_HET"
+      "DIM_HET",
+      "DIM_NORM"
     ],
     "rel_meta": {
       "rel_tec": {
         "TEC_PRUEBA": "principal"
       },
       "rel_dim": {
-        "DIM_SUM": "principal",
         "DIM_DIAG": "complementaria",
-        "DIM_HET": "complementaria"
+        "DIM_HET": "complementaria",
+        "DIM_NORM": "principal",
+        "DIM_SUM": "principal"
       },
       "rel_her": {
         "HER_BAREMO": "principal",
         "HER_ESC_NUM": "complementaria",
         "HER_HOJA_CALC": "complementaria",
-        "HER_PLANT_CORR": "ocasional"
+        "HER_PLANT_CORR": "ocasional",
+        "HER_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -2945,12 +2985,14 @@
     ],
     "related_tools": [
       "HER_BAREMO",
-      "HER_ESC_NUM"
+      "HER_ESC_NUM",
+      "HER_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_SUM",
       "DIM_DIAG",
-      "DIM_HET"
+      "DIM_HET",
+      "DIM_NORM"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -2958,13 +3000,15 @@
         "TEC_SONDEO": "complementaria"
       },
       "rel_dim": {
-        "DIM_SUM": "principal",
         "DIM_DIAG": "complementaria",
-        "DIM_HET": "complementaria"
+        "DIM_HET": "complementaria",
+        "DIM_NORM": "principal",
+        "DIM_SUM": "principal"
       },
       "rel_her": {
         "HER_BAREMO": "principal",
-        "HER_ESC_NUM": "complementaria"
+        "HER_ESC_NUM": "complementaria",
+        "HER_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -3012,7 +3056,8 @@
     ],
     "related_tools": [
       "HER_GUIA_CORR",
-      "HER_BAREMO"
+      "HER_BAREMO",
+      "HER_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -3030,8 +3075,9 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
+        "HER_BAREMO": "complementaria",
         "HER_GUIA_CORR": "principal",
-        "HER_BAREMO": "complementaria"
+        "HER_TAB_ESPEC": "complementaria"
       }
     },
     "metac_ids": [
@@ -3182,7 +3228,8 @@
       "HER_GUIA_CORR",
       "HER_RUB_COMP",
       "HER_TAB_CRIT",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -3202,10 +3249,11 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
+        "HER_DECL_IA": "complementaria",
         "HER_GUIA_CORR": "principal",
         "HER_RUB_COMP": "complementaria",
         "HER_TAB_CRIT": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "HER_TAB_ESPEC": "complementaria"
       }
     },
     "metac_ids": [
@@ -3244,7 +3292,8 @@
     ],
     "related_tools": [
       "HER_GUIA_CORR",
-      "HER_RUB_ANA"
+      "HER_RUB_ANA",
+      "HER_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -3263,7 +3312,8 @@
       },
       "rel_her": {
         "HER_GUIA_CORR": "principal",
-        "HER_RUB_ANA": "complementaria"
+        "HER_RUB_ANA": "complementaria",
+        "HER_TAB_ESPEC": "complementaria"
       }
     },
     "metac_ids": [
@@ -3307,7 +3357,8 @@
       "HER_ANALITICAS"
     ],
     "related_dimensions": [
-      "DIM_DIG"
+      "DIM_DIG",
+      "DIM_NORM"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -3316,7 +3367,8 @@
         "TEC_ENC_CUEST": "principal"
       },
       "rel_dim": {
-        "DIM_DIG": "principal"
+        "DIM_DIG": "principal",
+        "DIM_NORM": "complementaria"
       },
       "rel_her": {
         "HER_FORM_DIG": "principal",
@@ -3480,7 +3532,9 @@
     "related_tools": [
       "HER_RUB_ANA",
       "HER_LISTA",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_RUB_PUNTO",
+      "HER_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -3498,9 +3552,11 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
+        "HER_DECL_IA": "principal",
+        "HER_ESCAL_FB": "complementaria",
         "HER_LISTA": "complementaria",
-        "HER_DECL_IA": "principal"
+        "HER_RUB_ANA": "principal",
+        "HER_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -4429,13 +4485,15 @@
     "related_tools": [
       "HER_FICHA_RETRO",
       "HER_LISTA",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_FORM",
       "DIM_CONT",
       "DIM_FEED",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_IPSA"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -4443,15 +4501,17 @@
         "TEC_PROD": "complementaria"
       },
       "rel_dim": {
-        "DIM_FORM": "principal",
         "DIM_CONT": "principal",
         "DIM_FEED": "principal",
+        "DIM_FORM": "principal",
+        "DIM_IPSA": "complementaria",
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
+        "HER_DECL_IA": "complementaria",
+        "HER_ESCAL_FB": "principal",
         "HER_FICHA_RETRO": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "HER_LISTA": "complementaria"
       }
     },
     "metac_ids": [
@@ -4496,7 +4556,8 @@
       "DIM_FORM",
       "DIM_CONT",
       "DIM_FEED",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_IPSA"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -4504,9 +4565,10 @@
         "TEC_PROD": "complementaria"
       },
       "rel_dim": {
-        "DIM_FORM": "principal",
         "DIM_CONT": "principal",
         "DIM_FEED": "complementaria",
+        "DIM_FORM": "principal",
+        "DIM_IPSA": "complementaria",
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
@@ -4615,7 +4677,8 @@
       "HER_FICHA_COEV",
       "HER_RUB_COEV",
       "HER_FICHA_RETRO",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_COEV",
@@ -4636,10 +4699,11 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
+        "HER_DECL_IA": "complementaria",
+        "HER_ESCAL_FB": "principal",
         "HER_FICHA_COEV": "principal",
-        "HER_RUB_COEV": "complementaria",
         "HER_FICHA_RETRO": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "HER_RUB_COEV": "complementaria"
       }
     },
     "metac_ids": [
@@ -4680,7 +4744,8 @@
     ],
     "related_tools": [
       "HER_FICHA_RETRO",
-      "HER_FICHA_COEV"
+      "HER_FICHA_COEV",
+      "HER_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_COEV",
@@ -4697,8 +4762,9 @@
         "DIM_FEED": "principal"
       },
       "rel_her": {
-        "HER_FICHA_RETRO": "principal",
-        "HER_FICHA_COEV": "complementaria"
+        "HER_ESCAL_FB": "complementaria",
+        "HER_FICHA_COEV": "complementaria",
+        "HER_FICHA_RETRO": "principal"
       }
     },
     "metac_ids": [
@@ -5012,14 +5078,16 @@
       "HER_RUB_ANA",
       "HER_GUIA_CORR",
       "HER_IND_CRIT",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_PROB",
       "DIM_COMP",
       "DIM_CRIT",
       "DIM_GAMIF",
-      "DIM_TRAZ_IA"
+      "DIM_TRAZ_IA",
+      "DIM_DINAM"
     ],
     "rel_meta": {
       "rel_tec": {
@@ -5027,17 +5095,19 @@
         "TEC_PROD": "complementaria"
       },
       "rel_dim": {
-        "DIM_PROB": "principal",
         "DIM_COMP": "complementaria",
         "DIM_CRIT": "principal",
+        "DIM_DINAM": "principal",
         "DIM_GAMIF": "complementaria",
+        "DIM_PROB": "principal",
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
+        "HER_BASE_ORIENT": "principal",
+        "HER_DECL_IA": "ocasional",
         "HER_GUIA_CORR": "complementaria",
         "HER_IND_CRIT": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "HER_RUB_ANA": "principal"
       }
     },
     "metac_ids": [
@@ -5206,7 +5276,8 @@
     "related_tools": [
       "HER_LISTA",
       "HER_GUIA_OBS",
-      "HER_REG_ANE"
+      "HER_REG_ANE",
+      "HER_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -5223,8 +5294,9 @@
         "DIM_AUTO": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
+        "HER_BASE_ORIENT": "complementaria",
         "HER_GUIA_OBS": "complementaria",
+        "HER_LISTA": "principal",
         "HER_REG_ANE": "ocasional"
       }
     },
@@ -5601,6 +5673,127 @@
       "metac_040",
       "metac_053",
       "metac_083"
+    ]
+  },
+  {
+    "id": "INS_TARJ_RESP",
+    "entity_type": "instrumento",
+    "name": "Targetes de resposta / mini-pissarra",
+    "type": "Observació",
+    "summary": "Evidència de resposta immediata en què tot el grup contesta alhora amb targetes (A/B/C/D), polzes o mini-pissarres individuals, donant al docent una foto instantània del nivell de comprensió.",
+    "desc": "Les targetes de resposta i les mini-pissarres són suports per recollir la resposta simultània de tota la classe davant una pregunta. En lloc que responguin només uns pocs, cada alumne mostra la seva resposta alhora —una targeta amb una lletra o color, els polzes amunt/avall, o el que ha escrit a la seva pissarra individual—, de manera que el docent obté en segons una imatge de l’estat de comprensió del grup sencer.\n\nCom recull evidència: el docent planteja una pregunta tancada o de resposta breu, dóna uns segons de pensament i, a un senyal, tothom mostra la seva resposta. El patró de respostes (quants encerten, quin error predomina) és l’evidència: permet decidir a l’instant si avançar, reexplicar o reagrupar. Es pot registrar de manera puntual amb una escala o registre de participació.\n\nEl seu valor és la immediatesa i la participació universal: fa visible l’aprenentatge en directe, manté tot l’alumnat actiu i és molt resistent a l’ús d’IA perquè es produeix a l’aula i en temps real. Aporta evidència formativa i diagnòstica més que qualificadora.",
+    "suitable_for": [
+      "Comprovació ràpida de comprensió",
+      "preguntes frontissa",
+      "repàs",
+      "activació d’idees prèvies."
+    ],
+    "complexity": "Baja",
+    "phase": "Proceso",
+    "participation": "Docente",
+    "tags": [
+      "targetes de resposta",
+      "mini-pissarra",
+      "resposta immediata",
+      "participació"
+    ],
+    "modality": "Presencial",
+    "location": "Aula",
+    "grouping": "Gran grupo",
+    "ai_resistance": "Alta",
+    "related_tecnicas": [
+      "TEC_SONDEO",
+      "TEC_OBS_SIS"
+    ],
+    "related_tools": [
+      "HER_REG_PART",
+      "HER_SEMAFORO",
+      "HER_LISTA"
+    ],
+    "related_dimensions": [
+      "DIM_DIAG",
+      "DIM_FORM"
+    ],
+    "rel_meta": {
+      "rel_dim": {
+        "DIM_DIAG": "principal",
+        "DIM_FORM": "principal"
+      },
+      "rel_her": {
+        "HER_LISTA": "ocasional",
+        "HER_REG_PART": "complementaria",
+        "HER_SEMAFORO": "complementaria"
+      },
+      "rel_tec": {
+        "TEC_OBS_SIS": "complementaria",
+        "TEC_SONDEO": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_037",
+      "metac_073",
+      "metac_157",
+      "metac_158"
+    ]
+  },
+  {
+    "id": "INS_STORYBOARD",
+    "entity_type": "instrumento",
+    "name": "Guió gràfic (storyboard)",
+    "type": "Producció visual",
+    "summary": "Seqüència de vinyetes que planifica visualment un vídeo, animació o relat digital: en cada quadre s’esbossen la imatge, l’acció i el text o àudio, abans de produir la peça final.",
+    "desc": "El guió gràfic o storyboard és una evidència de procés: una sèrie de vinyetes ordenades que representen, pla a pla, com serà un producte audiovisual o narratiu (un vídeo, una animació, un còmic, un relat digital) abans de gravar-lo o muntar-lo. Cada vinyeta inclou un esbós de la imatge, una nota de l’acció que passa i el text, diàleg o so que l’acompanya.\n\nCom evidencia l’aprenentatge: en elaborar-lo, l’alumnat ha d’estructurar la història o el missatge, seqüenciar la informació, prendre decisions de comunicació visual i anticipar el resultat. El docent pot valorar la planificació (coherència narrativa, claredat, adequació a l’objectiu) abans d’invertir temps en la producció, donant retroalimentació primerenca.\n\nEl seu valor és fer visible el pensament previ a la producció i separar la planificació de l’execució tècnica. És especialment útil en projectes de relat digital, vídeo i comunicació audiovisual, i connecta el pensament visual amb la competència digital.",
+    "suitable_for": [
+      "Relats digitals",
+      "vídeos i animacions",
+      "còmics",
+      "projectes de comunicació audiovisual."
+    ],
+    "complexity": "Media",
+    "phase": "Proceso",
+    "participation": "Docente/Iguales",
+    "tags": [
+      "storyboard",
+      "guió gràfic",
+      "planificació visual",
+      "relat digital"
+    ],
+    "modality": "Presencial / Online",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño",
+    "ai_resistance": "Media",
+    "related_tecnicas": [
+      "TEC_PROD"
+    ],
+    "related_tools": [
+      "HER_RUB_PROD",
+      "HER_LISTA",
+      "HER_RUB_PROC"
+    ],
+    "related_dimensions": [
+      "DIM_DIG",
+      "DIM_FORM",
+      "DIM_PROY"
+    ],
+    "rel_meta": {
+      "rel_dim": {
+        "DIM_DIG": "principal",
+        "DIM_FORM": "complementaria",
+        "DIM_PROY": "complementaria"
+      },
+      "rel_her": {
+        "HER_LISTA": "complementaria",
+        "HER_RUB_PROC": "complementaria",
+        "HER_RUB_PROD": "principal"
+      },
+      "rel_tec": {
+        "TEC_PROD": "principal"
+      }
+    },
+    "metac_ids": [
+      "metac_031",
+      "metac_100",
+      "metac_172"
     ]
   }
 ]

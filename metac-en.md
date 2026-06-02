@@ -509,9 +509,9 @@ After completing a laboratory exercise, students fill in the ladder, indicating 
 
 - *Evaluation techniques:* Incidental observation, Systematic observation, Analysis of processes and reflections, Probing and questioning
 
-- *Instruments:* AI and sources use declaration, Teacher's diary, Self-assessment scale, Progress scale, Verbal scale, Feedback card, Revision history, Self-assessment checklist, Field notes, Progress dashboard, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Self-assessment rubric, Digital rubric
+- *Instruments:* Self-regulation guide (base of orientation), AI and sources use declaration, Teacher's diary, Self-assessment scale, Progress scale, Verbal scale, Feedback card, Revision history, Self-assessment checklist, Field notes, Progress dashboard, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Self-assessment rubric, Digital rubric
 
-- *Dimensions:* Self-assessment, Competency-based approach, Continuous assessment, Feedback and feedforward, Formative purpose
+- *Dimensions:* Self-assessment, Competency-based approach, Continuous assessment, Feedback and feedforward, Formative purpose, Ipsative assessment
 
 ---
 
@@ -1371,7 +1371,7 @@ In a biology lab, students observe that some seeds germinated better with water 
 
 - *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Self-regulation guide (base of orientation), Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward, Problem solving
 
@@ -2124,7 +2124,7 @@ In mathematics, a student tutor supports a partner in solving a problem. The tut
 
 - *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Problem solving
+- *Dimensions:* Continuous assessment, Dynamic assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -3285,7 +3285,7 @@ In a digitalization class, students design a solution to improve the organizatio
 
 - *Evaluation techniques:* Survey and questionnaire, Evaluative interview, Systematic observation, Oral exchanges, Specific tests, Evidence triangulation
 
-- *Instruments:* Learning analytics, Descriptor bank, Level-to-grade converter, AI and sources use declaration, Feedback card, Revision history, List of indicators per criterion, Checklist, Evidence map by criterion, Weighting matrix, Progress dashboard, Achievement profile, Feedback/feedforward template, Competency rubric, Cooperative work rubric, Digital rubric, Global or holistic rubric, Oral rubric, Process rubric, Product rubric, Criteria grading table
+- *Instruments:* Learning analytics, Descriptor bank, Level-to-grade converter, AI and sources use declaration, Ladder of feedback, Feedback card, Revision history, List of indicators per criterion, Checklist, Evidence map by criterion, Weighting matrix, Progress dashboard, Achievement profile, Feedback/feedforward template, Competency rubric, Cooperative work rubric, Digital rubric, Global or holistic rubric, Oral rubric, Process rubric, Product rubric, Criteria grading table
 
 - *Dimensions:* Continuous assessment, Criteria-based assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
@@ -3685,7 +3685,7 @@ On tournament day, students compete at tables with classmates from other teams w
 
 - *Instruments:* Cooperative work rubric
 
-- *Dimensions:* Grading and accreditation, Performance evidence, Gamified assessment, Teacher assessment, Inclusive assessment and UDL, Problem solving
+- *Dimensions:* Grading and accreditation, Performance evidence, Gamified assessment, Teacher assessment, Inclusive assessment and UDL, Ipsative assessment, Problem solving
 
 ---
 
@@ -4035,7 +4035,7 @@ Through the development of this project, the students have learned about energy 
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning, Evidence triangulation
 
-- *Instruments:* Learning analytics, Descriptor bank, Digital evidence bank, Group contract, Level-to-grade converter, Grade book, AI and sources use declaration, Assessment target, Progress scale, Verbal scale, Feedback card, Assessment card, Revision history, Group tracking sheet, Individual tracking sheet, List of indicators per criterion, Individual assessment report, Checklist, Evidence map by criterion, Assessment matrix, Weighting matrix, Progress dashboard, Achievement profile, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Competency rubric, Cooperative work rubric, Digital rubric, Global or holistic rubric, Oral rubric, Process rubric, Product rubric, Criteria grading table
+- *Instruments:* Learning analytics, Descriptor bank, Digital evidence bank, Group contract, Level-to-grade converter, Grade book, AI and sources use declaration, Assessment target, Progress scale, Verbal scale, Feedback card, Assessment card, Revision history, Group tracking sheet, Individual tracking sheet, List of indicators per criterion, Individual assessment report, Checklist, Evidence map by criterion, Assessment matrix, Weighting matrix, Progress dashboard, Achievement profile, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Competency rubric, Cooperative work rubric, Digital rubric, Global or holistic rubric, Oral rubric, Process rubric, Product rubric, Single-point rubric, Criteria grading table
 
 - *Dimensions:* Continuous assessment, Criteria-based assessment, Performance evidence, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving, Project-based learning
 
@@ -4650,7 +4650,9 @@ To solve geometry problems, the teacher solves one problem while thinking aloud 
 
 - *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL, Problem solving
+- *Instruments:* Self-regulation guide (base of orientation)
+
+- *Dimensions:* Dynamic assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -4979,7 +4981,7 @@ In the Technology subject, the challenge is to design an automatic irrigation sy
 
 - *Evaluation techniques:* Documentary analysis, Incidental observation, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
-- *Instruments:* Descriptor bank, Scoring scale, Level-to-grade converter, Grade book, Teacher's diary, Descriptive scale, Observation scale, Progress scale, Rating scale, Verbal scale, Feedback card, Correction guide, Observation guide, List of indicators per criterion, Checklist, Evidence map by criterion, Weighting matrix, Field notes, Achievement profile, Correction template, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Competency rubric, Cooperative work rubric, Oral rubric, Criteria grading table
+- *Instruments:* Descriptor bank, Scoring scale, Self-regulation guide (base of orientation), Level-to-grade converter, Grade book, Teacher's diary, Descriptive scale, Observation scale, Progress scale, Rating scale, Verbal scale, Feedback card, Correction guide, Observation guide, List of indicators per criterion, Checklist, Evidence map by criterion, Weighting matrix, Field notes, Achievement profile, Correction template, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Competency rubric, Cooperative work rubric, Oral rubric, Criteria grading table
 
 - *Dimensions:* Case study, Competency-based approach, Continuous assessment, Criteria-based assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving, Project-based learning
 
@@ -5543,6 +5545,8 @@ In biology, the group reads a text about vaccines. One student summarises the fi
 
 - *Instruments:* Cooperative work rubric
 
+- *Dimensions:* Dynamic assessment
+
 ---
 
 
@@ -5983,7 +5987,7 @@ In a research project, each student agrees with the teacher on the research ques
 
 - *Instruments:* Digital evidence bank, Feedback card, Assessment card, Individual tracking sheet, Individual assessment report, Assessment matrix, Feedback/feedforward template
 
-- *Dimensions:* Grading and accreditation, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Project-based learning
+- *Dimensions:* Grading and accreditation, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Ipsative assessment, Project-based learning
 
 ---
 
@@ -6030,7 +6034,7 @@ After an oral presentation, each student evaluates clarity, mastery of the conte
 
 - *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Peer assessment rubric
 
-- *Dimensions:* Self-assessment, Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment
+- *Dimensions:* Self-assessment, Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Ipsative assessment
 
 ---
 
@@ -6255,9 +6259,9 @@ For each piece of evidence, the student explains why it has been included, what 
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Assessment target, Self-assessment scale, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric
+- *Instruments:* Assessment target, Self-assessment scale, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Single-point rubric
 
-- *Dimensions:* Self-assessment, Grading and accreditation, Shared and participatory assessment, Continuous assessment, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Inquiry
+- *Dimensions:* Self-assessment, Grading and accreditation, Shared and participatory assessment, Continuous assessment, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Inquiry, Ipsative assessment
 
 ---
 
@@ -6332,7 +6336,7 @@ Source: Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 
 - *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Peer assessment rubric
 
-- *Dimensions:* Self-assessment, Grading and accreditation, Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Summative purpose
+- *Dimensions:* Self-assessment, Grading and accreditation, Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Ipsative assessment, Summative purpose
 
 ---
 
@@ -6376,7 +6380,7 @@ At the end, each student takes an individual test with a new map. The team earns
 
 - *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Grading and accreditation, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL
+- *Dimensions:* Grading and accreditation, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Ipsative assessment
 
 ---
 
@@ -6467,7 +6471,7 @@ The reviewer identifies one clear idea in the text, one part that is not easy to
 
 - *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Assessment target, Peer assessment card, Feedback card, Checklist, Feedback/feedforward template, Analytic rubric, Peer assessment rubric, Cooperative work rubric
+- *Instruments:* Assessment target, Ladder of feedback, Peer assessment card, Feedback card, Checklist, Feedback/feedforward template, Analytic rubric, Peer assessment rubric, Cooperative work rubric, Single-point rubric
 
 - *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Project-based learning, Summative purpose
 
@@ -6503,7 +6507,7 @@ After an oral presentation on an environmental problem, a classmate writes: “S
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Peer assessment card, Feedback card, Feedback/feedforward template, Peer assessment rubric, Cooperative work rubric
+- *Instruments:* Ladder of feedback, Peer assessment card, Feedback card, Feedback/feedforward template, Peer assessment rubric, Cooperative work rubric
 
 - *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
@@ -6627,7 +6631,7 @@ In a fractions unit, each subtopic ends with a short 5-question check. Students 
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Grading and accreditation, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment
+- *Dimensions:* Grading and accreditation, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Ipsative assessment
 
 ---
 
@@ -6665,9 +6669,9 @@ For argumentative writing, the guide includes questions such as: “What is your
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Self-regulation guide (base of orientation), Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Dynamic assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -6852,7 +6856,7 @@ In a maths unit, each student receives a list with videos, self-correcting exerc
 
 - *Instruments:* Progress scale, Progress dashboard
 
-- *Dimensions:* Continuous assessment, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Formative purpose, Inclusive assessment and UDL, Ipsative assessment
 
 ---
 
@@ -6991,7 +6995,7 @@ I completed all the homework and reviewed the unit's concepts every day to be pr
 
 - *Instruments:* Digital evidence bank, Assessment target, Self-assessment scale, Feedback card, Assessment card, Individual tracking sheet, Individual assessment report, Self-assessment checklist, Assessment matrix, Feedback/feedforward template, Self-assessment rubric
 
-- *Dimensions:* Self-assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Problem solving
+- *Dimensions:* Self-assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Ipsative assessment, Problem solving
 
 ---
 
@@ -7653,9 +7657,9 @@ Before designing a unit on ecosystems, the teacher defines that students should 
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Table of specifications
 
-- *Dimensions:* Grading and accreditation, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment
+- *Dimensions:* Grading and accreditation, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Norm-referenced assessment
 
 ---
 
@@ -7697,9 +7701,9 @@ Memorizing a formula may have a low DOK level, while choosing which mathematical
 
 - *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Table of specifications
 
-- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Norm-referenced assessment, Problem solving
 
 ---
 
@@ -7742,7 +7746,7 @@ In response to a question about natural selection, a student may mention only on
 
 - *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template, Analytic rubric
+- *Instruments:* Feedback card, Feedback/feedforward template, Analytic rubric, Table of specifications
 
 - *Dimensions:* Competency-based approach, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
@@ -7788,9 +7792,9 @@ In a biology unit, students may remember terms, explain processes, apply a model
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Table of specifications
 
-- *Dimensions:* Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment
+- *Dimensions:* Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Norm-referenced assessment
 
 ---
 
@@ -7826,7 +7830,7 @@ Instead of only answering questions about nutrition, students design a healthy m
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Assessment target, Feedback card, Feedback/feedforward template, Analytic rubric
+- *Instruments:* Assessment target, Feedback card, Feedback/feedforward template, Analytic rubric, Single-point rubric
 
 - *Dimensions:* Grading and accreditation, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
@@ -8095,7 +8099,7 @@ Before presenting, each group reviews its work with the rubric and identifies wh
 
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Analytic rubric, Self-assessment rubric, Peer assessment rubric
+- *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Analytic rubric, Self-assessment rubric, Peer assessment rubric, Single-point rubric
 
 - *Dimensions:* Self-assessment, Grading and accreditation, Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
@@ -8210,9 +8214,9 @@ A student can solve simple equations but not two-step ones. The teacher places t
 
 - *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
 
-- *Instruments:* Observation scale, Progress scale
+- *Instruments:* Self-regulation guide (base of orientation), Observation scale, Progress scale
 
-- *Dimensions:* Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Dynamic assessment, Formative purpose, Inclusive assessment and UDL
 
 ---
 
@@ -8247,9 +8251,9 @@ If the outcome is “learners will be able to design an experiment to answer a q
 
 - *Evaluation techniques:* Evidence triangulation
 
-- *Instruments:* Assessment matrix, Competency rubric
+- *Instruments:* Assessment matrix, Competency rubric, Table of specifications
 
-- *Dimensions:* Competency-based approach, Criteria-based assessment, Formative purpose
+- *Dimensions:* Competency-based approach, Criteria-based assessment, Formative purpose, Norm-referenced assessment
 
 ---
 

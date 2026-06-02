@@ -34,34 +34,38 @@
       "INS_ASAM",
       "INS_DRAMA",
       "INS_PROTOTIPO",
-      "INS_CUAD_CAMPO"
+      "INS_CUAD_CAMPO",
+      "INS_TARJ_RESP"
     ],
     "related_tools": [
       "HER_LISTA",
       "HER_ESC_OBS",
       "HER_RUB_ANA",
-      "HER_REG_ANE"
+      "HER_REG_ANE",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
-        "INS_TRAB_IND": "principal",
-        "INS_TRAB_COOP": "principal",
-        "INS_PART": "principal",
-        "INS_DEBATE": "complementaria",
         "INS_ASAM": "complementaria",
-        "INS_LAB": "principal",
-        "INS_TALLER": "principal",
-        "INS_SIM": "principal",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_DEBATE": "complementaria",
         "INS_DRAMA": "principal",
         "INS_EXPO": "complementaria",
+        "INS_LAB": "principal",
+        "INS_PART": "principal",
         "INS_PROTOTIPO": "complementaria",
-        "INS_CUAD_CAMPO": "complementaria"
+        "INS_SIM": "principal",
+        "INS_TALLER": "principal",
+        "INS_TARJ_RESP": "complementaria",
+        "INS_TRAB_COOP": "principal",
+        "INS_TRAB_IND": "principal"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
+        "HER_BASE_ORIENT": "complementaria",
         "HER_ESC_OBS": "complementaria",
-        "HER_RUB_ANA": "complementaria",
-        "HER_REG_ANE": "complementaria"
+        "HER_LISTA": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_RUB_ANA": "complementaria"
       }
     },
     "metac_ids": [
@@ -285,62 +289,66 @@
       "INS_BORR",
       "INS_ENT_PAR",
       "INS_CUAD_CAMPO",
-      "INS_MICROVIDEO"
+      "INS_MICROVIDEO",
+      "INS_STORYBOARD"
     ],
     "related_tools": [
       "HER_RUB_ANA",
       "HER_GUIA_CORR",
       "HER_ESC_DESC",
-      "HER_FICHA_RETRO"
+      "HER_FICHA_RETRO",
+      "HER_RUB_PUNTO"
     ],
     "rel_meta": {
       "rel_ins": {
-        "INS_CUADERNO": "principal",
-        "INS_PORT": "principal",
-        "INS_INFO_LAB": "principal",
-        "INS_INFO_INV": "principal",
-        "INS_MONO": "principal",
-        "INS_ENSAYO": "principal",
-        "INS_COM_TEXT": "principal",
-        "INS_COM_GRAF": "principal",
-        "INS_RESUMEN": "principal",
-        "INS_ESQUEMA": "principal",
-        "INS_MAP_CONC": "principal",
-        "INS_MAP_MENT": "principal",
-        "INS_LINEA": "principal",
-        "INS_GLOS": "principal",
-        "INS_FICHA_LECT": "principal",
-        "INS_RESEÑA": "principal",
         "INS_ART_DIV": "principal",
-        "INS_MEM_PROY": "principal",
+        "INS_BLOG": "principal",
+        "INS_BORR": "complementaria",
         "INS_CASO": "complementaria",
+        "INS_COMIC": "principal",
+        "INS_COM_GRAF": "principal",
+        "INS_COM_TEXT": "principal",
+        "INS_CUADERNO": "principal",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_DEF_PROY": "complementaria",
         "INS_DOCS": "complementaria",
+        "INS_DOC_COL": "complementaria",
+        "INS_ENSAYO": "principal",
+        "INS_ENT_PAR": "complementaria",
+        "INS_ESQUEMA": "principal",
+        "INS_FICHA_LECT": "principal",
+        "INS_GLOS": "principal",
         "INS_INFOG": "principal",
+        "INS_INFO_INV": "principal",
+        "INS_INFO_LAB": "principal",
+        "INS_LINEA": "principal",
+        "INS_MAP_CONC": "principal",
+        "INS_MAP_INI": "complementaria",
+        "INS_MAP_MENT": "principal",
+        "INS_MAQUETA": "principal",
+        "INS_MEM_PROY": "principal",
+        "INS_MICROVIDEO": "complementaria",
+        "INS_MODELO_DIG": "principal",
+        "INS_MONO": "principal",
+        "INS_PODCAST": "complementaria",
+        "INS_PORT": "principal",
+        "INS_PORT_DIG": "complementaria",
         "INS_POSTER": "principal",
         "INS_PRESENT_DIG": "principal",
-        "INS_VIDEO": "principal",
-        "INS_TUTORIAL": "principal",
-        "INS_COMIC": "principal",
-        "INS_MAQUETA": "principal",
-        "INS_MODELO_DIG": "principal",
         "INS_PROTOTIPO": "principal",
-        "INS_WEB": "principal",
-        "INS_BLOG": "principal",
-        "INS_DOC_COL": "complementaria",
-        "INS_PORT_DIG": "complementaria",
-        "INS_MAP_INI": "complementaria",
-        "INS_BORR": "complementaria",
-        "INS_ENT_PAR": "complementaria",
-        "INS_DEF_PROY": "complementaria",
-        "INS_PODCAST": "complementaria",
-        "INS_CUAD_CAMPO": "complementaria",
-        "INS_MICROVIDEO": "complementaria"
+        "INS_RESEÑA": "principal",
+        "INS_RESUMEN": "principal",
+        "INS_STORYBOARD": "principal",
+        "INS_TUTORIAL": "principal",
+        "INS_VIDEO": "principal",
+        "INS_WEB": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_GUIA_CORR": "complementaria",
         "HER_ESC_DESC": "complementaria",
-        "HER_FICHA_RETRO": "complementaria"
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_RUB_ANA": "principal",
+        "HER_RUB_PUNTO": "principal"
       }
     },
     "metac_ids": [
@@ -509,7 +517,8 @@
       "HER_BAREMO",
       "HER_PLANT_CORR",
       "HER_RUB_ANA",
-      "HER_ESC_NUM"
+      "HER_ESC_NUM",
+      "HER_TAB_ESPEC"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -527,11 +536,12 @@
         "INS_CUEST_DIG": "principal"
       },
       "rel_her": {
-        "HER_GUIA_CORR": "principal",
         "HER_BAREMO": "complementaria",
+        "HER_ESC_NUM": "complementaria",
+        "HER_GUIA_CORR": "principal",
         "HER_PLANT_CORR": "complementaria",
         "HER_RUB_ANA": "complementaria",
-        "HER_ESC_NUM": "complementaria"
+        "HER_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -600,7 +610,8 @@
       "HER_RUB_ORAL",
       "HER_ESC_OBS",
       "HER_LISTA",
-      "HER_REG_ANE"
+      "HER_REG_ANE",
+      "HER_ESCAL_FB"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -620,10 +631,11 @@
         "INS_MICROVIDEO": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ORAL": "principal",
+        "HER_ESCAL_FB": "complementaria",
         "HER_ESC_OBS": "complementaria",
         "HER_LISTA": "complementaria",
-        "HER_REG_ANE": "complementaria"
+        "HER_REG_ANE": "complementaria",
+        "HER_RUB_ORAL": "principal"
       }
     },
     "metac_ids": [
@@ -771,7 +783,8 @@
       "INS_CUEST_DIG",
       "INS_RESP_CORTA",
       "INS_TEST",
-      "INS_SEMAF"
+      "INS_SEMAF",
+      "INS_TARJ_RESP"
     ],
     "related_tools": [
       "HER_FORM_DIG",
@@ -782,15 +795,16 @@
     ],
     "rel_meta": {
       "rel_ins": {
-        "INS_PREG_ORAL": "complementaria",
-        "INS_TEST": "complementaria",
-        "INS_RESP_CORTA": "complementaria",
+        "INS_BILLETE": "principal",
         "INS_CUEST_DIG": "complementaria",
         "INS_KPSI": "principal",
-        "INS_MAP_INI": "principal",
         "INS_LLUVIA": "principal",
+        "INS_MAP_INI": "principal",
+        "INS_PREG_ORAL": "complementaria",
+        "INS_RESP_CORTA": "complementaria",
         "INS_SEMAF": "complementaria",
-        "INS_BILLETE": "principal"
+        "INS_TARJ_RESP": "principal",
+        "INS_TEST": "complementaria"
       },
       "rel_her": {
         "HER_FORM_DIG": "principal",
@@ -983,7 +997,9 @@
       "HER_ESC_AUTO",
       "HER_HIST_REV",
       "HER_PANEL",
-      "HER_DECL_IA"
+      "HER_DECL_IA",
+      "HER_ESCAL_FB",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
@@ -1005,14 +1021,16 @@
         "INS_BIT_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_PROC": "principal",
-        "HER_FICHA_RETRO": "complementaria",
-        "HER_HOJA_IND": "complementaria",
-        "HER_REG_COMP": "complementaria",
+        "HER_BASE_ORIENT": "principal",
+        "HER_DECL_IA": "principal",
+        "HER_ESCAL_FB": "complementaria",
         "HER_ESC_AUTO": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
         "HER_HIST_REV": "complementaria",
+        "HER_HOJA_IND": "complementaria",
         "HER_PANEL": "complementaria",
-        "HER_DECL_IA": "principal"
+        "HER_REG_COMP": "complementaria",
+        "HER_RUB_PROC": "principal"
       }
     },
     "metac_ids": [

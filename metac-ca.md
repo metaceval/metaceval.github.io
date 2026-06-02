@@ -66,13 +66,13 @@ La diferència principal és que «Què et fa dir això?» funciona com una ruti
 
 Per això, «Què et fa dir això?» és especialment útil per iniciar una conversa, activar l'observació o fer visibles les interpretacions de l'alumnat. CER és més adequat quan es vol elaborar una resposta final, una explicació científica, una conclusió de laboratori o un text argumentat.
 
-**Tècniques relacionades:** Veig, penso, em pregunto, Genera hipòtesis, Afirmació, evidència i raonament (CER)
+**Tècniques relacionades:** Genera hipòtesis, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació incidental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Diari del docent, Escala descriptiva, Escala d'observació, Escala de valoració, Guia d'observació, Notes de camp, Rúbrica de treball cooperatiu
 
 ---
 
@@ -99,7 +99,7 @@ En una classe de biologia, el professor entrega un text breu sobre la circulaci�
 
 Com a síntesi final, cada estudiant escriu tres frases que expliquin el procés complet sense copiar literalment el text. El professor revisa si han distingit la informació essencial dels detalls secundaris i si l’esquema reflecteix correctament les relacions entre les parts.
 
-**Tècniques relacionades:** Contrasta i compara, Paraula, idea, frase, Mapa conceptual a quatre bandes
+**Tècniques relacionades:** Contrasta i compara, Mapa conceptual a quatre bandes, Paraula, idea, frase, Titulars, Model Frayer, Genera, ordena, connecta, elabora, Resum en una frase
 
 **Com avaluar:**
 
@@ -148,7 +148,7 @@ Després d’estudiar percentatges i interès simple, el professor planteja una 
 
 L’alumnat ha d’aplicar els coneixements treballats, calcular el preu final en cada cas i justificar la seva decisió. Al final, explica quins conceptes ha utilitzat, quins passos ha seguit i quins errors ha hagut de corregir. La rutina permet comprovar si els coneixements es poden utilitzar en una situació realista i no només en exercicis aïllats.
 
-**Tècniques relacionades:** Situació problema, Genera solucions, Avaluació autèntica
+**Tècniques relacionades:** Genera solucions, Situació problema, Avaluació autèntica
 
 **Com avaluar:**
 
@@ -210,15 +210,15 @@ Cada estudiant escull una perspectiva i prepara una intervenció breu. Per exemp
 
 Al final, el grup comparteix quines noves idees han aparegut i quines preguntes queden obertes. La rutina ajuda a comprendre que un mateix problema pot tenir conseqüències diferents segons la perspectiva adoptada.
 
-**Tècniques relacionades:** Joc de rol, Role on the Wall (Silueta del personatge), Controvèrsia acadèmica
+**Tècniques relacionades:** Controvèrsia acadèmica, Joc de rol, Role on the Wall (Silueta del personatge)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Rúbrica de treball cooperatiu, Sociograma
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Estudi de casos, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -276,7 +276,7 @@ Objectiu: Millorar la comprensió dels alumnes sobre la Revolució Francesa
   - Proporcionar *feedback* sobre la qualitat de les comparacions
 - Resultat: Millora de la comprensió dels alumnes sobre la Revolució Francesa i desenvolupament d'habilitats de pensament crític i comunicació.
 
-**Tècniques relacionades:** Les dues columnes, Detecta patrons, Analitza i sintetitza
+**Tècniques relacionades:** Analitza i sintetitza, Detecta patrons, Les dues columnes, Model Frayer
 
 **Com avaluar:**
 
@@ -364,7 +364,7 @@ Aquesta rutina pot ser útil per ajudar als alumnes a millorar la comprensió d'
 
 **Recursos:** [BoardLive: Pissarra col·laborativa](https://boardlive.github.io/)
 
-**Tècniques relacionades:** Visual Thinking (pensament visual), Titulars, Paraula, idea, frase
+**Tècniques relacionades:** Paraula, idea, frase, Titulars, Visual Thinking (pensament visual)
 
 **Com avaluar:**
 
@@ -418,7 +418,7 @@ Després, en parelles, formulen relacions com: “Quan el lloguer supera un ter�
 
 L’activitat acaba amb una discussió sobre com aquests patrons poden ajudar a prendre decisions d’estalvi, consum o planificació econòmica.
 
-**Tècniques relacionades:** Contrasta i compara, Matriu de problemes, Profunditat del coneixement (Depth of Knowledge, DOK)
+**Tècniques relacionades:** Contrasta i compara, Els 5 per què, Matriu de problemes, Profunditat del coneixement (Depth of Knowledge, DOK)
 
 **Com avaluar:**
 
@@ -453,15 +453,15 @@ El professor recull les respostes o les revisa visualment i dedica els primers m
 
 **Recursos:** [Escala de valoració](https://jjdeharo.github.io/directo/escala.html)
 
-**Tècniques relacionades:** Muddiest Point (El punt més confús), Tiquet de sortida (exit ticket), Minute Paper (Paper d'un minut)
+**Tècniques relacionades:** Diana d'avaluació, KWL (Sé, Vull saber, He après), Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Tiquet de sortida (exit ticket)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Escala d'autoavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Autoavaluació, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
 
 ---
 
@@ -491,15 +491,15 @@ Rutina que guia l'alumnat per pensar sobre el seu propi aprenentatge mitjançant
 #### Exemple
 En acabar una pràctica de laboratori, els alumnes completen l'escala indicant què han après sobre el disseny experimental, com han controlat variables i en quins altres experiments podrien aplicar aquest procediment.
 
-**Tècniques relacionades:** Diari d'aprenentatge, Pensava... ara penso, Pont 3 - 2 - 1
+**Tècniques relacionades:** Diari d'aprenentatge, Pensava... ara penso, Pont 3 - 2 - 1, Connecta, amplia, desafia, Hàbits mentals
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació incidental, Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Declaració d'ús d'IA i fonts, Diari del docent, Escala d'autoavaluació, Escala de progrés, Escala verbal, Fitxa de retroalimentació, Historial de revisions, Llista de verificació d'autoavaluació, Notes de camp, Tauler de progrés, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica d'autoavaluació, Rúbrica digital
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Autoavaluació, Enfocament competencial, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -541,15 +541,15 @@ En una classe de biologia, el professor mostra dues plantes de la mateixa espèc
 
 L’alumnat genera hipòtesis com: manca de llum, excés de reg, carència de sals minerals o presència d’una malaltia. Després, cada grup decideix quines dades necessitaria per comprovar la seva hipòtesi: condicions de cultiu, quantitat d’aigua, tipus de sòl, exposició a la llum o presència d’insectes. Finalment, comparen les evidències disponibles i revisen quina hipòtesi resulta més plausible.
 
-**Tècniques relacionades:** Aprenentatge basat en indagació, Parelles de detectius, Què et fa dir això?
+**Tècniques relacionades:** Què et fa dir això?, Aprenentatge basat en indagació, Parelles de detectius, Veig, penso, em pregunto, Prediu, observa, explica (POE), Concept Cartoon
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Banc digital d'evidències, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Indagació, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Indagació, Resolució de problemes
 
 ---
 
@@ -594,11 +594,11 @@ Després, cada grup valora les propostes amb tres criteris: facilitat d’ús, i
 
 **Recursos:** [Pluja d'idees i vots](https://jjdeharo.github.io/directo/ideas.html)
 
-**Tècniques relacionades:** Pensament de disseny (Design Thinking), Matriu de problemes, Situació problema
+**Tècniques relacionades:** Aplica els coneixements, Pensament de disseny (Design Thinking), Matriu de problemes, Situació problema
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Proves específiques, Sondeig i qüestionament
 
 - *Instruments:* Llista de verificació o control, Rúbrica de treball cooperatiu
 
@@ -634,15 +634,15 @@ Abans d'estudiar els ecosistemes, els alumnes escriuen què saben sobre cadenes 
 
 **Recursos:** [Núvol de paraules](https://jjdeharo.github.io/directo/nube.html)
 
-**Tècniques relacionades:** Penso, m'interessa, investigo, Pont 3 - 2 - 1, El semàfor
+**Tècniques relacionades:** El model 5E, El semàfor, El que sé i el que sabem, Pensava... ara penso, Penso, m'interessa, investigo, Pont 3 - 2 - 1, Connecta, amplia, desafia
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -678,15 +678,15 @@ El professor planteja la següent idea o proposta: "L'escola està pensant en im
 
 **Recursos:** [Votació simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Tècniques relacionades:** Les dues columnes, Revisa les conseqüències, Grup nominal
+**Tècniques relacionades:** M'agrada, no m'agrada, Revisa les conseqüències, Grup nominal, Les dues columnes
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament, Triangulació d'evidències
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Conversor de nivells a qualificació, Fitxa de retroalimentació, Llista d'indicadors per criteri, Mapa d'evidències per criteri, Perfil d'assoliment, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica oral, Taula de qualificació per criteris
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -731,15 +731,15 @@ En una classe de biologia, el professor planteja el problema: “Una planta de l
 
 A partir de la cadena de preguntes, l’alumnat proposa comprovar la humitat del sòl, revisar la ubicació de la planta i establir un pla de reg. La tècnica ajuda a passar d’una explicació superficial a causes més concretes i comprovables.
 
-**Tècniques relacionades:** Pregunta el perquè, Revisa les conseqüències, Detecta patrons
+**Tècniques relacionades:** Detecta patrons, Pregunta el perquè, Revisa les conseqüències
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
 
 ---
 
@@ -822,15 +822,15 @@ En petits grups, comparteixen les seves eleccions i justifiquen per què les han
 
 **Recursos:** [Núvol de paraules](https://jjdeharo.github.io/directo/nube.html)
 
-**Tècniques relacionades:** Lectura compartida, Titulars, Analitza i sintetitza
+**Tècniques relacionades:** Analitza i sintetitza, CSI: Color, Símbol, Imatge, El joc de les paraules, Lectura compartida, Lectura fantasma, Titulars, Tertúlia dialògica, Model Frayer, Ensenyament recíproc, Apunts Cornell, Resum en una frase
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Anàlisi d'interaccions digitals, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Analítiques d'aprenentatge, Barem, Escala numèrica, Fitxa de retroalimentació, Formulari digital, Guia de correcció, Full de càlcul d'avaluació, Plantilla de correcció, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Traçabilitat, autoria i ús d'IA
 
 ---
 
@@ -866,11 +866,11 @@ Després d’observar un esquema, analitzar un experiment senzill i comentar el 
 
 El docent pot tancar l’activitat demanant que cada estudiant indiqui quina idea ha canviat i quina evidència o explicació l’ha ajudat a canviar-la.
 
-**Tècniques relacionades:** Pont 3 - 2 - 1, Escala de metacognició, KWL (Sé, Vull saber, He après)
+**Tècniques relacionades:** Diari d'aprenentatge, Escala de metacognició, KWL (Sé, Vull saber, He après), Pont 3 - 2 - 1, Prediu, observa, explica (POE), Connecta, amplia, desafia
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
 - *Dimensions:* Finalitat diagnòstica
 
@@ -926,7 +926,7 @@ Finalment, el professor demana als alumnes que comparteixin les idees que han ti
 
 Després de compartir les idees sobre "Investigo", el professor guia als alumnes en la selecció d'una o més preguntes de recerca per investigar durant la resta de la unitat.
 
-**Tècniques relacionades:** KWL (Sé, Vull saber, He après), Aprenentatge basat en indagació, Aprenentatge basat en preguntes  (ABPC)
+**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes  (ABPC), KWL (Sé, Vull saber, He après), Pont 3 - 2 - 1, Veig, penso, em pregunto, Afirmació, suport i pregunta (Claim-Support-Question), Connecta, amplia, desafia, Tècnica de formulació de preguntes (QFT)
 
 **Com avaluar:**
 
@@ -979,7 +979,7 @@ En una classe d’història, el professor introdueix el tema de les migracions d
 
 Els alumnes busquen respostes en mapes, gràfics de població i testimonis breus. Després presenten una explicació basada en evidències. La rutina ajuda a transformar una observació inicial en preguntes històriques que requereixen causes, context i relacions entre factors.
 
-**Tècniques relacionades:** Els 5 per què, Aprenentatge basat en preguntes  (ABPC), Pregunta i respon
+**Tècniques relacionades:** Aprenentatge basat en preguntes  (ABPC), Els 5 per què, Pregunta i respon, Ensenyament recíproc, Tècnica de formulació de preguntes (QFT)
 
 **Com avaluar:**
 
@@ -987,7 +987,7 @@ Els alumnes busquen respostes en mapes, gràfics de població i testimonis breus
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació inclusiva i DUA, Indagació
 
 ---
 
@@ -1015,7 +1015,7 @@ Els alumnes responen primer de manera individual i després comparen les respost
 
 **Recursos:** [Votació simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Tècniques relacionades:** Cadena de Preguntes, Aprenentatge basat en preguntes  (ABPC), Pregunta el perquè
+**Tècniques relacionades:** Aprenentatge basat en preguntes  (ABPC), Cadena de Preguntes, Equips d'oients, Pregunta el perquè, Ensenyament recíproc, Tècnica de formulació de preguntes (QFT)
 
 **Com avaluar:**
 
@@ -1023,7 +1023,7 @@ Els alumnes responen primer de manera individual i després comparen les respost
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
 
 ---
 
@@ -1044,11 +1044,11 @@ Aquesta rutina es fa dues vegades, una en començar un tema i altre en acabar-lo
 
 1. Després es comparteixen les conclusions de cada un amb la resta de la classe.
 
-**Tècniques relacionades:** Pensava... ara penso, KWL (Sé, Vull saber, He après), Penso, m'interessa, investigo
+**Tècniques relacionades:** Escala de metacognició, KWL (Sé, Vull saber, He après), Pensava... ara penso, Penso, m'interessa, investigo
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
 - *Dimensions:* Finalitat diagnòstica
 
@@ -1096,13 +1096,15 @@ En una classe de tecnologia, el professor presenta la proposta d’implantar un 
 
 Després, cada grup classifica les conseqüències en positives, negatives i condicions necessàries perquè la mesura funcioni. La rutina ajuda a valorar una decisió abans d’aplicar-la i a tenir en compte efectes que no apareixen a primera vista.
 
-**Tècniques relacionades:** Matriu de problemes, La brúixola (punts cardinals), Les dues columnes
+**Tècniques relacionades:** La brúixola (punts cardinals), Els 5 per què, Matriu de problemes, Les dues columnes
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
+
+- *Dimensions:* Resolució de problemes
 
 ---
 
@@ -1135,11 +1137,13 @@ En literatura, els alumnes analitzen un personatge d'una novel·la. Dins de la s
 
 **Recursos:** [BoardLive: Pissarra col·laborativa](https://boardlive.github.io/)
 
-**Tècniques relacionades:** Joc de rol, Cercle de punts de vista, Visual Thinking (pensament visual)
+**Tècniques relacionades:** Cercle de punts de vista, Joc de rol, Visual Thinking (pensament visual)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+
+- *Dimensions:* Estudi de casos, Evidència de desempenys
 
 ---
 
@@ -1221,7 +1225,7 @@ Titular final: "El plàstic d'un sol ús és un problema ambiental que ha de ser
 
 Canvis en el pensament: Els alumnes van començar amb una visió molt més positiva del plàstic d'un sol ús, però a mesura que van aprendre més sobre les conseqüències negatives per al medi ambient, van adonar-se que aquest tipus de plàstic és realment un problema que s'ha de solucionar.
 
-**Tècniques relacionades:** Paraula, idea, frase, CSI: Color, Símbol, Imatge, Analitza i sintetitza
+**Tècniques relacionades:** Analitza i sintetitza, CSI: Color, Símbol, Imatge, Digital storytelling (relats digitals), Paraula, idea, frase, Resum en una frase
 
 **Com avaluar:**
 
@@ -1260,13 +1264,13 @@ En una classe d’història de l’art, el professor mostra una fotografia d’u
 
 A “Penso”, interpreta què pot estar passant: una protesta ciutadana, una reivindicació laboral o una demanda política. A “Em pregunto”, formula preguntes: “En quin any va passar?”, “Què reclamaven?”, “Qui va organitzar la protesta?” o “Quines conseqüències va tenir?”. La rutina ajuda a separar observació, interpretació i preguntes de recerca.
 
-**Tècniques relacionades:** Què et fa dir això?, Genera hipòtesis, Penso, m'interessa, investigo
+**Tècniques relacionades:** Què et fa dir això?, Genera hipòtesis, Penso, m'interessa, investigo, Prediu, observa, explica (POE), Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Dimensions:* Finalitat diagnòstica, Avaluació inclusiva i DUA, Finalitat sumativa
+- *Dimensions:* Finalitat diagnòstica, Avaluació inclusiva i DUA, Indagació, Finalitat sumativa
 
 ---
 
@@ -1297,13 +1301,13 @@ Rutina senzilla per analitzar una proposta, alternativa o experiència prèvia m
 #### Exemple
 Abans de decidir si una activitat es farà individualment o en grup, la classe elabora dues columnes amb pros i contres de cada opció i justifica quina organització sembla més adequada.
 
-**Tècniques relacionades:** La brúixola (punts cardinals), Matriu de problemes, Contrasta i compara
+**Tècniques relacionades:** Contrasta i compara, La brúixola (punts cardinals), Matriu de problemes, Revisa les conseqüències, Model d'argumentació de Toulmin, Mapa d'arguments
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes, Finalitat sumativa
+- *Dimensions:* Estudi de casos, Avaluació inclusiva i DUA, Resolució de problemes, Finalitat sumativa
 
 ---
 
@@ -1349,7 +1353,7 @@ En una pràctica de biologia, l'alumnat observa que unes llavors han germinat mi
 - **Evidència**: En el grup amb aigua van germinar 18 de 20 llavors, mentre que en el grup sense aigua no en va germinar cap.
 - **Raonament**: La germinació requereix que la llavor activi el metabolisme i rehidrati els teixits. Les dades mostren que les llavors amb aigua van iniciar el procés i les que no van rebre aigua no ho van fer. Per això, la diferència entre ambdós grups dona suport a l'afirmació que l'aigua és necessària per a la germinació.
 
-**Tècniques relacionades:** Indagació guiada per l'argumentació (ADI), Què et fa dir això?, Aprenentatge basat en indagació
+**Tècniques relacionades:** Què et fa dir això?, Aprenentatge basat en indagació, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Controvèrsia estructurada amb evidències
 
 **Com avaluar:**
 
@@ -1394,15 +1398,15 @@ En biologia, el professor pregunta: “Què passarà si col·loquem una patata p
 
 Després es realitza l'experiència. L'alumnat observa que la patata perd fermesa i massa. A continuació, compara el resultat amb la seva predicció i explica el procés mitjançant l'osmosi: l'aigua surt de les cèl·lules cap al medi més concentrat en sal. La tècnica ajuda a revisar idees intuïtives sobre el moviment de l'aigua i a construir una explicació basada en evidències.
 
-**Tècniques relacionades:** Genera hipòtesis, Aprenentatge basat en indagació, Pensava... ara penso, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), El model 5E
+**Tècniques relacionades:** Aprenentatge basat en indagació, El model 5E, Genera hipòtesis, Pensava... ara penso, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), Concept Cartoon
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Simulació
 
 ---
 
@@ -1430,13 +1434,13 @@ Afirmació, suport i pregunta, o *Claim-Support-Question*, és una rutina de pen
 #### Exemple
 En història, després d'analitzar un gràfic sobre població urbana, un alumne escriu: “Afirmació: les ciutats van créixer molt durant la industrialització. Suport: el gràfic mostra un augment sostingut de població urbana entre 1850 i 1900. Pregunta: aquest creixement va ser igual en tots els grups socials o va afectar més uns que altres?”.
 
-**Tècniques relacionades:** Afirmació, evidència i raonament (CER), Què et fa dir això?, Veig, penso, em pregunto, Model d'argumentació de Toulmin, Seminari socràtic, Penso, m'interessa, investigo
+**Tècniques relacionades:** Què et fa dir això?, Penso, m'interessa, investigo, Seminari socràtic, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), Model d'argumentació de Toulmin
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Resolució de problemes
+- *Dimensions:* Indagació, Resolució de problemes
 
 ---
 
@@ -1468,13 +1472,13 @@ Connecta, amplia, desafia és una rutina de pensament de Project Zero que ajuda 
 #### Exemple
 Després de llegir un text sobre canvi climàtic, l’alumnat dedica 8 minuts a completar tres apartats. Connecta el CO2 amb la combustió estudiada en química, amplia la comprensió amb el paper del metà i planteja com a desafiament entendre per què els efectes no són iguals a totes les regions.
 
-**Tècniques relacionades:** Pensava... ara penso, KWL (Sé, Vull saber, He après), Penso, m'interessa, investigo, Escala de metacognició
+**Tècniques relacionades:** Escala de metacognició, KWL (Sé, Vull saber, He après), Pensava... ara penso, Penso, m'interessa, investigo
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Dimensions:* Finalitat diagnòstica
+- *Dimensions:* Finalitat diagnòstica, Indagació
 
 ---
 
@@ -1506,11 +1510,13 @@ Genera, ordena, connecta, elabora és una rutina de pensament de Project Zero pe
 #### Exemple
 En iniciar el sistema circulatori, els alumnes generen durant 3 minuts termes com cor, artèries, venes, sang, oxigen i capil·lars. Després els ordenen, els connecten amb fletxes i elaboren el mapa afegint pressió sanguínia, intercanvi de gasos i transport de nutrients.
 
-**Tècniques relacionades:** Mapa conceptual a quatre bandes, Visual Thinking (pensament visual), Model Frayer, Analitza i sintetitza
+**Tècniques relacionades:** Analitza i sintetitza, Mapa conceptual a quatre bandes, Visual Thinking (pensament visual), Model Frayer
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+
+- *Dimensions:* Finalitat diagnòstica
 
 ---
 
@@ -1543,11 +1549,13 @@ Estira-i-arronsa és una rutina de pensament de Project Zero per analitzar dilem
 #### Exemple
 En biologia, la classe analitza si s’ha de permetre l’ús d’animals en investigació biomèdica. Durant 10 minuts, els grups col·loquen arguments a favor i en contra: desenvolupament de tractaments, patiment animal, regulació ètica i alternatives experimentals. Al final, formulen una postura matisada.
 
-**Tècniques relacionades:** Controvèrsia acadèmica, Controvèrsia estructurada amb evidències, Seminari socràtic, Model d'argumentació de Toulmin
+**Tècniques relacionades:** Controvèrsia acadèmica, Seminari socràtic, Model d'argumentació de Toulmin, Controvèrsia estructurada amb evidències
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
+
+- *Dimensions:* Indagació
 
 ---
 
@@ -1577,13 +1585,13 @@ Després, el professor llegeix les cartes sense dir-ne el nom. El grup intenta e
 
 Font: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase.
 
-**Tècniques relacionades:** La caixa, L'entrevista, Coneguem-nos
+**Tècniques relacionades:** Coneguem-nos, La caixa, L'entrevista, M'agrada, no m'agrada
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Acta d'avaluació, Rúbrica de treball cooperatiu, Sociograma
 
 ---
 
@@ -1631,7 +1639,7 @@ Durant la primera setmana de classe, el professor entrega una fitxa amb frases c
 
 Durant uns minuts, l’alumnat es mou per l’aula, pregunta als companys i anota noms a la fitxa. Després, es fa una posada en comú: cada estudiant comenta alguna cosa que ha descobert d’una altra persona. L’activitat ajuda a trencar el gel, afavoreix la interacció inicial i permet que el grup trobi afinitats més enllà dels grups habituals.
 
-**Tècniques relacionades:** Qui és qui?, L'entrevista, Seguir la pista
+**Tècniques relacionades:** Qui és qui?, L'entrevista, Seguir la pista, Les pàgines grogues
 
 **Com avaluar:**
 
@@ -1639,7 +1647,7 @@ Durant uns minuts, l’alumnat es mou per l’aula, pregunta als companys i anot
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat sumativa
+- *Dimensions:* Finalitat sumativa, Traçabilitat, autoria i ús d'IA
 
 ---
 
@@ -1690,15 +1698,15 @@ L’equip completa un esquema general del procés digestiu, relacionant les fase
 
 **Recursos:** [GeCo - Generador d'Equips Cooperatius](https://jjdeharo.github.io/geco/)
 
-**Tècniques relacionades:** CO-OP CO-OP, Els quatre savis, Equips paral·lels
+**Tècniques relacionades:** CO-OP CO-OP, Els quatre savis, Equips paral·lels, Rols cooperatius
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Diana d'avaluació, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Avaluació inclusiva i DUA
+- *Dimensions:* Evidència de desempenys, Heteroavaluació, Avaluació inclusiva i DUA
 
 ---
 
@@ -1742,9 +1750,9 @@ Després, cada alumne prepara la seva pròpia caixa amb tres objectes que expliq
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament, Triangulació d'evidències
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Declaració d'ús d'IA i fonts, Fitxa de valoració, Historial de revisions, Full de seguiment individual, Informe individual d'avaluació, Matriu de valoració, Tauler de progrés, Rúbrica de treball cooperatiu, Rúbrica digital, Semàfor d'avaluació
 
 ---
 
@@ -1783,7 +1791,7 @@ En una sessió de tutoria, el professor traça una línia imaginària a l’aula
 
 L’alumnat es desplaça a un costat o a l’altre segons hi estigui d’acord o no; els qui hi estan a mitges es queden a prop de la línia. Després, el grup comenta què ha descobert: algunes persones comparteixen preferències inesperades i altres veuen que no són les úniques amb determinades dificultats. La dinàmica ajuda a conèixer el grup i a normalitzar diferències.
 
-**Tècniques relacionades:** Seguir la pista, Qui és qui?, La brúixola (punts cardinals)
+**Tècniques relacionades:** Qui és qui?, La brúixola (punts cardinals), Seguir la pista
 
 **Com avaluar:**
 
@@ -1825,11 +1833,11 @@ A la nostra vida hi ha elements significatius. Si es comparteixen s'està recone
 
 Font: ECO. (2007). Dinámicas para hacer grupo.
 
-**Tècniques relacionades:** La caixa, L'entrevista, M'agrada, no m'agrada
+**Tècniques relacionades:** Coneguem-nos, La caixa, L'entrevista, M'agrada, no m'agrada
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Intercanvis orals
+- *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -1862,13 +1870,15 @@ En una tutoria sobre convivència, cada alumne rep tres fitxes per debatre la pr
 
 Qui ja ha utilitzat les tres fitxes escolta fins que tothom hagi participat. Això evita que sempre parlin els mateixos i dona espai als qui solen intervenir menys. Al final, el grup selecciona tres normes compartides i comenta si la distribució de torns ha millorat la qualitat del diàleg.
 
-**Tècniques relacionades:** La taula rodona, Fishbowl (Peixera), Grup nominal
+**Tècniques relacionades:** Fishbowl (Peixera), La taula rodona, Grup nominal, Rols cooperatius
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
+
+- *Dimensions:* Evidència de desempenys
 
 ---
 
@@ -1899,7 +1909,7 @@ Tècnica estructurada de generació i priorització d'idees que facilita la part
 #### Exemple
 Abans d'escollir el tema d'un projecte, cada alumne proposa diverses opcions. Després es recullen totes, s'aclareixen i es voten per seleccionar la proposta que representi millor el grup.
 
-**Tècniques relacionades:** Talking Chips (Fitxes de conversa), RallyRobin, La brúixola (punts cardinals)
+**Tècniques relacionades:** Graffiti Cooperatiu, La brúixola (punts cardinals), RallyRobin, RoundRobin, Talking Chips (Fitxes de conversa), World Café
 
 **Com avaluar:**
 
@@ -1907,7 +1917,7 @@ Abans d'escollir el tema d'un projecte, cada alumne proposa diverses opcions. De
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -1938,7 +1948,7 @@ Estructura d'aprenentatge cooperatiu en parelles en què un alumne actua com a t
 #### Exemple
 En matemàtiques, un alumne tutor acompanya el seu company en la resolució d'un problema. Li pregunta quines dades té, quina operació creu necessària i per què, però no li escriu la resposta final.
 
-**Tècniques relacionades:** Els quatre savis, Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equip-parella-individual
+**Tècniques relacionades:** Equip-parella-individual, Els quatre savis, Equips d'ajuda mútua / TAI (Team Assisted Individualization), Les pàgines grogues, Co-docència (Co-teaching), Exemples resolts, Alliberament gradual de la responsabilitat, Pensament en veu alta
 
 **Com avaluar:**
 
@@ -1946,7 +1956,7 @@ En matemàtiques, un alumne tutor acompanya el seu company en la resolució d'un
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -1977,7 +1987,7 @@ Estructura cooperativa que combina el treball en equips heterogenis amb la instr
 #### Exemple
 En càlcul, cada alumne treballa una seqüència d'exercicis ajustada al seu nivell. Abans de demanar ajuda al professor, consulta amb el seu equip, que l'orienta i revisa el procediment.
 
-**Tècniques relacionades:** Tutoria entre iguals (Peer Tutoring), STAD (Student Teams Achievement Divisions), Equip-parella-individual
+**Tècniques relacionades:** Equip-parella-individual, STAD (Student Teams Achievement Divisions), Tutoria entre iguals (Peer Tutoring), Aprenentatge de domini
 
 **Com avaluar:**
 
@@ -1985,7 +1995,7 @@ En càlcul, cada alumne treballa una seqüència d'exercicis ajustada al seu niv
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Enfocament competencial, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
 
 ---
 
@@ -2016,7 +2026,7 @@ Estructura cooperativa en què diferents grups s'especialitzen en pràctiques, t
 #### Exemple
 En biologia, mitja classe fa una pràctica d'observació de cèl·lules vegetals i l'altra mitja una de cèl·lules animals. Després es formen equips mixtos per comparar resultats i elaborar una conclusió conjunta.
 
-**Tècniques relacionades:** El Trencaclosques ("Jigsaw"), Els quatre savis, Estacions d'aprenentatge
+**Tècniques relacionades:** El Trencaclosques ("Jigsaw"), Estacions d'aprenentatge, Els quatre savis
 
 **Com avaluar:**
 
@@ -2053,15 +2063,15 @@ Dinàmica de presa de decisions que mostra de forma pràctica l'eficàcia del tr
 #### Exemple
 El grup ha d'ordenar els objectes més importants per sobreviure després d'un allunatge. Primer decideix cada alumne, després l'equip i finalment es compara amb la solució experta.
 
-**Tècniques relacionades:** Placemat consensus, Matriu de problemes, La taula rodona
+**Tècniques relacionades:** La taula rodona, Matriu de problemes, Placemat consensus
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Avaluació gamificada, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -2092,7 +2102,7 @@ Dinàmica de cohesió en què cada estudiant crea un anunci personal oferint alg
 #### Exemple
 Un alumne ofereix ajuda per utilitzar un full de càlcul, un altre per dibuixar esquemes i un altre per explicar regles d'un joc. La classe crea un directori al qual pot acudir quan necessiti suport.
 
-**Tècniques relacionades:** La caixa, Tutoria entre iguals (Peer Tutoring), Coneguem-nos
+**Tècniques relacionades:** Coneguem-nos, La caixa, Tutoria entre iguals (Peer Tutoring)
 
 **Com avaluar:**
 
@@ -2128,7 +2138,7 @@ Model de docència compartida en què dos docents treballen conjuntament en la p
 #### Exemple
 En una classe inclusiva, un docent condueix l'explicació mentre un altre observa dificultats, ofereix suports puntuals i després tots dos reorganitzen l'activitat segons les necessitats detectades.
 
-**Tècniques relacionades:** Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Estacions d'aprenentatge
+**Tècniques relacionades:** Estacions d'aprenentatge, Coneixement tecnològic, pedagògic i del contingut (TPACK), Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring)
 
 **Com avaluar:**
 
@@ -2136,7 +2146,7 @@ En una classe inclusiva, un docent condueix l'explicació mentre un altre observ
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA
 
 ---
 
@@ -2180,7 +2190,7 @@ En un projecte per crear un pòdcast d’aula, un alumne coordina el repartiment
 
 En acabar, l’equip revisa si cada rol ha ajudat a organitzar millor la feina: si el guió era clar, si tothom hi ha participat, si s’han respectat els temps i si el producte final comunica bé el missatge. La tècnica permet que el treball cooperatiu sigui més ordenat i que les responsabilitats siguin visibles.
 
-**Tècniques relacionades:** Talking Chips (Fitxes de conversa), Llapis al centre, El Trencaclosques ("Jigsaw")
+**Tècniques relacionades:** El Trencaclosques ("Jigsaw"), Llapis al centre, Repartir punts, Talking Chips (Fitxes de conversa)
 
 **Com avaluar:**
 
@@ -2188,7 +2198,7 @@ En acabar, l’equip revisa si cada rol ha ajudat a organitzar millor la feina: 
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Treball per projectes
 
 ---
 
@@ -2239,13 +2249,13 @@ Font: Pérez, M. (2015). Dinámicas cooperativas.
 
 **Recursos:** [GeCo - Generador d'Equips Cooperatius](https://jjdeharo.github.io/geco/)
 
-**Tècniques relacionades:** Think-Pair-Share (Pensa-Parella-Comparteix), Placemat consensus, Cronometrat, Parella, Comparteix (Timed, Pair, Share)
+**Tècniques relacionades:** Cronometrat, Parella, Comparteix (Timed, Pair, Share), Equip-parella-individual, El que sé i el que sabem, Placemat consensus, Think-Pair-Share (Pensa-Parella-Comparteix)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Sondeig i qüestionament
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Acta d'avaluació, Rúbrica de treball cooperatiu, Sociograma
 
 - *Dimensions:* Finalitat diagnòstica, Avaluació inclusiva i DUA, Resolució de problemes
 
@@ -2295,15 +2305,15 @@ Primer, cada parella exposa la seva posició. Després, les parelles canvien de 
 
 L’activitat permet que l’alumnat comprengui la complexitat del tema i aprengui a argumentar sense reduir el debat a una oposició simple entre estar a favor o en contra.
 
-**Tècniques relacionades:** Seminari socràtic, Fishbowl (Peixera), Cercle de punts de vista
+**Tècniques relacionades:** Aprenentatge basat en casos (ABC), Cercle de punts de vista, Fishbowl (Peixera), Seminari socràtic, Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències, Estira-i-arronsa
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Acta d'avaluació, Quadern de qualificacions, Diari del docent, Escala descriptiva, Escala d'observació, Escala de progrés, Escala de valoració, Escala verbal, Fitxa de retroalimentació, Guia d'observació, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Estudi de casos, Avaluació contínua, Evidència de desempenys, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -2353,7 +2363,7 @@ En una classe de llengua, el professor demana a cada equip que escrigui un conte
 
 En una segona volta, cada estudiant revisa o millora una part del text: vocabulari, coherència, connectors o correcció ortogràfica. Al final, l’equip llegeix el conte i comenta quina aportació ha fet cada membre. La tècnica garanteix que tothom participi i permet construir un producte comú a partir d’intervencions successives.
 
-**Tècniques relacionades:** RoundRobin, Graffiti Cooperatiu, El joc de les paraules
+**Tècniques relacionades:** El joc de les paraules, Graffiti Cooperatiu, RoundRobin, +1
 
 **Com avaluar:**
 
@@ -2361,7 +2371,7 @@ En una segona volta, cada estudiant revisa o millora una part del text: vocabula
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -2405,15 +2415,15 @@ Tema: **Què necessiten les llavors per germinar?**
 4. **Elaborar / Elaborate**: l’alumnat aplica el que ha après a una situació nova: dissenyar recomanacions per germinar llavors en un hort escolar o explicar per què algunes llavors guardades a casa no germinen. Ha de justificar les seves propostes amb dades de l’experiment.
 5. **Avaluar / Evaluate**: l’alumnat revisa les seves idees inicials, compara què pensava abans i què pot explicar ara, completa una breu autoavaluació i entrega una conclusió basada en evidències. El professor valora la qualitat del disseny experimental, l’ús de dades i l’explicació final.
 
-**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes (ABPC), KWL (Sé, Vull saber, He après)
+**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes (ABPC), Aprenentatge per descobriment, KWL (Sé, Vull saber, He après), Prediu, observa, explica (POE)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Escala d'autoavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Autoavaluació, Enfocament competencial, Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Resolució de problemes
 
 ---
 
@@ -2461,7 +2471,7 @@ Durant una explicació sobre el canvi climàtic, el professor divideix la classe
 
 En acabar l’exposició, l’equip de preguntes planteja qüestions sobre causes i conseqüències, l’equip d’aprovació destaca la utilitat de diferenciar temps atmosfèric i clima, l’equip de desacord pregunta per la fiabilitat d’algunes dades i l’equip d’exemples relaciona el tema amb sequeres, onades de calor o canvis en el consum energètic. L’activitat transforma una explicació del professor en una escolta activa i estructurada.
 
-**Tècniques relacionades:** Parada de tres minuts, Seminari socràtic, Pregunta i respon
+**Tècniques relacionades:** Parada de tres minuts, Pregunta i respon, Seminari socràtic
 
 **Com avaluar:**
 
@@ -2469,7 +2479,7 @@ En acabar l’exposició, l’equip de preguntes planteja qüestions sobre cause
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Evidència de desempenys, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -2526,11 +2536,11 @@ Abans de la classe, el professor revisa les respostes i detecta que molts alumne
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Contracte de grup, Fitxa de retroalimentació, Full de seguiment grupal, Llista de verificació o control, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Semàfor d'avaluació
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -2568,7 +2578,7 @@ Abans de començar una unitat sobre ecosistemes, el professor entrega una fitxa 
 
 Després, es formen parelles i construeixen un text comú amb les idees de tots dos, corregint errors i afegint relacions noves. En la posada en comú, el professor recull les aportacions més repetides i les utilitza per iniciar la unitat, detectar idees prèvies i formular preguntes de treball.
 
-**Tècniques relacionades:** KWL (Sé, Vull saber, He après), Think-Pair-Share (Pensa-Parella-Comparteix), 1 - 2 - 4
+**Tècniques relacionades:** 1 - 2 - 4, KWL (Sé, Vull saber, He après), Think-Pair-Share (Pensa-Parella-Comparteix)
 
 **Com avaluar:**
 
@@ -2617,7 +2627,7 @@ En matemàtiques, el professor entrega a cada equip quatre exercicis de proporci
 
 Quan s’acaba el temps, el professor diu un número a l’atzar, per exemple el 3. Tots els alumnes amb aquest número surten o responen en nom del seu equip. Com que no saben qui serà escollit, l’equip ha d’ajudar tots els seus membres a comprendre la tasca, no només a obtenir una resposta ràpida.
 
-**Tècniques relacionades:** Un per a tots, Llapis al centre, STAD (Student Teams Achievement Divisions)
+**Tècniques relacionades:** Llapis al centre, Peer Instruction (Instrucció entre iguals), STAD (Student Teams Achievement Divisions), Un per a tots
 
 **Com avaluar:**
 
@@ -2625,7 +2635,7 @@ Quan s’acaba el temps, el professor diu un número a l’atzar, per exemple el
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -2659,7 +2669,7 @@ En una classe d’educació digital, el professor planteja diverses preguntes so
 
 Cada parella comenta les preguntes durant uns minuts i anota dues idees consensuades. Després, el professor demana a l’atzar la resposta d’algunes parelles i construeix a la pissarra una llista comuna de recomanacions. La tècnica permet activar experiències prèvies i convertir-les en criteris compartits d’ús responsable.
 
-**Tècniques relacionades:** Cronometrat, Parella, Comparteix (Timed, Pair, Share), Think-Pair-Share (Pensa-Parella-Comparteix), Rellotge de cites
+**Tècniques relacionades:** Cronometrat, Parella, Comparteix (Timed, Pair, Share), Rellotge de cites, Think-Pair-Share (Pensa-Parella-Comparteix)
 
 **Com avaluar:**
 
@@ -2708,13 +2718,13 @@ En la ronda següent, amb la cita de les sis, responen una altra pregunta: “Qu
 
 **Recursos:** [Rellotge de cites](https://reloj-citas.github.io/)
 
-**Tècniques relacionades:** Parelles de discussió, L'entrevista, Quiz-Quiz-Trade (Intercanvi de targetes)
+**Tècniques relacionades:** L'entrevista, Parelles de discussió, Quiz-Quiz-Trade (Intercanvi de targetes)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Intercanvis orals, Sondeig i qüestionament
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Analítiques d'aprenentatge, Formulari digital, Full de càlcul d'avaluació, Rúbrica de treball cooperatiu
 
 - *Dimensions:* Finalitat diagnòstica, Resolució de problemes
 
@@ -2747,7 +2757,7 @@ Tècnica cooperativa breu que combina reflexió individual, contrast per parelle
 #### Exemple
 En biologia, abans d'explicar la selecció natural, el professor pregunta: **per què alguns bacteris es tornen resistents als antibiòtics?** Cada alumne proposa una explicació, després la compara amb la seva parella i finalment es recullen diverses respostes per iniciar l'explicació.
 
-**Tècniques relacionades:** 1 - 2 - 4, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Parelles de discussió
+**Tècniques relacionades:** 1 - 2 - 4, Cronometrat, Parella, Comparteix (Timed, Pair, Share), El que sé i el que sabem, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals)
 
 **Com avaluar:**
 
@@ -2780,15 +2790,15 @@ En matemàtiques, el professor planteja quatre problemes de proporcionalitat per
 
 En acabar, el professor recull a l’atzar el quadern d’un alumne de cada grup. La correcció d’aquell exercici compta per a tot l’equip. Això anima el grup a revisar la feina de tothom i a no deixar que una sola persona resolgui la tasca sense que els altres la comprenguin.
 
-**Tècniques relacionades:** Nombres iguals junts (Caps junts numerats), Llapis al centre, STAD (Student Teams Achievement Divisions)
+**Tècniques relacionades:** Llapis al centre, Nombres iguals junts (Caps junts numerats), STAD (Student Teams Achievement Divisions)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació sistemàtica, Proves específiques, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Fitxa de retroalimentació, Llista de verificació o control, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Finalitat sumativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes, Finalitat sumativa
 
 ---
 
@@ -2817,13 +2827,13 @@ Concept Cartoon és una tècnica que presenta una situació mitjançant una viny
 #### Exemple
 En física, una vinyeta mostra tres alumnes parlant sobre una pilota que cau. Un diu que els objectes pesants sempre cauen abans, un altre que tots cauen igual si no hi ha aire i un altre que depèn de la forma. La classe discuteix les idees, fa una petita experiència o analitza un vídeo i revisa les explicacions sobre la caiguda dels cossos.
 
-**Tècniques relacionades:** Veig, penso, em pregunto, Prediu, observa, explica (POE), Genera hipòtesis, Aprenentatge basat en indagació, Què et fa dir això?, Afirmació, evidència i raonament (CER)
+**Tècniques relacionades:** Què et fa dir això?, Aprenentatge basat en indagació, Genera hipòtesis, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), Prediu, observa, explica (POE)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Finalitat diagnòstica, Resolució de problemes
+- *Dimensions:* Finalitat diagnòstica, Indagació, Resolució de problemes
 
 ---
 
@@ -2856,11 +2866,11 @@ La tècnica de formulació de preguntes, o QFT, és una proposta del Right Quest
 #### Exemple
 En biologia, el professor mostra la frase: “Cada vegada hi ha més bacteris resistents als antibiòtics”. Durant 5 minuts, els equips generen preguntes. Després en trien tres: una factual, una causal i una d’investigació. Aquestes preguntes orienten la cerca d’informació de la sessió següent.
 
-**Tècniques relacionades:** Penso, m'interessa, investigo, Aprenentatge basat en preguntes  (ABPC), Pregunta el perquè, Pregunta i respon
+**Tècniques relacionades:** Aprenentatge basat en preguntes  (ABPC), Penso, m'interessa, investigo, Pregunta el perquè, Pregunta i respon
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Dimensions:* Finalitat diagnòstica, Indagació
 
@@ -2941,13 +2951,13 @@ Els aumnes de l'ESO estan estudiant l'economia i han de treballar amb el cas d'u
    1. Coherència a l'expressió oral
    1. Nivell d'aportació a la discussió
 
-**Tècniques relacionades:** Aprenentatge basat en problemes (ABP), Situació problema, Controvèrsia acadèmica
+**Tècniques relacionades:** Aprenentatge basat en problemes (ABP), Controvèrsia acadèmica, Joc de rol, Situació problema
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de produccions
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Estudi de casos, Enfocament competencial, Evidència de desempenys, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -2980,15 +2990,15 @@ En digitalització, els alumnes dissenyen una solució per millorar l'organitzac
 
 **Recursos:** [Pluja d'idees i vots](https://jjdeharo.github.io/directo/ideas.html)
 
-**Tècniques relacionades:** Genera solucions, Aprenentatge basat en reptes (ABR), Matriu de problemes
+**Tècniques relacionades:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Genera solucions, Matriu de problemes, Les 4C de l'aprenentatge
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Entrevista avaluativa, Observació sistemàtica, Intercanvis orals, Proves específiques, Triangulació d'evidències
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Analítiques d'aprenentatge, Banc de descriptors, Conversor de nivells a qualificació, Declaració d'ús d'IA i fonts, Fitxa de retroalimentació, Historial de revisions, Llista d'indicadors per criteri, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de ponderació, Tauler de progrés, Perfil d'assoliment, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica digital, Rúbrica global o holística, Rúbrica oral, Rúbrica de procés, Rúbrica de producte, Taula de qualificació per criteris
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Avaluació criterial, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -3018,15 +3028,15 @@ Primer, l’equip intenta resoldre els dubtes dels seus membres. Els que no pode
 
 **Recursos:** [Mur interactiu](https://jjdeharo.github.io/directo/muro.html)
 
-**Tècniques relacionades:** Muddiest Point (El punt més confús), Intercanviar dificultats, Parada de tres minuts
+**Tècniques relacionades:** Intercanviar dificultats, Muddiest Point (El punt més confús), Parada de tres minuts
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Acta d'avaluació, Contracte de grup, Quadern de qualificacions, Escala descriptiva, Escala d'observació, Escala de valoració, Fitxa de retroalimentació, Guia d'observació, Full de seguiment grupal, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica de treball cooperatiu, Sociograma
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Finalitat sumativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes, Finalitat sumativa
 
 ---
 
@@ -3057,7 +3067,7 @@ En matemàtiques, el professor proposa tres problemes semblants sobre percentatg
 
 Al final, l’equip compara els procediments utilitzats i revisa els errors. L’estructura permet que l’alumnat practiqui primer amb suport ampli, després amb suport reduït i finalment de manera autònoma.
 
-**Tècniques relacionades:** 1 - 2 - 4, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization)
+**Tècniques relacionades:** 1 - 2 - 4, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Exemples resolts, Alliberament gradual de la responsabilitat
 
 **Com avaluar:**
 
@@ -3103,15 +3113,15 @@ Després, els alumnes treballarien en equips per a trobar les respostes a les pr
 
 Així, amb aquesta tècnica, tots els estudiants haurien tingut l'oportunitat de reflexionar sobre el tema del cicle de l'aigua i de treballar en equip per a trobar les respostes a les seves dificultats. A més, haurien pogut revisar i corregir els seus processos de resolució dels problemes relacionats amb aquest tema.
 
-**Tècniques relacionades:** El Sac de Dubtes, Peer Instruction (Instrucció entre iguals), Muddiest Point (El punt més confús)
+**Tècniques relacionades:** El Sac de Dubtes, Muddiest Point (El punt més confús), Peer Instruction (Instrucció entre iguals)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Fitxa de coavaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de coavaluació, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
 
 ---
 
@@ -3153,7 +3163,7 @@ En biologia, cada equip rep un full amb quatre preguntes sobre nutrició: funci�
 
 L’alumne responsable de la primera qüestió la llegeix i coordina les intervencions. Tothom ha d’aportar una idea abans d’escriure. Quan l’equip arriba a una resposta consensuada, tots agafen el llapis i l’anoten al quadern. Després, el torn passa al company següent. Així s’evita que només una persona resolgui tota la tasca i s’afavoreix l’explicació entre iguals.
 
-**Tècniques relacionades:** Nombres iguals junts (Caps junts numerats), Un per a tots, Placemat consensus
+**Tècniques relacionades:** Nombres iguals junts (Caps junts numerats), Placemat consensus, Un per a tots, Rols cooperatius
 
 **Com avaluar:**
 
@@ -3161,7 +3171,7 @@ L’alumne responsable de la primera qüestió la llegeix i coordina les interve
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
 
 ---
 
@@ -3182,15 +3192,15 @@ En una unitat sobre contaminació de l’aigua, el professor planteja una situac
 
 Cada grup busca informació, selecciona evidències i prepara una explicació parcial. Després, tots els grups posen en comú els resultats i elaboren un informe conjunt amb hipòtesis sobre les causes, dades que caldria recollir i mesures preventives. L’activitat permet investigar un problema complex des de perspectives complementàries.
 
-**Tècniques relacionades:** Aprenentatge basat en problemes (ABP), CO-OP CO-OP, Aprenentatge basat en la investigació (ABI)
+**Tècniques relacionades:** Aprenentatge basat en la investigació (ABI), Aprenentatge basat en problemes (ABP), CO-OP CO-OP
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi de produccions
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Barem, Escala numèrica, Guia de correcció, Plantilla de correcció, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Resolució de problemes, Treball per projectes
+- *Dimensions:* Evidència de desempenys, Heteroavaluació, Indagació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -3235,7 +3245,7 @@ Aquesta taula recull les idees referent a "com millorar el rendiment escolar":
 
 Amb aquesta matriu, es poden comparar les diferents solucions i valorar quines són les millors opcions en funció dels seus possibles efectes o conseqüències.
 
-**Tècniques relacionades:** Genera solucions, Les dues columnes, Revisa les conseqüències
+**Tècniques relacionades:** Pensament de disseny (Design Thinking), Detecta patrons, Genera solucions, Revisa les conseqüències, Les dues columnes, El joc de la NASA
 
 **Com avaluar:**
 
@@ -3268,11 +3278,11 @@ En una assignatura d’economia, el professor planteja la pregunta: “Com podr�
 
 Després, l’equip comparteix les idees i només escriu al centre aquelles en què tothom està d’acord. Finalment, el portaveu explica quines propostes han consensuat i quins criteris han fet servir: cost, facilitat d’organització, participació de l’alumnat i impacte esperat. La tècnica ajuda a passar d’idees individuals a una decisió col·lectiva raonada.
 
-**Tècniques relacionades:** 1 - 2 - 4, Llapis al centre, Situació problema
+**Tècniques relacionades:** 1 - 2 - 4, Llapis al centre, Situació problema, El joc de la NASA
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Sondeig i qüestionament
+- *Tècniques d'avaluació:* Intercanvis orals, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -3310,7 +3320,7 @@ Cada estudiant dedica uns minuts a pensar en una possible solució a aquest prob
 
 Finalment, el professor tria a l'atzar un membre de cada grup perquè expliqui la o les solucions que han manejat. Algunes de les solucions que poden sortir en aquesta tècnica poden ser: promoure l'ús del transport públic o bicicletes en comptes de vehicles privats, millorar la qualitat dels filtres dels vehicles, promoure campanyes de conscienciació sobre la contaminació, plantar arbres al barri per millorar la qualitat de l'aire, etc.
 
-**Tècniques relacionades:** Aprenentatge basat en problemes (ABP), Genera solucions, Placemat consensus
+**Tècniques relacionades:** Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en problemes (ABP), Genera solucions, Placemat consensus
 
 **Com avaluar:**
 
@@ -3350,15 +3360,15 @@ El dia del torneig, els alumnes competeixen en taules amb companys de nivell sem
 
 **Recursos:** [QPlay: Concurs interactiu](https://jjdeharo.github.io/qplay/) · [GeCo - Generador d'Equips Cooperatius](https://jjdeharo.github.io/geco/)
 
-**Tècniques relacionades:** Aprenentatge basat en el joc (ABJ), STAD (Student Teams Achievement Divisions), Quiz-Quiz-Trade (Intercanvi de targetes)
+**Tècniques relacionades:** Aprenentatge basat en el joc (ABJ), Quiz-Quiz-Trade (Intercanvi de targetes), STAD (Student Teams Achievement Divisions), Ludificació (gamificació)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Intercanvis orals
+- *Tècniques d'avaluació:* Intercanvis orals, Proves específiques, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Qualificació i acreditació, Evidència de desempenys, Avaluació gamificada, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -3390,13 +3400,13 @@ La pràctica intercalada barreja problemes o tasques de tipus diferents dins d�
 #### Exemple
 En una sessió de matemàtiques de 20 minuts, el professor barreja equacions, sistemes, percentatges i problemes de proporcionalitat. Abans de calcular, cada alumne ha d’escriure: “Aquest problema és de...” i justificar quin procediment aplicarà.
 
-**Tècniques relacionades:** Pràctica espaiada, Pràctica de recuperació, Peer Instruction (Instrucció entre iguals), Teoria de la càrrega cognitiva
+**Tècniques relacionades:** Peer Instruction (Instrucció entre iguals), Pràctica de recuperació, Pràctica espaiada, Teoria de la càrrega cognitiva
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Resolució de problemes
+- *Dimensions:* Enfocament competencial, Resolució de problemes
 
 ---
 
@@ -3428,13 +3438,13 @@ Els exemples resolts són problemes ja solucionats pas a pas, amb explicació de
 #### Exemple
 En física, abans de resoldre problemes de cinemàtica, el professor mostra un exemple on s’identifiquen les dades, s’escull la fórmula, se substitueixen unitats i es comprova si el resultat té sentit. Després, l’alumnat completa un problema semblant amb alguns passos en blanc.
 
-**Tècniques relacionades:** Alliberament gradual de la responsabilitat, Teoria de la càrrega cognitiva, Equip-parella-individual, Tutoria entre iguals (Peer Tutoring)
+**Tècniques relacionades:** Equip-parella-individual, Tutoria entre iguals (Peer Tutoring), Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Teoria de la càrrega cognitiva
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions
+- *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions, Proves específiques
 
-- *Dimensions:* Resolució de problemes
+- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -3475,15 +3485,15 @@ Imagineu que els estudiants de l'ESO estan estudiant la història i el professor
 
 **Recursos:** [QPlay: Concurs interactiu](https://jjdeharo.github.io/qplay/)
 
-**Tècniques relacionades:** Ludificació (gamificació), TGT (Torneig de Jocs per Equips), Quiz-Quiz-Trade (Intercanvi de targetes)
+**Tècniques relacionades:** Quiz-Quiz-Trade (Intercanvi de targetes), TGT (Torneig de Jocs per Equips), Ludificació (gamificació)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
+- *Tècniques d'avaluació:* Observació incidental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Diari del docent, Escala descriptiva, Escala d'observació, Escala de valoració, Fitxa de retroalimentació, Guia d'observació, Notes de camp, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Enfocament competencial, Avaluació contínua, Evidència de desempenys, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Avaluació gamificada, Heteroavaluació
 
 ---
 
@@ -3515,11 +3525,15 @@ Metodologia en què l'aprenentatge s'organitza a partir de preguntes, observacio
 #### Exemple
 En biologia, els alumnes investiguen per què algunes llavors germinen millor que altres. Dissenyen una petita prova amb diferents condicions de llum o humitat, recullen dades i justifiquen les seves conclusions.
 
-**Tècniques relacionades:** Aprenentatge basat en la investigació (ABI), Indagació guiada per l'argumentació (ADI), Genera hipòtesis
+**Tècniques relacionades:** Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge per descobriment, El model 5E, Genera hipòtesis, Parelles de detectius, Penso, m'interessa, investigo, Centres d'interès (enfocament de Decroly), Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Concept Cartoon
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
+
+- *Instruments:* Barem, Escala numèrica, Guia de correcció, Plantilla de correcció, Semàfor d'avaluació
+
+- *Dimensions:* Evidència de desempenys, Heteroavaluació, Indagació, Resolució de problemes
 
 ---
 
@@ -3555,15 +3569,15 @@ Un exemple d'aprenentatge basat en l'acció (ABA) en educació secundària podri
 
 Imagineu que els estudiants de l'ESO estan estudiant el medi ambient i el professor vol utilitzar l'ABA per ajudar-los a comprendre millor la importància de protegir els recursos naturals. El professor pot planificar una activitat en la qual els estudiants han de treballar col·laborativament per investigar sobre un problema ambiental específic, com ara la degradació de les aigües o la contaminació de l'aire, a la seva localitat. Després, han de dissenyar una campanya de conscienciació per promoure la preservació dels recursos naturals i presentar-la a la resta de la classe. Aquesta activitat inclou tant treballs contextualitzats, com ara fer entrevistes o fer observacions de camp, com treballs descontextualitzats, com ara fer servir recursos digitals o elaborar materials de promoció. A la fi de l'activitat, els estudiants reflexionen sobre el procés que han seguit i comparteixen els resultats de la seva campanya amb la resta de la classe. Aquest exemple mostra com l'ABA pot utilitzar la combinació de situacions contextualitzades i descontextualitzades per ajudar els estudiants a connectar amb el seu entorn i desenvolupar habilitats i coneixements de manera significativa.
 
-**Tècniques relacionades:** Aprenentatge basat en reptes (ABR), Projectes d'aprenentatge servei (APS o ABS), Aprenentatge experiencial
+**Tècniques relacionades:** Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Projectes d'aprenentatge servei (APS o ABS), Centres d'interès (enfocament de Decroly)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions
+- *Tècniques d'avaluació:* Entrevista avaluativa, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes, Treball per projectes
+- *Dimensions:* Evidència de desempenys, Finalitat diagnòstica, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -3620,15 +3634,15 @@ En resum, l'aprenentatge basat en projectes implica la creació d'un producte fi
 
 Aquí es pot consultar un desenvolupament més detallat d'aquest projecte.
 
-**Tècniques relacionades:** Aprenentatge basat en problemes (ABP), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS)
+**Tècniques relacionades:** Aprenentatge basat en problemes (ABP), Pensament de disseny (Design Thinking), Digital storytelling (relats digitals), Projectes d'aprenentatge servei (APS o ABS), Avaluació autèntica, Les 4C de l'aprenentatge
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament, Triangulació d'evidències
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Analítiques d'aprenentatge, Banc de descriptors, Banc digital d'evidències, Contracte de grup, Conversor de nivells a qualificació, Quadern de qualificacions, Declaració d'ús d'IA i fonts, Diana d'avaluació, Escala de progrés, Escala verbal, Fitxa de retroalimentació, Fitxa de valoració, Historial de revisions, Full de seguiment grupal, Full de seguiment individual, Llista d'indicadors per criteri, Informe individual d'avaluació, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de valoració, Matriu de ponderació, Tauler de progrés, Perfil d'assoliment, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica digital, Rúbrica global o holística, Rúbrica oral, Rúbrica de procés, Rúbrica de producte, Taula de qualificació per criteris
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Indagació, Resolució de problemes, Treball per projectes
+- *Dimensions:* Avaluació contínua, Avaluació criterial, Evidència de desempenys, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -3676,15 +3690,15 @@ Exemple d'aplicació d'ABR per a resoldre aquest problema:
 - Difusió de la feina: Els alumnes poden crear un vídeo o una exposició per explicar les solucions proposades i els resultats obtinguts. També poden escriure un article per a una revista del barri o fer una presentació a la comunitat.
 - Avaluació: Els alumnes es faran una autoavaluació per reflexionar sobre el procés seguit i els resultats obtinguts, i també es farà una avaluació per part del docent o docents implicats. Si es considera necessari, es poden demanar avaluacions externes a altres agents del barri per obtenir una visió més àmplia del treball realitzat.
 
-**Tècniques relacionades:** Aprenentatge basat en l'acció (ABA), Projectes d'aprenentatge servei (APS o ABS), Pensament de disseny (Design Thinking)
+**Tècniques relacionades:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en problemes (ABP), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Entrevista avaluativa, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Banc de descriptors, Conversor de nivells a qualificació, Escala d'autoavaluació, Fitxa de retroalimentació, Llista d'indicadors per criteri, Llista de verificació o control, Llista de verificació d'autoavaluació, Mapa d'evidències per criteri, Matriu de ponderació, Perfil d'assoliment, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica global o holística, Rúbrica oral, Rúbrica de procés, Rúbrica de producte, Taula de qualificació per criteris
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Autoavaluació, Avaluació contínua, Avaluació criterial, Evidència de desempenys, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Resolució de problemes
 
 ---
 
@@ -3711,11 +3725,15 @@ Un exemple d'aprenentatge experiencial podria ser una activitat en què els estu
 
 Després de la visita, els estudiants poden reflexionar sobre les seves observacions i experiències, i discutir entre ells els conceptes que han après. Això els permetrà connectar els conceptes teòrics amb la vida real i comprendre millor com aplicar-los a situacions reals.
 
-**Tècniques relacionades:** Aprenentatge basat en l'acció (ABA), Centres d'interès (enfocament de Decroly), Aprenentatge basat en preguntes (ABPC)
+**Tècniques relacionades:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en preguntes (ABPC), Aprenentatge per descobriment, Centres d'interès (enfocament de Decroly)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació incidental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+
+- *Instruments:* Diana d'avaluació, Notes de camp, Semàfor d'avaluació
+
+- *Dimensions:* Evidència de desempenys, Heteroavaluació, Avaluació inclusiva i DUA
 
 ---
 
@@ -3749,7 +3767,7 @@ Fonts:
 1. Després de 5 minuts, B comparteix amb A la seva opinió sobre el tema, mentre A escolta de manera activa.
 1. Un cop finalitzades les intervencions, es fa una breu síntesi dels punts de vista de cada parella.
 
-**Tècniques relacionades:** Think-Pair-Share (Pensa-Parella-Comparteix), Parelles de discussió, RallyRobin
+**Tècniques relacionades:** 1 - 2 - 4, Parelles de discussió, RallyRobin, Think-Pair-Share (Pensa-Parella-Comparteix)
 
 **Com avaluar:**
 
@@ -3757,7 +3775,7 @@ Fonts:
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -3785,11 +3803,15 @@ En una unitat de biologia sobre malalties infeccioses, l’alumnat crea un relat
 
 El producte final combina una narració breu, imatges, esquemes senzills, música o efectes de so i una conclusió científica. El docent demana que el relat inclogui conceptes com transmissió, resposta immunitària, prevenció i tractament. En presentar-lo, cada grup explica quines decisions narratives ha pres i quins continguts científics ha volgut comunicar.
 
-**Tècniques relacionades:** Visual Thinking (pensament visual), Aprenentatge basat en projectes (ABProjectes), Titulars
+**Tècniques relacionades:** Aprenentatge basat en projectes (ABProjectes), Titulars, Visual Thinking (pensament visual), Model SAMR
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de produccions
+- *Tècniques d'avaluació:* Entrevista avaluativa, Intercanvis orals, Anàlisi de produccions
+
+- *Instruments:* Formulari digital, Full de càlcul d'avaluació
+
+- *Dimensions:* Evidències digitals, Heteroavaluació, Treball per projectes
 
 ---
 
@@ -3820,15 +3842,15 @@ Organització de l'aula en diferents estacions o espais de treball. A cada estac
 #### Exemple
 En biologia, una estació conté observació de mostres, una altra anàlisi d'imatges, una altra resolució de preguntes i una altra elaboració d'un esquema. Tots els grups passen per totes les estacions.
 
-**Tècniques relacionades:** Equips paral·lels, Centres d'interès (enfocament de Decroly), Flipped Classroom (Aula invertida)
+**Tècniques relacionades:** Flipped Classroom (Aula invertida), Disseny Universal per a l'Aprenentatge (DUA / UDL), Equips paral·lels, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions
+- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Diana d'avaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Enfocament competencial, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA
 
 ---
 
@@ -3861,11 +3883,13 @@ Cada equip comença en un cartell i escriu les seves idees durant tres minuts. D
 
 **Recursos:** [Pluja d'idees i vots](https://jjdeharo.github.io/directo/ideas.html) · [Mur interactiu](https://jjdeharo.github.io/directo/muro.html)
 
-**Tècniques relacionades:** El foli giratori, World Café, Grup nominal
+**Tècniques relacionades:** El foli giratori, Gallery Walk (Passejada per la galeria), RoundRobin, World Café, Grup nominal
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
+
+- *Dimensions:* Resolució de problemes, Treball per projectes
 
 ---
 
@@ -3890,13 +3914,15 @@ Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para apr
 #### Exemple
 Per exemple, imagineu que es vol fer una activitat sobre l'ús dels pronoms febles en català. Es podrien seleccionar quatre estudiants que considerin que ja dominen aquest tema i se'ls demana que es preparin per explicar-ho als altres. Després, es dividiria el grup en equips de quatre estudiants i un alumne de cada grup aniria a veure un dels "savis" per a rebre instruccions sobre l'ús dels pronoms febles. Després de la primera fase, cada estudiant tornaria al seu equip i explicaria als seus companys el que ha après del "savi" que ha visitat. Així, tots els estudiants haurien après sobre l'ús dels pronoms febles gràcies a les explicacions dels diferents "savis".
 
-**Tècniques relacionades:** El Trencaclosques ("Jigsaw"), Tutoria entre iguals (Peer Tutoring), Equips paral·lels
+**Tècniques relacionades:** CO-OP CO-OP, El Trencaclosques ("Jigsaw"), Tutoria entre iguals (Peer Tutoring), Equips paral·lels
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de produccions
 
 - *Instruments:* Rúbrica de treball cooperatiu
+
+- *Dimensions:* Avaluació inclusiva i DUA
 
 ---
 
@@ -3935,7 +3961,7 @@ _Paraules clau: hipòtesis, coneixements previs, parelles, resolució de problem
 
 Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo
 
-**Tècniques relacionades:** Genera hipòtesis, Think-Pair-Share (Pensa-Parella-Comparteix), Aprenentatge basat en indagació
+**Tècniques relacionades:** Aprenentatge basat en indagació, Genera hipòtesis, Think-Pair-Share (Pensa-Parella-Comparteix)
 
 **Com avaluar:**
 
@@ -3943,7 +3969,7 @@ Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Finalitat sumativa
 
 ---
 
@@ -3981,9 +4007,9 @@ La parella continua fins que esgota les idees. Després, algunes respostes es re
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Analítiques d'aprenentatge, Declaració d'ús d'IA i fonts, Fitxa de retroalimentació, Formulari digital, Historial de revisions, Full de càlcul d'avaluació, Tauler de progrés, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu, Rúbrica digital
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
 
 ---
 
@@ -4017,15 +4043,15 @@ En tutoria, el professor planteja al grup: “Què podríem fer perquè la bibli
 
 La ronda continua fins a reunir diverses propostes. Després, l’equip selecciona les dues que considera més viables i les comparteix amb la classe. La tècnica permet recollir moltes idees sense que una sola persona domini la conversa.
 
-**Tècniques relacionades:** RallyRobin, Graffiti Cooperatiu, Grup nominal
+**Tècniques relacionades:** El foli giratori, Graffiti Cooperatiu, RallyRobin, Grup nominal
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Escala numèrica, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
 
 ---
 
@@ -4056,7 +4082,7 @@ Dinàmica de diàleg col·laboratiu en petits grups que roten per diverses taule
 #### Exemple
 En una unitat sobre sostenibilitat, cada taula aborda una pregunta: consum d'aigua, energia, residus, mobilitat i alimentació. Els grups roten, completen les idees i finalment elaboren propostes per al centre.
 
-**Tècniques relacionades:** Graffiti Cooperatiu, Gallery Walk (Passejada per la galeria), Grup nominal
+**Tècniques relacionades:** Gallery Walk (Passejada per la galeria), Graffiti Cooperatiu, Les 4C de l'aprenentatge, Grup nominal
 
 **Com avaluar:**
 
@@ -4064,7 +4090,7 @@ En una unitat sobre sostenibilitat, cada taula aborda una pregunta: consum d'aig
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat sumativa
+- *Dimensions:* Estudi de casos, Evidència de desempenys, Heteroavaluació, Finalitat sumativa
 
 ---
 
@@ -4095,11 +4121,13 @@ Enfocament globalitzador que organitza l'aprenentatge a partir de necessitats, i
 #### Exemple
 A partir del centre d'interès “l'alimentació”, l'alumnat observa hàbits quotidians, analitza etiquetes, calcula proporcions, estudia nutrients i elabora propostes de millora.
 
-**Tècniques relacionades:** Aprenentatge experiencial, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en indagació
+**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge experiencial, Estacions d'aprenentatge
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions
+
+- *Dimensions:* Evidència de desempenys, Heteroavaluació, Indagació, Resolució de problemes
 
 ---
 
@@ -4145,7 +4173,7 @@ Després, cada grup prepara un argument temptatiu. Per exemple: “La llum no é
 
 A partir d'aquestes preguntes, cada grup revisa la seva explicació i redacta un informe final. L'activitat no es limita a obtenir dades, sinó que ensenya a defensar, qüestionar i millorar una explicació basada en evidències.
 
-**Tècniques relacionades:** Afirmació, evidència i raonament (CER), Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI)
+**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), Afirmació, evidència i raonament (CER), Model d'argumentació de Toulmin, Revisió entre iguals (peer review)
 
 **Com avaluar:**
 
@@ -4153,7 +4181,7 @@ A partir d'aquestes preguntes, cada grup revisa la seva explicació i redacta un
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Estudi de casos, Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Resolució de problemes
 
 ---
 
@@ -4185,7 +4213,7 @@ L’alliberament gradual de la responsabilitat és un model de bastida en què l
 #### Exemple
 Per resoldre problemes de geometria, el professor en resol un pensant en veu alta durant 5 minuts. Després en resol un altre amb la classe. A continuació, les parelles treballen un tercer problema i, al final, cada alumne en resol individualment un de semblant.
 
-**Tècniques relacionades:** Pensament en veu alta, Exemples resolts, Equip-parella-individual, Tutoria entre iguals (Peer Tutoring)
+**Tècniques relacionades:** Equip-parella-individual, Tutoria entre iguals (Peer Tutoring), Exemples resolts, Pensament en veu alta, Teoria de la càrrega cognitiva
 
 **Com avaluar:**
 
@@ -4276,15 +4304,15 @@ També podem utilitzar una estructura més simple pel mateix problema:
 1. Comprovació de la hipòtesi. Els estudiants fan experiments amb diferents grups de plantes fertilitzades amb orgànic o químic i mesuren el creixement cada setmana per comprovar si la hipòtesi és correcta o no.
 1. Elaboració de resultats i presentació a la resta de la classe. Els estudiants analitzen les dades recollides i elaboruen resultats i conclusions sobre l'efecte dels diferents tipus de fertilitzants en el creixement de les plantes. A continuació, presenten els resultats de la investigació a la resta de la classe de manera clara i amb rigor científic.
 
-**Tècniques relacionades:** Aprenentatge basat en indagació, Indagació guiada per l'argumentació (ADI), Aprenentatge basat en preguntes (ABPC)
+**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes (ABPC), Els Grups de Recerca, Indagació guiada per l'argumentació (ADI)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Enquesta i qüestionari, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Enfocament competencial, Indagació, Resolució de problemes
+- *Dimensions:* Enfocament competencial, Evidència de desempenys, Finalitat diagnòstica, Heteroavaluació, Indagació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -4327,15 +4355,15 @@ Després, cada grup dissenya un experiment senzill amb dos grups de llavors: un 
 
 Al final, analitzen les dades, comparen els resultats amb la hipòtesi inicial i preparen una breu comunicació amb una taula de dades, una gràfica i una conclusió basada en evidències.
 
-**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), El model 5E
+**Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), Aprenentatge experiencial, El model 5E
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Rúbrica de treball cooperatiu
+- *Instruments:* Llista de verificació o control, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Resolució de problemes, Treball per projectes
+- *Dimensions:* Evidència de desempenys, Heteroavaluació, Indagació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -4386,15 +4414,15 @@ En una unitat sobre la història de la música occidental, el professor ha decid
 
 El professor ha dividit els estudiants en grups de 3 i ha assignat a cada grup una de les èpoques de la música occidental. Els estudiants han de treballar en equip per elaborar una guia de preguntes amb les tres categories anteriors per a la seva època assignada. Després, cada grup presentarà les seves preguntes al resta de la classe, que s'encarregaran de respondre-les. Així, l'aprenentatge es desenvoluparà de forma col·laborativa i metacognitiva, ja que els estudiants han de fer servir les seves idees prèvies, sintetitzar la informació adquirida, organitzar-la i jerarquitzar-la, i aplicar el seu coneixement a noves situacions.
 
-**Tècniques relacionades:** Penso, m'interessa, investigo, Pregunta i respon, Pregunta el perquè
+**Tècniques relacionades:** Penso, m'interessa, investigo, Pregunta el perquè, Pregunta i respon, Tècnica de formulació de preguntes (QFT)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Treball per projectes
+- *Dimensions:* Enfocament competencial, Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -4438,15 +4466,15 @@ En l'assignatura de Tecnologia, es planteja el repte de dissenyar un sistema de 
 4. Els grups munten un prototip i fan proves de funcionament a l'aula.
 5. Finalment, instal·len el sistema a l'hort i presenten el resultat final, explicant com han superat els problemes tècnics que han anat sorgint durant el procés.
 
-**Tècniques relacionades:** Situació problema, Aprenentatge basat en casos (ABC), Aprenentatge basat en reptes (ABR)
+**Tècniques relacionades:** Aprenentatge basat en casos (ABC), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Els Grups de Recerca, Situació problema
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació incidental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Banc de descriptors, Barem, Conversor de nivells a qualificació, Quadern de qualificacions, Diari del docent, Escala descriptiva, Escala d'observació, Escala de progrés, Escala de valoració, Escala verbal, Fitxa de retroalimentació, Guia de correcció, Guia d'observació, Llista d'indicadors per criteri, Llista de verificació o control, Mapa d'evidències per criteri, Matriu de ponderació, Notes de camp, Perfil d'assoliment, Plantilla de correcció, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica competencial, Rúbrica de treball cooperatiu, Rúbrica oral, Taula de qualificació per criteris
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Treball per projectes
+- *Dimensions:* Estudi de casos, Enfocament competencial, Avaluació contínua, Avaluació criterial, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -4500,7 +4528,9 @@ Altres fonts consultades: Jimenez Pierre,O.et al. (2007). Modelo de aprendizaje 
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Resolució de problemes
+- *Instruments:* Semàfor d'avaluació
+
+- *Dimensions:* Heteroavaluació, Indagació, Resolució de problemes, Traçabilitat, autoria i ús d'IA
 
 ---
 
@@ -4533,7 +4563,7 @@ El mestre escriu a la pissarra paraules clau com “comunicació”, “lideratg
 
 **Recursos:** [Núvol de paraules](https://jjdeharo.github.io/directo/nube.html)
 
-**Tècniques relacionades:** Mapa conceptual a quatre bandes, El foli giratori, Paraula, idea, frase
+**Tècniques relacionades:** El foli giratori, Mapa conceptual a quatre bandes, Paraula, idea, frase
 
 **Com avaluar:**
 
@@ -4541,7 +4571,7 @@ El mestre escriu a la pissarra paraules clau com “comunicació”, “lideratg
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Resolució de problemes
+- *Dimensions:* Avaluació gamificada, Resolució de problemes
 
 ---
 
@@ -4560,7 +4590,7 @@ Un exemple de la tècnica del joc de rol podria ser el següent:
 
 Imaginarem que el grup està estudiant la Segona Guerra Mundial. Els participants poden dividir-se en diferents rols, com ara líders polítics, militars o ciutadans comuns dels diferents països implicats en la guerra. Després, el grup haurà de resoldre una sèrie de problemes o dilemes relacionats amb la guerra, com ara quines decisions prendria cada rol en determinades situacions o quines conseqüències tindrien aquestes decisions. Així, els participants hauran de treballar junts per a resoldre els problemes del joc de rol i alhora reflexionar sobre els diferents punts de vista i les motivacions dels diferents personatges.
 
-**Tècniques relacionades:** Cercle de punts de vista, Role on the Wall (Silueta del personatge), Aprenentatge basat en casos (ABC)
+**Tècniques relacionades:** Aprenentatge basat en casos (ABC), Cercle de punts de vista, Role on the Wall (Silueta del personatge)
 
 **Com avaluar:**
 
@@ -4568,7 +4598,7 @@ Imaginarem que el grup està estudiant la Segona Guerra Mundial. Els participant
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Estudi de casos, Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Avaluació gamificada, Heteroavaluació, Resolució de problemes, Simulació
 
 ---
 
@@ -4601,7 +4631,7 @@ Durant la primera setmana de treball en equips cooperatius, el professor forma p
 
 Després d’entrevistar-se mútuament, cada alumne escriu una frase sobre el seu company, per exemple: “La Marta és organitzada, prefereix tenir les tasques clares i pot ajudar l’equip a repartir la feina”. Al final, les frases es llegeixen en veu alta i serveixen per formar una imatge més rica del grup.
 
-**Tècniques relacionades:** Coneguem-nos, Rellotge de cites, Seguir la pista
+**Tècniques relacionades:** Qui és qui?, Coneguem-nos, Rellotge de cites, Seguir la pista
 
 **Com avaluar:**
 
@@ -4650,7 +4680,7 @@ En tutoria, el grup fa una taula rodona sobre la pregunta: “Com podem millorar
 
 El docent modera perquè ningú monopolitzi la conversa i anota les propostes més repetides. Després, el grup acorda tres mesures concretes, com deixar els mòbils en una zona comuna durant determinades activitats, permetre’n l’ús només quan la tasca ho requereixi i revisar l’acord al cap de dues setmanes. La tècnica permet dialogar, negociar i arribar a una decisió compartida.
 
-**Tècniques relacionades:** Seminari socràtic, Fishbowl (Peixera), Talking Chips (Fitxes de conversa)
+**Tècniques relacionades:** Fishbowl (Peixera), Seminari socràtic, Talking Chips (Fitxes de conversa), El joc de la NASA
 
 **Com avaluar:**
 
@@ -4658,7 +4688,7 @@ El docent modera perquè ningú monopolitzi la conversa i anota les propostes m�
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Resolució de problemes, Finalitat sumativa
+- *Dimensions:* Estudi de casos, Avaluació compartida i participativa, Evidència de desempenys, Heteroavaluació, Resolució de problemes, Finalitat sumativa
 
 ---
 
@@ -4703,11 +4733,11 @@ En una classe de ciències socials, el grup llegeix un text breu sobre les cause
 
 Després, el segon alumne llegeix el paràgraf següent i el tercer el resumeix. El procés continua fins a acabar el text. Al final, cada equip elabora una llista comuna amb les causes econòmiques, socials i polítiques que ha identificat. La tècnica ajuda a mantenir l’atenció i a comprovar la comprensió durant la lectura, no només al final.
 
-**Tècniques relacionades:** Paraula, idea, frase, Tertúlia dialògica, Lectura fantasma
+**Tècniques relacionades:** Lectura fantasma, Paraula, idea, frase, Tertúlia dialògica, Ensenyament recíproc, +1
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions
+- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Proves específiques
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
@@ -4746,7 +4776,7 @@ En acabar, el grup comenta si s’ha mantingut el ritme, si les pauses han ajuda
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -4781,7 +4811,7 @@ En cada equip, un alumne prepara la part sobre neurones, un altre la del sistema
 
 **Recursos:** [BoardLive: Pissarra col·laborativa](https://boardlive.github.io/)
 
-**Tècniques relacionades:** El joc de les paraules, Visual Thinking (pensament visual), Analitza i sintetitza
+**Tècniques relacionades:** Analitza i sintetitza, El joc de les paraules, Visual Thinking (pensament visual), Model Frayer, Genera, ordena, connecta, elabora
 
 **Com avaluar:**
 
@@ -4884,15 +4914,15 @@ Creació d'un hort comunitari en un barri amb pocs espais verds i alta concentra
    1. Es promouria la difusió dels resultats i les conclusions obtingudes, ja sigui a través de les xarxes socials o de la premsa local.
    1. Es buscarien possibles col·laboracions amb altres iniciatives similars per estendre el program.
 
-**Tècniques relacionades:** Aprenentatge basat en reptes (ABR), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en projectes (ABProjectes)
+**Tècniques relacionades:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament, Triangulació d'evidències
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Banc de descriptors, Banc digital d'evidències, Contracte de grup, Diana d'avaluació, Fitxa de retroalimentació, Fitxa de valoració, Full de seguiment grupal, Full de seguiment individual, Informe individual d'avaluació, Llista de verificació o control, Matriu de valoració, Matriu de ponderació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu, Rúbrica global o holística, Rúbrica de procés, Rúbrica de producte
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes, Treball per projectes
+- *Dimensions:* Avaluació contínua, Avaluació criterial, Evidència de desempenys, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -4921,7 +4951,7 @@ Es pot aplicar en ciències, matemàtiques, llengua, història, economia o quals
 #### Exemple
 En matemàtiques, per al concepte “funció”, l'alumnat escriu una definició, indica característiques com que a cada valor d'entrada li correspon un únic valor de sortida, afegeix exemples de funcions mitjançant taules o gràfiques i no exemples on un mateix valor d'entrada té dues sortides diferents.
 
-**Tècniques relacionades:** Analitza i sintetitza, Contrasta i compara, Mapa conceptual a quatre bandes, Paraula, idea, frase, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK)
+**Tècniques relacionades:** Analitza i sintetitza, Contrasta i compara, Mapa conceptual a quatre bandes, Paraula, idea, frase, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Genera, ordena, connecta, elabora
 
 **Com avaluar:**
 
@@ -4954,7 +4984,7 @@ Es pot realitzar en petits grups, amb rols rotatoris, o mitjançant modelatge in
 #### Exemple
 En biologia, el grup llegeix un text sobre vacunes. Un alumne resumeix el primer paràgraf, un altre formula una pregunta sobre la resposta immunitària, un altre aclareix el significat d'“anticòs” i un altre prediu què s'explicarà després sobre memòria immunològica. La lectura es converteix en un procés actiu i compartit.
 
-**Tècniques relacionades:** Lectura compartida, Paraula, idea, frase, Pregunta el perquè, Pregunta i respon, Tertúlia dialògica, Seminari socràtic
+**Tècniques relacionades:** Lectura compartida, Paraula, idea, frase, Pregunta el perquè, Pregunta i respon, Seminari socràtic, Tertúlia dialògica, Pensament en veu alta, Apunts Cornell
 
 **Com avaluar:**
 
@@ -4997,7 +5027,7 @@ En biologia, després d’explicar la mitosi, cada alumne escriu durant 4 minuts
 
 Després de tres rondes, el resum torna al seu autor. Cada alumne dedica 3 minuts a revisar les aportacions i escriu una versió final de cinc línies. L’activitat completa es pot fer en uns 15 minuts.
 
-**Tècniques relacionades:** El foli giratori, Revisió entre iguals (peer review), Dues estrelles i un desig, Lectura compartida
+**Tècniques relacionades:** El foli giratori, Lectura compartida, Revisió entre iguals (peer review), Dues estrelles i un desig
 
 **Com avaluar:**
 
@@ -5005,7 +5035,7 @@ Després de tres rondes, el resum torna al seu autor. Cada alumne dedica 3 minut
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -5037,7 +5067,7 @@ Els apunts Cornell són un sistema de presa d’apunts que divideix la pàgina e
 #### Exemple
 En història, durant una explicació sobre la Segona República, l’alumnat pren notes durant 20 minuts. En acabar, dedica 5 minuts a escriure preguntes a la columna lateral: causes, reformes, oposició i final. Després redacta una síntesi de quatre línies.
 
-**Tècniques relacionades:** Pràctica de recuperació, Minute Paper (Paper d'un minut), Paraula, idea, frase, Ensenyament recíproc
+**Tècniques relacionades:** Minute Paper (Paper d'un minut), Paraula, idea, frase, Ensenyament recíproc, Pràctica de recuperació, Pràctica espaiada
 
 **Com avaluar:**
 
@@ -5045,7 +5075,7 @@ En història, durant una explicació sobre la Segona República, l’alumnat pre
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -5077,7 +5107,7 @@ El resum en una frase és una tècnica de síntesi en què l’alumnat condensa 
 #### Exemple
 Després d’estudiar la Segona República, l’alumnat dedica 3 minuts a escriure una frase que inclogui cronologia, naturalesa política, reformes i final. Després compara la frase amb la d’un company i tots dos revisen si hi falta algun element essencial.
 
-**Tècniques relacionades:** Titulars, Paraula, idea, frase, Analitza i sintetitza, Minute Paper (Paper d'un minut)
+**Tècniques relacionades:** Analitza i sintetitza, Minute Paper (Paper d'un minut), Paraula, idea, frase, Titulars
 
 **Com avaluar:**
 
@@ -5085,7 +5115,7 @@ Després d’estudiar la Segona República, l’alumnat dedica 3 minuts a escriu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -5124,15 +5154,15 @@ Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para apr
 
 1. Al final de l'activitat, el professor fa un resum dels coneixements dels estudiants i determina quines àrees necessiten més treball. També fa una revisió dels conceptes clau de la circulació sanguínia per assegurar que tots els alumnes els han entès de manera adequada.
 
-**Tècniques relacionades:** Quiz-Quiz-Trade (Intercanvi de targetes), Pregunta i respon, Parada de tres minuts
+**Tècniques relacionades:** Parada de tres minuts, Pregunta i respon, Quiz-Quiz-Trade (Intercanvi de targetes)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Proves específiques, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Proves específiques, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Escala numèrica, Fitxa de retroalimentació, Formulari digital, Full de càlcul d'avaluació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -5163,15 +5193,15 @@ Acord explícit entre alumne i professor sobre objectius, tasques, temps, recurs
 #### Exemple
 En un projecte d'investigació, cada alumne acorda amb el professor la pregunta que treballarà, les fonts que consultarà, el producte final i les dates de lliurament parcials.
 
-**Tècniques relacionades:** Portfolio (dossier d'aprenentatge), Diari d'aprenentatge, Aprenentatge visible (Visible Learning)
+**Tècniques relacionades:** Diari d'aprenentatge, Portfolio (dossier d'aprenentatge), Aprenentatge visible (Visible Learning), Guies d’orientació
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Banc digital d'evidències, Fitxa de retroalimentació, Fitxa de valoració, Full de seguiment individual, Informe individual d'avaluació, Matriu de valoració, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Indagació, Treball per projectes
 
 ---
 
@@ -5204,15 +5234,15 @@ Després d'una exposició oral, cada alumne valora claredat, domini del contingu
 
 **Recursos:** [Escala de valoració](https://jjdeharo.github.io/directo/escala.html)
 
-**Tècniques relacionades:** El semàfor, Rúbrica d’avaluació, Tiquet de sortida (exit ticket)
+**Tècniques relacionades:** El semàfor, Tiquet de sortida (exit ticket), Rúbrica d’avaluació, Revisió entre iguals (peer review), Dues estrelles i un desig
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació, Rúbrica de coavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Autoavaluació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -5245,15 +5275,15 @@ Després de treballar la mitosi, els alumnes escriuen en una targeta la diferèn
 
 **Recursos:** [Tiquets de sortida](https://jjdeharo.github.io/directo/ticket.html)
 
-**Tècniques relacionades:** Tiquet de sortida (exit ticket), Muddiest Point (El punt més confús), El semàfor
+**Tècniques relacionades:** El semàfor, Muddiest Point (El punt més confús), Parada de tres minuts, Tiquet de sortida (exit ticket), Pràctica de recuperació, Apunts Cornell, Resum en una frase
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -5285,7 +5315,7 @@ Després d'explicar les funcions exponencials, diversos alumnes indiquen que el 
 
 **Recursos:** [Tiquets de sortida](https://jjdeharo.github.io/directo/ticket.html)
 
-**Tècniques relacionades:** Minute Paper (Paper d'un minut), El Sac de Dubtes, El semàfor
+**Tècniques relacionades:** El Sac de Dubtes, El semàfor, Intercanviar dificultats, Minute Paper (Paper d'un minut), Tiquet de sortida (exit ticket)
 
 **Com avaluar:**
 
@@ -5293,7 +5323,7 @@ Després d'explicar les funcions exponencials, diversos alumnes indiquen que el 
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -5330,7 +5360,7 @@ Durant una explicació sobre la respiració cel·lular, el professor s’atura d
 
 Després, cada equip planteja una pregunta. El professor detecta que diversos dubtes se centren a confondre intercanvi de gasos amb respiració cel·lular, així que aclareix aquesta diferència abans de continuar. La pausa permet ajustar l’explicació mentre l’aprenentatge encara està en procés.
 
-**Tècniques relacionades:** Cadena de Preguntes, Equips d'oients, Minute Paper (Paper d'un minut)
+**Tècniques relacionades:** Cadena de Preguntes, El Sac de Dubtes, Equips d'oients, Minute Paper (Paper d'un minut)
 
 **Com avaluar:**
 
@@ -5338,7 +5368,7 @@ Després, cada equip planteja una pregunta. El professor detecta que diversos du
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -5371,15 +5401,15 @@ En matemàtiques, el professor planteja una pregunta sobre probabilitat condicio
 
 **Recursos:** [Votació simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Tècniques relacionades:** Think-Pair-Share (Pensa-Parella-Comparteix), Nombres iguals junts (Caps junts numerats), Tiquet de sortida (exit ticket)
+**Tècniques relacionades:** Flipped Classroom (Aula invertida), Intercanviar dificultats, Nombres iguals junts (Caps junts numerats), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Pràctica de recuperació, Pràctica intercalada
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Enquesta i qüestionari, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA
 
 ---
 
@@ -5413,15 +5443,15 @@ En cada evidència, l’alumne explica per què l’ha inclosa, quina dificultat
 
 ---
 
-**Tècniques relacionades:** Diari d'aprenentatge, Rúbrica d’avaluació, Avaluació autèntica
+**Tècniques relacionades:** Contracte d'aprenentatge, Diari d'aprenentatge, Avaluació autèntica, Rúbrica d’avaluació, Revisió entre iguals (peer review)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Autoavaluació, Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Indagació
 
 ---
 
@@ -5453,15 +5483,15 @@ En una classe d’anglès, cada alumne rep una targeta amb una paraula de vocabu
 
 Després canvien els rols, intercanvien les targetes i busquen una nova parella. En pocs minuts, cada estudiant practica diverses paraules amb companys diferents. La tècnica converteix el repàs en una activitat breu, oral i dinàmica.
 
-**Tècniques relacionades:** Cadena de Preguntes, TGT (Torneig de Jocs per Equips), Rellotge de cites
+**Tècniques relacionades:** Aprenentatge basat en el joc (ABJ), Cadena de Preguntes, Rellotge de cites, TGT (Torneig de Jocs per Equips), Ludificació (gamificació)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Avaluació gamificada
 
 ---
 
@@ -5484,15 +5514,15 @@ Aquesta tècnica s'utilitza amb l’Escala de valoració: Repartir punts que hau
 
 Font:  Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 
-**Tècniques relacionades:** Rúbrica d’avaluació, STAD (Student Teams Achievement Divisions), Rols cooperatius
+**Tècniques relacionades:** STAD (Student Teams Achievement Divisions), Rúbrica d’avaluació, Rols cooperatius
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació, Rúbrica de coavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Finalitat sumativa
+- *Dimensions:* Autoavaluació, Qualificació i acreditació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Finalitat sumativa
 
 ---
 
@@ -5525,15 +5555,15 @@ Al final, cada alumne fa una prova individual amb un mapa nou. L’equip obté p
 
 **Recursos:** [GeCo - Generador d'Equips Cooperatius](https://jjdeharo.github.io/geco/)
 
-**Tècniques relacionades:** Equips d'ajuda mútua / TAI (Team Assisted Individualization), TGT (Torneig de Jocs per Equips), Nombres iguals junts (Caps junts numerats)
+**Tècniques relacionades:** Nombres iguals junts (Caps junts numerats), Repartir punts, TGT (Torneig de Jocs per Equips), Un per a tots, Equips d'ajuda mútua / TAI (Team Assisted Individualization)
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica
+- *Tècniques d'avaluació:* Observació sistemàtica, Proves específiques
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA
 
 ---
 
@@ -5564,15 +5594,15 @@ Un alumne pot respondre: “He entès que les fàbriques van canviar l’organit
 
 **Recursos:** [Tiquets de sortida](https://jjdeharo.github.io/directo/ticket.html)
 
-**Tècniques relacionades:** Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), El semàfor
+**Tècniques relacionades:** Diana d'avaluació, El semàfor, Flipped Classroom (Aula invertida), Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Peer Instruction (Instrucció entre iguals), Dues estrelles i un desig, Pràctica de recuperació
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Finalitat sumativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Finalitat sumativa
 
 ---
 
@@ -5616,15 +5646,15 @@ En una activitat de llengua, cada alumne escriu un text argumentatiu sobre l'ús
 
 El revisor assenyala una idea clara del text, una part que no s'entén bé i una millora concreta. Després, l'autor revisa el text: reformula la tesi, afegeix una dada i millora el contraargument. La tècnica converteix l'avaluació en una oportunitat real de millora abans de la versió final.
 
-**Tècniques relacionades:** Rúbrica d’avaluació, Portfolio (dossier d'aprenentatge), Gallery Walk (Passejada per la galeria), Diana d'avaluació, Indagació guiada per l'argumentació (ADI), Tertúlia dialògica, Seminari socràtic
+**Tècniques relacionades:** Diana d'avaluació, Gallery Walk (Passejada per la galeria), Portfolio (dossier d'aprenentatge), Seminari socràtic, Rúbrica d’avaluació, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Dues estrelles i un desig, Controvèrsia estructurada amb evidències, +1
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de treball cooperatiu
+- *Instruments:* Diana d'avaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació o control, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coavaluació, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Treball per projectes, Finalitat sumativa
 
 ---
 
@@ -5652,15 +5682,15 @@ Resulta útil perquè equilibra reconeixement i millora. Evita que la revisió e
 #### Exemple
 Després d'una exposició oral sobre un problema ambiental, un company escriu: “Estrella 1: l'explicació de les causes ha estat clara. Estrella 2: les imatges ajudaven a entendre el problema. Desig: seria millor afegir una dada que justifiqui la proposta final”. El grup revisa la presentació abans de lliurar-la de forma definitiva.
 
-**Tècniques relacionades:** Revisió entre iguals (peer review), Rúbrica d’avaluació, Diana d'avaluació, Tiquet de sortida (exit ticket), Aprenentatge visible (Visible Learning)
+**Tècniques relacionades:** Diana d'avaluació, Tiquet de sortida (exit ticket), Aprenentatge visible (Visible Learning), Rúbrica d’avaluació, Revisió entre iguals (peer review), +1
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Fitxa de coavaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de coavaluació, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -5694,15 +5724,15 @@ A l’inici d’una classe de biologia, els alumnes dediquen 5 minuts a escriure
 
 El professor recull els dubtes més freqüents i dedica els primers minuts de la sessió a aclarir-los.
 
-**Tècniques relacionades:** Pràctica espaiada, Apunts Cornell, Minute Paper (Paper d'un minut), Tiquet de sortida (exit ticket), Peer Instruction (Instrucció entre iguals)
+**Tècniques relacionades:** Minute Paper (Paper d'un minut), Peer Instruction (Instrucció entre iguals), Tiquet de sortida (exit ticket), Pràctica espaiada, Pràctica intercalada, Apunts Cornell
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Finalitat sumativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Finalitat sumativa
 
 ---
 
@@ -5734,15 +5764,15 @@ La pràctica espaiada consisteix a distribuir l’estudi i el repàs en diverses
 #### Exemple
 En matemàtiques, cada divendres es dediquen 10 minuts a una fitxa breu amb continguts barrejats de setmanes anteriors: percentatges, proporcionalitat, equacions i lectura de gràfiques. Els errors més repetits es recuperen en el repàs de la setmana següent.
 
-**Tècniques relacionades:** Pràctica de recuperació, Pràctica intercalada, Apunts Cornell, Aprenentatge de domini
+**Tècniques relacionades:** Pràctica de recuperació, Pràctica intercalada, Aprenentatge de domini, Apunts Cornell, Teoria de la càrrega cognitiva
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Enquesta i qüestionari, Observació sistemàtica, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Finalitat diagnòstica, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -5774,15 +5804,15 @@ L’aprenentatge de domini és un enfocament en què l’alumnat avança al cont
 #### Exemple
 En una unitat de fraccions, cada subtema acaba amb una prova breu de 5 preguntes. L’alumnat que domina la suma de fraccions passa a la multiplicació; qui encara té errors rep una explicació alternativa i exercicis específics abans de tornar-ho a intentar.
 
-**Tècniques relacionades:** Equips d'ajuda mútua / TAI (Team Assisted Individualization), Aprenentatge visible (Visible Learning), Rúbrica d’avaluació, Pràctica espaiada
+**Tècniques relacionades:** Aprenentatge visible (Visible Learning), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Rúbrica d’avaluació, Pràctica espaiada
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de produccions
+- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -5814,7 +5844,7 @@ Les guies d’orientació són suports que ajuden l’alumnat a fer una tasca co
 #### Exemple
 Per escriure un text argumentatiu, la guia inclou preguntes com: “Quina és la teva tesi?”, “Quina evidència la sosté?”, “Has inclòs una objecció?” i “Has respost aquesta objecció?”. L’alumnat la utilitza abans d’entregar la versió final.
 
-**Tècniques relacionades:** Rúbrica d’avaluació, Contracte d'aprenentatge, Disseny per a la comprensió (Understanding by Design, UbD), Exemples resolts
+**Tècniques relacionades:** Contracte d'aprenentatge, Disseny per a la comprensió (Understanding by Design, UbD), Rúbrica d’avaluació, Exemples resolts
 
 **Com avaluar:**
 
@@ -5822,7 +5852,7 @@ Per escriure un text argumentatiu, la guia inclou preguntes com: “Quina és la
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -5879,9 +5909,9 @@ Adaptat de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos de
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
+- *Instruments:* Acta d'avaluació, Contracte de grup, Quadern de qualificacions, Diana d'avaluació, Escala de progrés, Escala verbal, Fitxa de coavaluació, Fitxa de retroalimentació, Full de seguiment grupal, Plantilla de feedback/feedforward, Registre anecdòtic, Registre de compromisos de millora, Registre de treball cooperatiu, Registre descriptiu, Registre de participació, Rúbrica de coavaluació, Rúbrica de treball cooperatiu, Sociograma
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Indagació
 
 ---
 
@@ -5942,15 +5972,15 @@ Una de les coses que més m'ha agradat d'aquesta setmana ha estat el treball en 
 
 He fet tots els deures que ens han donat i he revisat els conceptes de la unitat cada dia per estar preparat per a les avaluacions. Estic al dia amb el treball."
 
-**Tècniques relacionades:** Escala de metacognició, Portfolio (dossier d'aprenentatge), Pensava... ara penso
+**Tècniques relacionades:** Contracte d'aprenentatge, Escala de metacognició, Pensava... ara penso, Portfolio (dossier d'aprenentatge)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Banc digital d'evidències, Diana d'avaluació, Escala d'autoavaluació, Fitxa de retroalimentació, Fitxa de valoració, Full de seguiment individual, Informe individual d'avaluació, Llista de verificació d'autoavaluació, Matriu de valoració, Plantilla de feedback/feedforward, Rúbrica d'autoavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Autoavaluació, Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -5981,13 +6011,13 @@ Tècnica de diàleg estructurat al voltant d'un text, una imatge, un problema o 
 #### Exemple
 En filosofia o biologia, el grup analitza un text sobre bioètica. Els alumnes preparen preguntes i durant el seminari discuteixen quins criteris haurien de guiar una decisió científica amb implicacions socials.
 
-**Tècniques relacionades:** Tertúlia dialògica, Fishbowl (Peixera), Controvèrsia acadèmica
+**Tècniques relacionades:** Controvèrsia acadèmica, Equips d'oients, Fishbowl (Peixera), La taula rodona, Tertúlia dialògica, Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Estira-i-arronsa
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Resolució de problemes
+- *Dimensions:* Estudi de casos, Evidència de desempenys, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -6038,7 +6068,7 @@ En economia, l'alumnat analitza l'afirmació: “Pujar el preu dels productes am
 
 La tècnica ajuda que l'alumnat no només defensi una posició, sinó que reconegui les seves condicions i límits.
 
-**Tècniques relacionades:** Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Seminari socràtic, Controvèrsia acadèmica, Fishbowl (Peixera), Les dues columnes, Tertúlia dialògica
+**Tècniques relacionades:** Controvèrsia acadèmica, Fishbowl (Peixera), Seminari socràtic, Les dues columnes, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Controvèrsia estructurada amb evidències, Estira-i-arronsa
 
 **Com avaluar:**
 
@@ -6046,7 +6076,7 @@ La tècnica ajuda que l'alumnat no només defensi una posició, sinó que recone
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
 
 ---
 
@@ -6075,7 +6105,7 @@ Ajuda l'alumnat a veure si un argument està ben sostingut, si falten evidèncie
 #### Exemple
 En ciutadania, l'alumnat construeix un mapa sobre la pregunta: “S'ha de limitar l'ús del mòbil a l'institut?”. Al centre col·loca la tesi, al voltant afegeix raons a favor i en contra, evidències de convivència o aprenentatge i possibles condicions, com usos permesos per a tasques concretes.
 
-**Tècniques relacionades:** Model d'argumentació de Toulmin, Afirmació, evidència i raonament (CER), Controvèrsia acadèmica, Seminari socràtic, Fishbowl (Peixera), Les dues columnes, Tertúlia dialògica
+**Tècniques relacionades:** Controvèrsia acadèmica, Fishbowl (Peixera), Seminari socràtic, Les dues columnes, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Model d'argumentació de Toulmin, Controvèrsia estructurada amb evidències
 
 **Com avaluar:**
 
@@ -6083,7 +6113,7 @@ En ciutadania, l'alumnat construeix un mapa sobre la pregunta: “S'ha de limita
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
 
 ---
 
@@ -6112,7 +6142,7 @@ Està molt relacionada amb la controvèrsia acadèmica, però aquí se subratlla
 #### Exemple
 En biologia i ciutadania, la classe debat si s'ha de limitar la venda de begudes energètiques a menors. Cada equip analitza dades sobre cafeïna, hàbits de consum, salut i llibertat d'elecció. Després defensa una postura, escolta objeccions i redacta una síntesi final amb condicions, límits i evidències.
 
-**Tècniques relacionades:** Controvèrsia acadèmica, Model d'argumentació de Toulmin, Afirmació, evidència i raonament (CER), Seminari socràtic, Fishbowl (Peixera), Revisió entre iguals (peer review), Mapa d'arguments
+**Tècniques relacionades:** Controvèrsia acadèmica, Fishbowl (Peixera), Seminari socràtic, Afirmació, evidència i raonament (CER), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Mapa d'arguments, Estira-i-arronsa
 
 **Com avaluar:**
 
@@ -6120,7 +6150,7 @@ En biologia i ciutadania, la classe debat si s'ha de limitar la venda de begudes
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Estudi de casos, Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -6152,13 +6182,13 @@ El pensament en veu alta és una tècnica de modelatge en què el docent verbali
 #### Exemple
 En una activitat de comprensió lectora, el professor llegeix un paràgraf i diu: “No conec aquesta paraula, però per la frase anterior sembla que indica una causa. Continuaré llegint per comprovar-ho”. Després els alumnes practiquen la mateixa estratègia per parelles.
 
-**Tècniques relacionades:** Alliberament gradual de la responsabilitat, Ensenyament recíproc, Exemples resolts, Tutoria entre iguals (Peer Tutoring)
+**Tècniques relacionades:** Tutoria entre iguals (Peer Tutoring), Ensenyament recíproc, Exemples resolts, Alliberament gradual de la responsabilitat
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Dimensions:* Avaluació inclusiva i DUA
+- *Dimensions:* Evidència de desempenys, Avaluació inclusiva i DUA
 
 ---
 
@@ -6192,15 +6222,15 @@ Tècnica de discussió en què un petit grup dialoga al centre mentre la resta o
 #### Exemple
 En ciències socials, el grup central debat si una ciutat hauria de limitar el trànsit privat. Els observadors anoten arguments basats en dades, preguntes rellevants i moments en què s'escolta o no els altres.
 
-**Tècniques relacionades:** Seminari socràtic, Controvèrsia acadèmica, Talking Chips (Fitxes de conversa)
+**Tècniques relacionades:** Controvèrsia acadèmica, La taula rodona, Seminari socràtic, Talking Chips (Fitxes de conversa), Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Fitxa de coavaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de coavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Estudi de casos, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -6233,15 +6263,15 @@ Els pòsters es col·loquen a les parets de l’aula. Els grups roten per la cla
 
 **Recursos:** [Mur interactiu](https://jjdeharo.github.io/directo/muro.html)
 
-**Tècniques relacionades:** Graffiti Cooperatiu, World Café, Visual Thinking (pensament visual)
+**Tècniques relacionades:** Graffiti Cooperatiu, Visual Thinking (pensament visual), World Café, Revisió entre iguals (peer review)
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Observació sistemàtica, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
+- *Instruments:* Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació o control, Plantilla de feedback/feedforward, Rúbrica de coavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Evidència de desempenys, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -6293,11 +6323,11 @@ Cada grup representa visualment el problema, les possibles accions, les persones
 
 **Recursos:** [BoardLive: Pissarra col·laborativa](https://boardlive.github.io/)
 
-**Tècniques relacionades:** CSI: Color, Símbol, Imatge, Mapa conceptual a quatre bandes, Role on the Wall (Silueta del personatge)
+**Tècniques relacionades:** CSI: Color, Símbol, Imatge, Digital storytelling (relats digitals), Gallery Walk (Passejada per la galeria), Mapa conceptual a quatre bandes, Role on the Wall (Silueta del personatge), Model Frayer, Genera, ordena, connecta, elabora
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions
+- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
 
 - *Dimensions:* Resolució de problemes
 
@@ -6342,7 +6372,7 @@ En una unitat d’història i ciutadania, la classe rep la missió d’organitza
 
 L’activitat no es basa a competir per punts, sinó a utilitzar l’estructura de joc per donar sentit al procés, sostenir la participació i fer visible l’aprenentatge.
 
-**Tècniques relacionades:** Aprenentatge basat en el joc (ABJ), TGT (Torneig de Jocs per Equips), Quiz-Quiz-Trade (Intercanvi de targetes)
+**Tècniques relacionades:** Aprenentatge basat en el joc (ABJ), Quiz-Quiz-Trade (Intercanvi de targetes), TGT (Torneig de Jocs per Equips), Model SAMR
 
 **Com avaluar:**
 
@@ -6350,7 +6380,7 @@ L’activitat no es basa a competir per punts, sinó a utilitzar l’estructura 
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Resolució de problemes
+- *Dimensions:* Avaluació contínua, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa, Avaluació gamificada, Heteroavaluació, Avaluació inclusiva i DUA, Resolució de problemes
 
 ---
 
@@ -6387,7 +6417,7 @@ En literatura, després de llegir un fragment d’una novel·la sobre una decisi
 
 El professor no busca una única interpretació correcta, sinó que ajuda el grup a justificar les seves aportacions, escoltar punts de vista diferents i construir una comprensió més rica del text.
 
-**Tècniques relacionades:** Seminari socràtic, Lectura compartida, Paraula, idea, frase
+**Tècniques relacionades:** Lectura compartida, Lectura fantasma, Paraula, idea, frase, Seminari socràtic, Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Mapa d'arguments, Ensenyament recíproc
 
 **Com avaluar:**
 
@@ -6395,7 +6425,7 @@ El professor no busca una única interpretació correcta, sinó que ajuda el gru
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Resolució de problemes
+- *Dimensions:* Evidència de desempenys, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -6433,15 +6463,15 @@ Model de disseny curricular que proposa planificar de darrere cap endavant. En l
 #### Exemple
 Abans de dissenyar una unitat sobre ecosistemes, el professor defineix que l’alumnat ha d’explicar relacions tròfiques i justificar desequilibris. Després decideix quina tasca servirà com a evidència i, finalment, planifica pràctiques, lectures i debats.
 
-**Tècniques relacionades:** Taxonomia de Bloom, Profunditat del coneixement (Depth of Knowledge, DOK), Avaluació autèntica
+**Tècniques relacionades:** Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia de Bloom, Avaluació autèntica, Guies d’orientació, Teoria de la càrrega cognitiva
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Qualificació i acreditació, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -6477,7 +6507,7 @@ Marc que permet analitzar la complexitat cognitiva d’una tasca. No mesura si u
 #### Exemple
 Memoritzar una fórmula pot tenir un nivell baix de DOK, mentre que triar quin model matemàtic cal aplicar a una situació real i justificar la decisió requereix un processament més complex.
 
-**Tècniques relacionades:** Taxonomia de Bloom, Taxonomia SOLO, Rúbrica d’avaluació
+**Tècniques relacionades:** Detecta patrons, Disseny per a la comprensió (Understanding by Design, UbD), Taxonomia SOLO, Taxonomia de Bloom, Rúbrica d’avaluació, Model Frayer, Hàbits mentals
 
 **Com avaluar:**
 
@@ -6485,7 +6515,7 @@ Memoritzar una fórmula pot tenir un nivell baix de DOK, mentre que triar quin m
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
 
 ---
 
@@ -6522,7 +6552,7 @@ Model que ajuda a valorar la qualitat de la comprensió que mostra l’alumnat e
 #### Exemple
 Davant una pregunta sobre selecció natural, un alumne pot mencionar només un factor, relacionar diversos factors o aplicar el concepte a una situació nova. La taxonomia SOLO permet distingir aquests nivells.
 
-**Tècniques relacionades:** Profunditat del coneixement (Depth of Knowledge, DOK), Rúbrica d’avaluació, Aprenentatge visible (Visible Learning)
+**Tècniques relacionades:** Profunditat del coneixement (Depth of Knowledge, DOK), Aprenentatge visible (Visible Learning), Rúbrica d’avaluació
 
 **Com avaluar:**
 
@@ -6530,7 +6560,7 @@ Davant una pregunta sobre selecció natural, un alumne pot mencionar només un f
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Enfocament competencial, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -6568,7 +6598,7 @@ Marc de classificació de processos cognitius que ajuda a formular objectius, ac
 #### Exemple
 En una unitat de biologia, l’alumnat pot recordar termes, explicar processos, aplicar un model, analitzar dades, avaluar una conclusió o crear una proposta experimental.
 
-**Tècniques relacionades:** Profunditat del coneixement (Depth of Knowledge, DOK), Disseny per a la comprensió (Understanding by Design, UbD), Rúbrica d’avaluació
+**Tècniques relacionades:** Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Rúbrica d’avaluació
 
 **Com avaluar:**
 
@@ -6576,7 +6606,7 @@ En una unitat de biologia, l’alumnat pot recordar termes, explicar processos, 
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -6606,15 +6636,15 @@ Enfocament d'avaluació que proposa tasques significatives, contextualitzades i 
 #### Exemple
 En lloc de respondre només preguntes sobre nutrició, l'alumnat dissenya una proposta de menú saludable per a una situació concreta i justifica les decisions amb criteris científics.
 
-**Tècniques relacionades:** Rúbrica d’avaluació, Disseny per a la comprensió (Understanding by Design, UbD), Aprenentatge basat en projectes (ABProjectes)
+**Tècniques relacionades:** Aplica els coneixements, Aprenentatge basat en projectes (ABProjectes), Portfolio (dossier d'aprenentatge), Disseny per a la comprensió (Understanding by Design, UbD), Rúbrica d’avaluació
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
+- *Instruments:* Diana d'avaluació, Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Qualificació i acreditació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -6645,7 +6675,7 @@ Enfocament que orienta la presa de decisions docents cap a pràctiques amb impac
 #### Exemple
 En una activitat d'escriptura, el professor comparteix criteris clars, revisa esborranys, dona feedback específic i demana a l'alumnat que indiqui quina millora concreta aplicarà en la versió següent.
 
-**Tècniques relacionades:** Contracte d'aprenentatge, Rúbrica d’avaluació, Taxonomia SOLO
+**Tècniques relacionades:** Contracte d'aprenentatge, Taxonomia SOLO, Rúbrica d’avaluació, Dues estrelles i un desig, Aprenentatge de domini, Hàbits mentals
 
 **Com avaluar:**
 
@@ -6653,7 +6683,7 @@ En una activitat d'escriptura, el professor comparteix criteris clars, revisa es
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació
 
 ---
 
@@ -6698,7 +6728,9 @@ El professor selecciona dades properes a l’alumnat perquè els conceptes estad
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Anàlisi documental, Intercanvis orals, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
+
+- *Dimensions:* Evidències digitals, Indagació
 
 ---
 
@@ -6734,7 +6766,7 @@ Model que permet analitzar el nivell d’integració tecnològica en una tasca. 
 #### Exemple
 Escriure un text en un processador pot ser substitució; col·laborar en un document compartit amb comentaris i revisió entre iguals pot modificar la tasca.
 
-**Tècniques relacionades:** Coneixement tecnològic, pedagògic i del contingut (TPACK), Digital storytelling (relats digitals), Ludificació (gamificació)
+**Tècniques relacionades:** Digital storytelling (relats digitals), Coneixement tecnològic, pedagògic i del contingut (TPACK), Ludificació (gamificació)
 
 **Com avaluar:**
 
@@ -6742,7 +6774,7 @@ Escriure un text en un processador pot ser substitució; col·laborar en un docu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa
+- *Dimensions:* Avaluació contínua, Evidències digitals, Retroalimentació i feedforward, Finalitat formativa
 
 ---
 
@@ -6777,7 +6809,7 @@ Marc de planificació que proposa atendre la diversitat de l’alumnat des de l�
 #### Exemple
 En una tasca d’investigació, l’alumnat pot consultar textos, vídeos o esquemes, treballar amb suports graduats i presentar el resultat mitjançant informe, exposició, infografia o àudio.
 
-**Tècniques relacionades:** Coneixement tecnològic, pedagògic i del contingut (TPACK), Co-docència (Co-teaching), Estacions d'aprenentatge
+**Tècniques relacionades:** Estacions d'aprenentatge, Coneixement tecnològic, pedagògic i del contingut (TPACK), Co-docència (Co-teaching)
 
 **Com avaluar:**
 
@@ -6785,7 +6817,7 @@ En una tasca d’investigació, l’alumnat pot consultar textos, vídeos o esqu
 
 - *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica de treball cooperatiu
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació contínua, Retroalimentació i feedforward, Finalitat formativa, Avaluació inclusiva i DUA, Indagació
 
 ---
 
@@ -6821,15 +6853,15 @@ Marc competencial que destaca quatre capacitats transversals necessàries per ap
 #### Exemple
 En un projecte sobre sostenibilitat, l’alumnat analitza dades, dissenya propostes, les comunica mitjançant una presentació i treballa en equip per revisar i millorar el producte final.
 
-**Tècniques relacionades:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), World Café
+**Tècniques relacionades:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), World Café, Hàbits mentals
 
 **Com avaluar:**
 
-- *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
+- *Tècniques d'avaluació:* Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Proves específiques, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
 
-- *Dimensions:* Enfocament competencial
+- *Dimensions:* Enfocament competencial, Avaluació compartida i participativa, Treball per projectes
 
 ---
 
@@ -6873,15 +6905,15 @@ En una exposició oral sobre un problema ambiental, la rúbrica pot ajudar a pre
 
 Abans d’exposar, cada grup revisa la seva presentació amb la rúbrica i detecta què ha de millorar. Després, el professor o els companys la utilitzen per donar feedback concret sobre el nivell assolit en cada criteri.
 
-**Tècniques relacionades:** Avaluació autèntica, Diana d'avaluació, Aprenentatge visible (Visible Learning)
+**Tècniques relacionades:** Diana d'avaluació, Portfolio (dossier d'aprenentatge), Repartir punts, Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Revisió entre iguals (peer review), Dues estrelles i un desig, Aprenentatge de domini, Guies d’orientació
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Intercanvis orals, Anàlisi de processos i reflexions, Anàlisi de produccions, Sondeig i qüestionament
 
-- *Instruments:* Fitxa de retroalimentació, Plantilla de feedback/feedforward, Rúbrica analítica
+- *Instruments:* Diana d'avaluació, Escala d'autoavaluació, Fitxa de coavaluació, Fitxa de retroalimentació, Llista de verificació d'autoavaluació, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica d'autoavaluació, Rúbrica de coavaluació
 
-- *Dimensions:* Retroalimentació i feedforward, Finalitat formativa, Resolució de problemes
+- *Dimensions:* Autoavaluació, Qualificació i acreditació, Coavaluació, Avaluació compartida i participativa, Avaluació contínua, Avaluació criterial, Retroalimentació i feedforward, Finalitat formativa, Heteroavaluació, Resolució de problemes
 
 ---
 
@@ -6916,13 +6948,15 @@ Els hàbits mentals són un marc de Costa i Kallick que recull disposicions de p
 #### Exemple
 En un projecte d’investigació, cada equip revisa durant 5 minuts tres hàbits: persistir davant dificultats, comprovar la precisió de les dades i escoltar amb empatia. Després escriu una evidència concreta de cada hàbit i una millora per a la sessió següent.
 
-**Tècniques relacionades:** Les 4C de l'aprenentatge, Aprenentatge visible (Visible Learning), Escala de metacognició, Profunditat del coneixement (Depth of Knowledge, DOK)
+**Tècniques relacionades:** Escala de metacognició, Profunditat del coneixement (Depth of Knowledge, DOK), Aprenentatge visible (Visible Learning), Les 4C de l'aprenentatge
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Observació sistemàtica, Anàlisi de processos i reflexions, Sondeig i qüestionament
 
 - *Instruments:* Rúbrica de treball cooperatiu
+
+- *Dimensions:* Indagació, Resolució de problemes, Treball per projectes
 
 ---
 
@@ -6954,12 +6988,12 @@ La teoria de la càrrega cognitiva és un marc de John Sweller que analitza els 
 #### Exemple
 En física, els primers problemes de moviment es presenten amb les dades ja identificades i la fórmula seleccionada. L’alumnat se centra a interpretar el procediment. En problemes posteriors, ha d’identificar per si mateix les dades, escollir la fórmula i justificar el resultat.
 
-**Tècniques relacionades:** Exemples resolts, Alliberament gradual de la responsabilitat, Pràctica espaiada, Pràctica intercalada, Disseny per a la comprensió (Understanding by Design, UbD)
+**Tècniques relacionades:** Disseny per a la comprensió (Understanding by Design, UbD), Pràctica espaiada, Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat
 
 **Com avaluar:**
 
 - *Tècniques d'avaluació:* Anàlisi documental, Anàlisi de produccions
 
-- *Dimensions:* Avaluació inclusiva i DUA
+- *Dimensions:* Avaluació inclusiva i DUA, Resolució de problemes
 
 ---

@@ -41,6 +41,8 @@ It is especially useful in practical activities, debates, oral presentations, wo
 
 **Limitations:** Can be subjective if there are no clear criteria.
 
+**Active techniques using this:** What makes you say that?, 1 - 2 - 4, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Detect Patterns, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, I Used to Think... Now I Think, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, See-Think-Wonder, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Claim, Support, Question, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary, Habits of mind
+
 ---
 
 
@@ -97,6 +99,8 @@ When the final product does not reflect the full learning (because the process w
 
 **Limitations:** Does not show the full process if not accompanied by ongoing monitoring.
 
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Detect Patterns, Digital Storytelling, Roundtable, Word Game, 5E Instructional Model, Jigsaw, Team-Pair-Solo, Listener Teams, Learning Stations, Flipped Classroom, Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Exchange difficulties, Role Play, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four Wise Students, Group Investigation, Four-Part Concept Map, Problem Matrix, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, RallyRobin, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Headlines, Visual Thinking, World Café, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Two-Column Method, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Centers of Interest (Decroly Approach), Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Interleaved practice, Worked examples, Mastery learning, Gradual release of responsibility, Think-aloud, Generate, sort, connect, elaborate, +1, Question Formulation Technique (QFT), Cornell notes, One-sentence summary, Cognitive load theory
+
 ---
 
 
@@ -123,6 +127,8 @@ They are useful for accrediting achievements and comparing results, but should n
 **Typical evidence:** Written, oral or practical responses under controlled conditions.
 
 **Limitations:** Can reduce assessment if used as the only evidence.
+
+**Active techniques using this:** Inquiry-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Challenge-Based Learning (ChBL), Chain of Questions, Design Thinking, Generate Hypotheses, Generate Solutions, Shared Reading, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), One for All, Understanding by Design (UbD), TPACK, The 4Cs of Learning, Predict, Observe, Explain (POE), Worked examples, Mastery learning
 
 ---
 
@@ -151,6 +157,8 @@ They allow for the assessment of deep comprehension, argumentation, synthesis ab
 
 **Limitations:** Can depend on emotional factors.
 
+**Active techniques using this:** Who's who?, 1 - 2 - 4, Case-Based Learning (CBL), Game-Based Learning (GBL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Circle of Viewpoints, Getting to Know Each Other, Structured Academic Controversy, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Assessment Target, Learning Journal, Digital Storytelling, Word Game, 5E Instructional Model, Listener Teams, Fishbowl (Aquarium), Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four Wise Students, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Discussion Pairs, I Used to Think... Now I Think, Placemat consensus, Portfolio (learning dossier), Ask Why, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Appointment Clock, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Exit Ticket, Headlines, See-Think-Wonder, Visual Thinking, World Café, Understanding by Design (UbD), TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Parallel Teams, NASA Game, Yellow Pages, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Think-aloud, Orientation guides, Generate, sort, connect, elaborate, Tug of war, Question Formulation Technique (QFT), One-sentence summary
+
 ---
 
 
@@ -175,6 +183,8 @@ It is especially useful in diagnostic and formative assessment, because it provi
 **Typical evidence:** Brief responses, oral questions, initial questionnaires, KPSI, exit tickets, brainstorming.
 
 **Limitations:** Can yield superficial evidence if questions are not well formulated or are not used afterwards to make teaching decisions.
+
+**Active techniques using this:** What makes you say that?, 1 - 2 - 4, Analyze and Synthesize, Apply Knowledge, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Detect Patterns, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, The Box, Round Table, Pencils in the Middle, What I know and what we know, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Discussion Pairs, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Placemat consensus, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Appointment Clock, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Problem Situation, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Exit Ticket, Headlines, One for All, See-Think-Wonder, Visual Thinking, World Café, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, TPACK, The 4Cs of Learning, Nominal Group Technique, Two-Column Method, Peer Tutoring, NASA Game, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Interleaved practice, Mastery learning, Gradual release of responsibility, Think-aloud, Orientation guides, Connect, extend, challenge, Generate, sort, connect, elaborate, Tug of war, +1, Question Formulation Technique (QFT), Cornell notes, Habits of mind
 
 ---
 
@@ -201,6 +211,8 @@ It is especially useful in projects, portfolios, cooperative work and complex ta
 
 **Limitations:** Requires ongoing monitoring and clear criteria to avoid becoming a mere accumulation of documents.
 
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, Circle of Viewpoints, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Detect Patterns, Assessment Target, Learning Journal, 5E Instructional Model, Traffic Light, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Round Table, 5 Whys, Minute Paper, Muddiest Point, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Distribute Points, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Problem Situation, Think-Pair-Share, Exit Ticket, Headlines, See-Think-Wonder, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, The 4Cs of Learning, Nominal Group Technique, Two-Column Method, NASA Game, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Interleaved practice, Gradual release of responsibility, Think-aloud, Orientation guides, Connect, extend, challenge, Generate, sort, connect, elaborate, Tug of war, Question Formulation Technique (QFT), Cornell notes, Habits of mind
+
 ---
 
 
@@ -225,6 +237,8 @@ It is useful for obtaining deep evidence, but must be planned to avoid excessive
 **Typical evidence:** Oral responses, explanations, arguments, process decisions.
 
 **Limitations:** Time-consuming and requires a common script to ensure fairness.
+
+**Active techniques using this:** Action-Based Learning (ABL), Challenge-Based Learning (ChBL), Design Thinking, Digital Storytelling, Interview, Think, Puzzle, Explore, Gamification
 
 ---
 
@@ -251,6 +265,8 @@ They are useful for their speed and comparability, but should not replace richer
 
 **Limitations:** Quality depends greatly on question formulation.
 
+**Active techniques using this:** Research-Based Learning (RBL), Challenge-Based Learning (ChBL), Chain of Questions, Design Thinking, Flipped Classroom, KWL (I know, I want to know, I have learned), Compass Points, Minute Paper, Peer Instruction, 3-2-1 Bridge, Quiz-Quiz-Trade, Appointment Clock, Exit Ticket, Retrieval practice, Spaced practice
+
 ---
 
 
@@ -276,6 +292,8 @@ It is a useful technique for continuous and criteria-based assessment, especiall
 
 **Limitations:** Can overvalue what is documented and leave out unrecorded actions.
 
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Inquiry-Based Learning, Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Discovery Learning, Compare and Contrast, Structured Academic Controversy, Detect Patterns, Roundtable, Word Game, 5E Instructional Model, Jigsaw, Listener Teams, Learning Stations, Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Role Play, Interview, Round Table, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four-Part Concept Map, Problem Matrix, Word-Phrase-Sentence, Three-Minute Pause, Peer Instruction, Think, Puzzle, Explore, Ask Why, Ask and Answer, Service-Learning, Review the Consequences, Role on the Wall (Character Silhouette), Socratic Seminar, Headlines, Visual Thinking, Depth of Knowledge (DOK), SOLO Taxonomy, TPACK, SAMR Model, Two-Column Method, Parallel Teams, Centers of Interest (Decroly Approach), Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Interleaved practice, Worked examples, Think-aloud, Generate, sort, connect, elaborate, +1, Question Formulation Technique (QFT), Cornell notes, One-sentence summary, Cognitive load theory
+
 ---
 
 
@@ -300,6 +318,8 @@ It is especially useful in collaborative projects and digital portfolios.
 **Typical evidence:** Forums, comments, edit histories, analytics, messages and digital submissions.
 
 **Limitations:** Digital traces require pedagogical interpretation and respect for privacy.
+
+**Active techniques using this:** Word-Phrase-Sentence
 
 ---
 
@@ -350,6 +370,8 @@ It is especially useful for formative assessment and for detecting learning diff
 
 **Suitable for:** Autonomy, effort, pace, individual progress.
 
+**Active techniques using this:** 1 - 2 - 4, Apply Knowledge, Action-Based Learning (ABL), Traffic Light, Team-Pair-Solo, Minute Paper, Muddiest Point, Ask and Answer, Think-Pair-Share, Exit Ticket, One for All, Retrieval practice, Cornell notes
+
 ---
 
 
@@ -368,6 +390,8 @@ How to use it for assessment: a cooperative work rubric allows evaluating both t
 It is important to evaluate individual contributions and not only the group result.
 
 **Suitable for:** Collaboration, communication, shared responsibility.
+
+**Active techniques using this:** What makes you say that?, Who's who?, 1 - 2 - 4, Case-Based Learning (CBL), Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, Timed Pair Share, Design Thinking, Learning Journal, Roundtable, Word Game, 5E Instructional Model, Jigsaw, The Sack of Doubts, Team-Pair-Solo, Listener Teams, Learning Stations, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Group Investigation, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Discussion Pairs, Think, Puzzle, Explore, Placemat consensus, Ask Why, Ask and Answer, Service-Learning, RallyRobin, Appointment Clock, Distribute Points, Review the Consequences, RoundRobin, Follow the trail, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, One for All, World Café, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Yellow Pages, Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Reciprocal Teaching, Structured Controversy with Evidence, +1, Habits of mind
 
 ---
 
@@ -388,6 +412,8 @@ It is best used as a formative indicator rather than a standalone summative mark
 
 **Suitable for:** Engagement, oral communication, critical thinking.
 
+**Active techniques using this:** 1 - 2 - 4, Game-Based Learning (GBL), CO-OP CO-OP, Timed Pair Share, Assessment Target, Roundtable, Word Game, Listener Teams, Fishbowl (Aquarium), Round Table, Pencils in the Middle, I like it / I don't like it, Numbered Heads Together, Three-Minute Pause, Discussion Pairs, Placemat consensus, Service-Learning, RallyRobin, RoundRobin, Talking Chips, Think-Pair-Share, World Café, Universal Design for Learning (UDL), Nominal Group Technique, Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering
+
 ---
 
 
@@ -406,6 +432,8 @@ How to use it for assessment: an oral rubric or observation guide allows evaluat
 It is important to assess both the preparation process and the oral performance, and to separate the quality of the argument from agreement with the teacher's position.
 
 **Suitable for:** Argumentation, critical thinking, respectful communication.
+
+**Active techniques using this:** Problem-Based Learning (PBL), Circle of Viewpoints, Structured Academic Controversy, Detect Patterns, Fishbowl (Aquarium), Generate Hypotheses, Round Table, Pencils in the Middle, 5 Whys, Word-Phrase-Sentence, Detective Pairs, Discussion Pairs, I Used to Think... Now I Think, Placemat consensus, Service-Learning, Socratic Seminar, Talking Chips, Think-Pair-Share, Exit Ticket, Understanding by Design (UbD), Nominal Group Technique, NASA Game, Centers of Interest (Decroly Approach), Dialogic Gathering, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Tug of war, Question Formulation Technique (QFT)
 
 ---
 
@@ -468,6 +496,8 @@ It is important to assess both the practical process and the written output.
 
 **Suitable for:** Scientific procedure, data handling, scientific thinking.
 
+**Active techniques using this:** What makes you say that?, Research-Based Learning (RBL), Laboratory-Based Learning, Metacognition Ladder, One for All, Argument-Driven Inquiry (ADI), Peer Review
+
 ---
 
 
@@ -486,6 +516,8 @@ How to use it for assessment: a process rubric evaluates the work process; a pro
 It is particularly suitable for competency-based assessment because it integrates knowledge, skills and attitudes.
 
 **Suitable for:** Applied skills, creative process, hands-on competencies.
+
+**Active techniques using this:** Laboratory-Based Learning, Design Thinking, Digital Storytelling, Learning Stations, Placemat consensus, Service-Learning, Visual Thinking, Gamification
 
 ---
 
@@ -506,6 +538,8 @@ It is demanding to design and assess, but offers high validity for competency-ba
 
 **Suitable for:** Decision-making, application in context, professional skills.
 
+**Active techniques using this:** Predict, Observe, Explain (POE)
+
 ---
 
 
@@ -524,6 +558,8 @@ How to use it for assessment: an oral rubric or observation guide allows evaluat
 It is important to clearly define what is being assessed (the content, the performance or both) and to avoid penalising shyness.
 
 **Suitable for:** Empathy, oral communication, situational application.
+
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Case-Based Learning (CBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Compare and Contrast, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Digital Storytelling, Roundtable, 5E Instructional Model, Jigsaw, Traffic Light, Team-Pair-Solo, Listener Teams, Metacognition Ladder, Fishbowl (Aquarium), Flipped Classroom, Generate Hypotheses, Generate Solutions, Role Play, The Box, Pencils in the Middle, What I know and what we know, 5 Whys, Four Wise Students, Detective Pairs, Discussion Pairs, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, See-Think-Wonder, Visual Thinking, Depth of Knowledge (DOK), SAMR Model, Peer Tutoring, NASA Game, Centers of Interest (Decroly Approach), Co-teaching, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Peer Review, Reciprocal Teaching, Interleaved practice, Connect, extend, challenge, Tug of war, +1, Question Formulation Technique (QFT)
 
 ---
 
@@ -565,6 +601,8 @@ It is important to assess the content and not only the presentation style, and t
 
 **Suitable for:** Oral communication, organisation of ideas, subject mastery.
 
+**Active techniques using this:** Who's who?, Case-Based Learning (CBL), Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Assessment Target, Digital Storytelling, Word Game, 5E Instructional Model, Listener Teams, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Round Table, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Four-Part Concept Map, I like it / I don't like it, Word-Phrase-Sentence, Detective Pairs, Discussion Pairs, Portfolio (learning dossier), Ask Why, Appointment Clock, Role on the Wall (Character Silhouette), Follow the trail, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Headlines, Visual Thinking, World Café, TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Parallel Teams, Yellow Pages, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Think-aloud, Orientation guides, Generate, sort, connect, elaborate, Tug of war, One-sentence summary
+
 ---
 
 
@@ -604,6 +642,8 @@ How to use it for assessment: an interview guide with open questions allows eval
 It is particularly useful for detecting difficulties, assessing metacognition and providing personalised feedback, but is time-demanding.
 
 **Suitable for:** Deep understanding, reasoning processes, individual feedback.
+
+**Active techniques using this:** Action-Based Learning (ABL), Challenge-Based Learning (ChBL), Design Thinking, Digital Storytelling, Interview, Think, Puzzle, Explore, Gamification
 
 ---
 
@@ -666,6 +706,8 @@ It is a powerful tool for formative assessment but requires teaching students wh
 
 **Suitable for:** Metacognition, self-regulation, awareness of learning process.
 
+**Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Learning Journal, Metacognition Ladder, Generate Hypotheses, KWL (I know, I want to know, I have learned), I Used to Think... Now I Think, Service-Learning, 3-2-1 Bridge, See-Think-Wonder
+
 ---
 
 
@@ -684,6 +726,8 @@ How to use it for assessment: an assessment matrix or evidence map allows evalua
 It is one of the most complete tools for competency-based and formative assessment, but requires clear structure, time and student guidance.
 
 **Suitable for:** Demonstrating progress, self-regulation, competency-based assessment.
+
+**Active techniques using this:** Research-Based Learning (RBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Learning Contract, Design Thinking, Metacognition Ladder, Portfolio (learning dossier), Service-Learning, Peer Review
 
 ---
 
@@ -830,6 +874,8 @@ It is a simple and quick instrument that reflects comprehension well, though it 
 
 **Suitable for:** Comprehension, identification of key ideas, written synthesis.
 
+**Active techniques using this:** Analyze and Synthesize, Project-Based Learning (PjBL), Chain of Questions, Detect Patterns, Word Game, Generate Hypotheses, Shared Reading, Reciprocal Teaching, +1, One-sentence summary
+
 ---
 
 
@@ -849,6 +895,8 @@ It reflects understanding of structure and relationships better than a verbatim 
 
 **Suitable for:** Organisation, comprehension, identification of relationships between concepts.
 
+**Active techniques using this:** Analyze and Synthesize, CO-OP CO-OP, Digital Storytelling, Word Game, Jigsaw, Learning Stations, Four-Part Concept Map, I Used to Think... Now I Think, Visual Thinking, Universal Design for Learning (UDL), Yellow Pages, Cognitive load theory
+
 ---
 
 
@@ -867,6 +915,8 @@ How to use it for assessment: a checklist or analytic rubric allows evaluating a
 It is more informative than a summary about the depth of understanding, though it requires teaching students how to construct it.
 
 **Suitable for:** Understanding conceptual relationships, deep learning, organising knowledge.
+
+**Active techniques using this:** Word Game, 5 Whys, Four-Part Concept Map, Generate, sort, connect, elaborate
 
 ---
 
@@ -971,6 +1021,8 @@ It requires teaching students the specific conventions of this text genre and ho
 
 **Suitable for:** Critical opinion, structured writing, evaluative analysis.
 
+**Active techniques using this:** Portfolio (learning dossier)
+
 ---
 
 
@@ -1032,6 +1084,8 @@ It is especially useful for assessing planning capacity and self-regulation, as 
 
 **Suitable for:** Planning, self-regulation, organisation of group work.
 
+**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Learning Contract, Design Thinking, Group Investigation, Service-Learning, Understanding by Design (UbD), Team Assisted Individualization (TAI)
+
 ---
 
 
@@ -1071,6 +1125,8 @@ How to use it for assessment: the contract itself is a planning instrument; to a
 It is especially suitable for personalised learning environments and for students with greater autonomy.
 
 **Suitable for:** Autonomy, self-regulation, personalised learning.
+
+**Active techniques using this:** Research-Based Learning (RBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Learning Contract, Design Thinking, Portfolio (learning dossier), Service-Learning, Mastery learning
 
 ---
 
@@ -1133,6 +1189,8 @@ It is one of the most valid instruments for assessing learning transfer and comp
 
 **Suitable for:** Application, reasoning, transfer of knowledge.
 
+**Active techniques using this:** 1 - 2 - 4, Apply Knowledge, Case-Based Learning (CBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Structured Academic Controversy, Design Thinking, Detect Patterns, Word Game, 5E Instructional Model, The Sack of Doubts, Team-Pair-Solo, Flipped Classroom, Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, Round Table, Pencils in the Middle, Group Investigation, Problem Matrix, Numbered Heads Together, Detective Pairs, Placemat consensus, Service-Learning, Appointment Clock, Problem Situation, Teams-Games-Tournament (TGT), One for All, Authentic Assessment, Two-Column Method, NASA Game, Gamification, Interleaved practice, Worked examples, Gradual release of responsibility
+
 ---
 
 
@@ -1194,7 +1252,7 @@ It is effective for assessing recall and recognition, though it is less suitable
 
 **Suitable for:** Recall, recognition, verification of specific knowledge.
 
-**Active techniques using this:** Inquiry-Based Learning, Chain of Questions, Generate Hypotheses, Group Investigation, Word-Phrase-Sentence
+**Active techniques using this:** Inquiry-Based Learning, Question-Based Learning (QBL), Challenge-Based Learning (ChBL), Chain of Questions, Design Thinking, Generate Hypotheses, Generate Solutions, Group Investigation, Word-Phrase-Sentence, STAD (Student Teams Achievement Divisions), Predict, Observe, Explain (POE)
 
 ---
 
@@ -1215,7 +1273,7 @@ It is efficient and reliable for assessing recall, but has limited validity for 
 
 **Suitable for:** Recall, recognition, broad coverage of content.
 
-**Active techniques using this:** Chain of Questions, Generate Hypotheses, Group Investigation, Word-Phrase-Sentence, RoundRobin
+**Active techniques using this:** Inquiry-Based Learning, Question-Based Learning (QBL), Challenge-Based Learning (ChBL), Chain of Questions, Design Thinking, Generate Hypotheses, Generate Solutions, Group Investigation, Word-Phrase-Sentence, RoundRobin, STAD (Student Teams Achievement Divisions), Predict, Observe, Explain (POE)
 
 ---
 
@@ -1362,6 +1420,8 @@ It is especially suitable for assessing visual communication competency and the 
 
 **Suitable for:** Visual communication, synthesis, information design.
 
+**Active techniques using this:** Universal Design for Learning (UDL)
+
 ---
 
 
@@ -1380,6 +1440,8 @@ How to use it for assessment: an analytic rubric allows evaluating content quali
 It is especially suitable for scientific communication and for presenting project results.
 
 **Suitable for:** Scientific communication, synthesis, visual and oral presentation.
+
+**Active techniques using this:** Experiential Learning, Gallery Walk, Cooperative Graffiti, Shared Reading, Ghost Reading, Word-Phrase-Sentence, I Used to Think... Now I Think, Think, Puzzle, Explore, Visual Thinking, Co-teaching, Spaced practice, Connect, extend, challenge, Cognitive load theory
 
 ---
 
@@ -1421,6 +1483,8 @@ It requires access to recording and editing tools and clear prior instruction on
 
 **Suitable for:** Digital communication, audiovisual creativity, content explanation.
 
+**Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Compare and Contrast, CSI: Color, Symbol, Image, Learning Journal, Digital Storytelling, Flipped Classroom, Portfolio (learning dossier), Ask Why, Universal Design for Learning (UDL), Gamification, Concept Cartoon, Connect, extend, challenge
+
 ---
 
 
@@ -1461,7 +1525,7 @@ It is especially suitable for assessing oral communication competency in a digit
 
 **Suitable for:** Oral communication, content research, digital production.
 
-**Active techniques using this:** Cooperative Graffiti, I like it / I don't like it, RallyRobin, RoundRobin, One for All
+**Active techniques using this:** Project-Based Learning (PjBL), Learning Journal, Cooperative Graffiti, I like it / I don't like it, RallyRobin, RoundRobin, One for All, Cooperative Roles
 
 ---
 
@@ -1503,6 +1567,8 @@ It is especially suitable for inclusive assessment (UDL) as it allows students w
 
 **Suitable for:** Spatial representation, applied creativity, hands-on skills.
 
+**Active techniques using this:** Project-Based Learning (PjBL), Discovery Learning
+
 ---
 
 
@@ -1543,6 +1609,8 @@ It is one of the most authentic instruments for project-based assessment and des
 
 **Suitable for:** Design thinking, creative problem solving, applied innovation.
 
+**Active techniques using this:** Problem-Based Learning (PBL), Design Thinking
+
 ---
 
 
@@ -1582,6 +1650,8 @@ How to use it for assessment: an analytic rubric allows evaluating content quali
 It is especially suitable for practising writing for real audiences and for developing digital communication competency.
 
 **Suitable for:** Digital writing, real audience, reflection and communication.
+
+**Active techniques using this:** Challenge-Based Learning (ChBL), See-Think-Wonder
 
 ---
 
@@ -1644,6 +1714,8 @@ It is especially suitable for continuous assessment, digital competency and shar
 
 **Suitable for:** Digital evidence, progress, metacognition, online assessment.
 
+**Active techniques using this:** Project-Based Learning (PjBL), Experiential Learning, Learning Contract, Learning Journal, Digital Storytelling, Metacognition Ladder, Portfolio (learning dossier), Service-Learning, Understanding by Design (UbD), Authentic Assessment, Assessment Rubric
+
 ---
 
 
@@ -1705,6 +1777,8 @@ It is especially useful as a lesson starter or topic introduction, and for getti
 
 **Suitable for:** Prior knowledge, creative thinking, group activation.
 
+**Active techniques using this:** Challenge-Based Learning (ChBL), Circle of Viewpoints, Cooperative Graffiti, Think, Puzzle, Explore, RallyRobin, RoundRobin
+
 ---
 
 
@@ -1723,6 +1797,8 @@ How to use it for assessment: a feedback card or feedback/feedforward template a
 The draft is especially valuable in writing process assessment and in formative feedback approaches.
 
 **Suitable for:** Writing process, formative feedback, iterative improvement.
+
+**Active techniques using this:** Visible Learning, Peer Review, Two Stars and a Wish
 
 ---
 
@@ -1785,6 +1861,8 @@ It is important to train students in how to give constructive feedback and to en
 
 **Suitable for:** Peer feedback, learning from others, assessment criteria appropriation.
 
+**Active techniques using this:** CO-OP CO-OP, Assessment Target, Fishbowl (Aquarium), Gallery Walk, Exchange difficulties, Distribute Points, Assessment Rubric, Peer Review, Two Stars and a Wish
+
 ---
 
 
@@ -1803,6 +1881,8 @@ How to use it for assessment: the teacher can review the feedback sheets to asse
 It is especially suitable for introducing peer assessment in early stages or with younger students, as it is simple and non-threatening.
 
 **Suitable for:** Quick peer feedback, constructive assessment, positive climate.
+
+**Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), CO-OP CO-OP, Assessment Target, Fishbowl (Aquarium), Gallery Walk, Exchange difficulties, Minute Paper, Distribute Points, Exit Ticket, Assessment Rubric, Peer Review, Two Stars and a Wish
 
 ---
 
@@ -1823,6 +1903,8 @@ It assesses self-perceived understanding, not actual understanding. It gains val
 
 **Suitable for:** Quick self-assessment, metacognitive awareness, formative check.
 
+**Active techniques using this:** 5E Instructional Model, Traffic Light, Metacognition Ladder, Flipped Classroom, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Numbered Heads Together, Three-Minute Pause, Peer Instruction, 3-2-1 Bridge, Quiz-Quiz-Trade, Exit Ticket
+
 ---
 
 
@@ -1841,6 +1923,8 @@ How to use it for assessment: the teacher analyses the responses to adjust subse
 It is especially quick and easy to implement and provides very direct information about comprehension at the end of each session.
 
 **Suitable for:** Lesson closing, immediate check, collecting doubts.
+
+**Active techniques using this:** Project-Based Learning (PjBL), 5E Instructional Model, Traffic Light, Flipped Classroom, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Three-Minute Pause, Peer Instruction, 3-2-1 Bridge, Exit Ticket, Understanding by Design (UbD)
 
 ---
 
@@ -1903,6 +1987,8 @@ It is especially suitable for assessing learning transfer and the ability to mob
 
 **Suitable for:** Transfer, reasoning, contextualised competency.
 
+**Active techniques using this:** Apply Knowledge, Case-Based Learning (CBL), Problem-Based Learning (PBL), Challenge-Based Learning (ChBL), Design Thinking, Generate Solutions, Problem Matrix, Placemat consensus, Problem Situation, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Concept Cartoon
+
 ---
 
 
@@ -1922,6 +2008,8 @@ It is especially suitable for assessing application of knowledge in novel contex
 
 **Suitable for:** Application of knowledge, teamwork, problem solving in context.
 
+**Active techniques using this:** Game-Based Learning (GBL), Gamification
+
 ---
 
 
@@ -1940,6 +2028,8 @@ How to use it for assessment: a central question is prepared, ground rules for p
 It allows assessing critical thinking and deep understanding, but requires training in listening and argumentation.
 
 **Suitable for:** Critical thinking, argumentation, deep understanding.
+
+**Active techniques using this:** Socratic Seminar
 
 ---
 
@@ -2093,6 +2183,8 @@ It is the most suitable assessment tool for complex tasks where detailed feedbac
 
 **Limitations:** Requires design time and good descriptors.
 
+**Active techniques using this:** SOLO Taxonomy, Authentic Assessment, Assessment Rubric, Peer Review
+
 ---
 
 
@@ -2216,6 +2308,8 @@ It is especially useful for preventing group work from diluting individual respo
 
 **Limitations:** Requires evidence of real participation.
 
+**Active techniques using this:** What makes you say that?, Who's who?, 1 - 2 - 4, Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, Timed Pair Share, Design Thinking, Roundtable, Word Game, 5E Instructional Model, Jigsaw, The Sack of Doubts, Team-Pair-Solo, Listener Teams, Learning Stations, Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, The Box, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Group Investigation, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Detective Pairs, Discussion Pairs, Think, Puzzle, Explore, Placemat consensus, Ask Why, Ask and Answer, Service-Learning, RallyRobin, Appointment Clock, Review the Consequences, RoundRobin, Follow the trail, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, One for All, World Café, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Yellow Pages, Co-teaching, Gamification, Cooperative Roles, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Reciprocal Teaching, Structured Controversy with Evidence, +1, Habits of mind
+
 ---
 
 
@@ -2263,6 +2357,8 @@ Fast to apply and very useful for activities with clear, closed requirements: la
 **Suitable for:** Simple tasks or clear procedures.
 
 **Limitations:** Does not assess quality or nuance well.
+
+**Active techniques using this:** Laboratory-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Flipped Classroom, Gallery Walk, Generate Solutions, Service-Learning, One for All, Peer Review
 
 ---
 
@@ -2662,6 +2758,8 @@ Feedback is most effective when it is specific, timely and improvement-oriented.
 
 **Limitations:** Does not always produce a grade.
 
+**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
+
 ---
 
 
@@ -2760,6 +2858,8 @@ Especially useful for self-assessment, peer assessment and visual communication 
 
 **Limitations:** Less precise than a rubric.
 
+**Active techniques using this:** Project-Based Learning (PjBL), Experiential Learning, CO-OP CO-OP, Assessment Target, Learning Journal, Jigsaw, Learning Stations, Portfolio (learning dossier), Service-Learning, Distribute Points, Authentic Assessment, Assessment Rubric, Peer Review
+
 ---
 
 
@@ -2808,6 +2908,8 @@ Its value is primarily metacognitive: it requires the student to reflect on thei
 
 **Limitations:** Can be biased without criteria.
 
+**Active techniques using this:** Challenge-Based Learning (ChBL), Assessment Target, Learning Journal, 5E Instructional Model, Traffic Light, Metacognition Ladder, Portfolio (learning dossier), Distribute Points, Assessment Rubric
+
 ---
 
 
@@ -2830,6 +2932,8 @@ Especially useful in learning portfolios, projects and complex tasks where the s
 **Suitable for:** Complex tasks.
 
 **Limitations:** Requires training.
+
+**Active techniques using this:** Challenge-Based Learning (ChBL), Assessment Target, Learning Journal, 5E Instructional Model, Traffic Light, Metacognition Ladder, Portfolio (learning dossier), Distribute Points, Assessment Rubric
 
 ---
 
@@ -2854,6 +2958,8 @@ For it to be effective, students must have practised applying the criteria befor
 
 **Limitations:** Can involve personal bias.
 
+**Active techniques using this:** CO-OP CO-OP, Assessment Target, Fishbowl (Aquarium), Gallery Walk, Exchange difficulties, Distribute Points, Assessment Rubric, Peer Review, Two Stars and a Wish
+
 ---
 
 
@@ -2877,6 +2983,8 @@ It is a good introduction to peer assessment for groups with no prior experience
 
 **Limitations:** Less detailed than a rubric.
 
+**Active techniques using this:** CO-OP CO-OP, Assessment Target, Fishbowl (Aquarium), Gallery Walk, Exchange difficulties, Distribute Points, Assessment Rubric, Peer Review, Two Stars and a Wish
+
 ---
 
 
@@ -2899,6 +3007,8 @@ Especially useful for tasks with clear, closed requirements (format of a report,
 **Suitable for:** Tasks with clear requirements.
 
 **Limitations:** Does not assess quality if dichotomous.
+
+**Active techniques using this:** Challenge-Based Learning (ChBL), Assessment Target, Learning Journal, 5E Instructional Model, Traffic Light, Metacognition Ladder, Portfolio (learning dossier), Distribute Points, Assessment Rubric
 
 ---
 
@@ -3398,6 +3508,8 @@ Its strength lies in shifting marking from final judgement towards future improv
 
 **Limitations:** Loses value if filled in with generic phrases.
 
+**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
+
 ---
 
 
@@ -3526,6 +3638,8 @@ Its main value is metacognitive: it requires students to reflect on what they kn
 
 **Pedagogic function:** Foster metacognition, autonomy and self-regulation.
 
+**Active techniques using this:** Challenge-Based Learning (ChBL), Assessment Target, Learning Journal, 5E Instructional Model, Traffic Light, Metacognition Ladder, Portfolio (learning dossier), Distribute Points, Assessment Rubric
+
 ---
 
 
@@ -3550,6 +3664,8 @@ Its main function is formative: peer comments, combined with clear criteria, hel
 **Typical evidence:** Comments, reviews, scales, rubrics between peers.
 
 **Pedagogic function:** Improve work, understand criteria and learn among peers.
+
+**Active techniques using this:** CO-OP CO-OP, Assessment Target, Fishbowl (Aquarium), Gallery Walk, Exchange difficulties, Distribute Points, Assessment Rubric, Peer Review, Two Stars and a Wish
 
 ---
 
@@ -3576,6 +3692,8 @@ It should not be the only form of assessment: combining it with self-assessment 
 
 **Pedagogic function:** Assess learning using professional or institutional criteria.
 
+**Active techniques using this:** Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Design Thinking, Assessment Target, Learning Journal, Digital Storytelling, 5E Instructional Model, Jigsaw, The Sack of Doubts, Listener Teams, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Role Play, Round Table, Group Investigation, Minute Paper, Muddiest Point, Peer Instruction, Portfolio (learning dossier), Service-Learning, Distribute Points, Socratic Seminar, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Exit Ticket, One for All, World Café, Understanding by Design (UbD), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, Peer Tutoring, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning
+
 ---
 
 
@@ -3601,6 +3719,8 @@ A good diagnostic assessment allows the teacher to start from where students act
 
 **Pedagogic function:** Detect prior knowledge, interests and needs.
 
+**Active techniques using this:** 1 - 2 - 4, Action-Based Learning (ABL), Research-Based Learning (RBL), Question-Based Learning (QBL), Chain of Questions, Structured Academic Controversy, Roundtable, 5E Instructional Model, Listener Teams, Flipped Classroom, KWL (I know, I want to know, I have learned), Compass Points, What I know and what we know, Numbered Heads Together, Detective Pairs, Discussion Pairs, I Used to Think... Now I Think, Think, Puzzle, Explore, 3-2-1 Bridge, Quiz-Quiz-Trade, Appointment Clock, Think-Pair-Share, One for All, See-Think-Wonder, Predict, Observe, Explain (POE), Concept Cartoon, Retrieval practice, Spaced practice, Connect, extend, challenge, Generate, sort, connect, elaborate, Question Formulation Technique (QFT)
+
 ---
 
 
@@ -3612,7 +3732,7 @@ _Assessment during the process to improve learning._
 
 _Keywords: formative, feedback_
 
-This dimension focuses on the subsequent use of information: improving learning, accrediting achievements or making grading decisions.
+This dimension focuses on how information is used while learning is still in progress: adjusting teaching and helping students improve before final grading.
 
 Formative assessment is that whose main function is to improve learning while it is in progress, not to grade at the end. It is not a type of instrument, but a function that any assessment activity can fulfil if the information it generates is used to adjust teaching or learning.
 
@@ -3625,6 +3745,8 @@ Formative assessment requires time and planning, but it is what has the greatest
 **Typical evidence:** Drafts, observations, reviews, questions, journals.
 
 **Pedagogic function:** Regulate teaching and learning through feedback.
+
+**Active techniques using this:** Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
 
 ---
 
@@ -3651,6 +3773,8 @@ When combined with formative assessment throughout the process, the final grade 
 
 **Pedagogic function:** Grade, accredit or summarise learning achieved.
 
+**Active techniques using this:** Getting to Know Each Other, The Sack of Doubts, Round Table, Detective Pairs, Discussion Pairs, Distribute Points, Think-Pair-Share, Exit Ticket, One for All, See-Think-Wonder, World Café, Two-Column Method, Peer Review, Retrieval practice
+
 ---
 
 
@@ -3675,6 +3799,8 @@ Competency-based assessment involves assessing several areas of knowledge and co
 **Typical evidence:** Contextualised tasks, projects, cases, open-ended problems.
 
 **Pedagogic function:** Assess application, transfer and integration.
+
+**Active techniques using this:** Case-Based Learning (CBL), Game-Based Learning (GBL), Research-Based Learning (RBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), 5E Instructional Model, Metacognition Ladder, Learning Stations, SOLO Taxonomy, The 4Cs of Learning, Team Assisted Individualization (TAI), Interleaved practice
 
 ---
 
@@ -3701,6 +3827,8 @@ It is especially useful in experimental sciences, physical education, the arts, 
 
 **Pedagogic function:** Assess action, decision-making and application.
 
+**Active techniques using this:** Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, CO-OP CO-OP, Structured Academic Controversy, Design Thinking, Jigsaw, Listener Teams, Fishbowl (Aquarium), Gallery Walk, Role Play, Round Table, Group Investigation, Peer Instruction, Service-Learning, RallyRobin, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), World Café, Centers of Interest (Decroly Approach), Dialogic Gathering, Argument-Driven Inquiry (ADI), Structured Controversy with Evidence, Think-aloud
+
 ---
 
 
@@ -3725,6 +3853,8 @@ It allows multiple competencies and criteria to be assessed in an integrated way
 **Typical evidence:** Plan, logbook, partial submissions, final product, defence.
 
 **Pedagogic function:** Assess planning, research, creation and communication.
+
+**Active techniques using this:** Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Learning Contract, Digital Storytelling, Cooperative Graffiti, Group Investigation, Service-Learning, The 4Cs of Learning, Nominal Group Technique, Cooperative Roles, Peer Review, Habits of mind
 
 ---
 
@@ -3751,6 +3881,8 @@ It is especially suitable in natural sciences, social sciences and research proj
 
 **Pedagogic function:** Assess scientific thinking, research and analysis.
 
+**Active techniques using this:** Inquiry-Based Learning, Research-Based Learning (RBL), Laboratory-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, CO-OP CO-OP, Learning Contract, 5E Instructional Model, Generate Hypotheses, Group Investigation, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, See-Think-Wonder, TPACK, Universal Design for Learning (UDL), Centers of Interest (Decroly Approach), Argument-Driven Inquiry (ADI), Concept Cartoon, Claim, Support, Question, Connect, extend, challenge, Tug of war, Question Formulation Technique (QFT), Habits of mind
+
 ---
 
 
@@ -3775,6 +3907,8 @@ Suitable for mathematics, physics, chemistry, technology, economics and any area
 **Typical evidence:** Procedures, calculations, explanations, decisions.
 
 **Pedagogic function:** Assess reasoning and transfer.
+
+**Active techniques using this:** 1 - 2 - 4, Apply Knowledge, Case-Based Learning (CBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Circle of Viewpoints, Structured Academic Controversy, Design Thinking, Detect Patterns, Learning Journal, Word Game, 5E Instructional Model, The Sack of Doubts, Team-Pair-Solo, Fishbowl (Aquarium), Flipped Classroom, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, Round Table, Pencils in the Middle, 5 Whys, Group Investigation, Problem Matrix, Numbered Heads Together, Detective Pairs, Placemat consensus, Service-Learning, Appointment Clock, Review the Consequences, Socratic Seminar, Problem Situation, Teams-Games-Tournament (TGT), Think-Pair-Share, Headlines, One for All, Visual Thinking, Depth of Knowledge (DOK), SOLO Taxonomy, Authentic Assessment, Nominal Group Technique, Two-Column Method, Peer Tutoring, NASA Game, Centers of Interest (Decroly Approach), Gamification, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Two Stars and a Wish, Concept Cartoon, Claim, Support, Question, Argument Map, Interleaved practice, Worked examples, Gradual release of responsibility, Habits of mind, Cognitive load theory
 
 ---
 
@@ -3801,6 +3935,8 @@ Especially useful in social sciences, health, law, economics, history and any ar
 
 **Pedagogic function:** Assess applied comprehension, judgement and argumentation.
 
+**Active techniques using this:** Case-Based Learning (CBL), Problem-Based Learning (PBL), Circle of Viewpoints, Structured Academic Controversy, Fishbowl (Aquarium), Role Play, Round Table, Role on the Wall (Character Silhouette), Socratic Seminar, World Café, Two-Column Method, Argument-Driven Inquiry (ADI), Structured Controversy with Evidence
+
 ---
 
 
@@ -3825,6 +3961,8 @@ Suitable for assessing communication, decision-making, conflict resolution, acti
 **Typical evidence:** Roles, decisions, responses, interaction.
 
 **Pedagogic function:** Assess performance, communication and decision-making.
+
+**Active techniques using this:** Role Play, Predict, Observe, Explain (POE)
 
 ---
 
@@ -3851,6 +3989,8 @@ Digital evidence allows digital competency to be assessed authentically and prov
 
 **Pedagogic function:** Assess digital competency, production and online participation.
 
+**Active techniques using this:** Game-Based Learning (GBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Digital Storytelling, Flipped Classroom, Portfolio (learning dossier), Service-Learning, TPACK, SAMR Model, Gamification
+
 ---
 
 
@@ -3873,6 +4013,8 @@ It is especially important in competency-based approaches, because it allows the
 **Typical evidence:** Tasks linked to criteria, competency rubrics, evidence maps.
 
 **Pedagogic function:** Align evidence, assessment criteria, indicators and grading decisions.
+
+**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Learning Contract, Design Thinking, Service-Learning, Understanding by Design (UbD), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, Assessment Rubric, Peer Review, Two Stars and a Wish, Mastery learning
 
 ---
 
@@ -3897,6 +4039,8 @@ Its purpose is to increase the validity of assessment: so that the result reflec
 
 **Pedagogic function:** Reduce barriers and offer different ways of demonstrating learning.
 
+**Active techniques using this:** 1 - 2 - 4, Analyze and Synthesize, Case-Based Learning (CBL), Action-Based Learning (ABL), Experiential Learning, Circle of Viewpoints, CO-OP CO-OP, Learning Journal, Jigsaw, Traffic Light, Team-Pair-Solo, Learning Stations, Flipped Classroom, Generate Hypotheses, Generate Solutions, What I know and what we know, Four Wise Students, Four-Part Concept Map, Numbered Heads Together, Word-Phrase-Sentence, Peer Instruction, Placemat consensus, Portfolio (learning dossier), Ask Why, Ask and Answer, RallyRobin, Distribute Points, RoundRobin, Problem Situation, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Think-Pair-Share, See-Think-Wonder, Universal Design for Learning (UDL), Nominal Group Technique, Two-Column Method, Peer Tutoring, Team Assisted Individualization (TAI), NASA Game, Co-teaching, Gamification, Cooperative Roles, Worked examples, Gradual release of responsibility, Think-aloud, Cognitive load theory
+
 ---
 
 
@@ -3919,6 +4063,8 @@ Well used, it allows assessment to be part of learning and not just a check at t
 **Typical evidence:** Drafts, partial submissions, journals, digital notebook, progress records.
 
 **Pedagogic function:** Track progress, detect needs and adjust teaching in a sustained way.
+
+**Active techniques using this:** Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
 
 ---
 
@@ -3943,6 +4089,8 @@ It has more impact when it arrives during the process, focuses on specific crite
 
 **Pedagogic function:** Turn assessment into concrete improvement action.
 
+**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
+
 ---
 
 
@@ -3966,6 +4114,8 @@ It is a necessary function of the educational system, but must be distinguished 
 
 **Pedagogic function:** Communicate the level achieved and support academic decisions with evidence.
 
+**Active techniques using this:** Learning Contract, Portfolio (learning dossier), Distribute Points, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Understanding by Design (UbD), Authentic Assessment, Assessment Rubric, Mastery learning
+
 ---
 
 
@@ -3988,6 +4138,8 @@ It is especially valuable because it makes the criteria visible and turns assess
 **Typical evidence:** Criteria negotiation, peer assessment, group contracts, improvement commitments.
 
 **Pedagogic function:** Increase understanding of criteria, responsibility and self-regulation.
+
+**Active techniques using this:** CO-OP CO-OP, Learning Contract, Assessment Target, Fishbowl (Aquarium), Gallery Walk, Exchange difficulties, Round Table, Portfolio (learning dossier), Distribute Points, Authentic Assessment, The 4Cs of Learning, Assessment Rubric, Peer Review, Two Stars and a Wish
 
 ---
 
@@ -4014,6 +4166,8 @@ It is especially suitable for formative assessment, consolidation and diagnostic
 
 **Pedagogic function:** Increase motivation and engagement, and obtain immediate feedback on learning.
 
+**Active techniques using this:** Game-Based Learning (GBL), Word Game, Role Play, Quiz-Quiz-Trade, Teams-Games-Tournament (TGT), NASA Game, Gamification
+
 ---
 
 
@@ -4036,5 +4190,7 @@ It is especially useful in research tasks, projects, collaborative documents, po
 **Typical evidence:** Versions, prompts, sources, revision history, justified decisions, AI-use declaration.
 
 **Pedagogic function:** Make the production process visible and distinguish demonstrated learning from the support used.
+
+**Active techniques using this:** Discovery Learning, Getting to Know Each Other, Word-Phrase-Sentence
 
 ---

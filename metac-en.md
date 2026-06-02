@@ -66,9 +66,13 @@ The main difference is that “What makes you say that?” works as a short obse
 
 For this reason, “What makes you say that?” is especially useful for starting a conversation, activating observation or making students' interpretations visible. CER is more suitable when the aim is to produce a final response, a scientific explanation, a lab conclusion or an argued text.
 
+**Related techniques:** Generate Hypotheses, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Concept Cartoon, Claim, Support, Question
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Incidental observation, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Teacher's diary, Descriptive scale, Observation scale, Rating scale, Observation guide, Field notes, Cooperative work rubric
 
 ---
 
@@ -99,9 +103,11 @@ In a biology lesson, the teacher gives students a short text about blood circula
 
 As a final synthesis, each student writes three sentences explaining the whole process without copying the text literally. The teacher checks whether they have distinguished essential information from secondary details and whether the diagram correctly shows the relationships between the parts.
 
+**Related techniques:** Compare and Contrast, Four-Part Concept Map, Word-Phrase-Sentence, Headlines, Frayer Model, Generate, sort, connect, elaborate, One-sentence summary
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -143,6 +149,14 @@ Student tasks:
 After studying percentages and simple interest, the teacher presents a practical situation: “You want to buy a computer that costs 600 euros. One shop offers a 15% discount and another allows you to pay in six months with a 4% surcharge. Which option is better and why?”.
 
 Students must apply the knowledge they have studied, calculate the final price in each case and justify their decision. At the end, they explain which concepts they used, which steps they followed and which mistakes they had to correct. The routine helps check whether students can use their knowledge in a realistic situation, not only in isolated exercises.
+
+**Related techniques:** Generate Solutions, Problem Situation, Authentic Assessment
+
+**How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Problem solving
 
 ---
 
@@ -192,9 +206,15 @@ Each student chooses one perspective and prepares a short statement. For example
 
 At the end, the group shares what new ideas have emerged and what questions remain open. The routine helps students understand that the same issue can have different consequences depending on the perspective taken.
 
+**Related techniques:** Structured Academic Controversy, Role Play, Role on the Wall (Character Silhouette)
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Probing and questioning
+
+- *Instruments:* Cooperative work rubric, Sociogram
+
+- *Dimensions:* Case study, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -259,9 +279,11 @@ Objective: To improve students' understanding of the French Revolution
 - Provide feedback on the quality of the comparisons
 - Outcome: Improved student understanding of the French Revolution and development of critical thinking and communication skills.
 
+**Related techniques:** Analyze and Synthesize, Detect Patterns, Two-Column Method, Frayer Model
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
@@ -346,9 +368,11 @@ This routine can be useful in helping students improve their understanding of a 
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
+**Related techniques:** Word-Phrase-Sentence, Headlines, Visual Thinking
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
 ---
 
@@ -399,9 +423,13 @@ Then, in pairs, they formulate relationships such as: “When rent is more than 
 
 The activity ends with a discussion about how these patterns can help with decisions about saving, spending or financial planning.
 
+**Related techniques:** Compare and Contrast, 5 Whys, Problem Matrix, Depth of Knowledge (DOK)
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Problem solving
 
 ---
 
@@ -432,13 +460,15 @@ The teacher collects the responses or reviews them visually and spends the first
 
 **Resources:** [Rating scale](https://jjdeharo.github.io/directo/escala.html)
 
+**Related techniques:** Assessment Target, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Exit Ticket
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Self-assessment scale, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Self-assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
 
 ---
 
@@ -473,13 +503,15 @@ This routine guides students to reflect on their own learning through a sequence
 #### Example
 After completing a laboratory exercise, students fill in the ladder, indicating what they have learned about experimental design, how they controlled variables, and in what other experiments they could apply that procedure.
 
+**Related techniques:** Learning Journal, I Used to Think... Now I Think, 3-2-1 Bridge, Connect, extend, challenge, Habits of mind
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Incidental observation, Systematic observation, Analysis of processes and reflections, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* AI and sources use declaration, Teacher's diary, Self-assessment scale, Progress scale, Verbal scale, Feedback card, Revision history, Self-assessment checklist, Field notes, Progress dashboard, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Self-assessment rubric, Digital rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Self-assessment, Competency-based approach, Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -524,13 +556,15 @@ In a biology lesson, the teacher shows two plants of the same species: one with 
 
 Students generate hypotheses such as lack of light, overwatering, mineral deficiency or the presence of disease. Then each group decides what data they would need to test its hypothesis: growing conditions, amount of water, soil type, light exposure or presence of insects. Finally, they compare the available evidence and review which hypothesis seems most plausible.
 
+**Related techniques:** What makes you say that?, Inquiry-Based Learning, Detective Pairs, See-Think-Wonder, Predict, Observe, Explain (POE), Concept Cartoon
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Specific tests
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Digital evidence bank, Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Inquiry, Problem solving
 
 ---
 
@@ -575,13 +609,15 @@ Then each group evaluates the proposals using three criteria: ease of use, impac
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html)
 
+**Related techniques:** Apply Knowledge, Design Thinking, Problem Matrix, Problem Situation
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections, Specific tests
+- *Evaluation techniques:* Analysis of processes and reflections, Specific tests, Probing and questioning
 
-- *Instruments:* Checklist
+- *Instruments:* Checklist, Cooperative work rubric
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Dimensions:* Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -618,13 +654,15 @@ Before studying ecosystems, students write what they know about food chains, wha
 
 **Resources:** [Word cloud](https://jjdeharo.github.io/directo/nube.html)
 
+**Related techniques:** 5E Instructional Model, Traffic Light, What I know and what we know, I Used to Think... Now I Think, Think, Puzzle, Explore, 3-2-1 Bridge, Connect, extend, challenge
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Analysis of processes and reflections, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -663,13 +701,15 @@ The teacher presents the following idea or proposal: "The school is considering 
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
+**Related techniques:** I like it / I don't like it, Review the Consequences, Nominal Group Technique, Two-Column Method
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Analysis of processes and reflections, Probing and questioning, Evidence triangulation
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Level-to-grade converter, Feedback card, List of indicators per criterion, Evidence map by criterion, Achievement profile, Feedback/feedforward template, Competency rubric, Oral rubric, Criteria grading table
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -714,13 +754,15 @@ In a biology lesson, the teacher presents the problem: “A plant in the classro
 
 Based on this chain of questions, students propose checking soil moisture, reviewing the plant’s location and setting up a watering plan. The technique helps move from a superficial explanation to more specific and testable causes.
 
+**Related techniques:** Detect Patterns, Ask Why, Review the Consequences
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
 
 ---
 
@@ -804,13 +846,15 @@ In small groups, students share their choices and justify why they selected them
 
 **Resources:** [Word cloud](https://jjdeharo.github.io/directo/nube.html)
 
+**Related techniques:** Analyze and Synthesize, CSI: Color, Symbol, Image, Word Game, Shared Reading, Ghost Reading, Headlines, Dialogic Gathering, Frayer Model, Reciprocal Teaching, Cornell notes, One-sentence summary
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Analysis of digital interactions, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Learning analytics, Scoring scale, Numerical scale, Feedback card, Digital form, Correction guide, Assessment spreadsheet, Correction template, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Traceability, authorship and AI use
 
 ---
 
@@ -846,9 +890,13 @@ After looking at a diagram, analyzing a simple experiment and discussing the rol
 
 The teacher can close the activity by asking each student to identify which idea has changed and which evidence or explanation helped them change it.
 
+**Related techniques:** Learning Journal, Metacognition Ladder, KWL (I know, I want to know, I have learned), 3-2-1 Bridge, Predict, Observe, Explain (POE), Connect, extend, challenge
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
+
+- *Dimensions:* Diagnostic purpose
 
 ---
 
@@ -902,9 +950,15 @@ Finally, the teacher asked the students to share their ideas on how to research 
 
 After sharing their ideas about "I Investigate," the teacher guided the students in selecting one or more research questions to investigate during the rest of the unit.
 
+**Related techniques:** Inquiry-Based Learning, Question-Based Learning (QBL), KWL (I know, I want to know, I have learned), 3-2-1 Bridge, See-Think-Wonder, Claim, Support, Question, Connect, extend, challenge, Question Formulation Technique (QFT)
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Evaluative interview, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Diagnostic purpose, Inquiry
 
 ---
 
@@ -949,11 +1003,15 @@ In a history lesson, the teacher introduces the topic of twentieth-century migra
 
 Students look for answers in maps, population graphs and short testimonies. Then they present an evidence-based explanation. The routine helps turn an initial observation into historical questions that require causes, context and relationships between factors.
 
+**Related techniques:** Question-Based Learning (QBL), 5 Whys, Ask and Answer, Reciprocal Teaching, Question Formulation Technique (QFT)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Inclusive assessment and UDL, Inquiry
 
 ---
 
@@ -984,13 +1042,15 @@ Students answer individually first and then compare their answers in small group
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
+**Related techniques:** Question-Based Learning (QBL), Chain of Questions, Listener Teams, Ask Why, Reciprocal Teaching, Question Formulation Technique (QFT)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
 
 ---
 
@@ -1011,9 +1071,13 @@ This routine is performed twice, once at the beginning of a topic and once at th
 
 3. Finally, each student shares their conclusions with the rest of the class.
 
+**Related techniques:** Metacognition Ladder, KWL (I know, I want to know, I have learned), I Used to Think... Now I Think, Think, Puzzle, Explore
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Analysis of processes and reflections, Probing and questioning
+
+- *Dimensions:* Diagnostic purpose
 
 ---
 
@@ -1058,9 +1122,15 @@ In a technology lesson, the teacher presents the proposal of using only a digita
 
 Then each group classifies the consequences as positive, negative or necessary conditions for the measure to work. The routine helps evaluate a decision before applying it and consider effects that are not immediately visible.
 
+**Related techniques:** Compass Points, 5 Whys, Problem Matrix, Two-Column Method
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Problem solving
 
 ---
 
@@ -1099,9 +1169,13 @@ In literature, students analyze a character from a novel. Inside the silhouette,
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
+**Related techniques:** Circle of Viewpoints, Role Play, Visual Thinking
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Case study, Performance evidence
 
 ---
 
@@ -1159,9 +1233,13 @@ Final headline: "Single-use plastic is an environmental problem that needs to be
 
 Changes in thinking: The students started with a much more positive view of single-use plastic, but as they learned more about the negative consequences for the environment, they realized that this type of plastic is indeed a problem that needs to be solved.
 
+**Related techniques:** Analyze and Synthesize, CSI: Color, Symbol, Image, Digital Storytelling, Word-Phrase-Sentence, One-sentence summary
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Problem solving
 
 ---
 
@@ -1198,11 +1276,13 @@ In an art history lesson, the teacher shows a photograph of a crowded urban squa
 
 In “I think”, they interpret what may be happening: a citizens’ protest, a labor claim or a political demand. In “I wonder”, they formulate questions: “What year did this happen?”, “What were they demanding?”, “Who organized the protest?” or “What consequences did it have?”. The routine helps separate observation, interpretation and research questions.
 
+**Related techniques:** What makes you say that?, Generate Hypotheses, Think, Puzzle, Explore, Predict, Observe, Explain (POE), Concept Cartoon, Claim, Support, Question
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Dimensions:* Diagnostic purpose, Inclusive assessment and UDL, Inquiry, Summative purpose
 
 ---
 
@@ -1233,11 +1313,13 @@ A simple routine for analyzing a proposal, alternative, or previous experience u
 #### Example
 Before deciding whether an activity will be done individually or in groups, the class creates two columns with pros and cons for each option and justifies which organization seems most appropriate.
 
+**Related techniques:** Compare and Contrast, Compass Points, Problem Matrix, Review the Consequences, Toulmin's Argumentation Model, Argument Map
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Dimensions:* Case study, Inclusive assessment and UDL, Problem solving, Summative purpose
 
 ---
 
@@ -1283,13 +1365,15 @@ In a biology lab, students observe that some seeds germinated better with water 
 - **Evidence**: In the group with water, 18 out of 20 seeds germinated, whereas in the group without water none germinated.
 - **Reasoning**: Germination requires the seed to activate its metabolism and rehydrate its tissues. The data show that seeds with water began the process and those without water did not. Therefore, the difference between the two groups supports the claim that water is necessary for germination.
 
+**Related techniques:** What makes you say that?, Inquiry-Based Learning, Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Concept Cartoon, Claim, Support, Question, Argument Map, Structured Controversy with Evidence
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward
+- *Dimensions:* Feedback and feedforward, Problem solving
 
 ---
 
@@ -1326,13 +1410,15 @@ In biology, the teacher asks: “What will happen if we place a peeled potato in
 
 The experiment is then carried out. Students observe that the potato loses firmness and mass. They then compare the result with their prediction and explain the process through osmosis: water leaves the cells and moves into the medium with a higher salt concentration. The technique helps students revise intuitive ideas about water movement and build an evidence-based explanation.
 
+**Related techniques:** Inquiry-Based Learning, 5E Instructional Model, Generate Hypotheses, I Used to Think... Now I Think, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Concept Cartoon
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Specific tests
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Problem solving, Simulation
 
 ---
 
@@ -1360,9 +1446,13 @@ It is lighter than CER. It does not require a full explanation, but it does requ
 #### Example
 In history, after analysing a graph on urban population, a student writes: “Claim: cities grew significantly during industrialisation. Support: the graph shows a steady increase in urban population between 1850 and 1900. Question: was this growth the same across all social groups or did it affect some more than others?”.
 
+**Related techniques:** What makes you say that?, Think, Puzzle, Explore, Socratic Seminar, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Inquiry, Problem solving
 
 ---
 
@@ -1394,9 +1484,13 @@ Connect, extend, challenge is a Project Zero thinking routine that helps student
 #### Example
 After reading a text on climate change, students spend 8 minutes completing three sections. They connect CO2 with combustion studied in chemistry, extend their understanding with the role of methane, and identify as a challenge why effects are not the same in all regions.
 
+**Related techniques:** Metacognition Ladder, KWL (I know, I want to know, I have learned), I Used to Think... Now I Think, Think, Puzzle, Explore
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Analysis of processes and reflections, Probing and questioning
+
+- *Dimensions:* Diagnostic purpose, Inquiry
 
 ---
 
@@ -1428,9 +1522,13 @@ Generate, sort, connect, elaborate is a Project Zero thinking routine for progre
 #### Example
 At the start of the circulatory system, students spend 3 minutes generating terms such as heart, arteries, veins, blood, oxygen and capillaries. They then sort them, connect them with arrows and elaborate the map by adding blood pressure, gas exchange and nutrient transport.
 
+**Related techniques:** Analyze and Synthesize, Four-Part Concept Map, Visual Thinking, Frayer Model
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Diagnostic purpose
 
 ---
 
@@ -1463,9 +1561,13 @@ Tug of war is a Project Zero thinking routine for analysing dilemmas through an 
 #### Example
 In biology, the class analyses whether the use of animals in biomedical research should be allowed. For 10 minutes, groups place arguments for and against: development of treatments, animal suffering, ethical regulation and experimental alternatives. At the end, they formulate a nuanced position.
 
+**Related techniques:** Structured Academic Controversy, Socratic Seminar, Toulmin's Argumentation Model, Structured Controversy with Evidence
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Probing and questioning
+
+- *Dimensions:* Inquiry
 
 ---
 
@@ -1497,9 +1599,13 @@ Then the teacher reads the letters aloud without saying the names. The group tri
 
 Source: Romero, G.A. (2009). Techniques for working on classroom cohesion.
 
+**Related techniques:** Getting to Know Each Other, The Box, Interview, I like it / I don't like it
+
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges
+
+- *Instruments:* Assessment record, Cooperative work rubric, Sociogram
 
 ---
 
@@ -1547,9 +1653,15 @@ During the first week of class, the teacher gives students a worksheet with prom
 
 For a few minutes, students move around the classroom, ask their classmates questions and write names on the worksheet. Then the class shares what they found: each student mentions something they discovered about another person. The activity helps break the ice, encourages initial interaction and allows the group to find connections beyond the usual friendship groups.
 
+**Related techniques:** Who's who?, Interview, Follow the trail, Yellow Pages
+
 **How to assess:**
 
-- *Dimensions:* Traceability, authorship and AI use
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Summative purpose, Traceability, authorship and AI use
 
 ---
 
@@ -1596,9 +1708,15 @@ The team completes a general diagram of the digestive process, linking the phase
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
+**Related techniques:** CO-OP CO-OP, Four Wise Students, Parallel Teams, Cooperative Roles
+
 **How to assess:**
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Evaluation techniques:* Documentary analysis, Analysis of productions
+
+- *Instruments:* Assessment target, Cooperative work rubric
+
+- *Dimensions:* Performance evidence, Teacher assessment, Inclusive assessment and UDL
 
 ---
 
@@ -1639,9 +1757,13 @@ At the beginning of the school year, the teacher brings a box with four objects:
 
 Then each student prepares their own box with three objects that explain something about their personality, interests or skills. In the following session, they present the objects to the group and answer a question from their classmates. The activity allows students to get to know one another personally without focusing on physical appearance.
 
+**Related techniques:** Who's who?, Follow the trail, Yellow Pages
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges
+- *Evaluation techniques:* Oral exchanges, Probing and questioning, Evidence triangulation
+
+- *Instruments:* AI and sources use declaration, Assessment card, Revision history, Individual tracking sheet, Individual assessment report, Assessment matrix, Progress dashboard, Cooperative work rubric, Digital rubric, Assessment traffic light
 
 ---
 
@@ -1680,6 +1802,14 @@ Sources:
 In a tutoring session, the teacher draws an imaginary line in the classroom. The teacher says statements such as: “I like working in groups”, “I like speaking in public”, “I find it hard to ask for help”, “I like creative activities” or “I prefer tasks with very clear instructions”.
 
 Students move to one side or the other depending on whether they agree or disagree; those who partly agree stay near the line. Then the group discusses what they have discovered: some people share unexpected preferences, and others see that they are not the only ones with certain difficulties. The activity helps students get to know the group and normalize differences.
+
+**Related techniques:** Who's who?, Compass Points, Follow the trail
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges
+
+- *Instruments:* Cooperative work rubric
 
 ---
 
@@ -1720,6 +1850,14 @@ There are significant elements in our lives. Sharing them allows us to recognize
 
 Source: ECO. (2007). Group building activities.
 
+**Related techniques:** Getting to Know Each Other, The Box, Interview, I like it / I don't like it
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
 ---
 
 
@@ -1752,9 +1890,15 @@ In a tutoring session on classroom coexistence, each student receives three chip
 
 Once a student has used all three chips, they listen until everyone has used theirs. This prevents the same students from always speaking and gives space to those who usually participate less. At the end, the group selects three shared rules and discusses whether the turn-taking system improved the quality of the dialogue.
 
+**Related techniques:** Fishbowl (Aquarium), Round Table, Nominal Group Technique, Cooperative Roles
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Performance evidence
 
 ---
 
@@ -1785,11 +1929,15 @@ A structured technique for generating and prioritizing ideas that supports balan
 #### Example
 Before choosing a project topic, each student proposes several options. All ideas are then collected, clarified, and voted on to select the proposal that best represents the group.
 
+**Related techniques:** Cooperative Graffiti, Compass Points, RallyRobin, RoundRobin, Talking Chips, World Café
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Inclusive assessment and UDL, Problem solving, Project-based learning
 
 ---
 
@@ -1820,13 +1968,15 @@ A cooperative learning structure in pairs in which one student acts as a tutor f
 #### Example
 In mathematics, a student tutor supports a partner in solving a problem. The tutor asks what data are available, what operation may be needed, and why, but does not write the final answer.
 
+**Related techniques:** Team-Pair-Solo, Four Wise Students, Team Assisted Individualization (TAI), Yellow Pages, Co-teaching, Worked examples, Gradual release of responsibility, Think-aloud
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -1857,13 +2007,15 @@ A cooperative structure that combines heterogeneous team work with individualize
 #### Example
 In arithmetic, each student works through a sequence of exercises adapted to their level. Before asking the teacher for help, the student checks with the team, which provides guidance and reviews the procedure.
 
+**Related techniques:** Team-Pair-Solo, STAD (Student Teams Achievement Divisions), Peer Tutoring, Mastery learning
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Analysis of productions
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Competency-based approach, Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
 
 ---
 
@@ -1894,9 +2046,13 @@ A cooperative structure in which different groups specialize in different practi
 #### Example
 In biology, half the class carries out a practical task observing plant cells and the other half observes animal cells. Mixed teams are then formed to compare results and produce a joint conclusion.
 
+**Related techniques:** Jigsaw, Learning Stations, Four Wise Students
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of productions
+
+- *Instruments:* Cooperative work rubric
 
 ---
 
@@ -1927,11 +2083,15 @@ A decision-making activity that demonstrates the effectiveness of cooperative wo
 #### Example
 The group must rank the most important objects for survival after a moon landing. Each student decides first, then the team, and finally the result is compared with the expert solution.
 
+**Related techniques:** Round Table, Problem Matrix, Placemat consensus
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Gamified assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -1962,6 +2122,14 @@ A group-cohesion activity in which each student creates a personal advertisement
 #### Example
 One student offers help with spreadsheets, another with drawing diagrams, and another with explaining the rules of a game. The class creates a directory to consult when support is needed.
 
+**Related techniques:** Getting to Know Each Other, The Box, Peer Tutoring
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges
+
+- *Instruments:* Cooperative work rubric
+
 ---
 
 
@@ -1990,13 +2158,15 @@ A shared teaching model in which two teachers work together in planning, deliver
 #### Example
 In an inclusive classroom, one teacher leads the explanation while another observes difficulties, provides targeted support, and later both reorganize the activity according to the needs detected.
 
+**Related techniques:** Learning Stations, TPACK, Universal Design for Learning (UDL), Peer Tutoring
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Oral exchanges
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL
 
 ---
 
@@ -2040,13 +2210,15 @@ In a project to create a classroom podcast, one student coordinates the distribu
 
 At the end, the team reviews whether each role helped organize the work better: whether the script was clear, whether everyone participated, whether timing was respected and whether the final product communicates the message well. The technique makes cooperative work more organized and responsibilities more visible.
 
+**Related techniques:** Jigsaw, Pencils in the Middle, Distribute Points, Talking Chips
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of productions
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Project-based learning
 
 ---
 
@@ -2104,11 +2276,15 @@ Source: Pérez, M. (2015). Cooperative Dynamics.
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
+**Related techniques:** Timed Pair Share, Team-Pair-Solo, What I know and what we know, Placemat consensus, Think-Pair-Share
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Assessment record, Cooperative work rubric, Sociogram
+
+- *Dimensions:* Diagnostic purpose, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -2159,13 +2335,15 @@ First, each pair presents its position. Then the pairs switch sides and must def
 
 The activity helps students understand the complexity of the issue and learn to argue without reducing the debate to a simple opposition between being for or against.
 
+**Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Fishbowl (Aquarium), Socratic Seminar, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Tug of war
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment record, Grade book, Teacher's diary, Descriptive scale, Observation scale, Progress scale, Rating scale, Verbal scale, Feedback card, Observation guide, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Case study, Continuous assessment, Performance evidence, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
 ---
 
@@ -2215,13 +2393,15 @@ In a language lesson, the teacher asks each team to write a short story based on
 
 In a second round, each student revises or improves one aspect of the text: vocabulary, coherence, connectors or spelling. At the end, the team reads the story and comments on each member’s contribution. The technique ensures that everyone participates and makes it possible to build a shared product through successive contributions.
 
+**Related techniques:** Word Game, Cooperative Graffiti, RoundRobin, +1
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -2265,13 +2445,15 @@ Topic: **What do seeds need to germinate?**
 4. **Elaborate**: students apply what they have learned to a new situation: designing recommendations for germinating seeds in a school garden or explaining why some seeds stored at home do not germinate. They must justify their proposals using data from the experiment.
 5. **Evaluate**: students review their initial ideas, compare what they thought before with what they can now explain, complete a short self-assessment and submit an evidence-based conclusion. The teacher assesses the quality of the experimental design, the use of data and the final explanation.
 
+**Related techniques:** Inquiry-Based Learning, Laboratory-Based Learning, Discovery Learning, KWL (I know, I want to know, I have learned), Predict, Observe, Explain (POE)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Self-assessment scale, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Self-assessment, Competency-based approach, Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving
 
 ---
 
@@ -2328,13 +2510,15 @@ During an explanation about climate change, the teacher divides the class into f
 
 At the end of the presentation, the questioning team asks about causes and consequences, the approval team highlights the usefulness of distinguishing weather from climate, the disagreement team asks about the reliability of some data, and the examples team links the topic to droughts, heat waves or changes in energy consumption. The activity turns a teacher explanation into active and structured listening.
 
+**Related techniques:** Three-Minute Pause, Ask and Answer, Socratic Seminar
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Performance evidence, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -2381,13 +2565,15 @@ In a mathematics unit on linear functions, the teacher prepares a short 8-minute
 
 Before class, the teacher reviews the answers and notices that many students confuse slope with initial value. In class, the first few minutes are used to clarify this difficulty, and then students work on a practical activity: interpreting graphs of phone tariffs, journeys and electricity consumption. Face-to-face time is used to answer questions, compare strategies and apply the content to specific situations.
 
+**Related techniques:** Learning Stations, Peer Instruction, Exit Ticket
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Group contract, Feedback card, Group tracking sheet, Checklist, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Assessment traffic light
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Problem solving
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -2426,11 +2612,15 @@ Before starting a unit on ecosystems, the teacher gives students a worksheet wit
 
 Then students form pairs and build a shared text using both contributions, correcting errors and adding new relationships. In the whole-class discussion, the teacher collects the most repeated contributions and uses them to start the unit, identify prior ideas and formulate working questions.
 
+**Related techniques:** 1 - 2 - 4, KWL (I know, I want to know, I have learned), Think-Pair-Share
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Diagnostic purpose, Inclusive assessment and UDL
 
 ---
 
@@ -2471,13 +2661,15 @@ In mathematics, the teacher gives each team four proportionality exercises. Each
 
 When time is up, the teacher calls a random number, for example 3. All students with that number answer on behalf of their teams. Since they do not know who will be chosen, the team must help all members understand the task, not just get a quick answer.
 
+**Related techniques:** Pencils in the Middle, Peer Instruction, STAD (Student Teams Achievement Divisions), One for All
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -2514,9 +2706,15 @@ In a digital education lesson, the teacher poses several questions about social 
 
 Each pair discusses the questions for a few minutes and writes down two agreed ideas. Then the teacher randomly asks some pairs for their answers and builds a shared list of recommendations on the board. The technique activates prior experiences and turns them into shared criteria for responsible use.
 
+**Related techniques:** Timed Pair Share, Appointment Clock, Think-Pair-Share
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Diagnostic purpose, Summative purpose
 
 ---
 
@@ -2555,6 +2753,16 @@ In the next round, with the six o’clock appointment, they answer another quest
 
 **Resources:** [Appointment Clock](https://reloj-citas.github.io/)
 
+**Related techniques:** Interview, Discussion Pairs, Quiz-Quiz-Trade
+
+**How to assess:**
+
+- *Evaluation techniques:* Survey and questionnaire, Oral exchanges, Probing and questioning
+
+- *Instruments:* Learning analytics, Digital form, Assessment spreadsheet, Cooperative work rubric
+
+- *Dimensions:* Diagnostic purpose, Problem solving
+
 ---
 
 
@@ -2590,11 +2798,15 @@ A brief cooperative learning technique that combines individual reflection, pair
 #### Example
 In biology, before explaining natural selection, the teacher asks: **Why do some bacteria become resistant to antibiotics?** Each student proposes an explanation, then compares it with their partner, and finally, several answers are gathered to begin the explanation.
 
+**Related techniques:** 1 - 2 - 4, Timed Pair Share, What I know and what we know, Detective Pairs, Discussion Pairs, Peer Instruction
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Diagnostic purpose, Inclusive assessment and UDL, Problem solving, Summative purpose
 
 ---
 
@@ -2621,13 +2833,15 @@ In mathematics, the teacher proposes four proportionality problems to be solved 
 
 At the end, the teacher randomly collects one notebook from each group. The correction of that exercise counts for the whole team. This encourages the group to review everyone’s work and not allow just one person to solve the task without the others understanding it.
 
+**Related techniques:** Pencils in the Middle, Numbered Heads Together, STAD (Student Teams Achievement Divisions)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Specific tests, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Checklist, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving, Summative purpose
 
 ---
 
@@ -2722,11 +2936,13 @@ Secondary school students are studying economics and have to work on the case of
 
 1. Level of contribution to the discussion
 
+**Related techniques:** Problem-Based Learning (PBL), Structured Academic Controversy, Role Play, Problem Situation
+
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges, Analysis of productions
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Dimensions:* Case study, Competency-based approach, Performance evidence, Teacher assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -2765,13 +2981,15 @@ In a digitalization class, students design a solution to improve the organizatio
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html)
 
+**Related techniques:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Generate Solutions, Problem Matrix, The 4Cs of Learning
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Specific tests
+- *Evaluation techniques:* Survey and questionnaire, Evaluative interview, Systematic observation, Oral exchanges, Specific tests, Evidence triangulation
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Learning analytics, Descriptor bank, Level-to-grade converter, AI and sources use declaration, Feedback card, Revision history, List of indicators per criterion, Checklist, Evidence map by criterion, Weighting matrix, Progress dashboard, Achievement profile, Feedback/feedforward template, Competency rubric, Cooperative work rubric, Digital rubric, Global or holistic rubric, Oral rubric, Process rubric, Product rubric, Criteria grading table
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Criteria-based assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
 ---
 
@@ -2802,13 +3020,15 @@ First, the team tries to answer its members’ questions. Questions they cannot 
 
 **Resources:** [Interactive wall](https://jjdeharo.github.io/directo/muro.html)
 
+**Related techniques:** Exchange difficulties, Muddiest Point, Three-Minute Pause
+
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment record, Group contract, Grade book, Descriptive scale, Observation scale, Rating scale, Feedback card, Observation guide, Group tracking sheet, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Cooperative work rubric, Sociogram
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving, Summative purpose
 
 ---
 
@@ -2843,11 +3063,15 @@ In a mathematics lesson, the teacher proposes three similar problems about perce
 
 At the end, the team compares the procedures used and reviews mistakes. The structure allows students to practise first with broad support, then with reduced support and finally independently.
 
+**Related techniques:** 1 - 2 - 4, Peer Tutoring, Team Assisted Individualization (TAI), Worked examples, Gradual release of responsibility
+
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of productions
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -2888,13 +3112,15 @@ Then, the students would work in teams to find the answers to the questions or p
 
 In this way, with this technique, all students would have had the opportunity to reflect on the topic of the water cycle and to work as a team to find the answers to their difficulties. Furthermore, they would have been able to review and correct their problem-solving processes related to this topic.
 
+**Related techniques:** The Sack of Doubts, Muddiest Point, Peer Instruction
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Peer assessment card, Feedback card, Feedback/feedforward template, Peer assessment rubric, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
 
 ---
 
@@ -2939,13 +3165,15 @@ In biology, each team receives a sheet with four questions about nutrition: the 
 
 The student responsible for the first question reads it and coordinates the contributions. Everyone must contribute an idea before writing. When the team reaches a shared answer, everyone takes their pencil and writes it in their notebook. Then the turn passes to the next classmate. This prevents one student from solving the whole task alone and promotes peer explanation.
 
+**Related techniques:** Numbered Heads Together, Placemat consensus, One for All, Cooperative Roles
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
 
 ---
 
@@ -2966,9 +3194,15 @@ In a unit on water pollution, the teacher presents a problematic situation: “D
 
 Each group searches for information, selects evidence and prepares a partial explanation. Then all groups share their results and write a joint report with hypotheses about the causes, data that should be collected and preventive measures. The activity allows students to investigate a complex problem from complementary perspectives.
 
+**Related techniques:** Research-Based Learning (RBL), Problem-Based Learning (PBL), CO-OP CO-OP
+
 **How to assess:**
 
-- *Dimensions:* Problem solving
+- *Evaluation techniques:* Analysis of productions
+
+- *Instruments:* Scoring scale, Numerical scale, Correction guide, Correction template, Cooperative work rubric
+
+- *Dimensions:* Performance evidence, Teacher assessment, Inquiry, Problem solving, Project-based learning
 
 ---
 
@@ -3020,9 +3254,13 @@ This table summarizes ideas related to "how to improve academic performance":
 
 This matrix allows you to compare different solutions and assess which are the best options based on their potential effects or consequences.
 
+**Related techniques:** Design Thinking, Detect Patterns, Generate Solutions, Review the Consequences, Two-Column Method, NASA Game
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Analysis of productions
+
+- *Dimensions:* Problem solving
 
 ---
 
@@ -3051,11 +3289,15 @@ In an economics lesson, the teacher asks: “How could we organize an exchange f
 
 Then the team shares the ideas and writes in the center only those on which everyone agrees. Finally, the spokesperson explains which proposals they reached consensus on and what criteria they used: cost, ease of organization, student participation and expected impact. The technique helps move from individual ideas to a reasoned collective decision.
 
+**Related techniques:** 1 - 2 - 4, Pencils in the Middle, Problem Situation, NASA Game
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -3095,11 +3337,15 @@ Each student spends a few minutes thinking about a possible solution to this pro
 
 Finally, the teacher randomly selects one member from each group to explain the solution(s) they have come up with. Some of the solutions that might emerge from this technique include: promoting the use of public transportation or bicycles instead of private vehicles, improving the quality of vehicle filters, promoting awareness campaigns about pollution, planting trees in the neighborhood to improve air quality, etc.
 
+**Related techniques:** Apply Knowledge, Case-Based Learning (CBL), Problem-Based Learning (PBL), Generate Solutions, Placemat consensus
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Analysis of processes and reflections, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -3133,9 +3379,15 @@ On tournament day, students compete at tables with classmates from other teams w
 
 **Resources:** [QPlay: Interactive Contest](https://jjdeharo.github.io/qplay/) · [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
+**Related techniques:** Game-Based Learning (GBL), Quiz-Quiz-Trade, STAD (Student Teams Achievement Divisions), Gamification
+
 **How to assess:**
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Evaluation techniques:* Oral exchanges, Specific tests, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Grading and accreditation, Performance evidence, Gamified assessment, Teacher assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -3167,9 +3419,13 @@ Interleaved practice mixes problems or tasks of different types within the same 
 #### Example
 In a 20-minute mathematics session, the teacher mixes equations, systems, percentages and proportionality problems. Before calculating, each student writes: “This problem is about...” and justifies which procedure they will apply.
 
+**Related techniques:** Peer Instruction, Retrieval practice, Spaced practice, Cognitive load theory
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Competency-based approach, Problem solving
 
 ---
 
@@ -3201,9 +3457,13 @@ Worked examples are problems that have already been solved step by step, with ex
 #### Example
 In physics, before solving kinematics problems, the teacher shows an example where data are identified, the formula is chosen, units are substituted and the reasonableness of the result is checked. Students then complete a similar problem with some steps left blank.
 
+**Related techniques:** Team-Pair-Solo, Peer Tutoring, Gradual release of responsibility, Think-aloud, Orientation guides, Cognitive load theory
+
 **How to assess:**
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Evaluation techniques:* Documentary analysis, Analysis of productions, Specific tests
+
+- *Dimensions:* Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -3249,13 +3509,15 @@ Imagine that secondary school students are studying history and the teacher want
 
 **Resources:** [QPlay: Interactive Contest](https://jjdeharo.github.io/qplay/)
 
+**Related techniques:** Quiz-Quiz-Trade, Teams-Games-Tournament (TGT), Gamification
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Incidental observation, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Teacher's diary, Descriptive scale, Observation scale, Rating scale, Feedback card, Observation guide, Field notes, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Competency-based approach, Continuous assessment, Performance evidence, Digital evidence, Feedback and feedforward, Formative purpose, Gamified assessment, Teacher assessment
 
 ---
 
@@ -3294,9 +3556,15 @@ A methodology in which learning is organized around questions, observations, or 
 #### Example
 In biology, students investigate why some seeds germinate better than others. They design a small test with different light or humidity conditions, collect data, and justify their conclusions.
 
+**Related techniques:** Research-Based Learning (RBL), Laboratory-Based Learning, Discovery Learning, 5E Instructional Model, Generate Hypotheses, Detective Pairs, Think, Puzzle, Explore, Centers of Interest (Decroly Approach), Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Concept Cartoon
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Specific tests
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
+
+- *Instruments:* Scoring scale, Numerical scale, Correction guide, Correction template, Assessment traffic light
+
+- *Dimensions:* Performance evidence, Teacher assessment, Inquiry, Problem solving
 
 ---
 
@@ -3331,11 +3599,15 @@ An example of action-based learning (ABL) in secondary education could be the fo
 
 Imagine that secondary school students are studying the environment and the teacher wants to use ABL to help them better understand the importance of protecting natural resources. The teacher can plan an activity in which students work collaboratively to research a specific environmental problem, such as water degradation or air pollution, in their community. They then design an awareness campaign to promote the preservation of natural resources and present it to the rest of the class. This activity includes both contextualized tasks, such as conducting interviews or making field observations, and decontextualized tasks, such as using digital resources or creating promotional materials. At the end of the activity, the students reflect on the process they followed and share the results of their campaign with the class. This example shows how ABL can use a combination of contextualized and decontextualized situations to help students connect with their environment and develop skills and knowledge in a meaningful way.
 
+**Related techniques:** Challenge-Based Learning (ChBL), Experiential Learning, Service-Learning, Centers of Interest (Decroly Approach)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Evaluative interview, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Performance evidence, Diagnostic purpose, Teacher assessment, Inclusive assessment and UDL, Problem solving, Project-based learning
 
 ---
 
@@ -3385,13 +3657,15 @@ Finally, the students have to create a tangible final product that demonstrates 
 
 Through the development of this project, the students have learned about energy conservation and climate change in a much deeper and more meaningful way than with traditional teaching methods.
 
+**Related techniques:** Problem-Based Learning (PBL), Design Thinking, Digital Storytelling, Service-Learning, Authentic Assessment, The 4Cs of Learning
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning, Evidence triangulation
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Learning analytics, Descriptor bank, Digital evidence bank, Group contract, Level-to-grade converter, Grade book, AI and sources use declaration, Assessment target, Progress scale, Verbal scale, Feedback card, Assessment card, Revision history, Group tracking sheet, Individual tracking sheet, List of indicators per criterion, Individual assessment report, Checklist, Evidence map by criterion, Assessment matrix, Weighting matrix, Progress dashboard, Achievement profile, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Competency rubric, Cooperative work rubric, Digital rubric, Global or holistic rubric, Oral rubric, Process rubric, Product rubric, Criteria grading table
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Criteria-based assessment, Performance evidence, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving, Project-based learning
 
 ---
 
@@ -3444,13 +3718,15 @@ Example of applying Challenge-Based Learning to solve this problem:
 
 - Evaluation: Students will conduct a self-evaluation to reflect on the process followed and the results obtained. An evaluation will also be carried out by the teacher(s) involved. If deemed necessary, external evaluations can be requested from other stakeholders in the neighborhood to obtain a broader perspective on the work undertaken.
 
+**Related techniques:** Action-Based Learning (ABL), Problem-Based Learning (PBL), Design Thinking, Service-Learning
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Specific tests
+- *Evaluation techniques:* Survey and questionnaire, Evaluative interview, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Descriptor bank, Level-to-grade converter, Self-assessment scale, Feedback card, List of indicators per criterion, Checklist, Self-assessment checklist, Evidence map by criterion, Weighting matrix, Achievement profile, Feedback/feedforward template, Self-assessment rubric, Competency rubric, Cooperative work rubric, Global or holistic rubric, Oral rubric, Process rubric, Product rubric, Criteria grading table
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Self-assessment, Continuous assessment, Criteria-based assessment, Performance evidence, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving
 
 ---
 
@@ -3477,9 +3753,15 @@ An example of experiential learning could be an activity in which biology studen
 
 After the visit, the students can reflect on their observations and experiences and discuss the concepts they have learned. This will allow them to connect theoretical concepts with real life and better understand how to apply them to real-life situations.
 
+**Related techniques:** Action-Based Learning (ABL), Laboratory-Based Learning, Discovery Learning, Centers of Interest (Decroly Approach)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Incidental observation, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Assessment target, Field notes, Assessment traffic light
+
+- *Dimensions:* Performance evidence, Teacher assessment, Inclusive assessment and UDL
 
 ---
 
@@ -3523,13 +3805,15 @@ Sources:
 
 1. Once all the students have spoken, a brief summary of each pair's viewpoints is created.
 
+**Related techniques:** 1 - 2 - 4, Discussion Pairs, RallyRobin, Think-Pair-Share
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -3558,9 +3842,15 @@ In a biology unit on infectious diseases, students create a three-minute digital
 
 The final product combines a short narration, images, simple diagrams, music or sound effects and a scientific conclusion. The teacher asks the story to include concepts such as transmission, immune response, prevention and treatment. When presenting it, each group explains the narrative choices they made and the scientific content they wanted to communicate.
 
+**Related techniques:** Project-Based Learning (PjBL), Headlines, Visual Thinking, SAMR Model
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of productions
+- *Evaluation techniques:* Evaluative interview, Oral exchanges, Analysis of productions
+
+- *Instruments:* Digital form, Assessment spreadsheet
+
+- *Dimensions:* Digital evidence, Teacher assessment, Project-based learning
 
 ---
 
@@ -3597,13 +3887,15 @@ Classroom organization into different stations or workspaces. At each station, s
 #### Example
 In biology, one station involves observing samples, another image analysis, another answering questions, and another creating a diagram. All groups rotate through all the stations.
 
+**Related techniques:** Flipped Classroom, Universal Design for Learning (UDL), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment target, Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Competency-based approach, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL
 
 ---
 
@@ -3639,6 +3931,14 @@ Each team starts at one poster and writes its ideas for three minutes. Then the 
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html) · [Interactive wall](https://jjdeharo.github.io/directo/muro.html)
 
+**Related techniques:** Roundtable, Gallery Walk, RoundRobin, World Café, Nominal Group Technique
+
+**How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Problem solving, Project-based learning
+
 ---
 
 
@@ -3665,7 +3965,13 @@ Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to le
 #### Example
 For example, imagine that you want to carry out an activity on the use of weak pronouns in Catalan. You could select four students who consider themselves to have already mastered this topic and ask them to prepare to explain it to the others. Next, the group would be divided into teams of four students, and one student from each team would visit one of the "wise men" to receive instruction on the use of weak pronouns. After this initial phase, each student would return to their team and explain to their classmates what they had learned from the "wise man" they visited. In this way, all students would have learned about the use of weak pronouns thanks to the explanations provided by the different "wise men."
 
+**Related techniques:** CO-OP CO-OP, Jigsaw, Peer Tutoring, Parallel Teams
+
 **How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Analysis of productions
+
+- *Instruments:* Cooperative work rubric
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -3706,13 +4012,15 @@ _Keywords: hypotheses, prior knowledge, pairs, problem-solving, curiosity_
 
 Source: CRA Los Olivos. (2017). Cooperative Learning Techniques
 
+**Related techniques:** Inquiry-Based Learning, Generate Hypotheses, Think-Pair-Share
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Problem solving, Summative purpose
 
 ---
 
@@ -3745,13 +4053,15 @@ In a literature lesson, the teacher asks: “What traits can a main character ha
 
 The pair continues until they run out of ideas. Then some responses are collected on the board and used to analyze the main character of a short story. The structure makes it possible to generate a broad list quickly and ensures that both students participate.
 
+**Related techniques:** Timed Pair Share, RoundRobin, Nominal Group Technique
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Learning analytics, AI and sources use declaration, Feedback card, Digital form, Revision history, Assessment spreadsheet, Progress dashboard, Feedback/feedforward template, Cooperative work rubric, Digital rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
 
 ---
 
@@ -3786,13 +4096,15 @@ In a tutoring session, the teacher asks the group: “What could we do to make t
 
 The round continues until several proposals have been collected. Then the team selects the two it considers most feasible and shares them with the class. The technique gathers many ideas without one person dominating the conversation.
 
+**Related techniques:** Roundtable, Cooperative Graffiti, RallyRobin, Nominal Group Technique
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Numerical scale, Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
 
 ---
 
@@ -3829,6 +4141,16 @@ A collaborative dialogue activity in small groups that rotate through several ta
 #### Example
 In a unit on sustainability, each table addresses one question: water consumption, energy, waste, mobility, and food. The groups rotate, complete the ideas, and finally develop proposals for the center.
 
+**Related techniques:** Gallery Walk, Cooperative Graffiti, The 4Cs of Learning, Nominal Group Technique
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Analysis of productions, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Case study, Performance evidence, Teacher assessment, Summative purpose
+
 ---
 
 
@@ -3858,9 +4180,13 @@ A globalizing approach that organizes learning around students' needs, interests
 #### Example
 Starting from the center of interest “food”, students observe daily habits, analyze labels, calculate proportions, study nutrients, and develop improvement proposals.
 
+**Related techniques:** Inquiry-Based Learning, Action-Based Learning (ABL), Experiential Learning, Learning Stations
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of productions
+
+- *Dimensions:* Performance evidence, Teacher assessment, Inquiry, Problem solving
 
 ---
 
@@ -3906,13 +4232,15 @@ Then each group prepares a tentative argument. For example: “Light is not nece
 
 Based on these questions, each group revises its explanation and writes a final report. The activity is not limited to obtaining data: it teaches students to defend, question and improve an evidence-based explanation.
 
+**Related techniques:** Inquiry-Based Learning, Research-Based Learning (RBL), Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model, Peer Review
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Case study, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving
 
 ---
 
@@ -3944,11 +4272,13 @@ Gradual release of responsibility is a scaffolding model in which responsibility
 #### Example
 To solve geometry problems, the teacher solves one problem while thinking aloud for 5 minutes. Then they solve another with the class. Next, pairs work on a third problem and, finally, each student solves a similar one individually.
 
+**Related techniques:** Team-Pair-Solo, Peer Tutoring, Worked examples, Think-aloud, Cognitive load theory
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Dimensions:* Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -4048,11 +4378,15 @@ We can also use a simpler structure for the same problem:
 
 2. Results analysis and presentation to the class. Students analyze the collected data and draw conclusions about the effect of different types of fertilizers on plant growth. They then present their research findings to the class clearly and with scientific rigor.
 
+**Related techniques:** Inquiry-Based Learning, Laboratory-Based Learning, Group Investigation, Argument-Driven Inquiry (ADI)
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Survey and questionnaire, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Problem solving
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Competency-based approach, Performance evidence, Diagnostic purpose, Teacher assessment, Inquiry, Problem solving, Project-based learning
 
 ---
 
@@ -4105,9 +4439,15 @@ Then each group designs a simple experiment with two groups of seeds: one expose
 
 At the end, they analyze the data, compare the results with the initial hypothesis and prepare a short presentation with a data table, a graph and an evidence-based conclusion.
 
+**Related techniques:** Inquiry-Based Learning, Research-Based Learning (RBL), Experiential Learning, 5E Instructional Model
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Checklist, Cooperative work rubric
+
+- *Dimensions:* Performance evidence, Teacher assessment, Inquiry, Problem solving, Project-based learning
 
 ---
 
@@ -4161,13 +4501,15 @@ In a unit on the history of Western music, the teacher has decided to use questi
 
 The teacher has divided the students into groups of three and assigned each group one of the periods of Western music. The students must work in teams to develop a set of questions using the three categories mentioned above for their assigned period. Then, each group will present their questions to the rest of the class, who will answer them. In this way, learning will develop collaboratively and metacognitively, as students must use their prior knowledge, synthesize the information they have acquired, organize and prioritize it, and apply their knowledge to new situations.
 
+**Related techniques:** Think, Puzzle, Explore, Ask Why, Ask and Answer, Question Formulation Technique (QFT)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Specific tests
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Competency-based approach, Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving, Project-based learning
 
 ---
 
@@ -4222,13 +4564,15 @@ In the Technology subject, the challenge is to design an automatic irrigation sy
 
 5. Finally, they install the system in the garden and present the final result, explaining how they overcame the technical problems that arose during the process.
 
+**Related techniques:** Case-Based Learning (CBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Group Investigation, Problem Situation
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Incidental observation, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Descriptor bank, Scoring scale, Level-to-grade converter, Grade book, Teacher's diary, Descriptive scale, Observation scale, Progress scale, Rating scale, Verbal scale, Feedback card, Correction guide, Observation guide, List of indicators per criterion, Checklist, Evidence map by criterion, Weighting matrix, Field notes, Achievement profile, Correction template, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Competency rubric, Cooperative work rubric, Oral rubric, Criteria grading table
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Case study, Competency-based approach, Continuous assessment, Criteria-based assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving, Project-based learning
 
 ---
 
@@ -4271,11 +4615,15 @@ Discovery learning can be divided into two main categories: **guided discovery l
 
 Other sources consulted: Jimenez Pierre, O. et al. (2007). Discovery learning model for students of basic experimental chemistry.
 
+**Related techniques:** Inquiry-Based Learning, Experiential Learning, 5E Instructional Model
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Traceability, authorship and AI use
+- *Instruments:* Assessment traffic light
+
+- *Dimensions:* Teacher assessment, Inquiry, Problem solving, Traceability, authorship and AI use
 
 ---
 
@@ -4308,6 +4656,16 @@ The teacher writes key words such as “communication”, “leadership”, “t
 
 **Resources:** [Word cloud](https://jjdeharo.github.io/directo/nube.html)
 
+**Related techniques:** Roundtable, Four-Part Concept Map, Word-Phrase-Sentence
+
+**How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of productions
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Gamified assessment, Problem solving
+
 ---
 
 
@@ -4325,13 +4683,15 @@ An example of the role-playing technique could be the following:
 
 Imagine that the group is studying World War II. Participants can divide themselves into different roles, such as political leaders, military personnel, or ordinary citizens from the various countries involved in the war. The group will then have to resolve a series of problems or dilemmas related to the war, such as what decisions each role would make in certain situations or what the consequences of those decisions would be. Thus, participants will have to work together to solve the role-playing challenges while simultaneously reflecting on the different perspectives and motivations of the various characters.
 
+**Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Role on the Wall (Character Silhouette)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Case study, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Gamified assessment, Teacher assessment, Problem solving, Simulation
 
 ---
 
@@ -4363,6 +4723,14 @@ Adapted from Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate 
 During the first week of cooperative teamwork, the teacher forms random pairs and gives them a short interview guide: “What are you good at?”, “What is harder for you in class?”, “How do you prefer to work?”, “What can you contribute to a team?” and “What do you need from your classmates to work better?”.
 
 After interviewing each other, each student writes a sentence about their partner, for example: “Marta is organized, prefers clear tasks and can help the team distribute the work”. At the end, the sentences are read aloud and help build a richer picture of the group.
+
+**Related techniques:** Who's who?, Getting to Know Each Other, Appointment Clock, Follow the trail
+
+**How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Evaluative interview, Analysis of productions
+
+- *Instruments:* Cooperative work rubric
 
 ---
 
@@ -4405,9 +4773,15 @@ In a tutoring session, the group holds a round table on the question: “How can
 
 The teacher moderates so that no one dominates the conversation and writes down the most repeated proposals. Then the group agrees on three specific measures, such as leaving phones in a common area during certain activities, allowing their use only when the task requires it, and reviewing the agreement after two weeks. The technique allows students to dialogue, negotiate and reach a shared decision.
 
+**Related techniques:** Fishbowl (Aquarium), Socratic Seminar, Talking Chips, NASA Game
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Case study, Shared and participatory assessment, Performance evidence, Teacher assessment, Problem solving, Summative purpose
 
 ---
 
@@ -4450,9 +4824,13 @@ In a social sciences lesson, the group reads a short text about the causes of th
 
 Then the second student reads the next paragraph and the third summarizes it. The process continues until the text is finished. At the end, each team creates a shared list of the economic, social and political causes they have identified. The technique helps maintain attention and check comprehension during reading, not only at the end.
 
+**Related techniques:** Ghost Reading, Word-Phrase-Sentence, Dialogic Gathering, Reciprocal Teaching, +1
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of productions, Specific tests
+
+- *Instruments:* Cooperative work rubric
 
 ---
 
@@ -4483,13 +4861,15 @@ In a language lesson, the teacher begins reading a short story aloud. After a fe
 
 At the end, the group discusses whether the rhythm was maintained, whether the pauses helped them understand the text and which parts were more difficult. In later sessions, students improve fluency, lose fear of reading aloud and learn to stay attentive so they can join the reading at the right moment.
 
+**Related techniques:** Shared Reading, Word-Phrase-Sentence, Dialogic Gathering
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of productions
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -4524,7 +4904,13 @@ In each team, one student prepares the part on neurons, another the central nerv
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
+**Related techniques:** Analyze and Synthesize, Word Game, Visual Thinking, Frayer Model, Generate, sort, connect, elaborate
+
 **How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of productions
+
+- *Instruments:* Cooperative work rubric
 
 - *Dimensions:* Inclusive assessment and UDL
 
@@ -4633,13 +5019,15 @@ Creation of a community garden in a neighborhood with few green spaces and a hig
 
 1. Potential collaborations with other similar initiatives would be explored to expand the program.
 
+**Related techniques:** Action-Based Learning (ABL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning, Evidence triangulation
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Descriptor bank, Digital evidence bank, Group contract, Assessment target, Feedback card, Assessment card, Group tracking sheet, Individual tracking sheet, Individual assessment report, Checklist, Assessment matrix, Weighting matrix, Feedback/feedforward template, Cooperative work rubric, Global or holistic rubric, Process rubric, Product rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Criteria-based assessment, Performance evidence, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving, Project-based learning
 
 ---
 
@@ -4668,9 +5056,11 @@ It can be used in science, mathematics, language arts, history, economics or any
 #### Example
 In mathematics, for the concept “function”, students write a definition, identify characteristics such as each input value having a single output value, add examples of functions using tables or graphs, and include non-examples where the same input has two different outputs.
 
+**Related techniques:** Analyze and Synthesize, Compare and Contrast, Four-Part Concept Map, Word-Phrase-Sentence, Visual Thinking, Depth of Knowledge (DOK), Generate, sort, connect, elaborate
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 ---
 
@@ -4699,9 +5089,13 @@ It can be carried out in small groups, with rotating roles, or through initial m
 #### Example
 In biology, the group reads a text about vaccines. One student summarises the first paragraph, another asks a question about the immune response, another clarifies the meaning of “antibody”, and another predicts what will be explained next about immune memory. Reading becomes an active and shared process.
 
+**Related techniques:** Shared Reading, Word-Phrase-Sentence, Ask Why, Ask and Answer, Socratic Seminar, Dialogic Gathering, Think-aloud, Cornell notes
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
 
 ---
 
@@ -4738,13 +5132,15 @@ In biology, after explaining mitosis, each student spends 4 minutes writing a su
 
 After three rounds, the summary returns to its author. Each student spends 3 minutes reviewing the contributions and writes a final five-line version. The whole activity can be completed in about 15 minutes.
 
+**Related techniques:** Roundtable, Shared Reading, Peer Review, Two Stars and a Wish
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -4776,13 +5172,15 @@ Cornell notes are a note-taking system that divides the page into three areas: m
 #### Example
 In history, during an explanation of the Second Republic, students take notes for 20 minutes. At the end, they spend 5 minutes writing questions in the side column: causes, reforms, opposition and ending. They then write a four-line synthesis.
 
+**Related techniques:** Minute Paper, Word-Phrase-Sentence, Reciprocal Teaching, Retrieval practice, Spaced practice
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -4814,13 +5212,15 @@ The one-sentence summary is a synthesis technique in which students condense wha
 #### Example
 After studying the Second Republic, students spend 3 minutes writing a sentence that includes chronology, political nature, reforms and ending. They then compare their sentence with a peer and both check whether any essential element is missing.
 
+**Related techniques:** Analyze and Synthesize, Minute Paper, Word-Phrase-Sentence, Headlines
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of productions
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -4861,13 +5261,15 @@ The biology teacher has been working on the concepts of blood circulation with h
 
 1. At the end of the activity, the teacher summarizes the students' understanding and identifies areas that need further work. The teacher also reviews the key concepts of blood circulation to ensure that all students have grasped them.
 
+**Related techniques:** Three-Minute Pause, Ask and Answer, Quiz-Quiz-Trade
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Specific tests, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Numerical scale, Feedback card, Digital form, Assessment spreadsheet, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -4904,13 +5306,15 @@ An explicit agreement between student and teacher regarding objectives, tasks, t
 #### Example
 In a research project, each student agrees with the teacher on the research question, the sources to be consulted, the final product, and the deadlines for partial submissions.
 
+**Related techniques:** Learning Journal, Portfolio (learning dossier), Visible Learning, Orientation guides
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Digital evidence bank, Feedback card, Assessment card, Individual tracking sheet, Individual assessment report, Assessment matrix, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Grading and accreditation, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Project-based learning
 
 ---
 
@@ -4949,13 +5353,15 @@ After an oral presentation, each student evaluates clarity, mastery of the conte
 
 **Resources:** [Rating scale](https://jjdeharo.github.io/directo/escala.html)
 
+**Related techniques:** Traffic Light, Exit Ticket, Assessment Rubric, Peer Review, Two Stars and a Wish
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Peer assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Self-assessment, Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -4994,13 +5400,15 @@ After studying mitosis, students write on a card the most important difference b
 
 **Resources:** [Exit tickets](https://jjdeharo.github.io/directo/ticket.html)
 
+**Related techniques:** Traffic Light, Muddiest Point, Three-Minute Pause, Exit Ticket, Retrieval practice, Cornell notes, One-sentence summary
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Analysis of processes and reflections, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -5036,13 +5444,15 @@ After explaining exponential functions, several students indicate that the most 
 
 **Resources:** [Exit tickets](https://jjdeharo.github.io/directo/ticket.html)
 
+**Related techniques:** The Sack of Doubts, Traffic Light, Exchange difficulties, Minute Paper, Exit Ticket
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -5080,13 +5490,15 @@ During an explanation about cellular respiration, the teacher pauses after expla
 
 Then each team asks one question. The teacher notices that several doubts are focused on confusing gas exchange with cellular respiration, so this difference is clarified before continuing. The pause allows the teacher to adjust the explanation while learning is still in progress.
 
+**Related techniques:** Chain of Questions, The Sack of Doubts, Listener Teams, Minute Paper
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -5125,13 +5537,15 @@ In mathematics, the teacher poses a question about conditional probability with 
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
+**Related techniques:** Flipped Classroom, Exchange difficulties, Numbered Heads Together, Think-Pair-Share, Exit Ticket, Retrieval practice, Interleaved practice
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Survey and questionnaire, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL
 
 ---
 
@@ -5166,13 +5580,15 @@ In a language and literature subject, students create a digital portfolio throug
 
 For each piece of evidence, the student explains why it has been included, what difficulty it shows, what improvement can be seen and what goal they set for the next task. The teacher assesses not only final products, but also the student’s ability to select evidence and reflect on learning.
 
+**Related techniques:** Learning Contract, Learning Journal, Authentic Assessment, Assessment Rubric, Peer Review
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment target, Self-assessment scale, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Self-assessment, Grading and accreditation, Shared and participatory assessment, Continuous assessment, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Inquiry
 
 ---
 
@@ -5208,13 +5624,15 @@ In an English lesson, each student receives a card with a vocabulary word on one
 
 Then they switch roles, exchange cards and look for a new partner. In a few minutes, each student practises several words with different classmates. The technique turns review into a short, oral and dynamic activity.
 
+**Related techniques:** Game-Based Learning (GBL), Chain of Questions, Appointment Clock, Teams-Games-Tournament (TGT), Gamification
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Gamified assessment
 
 ---
 
@@ -5237,13 +5655,15 @@ This technique is used with the rating scale: Distribute points, which they will
 
 Source: Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 
+**Related techniques:** STAD (Student Teams Achievement Divisions), Assessment Rubric, Cooperative Roles
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Peer assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Self-assessment, Grading and accreditation, Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Summative purpose
 
 ---
 
@@ -5279,13 +5699,15 @@ At the end, each student takes an individual test with a new map. The team earns
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
+**Related techniques:** Numbered Heads Together, Distribute Points, Teams-Games-Tournament (TGT), One for All, Team Assisted Individualization (TAI)
+
 **How to assess:**
 
 - *Evaluation techniques:* Systematic observation, Specific tests
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Grading and accreditation, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL
 
 ---
 
@@ -5318,13 +5740,15 @@ A student might answer: “I understood that factories changed the organization 
 
 **Resources:** [Exit tickets](https://jjdeharo.github.io/directo/ticket.html)
 
+**Related techniques:** Assessment Target, Traffic Light, Flipped Classroom, Minute Paper, Muddiest Point, Peer Instruction, Two Stars and a Wish, Retrieval practice
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Summative purpose
 
 ---
 
@@ -5368,13 +5792,15 @@ In a language arts activity, each student writes an argumentative text about mob
 
 The reviewer identifies one clear idea in the text, one part that is not easy to understand and one specific improvement. The author then revises the text: reformulates the thesis, adds a piece of evidence and improves the counterargument. The technique turns assessment into a real opportunity for improvement before the final version.
 
+**Related techniques:** Assessment Target, Gallery Walk, Portfolio (learning dossier), Socratic Seminar, Assessment Rubric, Dialogic Gathering, Argument-Driven Inquiry (ADI), Two Stars and a Wish, Structured Controversy with Evidence, +1
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Checklist, Feedback/feedforward template
+- *Instruments:* Assessment target, Peer assessment card, Feedback card, Checklist, Feedback/feedforward template, Analytic rubric, Peer assessment rubric, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Project-based learning, Summative purpose
 
 ---
 
@@ -5402,13 +5828,15 @@ It is useful because it balances recognition and improvement. It prevents review
 #### Example
 After an oral presentation on an environmental problem, a classmate writes: “Star 1: the explanation of the causes was clear. Star 2: the images helped explain the problem. Wish: it would be better to add one piece of data to justify the final proposal”. The group revises the presentation before submitting the final version.
 
+**Related techniques:** Assessment Target, Exit Ticket, Visible Learning, Assessment Rubric, Peer Review, +1
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Peer assessment card, Feedback card, Feedback/feedforward template, Peer assessment rubric, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
 ---
 
@@ -5442,13 +5870,15 @@ At the start of a biology lesson, students spend 5 minutes writing everything th
 
 The teacher collects the most frequent doubts and uses the first minutes of the lesson to clarify them.
 
+**Related techniques:** Minute Paper, Peer Instruction, Exit Ticket, Spaced practice, Interleaved practice, Cornell notes
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment, Summative purpose
 
 ---
 
@@ -5480,13 +5910,15 @@ Spaced practice consists of distributing study and review across several session
 #### Example
 In mathematics, every Friday 10 minutes are devoted to a short worksheet with mixed content from previous weeks: percentages, proportionality, equations and graph reading. The most repeated errors are revisited in the following week's review.
 
+**Related techniques:** Retrieval practice, Interleaved practice, Mastery learning, Cornell notes, Cognitive load theory
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Survey and questionnaire, Systematic observation, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -5518,13 +5950,15 @@ Mastery learning is an approach in which students move on to the next content on
 #### Example
 In a fractions unit, each subtopic ends with a short 5-question check. Students who master addition of fractions move on to multiplication; those who still make errors receive an alternative explanation and specific practice before trying again.
 
+**Related techniques:** Visible Learning, Team Assisted Individualization (TAI), Assessment Rubric, Spaced practice
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Analysis of productions, Specific tests, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Grading and accreditation, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -5556,13 +5990,15 @@ Orientation guides are supports that help students complete a complex task throu
 #### Example
 For argumentative writing, the guide includes questions such as: “What is your thesis?”, “What evidence supports it?”, “Have you included an objection?” and “Have you answered that objection?”. Students use it before submitting the final version.
 
+**Related techniques:** Learning Contract, Understanding by Design (UbD), Assessment Rubric, Worked examples
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -5616,13 +6052,15 @@ Adapted from: Research Group on Peer Learning. (2019). Cooperative Learning Meth
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
+**Related techniques:** Jigsaw, Four Wise Students, Group Investigation
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment record, Group contract, Grade book, Assessment target, Progress scale, Verbal scale, Peer assessment card, Feedback card, Group tracking sheet, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Peer assessment rubric, Cooperative work rubric, Sociogram
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Inquiry
 
 ---
 
@@ -5691,13 +6129,15 @@ One of the things I enjoyed most this week was working as a team with my classma
 
 I completed all the homework and reviewed the unit's concepts every day to be prepared for the assessments. I'm keeping up with my work.
 
+**Related techniques:** Learning Contract, Metacognition Ladder, I Used to Think... Now I Think, Portfolio (learning dossier)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Digital evidence bank, Assessment target, Self-assessment scale, Feedback card, Assessment card, Individual tracking sheet, Individual assessment report, Self-assessment checklist, Assessment matrix, Feedback/feedforward template, Self-assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Self-assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -5734,9 +6174,13 @@ A structured dialogue technique centered around a text, image, problem, or open 
 #### Example
 In philosophy or biology, the group analyzes a text on bioethics. Students prepare questions and during the seminar they discuss what criteria should guide a scientific decision with social implications.
 
+**Related techniques:** Structured Academic Controversy, Listener Teams, Fishbowl (Aquarium), Round Table, Dialogic Gathering, Toulmin's Argumentation Model, Peer Review, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Tug of war
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Case study, Performance evidence, Teacher assessment, Problem solving
 
 ---
 
@@ -5787,13 +6231,15 @@ In economics, students analyse the claim: “Raising the price of high-sugar pro
 
 The technique helps students not only defend a position, but also recognise its conditions and limits.
 
+**Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Two-Column Method, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Claim, Support, Question, Argument Map, Structured Controversy with Evidence, Tug of war
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
 
 ---
 
@@ -5822,13 +6268,15 @@ It helps students see whether an argument is well supported, whether evidence is
 #### Example
 In citizenship education, students build a map around the question: “Should mobile phone use be limited at school?”. They place the thesis in the centre, add reasons for and against, evidence related to coexistence or learning, and possible conditions, such as permitted use for specific tasks.
 
+**Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Two-Column Method, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model, Structured Controversy with Evidence
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
 
 ---
 
@@ -5857,13 +6305,15 @@ It is closely related to academic controversy, but here the quality of evidence,
 #### Example
 In biology and citizenship education, the class debates whether the sale of energy drinks to minors should be limited. Each team analyses data on caffeine, consumption habits, health and freedom of choice. They then defend a stance, listen to objections and write a final synthesis with conditions, limits and evidence.
 
+**Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model, Peer Review, Argument Map, Tug of war
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Case study, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -5895,11 +6345,13 @@ Think-aloud is a modelling technique in which the teacher verbalises decisions, 
 #### Example
 In a reading comprehension activity, the teacher reads a paragraph and says: “I do not know this word, but from the previous sentence it seems to indicate a cause. I will keep reading to check.” Students then practise the same strategy in pairs.
 
+**Related techniques:** Peer Tutoring, Reciprocal Teaching, Worked examples, Gradual release of responsibility
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Dimensions:* Performance evidence, Inclusive assessment and UDL
 
 ---
 
@@ -5939,13 +6391,15 @@ A discussion technique in which a small group engages in dialogue in the center 
 #### Example
 In social sciences, the central group debates whether a city should limit private vehicle traffic. The observers note arguments based on data, relevant questions, and moments when others are or are not being listened to.
 
+**Related techniques:** Structured Academic Controversy, Round Table, Socratic Seminar, Talking Chips, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Peer assessment card, Feedback card, Feedback/feedforward template, Peer assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Case study, Peer assessment, Shared and participatory assessment, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
 ---
 
@@ -5981,13 +6435,15 @@ The posters are placed on the classroom walls. Groups rotate around the room and
 
 **Resources:** [Interactive wall](https://jjdeharo.github.io/directo/muro.html)
 
+**Related techniques:** Cooperative Graffiti, Visual Thinking, World Café, Peer Review
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Peer assessment card, Feedback card, Checklist, Feedback/feedforward template, Peer assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -6047,6 +6503,14 @@ Each group visually represents the problem, possible actions, people involved an
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
+**Related techniques:** CSI: Color, Symbol, Image, Digital Storytelling, Gallery Walk, Four-Part Concept Map, Role on the Wall (Character Silhouette), Frayer Model, Generate, sort, connect, elaborate
+
+**How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Problem solving
+
 ---
 
 
@@ -6088,13 +6552,15 @@ In a history and citizenship unit, the class receives the mission of organizing 
 
 The activity is not based on competing for points, but on using the game structure to give meaning to the process, sustain participation and make learning visible.
 
+**Related techniques:** Game-Based Learning (GBL), Quiz-Quiz-Trade, Teams-Games-Tournament (TGT), SAMR Model
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of productions
+- *Evaluation techniques:* Evaluative interview, Systematic observation, Oral exchanges, Analysis of productions
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Digital evidence, Feedback and feedforward, Formative purpose, Gamified assessment, Teacher assessment, Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -6131,9 +6597,15 @@ In literature, after reading an excerpt from a novel about a character facing a 
 
 The teacher does not look for a single correct interpretation, but helps the group justify contributions, listen to different points of view and build a richer understanding of the text.
 
+**Related techniques:** Shared Reading, Ghost Reading, Word-Phrase-Sentence, Socratic Seminar, Toulmin's Argumentation Model, Peer Review, Argument Map, Reciprocal Teaching
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Performance evidence, Teacher assessment, Problem solving
 
 ---
 
@@ -6171,13 +6643,15 @@ A curriculum design model that proposes planning backward. Instead of starting w
 #### Example
 Before designing a unit on ecosystems, the teacher defines that students should explain food-web relationships and justify ecological imbalances. Then the teacher decides which task will serve as evidence and finally plans labs, readings and debates.
 
+**Related techniques:** Depth of Knowledge (DOK), Bloom's Taxonomy, Authentic Assessment, Orientation guides, Cognitive load theory
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Grading and accreditation, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -6213,13 +6687,15 @@ A framework for analyzing the cognitive complexity of a task. It does not measur
 #### Example
 Memorizing a formula may have a low DOK level, while choosing which mathematical model to apply to a real situation and justifying the decision requires more complex processing.
 
+**Related techniques:** Detect Patterns, Understanding by Design (UbD), SOLO Taxonomy, Bloom's Taxonomy, Assessment Rubric, Frayer Model, Habits of mind
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
 
 ---
 
@@ -6256,13 +6732,15 @@ A model for assessing the quality of understanding shown by students in their re
 #### Example
 In response to a question about natural selection, a student may mention only one factor, relate several factors or apply the concept to a new situation. The SOLO taxonomy helps distinguish these levels.
 
+**Related techniques:** Depth of Knowledge (DOK), Visible Learning, Assessment Rubric
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Analytic rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Competency-based approach, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
 ---
 
@@ -6300,13 +6778,15 @@ A framework for classifying cognitive processes that helps formulate objectives,
 #### Example
 In a biology unit, students may remember terms, explain processes, apply a model, analyze data, evaluate a conclusion or create an experimental proposal.
 
+**Related techniques:** Understanding by Design (UbD), Depth of Knowledge (DOK), Assessment Rubric
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -6336,13 +6816,15 @@ An assessment approach based on meaningful, contextualized tasks close to real o
 #### Example
 Instead of only answering questions about nutrition, students design a healthy menu proposal for a specific situation and justify their decisions using scientific criteria.
 
+**Related techniques:** Apply Knowledge, Project-Based Learning (PjBL), Portfolio (learning dossier), Understanding by Design (UbD), Assessment Rubric
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment target, Feedback card, Feedback/feedforward template, Analytic rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Grading and accreditation, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
 ---
 
@@ -6373,13 +6855,15 @@ An approach that guides teaching decisions toward practices with visible impact 
 #### Example
 In a writing activity, the teacher shares clear criteria, reviews drafts, gives specific feedback, and asks students to state one concrete improvement they will apply in the next version.
 
+**Related techniques:** Learning Contract, SOLO Taxonomy, Assessment Rubric, Two Stars and a Wish, Mastery learning, Habits of mind
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
 ---
 
@@ -6420,6 +6904,14 @@ In a statistics unit, students analyze real data about reading habits, transport
 
 The teacher selects data close to students’ experience so that statistical concepts are not learned in an abstract way, but linked to understandable questions (**PCK: pedagogical content knowledge**). The spreadsheet helps students work better with the content because it facilitates calculation, data comparison and the detection of patterns or outliers (**TCK: technological content knowledge**). In addition, technology supports a process of revision and improvement, as teams can change graphs, check results and discuss which representation best communicates their conclusions (**TPK: technological pedagogical knowledge**). Full integration occurs when content, methodology and technology are combined coherently: students learn statistics through guided investigation and use the spreadsheet as a tool to analyze, interpret and communicate real data (**TPACK**).
 
+**Related techniques:** SAMR Model, Universal Design for Learning (UDL), Co-teaching
+
+**How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of productions, Specific tests, Probing and questioning
+
+- *Dimensions:* Digital evidence, Inquiry
+
 ---
 
 
@@ -6454,13 +6946,15 @@ A model for analyzing the level of technology integration in a task. It distingu
 #### Example
 Writing a text in a word processor may be substitution; collaborating in a shared document with comments and peer revision may modify the task.
 
+**Related techniques:** Digital Storytelling, TPACK, Gamification
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of productions
 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Continuous assessment, Digital evidence, Feedback and feedforward, Formative purpose
 
 ---
 
@@ -6495,13 +6989,15 @@ A planning framework that addresses learner diversity from the beginning of inst
 #### Example
 In a research task, students may consult texts, videos or diagrams, work with graded supports and present the result as a report, presentation, infographic or audio.
 
+**Related techniques:** Learning Stations, TPACK, Co-teaching
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of productions
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
+- *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Inquiry
 
 ---
 
@@ -6537,9 +7033,15 @@ A competency framework highlighting four cross-curricular capacities needed to l
 #### Example
 In a sustainability project, students analyze data, design proposals, communicate them through a presentation and work as a team to review and improve the final product.
 
+**Related techniques:** Project-Based Learning (PjBL), Design Thinking, World Café, Habits of mind
+
 **How to assess:**
 
-- *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Analysis of productions, Specific tests, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Competency-based approach, Shared and participatory assessment, Project-based learning
 
 ---
 
@@ -6583,13 +7085,15 @@ In an oral presentation about an environmental problem, the rubric can help stud
 
 Before presenting, each group reviews its work with the rubric and identifies what needs to be improved. Afterwards, the teacher or classmates use it to give specific feedback on the level reached in each criterion.
 
+**Related techniques:** Assessment Target, Portfolio (learning dossier), Distribute Points, Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, Peer Review, Two Stars and a Wish, Mastery learning, Orientation guides
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions
+- *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
-- *Instruments:* Feedback card, Feedback/feedforward template
+- *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Analytic rubric, Self-assessment rubric, Peer assessment rubric
 
-- *Dimensions:* Feedback and feedforward, Formative purpose
+- *Dimensions:* Self-assessment, Grading and accreditation, Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
 ---
 
@@ -6621,9 +7125,15 @@ Habits of mind are a Costa and Kallick framework describing thinking disposition
 #### Example
 In a research project, each team spends 5 minutes reviewing three habits: persisting when facing difficulties, checking data accuracy and listening with empathy. They then write one concrete piece of evidence for each habit and one improvement for the next session.
 
+**Related techniques:** Metacognition Ladder, Depth of Knowledge (DOK), Visible Learning, The 4Cs of Learning
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections, Probing and questioning
+
+- *Instruments:* Cooperative work rubric
+
+- *Dimensions:* Inquiry, Problem solving, Project-based learning
 
 ---
 
@@ -6655,9 +7165,13 @@ Cognitive load theory is John Sweller's framework for analysing the limits of wo
 #### Example
 In physics, early motion problems are presented with the data already identified and the formula selected. Students focus on interpreting the procedure. In later problems, they must identify the data, choose the formula and justify the result themselves.
 
+**Related techniques:** Understanding by Design (UbD), Spaced practice, Interleaved practice, Worked examples, Gradual release of responsibility
+
 **How to assess:**
 
-- *Dimensions:* Inclusive assessment and UDL
+- *Evaluation techniques:* Documentary analysis, Analysis of productions
+
+- *Dimensions:* Inclusive assessment and UDL, Problem solving
 
 ---
 
@@ -6689,9 +7203,13 @@ It is especially useful for detecting alternative conceptions, starting an inqui
 #### Example
 In physics, a cartoon shows three students talking about a falling ball. One says that heavy objects always fall first, another says that all objects fall the same without air resistance, and another says it depends on shape. The class discusses the ideas, carries out a small experiment or analyses a video and revises its explanations about falling bodies.
 
+**Related techniques:** What makes you say that?, Inquiry-Based Learning, Generate Hypotheses, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Predict, Observe, Explain (POE)
+
 **How to assess:**
 
-- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Diagnostic purpose, Inquiry, Problem solving
 
 ---
 
@@ -6724,8 +7242,12 @@ The Question Formulation Technique, or QFT, is an approach from the Right Questi
 #### Example
 In biology, the teacher shows the sentence: “There are more and more antibiotic-resistant bacteria”. For 5 minutes, teams generate questions. They then choose three: a factual question, a causal question and an inquiry question. These questions guide the information search in the next lesson.
 
+**Related techniques:** Question-Based Learning (QBL), Think, Puzzle, Explore, Ask Why, Ask and Answer
+
 **How to assess:**
 
-- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+- *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
+
+- *Dimensions:* Diagnostic purpose, Inquiry
 
 ---

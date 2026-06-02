@@ -65,13 +65,13 @@ La diferencia principal es que «¿Qué te hace decir eso?» funciona como una r
 
 Por eso, «¿Qué te hace decir eso?» es especialmente útil para iniciar una conversación, activar la observación o hacer visibles las interpretaciones del alumnado. CER es más adecuado cuando se quiere elaborar una respuesta final, una explicación científica, una conclusión de laboratorio o un texto argumentado.
 
-**Técnicas relacionadas:** Veo, pienso, me pregunto, Genera hipótesis, Afirmación, evidencia y razonamiento (CER)
+**Técnicas relacionadas:** Genera hipótesis, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Observación incidental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Diario del profesor, Escala descriptiva, Escala de observación, Escala de valoración, Guía de observación, Notas de campo, Rúbrica de trabajo cooperativo
 
 ---
 
@@ -98,7 +98,7 @@ En una clase de biología, el profesor entrega un breve texto sobre la circulaci
 
 Como síntesis final, cada estudiante escribe tres frases que expliquen el proceso completo sin copiar literalmente el texto. El profesor revisa si han distinguido la información esencial de los detalles secundarios y si el esquema refleja correctamente las relaciones entre las partes.
 
-**Técnicas relacionadas:** Contrasta y compara, Palabra, idea, frase, Mapa conceptual a cuatro bandas
+**Técnicas relacionadas:** Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Titulares, Modelo Frayer, Generar, ordenar, conectar, elaborar, Resumen en una frase
 
 **Cómo evaluar:**
 
@@ -147,7 +147,7 @@ Después de estudiar porcentajes e interés simple, el profesor plantea una situ
 
 El alumnado debe aplicar los conocimientos trabajados, calcular el precio final en cada caso y justificar su decisión. Al final, explica qué conceptos ha utilizado, qué pasos ha seguido y qué errores ha tenido que corregir. La rutina permite comprobar si los conocimientos se pueden usar en una situación realista y no solo en ejercicios aislados.
 
-**Técnicas relacionadas:** Situación problema, Genera soluciones, Evaluación auténtica
+**Técnicas relacionadas:** Genera soluciones, Situación problema, Evaluación auténtica
 
 **Cómo evaluar:**
 
@@ -209,15 +209,15 @@ Cada estudiante escoge una perspectiva y prepara una intervención breve. Por ej
 
 Al final, el grupo comparte qué nuevas ideas han aparecido y qué preguntas quedan abiertas. La rutina ayuda a comprender que un mismo problema puede tener consecuencias distintas según la perspectiva adoptada.
 
-**Técnicas relacionadas:** Juego de rol, Role on the Wall (Silueta del personaje), Controversia académica
+**Técnicas relacionadas:** Controversia académica, Juego de rol, Role on the Wall (Silueta del personaje)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Rúbrica de trabajo cooperativo, Sociograma
 
-- *Dimensiones:* Resolución de problemas
+- *Dimensiones:* Estudio de casos, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -275,7 +275,7 @@ Objetivo: Mejorar la comprensión de los alumnos sobre la Revolución Francesa
   - Proporcionar *feedback* sobre la calidad de las comparaciones
 - Resultado: Mejora de la comprensión de los alumnos sobre la Revolución Francesa y desarrollo de habilidades de pensamiento crítico y comunicación.
 
-**Técnicas relacionadas:** Las dos columnas, Detecta patrones, Analiza y sintetiza
+**Técnicas relacionadas:** Analiza y sintetiza, Detecta patrones, Las dos columnas, Modelo Frayer
 
 **Cómo evaluar:**
 
@@ -363,7 +363,7 @@ Esta rutina puede ser útil para ayudar a los alumnos a mejorar la comprensión 
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** Visual Thinking (pensamiento visual), Titulares, Palabra, idea, frase
+**Técnicas relacionadas:** Palabra, idea, frase, Titulares, Visual Thinking (pensamiento visual)
 
 **Cómo evaluar:**
 
@@ -417,7 +417,7 @@ Después, en parejas, formulan relaciones como: “Cuando el alquiler supera un 
 
 La actividad termina con una discusión sobre cómo esos patrones pueden ayudar a tomar decisiones de ahorro, consumo o planificación económica.
 
-**Técnicas relacionadas:** Contrasta y compara, Matriz de problemas, Profundidad del conocimiento (Depth of Knowledge, DOK)
+**Técnicas relacionadas:** Contrasta y compara, Los 5 porqués, Matriz de problemas, Profundidad del conocimiento (Depth of Knowledge, DOK)
 
 **Cómo evaluar:**
 
@@ -452,7 +452,7 @@ El profesor recoge las respuestas o las revisa visualmente y dedica los primeros
 
 **Recursos:** [Escala de valoración](https://jjdeharo.github.io/directo/escala.html)
 
-**Técnicas relacionadas:** Muddiest Point (El punto más confuso), Ticket de salida (exit ticket), Minute Paper (Papel de un minuto)
+**Técnicas relacionadas:** Diana de evaluación, KWL (Sé, Quiero saber, He aprendido), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Ticket de salida (exit ticket)
 
 **Cómo evaluar:**
 
@@ -490,13 +490,13 @@ Rutina que guía al alumnado para pensar sobre su propio aprendizaje mediante un
 #### Ejemplo
 Al terminar una práctica de laboratorio, los alumnos completan la escalera indicando qué han aprendido sobre el diseño experimental, cómo han controlado variables y en qué otros experimentos podrían aplicar ese procedimiento.
 
-**Técnicas relacionadas:** Diario de aprendizaje, Pensaba... ahora pienso, Puente 3 - 2 - 1
+**Técnicas relacionadas:** Diario de aprendizaje, Pensaba... ahora pienso, Puente 3 - 2 - 1, Conectar, ampliar, desafiar, Hábitos mentales
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Observación incidental, Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
+- *Instrumentos:* Declaración de uso de IA y fuentes, Diario del profesor, Escala de autoevaluación, Escala de progreso, Escala verbal, Ficha de retroalimentación, Historial de revisión, Lista de cotejo de autoevaluación, Notas de campo, Panel de progreso, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica de autoevaluación, Rúbrica digital
 
 - *Dimensiones:* Autoevaluación, Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
 
@@ -540,13 +540,13 @@ En una clase de biología, el profesor muestra dos plantas de la misma especie: 
 
 El alumnado genera hipótesis como: falta de luz, exceso de riego, carencia de sales minerales o presencia de una enfermedad. Después, cada grupo decide qué datos necesitaría para comprobar su hipótesis: condiciones de cultivo, cantidad de agua, tipo de suelo, exposición a la luz o presencia de insectos. Finalmente, comparan las evidencias disponibles y revisan qué hipótesis resulta más plausible.
 
-**Técnicas relacionadas:** Aprendizaje basado en indagación, Parejas de detectives, ¿Qué te hace decir eso?
+**Técnicas relacionadas:** ¿Qué te hace decir eso?, Aprendizaje basado en indagación, Parejas de detectives, Veo, pienso, me pregunto, Predice, observa, explica (POE), Concept Cartoon
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Banco digital de evidencias, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Indagación, Resolución de problemas
 
@@ -593,11 +593,11 @@ Después, cada grupo valora las propuestas con tres criterios: facilidad de uso,
 
 **Recursos:** [Lluvia de ideas y votos](https://jjdeharo.github.io/directo/ideas.html)
 
-**Técnicas relacionadas:** Pensamiento de diseño (Design Thinking), Matriz de problemas, Situación problema
+**Técnicas relacionadas:** Aplica los conocimientos, Pensamiento de diseño (Design Thinking), Matriz de problemas, Situación problema
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis de procesos y reflexiones, Pruebas específicas, Sondeo y cuestionamiento
 
 - *Instrumentos:* Lista de cotejo o control, Rúbrica de trabajo cooperativo
 
@@ -633,11 +633,11 @@ Antes de estudiar los ecosistemas, los alumnos escriben qué saben sobre cadenas
 
 **Recursos:** [Nube de palabras](https://jjdeharo.github.io/directo/nube.html)
 
-**Técnicas relacionadas:** Pienso, me interesa, investigo, Puente 3 - 2 - 1, El semáforo
+**Técnicas relacionadas:** El modelo 5E, El semáforo, Lo que sé y lo que sabemos, Pensaba... ahora pienso, Pienso, me interesa, investigo, Puente 3 - 2 - 1, Conectar, ampliar, desafiar
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -677,13 +677,13 @@ El profesor plantea la siguiente idea o propuesta: ""La escuela está pensando e
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Técnicas relacionadas:** Las dos columnas, Revisa las consecuencias, Grupo nominal
+**Técnicas relacionadas:** Me gusta / No me gusta, Revisa las consecuencias, Grupo nominal, Las dos columnas
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento, Triangulación de evidencias
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Conversor de niveles a calificación, Ficha de retroalimentación, Lista de indicadores por criterio, Mapa de evidencias por criterio, Perfil de logro, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica oral, Tabla de calificación por criterios
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa
 
@@ -730,7 +730,7 @@ En una clase de biología, el profesor plantea el problema: “Una planta del au
 
 A partir de la cadena de preguntas, el alumnado propone comprobar la humedad del suelo, revisar la ubicación de la planta y establecer un plan de riego. La técnica ayuda a pasar de una explicación superficial a causas más concretas y comprobables.
 
-**Técnicas relacionadas:** Pregunta el porqué, Revisa las consecuencias, Detecta patrones
+**Técnicas relacionadas:** Detecta patrones, Pregunta el porqué, Revisa las consecuencias
 
 **Cómo evaluar:**
 
@@ -821,13 +821,13 @@ En pequeños grupos, comparten sus elecciones y justifican por qué las han eleg
 
 **Recursos:** [Nube de palabras](https://jjdeharo.github.io/directo/nube.html)
 
-**Técnicas relacionadas:** Lectura compartida, Titulares, Analiza y sintetiza
+**Técnicas relacionadas:** Analiza y sintetiza, CSI: Color, Símbolo, Imagen, El juego de las palabras, Lectura compartida, Lectura fantasma, Titulares, Tertulia dialógica, Modelo Frayer, Enseñanza recíproca, Apuntes Cornell, Resumen en una frase
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de interacciones digitales, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Analíticas de aprendizaje, Baremo, Escala numérica, Ficha de retroalimentación, Formulario digital, Guía de corrección, Hoja de cálculo de evaluación, Plantilla de corrección, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Trazabilidad, autoría y uso de IA
 
@@ -865,7 +865,7 @@ Después de observar un esquema, analizar un experimento sencillo y comentar el 
 
 El docente puede cerrar la actividad pidiendo que cada estudiante señale qué idea ha cambiado y qué evidencia o explicación le ha ayudado a cambiarla.
 
-**Técnicas relacionadas:** Puente 3 - 2 - 1, Escalera de metacognición, KWL (Sé, Quiero saber, He aprendido)
+**Técnicas relacionadas:** Diario de aprendizaje, Escalera de metacognición, KWL (Sé, Quiero saber, He aprendido), Puente 3 - 2 - 1, Predice, observa, explica (POE), Conectar, ampliar, desafiar
 
 **Cómo evaluar:**
 
@@ -925,7 +925,7 @@ Finalmente, el profesor pide a los alumnos que compartan las ideas que han tenid
 
 Después de compartir las ideas sobre ""Investigo" ", el profesor guía a los alumnos en la selección de una o más preguntas de investigación para investigar durante el resto de la unidad.
 
-**Técnicas relacionadas:** KWL (Sé, Quiero saber, He aprendido), Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC)
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC), KWL (Sé, Quiero saber, He aprendido), Puente 3 - 2 - 1, Veo, pienso, me pregunto, Afirmación, apoyo y pregunta (Claim-Support-Question), Conectar, ampliar, desafiar, Técnica de formulación de preguntas (QFT)
 
 **Cómo evaluar:**
 
@@ -978,7 +978,7 @@ En una clase de historia, el profesor introduce el tema de las migraciones del s
 
 Los alumnos buscan respuestas en mapas, gráficos de población y testimonios breves. Después presentan una explicación apoyada en evidencias. La rutina ayuda a transformar una observación inicial en preguntas históricas que requieren causas, contexto y relaciones entre factores.
 
-**Técnicas relacionadas:** Los 5 porqués, Aprendizaje basado en preguntas (ABPC), Pregunta y responde
+**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Los 5 porqués, Pregunta y responde, Enseñanza recíproca, Técnica de formulación de preguntas (QFT)
 
 **Cómo evaluar:**
 
@@ -1014,7 +1014,7 @@ Los alumnos responden primero de forma individual y después comparan sus respue
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Técnicas relacionadas:** Cadena de Preguntas, Aprendizaje basado en preguntas (ABPC), Pregunta el porqué
+**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Cadena de Preguntas, Equipos de oyentes, Pregunta el porqué, Enseñanza recíproca, Técnica de formulación de preguntas (QFT)
 
 **Cómo evaluar:**
 
@@ -1043,11 +1043,11 @@ Esta rutina se realiza dos veces, una al empezar un tema y otra al acabarlo, de 
 
 1. Después se comparten las conclusiones de cada uno con el resto de la clase.
 
-**Técnicas relacionadas:** Pensaba... ahora pienso, KWL (Sé, Quiero saber, He aprendido), Pienso, me interesa, investigo
+**Técnicas relacionadas:** Escalera de metacognición, KWL (Sé, Quiero saber, He aprendido), Pensaba... ahora pienso, Pienso, me interesa, investigo
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
 - *Dimensiones:* Finalidad diagnóstica
 
@@ -1095,7 +1095,7 @@ En una clase de tecnología, el profesor presenta la propuesta de implantar un s
 
 Después, cada grupo clasifica las consecuencias en positivas, negativas y condiciones necesarias para que la medida funcione. La rutina ayuda a valorar una decisión antes de aplicarla y a tener en cuenta efectos que no aparecen a primera vista.
 
-**Técnicas relacionadas:** Matriz de problemas, La brújula (puntos cardinales), Las dos columnas
+**Técnicas relacionadas:** La brújula (puntos cardinales), Los 5 porqués, Matriz de problemas, Las dos columnas
 
 **Cómo evaluar:**
 
@@ -1136,11 +1136,13 @@ En literatura, los alumnos analizan un personaje de una novela. Dentro de la sil
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** Juego de rol, Círculo de puntos de vista, Visual Thinking (pensamiento visual)
+**Técnicas relacionadas:** Círculo de puntos de vista, Juego de rol, Visual Thinking (pensamiento visual)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+
+- *Dimensiones:* Estudio de casos, Evidencia de desempeño
 
 ---
 
@@ -1222,7 +1224,7 @@ Titular final: ""El plástico de un solo uso es un problema ambiental que tiene 
 
 Canvis en el pensament: Los alumnos empezaron con una visión mucho más positiva del plástico de un solo uso, pero a medida que fueron aprendiendo más sobre las consecuencias negativas para el medio ambiente, se dieron cuenta de que este tipo de plástico es realmente un problema que se tiene que solucionar.
 
-**Técnicas relacionadas:** Palabra, idea, frase, CSI: Color, Símbolo, Imagen, Analiza y sintetiza
+**Técnicas relacionadas:** Analiza y sintetiza, CSI: Color, Símbolo, Imagen, Digital storytelling (relatos digitales), Palabra, idea, frase, Resumen en una frase
 
 **Cómo evaluar:**
 
@@ -1258,7 +1260,7 @@ En una clase de historia del arte, el profesor muestra una fotografía de una pl
 
 En “Pienso”, interpreta lo que puede estar ocurriendo: una protesta ciudadana, una reivindicación laboral o una demanda política. En “Me pregunto”, formula preguntas: “¿En qué año ocurrió?”, “¿Qué reclamaban?”, “¿Quién organizó la protesta?” o “¿Qué consecuencias tuvo?”. La rutina ayuda a separar observación, interpretación y preguntas de investigación.
 
-**Técnicas relacionadas:** ¿Qué te hace decir eso?, Genera hipótesis, Pienso, me interesa, investigo
+**Técnicas relacionadas:** ¿Qué te hace decir eso?, Genera hipótesis, Pienso, me interesa, investigo, Predice, observa, explica (POE), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question)
 
 **Cómo evaluar:**
 
@@ -1295,13 +1297,13 @@ Rutina sencilla para analizar una propuesta, alternativa o experiencia previa me
 #### Ejemplo
 Antes de decidir si una actividad se hará individualmente o en grupo, la clase elabora dos columnas con pros y contras de cada opción y justifica qué organización parece más adecuada.
 
-**Técnicas relacionadas:** La brújula (puntos cardinales), Matriz de problemas, Contrasta y compara
+**Técnicas relacionadas:** Contrasta y compara, La brújula (puntos cardinales), Matriz de problemas, Revisa las consecuencias, Modelo de argumentación de Toulmin, Mapa de argumentos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas, Finalidad sumativa
+- *Dimensiones:* Estudio de casos, Evaluación inclusiva y DUA, Resolución de problemas, Finalidad sumativa
 
 ---
 
@@ -1347,7 +1349,7 @@ En una práctica de biología, el alumnado observa que unas semillas han germina
 - **Evidencia**: En el grupo con agua germinaron 18 de 20 semillas, mientras que en el grupo sin agua no germinó ninguna.
 - **Razonamiento**: La germinación requiere que la semilla active su metabolismo y rehidrate sus tejidos. Los datos muestran que las semillas con agua iniciaron el proceso y las que no recibieron agua no lo hicieron. Por eso, la diferencia entre ambos grupos apoya la afirmación de que el agua es necesaria para la germinación.
 
-**Técnicas relacionadas:** Indagación guiada por la argumentación (ADI), ¿Qué te hace decir eso?, Aprendizaje basado en indagación
+**Técnicas relacionadas:** ¿Qué te hace decir eso?, Aprendizaje basado en indagación, Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Controversia estructurada con evidencias
 
 **Cómo evaluar:**
 
@@ -1392,11 +1394,11 @@ En biología, el profesor pregunta: “¿Qué ocurrirá si colocamos una patata 
 
 Después se realiza la experiencia. El alumnado observa que la patata pierde firmeza y masa. A continuación, compara el resultado con su predicción y explica el proceso mediante la ósmosis: el agua sale de las células hacia el medio más concentrado en sal. La técnica ayuda a revisar ideas intuitivas sobre el movimiento del agua y a construir una explicación basada en evidencias.
 
-**Técnicas relacionadas:** Genera hipótesis, Aprendizaje basado en indagación, Pensaba... ahora pienso, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), El modelo 5E
+**Técnicas relacionadas:** Aprendizaje basado en indagación, El modelo 5E, Genera hipótesis, Pensaba... ahora pienso, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Concept Cartoon
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -1428,7 +1430,7 @@ Es una técnica más ligera que CER. No exige construir una explicación complet
 #### Ejemplo
 En historia, tras analizar un gráfico sobre población urbana, un alumno escribe: “Afirmación: las ciudades crecieron mucho durante la industrialización. Apoyo: el gráfico muestra un aumento sostenido de población urbana entre 1850 y 1900. Pregunta: ¿ese crecimiento fue igual en todos los grupos sociales o afectó más a unos que a otros?”.
 
-**Técnicas relacionadas:** Afirmación, evidencia y razonamiento (CER), ¿Qué te hace decir eso?, Veo, pienso, me pregunto, Modelo de argumentación de Toulmin, Seminario socrático, Pienso, me interesa, investigo
+**Técnicas relacionadas:** ¿Qué te hace decir eso?, Pienso, me interesa, investigo, Seminario socrático, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin
 
 **Cómo evaluar:**
 
@@ -1466,7 +1468,7 @@ Conectar, ampliar, desafiar es una rutina de pensamiento de Project Zero que ayu
 #### Ejemplo
 Tras leer un texto sobre cambio climático, el alumnado dedica 8 minutos a completar tres apartados. Conecta el CO2 con la combustión estudiada en química, amplía su comprensión con el papel del metano y plantea como desafío entender por qué los efectos no son iguales en todas las regiones.
 
-**Técnicas relacionadas:** Pensaba... ahora pienso, KWL (Sé, Quiero saber, He aprendido), Pienso, me interesa, investigo, Escalera de metacognición
+**Técnicas relacionadas:** Escalera de metacognición, KWL (Sé, Quiero saber, He aprendido), Pensaba... ahora pienso, Pienso, me interesa, investigo
 
 **Cómo evaluar:**
 
@@ -1504,7 +1506,7 @@ Generar, ordenar, conectar, elaborar es una rutina de pensamiento de Project Zer
 #### Ejemplo
 Al iniciar el sistema circulatorio, los alumnos generan durante 3 minutos términos como corazón, arterias, venas, sangre, oxígeno y capilares. Después los ordenan, los conectan con flechas y elaboran el mapa añadiendo presión sanguínea, intercambio de gases y transporte de nutrientes.
 
-**Técnicas relacionadas:** Mapa conceptual a cuatro bandas, Visual Thinking (pensamiento visual), Modelo Frayer, Analiza y sintetiza
+**Técnicas relacionadas:** Analiza y sintetiza, Mapa conceptual a cuatro bandas, Visual Thinking (pensamiento visual), Modelo Frayer
 
 **Cómo evaluar:**
 
@@ -1543,7 +1545,7 @@ Tira y afloja es una rutina de pensamiento de Project Zero para analizar dilemas
 #### Ejemplo
 En biología, la clase analiza si debe permitirse el uso de animales en investigación biomédica. Durante 10 minutos, los grupos colocan argumentos a favor y en contra: desarrollo de tratamientos, sufrimiento animal, regulación ética y alternativas experimentales. Al final, formulan una postura matizada.
 
-**Técnicas relacionadas:** Controversia académica, Controversia estructurada con evidencias, Seminario socrático, Modelo de argumentación de Toulmin
+**Técnicas relacionadas:** Controversia académica, Seminario socrático, Modelo de argumentación de Toulmin, Controversia estructurada con evidencias
 
 **Cómo evaluar:**
 
@@ -1579,13 +1581,13 @@ Después, el profesor lee las cartas sin decir el nombre. El grupo intenta adivi
 
 Fuente: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase.
 
-**Técnicas relacionadas:** La caja, La entrevista, Conozcámonos
+**Técnicas relacionadas:** Conozcámonos, La caja, La entrevista, Me gusta / No me gusta
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Acta de evaluación, Rúbrica de trabajo cooperativo, Sociograma
 
 ---
 
@@ -1633,7 +1635,7 @@ En la primera semana de clase, el profesor entrega una ficha con frases como: �
 
 Durante unos minutos, el alumnado se mueve por el aula, pregunta a sus compañeros y anota nombres en la ficha. Después, se hace una puesta en común: cada estudiante comenta algo que ha descubierto de otra persona. La actividad ayuda a romper el hielo, favorece la interacción inicial y permite que el grupo encuentre afinidades más allá de los grupos habituales.
 
-**Técnicas relacionadas:** ¿Quién es quién?, La entrevista, Seguir la pista
+**Técnicas relacionadas:** ¿Quién es quién?, La entrevista, Seguir la pista, Las páginas amarillas
 
 **Cómo evaluar:**
 
@@ -1641,7 +1643,7 @@ Durante unos minutos, el alumnado se mueve por el aula, pregunta a sus compañer
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Finalidad sumativa
+- *Dimensiones:* Finalidad sumativa, Trazabilidad, autoría y uso de IA
 
 ---
 
@@ -1683,15 +1685,15 @@ El equipo completa un esquema general del proceso digestivo, relacionando las fa
 
 **Recursos:** [Técnica Jigsaw](https://jigsawcoop.github.io/)
 
-**Técnicas relacionadas:** CO-OP CO-OP, Los cuatro sabios, Equipos paralelos
+**Técnicas relacionadas:** CO-OP CO-OP, Los cuatro sabios, Equipos paralelos, Roles cooperativos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Diana de evaluación, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación inclusiva y DUA
+- *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Evaluación inclusiva y DUA
 
 ---
 
@@ -1735,9 +1737,9 @@ Después, cada alumno prepara su propia caja con tres objetos que expliquen algo
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento, Triangulación de evidencias
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Declaración de uso de IA y fuentes, Ficha de valoración, Historial de revisión, Hoja de seguimiento individual, Informe individual de evaluación, Matriz de valoración, Panel de progreso, Rúbrica de trabajo cooperativo, Rúbrica digital, Semáforo de evaluación
 
 ---
 
@@ -1776,7 +1778,7 @@ En una sesión de tutoría, el profesor traza una línea imaginaria en el aula. 
 
 El alumnado se desplaza a un lado u otro según esté de acuerdo o no; quienes están a medias se quedan cerca de la línea. Después, el grupo comenta qué ha descubierto: algunas personas comparten preferencias inesperadas y otras ven que no son las únicas con determinadas dificultades. La dinámica ayuda a conocer el grupo y a normalizar diferencias.
 
-**Técnicas relacionadas:** Seguir la pista, ¿Quién es quién?, La brújula (puntos cardinales)
+**Técnicas relacionadas:** ¿Quién es quién?, La brújula (puntos cardinales), Seguir la pista
 
 **Cómo evaluar:**
 
@@ -1818,7 +1820,7 @@ En nuestra vida hay elementos significativos. Si se comparten se está reconocie
 
 Fuente: ECO. (2007). Dinámicas para hacer grupo.
 
-**Técnicas relacionadas:** La caja, La entrevista, Me gusta / No me gusta
+**Técnicas relacionadas:** Conozcámonos, La caja, La entrevista, Me gusta / No me gusta
 
 **Cómo evaluar:**
 
@@ -1855,13 +1857,15 @@ En una tutoría sobre convivencia, cada alumno recibe tres fichas para debatir l
 
 Quien ya ha usado sus tres fichas escucha hasta que todos hayan participado. Esto evita que siempre hablen los mismos y da espacio a quienes suelen intervenir menos. Al final, el grupo selecciona tres normas compartidas y comenta si la distribución de turnos ha mejorado la calidad del diálogo.
 
-**Técnicas relacionadas:** La mesa redonda, Fishbowl (Pecera), Grupo nominal
+**Técnicas relacionadas:** Fishbowl (Pecera), La mesa redonda, Grupo nominal, Roles cooperativos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
+
+- *Dimensiones:* Evidencia de desempeño
 
 ---
 
@@ -1892,7 +1896,7 @@ Técnica estructurada de generación y priorización de ideas que facilita la pa
 #### Ejemplo
 Antes de elegir el tema de un proyecto, cada alumno propone varias opciones. Después se recogen todas, se aclaran y se votan para seleccionar la propuesta que represente mejor al grupo.
 
-**Técnicas relacionadas:** Talking Chips (Fichas de conversación), RallyRobin, La brújula (puntos cardinales)
+**Técnicas relacionadas:** Graffiti Cooperativo, La brújula (puntos cardinales), RallyRobin, RoundRobin, Talking Chips (Fichas de conversación), World Café
 
 **Cómo evaluar:**
 
@@ -1931,7 +1935,7 @@ Estructura de aprendizaje cooperativo en parejas en la que un alumno actúa como
 #### Ejemplo
 En matemáticas, un alumno tutor acompaña a su compañero en la resolución de un problema. Le pregunta qué datos tiene, qué operación cree necesaria y por qué, pero no le escribe la respuesta final.
 
-**Técnicas relacionadas:** Los cuatro sabios, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipo-pareja-individual
+**Técnicas relacionadas:** Equipo-pareja-individual, Los cuatro sabios, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Las páginas amarillas, Co-enseñanza (Co-teaching), Ejemplos resueltos, Liberación gradual de la responsabilidad, Pensamiento en voz alta
 
 **Cómo evaluar:**
 
@@ -1939,7 +1943,7 @@ En matemáticas, un alumno tutor acompaña a su compañero en la resolución de 
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -1970,7 +1974,7 @@ Estructura cooperativa que combina el trabajo en equipos heterogéneos con la in
 #### Ejemplo
 En cálculo, cada alumno trabaja una secuencia de ejercicios ajustada a su nivel. Antes de pedir ayuda al profesor, consulta con su equipo, que le orienta y revisa el procedimiento.
 
-**Técnicas relacionadas:** Tutoría entre iguales (Peer Tutoring), STAD (Student Teams Achievement Divisions), Equipo-pareja-individual
+**Técnicas relacionadas:** Equipo-pareja-individual, STAD (Student Teams Achievement Divisions), Tutoría entre iguales (Peer Tutoring), Aprendizaje de dominio
 
 **Cómo evaluar:**
 
@@ -2009,7 +2013,7 @@ Estructura cooperativa en la que distintos grupos se especializan en prácticas,
 #### Ejemplo
 En biología, media clase realiza una práctica de observación de células vegetales y la otra media una de células animales. Después se forman equipos mixtos para comparar resultados y elaborar una conclusión conjunta.
 
-**Técnicas relacionadas:** El Rompecabezas ("Jigsaw"), Los cuatro sabios, Estaciones de aprendizaje
+**Técnicas relacionadas:** El Rompecabezas ("Jigsaw"), Estaciones de aprendizaje, Los cuatro sabios
 
 **Cómo evaluar:**
 
@@ -2046,11 +2050,11 @@ Dinámica de toma de decisiones que muestra de forma práctica la eficacia del t
 #### Ejemplo
 El grupo debe ordenar los objetos más importantes para sobrevivir tras un alunizaje. Primero decide cada alumno, después el equipo y finalmente se compara con la solución experta.
 
-**Técnicas relacionadas:** Placemat consensus, Matriz de problemas, La mesa redonda
+**Técnicas relacionadas:** La mesa redonda, Matriz de problemas, Placemat consensus
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
@@ -2085,7 +2089,7 @@ Dinámica de cohesión en la que cada estudiante crea un anuncio personal ofreci
 #### Ejemplo
 Un alumno ofrece ayuda para usar una hoja de cálculo, otro para dibujar esquemas y otro para explicar reglas de un juego. La clase crea un directorio al que puede acudir cuando necesite apoyo.
 
-**Técnicas relacionadas:** La caja, Tutoría entre iguales (Peer Tutoring), Conozcámonos
+**Técnicas relacionadas:** Conozcámonos, La caja, Tutoría entre iguales (Peer Tutoring)
 
 **Cómo evaluar:**
 
@@ -2121,7 +2125,7 @@ Modelo de docencia compartida en el que dos docentes trabajan conjuntamente en l
 #### Ejemplo
 En una clase inclusiva, un docente conduce la explicación mientras otro observa dificultades, ofrece apoyos puntuales y después ambos reorganizan la actividad según las necesidades detectadas.
 
-**Técnicas relacionadas:** Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring), Estaciones de aprendizaje
+**Técnicas relacionadas:** Estaciones de aprendizaje, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring)
 
 **Cómo evaluar:**
 
@@ -2129,7 +2133,7 @@ En una clase inclusiva, un docente conduce la explicación mientras otro observa
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA
 
 ---
 
@@ -2173,7 +2177,7 @@ En un proyecto para crear un pódcast de aula, un alumno coordina el reparto de 
 
 Al terminar, el equipo revisa si cada rol ha ayudado a organizar mejor el trabajo: si el guion estaba claro, si todos han participado, si se han respetado los tiempos y si el producto final comunica bien el mensaje. La técnica permite que el trabajo cooperativo sea más ordenado y que las responsabilidades sean visibles.
 
-**Técnicas relacionadas:** Talking Chips (Fichas de conversación), Lápiz al centro, El Rompecabezas ("Jigsaw")
+**Técnicas relacionadas:** El Rompecabezas ("Jigsaw"), Lápiz al centro, Repartir puntos, Talking Chips (Fichas de conversación)
 
 **Cómo evaluar:**
 
@@ -2232,13 +2236,13 @@ Fuente: Pérez, M. (2015). Dinámicas cooperativas.
 
 **Recursos:** [GeCo - Generador de Equipos Cooperativos](https://jjdeharo.github.io/geco/)
 
-**Técnicas relacionadas:** Think-Pair-Share (Piensa-Pareja-Comparte), Placemat consensus, Cronometrado, Pareja, Comparte (Timed, Pair, Share)
+**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), Equipo-pareja-individual, Lo que sé y lo que sabemos, Placemat consensus, Think-Pair-Share (Piensa-Pareja-Comparte)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Sondeo y cuestionamiento
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Acta de evaluación, Rúbrica de trabajo cooperativo, Sociograma
 
 - *Dimensiones:* Finalidad diagnóstica, Evaluación inclusiva y DUA, Resolución de problemas
 
@@ -2288,15 +2292,15 @@ Primero, cada pareja expone su posición. Después, las parejas cambian de postu
 
 La actividad permite que el alumnado comprenda la complejidad del tema y aprenda a argumentar sin reducir el debate a una oposición simple entre estar a favor o en contra.
 
-**Técnicas relacionadas:** Seminario socrático, Fishbowl (Pecera), Círculo de puntos de vista
+**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Fishbowl (Pecera), Seminario socrático, Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Tira y afloja
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Acta de evaluación, Cuaderno de calificaciones, Diario del profesor, Escala descriptiva, Escala de observación, Escala de progreso, Escala de valoración, Escala verbal, Ficha de retroalimentación, Guía de observación, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Estudio de casos, Evaluación continua, Evidencia de desempeño, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -2346,7 +2350,7 @@ En una clase de lengua, el profesor pide a cada equipo que escriba un cuento bre
 
 En una segunda vuelta, cada estudiante revisa o mejora una parte del texto: vocabulario, coherencia, conectores o corrección ortográfica. Al final, el equipo lee el cuento y comenta qué aportación ha hecho cada miembro. La técnica garantiza que todos participen y permite construir un producto común a partir de intervenciones sucesivas.
 
-**Técnicas relacionadas:** RoundRobin, Graffiti Cooperativo, El juego de las palabras
+**Técnicas relacionadas:** El juego de las palabras, Graffiti Cooperativo, RoundRobin, +1
 
 **Cómo evaluar:**
 
@@ -2398,7 +2402,7 @@ Tema: **¿Qué necesitan las semillas para germinar?**
 4. **Elaborar / Elaborate**: el alumnado aplica lo aprendido a una situación nueva: diseñar recomendaciones para germinar semillas en un huerto escolar o explicar por qué algunas semillas guardadas en casa no germinan. Debe justificar sus propuestas con datos del experimento.
 5. **Evaluar / Evaluate**: el alumnado revisa sus ideas iniciales, compara qué pensaba antes y qué puede explicar ahora, completa una breve autoevaluación y entrega una conclusión basada en evidencias. El profesor valora la calidad del diseño experimental, el uso de datos y la explicación final.
 
-**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en laboratorio (ABL), KWL (Sé, Quiero saber, He aprendido)
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en laboratorio (ABL), Aprendizaje por descubrimiento, KWL (Sé, Quiero saber, He aprendido), Predice, observa, explica (POE)
 
 **Cómo evaluar:**
 
@@ -2406,7 +2410,7 @@ Tema: **¿Qué necesitan las semillas para germinar?**
 
 - *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Autoevaluación, Enfoque competencial, Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas
+- *Dimensiones:* Autoevaluación, Enfoque competencial, Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Resolución de problemas
 
 ---
 
@@ -2454,7 +2458,7 @@ Durante una explicación sobre el cambio climático, el profesor divide la clase
 
 Al acabar la exposición, el equipo de preguntas plantea cuestiones sobre causas y consecuencias, el equipo de aprobación destaca la utilidad de diferenciar tiempo atmosférico y clima, el equipo de desacuerdo pregunta por la fiabilidad de algunos datos y el equipo de ejemplos relaciona el tema con sequías, olas de calor o cambios en el consumo energético. La actividad transforma una explicación del profesor en una escucha activa y estructurada.
 
-**Técnicas relacionadas:** Parada de tres minutos, Seminario socrático, Pregunta y responde
+**Técnicas relacionadas:** Parada de tres minutos, Pregunta y responde, Seminario socrático
 
 **Cómo evaluar:**
 
@@ -2462,7 +2466,7 @@ Al acabar la exposición, el equipo de preguntas plantea cuestiones sobre causas
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Evidencia de desempeño, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -2521,9 +2525,9 @@ Antes de la clase, el profesor revisa las respuestas y detecta que muchos alumno
 
 - *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Contrato de grupo, Ficha de retroalimentación, Hoja de seguimiento grupal, Lista de cotejo o control, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Semáforo de evaluación
 
-- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -2561,7 +2565,7 @@ Antes de empezar una unidad sobre ecosistemas, el profesor entrega una ficha con
 
 Después, se forman parejas y construyen un texto común con las ideas de ambos, corrigiendo errores y añadiendo relaciones nuevas. En la puesta en común, el profesor recoge las aportaciones más repetidas y las utiliza para iniciar la unidad, detectar ideas previas y formular preguntas de trabajo.
 
-**Técnicas relacionadas:** KWL (Sé, Quiero saber, He aprendido), Think-Pair-Share (Piensa-Pareja-Comparte), 1 - 2 - 4
+**Técnicas relacionadas:** 1 - 2 - 4, KWL (Sé, Quiero saber, He aprendido), Think-Pair-Share (Piensa-Pareja-Comparte)
 
 **Cómo evaluar:**
 
@@ -2610,7 +2614,7 @@ En matemáticas, el profesor entrega a cada equipo cuatro ejercicios de proporci
 
 Cuando termina el tiempo, el profesor dice un número al azar, por ejemplo el 3. Todos los alumnos con ese número salen o responden en nombre de su equipo. Como no saben quién será elegido, el equipo tiene que ayudar a todos sus miembros a comprender la tarea, no solo a obtener una respuesta rápida.
 
-**Técnicas relacionadas:** Uno para todos, Lápiz al centro, STAD (Student Teams Achievement Divisions)
+**Técnicas relacionadas:** Lápiz al centro, Peer Instruction (Instrucción entre iguales), STAD (Student Teams Achievement Divisions), Uno para todos
 
 **Cómo evaluar:**
 
@@ -2652,7 +2656,7 @@ En una clase de educación digital, el profesor plantea varias preguntas sobre e
 
 Cada pareja comenta las preguntas durante unos minutos y anota dos ideas consensuadas. Después, el profesor pide al azar la respuesta de algunas parejas y construye en la pizarra una lista común de recomendaciones. La técnica permite activar experiencias previas y convertirlas en criterios compartidos de uso responsable.
 
-**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), Think-Pair-Share (Piensa-Pareja-Comparte), Reloj de citas
+**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte)
 
 **Cómo evaluar:**
 
@@ -2701,13 +2705,13 @@ En la siguiente ronda, con la cita de las seis, responden otra pregunta: “¿Qu
 
 **Recursos:** [Reloj de citas](https://reloj-citas.github.io/)
 
-**Técnicas relacionadas:** Parejas de discusión, La entrevista, Quiz-Quiz-Trade (Intercambio de tarjetas)
+**Técnicas relacionadas:** La entrevista, Parejas de discusión, Quiz-Quiz-Trade (Intercambio de tarjetas)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Intercambios orales, Sondeo y cuestionamiento
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Analíticas de aprendizaje, Formulario digital, Hoja de cálculo de evaluación, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad diagnóstica, Resolución de problemas
 
@@ -2740,7 +2744,7 @@ Técnica cooperativa breve que combina reflexión individual, contraste por pare
 #### Ejemplo
 En biología, antes de explicar la selección natural, el profesor pregunta: **¿por qué algunas bacterias se vuelven resistentes a los antibióticos?** Cada alumno propone una explicación, después la compara con su pareja y finalmente se recogen varias respuestas para iniciar la explicación.
 
-**Técnicas relacionadas:** 1 - 2 - 4, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Parejas de discusión
+**Técnicas relacionadas:** 1 - 2 - 4, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Lo que sé y lo que sabemos, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales)
 
 **Cómo evaluar:**
 
@@ -2773,15 +2777,15 @@ En matemáticas, el profesor plantea cuatro problemas de proporcionalidad para r
 
 Al terminar, el profesor recoge al azar el cuaderno de un alumno de cada grupo. La corrección de ese ejercicio cuenta para todo el equipo. Esto anima al grupo a revisar el trabajo de todos y a no dejar que una sola persona resuelva la tarea sin que los demás la comprendan.
 
-**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Lápiz al centro, STAD (Student Teams Achievement Divisions)
+**Técnicas relacionadas:** Lápiz al centro, Números iguales juntos (Cabezas juntas numeradas), STAD (Student Teams Achievement Divisions)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Ficha de retroalimentación, Lista de cotejo o control, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Finalidad sumativa
+- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas, Finalidad sumativa
 
 ---
 
@@ -2810,7 +2814,7 @@ Es especialmente útil para detectar concepciones alternativas, iniciar una inda
 #### Ejemplo
 En física, una viñeta muestra tres alumnos hablando sobre una pelota que cae. Uno dice que los objetos pesados caen siempre antes, otro que todos caen igual si no hay aire y otro que depende de la forma. La clase discute las ideas, realiza una pequeña experiencia o analiza un vídeo y revisa sus explicaciones sobre la caída de los cuerpos.
 
-**Técnicas relacionadas:** Veo, pienso, me pregunto, Predice, observa, explica (POE), Genera hipótesis, Aprendizaje basado en indagación, ¿Qué te hace decir eso?, Afirmación, evidencia y razonamiento (CER)
+**Técnicas relacionadas:** ¿Qué te hace decir eso?, Aprendizaje basado en indagación, Genera hipótesis, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Predice, observa, explica (POE)
 
 **Cómo evaluar:**
 
@@ -2849,11 +2853,11 @@ La técnica de formulación de preguntas, o QFT, es una propuesta del Right Ques
 #### Ejemplo
 En biología, el profesor muestra la frase: “Cada vez hay más bacterias resistentes a los antibióticos”. Durante 5 minutos, los equipos generan preguntas. Después eligen tres: una factual, una causal y una de investigación. Esas preguntas orientan la búsqueda de información de la sesión siguiente.
 
-**Técnicas relacionadas:** Pienso, me interesa, investigo, Aprendizaje basado en preguntas (ABPC), Pregunta el porqué, Pregunta y responde
+**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Dimensiones:* Finalidad diagnóstica, Indagación
 
@@ -2934,13 +2938,13 @@ Los alumnos de la ESO están estudiando la economía y tienen que trabajar con e
    1. Coherencia en la expresión oral
    1. Nivel de aportación a la discusión
 
-**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Situación problema, Controversia académica
+**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Controversia académica, Juego de rol, Situación problema
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de producciones
 
-- *Dimensiones:* Estudio de casos, Enfoque competencial, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Estudio de casos, Enfoque competencial, Evidencia de desempeño, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -2973,15 +2977,15 @@ En digitalización, los alumnos diseñan una solución para mejorar la organizac
 
 **Recursos:** [Lluvia de ideas y votos](https://jjdeharo.github.io/directo/ideas.html)
 
-**Técnicas relacionadas:** Genera soluciones, Aprendizaje basado en retos (ABR), Matriz de problemas
+**Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Genera soluciones, Matriz de problemas, Las 4C del aprendizaje
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Entrevista evaluativa, Observación sistemática, Intercambios orales, Pruebas específicas
+- *Técnicas de evaluación:* Encuesta y cuestionario, Entrevista evaluativa, Observación sistemática, Intercambios orales, Pruebas específicas, Triangulación de evidencias
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Analíticas de aprendizaje, Banco de descriptores, Conversor de niveles a calificación, Declaración de uso de IA y fuentes, Ficha de retroalimentación, Historial de revisión, Lista de indicadores por criterio, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de ponderación, Panel de progreso, Perfil de logro, Plantilla de feedback/feedforward, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica digital, Rúbrica global u holística, Rúbrica oral, Rúbrica de proceso, Rúbrica de producto, Tabla de calificación por criterios
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Evaluación continua, Evaluación criterial, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -3011,15 +3015,15 @@ Primero, el equipo intenta resolver las dudas de sus miembros. Las que no pueden
 
 **Recursos:** [Muro interactivo](https://jjdeharo.github.io/directo/muro.html)
 
-**Técnicas relacionadas:** Muddiest Point (El punto más confuso), Intercambiar dificultades, Parada de tres minutos
+**Técnicas relacionadas:** Intercambiar dificultades, Muddiest Point (El punto más confuso), Parada de tres minutos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Acta de evaluación, Contrato de grupo, Cuaderno de calificaciones, Escala descriptiva, Escala de observación, Escala de valoración, Ficha de retroalimentación, Guía de observación, Hoja de seguimiento grupal, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica de trabajo cooperativo, Sociograma
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Finalidad sumativa
+- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas, Finalidad sumativa
 
 ---
 
@@ -3050,7 +3054,7 @@ En matemáticas, el profesor propone tres problemas similares sobre porcentajes.
 
 Al final, el equipo compara los procedimientos utilizados y revisa los errores. La estructura permite que el alumnado practique primero con apoyo amplio, después con apoyo reducido y finalmente de forma autónoma.
 
-**Técnicas relacionadas:** 1 - 2 - 4, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization)
+**Técnicas relacionadas:** 1 - 2 - 4, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Ejemplos resueltos, Liberación gradual de la responsabilidad
 
 **Cómo evaluar:**
 
@@ -3096,7 +3100,7 @@ Después, los alumnos trabajarían en equipos para encontrar las respuestas a la
 
 Así, con esta técnica, todos los estudiantes habrían tenido la oportunidad de reflexionar sobre el tema del ciclo del agua y de trabajar en equipo para encontrar las respuestas a sus dificultades. Además, habrían podido revisar y corregir sus procesos de resolución de los problemas relacionados con este tema.
 
-**Técnicas relacionadas:** El Saco de Dudas, Peer Instruction (Instrucción entre iguales), Muddiest Point (El punto más confuso)
+**Técnicas relacionadas:** El Saco de Dudas, Muddiest Point (El punto más confuso), Peer Instruction (Instrucción entre iguales)
 
 **Cómo evaluar:**
 
@@ -3104,7 +3108,7 @@ Así, con esta técnica, todos los estudiantes habrían tenido la oportunidad de
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
 
 ---
 
@@ -3146,7 +3150,7 @@ En biología, cada equipo recibe una hoja con cuatro preguntas sobre nutrición:
 
 El alumno responsable de la primera cuestión la lee y coordina las intervenciones. Todos deben aportar una idea antes de escribir. Cuando el equipo llega a una respuesta consensuada, todos cogen el lápiz y la anotan en su cuaderno. Después, el turno pasa al siguiente compañero. Así se evita que uno solo resuelva toda la tarea y se favorece la explicación entre iguales.
 
-**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Uno para todos, Placemat consensus
+**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Placemat consensus, Uno para todos, Roles cooperativos
 
 **Cómo evaluar:**
 
@@ -3175,15 +3179,15 @@ En una unidad sobre contaminación del agua, el profesor plantea una situación 
 
 Cada grupo busca información, selecciona evidencias y prepara una explicación parcial. Después, todos los grupos ponen en común sus resultados y elaboran un informe conjunto con hipótesis sobre las causas, datos que habría que recoger y medidas preventivas. La actividad permite investigar un problema complejo desde perspectivas complementarias.
 
-**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), CO-OP CO-OP, Aprendizaje basado en la investigación (ABI)
+**Técnicas relacionadas:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en problemas (ABP), CO-OP CO-OP
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis de producciones
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Baremo, Escala numérica, Guía de corrección, Plantilla de corrección, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Indagación, Resolución de problemas, Trabajo por proyectos
+- *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Indagación, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -3228,7 +3232,7 @@ Esta tabla recoge las ideas referentes a ""cómo mejorar el rendimiento escolar"
 
 Con esta matriz, se pueden comparar las diferentes soluciones y valorar cuáles son las mejores opciones en función de sus posibles efectos o consecuencias.
 
-**Técnicas relacionadas:** Genera soluciones, Las dos columnas, Revisa las consecuencias
+**Técnicas relacionadas:** Pensamiento de diseño (Design Thinking), Detecta patrones, Genera soluciones, Revisa las consecuencias, Las dos columnas, El juego de la NASA
 
 **Cómo evaluar:**
 
@@ -3261,7 +3265,7 @@ En una asignatura de economía, el profesor plantea la pregunta: “¿Cómo podr
 
 Después, el equipo comparte las ideas y solo escribe en el centro aquellas en las que todos están de acuerdo. Finalmente, el portavoz explica qué propuestas han consensuado y qué criterios han usado: coste, facilidad de organización, participación del alumnado e impacto esperado. La técnica ayuda a pasar de ideas individuales a una decisión colectiva razonada.
 
-**Técnicas relacionadas:** 1 - 2 - 4, Lápiz al centro, Situación problema
+**Técnicas relacionadas:** 1 - 2 - 4, Lápiz al centro, Situación problema, El juego de la NASA
 
 **Cómo evaluar:**
 
@@ -3303,7 +3307,7 @@ Cada estudiante dedica unos minutos a pensar en una posible solución a este pro
 
 Finalmente, el profesor elige al azar un miembro de cada grupo para que explique la o las soluciones que han manejado. Algunas de las soluciones que pueden salir en esta técnica pueden ser: promover el uso del transporte público o bicicletas en vez de vehículos privados, mejorar la calidad de los filtros de los vehículos, promover campañas de concienciación sobre la contaminación, plantar árboles en el barrio para mejorar la calidad del aire, etc.
 
-**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Genera soluciones, Placemat consensus
+**Técnicas relacionadas:** Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en problemas (ABP), Genera soluciones, Placemat consensus
 
 **Cómo evaluar:**
 
@@ -3343,7 +3347,7 @@ El día del torneo, los alumnos compiten en mesas con compañeros de nivel parec
 
 **Recursos:** [QPlay: Concurso interactivo](https://jjdeharo.github.io/qplay/) · [GeCo - Generador de Equipos Cooperativos](https://jjdeharo.github.io/geco/)
 
-**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), STAD (Student Teams Achievement Divisions), Quiz-Quiz-Trade (Intercambio de tarjetas)
+**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), Quiz-Quiz-Trade (Intercambio de tarjetas), STAD (Student Teams Achievement Divisions), Ludificación (gamificación)
 
 **Cómo evaluar:**
 
@@ -3351,7 +3355,7 @@ El día del torneo, los alumnos compiten en mesas con compañeros de nivel parec
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación gamificada, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Calificación y acreditación, Evidencia de desempeño, Evaluación gamificada, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -3383,7 +3387,7 @@ La práctica intercalada mezcla problemas o tareas de tipos diferentes dentro de
 #### Ejemplo
 En una sesión de matemáticas de 20 minutos, el profesor mezcla ecuaciones, sistemas, porcentajes y problemas de proporcionalidad. Antes de calcular, cada alumno debe escribir: “Este problema es de...” y justificar qué procedimiento aplicará.
 
-**Técnicas relacionadas:** Práctica espaciada, Práctica de recuperación, Peer Instruction (Instrucción entre iguales), Teoría de la carga cognitiva
+**Técnicas relacionadas:** Peer Instruction (Instrucción entre iguales), Práctica de recuperación, Práctica espaciada, Teoría de la carga cognitiva
 
 **Cómo evaluar:**
 
@@ -3421,13 +3425,13 @@ Los ejemplos resueltos son problemas ya solucionados paso a paso, con explicaci�
 #### Ejemplo
 En física, antes de resolver problemas de cinemática, el profesor muestra un ejemplo donde se identifican los datos, se elige la fórmula, se sustituyen unidades y se comprueba si el resultado tiene sentido. Después, el alumnado completa un problema similar con algunos pasos en blanco.
 
-**Técnicas relacionadas:** Liberación gradual de la responsabilidad, Teoría de la carga cognitiva, Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring)
+**Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Teoría de la carga cognitiva
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones, Pruebas específicas
 
-- *Dimensiones:* Resolución de problemas
+- *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -3468,15 +3472,15 @@ Imaginad que los estudiantes de la ESO están estudiando la historia y el profes
 
 **Recursos:** [QPlay: Concurso interactivo](https://jjdeharo.github.io/qplay/)
 
-**Técnicas relacionadas:** Ludificación (gamificación), TGT (Torneo de Juegos por Equipos), Quiz-Quiz-Trade (Intercambio de tarjetas)
+**Técnicas relacionadas:** Quiz-Quiz-Trade (Intercambio de tarjetas), TGT (Torneo de Juegos por Equipos), Ludificación (gamificación)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Observación incidental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Diario del profesor, Escala descriptiva, Escala de observación, Escala de valoración, Ficha de retroalimentación, Guía de observación, Notas de campo, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada
+- *Dimensiones:* Enfoque competencial, Evaluación continua, Evidencia de desempeño, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada, Heteroevaluación
 
 ---
 
@@ -3508,13 +3512,15 @@ Metodología en la que el aprendizaje se organiza a partir de preguntas, observa
 #### Ejemplo
 En biología, los alumnos investigan por qué algunas semillas germinan mejor que otras. Diseñan una pequeña prueba con distintas condiciones de luz o humedad, recogen datos y justifican sus conclusiones.
 
-**Técnicas relacionadas:** Aprendizaje basado en la investigación (ABI), Indagación guiada por la argumentación (ADI), Genera hipótesis
+**Técnicas relacionadas:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje por descubrimiento, El modelo 5E, Genera hipótesis, Parejas de detectives, Pienso, me interesa, investigo, Centros de interés (enfoque de Decroly), Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Concept Cartoon
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Dimensiones:* Indagación, Resolución de problemas
+- *Instrumentos:* Baremo, Escala numérica, Guía de corrección, Plantilla de corrección, Semáforo de evaluación
+
+- *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Indagación, Resolución de problemas
 
 ---
 
@@ -3550,7 +3556,7 @@ Un ejemplo de aprendizaje basado en la acción (ABA) en educación secundaria po
 
 Imaginad que los estudiantes de la ESO están estudiando el medio ambiente y el profesor quiere utilizar el ABA para ayudarles a comprender mejor la importancia de proteger los recursos naturales. El profesor puede planificar una actividad en la que los estudiantes tienen que trabajar colaborativamente para investigar sobre un problema ambiental específico, como la degradación de las aguas o la contaminación del aire, en su localidad. Después, tienen que diseñar una campaña de concienciación para promover la preservación de los recursos naturales y presentarla al resto de la clase. Esta actividad incluye tanto trabajos contextualizados, como realizar entrevistas o realizar observaciones de campo, como trabajos descontextualizados, como utilizar recursos digitales o elaborar materiales de promoción. Al final de la actividad, los estudiantes reflexionan sobre el proceso que han seguido y comparten los resultados de su campaña con el resto de la clase. Este ejemplo muestra cómo el ABA puede utilizar la combinación de situaciones contextualizadas y descontextualizadas para ayudar a los estudiantes a conectar con su entorno y desarrollar habilidades y conocimientos de manera significativa.
 
-**Técnicas relacionadas:** Aprendizaje basado en retos (ABR), Proyectos de Aprendizaje-Servicio (ApS o ABS), Aprendizaje experiencial
+**Técnicas relacionadas:** Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Proyectos de Aprendizaje-Servicio (ApS o ABS), Centros de interés (enfoque de Decroly)
 
 **Cómo evaluar:**
 
@@ -3558,7 +3564,7 @@ Imaginad que los estudiantes de la ESO están estudiando el medio ambiente y el 
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Finalidad diagnóstica, Evaluación inclusiva y DUA, Resolución de problemas, Trabajo por proyectos
+- *Dimensiones:* Evidencia de desempeño, Finalidad diagnóstica, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -3615,15 +3621,15 @@ En resumen, el aprendizaje basado en proyectos implica la creación de un produc
 
 Aquí se puede consultar un desarrollo más detallado de este proyecto.
 
-**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS)
+**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Digital storytelling (relatos digitales), Proyectos de Aprendizaje-Servicio (ApS o ABS), Evaluación auténtica, Las 4C del aprendizaje
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento, Triangulación de evidencias
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Analíticas de aprendizaje, Banco de descriptores, Banco digital de evidencias, Contrato de grupo, Conversor de niveles a calificación, Cuaderno de calificaciones, Declaración de uso de IA y fuentes, Diana de evaluación, Escala de progreso, Escala verbal, Ficha de retroalimentación, Ficha de valoración, Historial de revisión, Hoja de seguimiento grupal, Hoja de seguimiento individual, Lista de indicadores por criterio, Informe individual de evaluación, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de valoración, Matriz de ponderación, Panel de progreso, Perfil de logro, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica digital, Rúbrica global u holística, Rúbrica oral, Rúbrica de proceso, Rúbrica de producto, Tabla de calificación por criterios
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas, Trabajo por proyectos
+- *Dimensiones:* Evaluación continua, Evaluación criterial, Evidencia de desempeño, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -3671,15 +3677,15 @@ Ejemplo de aplicación de ABR para resolver este problema:
 - Difusión del trabajo: Los alumnos pueden crear un vídeo o una exposición para explicar las soluciones propuestas y los resultados obtenidos. También pueden escribir un artículo para una revista del barrio o realizar una presentación a la comunidad.
 - Evaluación: Los alumnos se harán una autoevaluación para reflexionar sobre el proceso seguido y los resultados obtenidos, y también se hará una evaluación por parte del docente o docentes implicados. Si se considera necesario, se pueden pedir evaluaciones externas a otros agentes del barrio para obtener una visión más amplia del trabajo realizado.
 
-**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Proyectos de Aprendizaje-Servicio (ApS o ABS), Pensamiento de diseño (Design Thinking)
+**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Entrevista evaluativa, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Entrevista evaluativa, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Banco de descriptores, Conversor de niveles a calificación, Escala de autoevaluación, Ficha de retroalimentación, Lista de indicadores por criterio, Lista de cotejo o control, Lista de cotejo de autoevaluación, Mapa de evidencias por criterio, Matriz de ponderación, Perfil de logro, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica global u holística, Rúbrica oral, Rúbrica de proceso, Rúbrica de producto, Tabla de calificación por criterios
 
-- *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas
+- *Dimensiones:* Autoevaluación, Evaluación continua, Evaluación criterial, Evidencia de desempeño, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Resolución de problemas
 
 ---
 
@@ -3706,13 +3712,15 @@ Un ejemplo de aprendizaje experiencial podría ser una actividad en la que los e
 
 Después de la visita, los estudiantes pueden reflexionar sobre sus observaciones y experiencias, y discutir entre ellos los conceptos que han aprendido. Esto les permitirá conectar los conceptos teóricos con la vida real y comprender mejor cómo aplicarlos a situaciones reales.
 
-**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Centros de interés (enfoque de Decroly), Aprendizaje basado en laboratorio (ABL)
+**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en laboratorio (ABL), Aprendizaje por descubrimiento, Centros de interés (enfoque de Decroly)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Observación incidental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Dimensiones:* Evaluación inclusiva y DUA
+- *Instrumentos:* Diana de evaluación, Notas de campo, Semáforo de evaluación
+
+- *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Evaluación inclusiva y DUA
 
 ---
 
@@ -3746,7 +3754,7 @@ Fuentes:
 1. Después de 5 minutos, B comparte con A su opinión sobre el tema, mientras A escucha de manera activa.
 1. Una vez finalizadas las intervenciones, se realiza una breve síntesis de los puntos de vista de cada pareja.
 
-**Técnicas relacionadas:** Think-Pair-Share (Piensa-Pareja-Comparte), Parejas de discusión, RallyRobin
+**Técnicas relacionadas:** 1 - 2 - 4, Parejas de discusión, RallyRobin, Think-Pair-Share (Piensa-Pareja-Comparte)
 
 **Cómo evaluar:**
 
@@ -3782,13 +3790,15 @@ En una unidad de biología sobre enfermedades infecciosas, el alumnado crea un r
 
 El producto final combina una narración breve, imágenes, esquemas sencillos, música o efectos de sonido y una conclusión científica. El docente pide que el relato incluya conceptos como transmisión, respuesta inmunitaria, prevención y tratamiento. Al presentarlo, cada grupo explica qué decisiones narrativas ha tomado y qué contenidos científicos ha querido comunicar.
 
-**Técnicas relacionadas:** Visual Thinking (pensamiento visual), Aprendizaje basado en proyectos (ABProyectos), Titulares
+**Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Titulares, Visual Thinking (pensamiento visual), Modelo SAMR
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Entrevista evaluativa, Intercambios orales, Análisis de producciones
 
-- *Dimensiones:* Trabajo por proyectos
+- *Instrumentos:* Formulario digital, Hoja de cálculo de evaluación
+
+- *Dimensiones:* Evidencias digitales, Heteroevaluación, Trabajo por proyectos
 
 ---
 
@@ -3819,15 +3829,15 @@ Organización del aula en diferentes estaciones o espacios de trabajo. En cada e
 #### Ejemplo
 En biología, una estación contiene observación de muestras, otra análisis de imágenes, otra resolución de preguntas y otra elaboración de un esquema. Todos los grupos pasan por todas las estaciones.
 
-**Técnicas relacionadas:** Equipos paralelos, Centros de interés (enfoque de Decroly), Flipped Classroom (Aula invertida)
+**Técnicas relacionadas:** Flipped Classroom (Aula invertida), Diseño Universal para el Aprendizaje (DUA / UDL), Equipos paralelos, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Diana de evaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA
 
 ---
 
@@ -3860,7 +3870,7 @@ Cada equipo empieza en un cartel y escribe sus ideas durante tres minutos. Despu
 
 **Recursos:** [Lluvia de ideas y votos](https://jjdeharo.github.io/directo/ideas.html) · [Muro interactivo](https://jjdeharo.github.io/directo/muro.html)
 
-**Técnicas relacionadas:** El folio giratorio, World Café, Grupo nominal
+**Técnicas relacionadas:** El folio giratorio, Gallery Walk (Paseo por la galería), RoundRobin, World Café, Grupo nominal
 
 **Cómo evaluar:**
 
@@ -3891,13 +3901,15 @@ Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para a
 #### Ejemplo
 Por ejemplo, imaginad que se quiere realizar una actividad sobre el uso de los pronombres débiles en catalán. Se podrían seleccionar cuatro estudiantes que consideren que ya dominan este tema y se les pide que se preparen para explicarlo a los demás. Después, se dividiría el grupo en equipos de cuatro estudiantes y un alumno de cada grupo iría a ver a uno de los ""sabios" " para recibir instrucciones sobre el uso de los pronombres débiles. Después de la primera fase, cada estudiante volvería a su equipo y explicaría a sus compañeros lo que ha aprendido del ""sabio" " que ha visitado. Así, todos los estudiantes habrían aprendido sobre el uso de los pronombres débiles gracias a las explicaciones de los diferentes ""sabios" ".
 
-**Técnicas relacionadas:** El Rompecabezas ("Jigsaw"), Tutoría entre iguales (Peer Tutoring), Equipos paralelos
+**Técnicas relacionadas:** CO-OP CO-OP, El Rompecabezas ("Jigsaw"), Tutoría entre iguales (Peer Tutoring), Equipos paralelos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Intercambios orales, Análisis de producciones
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
+
+- *Dimensiones:* Evaluación inclusiva y DUA
 
 ---
 
@@ -3936,7 +3948,7 @@ _Palabras clave: hipótesis, conocimientos previos, parejas, resolución de prob
 
 Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo
 
-**Técnicas relacionadas:** Genera hipótesis, Think-Pair-Share (Piensa-Pareja-Comparte), Aprendizaje basado en indagación
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Genera hipótesis, Think-Pair-Share (Piensa-Pareja-Comparte)
 
 **Cómo evaluar:**
 
@@ -3982,9 +3994,9 @@ La pareja continúa hasta que agota sus ideas. Después, algunas respuestas se r
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Analíticas de aprendizaje, Declaración de uso de IA y fuentes, Ficha de retroalimentación, Formulario digital, Historial de revisión, Hoja de cálculo de evaluación, Panel de progreso, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo, Rúbrica digital
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
 
 ---
 
@@ -4018,15 +4030,15 @@ En tutoría, el profesor plantea al grupo: “¿Qué podríamos hacer para que l
 
 La ronda continúa hasta reunir varias propuestas. Después, el equipo selecciona las dos que considera más viables y las comparte con la clase. La técnica permite recoger muchas ideas sin que una sola persona domine la conversación.
 
-**Técnicas relacionadas:** RallyRobin, Graffiti Cooperativo, Grupo nominal
+**Técnicas relacionadas:** El folio giratorio, Graffiti Cooperativo, RallyRobin, Grupo nominal
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Escala numérica, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
 
 ---
 
@@ -4057,7 +4069,7 @@ Dinámica de diálogo colaborativo en pequeños grupos que rotan por varias mesa
 #### Ejemplo
 En una unidad sobre sostenibilidad, cada mesa aborda una pregunta: consumo de agua, energía, residuos, movilidad y alimentación. Los grupos rotan, completan las ideas y finalmente elaboran propuestas para el centro.
 
-**Técnicas relacionadas:** Graffiti Cooperativo, Gallery Walk (Paseo por la galería), Grupo nominal
+**Técnicas relacionadas:** Gallery Walk (Paseo por la galería), Graffiti Cooperativo, Las 4C del aprendizaje, Grupo nominal
 
 **Cómo evaluar:**
 
@@ -4065,7 +4077,7 @@ En una unidad sobre sostenibilidad, cada mesa aborda una pregunta: consumo de ag
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Finalidad sumativa
+- *Dimensiones:* Estudio de casos, Evidencia de desempeño, Heteroevaluación, Finalidad sumativa
 
 ---
 
@@ -4096,13 +4108,13 @@ Enfoque globalizador que organiza el aprendizaje a partir de necesidades, intere
 #### Ejemplo
 A partir del centro de interés “la alimentación”, el alumnado observa hábitos cotidianos, analiza etiquetas, calcula proporciones, estudia nutrientes y elabora propuestas de mejora.
 
-**Técnicas relacionadas:** Aprendizaje experiencial, Aprendizaje basado en la acción (ABA), Aprendizaje basado en indagación
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje experiencial, Estaciones de aprendizaje
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones
 
-- *Dimensiones:* Indagación, Resolución de problemas
+- *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Indagación, Resolución de problemas
 
 ---
 
@@ -4148,7 +4160,7 @@ Después, cada grupo prepara un argumento tentativo. Por ejemplo: “La luz no e
 
 A partir de esas preguntas, cada grupo revisa su explicación y redacta un informe final. La actividad no se limita a obtener datos, sino que enseña a defender, cuestionar y mejorar una explicación basada en evidencias.
 
-**Técnicas relacionadas:** Afirmación, evidencia y razonamiento (CER), Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI)
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review)
 
 **Cómo evaluar:**
 
@@ -4156,7 +4168,7 @@ A partir de esas preguntas, cada grupo revisa su explicación y redacta un infor
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas
+- *Dimensiones:* Estudio de casos, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Resolución de problemas
 
 ---
 
@@ -4188,7 +4200,7 @@ La liberación gradual de la responsabilidad es un modelo de andamiaje en el que
 #### Ejemplo
 Para resolver problemas de geometría, el profesor resuelve uno pensando en voz alta durante 5 minutos. Después resuelve otro con la clase. A continuación, las parejas trabajan un tercer problema y, al final, cada alumno resuelve individualmente uno similar.
 
-**Técnicas relacionadas:** Pensamiento en voz alta, Ejemplos resueltos, Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring)
+**Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Ejemplos resueltos, Pensamiento en voz alta, Teoría de la carga cognitiva
 
 **Cómo evaluar:**
 
@@ -4279,15 +4291,15 @@ También podemos utilizar una estructura más simple para el mismo problema:
 1. Comprobación de la hipótesis. Los estudiantes realizan experimentos con diferentes grupos de plantas fertilizadas con orgánico o químico y miden el crecimiento cada semana para comprobar si la hipótesis es correcta o no.
 1. Elaboración de resultados y presentación al resto de la clase. Los estudiantes analizan los datos recogidos y elaboran resultados y conclusiones sobre el efecto de los diferentes tipos de fertilizantes en el crecimiento de las plantas. A continuación, presentan los resultados de la investigación al resto de la clase de manera clara y con rigor científico.
 
-**Técnicas relacionadas:** Aprendizaje basado en indagación, Indagación guiada por la argumentación (ADI), Aprendizaje basado en laboratorio (ABL)
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en laboratorio (ABL), Los Grupos de Investigación, Indagación guiada por la argumentación (ADI)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Encuesta y cuestionario, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Enfoque competencial, Finalidad diagnóstica, Indagación, Resolución de problemas, Trabajo por proyectos
+- *Dimensiones:* Enfoque competencial, Evidencia de desempeño, Finalidad diagnóstica, Heteroevaluación, Indagación, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -4330,15 +4342,15 @@ Después, cada grupo diseña un experimento sencillo con dos grupos de semillas:
 
 Al final, analizan los datos, comparan los resultados con la hipótesis inicial y preparan una breve comunicación con una tabla de datos, una gráfica y una conclusión basada en evidencias.
 
-**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), El modelo 5E
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje experiencial, El modelo 5E
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Rúbrica de trabajo cooperativo
+- *Instrumentos:* Lista de cotejo o control, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Indagación, Resolución de problemas
+- *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Indagación, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -4389,15 +4401,15 @@ En una unidad sobre la historia de la música occidental, el profesor ha decidid
 
 El profesor ha dividido a los estudiantes en grupos de 3 y ha asignado a cada grupo una de las épocas de la música occidental. Los estudiantes tienen que trabajar en equipo para elaborar una guía de preguntas con las tres categorías anteriores para su época asignada. Después, cada grupo presentará sus preguntas al resto de la clase, que se encargarán de responderlas. Así, el aprendizaje se desarrollará de forma colaborativa y metacognitiva, ya que los estudiantes tienen que utilizar sus ideas previas, sintetizar la información adquirida, organizarla y jerarquizarla, y aplicar su conocimiento a nuevas situaciones.
 
-**Técnicas relacionadas:** Pienso, me interesa, investigo, Pregunta y responde, Pregunta el porqué
+**Técnicas relacionadas:** Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Técnica de formulación de preguntas (QFT)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Enfoque competencial, Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Trabajo por proyectos
+- *Dimensiones:* Enfoque competencial, Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -4441,15 +4453,15 @@ En la asignatura de Tecnología, se plantea el reto de diseñar un sistema de ri
 4. Los grupos montan un prototipo y realizan pruebas de funcionamiento en el aula.
 5. Finalmente, instalan el sistema en el huerto y presentan el resultado final, explicando cómo han superado los problemas técnicos que han ido surgiendo durante el proceso.
 
-**Técnicas relacionadas:** Situación problema, Aprendizaje basado en casos (ABC), Aprendizaje basado en retos (ABR)
+**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Los Grupos de Investigación, Situación problema
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Observación incidental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Banco de descriptores, Baremo, Conversor de niveles a calificación, Cuaderno de calificaciones, Diario del profesor, Escala descriptiva, Escala de observación, Escala de progreso, Escala de valoración, Escala verbal, Ficha de retroalimentación, Guía de corrección, Guía de observación, Lista de indicadores por criterio, Lista de cotejo o control, Mapa de evidencias por criterio, Matriz de ponderación, Notas de campo, Perfil de logro, Plantilla de corrección, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica competencial, Rúbrica de trabajo cooperativo, Rúbrica oral, Tabla de calificación por criterios
 
-- *Dimensiones:* Enfoque competencial, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación, Resolución de problemas, Trabajo por proyectos
+- *Dimensiones:* Estudio de casos, Enfoque competencial, Evaluación continua, Evaluación criterial, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -4503,7 +4515,9 @@ Otras fuentes consultadas: Jimenez Pierre,O.et al. (2007). Modelo de aprendizaje
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Dimensiones:* Indagación, Resolución de problemas
+- *Instrumentos:* Semáforo de evaluación
+
+- *Dimensiones:* Heteroevaluación, Indagación, Resolución de problemas, Trazabilidad, autoría y uso de IA
 
 ---
 
@@ -4545,7 +4559,7 @@ Adaptado de Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar pa
 
 **Recursos:** [Nube de palabras](https://jjdeharo.github.io/directo/nube.html)
 
-**Técnicas relacionadas:** Mapa conceptual a cuatro bandas, El folio giratorio, Palabra, idea, frase
+**Técnicas relacionadas:** El folio giratorio, Mapa conceptual a cuatro bandas, Palabra, idea, frase
 
 **Cómo evaluar:**
 
@@ -4572,7 +4586,7 @@ Un ejemplo de la técnica del juego de rol podría ser el siguiente:
 
 Imaginaremos que el grupo está estudiando la Segunda Guerra Mundial. Los participantes pueden dividirse en diferentes roles, como líderes políticos, militares o ciudadanos comunes de los diferentes países implicados en la guerra. Después, el grupo tendrá que resolver una serie de problemas o dilemas relacionados con la guerra, como qué decisiones tomaría cada rol en determinadas situaciones o qué consecuencias tendrían estas decisiones. Así, los participantes tendrán que trabajar juntos para resolver los problemas del juego de rol y a la vez reflexionar sobre los diferentes puntos de vista y las motivaciones de los diferentes personajes.
 
-**Técnicas relacionadas:** Círculo de puntos de vista, Role on the Wall (Silueta del personaje), Aprendizaje basado en casos (ABC)
+**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Role on the Wall (Silueta del personaje)
 
 **Cómo evaluar:**
 
@@ -4580,7 +4594,7 @@ Imaginaremos que el grupo está estudiando la Segunda Guerra Mundial. Los partic
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada, Resolución de problemas, Simulación
+- *Dimensiones:* Estudio de casos, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada, Heteroevaluación, Resolución de problemas, Simulación
 
 ---
 
@@ -4613,7 +4627,7 @@ En la primera semana de trabajo en equipos cooperativos, el profesor forma parej
 
 Después de entrevistarse mutuamente, cada alumno escribe una frase sobre su compañero, por ejemplo: “Marta es organizada, prefiere tener las tareas claras y puede ayudar al equipo a repartir el trabajo”. Al final, las frases se leen en voz alta y sirven para formar una imagen más rica del grupo.
 
-**Técnicas relacionadas:** Conozcámonos, Reloj de citas, Seguir la pista
+**Técnicas relacionadas:** ¿Quién es quién?, Conozcámonos, Reloj de citas, Seguir la pista
 
 **Cómo evaluar:**
 
@@ -4662,7 +4676,7 @@ En tutoría, el grupo realiza una mesa redonda sobre la pregunta: “¿Cómo pod
 
 El docente modera para que nadie monopolice la conversación y anota las propuestas más repetidas. Después, el grupo acuerda tres medidas concretas, como dejar los móviles en una zona común durante determinadas actividades, permitir su uso solo cuando la tarea lo requiera y revisar el acuerdo al cabo de dos semanas. La técnica permite dialogar, negociar y llegar a una decisión compartida.
 
-**Técnicas relacionadas:** Seminario socrático, Fishbowl (Pecera), Talking Chips (Fichas de conversación)
+**Técnicas relacionadas:** Fishbowl (Pecera), Seminario socrático, Talking Chips (Fichas de conversación), El juego de la NASA
 
 **Cómo evaluar:**
 
@@ -4670,7 +4684,7 @@ El docente modera para que nadie monopolice la conversación y anota las propues
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación compartida y participativa, Resolución de problemas, Finalidad sumativa
+- *Dimensiones:* Estudio de casos, Evaluación compartida y participativa, Evidencia de desempeño, Heteroevaluación, Resolución de problemas, Finalidad sumativa
 
 ---
 
@@ -4715,7 +4729,7 @@ En una clase de ciencias sociales, el grupo lee un texto breve sobre las causas 
 
 Después, el segundo alumno lee el siguiente párrafo y el tercero lo resume. El proceso continúa hasta terminar el texto. Al final, cada equipo elabora una lista común con las causas económicas, sociales y políticas que han identificado. La técnica ayuda a mantener la atención y a comprobar la comprensión durante la lectura, no solo al final.
 
-**Técnicas relacionadas:** Palabra, idea, frase, Tertulia dialógica, Lectura fantasma
+**Técnicas relacionadas:** Lectura fantasma, Palabra, idea, frase, Tertulia dialógica, Enseñanza recíproca, +1
 
 **Cómo evaluar:**
 
@@ -4793,7 +4807,7 @@ En cada equipo, un alumno prepara la parte sobre neuronas, otro la del sistema n
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** El juego de las palabras, Visual Thinking (pensamiento visual), Analiza y sintetiza
+**Técnicas relacionadas:** Analiza y sintetiza, El juego de las palabras, Visual Thinking (pensamiento visual), Modelo Frayer, Generar, ordenar, conectar, elaborar
 
 **Cómo evaluar:**
 
@@ -4896,15 +4910,15 @@ Creación de un huerto comunitario en un barrio con pocos espacios verdes y alta
    1. Se promovería la difusión de los resultados y las conclusiones obtenidas, ya sea a través de las redes sociales o de la prensa local.
    1. Se buscarían posibles colaboraciones con otras iniciativas similares para extender el programa.
 
-**Técnicas relacionadas:** Aprendizaje basado en retos (ABR), Aprendizaje basado en la acción (ABA), Aprendizaje basado en proyectos (ABProyectos)
+**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento, Triangulación de evidencias
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Banco de descriptores, Banco digital de evidencias, Contrato de grupo, Diana de evaluación, Ficha de retroalimentación, Ficha de valoración, Hoja de seguimiento grupal, Hoja de seguimiento individual, Informe individual de evaluación, Lista de cotejo o control, Matriz de valoración, Matriz de ponderación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo, Rúbrica global u holística, Rúbrica de proceso, Rúbrica de producto
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas, Trabajo por proyectos
+- *Dimensiones:* Evaluación continua, Evaluación criterial, Evidencia de desempeño, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas, Trabajo por proyectos
 
 ---
 
@@ -4933,7 +4947,7 @@ Puede aplicarse en ciencias, matemáticas, lengua, historia, economía o cualqui
 #### Ejemplo
 En matemáticas, para el concepto “función”, el alumnado escribe una definición, indica características como que a cada valor de entrada le corresponde un único valor de salida, añade ejemplos de funciones mediante tablas o gráficas y no ejemplos donde un mismo valor de entrada tiene dos salidas distintas.
 
-**Técnicas relacionadas:** Analiza y sintetiza, Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK)
+**Técnicas relacionadas:** Analiza y sintetiza, Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Generar, ordenar, conectar, elaborar
 
 **Cómo evaluar:**
 
@@ -4966,7 +4980,7 @@ Puede realizarse en pequeños grupos, con roles rotatorios, o mediante modelado 
 #### Ejemplo
 En biología, el grupo lee un texto sobre vacunas. Un alumno resume el primer párrafo, otro formula una pregunta sobre la respuesta inmunitaria, otro aclara el significado de “anticuerpo” y otro predice qué se explicará después sobre memoria inmunológica. La lectura se convierte en un proceso activo y compartido.
 
-**Técnicas relacionadas:** Lectura compartida, Palabra, idea, frase, Pregunta el porqué, Pregunta y responde, Tertulia dialógica, Seminario socrático
+**Técnicas relacionadas:** Lectura compartida, Palabra, idea, frase, Pregunta el porqué, Pregunta y responde, Seminario socrático, Tertulia dialógica, Pensamiento en voz alta, Apuntes Cornell
 
 **Cómo evaluar:**
 
@@ -5009,7 +5023,7 @@ En biología, después de explicar la mitosis, cada alumno escribe durante 4 min
 
 Tras tres rondas, el resumen vuelve a su autor. Cada alumno dedica 3 minutos a revisar las aportaciones y escribe una versión final de cinco líneas. La actividad completa puede hacerse en unos 15 minutos.
 
-**Técnicas relacionadas:** El folio giratorio, Revisión entre iguales (peer review), Dos estrellas y un deseo, Lectura compartida
+**Técnicas relacionadas:** El folio giratorio, Lectura compartida, Revisión entre iguales (peer review), Dos estrellas y un deseo
 
 **Cómo evaluar:**
 
@@ -5049,7 +5063,7 @@ Los apuntes Cornell son un sistema de toma de apuntes que divide la página en t
 #### Ejemplo
 En historia, durante una explicación sobre la Segunda República, el alumnado toma notas durante 20 minutos. Al terminar, dedica 5 minutos a escribir preguntas en la columna lateral: causas, reformas, oposición y final. Después redacta una síntesis de cuatro líneas.
 
-**Técnicas relacionadas:** Práctica de recuperación, Minute Paper (Papel de un minuto), Palabra, idea, frase, Enseñanza recíproca
+**Técnicas relacionadas:** Minute Paper (Papel de un minuto), Palabra, idea, frase, Enseñanza recíproca, Práctica de recuperación, Práctica espaciada
 
 **Cómo evaluar:**
 
@@ -5089,7 +5103,7 @@ El resumen en una frase es una técnica de síntesis en la que el alumnado conde
 #### Ejemplo
 Tras estudiar la Segunda República, el alumnado dedica 3 minutos a escribir una frase que incluya cronología, naturaleza política, reformas y final. Después compara su frase con la de un compañero y ambos revisan si falta algún elemento esencial.
 
-**Técnicas relacionadas:** Titulares, Palabra, idea, frase, Analiza y sintetiza, Minute Paper (Papel de un minuto)
+**Técnicas relacionadas:** Analiza y sintetiza, Minute Paper (Papel de un minuto), Palabra, idea, frase, Titulares
 
 **Cómo evaluar:**
 
@@ -5136,13 +5150,13 @@ Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para a
 
 1. Al final de la actividad, el profesor realiza un resumen de los conocimientos de los estudiantes y determina qué áreas necesitan más trabajo. También realiza una revisión de los conceptos clave de la circulación sanguínea para asegurar que todos los alumnos los han entendido de manera adecuada.
 
-**Técnicas relacionadas:** Quiz-Quiz-Trade (Intercambio de tarjetas), Pregunta y responde, Parada de tres minutos
+**Técnicas relacionadas:** Parada de tres minutos, Pregunta y responde, Quiz-Quiz-Trade (Intercambio de tarjetas)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Pruebas específicas, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Escala numérica, Ficha de retroalimentación, Formulario digital, Hoja de cálculo de evaluación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa
 
@@ -5175,15 +5189,15 @@ Acuerdo explícito entre alumno y profesor sobre objetivos, tareas, tiempos, rec
 #### Ejemplo
 En un proyecto de investigación, cada alumno acuerda con el profesor la pregunta que trabajará, las fuentes que consultará, el producto final y las fechas de entrega parciales.
 
-**Técnicas relacionadas:** Portfolio (dosier de aprendizaje), Diario de aprendizaje, Aprendizaje visible (Visible Learning)
+**Técnicas relacionadas:** Diario de aprendizaje, Portfolio (dosier de aprendizaje), Aprendizaje visible (Visible Learning), Guías de orientación
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
+- *Instrumentos:* Banco digital de evidencias, Ficha de retroalimentación, Ficha de valoración, Hoja de seguimiento individual, Informe individual de evaluación, Matriz de valoración, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Indagación, Trabajo por proyectos
+- *Dimensiones:* Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Indagación, Trabajo por proyectos
 
 ---
 
@@ -5216,7 +5230,7 @@ Después de una exposición oral, cada alumno valora claridad, dominio del conte
 
 **Recursos:** [Escala de valoración](https://jjdeharo.github.io/directo/escala.html)
 
-**Técnicas relacionadas:** El semáforo, Rúbrica de evaluación, Ticket de salida (exit ticket)
+**Técnicas relacionadas:** El semáforo, Ticket de salida (exit ticket), Rúbrica de evaluación, Revisión entre iguales (peer review), Dos estrellas y un deseo
 
 **Cómo evaluar:**
 
@@ -5224,7 +5238,7 @@ Después de una exposición oral, cada alumno valora claridad, dominio del conte
 
 - *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
-- *Dimensiones:* Autoevaluación, Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Autoevaluación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -5257,15 +5271,15 @@ Después de trabajar la mitosis, los alumnos escriben en una tarjeta la diferenc
 
 **Recursos:** [Tickets de salida](https://jjdeharo.github.io/directo/ticket.html)
 
-**Técnicas relacionadas:** Ticket de salida (exit ticket), Muddiest Point (El punto más confuso), El semáforo
+**Técnicas relacionadas:** El semáforo, Muddiest Point (El punto más confuso), Parada de tres minutos, Ticket de salida (exit ticket), Práctica de recuperación, Apuntes Cornell, Resumen en una frase
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -5297,7 +5311,7 @@ Después de explicar las funciones exponenciales, varios alumnos indican que el 
 
 **Recursos:** [Tickets de salida](https://jjdeharo.github.io/directo/ticket.html)
 
-**Técnicas relacionadas:** Minute Paper (Papel de un minuto), El Saco de Dudas, El semáforo
+**Técnicas relacionadas:** El Saco de Dudas, El semáforo, Intercambiar dificultades, Minute Paper (Papel de un minuto), Ticket de salida (exit ticket)
 
 **Cómo evaluar:**
 
@@ -5305,7 +5319,7 @@ Después de explicar las funciones exponenciales, varios alumnos indican que el 
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -5342,7 +5356,7 @@ Durante una explicación sobre la respiración celular, el profesor se detiene d
 
 Después, cada equipo plantea una pregunta. El profesor detecta que varias dudas se centran en confundir intercambio de gases con respiración celular, así que aclara esa diferencia antes de continuar. La pausa permite ajustar la explicación mientras el aprendizaje todavía está en proceso.
 
-**Técnicas relacionadas:** Cadena de Preguntas, Equipos de oyentes, Minute Paper (Papel de un minuto)
+**Técnicas relacionadas:** Cadena de Preguntas, El Saco de Dudas, Equipos de oyentes, Minute Paper (Papel de un minuto)
 
 **Cómo evaluar:**
 
@@ -5383,15 +5397,15 @@ En matemáticas, el profesor plantea una pregunta sobre probabilidad condicionad
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Técnicas relacionadas:** Think-Pair-Share (Piensa-Pareja-Comparte), Números iguales juntos (Cabezas juntas numeradas), Ticket de salida (exit ticket)
+**Técnicas relacionadas:** Flipped Classroom (Aula invertida), Intercambiar dificultades, Números iguales juntos (Cabezas juntas numeradas), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Práctica de recuperación, Práctica intercalada
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Análisis documental, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Análisis documental, Encuesta y cuestionario, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA
 
 ---
 
@@ -5423,15 +5437,15 @@ En una materia de lengua y literatura, el alumnado elabora un portfolio digital 
 
 En cada evidencia, el alumno explica por qué la ha incluido, qué dificultad muestra, qué mejora se observa y qué objetivo se propone para la siguiente tarea. El docente no valora solo los productos finales, sino también la capacidad del alumno para seleccionar evidencias y reflexionar sobre su aprendizaje.
 
-**Técnicas relacionadas:** Diario de aprendizaje, Rúbrica de evaluación, Evaluación auténtica
+**Técnicas relacionadas:** Contrato de aprendizaje, Diario de aprendizaje, Evaluación auténtica, Rúbrica de evaluación, Revisión entre iguales (peer review)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
+- *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
 
-- *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Indagación
+- *Dimensiones:* Autoevaluación, Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Indagación
 
 ---
 
@@ -5463,11 +5477,11 @@ En una clase de inglés, cada alumno recibe una tarjeta con una palabra de vocab
 
 Después cambian los roles, intercambian las tarjetas y buscan una nueva pareja. En pocos minutos, cada estudiante practica varias palabras con compañeros diferentes. La técnica convierte el repaso en una actividad breve, oral y dinámica.
 
-**Técnicas relacionadas:** Cadena de Preguntas, TGT (Torneo de Juegos por Equipos), Reloj de citas
+**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), Cadena de Preguntas, Reloj de citas, TGT (Torneo de Juegos por Equipos), Ludificación (gamificación)
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
@@ -5494,15 +5508,15 @@ Esta técnica se utiliza con la Escala de valoración: Repartir puntos que tendr
 
 Fuente:  Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
 
-**Técnicas relacionadas:** Rúbrica de evaluación, STAD (Student Teams Achievement Divisions), Roles cooperativos
+**Técnicas relacionadas:** STAD (Student Teams Achievement Divisions), Rúbrica de evaluación, Roles cooperativos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones
 
-- *Instrumentos:* Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de coevaluación
+- *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
-- *Dimensiones:* Autoevaluación, Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Finalidad sumativa
+- *Dimensiones:* Autoevaluación, Calificación y acreditación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Finalidad sumativa
 
 ---
 
@@ -5535,7 +5549,7 @@ Al final, cada alumno realiza una prueba individual con un mapa nuevo. El equipo
 
 **Recursos:** [GeCo - Generador de Equipos Cooperativos](https://jjdeharo.github.io/geco/)
 
-**Técnicas relacionadas:** Equipos de ayuda mutua / TAI (Team Assisted Individualization), TGT (Torneo de Juegos por Equipos), Números iguales juntos (Cabezas juntas numeradas)
+**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Repartir puntos, TGT (Torneo de Juegos por Equipos), Uno para todos, Equipos de ayuda mutua / TAI (Team Assisted Individualization)
 
 **Cómo evaluar:**
 
@@ -5543,7 +5557,7 @@ Al final, cada alumno realiza una prueba individual con un mapa nuevo. El equipo
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA
+- *Dimensiones:* Calificación y acreditación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA
 
 ---
 
@@ -5574,15 +5588,15 @@ Un alumno puede responder: “He entendido que las fábricas cambiaron la organi
 
 **Recursos:** [Tickets de salida](https://jjdeharo.github.io/directo/ticket.html)
 
-**Técnicas relacionadas:** Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), El semáforo
+**Técnicas relacionadas:** Diana de evaluación, El semáforo, Flipped Classroom (Aula invertida), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Peer Instruction (Instrucción entre iguales), Dos estrellas y un deseo, Práctica de recuperación
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Finalidad sumativa
+- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Finalidad sumativa
 
 ---
 
@@ -5626,15 +5640,15 @@ En una actividad de lengua, cada alumno escribe un texto argumentativo sobre el 
 
 El revisor señala una idea clara del texto, una parte que no se entiende bien y una mejora concreta. Después, el autor revisa su texto: reformula la tesis, añade un dato y mejora el contraargumento. La técnica convierte la evaluación en una oportunidad real de mejora antes de la versión final.
 
-**Técnicas relacionadas:** Rúbrica de evaluación, Portfolio (dosier de aprendizaje), Gallery Walk (Paseo por la galería), Diana de evaluación, Indagación guiada por la argumentación (ADI), Tertulia dialógica, Seminario socrático
+**Técnicas relacionadas:** Diana de evaluación, Gallery Walk (Paseo por la galería), Portfolio (dosier de aprendizaje), Seminario socrático, Rúbrica de evaluación, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Dos estrellas y un deseo, Controversia estructurada con evidencias, +1
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Diana de evaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo o control, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Trabajo por proyectos, Finalidad sumativa
+- *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Trabajo por proyectos, Finalidad sumativa
 
 ---
 
@@ -5662,7 +5676,7 @@ Resulta útil porque equilibra reconocimiento y mejora. Evita que la revisión s
 #### Ejemplo
 Tras una exposición oral sobre un problema ambiental, un compañero escribe: “Estrella 1: la explicación de las causas ha sido clara. Estrella 2: las imágenes ayudaban a entender el problema. Deseo: sería mejor añadir un dato que justifique la propuesta final”. El grupo revisa la presentación antes de entregarla de forma definitiva.
 
-**Técnicas relacionadas:** Revisión entre iguales (peer review), Rúbrica de evaluación, Diana de evaluación, Ticket de salida (exit ticket), Aprendizaje visible (Visible Learning)
+**Técnicas relacionadas:** Diana de evaluación, Ticket de salida (exit ticket), Aprendizaje visible (Visible Learning), Rúbrica de evaluación, Revisión entre iguales (peer review), +1
 
 **Cómo evaluar:**
 
@@ -5670,7 +5684,7 @@ Tras una exposición oral sobre un problema ambiental, un compañero escribe: �
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -5704,15 +5718,15 @@ Al inicio de una clase de biología, los alumnos dedican 5 minutos a escribir to
 
 El profesor recoge las dudas más frecuentes y dedica los primeros minutos de la sesión a aclararlas.
 
-**Técnicas relacionadas:** Práctica espaciada, Apuntes Cornell, Minute Paper (Papel de un minuto), Ticket de salida (exit ticket), Peer Instruction (Instrucción entre iguales)
+**Técnicas relacionadas:** Minute Paper (Papel de un minuto), Peer Instruction (Instrucción entre iguales), Ticket de salida (exit ticket), Práctica espaciada, Práctica intercalada, Apuntes Cornell
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Finalidad sumativa
+- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Finalidad sumativa
 
 ---
 
@@ -5744,15 +5758,15 @@ La práctica espaciada consiste en distribuir el estudio y el repaso en varias s
 #### Ejemplo
 En matemáticas, cada viernes se dedican 10 minutos a una hoja breve con contenidos mezclados de semanas anteriores: porcentajes, proporcionalidad, ecuaciones y lectura de gráficas. Los errores más repetidos se recuperan en el repaso de la semana siguiente.
 
-**Técnicas relacionadas:** Práctica de recuperación, Práctica intercalada, Apuntes Cornell, Aprendizaje de dominio
+**Técnicas relacionadas:** Práctica de recuperación, Práctica intercalada, Aprendizaje de dominio, Apuntes Cornell, Teoría de la carga cognitiva
 
 **Cómo evaluar:**
 
-- *Técnicas de evaluación:* Observación sistemática, Análisis de producciones, Sondeo y cuestionamiento
+- *Técnicas de evaluación:* Encuesta y cuestionario, Observación sistemática, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -5784,7 +5798,7 @@ El aprendizaje de dominio es un enfoque en el que el alumnado avanza al siguient
 #### Ejemplo
 En una unidad de fracciones, cada subtema termina con una prueba breve de 5 preguntas. El alumnado que domina la suma de fracciones pasa a multiplicación; quien todavía tiene errores recibe una explicación alternativa y ejercicios específicos antes de volver a intentarlo.
 
-**Técnicas relacionadas:** Equipos de ayuda mutua / TAI (Team Assisted Individualization), Aprendizaje visible (Visible Learning), Rúbrica de evaluación, Práctica espaciada
+**Técnicas relacionadas:** Aprendizaje visible (Visible Learning), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Rúbrica de evaluación, Práctica espaciada
 
 **Cómo evaluar:**
 
@@ -5792,7 +5806,7 @@ En una unidad de fracciones, cada subtema termina con una prueba breve de 5 preg
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Calificación y acreditación, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -5824,7 +5838,7 @@ Las guías de orientación son apoyos que ayudan al alumnado a realizar una tare
 #### Ejemplo
 Para escribir un texto argumentativo, la guía incluye preguntas como: “¿Cuál es tu tesis?”, “¿Qué evidencia la apoya?”, “¿Has incluido una objeción?” y “¿Has respondido a esa objeción?”. El alumnado la utiliza antes de entregar la versión final.
 
-**Técnicas relacionadas:** Rúbrica de evaluación, Contrato de aprendizaje, Diseño para la comprensión (Understanding by Design, UbD), Ejemplos resueltos
+**Técnicas relacionadas:** Contrato de aprendizaje, Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación, Ejemplos resueltos
 
 **Cómo evaluar:**
 
@@ -5889,9 +5903,9 @@ Adaptado de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos d
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo
+- *Instrumentos:* Acta de evaluación, Contrato de grupo, Cuaderno de calificaciones, Diana de evaluación, Escala de progreso, Escala verbal, Ficha de coevaluación, Ficha de retroalimentación, Hoja de seguimiento grupal, Plantilla de feedback/feedforward, Registro anecdótico, Registro de compromisos de mejora, Registro de trabajo cooperativo, Registro descriptivo, Registro de participación, Rúbrica de coevaluación, Rúbrica de trabajo cooperativo, Sociograma
 
-- *Dimensiones:* Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Indagación
+- *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Indagación
 
 ---
 
@@ -5952,15 +5966,15 @@ Una de las cosas que más me ha gustado de esta semana ha sido el trabajo en equ
 
 He hecho todos los deberes que nos han dado y he revisado los conceptos de la unidad cada día para estar preparado para las evaluaciones. Estoy al día con el trabajo.
 
-**Técnicas relacionadas:** Escalera de metacognición, Portfolio (dosier de aprendizaje), Pensaba... ahora pienso
+**Técnicas relacionadas:** Contrato de aprendizaje, Escalera de metacognición, Pensaba... ahora pienso, Portfolio (dosier de aprendizaje)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
+- *Instrumentos:* Banco digital de evidencias, Diana de evaluación, Escala de autoevaluación, Ficha de retroalimentación, Ficha de valoración, Hoja de seguimiento individual, Informe individual de evaluación, Lista de cotejo de autoevaluación, Matriz de valoración, Plantilla de feedback/feedforward, Rúbrica de autoevaluación
 
-- *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -5991,13 +6005,13 @@ Técnica de diálogo estructurado en torno a un texto, una imagen, un problema o
 #### Ejemplo
 En filosofía o biología, el grupo analiza un texto sobre bioética. Los alumnos preparan preguntas y durante el seminario discuten qué criterios deberían guiar una decisión científica con implicaciones sociales.
 
-**Técnicas relacionadas:** Tertulia dialógica, Fishbowl (Pecera), Controversia académica
+**Técnicas relacionadas:** Controversia académica, Equipos de oyentes, Fishbowl (Pecera), La mesa redonda, Tertulia dialógica, Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Tira y afloja
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Dimensiones:* Resolución de problemas
+- *Dimensiones:* Estudio de casos, Evidencia de desempeño, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -6048,7 +6062,7 @@ En economía, el alumnado analiza la afirmación: “Subir el precio de los prod
 
 La técnica ayuda a que el alumnado no solo defienda una postura, sino que reconozca sus condiciones y límites.
 
-**Técnicas relacionadas:** Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Seminario socrático, Controversia académica, Fishbowl (Pecera), Las dos columnas, Tertulia dialógica
+**Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Las dos columnas, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Controversia estructurada con evidencias, Tira y afloja
 
 **Cómo evaluar:**
 
@@ -6085,7 +6099,7 @@ Ayuda al alumnado a ver si un argumento está bien sostenido, si faltan evidenci
 #### Ejemplo
 En ciudadanía, el alumnado construye un mapa sobre la pregunta: “¿Debe limitarse el uso del móvil en el instituto?”. En el centro coloca la tesis, alrededor añade razones a favor y en contra, evidencias de convivencia o aprendizaje y posibles condiciones, como usos permitidos para tareas concretas.
 
-**Técnicas relacionadas:** Modelo de argumentación de Toulmin, Afirmación, evidencia y razonamiento (CER), Controversia académica, Seminario socrático, Fishbowl (Pecera), Las dos columnas, Tertulia dialógica
+**Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Las dos columnas, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin, Controversia estructurada con evidencias
 
 **Cómo evaluar:**
 
@@ -6122,7 +6136,7 @@ Está muy relacionada con la controversia académica, pero aquí se subraya de f
 #### Ejemplo
 En biología y ciudadanía, la clase debate si debe limitarse la venta de bebidas energéticas a menores. Cada equipo analiza datos sobre cafeína, hábitos de consumo, salud y libertad de elección. Después defiende una postura, escucha objeciones y redacta una síntesis final con condiciones, límites y evidencias.
 
-**Técnicas relacionadas:** Controversia académica, Modelo de argumentación de Toulmin, Afirmación, evidencia y razonamiento (CER), Seminario socrático, Fishbowl (Pecera), Revisión entre iguales (peer review), Mapa de argumentos
+**Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Mapa de argumentos, Tira y afloja
 
 **Cómo evaluar:**
 
@@ -6130,7 +6144,7 @@ En biología y ciudadanía, la clase debate si debe limitarse la venta de bebida
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Estudio de casos, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -6162,13 +6176,13 @@ El pensamiento en voz alta es una técnica de modelado en la que el docente verb
 #### Ejemplo
 En una actividad de comprensión lectora, el profesor lee un párrafo y dice: “No conozco esta palabra, pero por la frase anterior parece que indica una causa. Voy a seguir leyendo para comprobarlo”. Después los alumnos practican la misma estrategia por parejas.
 
-**Técnicas relacionadas:** Liberación gradual de la responsabilidad, Enseñanza recíproca, Ejemplos resueltos, Tutoría entre iguales (Peer Tutoring)
+**Técnicas relacionadas:** Tutoría entre iguales (Peer Tutoring), Enseñanza recíproca, Ejemplos resueltos, Liberación gradual de la responsabilidad
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Dimensiones:* Evaluación inclusiva y DUA
+- *Dimensiones:* Evidencia de desempeño, Evaluación inclusiva y DUA
 
 ---
 
@@ -6202,7 +6216,7 @@ Técnica de discusión en la que un pequeño grupo dialoga en el centro mientras
 #### Ejemplo
 En ciencias sociales, el grupo central debate si una ciudad debería limitar el tráfico privado. Los observadores anotan argumentos basados en datos, preguntas relevantes y momentos en los que se escucha o no a los demás.
 
-**Técnicas relacionadas:** Seminario socrático, Controversia académica, Talking Chips (Fichas de conversación)
+**Técnicas relacionadas:** Controversia académica, La mesa redonda, Seminario socrático, Talking Chips (Fichas de conversación), Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias
 
 **Cómo evaluar:**
 
@@ -6210,7 +6224,7 @@ En ciencias sociales, el grupo central debate si una ciudad debería limitar el 
 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación
 
-- *Dimensiones:* Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Estudio de casos, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -6243,15 +6257,15 @@ Los pósteres se colocan en las paredes del aula. Los grupos rotan por la clase 
 
 **Recursos:** [Muro interactivo](https://jjdeharo.github.io/directo/muro.html)
 
-**Técnicas relacionadas:** Graffiti Cooperativo, World Café, Visual Thinking (pensamiento visual)
+**Técnicas relacionadas:** Graffiti Cooperativo, Visual Thinking (pensamiento visual), World Café, Revisión entre iguales (peer review)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Observación sistemática, Intercambios orales, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de coevaluación
+- *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo o control, Plantilla de feedback/feedforward, Rúbrica de coevaluación
 
-- *Dimensiones:* Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -6303,7 +6317,7 @@ Cada grupo representa visualmente el problema, las posibles acciones, las person
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** CSI: Color, Símbolo, Imagen, Mapa conceptual a cuatro bandas, Role on the Wall (Silueta del personaje)
+**Técnicas relacionadas:** CSI: Color, Símbolo, Imagen, Digital storytelling (relatos digitales), Gallery Walk (Paseo por la galería), Mapa conceptual a cuatro bandas, Role on the Wall (Silueta del personaje), Modelo Frayer, Generar, ordenar, conectar, elaborar
 
 **Cómo evaluar:**
 
@@ -6352,7 +6366,7 @@ En una unidad de historia y ciudadanía, la clase recibe la misión de organizar
 
 La actividad no se basa en competir por puntos, sino en usar la estructura de juego para dar sentido al proceso, sostener la participación y hacer visible el aprendizaje.
 
-**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), TGT (Torneo de Juegos por Equipos), Quiz-Quiz-Trade (Intercambio de tarjetas)
+**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), Quiz-Quiz-Trade (Intercambio de tarjetas), TGT (Torneo de Juegos por Equipos), Modelo SAMR
 
 **Cómo evaluar:**
 
@@ -6360,7 +6374,7 @@ La actividad no se basa en competir por puntos, sino en usar la estructura de ju
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada, Evaluación inclusiva y DUA, Resolución de problemas
+- *Dimensiones:* Evaluación continua, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada, Heteroevaluación, Evaluación inclusiva y DUA, Resolución de problemas
 
 ---
 
@@ -6397,7 +6411,7 @@ En literatura, tras leer un fragmento de una novela sobre una decisión difícil
 
 El profesor no busca una única interpretación correcta, sino que ayuda a que el grupo justifique sus aportaciones, escuche puntos de vista diferentes y construya una comprensión más rica del texto.
 
-**Técnicas relacionadas:** Seminario socrático, Lectura compartida, Palabra, idea, frase
+**Técnicas relacionadas:** Lectura compartida, Lectura fantasma, Palabra, idea, frase, Seminario socrático, Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Mapa de argumentos, Enseñanza recíproca
 
 **Cómo evaluar:**
 
@@ -6405,7 +6419,7 @@ El profesor no busca una única interpretación correcta, sino que ayuda a que e
 
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
-- *Dimensiones:* Resolución de problemas
+- *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -6443,7 +6457,7 @@ Modelo de diseño curricular que propone planificar de atrás hacia delante. En 
 #### Ejemplo
 Antes de diseñar una unidad sobre ecosistemas, el profesor define que el alumnado debe explicar relaciones tróficas y justificar desequilibrios. Después decide qué tarea servirá como evidencia y, finalmente, planifica prácticas, lecturas y debates.
 
-**Técnicas relacionadas:** Taxonomía de Bloom, Profundidad del conocimiento (Depth of Knowledge, DOK), Evaluación auténtica
+**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía de Bloom, Evaluación auténtica, Guías de orientación, Teoría de la carga cognitiva
 
 **Cómo evaluar:**
 
@@ -6451,7 +6465,7 @@ Antes de diseñar una unidad sobre ecosistemas, el profesor define que el alumna
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Calificación y acreditación, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -6487,7 +6501,7 @@ Marco que permite analizar la complejidad cognitiva de una tarea. No mide si una
 #### Ejemplo
 Memorizar una fórmula puede tener un nivel bajo de DOK, mientras que elegir qué modelo matemático aplicar a una situación real y justificar la decisión requiere un procesamiento más complejo.
 
-**Técnicas relacionadas:** Taxonomía de Bloom, Taxonomía SOLO, Rúbrica de evaluación
+**Técnicas relacionadas:** Detecta patrones, Diseño para la comprensión (Understanding by Design, UbD), Taxonomía SOLO, Taxonomía de Bloom, Rúbrica de evaluación, Modelo Frayer, Hábitos mentales
 
 **Cómo evaluar:**
 
@@ -6532,7 +6546,7 @@ Modelo que ayuda a valorar la calidad de la comprensión que muestra el alumnado
 #### Ejemplo
 Ante una pregunta sobre selección natural, un alumno puede mencionar solo un factor, relacionar varios factores o aplicar el concepto a una situación nueva. La taxonomía SOLO permite distinguir estos niveles.
 
-**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Rúbrica de evaluación, Aprendizaje visible (Visible Learning)
+**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Aprendizaje visible (Visible Learning), Rúbrica de evaluación
 
 **Cómo evaluar:**
 
@@ -6540,7 +6554,7 @@ Ante una pregunta sobre selección natural, un alumno puede mencionar solo un fa
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica
 
-- *Dimensiones:* Enfoque competencial, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Enfoque competencial, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -6578,7 +6592,7 @@ Marco de clasificación de procesos cognitivos que ayuda a formular objetivos, a
 #### Ejemplo
 En una unidad de biología, el alumnado puede recordar términos, explicar procesos, aplicar un modelo, analizar datos, evaluar una conclusión o crear una propuesta experimental.
 
-**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación
+**Técnicas relacionadas:** Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Rúbrica de evaluación
 
 **Cómo evaluar:**
 
@@ -6586,7 +6600,7 @@ En una unidad de biología, el alumnado puede recordar términos, explicar proce
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -6616,15 +6630,15 @@ Enfoque de evaluación que propone tareas significativas, contextualizadas y cer
 #### Ejemplo
 En lugar de responder solo preguntas sobre nutrición, el alumnado diseña una propuesta de menú saludable para una situación concreta y justifica sus decisiones con criterios científicos.
 
-**Técnicas relacionadas:** Rúbrica de evaluación, Diseño para la comprensión (Understanding by Design, UbD), Aprendizaje basado en proyectos (ABProyectos)
+**Técnicas relacionadas:** Aplica los conocimientos, Aprendizaje basado en proyectos (ABProyectos), Portfolio (dosier de aprendizaje), Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica
+- *Instrumentos:* Diana de evaluación, Ficha de retroalimentación, Plantilla de feedback/feedforward, Rúbrica analítica
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -6655,7 +6669,7 @@ Enfoque que orienta la toma de decisiones docentes hacia prácticas con impacto 
 #### Ejemplo
 En una actividad de escritura, el profesor comparte criterios claros, revisa borradores, da feedback específico y pide al alumnado que indique qué mejora concreta aplicará en la siguiente versión.
 
-**Técnicas relacionadas:** Contrato de aprendizaje, Rúbrica de evaluación, Taxonomía SOLO
+**Técnicas relacionadas:** Contrato de aprendizaje, Taxonomía SOLO, Rúbrica de evaluación, Dos estrellas y un deseo, Aprendizaje de dominio, Hábitos mentales
 
 **Cómo evaluar:**
 
@@ -6663,7 +6677,7 @@ En una actividad de escritura, el profesor comparte criterios claros, revisa bor
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -6710,7 +6724,7 @@ El profesor selecciona datos cercanos al alumnado para que los conceptos estadí
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de producciones, Pruebas específicas, Sondeo y cuestionamiento
 
-- *Dimensiones:* Indagación
+- *Dimensiones:* Evidencias digitales, Indagación
 
 ---
 
@@ -6746,7 +6760,7 @@ Modelo que permite analizar el nivel de integración tecnológica en una tarea. 
 #### Ejemplo
 Escribir un texto en un procesador puede ser sustitución; colaborar en un documento compartido con comentarios y revisión entre iguales puede modificar la tarea.
 
-**Técnicas relacionadas:** Conocimiento tecnológico, pedagógico y del contenido (TPACK), Digital storytelling (relatos digitales), Ludificación (gamificación)
+**Técnicas relacionadas:** Digital storytelling (relatos digitales), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Ludificación (gamificación)
 
 **Cómo evaluar:**
 
@@ -6754,7 +6768,7 @@ Escribir un texto en un procesador puede ser sustitución; colaborar en un docum
 
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
-- *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+- *Dimensiones:* Evaluación continua, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa
 
 ---
 
@@ -6789,7 +6803,7 @@ Marco de planificación que propone atender a la diversidad del alumnado desde e
 #### Ejemplo
 En una tarea de investigación, el alumnado puede consultar textos, vídeos o esquemas, trabajar con apoyos graduados y presentar el resultado mediante informe, exposición, infografía o audio.
 
-**Técnicas relacionadas:** Conocimiento tecnológico, pedagógico y del contenido (TPACK), Co-enseñanza (Co-teaching), Estaciones de aprendizaje
+**Técnicas relacionadas:** Estaciones de aprendizaje, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Co-enseñanza (Co-teaching)
 
 **Cómo evaluar:**
 
@@ -6833,7 +6847,7 @@ Marco competencial que destaca cuatro capacidades transversales necesarias para 
 #### Ejemplo
 En un proyecto sobre sostenibilidad, el alumnado analiza datos, diseña propuestas, las comunica mediante una presentación y trabaja en equipo para revisar y mejorar el producto final.
 
-**Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), World Café
+**Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), World Café, Hábitos mentales
 
 **Cómo evaluar:**
 
@@ -6885,15 +6899,15 @@ En una exposición oral sobre un problema ambiental, la rúbrica puede ayudar a 
 
 Antes de exponer, cada grupo revisa su presentación con la rúbrica y detecta qué debe mejorar. Después, el profesor o los compañeros la utilizan para dar feedback concreto sobre el nivel alcanzado en cada criterio.
 
-**Técnicas relacionadas:** Evaluación auténtica, Diana de evaluación, Aprendizaje visible (Visible Learning)
+**Técnicas relacionadas:** Diana de evaluación, Portfolio (dosier de aprendizaje), Repartir puntos, Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Revisión entre iguales (peer review), Dos estrellas y un deseo, Aprendizaje de dominio, Guías de orientación
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Observación sistemática, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
-- *Instrumentos:* Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de autoevaluación, Rúbrica de coevaluación
+- *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica analítica, Rúbrica de autoevaluación, Rúbrica de coevaluación
 
-- *Dimensiones:* Autoevaluación, Coevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Resolución de problemas
+- *Dimensiones:* Autoevaluación, Calificación y acreditación, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evaluación criterial, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
 ---
 
@@ -6925,7 +6939,7 @@ Los hábitos mentales son un marco de Costa y Kallick que recoge disposiciones d
 #### Ejemplo
 En un proyecto de investigación, cada equipo revisa durante 5 minutos tres hábitos: persistir ante dificultades, comprobar la precisión de los datos y escuchar con empatía. Después escribe una evidencia concreta de cada hábito y una mejora para la siguiente sesión.
 
-**Técnicas relacionadas:** Las 4C del aprendizaje, Aprendizaje visible (Visible Learning), Escalera de metacognición, Profundidad del conocimiento (Depth of Knowledge, DOK)
+**Técnicas relacionadas:** Escalera de metacognición, Profundidad del conocimiento (Depth of Knowledge, DOK), Aprendizaje visible (Visible Learning), Las 4C del aprendizaje
 
 **Cómo evaluar:**
 
@@ -6965,7 +6979,7 @@ La teoría de la carga cognitiva es un marco de John Sweller que analiza los lí
 #### Ejemplo
 En física, los primeros problemas de movimiento se presentan con los datos ya identificados y la fórmula seleccionada. El alumnado se centra en interpretar el procedimiento. En problemas posteriores, debe identificar por sí mismo los datos, elegir la fórmula y justificar el resultado.
 
-**Técnicas relacionadas:** Ejemplos resueltos, Liberación gradual de la responsabilidad, Práctica espaciada, Práctica intercalada, Diseño para la comprensión (Understanding by Design, UbD)
+**Técnicas relacionadas:** Diseño para la comprensión (Understanding by Design, UbD), Práctica espaciada, Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad
 
 **Cómo evaluar:**
 

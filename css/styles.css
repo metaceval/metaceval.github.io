@@ -25,7 +25,7 @@
 
     /* ── Header ── */
     header {
-      background: var(--bg);
+      background: #e8ecf2;
       border-bottom: 1px solid var(--border);
       padding: 10px 20px;
       position: sticky;
@@ -33,6 +33,7 @@
       z-index: 200;
       box-shadow: var(--shadow);
     }
+    [data-theme="dark"] header { background: var(--bg); }
     .header-inner {
       max-width: 1400px;
       margin: 0 auto;

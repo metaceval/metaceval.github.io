@@ -101,6 +101,10 @@ const I18N = {
     homeEvalCatDim:    'Dimensiones',
     homeEnterCards:    'Fichas',
     homeEnterMap:      'Mapa de relaciones',
+    homeTecCardsTip:   'Ver las técnicas en formato de fichas, con filtros por bloque y ámbito',
+    homeTecMapTip:     'Explorar el mapa de relaciones entre técnicas',
+    homeEvalCardsTip:  'Ver los recursos de evaluación en formato de fichas, organizados por categoría',
+    homeEvalMapTip:    'Explorar el mapa de relaciones entre recursos de evaluación',
     viewModeMap:  'Vista de mapa de relaciones',
     mapReset:     'Restablecer vista',
     mapFit:       'Ajustar todo en pantalla',
@@ -294,6 +298,10 @@ const I18N = {
     homeEvalCatDim:    'Dimensions',
     homeEnterCards:    'Fitxes',
     homeEnterMap:      'Mapa de relacions',
+    homeTecCardsTip:   'Veure les tècniques en format de fitxes, amb filtres per bloc i àmbit',
+    homeTecMapTip:     'Explorar el mapa de relacions entre tècniques',
+    homeEvalCardsTip:  "Veure els recursos d'avaluació en format de fitxes, organitzats per categoria",
+    homeEvalMapTip:    "Explorar el mapa de relacions entre recursos d'avaluació",
     viewModeMap:  'Vista de mapa de relacions',
     mapReset:     'Restablir vista',
     mapFit:       'Ajustar tot a la pantalla',
@@ -487,6 +495,10 @@ const I18N = {
     homeEvalCatDim:    'Dimensions',
     homeEnterCards:    'Cards',
     homeEnterMap:      'Relationship map',
+    homeTecCardsTip:   'Browse techniques as cards, with filters by block and field',
+    homeTecMapTip:     'Explore the relationship map between techniques',
+    homeEvalCardsTip:  'Browse assessment resources as cards, organised by category',
+    homeEvalMapTip:    'Explore the relationship map between assessment resources',
     viewModeMap:  'Relationship map view',
     mapReset:     'Reset view',
     mapFit:       'Fit all in screen',
@@ -713,6 +725,10 @@ function applyI18N() {
   setText('homeEnterEvalMapLabel',  i('homeEnterMap'));
   setText('homeTecCardsLabel',    i('homeEnterCards'));
   setText('homeTecMapLabel',      i('homeEnterMap'));
+  setTitle('homeEnterTecCards',   i('homeTecCardsTip'));
+  setTitle('homeEnterTecMap',     i('homeTecMapTip'));
+  setTitle('homeEnterEvalCards',  i('homeEvalCardsTip'));
+  setTitle('homeEnterEvalMap',    i('homeEvalMapTip'));
   // Counts (use techniques label for both)
   const evalCountEl = document.getElementById('homeEvalCount');
   if (evalCountEl) evalCountEl.textContent = '178 ' + i('techniques');

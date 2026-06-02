@@ -41,7 +41,7 @@ Es especialmente útil en actividades prácticas, debates, exposiciones, tallere
 
 **Limitaciones:** Puede ser subjetiva si no hay criterios claros.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, 1 - 2 - 4, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Cadena de Preguntas, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Detecta patrones, Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El Saco de Dudas, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lápiz al centro, Lectura fantasma, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, RoundRobin, STAD (Student Teams Achievement Divisions), Ticket de salida (exit ticket), Uno para todos, Veo, pienso, me pregunto, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio, Guías de orientación, +1, Apuntes Cornell, Resumen en una frase, Hábitos mentales
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, 1 - 2 - 4, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Cadena de Preguntas, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Detecta patrones, Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El Saco de Dudas, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lápiz al centro, Lectura fantasma, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, RoundRobin, STAD (Student Teams Achievement Divisions), Ticket de salida (exit ticket), Uno para todos, Veo, pienso, me pregunto, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio, Guías de orientación, +1, Apuntes Cornell, Resumen en una frase, Hábitos mentales, Respuesta de todos a la vez, Filosofía para Niños (P4C), Conversación escrita en silencio (Chalk Talk), Abanico y elige (Fan-N-Pick), Duelo de respuestas (Showdown), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Entrevista en tres pasos (Three-Step Interview), Aprendizaje maker / STEAM, Aprendizaje personalizado con itinerarios (playlists), Andamiaje y zona de desarrollo próximo (ZDP), Marco ICAP
 
 ---
 
@@ -99,7 +99,7 @@ Cuando el producto final no refleja todo el aprendizaje (porque el proceso fue c
 
 **Limitaciones:** No muestra todo el proceso si no se acompaña de seguimiento.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, CO-OP CO-OP, Contrasta y compara, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Detecta patrones, Digital storytelling (relatos digitales), El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), Equipo-pareja-individual, Equipos de oyentes, Estaciones de aprendizaje, Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La entrevista, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los 5 porqués, Los cuatro sabios, Los Grupos de Investigación, Mapa conceptual a cuatro bandas, Matriz de problemas, Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seminario socrático, Titulares, Visual Thinking (pensamiento visual), World Café, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Las dos columnas, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, El juego de la NASA, Centros de interés (enfoque de Decroly), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Práctica intercalada, Ejemplos resueltos, Aprendizaje de dominio, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Generar, ordenar, conectar, elaborar, +1, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Resumen en una frase, Teoría de la carga cognitiva
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, CO-OP CO-OP, Contrasta y compara, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Detecta patrones, Digital storytelling (relatos digitales), El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), Equipo-pareja-individual, Equipos de oyentes, Estaciones de aprendizaje, Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Doble codificación (dual coding), Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La entrevista, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los 5 porqués, Los cuatro sabios, Los Grupos de Investigación, Mapa conceptual a cuatro bandas, Matriz de problemas, Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seminario socrático, Titulares, Visual Thinking (pensamiento visual), World Café, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Las dos columnas, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, El juego de la NASA, Centros de interés (enfoque de Decroly), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Práctica intercalada, Ejemplos resueltos, Aprendizaje de dominio, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Generar, ordenar, conectar, elaborar, +1, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Resumen en una frase, Teoría de la carga cognitiva, Ejemplos concretos, Ponerse en el lugar (Step Inside), Conversación escrita en silencio (Chalk Talk), Inicios de preguntas (Question Starts), WebQuest, Aprendizaje maker / STEAM, Pensamiento computacional, Hora del genio (Genius Hour), Aprendizaje personalizado con itinerarios (playlists), Mapa mental, Diagrama de espina de pescado (Ishikawa), Línea de tiempo, Diagrama de Venn
 
 ---
 
@@ -128,7 +128,7 @@ Son útiles para acreditar logros y para comparar resultados, pero no deben ser 
 
 **Limitaciones:** Puede reducir la evaluación si se usa como única evidencia.
 
-**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Pensamiento de diseño (Design Thinking), Genera hipótesis, Genera soluciones, Lectura compartida, STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos), Uno para todos, Diseño para la comprensión (Understanding by Design, UbD), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Las 4C del aprendizaje, Predice, observa, explica (POE), Ejemplos resueltos, Aprendizaje de dominio
+**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Pensamiento de diseño (Design Thinking), Genera hipótesis, Genera soluciones, Lectura compartida, STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos), Uno para todos, Diseño para la comprensión (Understanding by Design, UbD), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Las 4C del aprendizaje, Predice, observa, explica (POE), Ejemplos resueltos, Aprendizaje de dominio, Preguntas bisagra (hinge questions), Duelo de respuestas (Showdown), Pensamiento computacional
 
 ---
 
@@ -157,7 +157,7 @@ Permiten valorar comprensión profunda, argumentación, capacidad de síntesis, 
 
 **Limitaciones:** Puede depender de factores emocionales.
 
-**Técnicas activas que la usan:** ¿Quién es quién?, 1 - 2 - 4, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Círculo de puntos de vista, Conozcámonos, Controversia académica, CSI: Color, Símbolo, Imagen, Pensamiento de diseño (Design Thinking), Detecta patrones, Diana de evaluación, Diario de aprendizaje, Digital storytelling (relatos digitales), El juego de las palabras, El modelo 5E, Equipos de oyentes, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Genera hipótesis, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La caja, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los 5 porqués, Los cuatro sabios, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Parejas de discusión, Pensaba... ahora pienso, Placemat consensus, Portfolio (dosier de aprendizaje), Pregunta el porqué, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Reloj de citas, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seguir la pista, Seminario socrático, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Titulares, Veo, pienso, me pregunto, Visual Thinking (pensamiento visual), World Café, Diseño para la comprensión (Understanding by Design, UbD), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos paralelos, El juego de la NASA, Las páginas amarillas, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Pensamiento en voz alta, Guías de orientación, Generar, ordenar, conectar, elaborar, Tira y afloja, Técnica de formulación de preguntas (QFT), Resumen en una frase
+**Técnicas activas que la usan:** ¿Quién es quién?, 1 - 2 - 4, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Círculo de puntos de vista, Conozcámonos, Controversia académica, CSI: Color, Símbolo, Imagen, Pensamiento de diseño (Design Thinking), Detecta patrones, Diana de evaluación, Diario de aprendizaje, Digital storytelling (relatos digitales), El juego de las palabras, El modelo 5E, Equipos de oyentes, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Genera hipótesis, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La caja, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los 5 porqués, Los cuatro sabios, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Parejas de discusión, Pensaba... ahora pienso, Placemat consensus, Portfolio (dosier de aprendizaje), Pregunta el porqué, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Reloj de citas, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seguir la pista, Seminario socrático, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Titulares, Veo, pienso, me pregunto, Visual Thinking (pensamiento visual), World Café, Diseño para la comprensión (Understanding by Design, UbD), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos paralelos, El juego de la NASA, Las páginas amarillas, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Pensamiento en voz alta, Guías de orientación, Generar, ordenar, conectar, elaborar, Tira y afloja, Técnica de formulación de preguntas (QFT), Resumen en una frase, Interrogación elaborativa, Autoexplicación, Preguntar sin manos levantadas (cold calling), Tiempo de espera (wait time), Filosofía para Niños (P4C), Debate académico, Ponerse en el lugar (Step Inside), El juego de la explicación (The Explanation Game), Abanico y elige (Fan-N-Pick), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Entrevista en tres pasos (Three-Step Interview)
 
 ---
 
@@ -184,7 +184,7 @@ Es especialmente útil en evaluación diagnóstica y formativa, porque proporcio
 
 **Limitaciones:** Puede dar evidencias superficiales si las preguntas no están bien formuladas o no se usan después para tomar decisiones docentes.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, 1 - 2 - 4, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, Cadena de Preguntas, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Contrasta y compara, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), CSI: Color, Símbolo, Imagen, Detecta patrones, Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Genera soluciones, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), La caja, La mesa redonda, Lápiz al centro, Lo que sé y lo que sabemos, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Pienso, me interesa, investigo, Placemat consensus, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Reloj de citas, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seguir la pista, Seminario socrático, Situación problema, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Titulares, Uno para todos, Veo, pienso, me pregunto, Visual Thinking (pensamiento visual), World Café, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Las 4C del aprendizaje, Grupo nominal, Las dos columnas, Tutoría entre iguales (Peer Tutoring), El juego de la NASA, Rúbrica de evaluación, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Práctica intercalada, Aprendizaje de dominio, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Conectar, ampliar, desafiar, Generar, ordenar, conectar, elaborar, Tira y afloja, +1, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Hábitos mentales
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, 1 - 2 - 4, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, Cadena de Preguntas, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Contrasta y compara, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), CSI: Color, Símbolo, Imagen, Detecta patrones, Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Genera soluciones, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), La caja, La mesa redonda, Lápiz al centro, Lo que sé y lo que sabemos, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Pienso, me interesa, investigo, Placemat consensus, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Reloj de citas, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seguir la pista, Seminario socrático, Situación problema, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Titulares, Uno para todos, Veo, pienso, me pregunto, Visual Thinking (pensamiento visual), World Café, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Las 4C del aprendizaje, Grupo nominal, Las dos columnas, Tutoría entre iguales (Peer Tutoring), El juego de la NASA, Rúbrica de evaluación, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Práctica intercalada, Aprendizaje de dominio, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Conectar, ampliar, desafiar, Generar, ordenar, conectar, elaborar, Tira y afloja, +1, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Hábitos mentales, Interrogación elaborativa, Preguntas bisagra (hinge questions), Respuesta de todos a la vez, Preguntar sin manos levantadas (cold calling), Tiempo de espera (wait time), El juego de la explicación (The Explanation Game), Inicios de preguntas (Question Starts)
 
 ---
 
@@ -211,7 +211,7 @@ Es especialmente útil en proyectos, portfolios, trabajos cooperativos y tareas 
 
 **Limitaciones:** Requiere seguimiento continuado y criterios claros para no convertirse en mera acumulación de documentos.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, Círculo de puntos de vista, CO-OP CO-OP, Contrasta y compara, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), CSI: Color, Símbolo, Imagen, Detecta patrones, Diana de evaluación, Diario de aprendizaje, El modelo 5E, El semáforo, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Genera hipótesis, Genera soluciones, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), La mesa redonda, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seminario socrático, Situación problema, Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Titulares, Veo, pienso, me pregunto, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Las 4C del aprendizaje, Grupo nominal, Las dos columnas, El juego de la NASA, Rúbrica de evaluación, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica de recuperación, Práctica intercalada, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Conectar, ampliar, desafiar, Generar, ordenar, conectar, elaborar, Tira y afloja, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Hábitos mentales
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, Círculo de puntos de vista, CO-OP CO-OP, Contrasta y compara, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), CSI: Color, Símbolo, Imagen, Detecta patrones, Diana de evaluación, Diario de aprendizaje, El modelo 5E, El semáforo, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Genera hipótesis, Genera soluciones, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), La mesa redonda, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seminario socrático, Situación problema, Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Titulares, Veo, pienso, me pregunto, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Las 4C del aprendizaje, Grupo nominal, Las dos columnas, El juego de la NASA, Rúbrica de evaluación, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica de recuperación, Práctica intercalada, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Conectar, ampliar, desafiar, Generar, ordenar, conectar, elaborar, Tira y afloja, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Hábitos mentales, Autoexplicación, Hora del genio (Genius Hour), Andamiaje y zona de desarrollo próximo (ZDP)
 
 ---
 
@@ -292,7 +292,7 @@ Es una técnica útil para evaluación continua y criterial, especialmente cuand
 
 **Limitaciones:** Puede sobrevalorar lo que se documenta y dejar fuera actuaciones no registradas.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje por descubrimiento, Contrasta y compara, Controversia académica, Detecta patrones, El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), Equipos de oyentes, Estaciones de aprendizaje, Gallery Walk (Paseo por la galería), Genera hipótesis, Graffiti Cooperativo, Juego de rol, La entrevista, La mesa redonda, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los 5 porqués, Mapa conceptual a cuatro bandas, Matriz de problemas, Palabra, idea, frase, Parada de tres minutos, Peer Instruction (Instrucción entre iguales), Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Revisa las consecuencias, Role on the Wall (Silueta del personaje), Seminario socrático, Titulares, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Las dos columnas, Equipos paralelos, Centros de interés (enfoque de Decroly), Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica intercalada, Ejemplos resueltos, Pensamiento en voz alta, Generar, ordenar, conectar, elaborar, +1, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Resumen en una frase, Teoría de la carga cognitiva
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje por descubrimiento, Contrasta y compara, Controversia académica, Detecta patrones, El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), Equipos de oyentes, Estaciones de aprendizaje, Gallery Walk (Paseo por la galería), Genera hipótesis, Graffiti Cooperativo, Juego de rol, La entrevista, La mesa redonda, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los 5 porqués, Mapa conceptual a cuatro bandas, Matriz de problemas, Palabra, idea, frase, Parada de tres minutos, Peer Instruction (Instrucción entre iguales), Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Revisa las consecuencias, Role on the Wall (Silueta del personaje), Seminario socrático, Titulares, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Las dos columnas, Equipos paralelos, Centros de interés (enfoque de Decroly), Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Práctica intercalada, Ejemplos resueltos, Pensamiento en voz alta, Generar, ordenar, conectar, elaborar, +1, Técnica de formulación de preguntas (QFT), Apuntes Cornell, Resumen en una frase, Teoría de la carga cognitiva, WebQuest
 
 ---
 
@@ -319,7 +319,7 @@ Es especialmente útil en proyectos colaborativos y portfolios digitales.
 
 **Limitaciones:** Las trazas digitales requieren interpretación pedagógica y respeto a la privacidad.
 
-**Técnicas activas que la usan:** Palabra, idea, frase
+**Técnicas activas que la usan:** Palabra, idea, frase, Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -346,7 +346,7 @@ Es clave en evaluación competencial y criterial, porque evita decidir a partir 
 
 **Limitaciones:** Requiere decidir qué evidencias pesan más y evitar duplicar la misma evidencia.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales), Proyectos de Aprendizaje-Servicio (ApS o ABS), La caja
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales), La caja, Proyectos de Aprendizaje-Servicio (ApS o ABS), Alineamiento constructivo
 
 ---
 
@@ -370,7 +370,7 @@ Es una de las evidencias evaluables más habituales porque permite información 
 
 **Adecuada para:** Autonomía, organización, resolución de tareas.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Aplica los conocimientos, Aprendizaje basado en la acción (ABA), El semáforo, Equipo-pareja-individual, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Pregunta y responde, Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Uno para todos, Práctica de recuperación, Apuntes Cornell
+**Técnicas activas que la usan:** 1 - 2 - 4, Aplica los conocimientos, Aprendizaje basado en la acción (ABA), El semáforo, Equipo-pareja-individual, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Pregunta y responde, Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Uno para todos, Práctica de recuperación, Apuntes Cornell, Ejemplos concretos
 
 ---
 
@@ -391,7 +391,7 @@ Para que la evaluación sea justa, no debe reducirse al producto final: dos grup
 
 **Adecuada para:** Colaboración, responsabilidad, comunicación.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, ¿Quién es quién?, 1 - 2 - 4, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Diario de aprendizaje, El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), El Saco de Dudas, Equipo-pareja-individual, Equipos de oyentes, Estaciones de aprendizaje, Genera hipótesis, Genera soluciones, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La caja, La entrevista, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los cuatro sabios, Los Grupos de Investigación, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Parejas de discusión, Pienso, me interesa, investigo, Placemat consensus, Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Reloj de citas, Repartir puntos, Revisa las consecuencias, RoundRobin, Seguir la pista, Situación problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Uno para todos, World Café, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, El juego de la NASA, Las páginas amarillas, Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Revisión entre iguales (peer review), Dos estrellas y un deseo, Enseñanza recíproca, Controversia estructurada con evidencias, +1, Hábitos mentales
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, ¿Quién es quién?, 1 - 2 - 4, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Diario de aprendizaje, El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), El Saco de Dudas, Equipo-pareja-individual, Equipos de oyentes, Estaciones de aprendizaje, Genera hipótesis, Genera soluciones, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La caja, La entrevista, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los cuatro sabios, Los Grupos de Investigación, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Parejas de discusión, Pienso, me interesa, investigo, Placemat consensus, Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Reloj de citas, Repartir puntos, Revisa las consecuencias, RoundRobin, Seguir la pista, Situación problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Uno para todos, World Café, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, El juego de la NASA, Las páginas amarillas, Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Revisión entre iguales (peer review), Dos estrellas y un deseo, Enseñanza recíproca, Controversia estructurada con evidencias, +1, Hábitos mentales, Abanico y elige (Fan-N-Pick), Duelo de respuestas (Showdown), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Entrevista en tres pasos (Three-Step Interview)
 
 ---
 
@@ -412,7 +412,7 @@ Debe valorarse la calidad de las aportaciones, no solo la cantidad. Un alumno qu
 
 **Adecuada para:** Implicación, escucha, preguntas, aportaciones.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Aprendizaje basado en el juego (ABJ), CO-OP CO-OP, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Diana de evaluación, El folio giratorio, El juego de las palabras, Equipos de oyentes, Fishbowl (Pecera), La mesa redonda, Lápiz al centro, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Parada de tres minutos, Parejas de discusión, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, RoundRobin, Talking Chips (Fichas de conversación), Think-Pair-Share (Piensa-Pareja-Comparte), World Café, Diseño Universal para el Aprendizaje (DUA / UDL), Grupo nominal, Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica
+**Técnicas activas que la usan:** 1 - 2 - 4, Aprendizaje basado en el juego (ABJ), CO-OP CO-OP, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Diana de evaluación, El folio giratorio, El juego de las palabras, Equipos de oyentes, Fishbowl (Pecera), La mesa redonda, Lápiz al centro, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Parada de tres minutos, Parejas de discusión, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, RoundRobin, Talking Chips (Fichas de conversación), Think-Pair-Share (Piensa-Pareja-Comparte), World Café, Diseño Universal para el Aprendizaje (DUA / UDL), Grupo nominal, Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Preguntar sin manos levantadas (cold calling), Tiempo de espera (wait time), Abanico y elige (Fan-N-Pick), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Marco ICAP
 
 ---
 
@@ -433,7 +433,7 @@ El debate permite evaluar competencias que no son visibles en pruebas escritas: 
 
 **Adecuada para:** Argumentación, escucha activa, respeto, evidencias.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Círculo de puntos de vista, Controversia académica, Detecta patrones, Fishbowl (Pecera), Genera hipótesis, La mesa redonda, Lápiz al centro, Los 5 porqués, Palabra, idea, frase, Parejas de detectives, Parejas de discusión, Pensaba... ahora pienso, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), Seminario socrático, Talking Chips (Fichas de conversación), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Diseño para la comprensión (Understanding by Design, UbD), Grupo nominal, El juego de la NASA, Centros de interés (enfoque de Decroly), Tertulia dialógica, Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Tira y afloja, Técnica de formulación de preguntas (QFT)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Círculo de puntos de vista, Controversia académica, Detecta patrones, Fishbowl (Pecera), Genera hipótesis, La mesa redonda, Lápiz al centro, Los 5 porqués, Palabra, idea, frase, Parejas de detectives, Parejas de discusión, Pensaba... ahora pienso, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), Seminario socrático, Talking Chips (Fichas de conversación), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Diseño para la comprensión (Understanding by Design, UbD), Grupo nominal, El juego de la NASA, Centros de interés (enfoque de Decroly), Tertulia dialógica, Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Tira y afloja, Técnica de formulación de preguntas (QFT), Filosofía para Niños (P4C), Debate académico
 
 ---
 
@@ -454,7 +454,7 @@ Es especialmente adecuado para evaluar comprensión lectora, análisis de textos
 
 **Adecuada para:** Comprensión, expresión, relación de ideas.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Círculo de puntos de vista, Controversia académica, Detecta patrones, Digital storytelling (relatos digitales)
+**Técnicas activas que la usan:** 1 - 2 - 4, Círculo de puntos de vista, Controversia académica, Detecta patrones, Digital storytelling (relatos digitales), Filosofía para Niños (P4C)
 
 ---
 
@@ -475,7 +475,7 @@ No es una evidencia de evaluación académica formal en sentido estricto, pero s
 
 **Adecuada para:** Participación, convivencia, toma de decisiones.
 
-**Técnicas activas que la usan:** ¿Quién es quién?, Círculo de puntos de vista, El folio giratorio, El Saco de Dudas
+**Técnicas activas que la usan:** ¿Quién es quién?, Círculo de puntos de vista, El folio giratorio, El Saco de Dudas, Filosofía para Niños (P4C)
 
 ---
 
@@ -559,7 +559,7 @@ Es especialmente útil en historia, ciencias sociales, ética, idiomas y educaci
 
 **Adecuada para:** Empatía, argumentación, resolución de conflictos.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Contrasta y compara, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), CSI: Color, Símbolo, Imagen, Pensamiento de diseño (Design Thinking), Detecta patrones, Digital storytelling (relatos digitales), El folio giratorio, El modelo 5E, El Rompecabezas ("Jigsaw"), El semáforo, Equipo-pareja-individual, Equipos de oyentes, Escalera de metacognición, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Juego de rol, La caja, Lápiz al centro, Lo que sé y lo que sabemos, Los 5 porqués, Los cuatro sabios, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seguir la pista, Seminario socrático, Situación problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fichas de conversación), Veo, pienso, me pregunto, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Modelo SAMR, Tutoría entre iguales (Peer Tutoring), El juego de la NASA, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Revisión entre iguales (peer review), Enseñanza recíproca, Práctica intercalada, Conectar, ampliar, desafiar, Tira y afloja, +1, Técnica de formulación de preguntas (QFT)
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Analiza y sintetiza, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Contrasta y compara, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), CSI: Color, Símbolo, Imagen, Pensamiento de diseño (Design Thinking), Detecta patrones, Digital storytelling (relatos digitales), El folio giratorio, El modelo 5E, El Rompecabezas ("Jigsaw"), El semáforo, Equipo-pareja-individual, Equipos de oyentes, Escalera de metacognición, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Juego de rol, La caja, Lápiz al centro, Lo que sé y lo que sabemos, Los 5 porqués, Los cuatro sabios, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales), Pensaba... ahora pienso, Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Revisa las consecuencias, Role on the Wall (Silueta del personaje), RoundRobin, Seguir la pista, Seminario socrático, Situación problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fichas de conversación), Veo, pienso, me pregunto, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Modelo SAMR, Tutoría entre iguales (Peer Tutoring), El juego de la NASA, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Revisión entre iguales (peer review), Enseñanza recíproca, Práctica intercalada, Conectar, ampliar, desafiar, Tira y afloja, +1, Técnica de formulación de preguntas (QFT), Ponerse en el lugar (Step Inside)
 
 ---
 
@@ -580,7 +580,7 @@ Es una evidencia especialmente rica para lengua y literatura, idiomas extranjero
 
 **Adecuada para:** Expresión, comprensión, creatividad.
 
-**Técnicas activas que la usan:** Aplica los conocimientos, Aprendizaje basado en el juego (ABJ), CSI: Color, Símbolo, Imagen, Pregunta y responde, El juego de la NASA
+**Técnicas activas que la usan:** Aplica los conocimientos, Aprendizaje basado en el juego (ABJ), CSI: Color, Símbolo, Imagen, Pregunta y responde, El juego de la NASA, Ponerse en el lugar (Step Inside)
 
 ---
 
@@ -601,7 +601,7 @@ Permite evaluar competencia comunicativa oral, capacidad de síntesis y dominio 
 
 **Adecuada para:** Comunicación, estructura, dominio del contenido.
 
-**Técnicas activas que la usan:** ¿Quién es quién?, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), CO-OP CO-OP, Conozcámonos, Controversia académica, CSI: Color, Símbolo, Imagen, Pensamiento de diseño (Design Thinking), Detecta patrones, Diana de evaluación, Digital storytelling (relatos digitales), El juego de las palabras, El modelo 5E, Equipos de oyentes, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La caja, La mesa redonda, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los cuatro sabios, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Palabra, idea, frase, Parejas de detectives, Parejas de discusión, Portfolio (dosier de aprendizaje), Pregunta el porqué, Reloj de citas, Role on the Wall (Silueta del personaje), Seguir la pista, Seminario socrático, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Titulares, Visual Thinking (pensamiento visual), World Café, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos paralelos, Las páginas amarillas, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Pensamiento en voz alta, Guías de orientación, Generar, ordenar, conectar, elaborar, Tira y afloja, Resumen en una frase
+**Técnicas activas que la usan:** ¿Quién es quién?, Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), CO-OP CO-OP, Conozcámonos, Controversia académica, CSI: Color, Símbolo, Imagen, Pensamiento de diseño (Design Thinking), Detecta patrones, Diana de evaluación, Digital storytelling (relatos digitales), El juego de las palabras, El modelo 5E, Equipos de oyentes, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La caja, La mesa redonda, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los cuatro sabios, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Palabra, idea, frase, Parejas de detectives, Parejas de discusión, Portfolio (dosier de aprendizaje), Pregunta el porqué, Reloj de citas, Role on the Wall (Silueta del personaje), Seguir la pista, Seminario socrático, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Titulares, Visual Thinking (pensamiento visual), World Café, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos paralelos, Las páginas amarillas, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Concept Cartoon, Modelo Frayer, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Pensamiento en voz alta, Guías de orientación, Generar, ordenar, conectar, elaborar, Tira y afloja, Resumen en una frase, Debate académico
 
 ---
 
@@ -622,7 +622,7 @@ Añade valor al proyecto porque obliga al alumnado a comprender realmente lo que
 
 **Adecuada para:** Argumentación, decisiones, respuesta a preguntas.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Flipped Classroom (Aula invertida)
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Flipped Classroom (Aula invertida), Hora del genio (Genius Hour)
 
 ---
 
@@ -643,7 +643,7 @@ Es especialmente útil para alumnos con dificultades de expresión escrita o cua
 
 **Adecuada para:** Comprensión, razonamiento, explicación personal.
 
-**Técnicas activas que la usan:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Digital storytelling (relatos digitales), La entrevista, Pienso, me interesa, investigo, Ludificación (gamificación)
+**Técnicas activas que la usan:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Digital storytelling (relatos digitales), La entrevista, Pienso, me interesa, investigo, Ludificación (gamificación), Entrevista en tres pasos (Three-Step Interview)
 
 ---
 
@@ -664,7 +664,7 @@ Es una de las formas más inmediatas y frecuentes de evaluación formativa: perm
 
 **Adecuada para:** Comprensión, precisión, razonamiento inmediato.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en preguntas (ABPC), Cronometrado, Pareja, Comparte (Timed, Pair, Share), Genera soluciones
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en preguntas (ABPC), Cronometrado, Pareja, Comparte (Timed, Pair, Share), Genera soluciones, Interrogación elaborativa, Preguntar sin manos levantadas (cold calling), Tiempo de espera (wait time), El juego de la explicación (The Explanation Game)
 
 ---
 
@@ -727,7 +727,7 @@ Permite una evaluación longitudinal y auténtica. Desarrolla la autonomía, la 
 
 **Adecuada para:** Progreso, selección de evidencias, reflexión.
 
-**Técnicas activas que la usan:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Contrato de aprendizaje, Pensamiento de diseño (Design Thinking), Escalera de metacognición, Portfolio (dosier de aprendizaje), Proyectos de Aprendizaje-Servicio (ApS o ABS), Revisión entre iguales (peer review)
+**Técnicas activas que la usan:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Contrato de aprendizaje, Pensamiento de diseño (Design Thinking), Escalera de metacognición, Portfolio (dosier de aprendizaje), Proyectos de Aprendizaje-Servicio (ApS o ABS), Revisión entre iguales (peer review), Hora del genio (Genius Hour), Aprendizaje personalizado con itinerarios (playlists)
 
 ---
 
@@ -769,7 +769,7 @@ Es la evidencia más adecuada para evaluar competencias de investigación en ESO
 
 **Adecuada para:** Búsqueda, análisis, síntesis, conclusiones.
 
-**Técnicas activas que la usan:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en indagación, Flipped Classroom (Aula invertida), Genera soluciones, Dos estrellas y un deseo
+**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Flipped Classroom (Aula invertida), Genera soluciones, Dos estrellas y un deseo, WebQuest
 
 ---
 
@@ -832,7 +832,7 @@ Es una de las evidencias evaluables más habituales en lengua y literatura, hist
 
 **Adecuada para:** Comprensión, interpretación, argumentación.
 
-**Técnicas activas que la usan:** Analiza y sintetiza, Aprendizaje por descubrimiento, Contrasta y compara, KWL (Sé, Quiero saber, He aprendido), Seguir la pista
+**Técnicas activas que la usan:** Analiza y sintetiza, Aprendizaje por descubrimiento, Contrasta y compara, KWL (Sé, Quiero saber, He aprendido), Seguir la pista, Diagrama de Venn
 
 ---
 
@@ -895,7 +895,7 @@ Es especialmente útil para evaluar la comprensión y la organización del conoc
 
 **Adecuada para:** Estructura, síntesis, jerarquía.
 
-**Técnicas activas que la usan:** Analiza y sintetiza, CO-OP CO-OP, Digital storytelling (relatos digitales), El juego de las palabras, El Rompecabezas ("Jigsaw"), Estaciones de aprendizaje, Mapa conceptual a cuatro bandas, Pensaba... ahora pienso, Visual Thinking (pensamiento visual), Diseño Universal para el Aprendizaje (DUA / UDL), Las páginas amarillas, Teoría de la carga cognitiva
+**Técnicas activas que la usan:** Analiza y sintetiza, CO-OP CO-OP, Digital storytelling (relatos digitales), El juego de las palabras, El Rompecabezas ("Jigsaw"), Estaciones de aprendizaje, Doble codificación (dual coding), Mapa conceptual a cuatro bandas, Pensaba... ahora pienso, Visual Thinking (pensamiento visual), Diseño Universal para el Aprendizaje (DUA / UDL), Las páginas amarillas, Teoría de la carga cognitiva, Mapa mental, Diagrama de espina de pescado (Ishikawa), Línea de tiempo, Diagrama de Venn
 
 ---
 
@@ -916,7 +916,7 @@ Permite evaluar la estructura del conocimiento de un alumno: no solo si sabe los
 
 **Adecuada para:** Relaciones conceptuales, organización de conocimiento.
 
-**Técnicas activas que la usan:** El juego de las palabras, Los 5 porqués, Mapa conceptual a cuatro bandas, Generar, ordenar, conectar, elaborar
+**Técnicas activas que la usan:** El juego de las palabras, Doble codificación (dual coding), Los 5 porqués, Mapa conceptual a cuatro bandas, Generar, ordenar, conectar, elaborar
 
 ---
 
@@ -937,7 +937,7 @@ Es especialmente útil para explorar ideas previas, hacer lluvias de ideas estru
 
 **Adecuada para:** Asociación, creatividad, síntesis.
 
-**Técnicas activas que la usan:** Analiza y sintetiza, Contrasta y compara, CSI: Color, Símbolo, Imagen, El folio giratorio, Repartir puntos
+**Técnicas activas que la usan:** Analiza y sintetiza, Contrasta y compara, CSI: Color, Símbolo, Imagen, El folio giratorio, Doble codificación (dual coding), Repartir puntos, Mapa mental
 
 ---
 
@@ -958,7 +958,7 @@ Es una tarea clave en historia, biología (evolución), literatura (movimientos 
 
 **Adecuada para:** Secuencia, temporalidad, relaciones.
 
-**Técnicas activas que la usan:** Aprendizaje por descubrimiento, Detecta patrones, Equipos de oyentes, Genera hipótesis, Los Grupos de Investigación
+**Técnicas activas que la usan:** Aprendizaje por descubrimiento, Detecta patrones, Equipos de oyentes, Genera hipótesis, Los Grupos de Investigación, Línea de tiempo
 
 ---
 
@@ -1063,7 +1063,7 @@ Es la evidencia evaluable principal en proyectos de aprendizaje-servicio, proyec
 
 **Adecuada para:** Planificación, proceso, resultados, evaluación.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Me gusta / No me gusta, Proyectos de Aprendizaje-Servicio (ApS o ABS), Diseño Universal para el Aprendizaje (DUA / UDL)
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Me gusta / No me gusta, Proyectos de Aprendizaje-Servicio (ApS o ABS), Diseño Universal para el Aprendizaje (DUA / UDL), Aprendizaje maker / STEAM
 
 ---
 
@@ -1084,7 +1084,7 @@ Es una actividad formativa que ayuda al alumnado al alumnado a desarrollar compe
 
 **Adecuada para:** Planificación, organización, responsabilidad.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Contrato de aprendizaje, Pensamiento de diseño (Design Thinking), Los Grupos de Investigación, Proyectos de Aprendizaje-Servicio (ApS o ABS), Diseño para la comprensión (Understanding by Design, UbD), Equipos de ayuda mutua / TAI (Team Assisted Individualization)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Contrato de aprendizaje, Pensamiento de diseño (Design Thinking), Los Grupos de Investigación, Proyectos de Aprendizaje-Servicio (ApS o ABS), Diseño para la comprensión (Understanding by Design, UbD), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Aprendizaje personalizado con itinerarios (playlists)
 
 ---
 
@@ -1147,7 +1147,7 @@ Es una actividad de cierre muy eficaz para sesiones, unidades o proyectos. Convi
 
 **Adecuada para:** Metacognición, dificultades, propuestas.
 
-**Técnicas activas que la usan:** Aprendizaje experiencial, Contrato de aprendizaje, Diario de aprendizaje, El semáforo, Escalera de metacognición
+**Técnicas activas que la usan:** Aprendizaje experiencial, Contrato de aprendizaje, Diario de aprendizaje, El semáforo, Escalera de metacognición, Interrogación elaborativa, Autoexplicación, Ponerse en el lugar (Step Inside), El juego de la explicación (The Explanation Game), Inicios de preguntas (Question Starts), Andamiaje y zona de desarrollo próximo (ZDP)
 
 ---
 
@@ -1168,7 +1168,7 @@ Es una evidencia de alto valor metacognitivo, especialmente en portfolios, proye
 
 **Adecuada para:** Autorregulación, argumentación sobre el propio trabajo.
 
-**Técnicas activas que la usan:** Contrato de aprendizaje, Diario de aprendizaje, Genera hipótesis, La caja, Diseño Universal para el Aprendizaje (DUA / UDL)
+**Técnicas activas que la usan:** Contrato de aprendizaje, Diario de aprendizaje, Genera hipótesis, La caja, Diseño Universal para el Aprendizaje (DUA / UDL), Autoexplicación
 
 ---
 
@@ -1189,7 +1189,7 @@ Es la evidencia central de la evaluación competencial en matemáticas, física,
 
 **Adecuada para:** Razonamiento, transferencia, aplicación.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, Controversia académica, Pensamiento de diseño (Design Thinking), Detecta patrones, El juego de las palabras, El modelo 5E, El Saco de Dudas, Equipo-pareja-individual, Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Intercambiar dificultades, Juego de rol, La mesa redonda, Lápiz al centro, Los Grupos de Investigación, Matriz de problemas, Números iguales juntos (Cabezas juntas numeradas), Parejas de detectives, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), Reloj de citas, Situación problema, TGT (Torneo de Juegos por Equipos), Uno para todos, Evaluación auténtica, Las dos columnas, El juego de la NASA, Ludificación (gamificación), Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad
+**Técnicas activas que la usan:** 1 - 2 - 4, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, Controversia académica, Pensamiento de diseño (Design Thinking), Detecta patrones, El juego de las palabras, El modelo 5E, El Saco de Dudas, Equipo-pareja-individual, Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Intercambiar dificultades, Juego de rol, La mesa redonda, Lápiz al centro, Los Grupos de Investigación, Matriz de problemas, Números iguales juntos (Cabezas juntas numeradas), Parejas de detectives, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), Reloj de citas, Situación problema, TGT (Torneo de Juegos por Equipos), Uno para todos, Evaluación auténtica, Las dos columnas, El juego de la NASA, Ludificación (gamificación), Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad, Ejemplos concretos, Pensamiento computacional, Diagrama de espina de pescado (Ishikawa)
 
 ---
 
@@ -1273,7 +1273,7 @@ Es muy eficiente para evaluar grandes cantidades de contenido en poco tiempo, pe
 
 **Adecuada para:** Conceptos, comprensión, repaso.
 
-**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Pensamiento de diseño (Design Thinking), Genera hipótesis, Genera soluciones, Los Grupos de Investigación, Palabra, idea, frase, RoundRobin, STAD (Student Teams Achievement Divisions), Predice, observa, explica (POE)
+**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Pensamiento de diseño (Design Thinking), Genera hipótesis, Genera soluciones, Los Grupos de Investigación, Palabra, idea, frase, RoundRobin, STAD (Student Teams Achievement Divisions), Predice, observa, explica (POE), Preguntas bisagra (hinge questions), Duelo de respuestas (Showdown)
 
 ---
 
@@ -1399,7 +1399,7 @@ Ahorra tiempo de corrección, permite retroalimentación inmediata y facilita el
 
 **Adecuada para:** Diagnóstico, repaso, comprobación.
 
-**Técnicas activas que la usan:** Cadena de Preguntas, Digital storytelling (relatos digitales), La brújula (puntos cardinales), Palabra, idea, frase, Reloj de citas
+**Técnicas activas que la usan:** Cadena de Preguntas, Digital storytelling (relatos digitales), La brújula (puntos cardinales), Palabra, idea, frase, Reloj de citas, Preguntas bisagra (hinge questions), Respuesta de todos a la vez
 
 ---
 
@@ -1420,7 +1420,7 @@ Desarrolla la competencia comunicativa visual, la capacidad de síntesis y la cr
 
 **Adecuada para:** Síntesis, comunicación, diseño, rigor.
 
-**Técnicas activas que la usan:** Diseño Universal para el Aprendizaje (DUA / UDL)
+**Técnicas activas que la usan:** Doble codificación (dual coding), Diseño Universal para el Aprendizaje (DUA / UDL)
 
 ---
 
@@ -1462,7 +1462,7 @@ Es una tarea muy habitual pero que requiere orientación explícita sobre qué h
 
 **Adecuada para:** Estructura, claridad, apoyo visual.
 
-**Técnicas activas que la usan:** Analiza y sintetiza, Genera hipótesis, Graffiti Cooperativo, Palabra, idea, frase, RallyRobin
+**Técnicas activas que la usan:** Analiza y sintetiza, Genera hipótesis, Graffiti Cooperativo, Palabra, idea, frase, RallyRobin, WebQuest
 
 ---
 
@@ -1567,7 +1567,7 @@ Es especialmente útil en tecnología, arquitectura, geografía, historia y cien
 
 **Adecuada para:** Representación, diseño, rigor, comunicación.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje por descubrimiento
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje por descubrimiento, Aprendizaje maker / STEAM
 
 ---
 
@@ -1588,7 +1588,7 @@ Desarrolla la competencia digital y el pensamiento espacial. Es especialmente ad
 
 **Adecuada para:** Modelización, precisión, explicación.
 
-**Técnicas activas que la usan:** Aplica los conocimientos, Aprendizaje experiencial, El folio giratorio, Palabra, idea, frase, RallyRobin
+**Técnicas activas que la usan:** Aplica los conocimientos, Aprendizaje experiencial, El folio giratorio, Palabra, idea, frase, RallyRobin, Pensamiento computacional
 
 ---
 
@@ -1609,7 +1609,7 @@ Es la evidencia central en proyectos de design thinking, tecnología, FP y cualq
 
 **Adecuada para:** Diseño, funcionalidad, mejora, creatividad.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Aprendizaje maker / STEAM, Pensamiento computacional
 
 ---
 
@@ -1630,7 +1630,7 @@ Desarrolla competencia digital, comunicación multimodal y comprensión de la ma
 
 **Adecuada para:** Organización, usabilidad, contenido, diseño.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Graffiti Cooperativo, Palabra, idea, frase, RallyRobin, Reloj de citas
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Graffiti Cooperativo, Palabra, idea, frase, RallyRobin, Reloj de citas, WebQuest
 
 ---
 
@@ -1651,7 +1651,7 @@ Es una buena actividad para trabajar la escritura con una audiencia real y desar
 
 **Adecuada para:** Comunicación, reflexión, rigor, audiencia.
 
-**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Veo, pienso, me pregunto
+**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Veo, pienso, me pregunto, Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -1672,7 +1672,7 @@ Permite la participación de alumnos que no intervienen fácilmente en debates p
 
 **Adecuada para:** Argumentación, participación, respuesta a iguales.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en problemas (ABP), Círculo de puntos de vista, Controversia académica, Reloj de citas
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en problemas (ABP), Círculo de puntos de vista, Controversia académica, Reloj de citas, Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -1693,7 +1693,7 @@ Es especialmente útil para proyectos grupales donde la contribución individual
 
 **Adecuada para:** Contribución, revisión, contenido, cooperación.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Aprendizaje basado en la acción (ABA), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Reloj de citas
+**Técnicas activas que la usan:** 1 - 2 - 4, Aprendizaje basado en la acción (ABA), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Reloj de citas, Conversación escrita en silencio (Chalk Talk), Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -1777,7 +1777,7 @@ Es una actividad diagnóstica y motivadora. En grupos, puede revelar la riqueza 
 
 **Adecuada para:** Ideas previas, intereses, asociaciones.
 
-**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Círculo de puntos de vista, Graffiti Cooperativo, Pienso, me interesa, investigo, RallyRobin, RoundRobin
+**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Círculo de puntos de vista, Graffiti Cooperativo, Pienso, me interesa, investigo, RallyRobin, RoundRobin, Conversación escrita en silencio (Chalk Talk), Inicios de preguntas (Question Starts)
 
 ---
 
@@ -1840,7 +1840,7 @@ Hace visible el proceso de aprendizaje, que de otro modo solo se conoce por el p
 
 **Adecuada para:** Proceso, organización, reflexión, decisiones.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Escalera de metacognición, Flipped Classroom (Aula invertida), Proyectos de Aprendizaje-Servicio (ApS o ABS)
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Escalera de metacognición, Flipped Classroom (Aula invertida), Proyectos de Aprendizaje-Servicio (ApS o ABS), Hora del genio (Genius Hour)
 
 ---
 
@@ -1903,7 +1903,7 @@ Permite regular el ritmo de la enseñanza en tiempo real a partir de evidencias 
 
 **Adecuada para:** Comprensión, dudas, necesidad de ayuda.
 
-**Técnicas activas que la usan:** El modelo 5E, El semáforo, Escalera de metacognición, Flipped Classroom (Aula invertida), KWL (Sé, Quiero saber, He aprendido), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Parada de tres minutos, Peer Instruction (Instrucción entre iguales), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), Ticket de salida (exit ticket)
+**Técnicas activas que la usan:** El modelo 5E, El semáforo, Escalera de metacognición, Flipped Classroom (Aula invertida), KWL (Sé, Quiero saber, He aprendido), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Parada de tres minutos, Peer Instruction (Instrucción entre iguales), Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), Ticket de salida (exit ticket), Respuesta de todos a la vez
 
 ---
 
@@ -1966,7 +1966,7 @@ Es una de las formas más potentes de evaluación competencial, siempre que la s
 
 **Adecuada para:** Competencias, transferencia, integración de saberes.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales), Alineamiento constructivo
 
 ---
 
@@ -2183,7 +2183,7 @@ Es el instrumento de evaluación más adecuado para tareas complejas donde impor
 
 **Limitaciones:** Requiere tiempo de diseño y buenos descriptores.
 
-**Técnicas activas que la usan:** Taxonomía SOLO, Evaluación auténtica, Rúbrica de evaluación, Revisión entre iguales (peer review)
+**Técnicas activas que la usan:** Taxonomía SOLO, Evaluación auténtica, Rúbrica de evaluación, Revisión entre iguales (peer review), Pensamiento computacional, Diagrama de espina de pescado (Ishikawa), Diagrama de Venn
 
 ---
 
@@ -2233,7 +2233,7 @@ Es fundamental en proyectos de larga duración, investigaciones y portfolios, do
 
 **Limitaciones:** Requiere seguimiento continuado.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS)
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS), Aprendizaje maker / STEAM, Hora del genio (Genius Hour), Marco ICAP
 
 ---
 
@@ -2258,7 +2258,7 @@ Se complementa con la rúbrica de proceso en proyectos extensos. Usada sola, pue
 
 **Limitaciones:** Puede dejar fuera el proceso si se usa sola.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS)
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Doble codificación (dual coding), Proyectos de Aprendizaje-Servicio (ApS o ABS), WebQuest, Aprendizaje maker / STEAM, Mapa mental, Línea de tiempo
 
 ---
 
@@ -2283,7 +2283,7 @@ Compartirla antes de la actuación permite al alumnado prepararse con mayor orie
 
 **Limitaciones:** Puede ser difícil registrar todo en directo.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales), Filosofía para Niños (P4C), Debate académico, Ponerse en el lugar (Step Inside), Entrevista en tres pasos (Three-Step Interview)
 
 ---
 
@@ -2308,7 +2308,7 @@ Es especialmente útil para evitar que el trabajo grupal diluya la responsabilid
 
 **Limitaciones:** Requiere evidencias de participación real.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, ¿Quién es quién?, 1 - 2 - 4, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), El Saco de Dudas, Equipo-pareja-individual, Equipos de oyentes, Estaciones de aprendizaje, Genera hipótesis, Genera soluciones, Intercambiar dificultades, Juego de rol, La caja, La entrevista, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los cuatro sabios, Los Grupos de Investigación, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parejas de detectives, Parejas de discusión, Pienso, me interesa, investigo, Placemat consensus, Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Reloj de citas, Revisa las consecuencias, RoundRobin, Seguir la pista, Situación problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Uno para todos, World Café, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, El juego de la NASA, Las páginas amarillas, Co-enseñanza (Co-teaching), Ludificación (gamificación), Roles cooperativos, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Revisión entre iguales (peer review), Dos estrellas y un deseo, Enseñanza recíproca, Controversia estructurada con evidencias, +1, Hábitos mentales
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, ¿Quién es quién?, 1 - 2 - 4, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), El Saco de Dudas, Equipo-pareja-individual, Equipos de oyentes, Estaciones de aprendizaje, Genera hipótesis, Genera soluciones, Intercambiar dificultades, Juego de rol, La caja, La entrevista, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los cuatro sabios, Los Grupos de Investigación, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parejas de detectives, Parejas de discusión, Pienso, me interesa, investigo, Placemat consensus, Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Reloj de citas, Revisa las consecuencias, RoundRobin, Seguir la pista, Situación problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Uno para todos, World Café, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, El juego de la NASA, Las páginas amarillas, Co-enseñanza (Co-teaching), Ludificación (gamificación), Roles cooperativos, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Revisión entre iguales (peer review), Dos estrellas y un deseo, Enseñanza recíproca, Controversia estructurada con evidencias, +1, Hábitos mentales, Abanico y elige (Fan-N-Pick)
 
 ---
 
@@ -2333,7 +2333,7 @@ Es el instrumento de evaluación más adecuado para la evaluación por competenc
 
 **Limitaciones:** Debe formular indicadores observables.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales), Alineamiento constructivo
 
 ---
 
@@ -2358,7 +2358,7 @@ Es rápida de aplicar y muy útil para actividades con requisitos claros y cerra
 
 **Limitaciones:** No valora bien la calidad ni los matices.
 
-**Técnicas activas que la usan:** Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera soluciones, Proyectos de Aprendizaje-Servicio (ApS o ABS), Uno para todos, Revisión entre iguales (peer review)
+**Técnicas activas que la usan:** Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera soluciones, Proyectos de Aprendizaje-Servicio (ApS o ABS), Uno para todos, Revisión entre iguales (peer review), Inicios de preguntas (Question Starts)
 
 ---
 
@@ -2383,7 +2383,7 @@ Cómo usarla: se definen los indicadores que se van a observar y se elige una es
 
 **Limitaciones:** Puede ser ambigua sin descriptores claros.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en problemas (ABP), Controversia académica, El Saco de Dudas
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en problemas (ABP), Controversia académica, El Saco de Dudas, Interrogación elaborativa, El juego de la explicación (The Explanation Game), Conversación escrita en silencio (Chalk Talk), Andamiaje y zona de desarrollo próximo (ZDP), Marco ICAP
 
 ---
 
@@ -2408,7 +2408,7 @@ Adecuada cuando el docente tiene suficiente experiencia para aplicar criterios i
 
 **Limitaciones:** Menos precisa que una rúbrica completa.
 
-**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en problemas (ABP), Controversia académica, El Saco de Dudas
+**Técnicas activas que la usan:** ¿Qué te hace decir eso?, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en problemas (ABP), Controversia académica, El Saco de Dudas, Debate académico
 
 ---
 
@@ -2458,7 +2458,7 @@ Aumenta la consistencia de la corrección entre distintas correcciones del mismo
 
 **Limitaciones:** Menos adecuada para tareas muy abiertas si no se adapta.
 
-**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en problemas (ABP), Los Grupos de Investigación, Palabra, idea, frase
+**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en problemas (ABP), Los Grupos de Investigación, Palabra, idea, frase, Ejemplos concretos
 
 ---
 
@@ -2658,7 +2658,7 @@ Permite dar retroalimentación objetiva sobre la participación, detectar quién
 
 **Limitaciones:** No debe confundirse cantidad con calidad.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Controversia académica, El Saco de Dudas, Escalera de metacognición, Flipped Classroom (Aula invertida)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Controversia académica, El Saco de Dudas, Escalera de metacognición, Flipped Classroom (Aula invertida), Preguntar sin manos levantadas (cold calling), Tiempo de espera (wait time), Filosofía para Niños (P4C), Conversación escrita en silencio (Chalk Talk), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up)
 
 ---
 
@@ -2683,7 +2683,7 @@ Es especialmente útil en proyectos y actividades grupales extensas, donde el fu
 
 **Limitaciones:** Necesita observación o evidencias complementarias.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Controversia académica, El Saco de Dudas, Escalera de metacognición, Flipped Classroom (Aula invertida)
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Controversia académica, El Saco de Dudas, Escalera de metacognición, Flipped Classroom (Aula invertida), Abanico y elige (Fan-N-Pick), Duelo de respuestas (Showdown), Entrevista en tres pasos (Three-Step Interview)
 
 ---
 
@@ -2783,7 +2783,7 @@ Es un término genérico que engloba las rúbricas analíticas. La diferencia pr
 
 **Limitaciones:** Puede ser compleja para el alumnado.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Contrato de aprendizaje, Diario de aprendizaje, La caja, Proyectos de Aprendizaje-Servicio (ApS o ABS)
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Contrato de aprendizaje, Diario de aprendizaje, La caja, Proyectos de Aprendizaje-Servicio (ApS o ABS), Alineamiento constructivo
 
 ---
 
@@ -2883,7 +2883,7 @@ Adecuado para el seguimiento formativo rápido, la comunicación a familias y la
 
 **Limitaciones:** Poca precisión.
 
-**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje experiencial, Aprendizaje por descubrimiento, Flipped Classroom (Aula invertida), La caja
+**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje experiencial, Aprendizaje por descubrimiento, Flipped Classroom (Aula invertida), La caja, Preguntas bisagra (hinge questions), Respuesta de todos a la vez
 
 ---
 
@@ -2908,7 +2908,7 @@ Su valor es principalmente metacognitivo: obliga al alumno a reflexionar sobre s
 
 **Limitaciones:** Puede haber sesgo si no hay criterios.
 
-**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Diana de evaluación, Diario de aprendizaje, El modelo 5E, El semáforo, Escalera de metacognición, Portfolio (dosier de aprendizaje), Repartir puntos, Rúbrica de evaluación
+**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Diana de evaluación, Diario de aprendizaje, El modelo 5E, El semáforo, Escalera de metacognición, Portfolio (dosier de aprendizaje), Repartir puntos, Rúbrica de evaluación, Autoexplicación
 
 ---
 
@@ -3308,7 +3308,7 @@ Reduce el tiempo de corrección, facilita la coherencia entre correcciones y per
 
 **Limitaciones:** Puede depender de la plataforma.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Escalera de metacognición, La caja, RallyRobin
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Escalera de metacognición, La caja, RallyRobin, Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -3358,7 +3358,7 @@ Favorece la transparencia, la autorregulación y la motivación. En versiones di
 
 **Limitaciones:** Debe interpretarse con cautela.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Escalera de metacognición, La caja, RallyRobin
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Escalera de metacognición, La caja, RallyRobin, Aprendizaje personalizado con itinerarios (playlists)
 
 ---
 
@@ -3383,7 +3383,7 @@ Son especialmente útiles para identificar tendencias grupales e individuales de
 
 **Limitaciones:** No equivale directamente a aprendizaje.
 
-**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Palabra, idea, frase, RallyRobin, Reloj de citas
+**Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), Palabra, idea, frase, RallyRobin, Reloj de citas, Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -3458,7 +3458,7 @@ Es muy útil para evaluación continua y autorregulación, porque ayuda a entend
 
 **Limitaciones:** Requiere revisar periódicamente evidencias comparables.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Controversia académica, Escalera de metacognición
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), CO-OP CO-OP, Controversia académica, Escalera de metacognición, Aprendizaje personalizado con itinerarios (playlists), Andamiaje y zona de desarrollo próximo (ZDP)
 
 ---
 
@@ -3638,7 +3638,7 @@ Su valor principal es metacognitivo: obliga al alumnado a reflexionar sobre lo q
 
 **Función pedagógica:** Favorecer metacognición, autonomía y autorregulación.
 
-**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Diana de evaluación, Diario de aprendizaje, El modelo 5E, El semáforo, Escalera de metacognición, Portfolio (dosier de aprendizaje), Repartir puntos, Rúbrica de evaluación
+**Técnicas activas que la usan:** Aprendizaje basado en retos (ABR), Diana de evaluación, Diario de aprendizaje, El modelo 5E, El semáforo, Escalera de metacognición, Portfolio (dosier de aprendizaje), Repartir puntos, Rúbrica de evaluación, Autoexplicación, Hora del genio (Genius Hour)
 
 ---
 
@@ -3665,7 +3665,7 @@ Su función principal es formativa: los comentarios de los compañeros, combinad
 
 **Función pedagógica:** Mejorar trabajos, comprender criterios y aprender entre iguales.
 
-**Técnicas activas que la usan:** CO-OP CO-OP, Diana de evaluación, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Intercambiar dificultades, Repartir puntos, Rúbrica de evaluación, Revisión entre iguales (peer review), Dos estrellas y un deseo
+**Técnicas activas que la usan:** CO-OP CO-OP, Diana de evaluación, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Intercambiar dificultades, Repartir puntos, Rúbrica de evaluación, Revisión entre iguales (peer review), Dos estrellas y un deseo, Abanico y elige (Fan-N-Pick), Entrevista en tres pasos (Three-Step Interview)
 
 ---
 
@@ -3692,7 +3692,7 @@ No debe ser la única forma de evaluación: combinarla con autoevaluación y coe
 
 **Función pedagógica:** Valorar aprendizajes con criterios profesionales o institucionales.
 
-**Técnicas activas que la usan:** Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Pensamiento de diseño (Design Thinking), Diana de evaluación, Diario de aprendizaje, Digital storytelling (relatos digitales), El modelo 5E, El Rompecabezas ("Jigsaw"), El Saco de Dudas, Equipos de oyentes, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Juego de rol, La mesa redonda, Los Grupos de Investigación, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Peer Instruction (Instrucción entre iguales), Portfolio (dosier de aprendizaje), Proyectos de Aprendizaje-Servicio (ApS o ABS), Repartir puntos, Seminario socrático, STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos), Ticket de salida (exit ticket), Uno para todos, World Café, Diseño para la comprensión (Understanding by Design, UbD), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Tutoría entre iguales (Peer Tutoring), Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Revisión entre iguales (peer review), Dos estrellas y un deseo, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio
+**Técnicas activas que la usan:** Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Aprendizaje por descubrimiento, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Pensamiento de diseño (Design Thinking), Diana de evaluación, Diario de aprendizaje, Digital storytelling (relatos digitales), El modelo 5E, El Rompecabezas ("Jigsaw"), El Saco de Dudas, Equipos de oyentes, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Juego de rol, La mesa redonda, Los Grupos de Investigación, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Peer Instruction (Instrucción entre iguales), Portfolio (dosier de aprendizaje), Proyectos de Aprendizaje-Servicio (ApS o ABS), Repartir puntos, Seminario socrático, STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos), Ticket de salida (exit ticket), Uno para todos, World Café, Diseño para la comprensión (Understanding by Design, UbD), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Tutoría entre iguales (Peer Tutoring), Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Revisión entre iguales (peer review), Dos estrellas y un deseo, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio, Filosofía para Niños (P4C), Debate académico
 
 ---
 
@@ -3719,7 +3719,7 @@ Una buena evaluación diagnóstica permite al docente partir de donde está el a
 
 **Función pedagógica:** Detectar conocimientos previos, intereses y necesidades.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en preguntas (ABPC), Cadena de Preguntas, Controversia académica, El folio giratorio, El modelo 5E, Equipos de oyentes, Flipped Classroom (Aula invertida), KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lo que sé y lo que sabemos, Números iguales juntos (Cabezas juntas numeradas), Parejas de detectives, Parejas de discusión, Pensaba... ahora pienso, Pienso, me interesa, investigo, Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte), Uno para todos, Veo, pienso, me pregunto, Predice, observa, explica (POE), Concept Cartoon, Práctica de recuperación, Práctica espaciada, Conectar, ampliar, desafiar, Generar, ordenar, conectar, elaborar, Técnica de formulación de preguntas (QFT)
+**Técnicas activas que la usan:** 1 - 2 - 4, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en preguntas (ABPC), Cadena de Preguntas, Controversia académica, El folio giratorio, El modelo 5E, Equipos de oyentes, Flipped Classroom (Aula invertida), KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lo que sé y lo que sabemos, Números iguales juntos (Cabezas juntas numeradas), Parejas de detectives, Parejas de discusión, Pensaba... ahora pienso, Pienso, me interesa, investigo, Puente 3 - 2 - 1, Quiz-Quiz-Trade (Intercambio de tarjetas), Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte), Uno para todos, Veo, pienso, me pregunto, Predice, observa, explica (POE), Concept Cartoon, Práctica de recuperación, Práctica espaciada, Conectar, ampliar, desafiar, Generar, ordenar, conectar, elaborar, Técnica de formulación de preguntas (QFT), Interrogación elaborativa, Preguntas bisagra (hinge questions), Respuesta de todos a la vez, Inicios de preguntas (Question Starts)
 
 ---
 
@@ -3746,7 +3746,7 @@ La evaluación formativa requiere tiempo y planificación, pero es la que más i
 
 **Función pedagógica:** Regular enseñanza y aprendizaje mediante retroalimentación.
 
-**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El Saco de Dudas, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lápiz al centro, Lectura fantasma, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Portfolio (dosier de aprendizaje), Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, RoundRobin, STAD (Student Teams Achievement Divisions), Ticket de salida (exit ticket), Uno para todos, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Mapa de argumentos, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio, Guías de orientación, +1, Apuntes Cornell, Resumen en una frase
+**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El Saco de Dudas, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Doble codificación (dual coding), Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lápiz al centro, Lectura fantasma, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Portfolio (dosier de aprendizaje), Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, RoundRobin, STAD (Student Teams Achievement Divisions), Ticket de salida (exit ticket), Uno para todos, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Mapa de argumentos, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio, Guías de orientación, +1, Apuntes Cornell, Resumen en una frase, Interrogación elaborativa, Ejemplos concretos, Autoexplicación, Preguntas bisagra (hinge questions), Respuesta de todos a la vez, Preguntar sin manos levantadas (cold calling), Tiempo de espera (wait time), Filosofía para Niños (P4C), Ponerse en el lugar (Step Inside), El juego de la explicación (The Explanation Game), Conversación escrita en silencio (Chalk Talk), Inicios de preguntas (Question Starts), Abanico y elige (Fan-N-Pick), Duelo de respuestas (Showdown), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Entrevista en tres pasos (Three-Step Interview), Aprendizaje personalizado con itinerarios (playlists), Mapa mental, Diagrama de espina de pescado (Ishikawa), Línea de tiempo, Diagrama de Venn, Andamiaje y zona de desarrollo próximo (ZDP), Alineamiento constructivo, Marco ICAP, Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -3800,7 +3800,7 @@ La evaluación competencial implica evaluar de forma integrada varios saberes y 
 
 **Función pedagógica:** Evaluar aplicación, transferencia e integración.
 
-**Técnicas activas que la usan:** Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), El modelo 5E, Escalera de metacognición, Estaciones de aprendizaje, Taxonomía SOLO, Las 4C del aprendizaje, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Práctica intercalada
+**Técnicas activas que la usan:** Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), El modelo 5E, Escalera de metacognición, Estaciones de aprendizaje, Taxonomía SOLO, Las 4C del aprendizaje, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Práctica intercalada, Debate académico, WebQuest, Aprendizaje maker / STEAM, Pensamiento computacional, Hora del genio (Genius Hour), Alineamiento constructivo
 
 ---
 
@@ -3827,7 +3827,7 @@ Es especialmente útil en ciencias experimentales, educación física, artes, FP
 
 **Función pedagógica:** Evaluar actuación, toma de decisiones y aplicación.
 
-**Técnicas activas que la usan:** Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, CO-OP CO-OP, Controversia académica, Pensamiento de diseño (Design Thinking), El Rompecabezas ("Jigsaw"), Equipos de oyentes, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Juego de rol, La mesa redonda, Los Grupos de Investigación, Peer Instruction (Instrucción entre iguales), Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Role on the Wall (Silueta del personaje), RoundRobin, Seminario socrático, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), World Café, Centros de interés (enfoque de Decroly), Tertulia dialógica, Indagación guiada por la argumentación (ADI), Controversia estructurada con evidencias, Pensamiento en voz alta
+**Técnicas activas que la usan:** Aprendizaje basado en casos (ABC), Aprendizaje basado en el juego (ABJ), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje experiencial, CO-OP CO-OP, Controversia académica, Pensamiento de diseño (Design Thinking), El Rompecabezas ("Jigsaw"), Equipos de oyentes, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Juego de rol, La mesa redonda, Los Grupos de Investigación, Peer Instruction (Instrucción entre iguales), Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Role on the Wall (Silueta del personaje), RoundRobin, Seminario socrático, Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), World Café, Centros de interés (enfoque de Decroly), Tertulia dialógica, Indagación guiada por la argumentación (ADI), Controversia estructurada con evidencias, Pensamiento en voz alta, Aprendizaje maker / STEAM, Mapa mental, Marco ICAP
 
 ---
 
@@ -3854,7 +3854,7 @@ Permite evaluar de forma integrada múltiples competencias y criterios a la vez,
 
 **Función pedagógica:** Evaluar planificación, investigación, creación y comunicación.
 
-**Técnicas activas que la usan:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Contrato de aprendizaje, Digital storytelling (relatos digitales), Graffiti Cooperativo, Los Grupos de Investigación, Proyectos de Aprendizaje-Servicio (ApS o ABS), Las 4C del aprendizaje, Grupo nominal, Roles cooperativos, Revisión entre iguales (peer review), Hábitos mentales
+**Técnicas activas que la usan:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Contrato de aprendizaje, Digital storytelling (relatos digitales), Graffiti Cooperativo, Los Grupos de Investigación, Proyectos de Aprendizaje-Servicio (ApS o ABS), Las 4C del aprendizaje, Grupo nominal, Roles cooperativos, Revisión entre iguales (peer review), Hábitos mentales, Aprendizaje maker / STEAM, Hora del genio (Genius Hour)
 
 ---
 
@@ -3881,7 +3881,7 @@ Es especialmente adecuada en ciencias naturales, ciencias sociales y proyectos d
 
 **Función pedagógica:** Evaluar pensamiento científico, investigación y análisis.
 
-**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, CO-OP CO-OP, Contrato de aprendizaje, El modelo 5E, Genera hipótesis, Los Grupos de Investigación, Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Veo, pienso, me pregunto, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Diseño Universal para el Aprendizaje (DUA / UDL), Centros de interés (enfoque de Decroly), Indagación guiada por la argumentación (ADI), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), Conectar, ampliar, desafiar, Tira y afloja, Técnica de formulación de preguntas (QFT), Hábitos mentales
+**Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, CO-OP CO-OP, Contrato de aprendizaje, El modelo 5E, Genera hipótesis, Los Grupos de Investigación, Pienso, me interesa, investigo, Portfolio (dosier de aprendizaje), Pregunta el porqué, Veo, pienso, me pregunto, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Diseño Universal para el Aprendizaje (DUA / UDL), Centros de interés (enfoque de Decroly), Indagación guiada por la argumentación (ADI), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), Conectar, ampliar, desafiar, Tira y afloja, Técnica de formulación de preguntas (QFT), Hábitos mentales, WebQuest
 
 ---
 
@@ -3908,7 +3908,7 @@ Adecuada en matemáticas, física, química, tecnología, economía y cualquier 
 
 **Función pedagógica:** Evaluar razonamiento y transferencia.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, Círculo de puntos de vista, Controversia académica, Pensamiento de diseño (Design Thinking), Detecta patrones, Diario de aprendizaje, El juego de las palabras, El modelo 5E, El Saco de Dudas, Equipo-pareja-individual, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La mesa redonda, Lápiz al centro, Los 5 porqués, Los Grupos de Investigación, Matriz de problemas, Números iguales juntos (Cabezas juntas numeradas), Parejas de detectives, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), Reloj de citas, Revisa las consecuencias, Seminario socrático, Situación problema, TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Titulares, Uno para todos, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Evaluación auténtica, Grupo nominal, Las dos columnas, Tutoría entre iguales (Peer Tutoring), El juego de la NASA, Centros de interés (enfoque de Decroly), Ludificación (gamificación), Rúbrica de evaluación, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Dos estrellas y un deseo, Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad, Hábitos mentales, Teoría de la carga cognitiva
+**Técnicas activas que la usan:** 1 - 2 - 4, Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Aprendizaje por descubrimiento, Círculo de puntos de vista, Controversia académica, Pensamiento de diseño (Design Thinking), Detecta patrones, Diario de aprendizaje, El juego de las palabras, El modelo 5E, El Saco de Dudas, Equipo-pareja-individual, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Graffiti Cooperativo, Intercambiar dificultades, Juego de rol, La mesa redonda, Lápiz al centro, Los 5 porqués, Los Grupos de Investigación, Matriz de problemas, Números iguales juntos (Cabezas juntas numeradas), Parejas de detectives, Placemat consensus, Proyectos de Aprendizaje-Servicio (ApS o ABS), Reloj de citas, Revisa las consecuencias, Seminario socrático, Situación problema, TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Titulares, Uno para todos, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Evaluación auténtica, Grupo nominal, Las dos columnas, Tutoría entre iguales (Peer Tutoring), El juego de la NASA, Centros de interés (enfoque de Decroly), Ludificación (gamificación), Rúbrica de evaluación, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Dos estrellas y un deseo, Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad, Hábitos mentales, Teoría de la carga cognitiva, Pensamiento computacional, Diagrama de espina de pescado (Ishikawa)
 
 ---
 
@@ -3989,7 +3989,7 @@ Las evidencias digitales permiten evaluar la competencia digital de forma autén
 
 **Función pedagógica:** Valorar competencia digital, producción y participación online.
 
-**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Digital storytelling (relatos digitales), Flipped Classroom (Aula invertida), Portfolio (dosier de aprendizaje), Proyectos de Aprendizaje-Servicio (ApS o ABS), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Ludificación (gamificación)
+**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Digital storytelling (relatos digitales), Flipped Classroom (Aula invertida), Portfolio (dosier de aprendizaje), Proyectos de Aprendizaje-Servicio (ApS o ABS), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Modelo SAMR, Ludificación (gamificación), WebQuest, Pensamiento computacional, Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -4014,7 +4014,7 @@ Es especialmente importante en enfoques competenciales, porque permite justifica
 
 **Función pedagógica:** Alinear evidencias, criterios de evaluación, indicadores y decisiones de calificación.
 
-**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Contrato de aprendizaje, Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS), Diseño para la comprensión (Understanding by Design, UbD), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Rúbrica de evaluación, Revisión entre iguales (peer review), Dos estrellas y un deseo, Aprendizaje de dominio
+**Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Contrato de aprendizaje, Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS), Diseño para la comprensión (Understanding by Design, UbD), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Rúbrica de evaluación, Revisión entre iguales (peer review), Dos estrellas y un deseo, Aprendizaje de dominio, Alineamiento constructivo
 
 ---
 
@@ -4039,7 +4039,7 @@ Su finalidad es aumentar la validez de la evaluación: que el resultado refleje 
 
 **Función pedagógica:** Reducir barreras y ofrecer distintas formas de demostrar el aprendizaje.
 
-**Técnicas activas que la usan:** 1 - 2 - 4, Analiza y sintetiza, Aprendizaje basado en casos (ABC), Aprendizaje basado en la acción (ABA), Aprendizaje experiencial, Círculo de puntos de vista, CO-OP CO-OP, Diario de aprendizaje, El Rompecabezas ("Jigsaw"), El semáforo, Equipo-pareja-individual, Estaciones de aprendizaje, Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Lo que sé y lo que sabemos, Los cuatro sabios, Mapa conceptual a cuatro bandas, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Peer Instruction (Instrucción entre iguales), Placemat consensus, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, RallyRobin, Repartir puntos, RoundRobin, Situación problema, STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Veo, pienso, me pregunto, Diseño Universal para el Aprendizaje (DUA / UDL), Grupo nominal, Las dos columnas, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), El juego de la NASA, Co-enseñanza (Co-teaching), Ludificación (gamificación), Roles cooperativos, Ejemplos resueltos, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Teoría de la carga cognitiva
+**Técnicas activas que la usan:** 1 - 2 - 4, Analiza y sintetiza, Aprendizaje basado en casos (ABC), Aprendizaje basado en la acción (ABA), Aprendizaje experiencial, Círculo de puntos de vista, CO-OP CO-OP, Diario de aprendizaje, El Rompecabezas ("Jigsaw"), El semáforo, Equipo-pareja-individual, Estaciones de aprendizaje, Flipped Classroom (Aula invertida), Genera hipótesis, Genera soluciones, Doble codificación (dual coding), Lo que sé y lo que sabemos, Los cuatro sabios, Mapa conceptual a cuatro bandas, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Peer Instruction (Instrucción entre iguales), Placemat consensus, Portfolio (dosier de aprendizaje), Pregunta el porqué, Pregunta y responde, RallyRobin, Repartir puntos, RoundRobin, Situación problema, STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Veo, pienso, me pregunto, Diseño Universal para el Aprendizaje (DUA / UDL), Grupo nominal, Las dos columnas, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), El juego de la NASA, Co-enseñanza (Co-teaching), Ludificación (gamificación), Roles cooperativos, Ejemplos resueltos, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Teoría de la carga cognitiva, Aprendizaje personalizado con itinerarios (playlists), Andamiaje y zona de desarrollo próximo (ZDP)
 
 ---
 
@@ -4064,7 +4064,7 @@ Bien usada, permite que la evaluación sea parte del aprendizaje y no solo una c
 
 **Función pedagógica:** Seguir el progreso, detectar necesidades y ajustar la enseñanza de forma sostenida.
 
-**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El Saco de Dudas, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lápiz al centro, Lectura fantasma, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Portfolio (dosier de aprendizaje), Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, RoundRobin, STAD (Student Teams Achievement Divisions), Ticket de salida (exit ticket), Uno para todos, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Mapa de argumentos, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio, Guías de orientación, +1, Apuntes Cornell, Resumen en una frase
+**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, CO-OP CO-OP, Contrato de aprendizaje, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), Diana de evaluación, Diario de aprendizaje, El folio giratorio, El modelo 5E, El Saco de Dudas, El semáforo, Equipos de oyentes, Escalera de metacognición, Estaciones de aprendizaje, Fishbowl (Pecera), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera hipótesis, Intercambiar dificultades, Juego de rol, KWL (Sé, Quiero saber, He aprendido), La brújula (puntos cardinales), Lápiz al centro, Lectura fantasma, Los 5 porqués, Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parada de tres minutos, Parejas de detectives, Peer Instruction (Instrucción entre iguales), Portfolio (dosier de aprendizaje), Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), Quiz-Quiz-Trade (Intercambio de tarjetas), RallyRobin, Repartir puntos, RoundRobin, STAD (Student Teams Achievement Divisions), Ticket de salida (exit ticket), Uno para todos, Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica, Aprendizaje visible (Visible Learning), Modelo SAMR, Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Co-enseñanza (Co-teaching), Ludificación (gamificación), Rúbrica de evaluación, Roles cooperativos, Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Dos estrellas y un deseo, Mapa de argumentos, Controversia estructurada con evidencias, Práctica de recuperación, Práctica espaciada, Aprendizaje de dominio, Guías de orientación, +1, Apuntes Cornell, Resumen en una frase, Aprendizaje personalizado con itinerarios (playlists)
 
 ---
 
@@ -4139,7 +4139,7 @@ Es especialmente valiosa porque hace visibles los criterios y convierte la evalu
 
 **Función pedagógica:** Aumentar comprensión de criterios, responsabilidad y autorregulación.
 
-**Técnicas activas que la usan:** CO-OP CO-OP, Contrato de aprendizaje, Diana de evaluación, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Intercambiar dificultades, La mesa redonda, Portfolio (dosier de aprendizaje), Repartir puntos, Evaluación auténtica, Las 4C del aprendizaje, Rúbrica de evaluación, Revisión entre iguales (peer review), Dos estrellas y un deseo
+**Técnicas activas que la usan:** CO-OP CO-OP, Contrato de aprendizaje, Diana de evaluación, Fishbowl (Pecera), Gallery Walk (Paseo por la galería), Intercambiar dificultades, La mesa redonda, Portfolio (dosier de aprendizaje), Repartir puntos, Evaluación auténtica, Las 4C del aprendizaje, Rúbrica de evaluación, Revisión entre iguales (peer review), Dos estrellas y un deseo, Debate académico, Conversación escrita en silencio (Chalk Talk), Comunidad de indagación (Community of Inquiry)
 
 ---
 
@@ -4166,7 +4166,7 @@ Es especialmente adecuada para la evaluación formativa, la consolidación y la 
 
 **Función pedagógica:** Aumentar motivación e implicación, y obtener retroalimentación inmediata sobre el aprendizaje.
 
-**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), El juego de las palabras, Juego de rol, Quiz-Quiz-Trade (Intercambio de tarjetas), TGT (Torneo de Juegos por Equipos), El juego de la NASA, Ludificación (gamificación)
+**Técnicas activas que la usan:** Aprendizaje basado en el juego (ABJ), El juego de las palabras, Juego de rol, Quiz-Quiz-Trade (Intercambio de tarjetas), TGT (Torneo de Juegos por Equipos), El juego de la NASA, Ludificación (gamificación), Duelo de respuestas (Showdown)
 
 ---
 

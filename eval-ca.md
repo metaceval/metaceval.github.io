@@ -41,7 +41,7 @@ Com aplicar-la: abans de la sessió es defineixen quins indicadors s'observaran 
 
 **Limitacions:** Pot ser subjectiva si no hi ha criteris clars.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Hàbits mentals
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Hàbits mentals, Resposta de tothom alhora, Filosofia per a Infants (P4C), Conversa escrita en silenci (Chalk Talk), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview), Aprenentatge maker / STEAM, Aprenentatge personalitzat amb itineraris (playlists), Bastida i zona de desenvolupament proper (ZDP), Marc ICAP
 
 ---
 
@@ -99,7 +99,7 @@ Quan el producte final no reflecteix tot l'aprenentatge (perquè el procés va s
 
 **Limitacions:** No mostra tot el procés si no s'acompanya de seguiment.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, Matriu de problemes, Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Titulars, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Les dues columnes, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Exemples resolts, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Genera, ordena, connecta, elabora, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Resum en una frase, Teoria de la càrrega cognitiva
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Doble codificació (dual coding), Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, Matriu de problemes, Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Titulars, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Les dues columnes, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Exemples resolts, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Genera, ordena, connecta, elabora, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Resum en una frase, Teoria de la càrrega cognitiva, Exemples concrets, Posar-se al lloc (Step Inside), Conversa escrita en silenci (Chalk Talk), Inicis de preguntes (Question Starts), WebQuest, Aprenentatge maker / STEAM, Pensament computacional, Hora del geni (Genius Hour), Aprenentatge personalitzat amb itineraris (playlists), Mapa mental, Diagrama d’espina de peix (Ishikawa), Línia de temps, Diagrama de Venn
 
 ---
 
@@ -128,7 +128,7 @@ Són útils per acreditar assoliments i per comparar resultats, però no haurien
 
 **Limitacions:** Pot reduir l'avaluació si s'usa com a única evidència.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Pensament de disseny (Design Thinking), Genera hipòtesis, Genera solucions, Lectura compartida, STAD (Student Teams Achievement Divisions), TGT (Torneig de Jocs per Equips), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Coneixement tecnològic, pedagògic i del contingut (TPACK), Les 4C de l'aprenentatge, Prediu, observa, explica (POE), Exemples resolts, Aprenentatge de domini
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Pensament de disseny (Design Thinking), Genera hipòtesis, Genera solucions, Lectura compartida, STAD (Student Teams Achievement Divisions), TGT (Torneig de Jocs per Equips), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Coneixement tecnològic, pedagògic i del contingut (TPACK), Les 4C de l'aprenentatge, Prediu, observa, explica (POE), Exemples resolts, Aprenentatge de domini, Preguntes frontissa (hinge questions), Duel de respostes (Showdown), Pensament computacional
 
 ---
 
@@ -157,7 +157,7 @@ Permeten valorar comprensió profunda, argumentació, capacitat de síntesi, flu
 
 **Limitacions:** Pot dependre de factors emocionals.
 
-**Tècniques actives que l'utilitzen:** Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cercle de punts de vista, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Pensava... ara penso, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Resum en una frase
+**Tècniques actives que l'utilitzen:** Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cercle de punts de vista, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Pensava... ara penso, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Resum en una frase, Interrogació elaborativa, Autoexplicació, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Filosofia per a Infants (P4C), Debat acadèmic, Posar-se al lloc (Step Inside), El joc de l’explicació (The Explanation Game), Ventall i tria (Fan-N-Pick), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -184,7 +184,7 @@ Com aplicar-la: el docent planteja una pregunta, un KPSI, un bitllet de sortida,
 
 **Limitacions:** Pot donar evidències superficials si les preguntes no estan ben formulades o no s'usen després per prendre decisions docents.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La caixa, La taula rodona, Llapis al centre, El que sé i el que sabem, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Un per a tots, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La caixa, La taula rodona, Llapis al centre, El que sé i el que sabem, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Un per a tots, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals, Interrogació elaborativa, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), El joc de l’explicació (The Explanation Game), Inicis de preguntes (Question Starts)
 
 ---
 
@@ -211,7 +211,7 @@ Com aplicar-la: es seleccionen moments de recollida durant la tasca i es revisen
 
 **Limitacions:** Requereix seguiment continuat i criteris clars per no convertir-se en mera acumulació de documents.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La taula rodona, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Situació problema, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica intercalada, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La taula rodona, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Situació problema, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica intercalada, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals, Autoexplicació, Hora del geni (Genius Hour), Bastida i zona de desenvolupament proper (ZDP)
 
 ---
 
@@ -292,7 +292,7 @@ Com aplicar-la: es seleccionen documents rellevants, es contrasten amb criteris 
 
 **Limitacions:** Pot sobrevalorar el que es documenta i deixar fora actuacions no registrades.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge per descobriment, Contrasta i compara, Controvèrsia acadèmica, Detecta patrons, El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), Equips d'oients, Estacions d'aprenentatge, Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Joc de rol, L'entrevista, La taula rodona, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Mapa conceptual a quatre bandes, Matriu de problemes, Paraula, idea, frase, Parada de tres minuts, Peer Instruction (Instrucció entre iguals), Penso, m'interessa, investigo, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Revisa les conseqüències, Role on the Wall (Silueta del personatge), Seminari socràtic, Titulars, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Les dues columnes, Equips paral·lels, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica intercalada, Exemples resolts, Pensament en veu alta, Genera, ordena, connecta, elabora, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Resum en una frase, Teoria de la càrrega cognitiva
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge per descobriment, Contrasta i compara, Controvèrsia acadèmica, Detecta patrons, El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), Equips d'oients, Estacions d'aprenentatge, Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Joc de rol, L'entrevista, La taula rodona, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Mapa conceptual a quatre bandes, Matriu de problemes, Paraula, idea, frase, Parada de tres minuts, Peer Instruction (Instrucció entre iguals), Penso, m'interessa, investigo, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Revisa les conseqüències, Role on the Wall (Silueta del personatge), Seminari socràtic, Titulars, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Les dues columnes, Equips paral·lels, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica intercalada, Exemples resolts, Pensament en veu alta, Genera, ordena, connecta, elabora, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Resum en una frase, Teoria de la càrrega cognitiva, WebQuest
 
 ---
 
@@ -319,7 +319,7 @@ Com aplicar-la: es decideix quines traces són rellevants per als criteris, es r
 
 **Limitacions:** Les traces digitals requereixen interpretació pedagògica i respecte a la privacitat.
 
-**Tècniques actives que l'utilitzen:** Paraula, idea, frase
+**Tècniques actives que l'utilitzen:** Paraula, idea, frase, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -346,7 +346,7 @@ Com aplicar-la: s'identifica quin criteri es vol valorar, quines evidències el 
 
 **Limitacions:** Requereix decidir quines evidències pesen més i evitar duplicar la mateixa evidència.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), La brúixola (punts cardinals), Projectes d'aprenentatge servei (APS o ABS), La caixa
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), La brúixola (punts cardinals), La caixa, Projectes d'aprenentatge servei (APS o ABS), Alineament constructiu
 
 ---
 
@@ -370,7 +370,7 @@ Com usar-lo per avaluar: mentre l'alumnat treballa, el docent circula per l'aula
 
 **Adequada per a:** Autonomia, organització, resolució de tasques.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en l'acció (ABA), El semàfor, Equip-parella-individual, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Pregunta i respon, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Un per a tots, Pràctica de recuperació, Apunts Cornell
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en l'acció (ABA), El semàfor, Equip-parella-individual, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Pregunta i respon, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Un per a tots, Pràctica de recuperació, Apunts Cornell, Exemples concrets
 
 ---
 
@@ -391,7 +391,7 @@ Perquè l'avaluació sigui justa, no s'ha de reduir al producte final: dos grups
 
 **Adequada per a:** Col·laboració, responsabilitat, comunicació.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diari d'aprenentatge, El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Repartir punts, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diari d'aprenentatge, El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Repartir punts, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals, Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -412,7 +412,7 @@ Cal valorar la qualitat de les aportacions, no només la quantitat. Un alumne qu
 
 **Adequada per a:** Implicació, escolta, preguntes, aportacions.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), CO-OP CO-OP, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Diana d'avaluació, El foli giratori, El joc de les paraules, Equips d'oients, Fishbowl (Peixera), La taula rodona, Llapis al centre, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Parada de tres minuts, Parelles de discussió, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, RoundRobin, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Grup nominal, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), CO-OP CO-OP, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Diana d'avaluació, El foli giratori, El joc de les paraules, Equips d'oients, Fishbowl (Peixera), La taula rodona, Llapis al centre, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Parada de tres minuts, Parelles de discussió, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, RoundRobin, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Grup nominal, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Ventall i tria (Fan-N-Pick), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Marc ICAP
 
 ---
 
@@ -433,7 +433,7 @@ El debat permet avaluar competències que no són visibles en proves escrites: a
 
 **Adequada per a:** Argumentació, escolta activa, respecte, evidències.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Cercle de punts de vista, Controvèrsia acadèmica, Detecta patrons, Fishbowl (Peixera), Genera hipòtesis, La taula rodona, Llapis al centre, Els 5 per què, Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Pensava... ara penso, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Seminari socràtic, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Disseny per a la comprensió (Understanding by Design, UbD), Grup nominal, El joc de la NASA, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Cercle de punts de vista, Controvèrsia acadèmica, Detecta patrons, Fishbowl (Peixera), Genera hipòtesis, La taula rodona, Llapis al centre, Els 5 per què, Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Pensava... ara penso, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Seminari socràtic, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Disseny per a la comprensió (Understanding by Design, UbD), Grup nominal, El joc de la NASA, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Filosofia per a Infants (P4C), Debat acadèmic
 
 ---
 
@@ -454,7 +454,7 @@ Com usar-lo per avaluar: el docent modera i observa amb una escala o rúbrica or
 
 **Adequada per a:** Comprensió, expressió, relació d'idees.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Cercle de punts de vista, Controvèrsia acadèmica, Detecta patrons, Digital storytelling (relats digitals)
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Cercle de punts de vista, Controvèrsia acadèmica, Detecta patrons, Digital storytelling (relats digitals), Filosofia per a Infants (P4C)
 
 ---
 
@@ -475,7 +475,7 @@ No és una evidència d'avaluació acadèmica formal en sentit estricte, però s
 
 **Adequada per a:** Participació, convivència, presa de decisions.
 
-**Tècniques actives que l'utilitzen:** Qui és qui?, Cercle de punts de vista, El foli giratori, El Sac de Dubtes
+**Tècniques actives que l'utilitzen:** Qui és qui?, Cercle de punts de vista, El foli giratori, El Sac de Dubtes, Filosofia per a Infants (P4C)
 
 ---
 
@@ -559,7 +559,7 @@ Com usar-lo per avaluar: el docent observa l'actuació amb una rúbrica de desem
 
 **Adequada per a:** Empatia, argumentació, resolució de conflictes.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El model 5E, El Trencaclosques ("Jigsaw"), El semàfor, Equip-parella-individual, Equips d'oients, Escala de metacognició, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Joc de rol, La caixa, Llapis al centre, El que sé i el que sabem, Els 5 per què, Els quatre savis, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), Veig, penso, em pregunto, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Model SAMR, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Revisió entre iguals (peer review), Ensenyament recíproc, Pràctica intercalada, Connecta, amplia, desafia, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT)
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El model 5E, El Trencaclosques ("Jigsaw"), El semàfor, Equip-parella-individual, Equips d'oients, Escala de metacognició, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Joc de rol, La caixa, Llapis al centre, El que sé i el que sabem, Els 5 per què, Els quatre savis, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), Veig, penso, em pregunto, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Model SAMR, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Revisió entre iguals (peer review), Ensenyament recíproc, Pràctica intercalada, Connecta, amplia, desafia, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT), Posar-se al lloc (Step Inside)
 
 ---
 
@@ -580,7 +580,7 @@ Com usar-la per avaluar: es valora l'expressió oral i corporal, la comprensió 
 
 **Adequada per a:** Expressió, comprensió, creativitat.
 
-**Tècniques actives que l'utilitzen:** Aplica els coneixements, Aprenentatge basat en el joc (ABJ), CSI: Color, Símbol, Imatge, Pregunta i respon, El joc de la NASA
+**Tècniques actives que l'utilitzen:** Aplica els coneixements, Aprenentatge basat en el joc (ABJ), CSI: Color, Símbol, Imatge, Pregunta i respon, El joc de la NASA, Posar-se al lloc (Step Inside)
 
 ---
 
@@ -601,7 +601,7 @@ Permete avaluar la competència comunicativa oral, la capacitat de síntesi i el
 
 **Adequada per a:** Comunicació, estructura, domini del contingut.
 
-**Tècniques actives que l'utilitzen:** Qui és qui?, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Rellotge de cites, Role on the Wall (Silueta del personatge), Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Visual Thinking (pensament visual), World Café, Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Resum en una frase
+**Tècniques actives que l'utilitzen:** Qui és qui?, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Rellotge de cites, Role on the Wall (Silueta del personatge), Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Visual Thinking (pensament visual), World Café, Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Resum en una frase, Debat acadèmic
 
 ---
 
@@ -622,7 +622,7 @@ Afegeix valor al projecte perquè obliga l'alumnat a comprendre realment allò q
 
 **Adequada per a:** Argumentació, decisions, resposta a preguntes.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Flipped Classroom (Aula invertida)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Flipped Classroom (Aula invertida), Hora del geni (Genius Hour)
 
 ---
 
@@ -643,7 +643,7 @@ Com usar-la per avaluar: el docent prepara un guió de preguntes obertes i regis
 
 **Adequada per a:** Comprensió, raonament, explicació personal.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Digital storytelling (relats digitals), L'entrevista, Penso, m'interessa, investigo, Ludificació (gamificació)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Digital storytelling (relats digitals), L'entrevista, Penso, m'interessa, investigo, Ludificació (gamificació), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -664,7 +664,7 @@ Com usar-la per avaluar: el docent formula la pregunta, dóna temps de reflexió
 
 **Adequada per a:** Comprensió, precisió, raonament immediat.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en preguntes  (ABPC), Cronometrat, Parella, Comparteix (Timed, Pair, Share), Genera solucions
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en preguntes  (ABPC), Cronometrat, Parella, Comparteix (Timed, Pair, Share), Genera solucions, Interrogació elaborativa, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), El joc de l’explicació (The Explanation Game)
 
 ---
 
@@ -727,7 +727,7 @@ Permete una avaluació longitudinal i autèntica. Desenvolupa l'autonomia, la re
 
 **Adequada per a:** Progrés, selecció d'evidències, reflexió.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en la investigació (ABI), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Contracte d'aprenentatge, Pensament de disseny (Design Thinking), Escala de metacognició, Portfolio (dossier d'aprenentatge), Projectes d'aprenentatge servei (APS o ABS), Revisió entre iguals (peer review)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en la investigació (ABI), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Contracte d'aprenentatge, Pensament de disseny (Design Thinking), Escala de metacognició, Portfolio (dossier d'aprenentatge), Projectes d'aprenentatge servei (APS o ABS), Revisió entre iguals (peer review), Hora del geni (Genius Hour), Aprenentatge personalitzat amb itineraris (playlists)
 
 ---
 
@@ -769,7 +769,7 @@ Com usar-lo per avaluar: una rúbrica analítica que valori cada secció per sep
 
 **Adequada per a:** Cerca, anàlisi, síntesi, conclusions.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en la investigació (ABI), Aprenentatge basat en indagació, Flipped Classroom (Aula invertida), Genera solucions, Dues estrelles i un desig
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), Flipped Classroom (Aula invertida), Genera solucions, Dues estrelles i un desig, WebQuest
 
 ---
 
@@ -832,7 +832,7 @@ Com usar-lo per avaluar: es valora la comprensió global del text, la identifica
 
 **Adequada per a:** Comprensió, interpretació, argumentació.
 
-**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge per descobriment, Contrasta i compara, KWL (Sé, Vull saber, He après), Seguir la pista
+**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge per descobriment, Contrasta i compara, KWL (Sé, Vull saber, He après), Seguir la pista, Diagrama de Venn
 
 ---
 
@@ -895,7 +895,7 @@ Com usar-lo per avaluar: es valora si l'alumne identifica correctament la jerarq
 
 **Adequada per a:** Estructura, síntesi, jerarquia.
 
-**Tècniques actives que l'utilitzen:** Analitza i sintetitza, CO-OP CO-OP, Digital storytelling (relats digitals), El joc de les paraules, El Trencaclosques ("Jigsaw"), Estacions d'aprenentatge, Mapa conceptual a quatre bandes, Pensava... ara penso, Visual Thinking (pensament visual), Disseny Universal per a l'Aprenentatge (DUA / UDL), Les pàgines grogues, Teoria de la càrrega cognitiva
+**Tècniques actives que l'utilitzen:** Analitza i sintetitza, CO-OP CO-OP, Digital storytelling (relats digitals), El joc de les paraules, El Trencaclosques ("Jigsaw"), Estacions d'aprenentatge, Doble codificació (dual coding), Mapa conceptual a quatre bandes, Pensava... ara penso, Visual Thinking (pensament visual), Disseny Universal per a l'Aprenentatge (DUA / UDL), Les pàgines grogues, Teoria de la càrrega cognitiva, Mapa mental, Diagrama d’espina de peix (Ishikawa), Línia de temps, Diagrama de Venn
 
 ---
 
@@ -916,7 +916,7 @@ Permete avaluar l'estructura del coneixement d'un alumne: no només si sap els c
 
 **Adequada per a:** Relacions conceptuals, organització del coneixement.
 
-**Tècniques actives que l'utilitzen:** El joc de les paraules, Els 5 per què, Mapa conceptual a quatre bandes, Genera, ordena, connecta, elabora
+**Tècniques actives que l'utilitzen:** El joc de les paraules, Doble codificació (dual coding), Els 5 per què, Mapa conceptual a quatre bandes, Genera, ordena, connecta, elabora
 
 ---
 
@@ -937,7 +937,7 @@ Com usar-lo per avaluar: es valora la riquesa de les associacions, l'organitzaci
 
 **Adequada per a:** Associació, creativitat, síntesi.
 
-**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Contrasta i compara, CSI: Color, Símbol, Imatge, El foli giratori, Repartir punts
+**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Contrasta i compara, CSI: Color, Símbol, Imatge, El foli giratori, Doble codificació (dual coding), Repartir punts, Mapa mental
 
 ---
 
@@ -958,7 +958,7 @@ Com usar-la per avaluar: es valora la selecció de fets rellevants, la precisió
 
 **Adequada per a:** Seqüència, temporalitat, relacions.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge per descobriment, Detecta patrons, Equips d'oients, Genera hipòtesis, Els Grups de Recerca
+**Tècniques actives que l'utilitzen:** Aprenentatge per descobriment, Detecta patrons, Equips d'oients, Genera hipòtesis, Els Grups de Recerca, Línia de temps
 
 ---
 
@@ -1063,7 +1063,7 @@ Com usar-la per avaluar: es valora tant la qualitat del procés documentat com l
 
 **Adequada per a:** Planificació, procés, resultats, avaluació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), M'agrada, no m'agrada, Projectes d'aprenentatge servei (APS o ABS), Disseny Universal per a l'Aprenentatge (DUA / UDL)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), M'agrada, no m'agrada, Projectes d'aprenentatge servei (APS o ABS), Disseny Universal per a l'Aprenentatge (DUA / UDL), Aprenentatge maker / STEAM
 
 ---
 
@@ -1084,7 +1084,7 @@ Com usar-lo per avaluar: es valora la claredat dels objectius, el realisme dels 
 
 **Adequada per a:** Planificació, organització, responsabilitat.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Contracte d'aprenentatge, Pensament de disseny (Design Thinking), Els Grups de Recerca, Projectes d'aprenentatge servei (APS o ABS), Disseny per a la comprensió (Understanding by Design, UbD), Equips d'ajuda mútua / TAI (Team Assisted Individualization)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Contracte d'aprenentatge, Pensament de disseny (Design Thinking), Els Grups de Recerca, Projectes d'aprenentatge servei (APS o ABS), Disseny per a la comprensió (Understanding by Design, UbD), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Aprenentatge personalitzat amb itineraris (playlists)
 
 ---
 
@@ -1147,7 +1147,7 @@ Com usar-la per avaluar: es valora la profunditat de la reflexió, la capacitat 
 
 **Adequada per a:** Metacognició, dificultats, propostes.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge experiencial, Contracte d'aprenentatge, Diari d'aprenentatge, El semàfor, Escala de metacognició
+**Tècniques actives que l'utilitzen:** Aprenentatge experiencial, Contracte d'aprenentatge, Diari d'aprenentatge, El semàfor, Escala de metacognició, Interrogació elaborativa, Autoexplicació, Posar-se al lloc (Step Inside), El joc de l’explicació (The Explanation Game), Inicis de preguntes (Question Starts), Bastida i zona de desenvolupament proper (ZDP)
 
 ---
 
@@ -1168,7 +1168,7 @@ Com usar-lo per avaluar: es valora l'honestedat, la profunditat, la capacitat d'
 
 **Adequada per a:** Autoregulació, argumentació sobre el propi treball.
 
-**Tècniques actives que l'utilitzen:** Contracte d'aprenentatge, Diari d'aprenentatge, Genera hipòtesis, La caixa, Disseny Universal per a l'Aprenentatge (DUA / UDL)
+**Tècniques actives que l'utilitzen:** Contracte d'aprenentatge, Diari d'aprenentatge, Genera hipòtesis, La caixa, Disseny Universal per a l'Aprenentatge (DUA / UDL), Autoexplicació
 
 ---
 
@@ -1189,7 +1189,7 @@ Com usar-la per avaluar: es valora el procés complet (comprensió del problema,
 
 **Adequada per a:** Raonament, transferència, aplicació.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Situació problema, TGT (Torneig de Jocs per Equips), Un per a tots, Avaluació autèntica, Les dues columnes, El joc de la NASA, Ludificació (gamificació), Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Situació problema, TGT (Torneig de Jocs per Equips), Un per a tots, Avaluació autèntica, Les dues columnes, El joc de la NASA, Ludificació (gamificació), Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Exemples concrets, Pensament computacional, Diagrama d’espina de peix (Ishikawa)
 
 ---
 
@@ -1273,7 +1273,7 @@ Com usar-la per avaluar: els distractors han de ser plausibles però clarament i
 
 **Adequada per a:** Conceptes, comprensió, repàs.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Pensament de disseny (Design Thinking), Genera hipòtesis, Genera solucions, Els Grups de Recerca, Paraula, idea, frase, RoundRobin, STAD (Student Teams Achievement Divisions), Prediu, observa, explica (POE)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Pensament de disseny (Design Thinking), Genera hipòtesis, Genera solucions, Els Grups de Recerca, Paraula, idea, frase, RoundRobin, STAD (Student Teams Achievement Divisions), Prediu, observa, explica (POE), Preguntes frontissa (hinge questions), Duel de respostes (Showdown)
 
 ---
 
@@ -1399,7 +1399,7 @@ Estalvia temps de correcció, permet una retroalimentació immediata i facilita 
 
 **Adequada per a:** Diagnòstic, repàs, comprovació.
 
-**Tècniques actives que l'utilitzen:** Cadena de Preguntes, Digital storytelling (relats digitals), La brúixola (punts cardinals), Paraula, idea, frase, Rellotge de cites
+**Tècniques actives que l'utilitzen:** Cadena de Preguntes, Digital storytelling (relats digitals), La brúixola (punts cardinals), Paraula, idea, frase, Rellotge de cites, Preguntes frontissa (hinge questions), Resposta de tothom alhora
 
 ---
 
@@ -1420,7 +1420,7 @@ Desenvolupa la competència comunicativa visual, la capacitat de síntesi i la c
 
 **Adequada per a:** Síntesi, comunicació, disseny, rigor.
 
-**Tècniques actives que l'utilitzen:** Disseny Universal per a l'Aprenentatge (DUA / UDL)
+**Tècniques actives que l'utilitzen:** Doble codificació (dual coding), Disseny Universal per a l'Aprenentatge (DUA / UDL)
 
 ---
 
@@ -1462,7 +1462,7 @@ Com usar-la per avaluar: convé valorar per separat el disseny de la presentaci�
 
 **Adequada per a:** Estructura, claredat, suport visual.
 
-**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Genera hipòtesis, Graffiti Cooperatiu, Paraula, idea, frase, RallyRobin
+**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Genera hipòtesis, Graffiti Cooperatiu, Paraula, idea, frase, RallyRobin, WebQuest
 
 ---
 
@@ -1567,7 +1567,7 @@ Com usar-la per avaluar: es valoren la fidelitat al referent representat, la qua
 
 **Adequada per a:** Representació, disseny, rigor, comunicació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge per descobriment
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge per descobriment, Aprenentatge maker / STEAM
 
 ---
 
@@ -1588,7 +1588,7 @@ Desenvolupa la competència digital i el pensament espacial. És especialment ad
 
 **Adequada per a:** Modelització, precisió, explicació.
 
-**Tècniques actives que l'utilitzen:** Aplica els coneixements, Aprenentatge experiencial, El foli giratori, Paraula, idea, frase, RallyRobin
+**Tècniques actives que l'utilitzen:** Aplica els coneixements, Aprenentatge experiencial, El foli giratori, Paraula, idea, frase, RallyRobin, Pensament computacional
 
 ---
 
@@ -1609,7 +1609,7 @@ Com usar-lo per avaluar: es valora la funcionalitat (compleix la seva funció?),
 
 **Adequada per a:** Disseny, funcionalitat, millora, creativitat.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Pensament de disseny (Design Thinking)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Pensament de disseny (Design Thinking), Aprenentatge maker / STEAM, Pensament computacional
 
 ---
 
@@ -1630,7 +1630,7 @@ Desenvolupa la competència digital, la comunicació multimodal i la comprensió
 
 **Adequada per a:** Organització, usabilitat, contingut, disseny.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Graffiti Cooperatiu, Paraula, idea, frase, RallyRobin, Rellotge de cites
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Graffiti Cooperatiu, Paraula, idea, frase, RallyRobin, Rellotge de cites, WebQuest
 
 ---
 
@@ -1651,7 +1651,7 @@ Com usar-la per avaluar: es valora l'adequació al destinatari, la precisió del
 
 **Adequada per a:** Comunicació, reflexió, rigor, audiència.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Veig, penso, em pregunto
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Veig, penso, em pregunto, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -1672,7 +1672,7 @@ Permet la participació d'alumnes que no intervenen fàcilment en debats presenc
 
 **Adequada per a:** Argumentació, participació, resposta als iguals.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en problemes (ABP), Cercle de punts de vista, Controvèrsia acadèmica, Rellotge de cites
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en problemes (ABP), Cercle de punts de vista, Controvèrsia acadèmica, Rellotge de cites, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -1693,7 +1693,7 @@ Com usar-lo per avaluar: l'historial de revisions permet veure la contribució i
 
 **Adequada per a:** Contribució, revisió, contingut, cooperació.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Rellotge de cites
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Rellotge de cites, Conversa escrita en silenci (Chalk Talk), Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -1777,7 +1777,7 @@ Com usar-la per avaluar: no té funció qualificadora en si mateixa, però perme
 
 **Adequada per a:** Idees prèvies, interessos, associacions.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Cercle de punts de vista, Graffiti Cooperatiu, Penso, m'interessa, investigo, RallyRobin, RoundRobin
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Cercle de punts de vista, Graffiti Cooperatiu, Penso, m'interessa, investigo, RallyRobin, RoundRobin, Conversa escrita en silenci (Chalk Talk), Inicis de preguntes (Question Starts)
 
 ---
 
@@ -1840,7 +1840,7 @@ Fa visible el procés d'aprenentatge, que d'altra manera només es coneix pel pr
 
 **Adequada per a:** Procés, organització, reflexió, decisions.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Escala de metacognició, Flipped Classroom (Aula invertida), Projectes d'aprenentatge servei (APS o ABS)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Escala de metacognició, Flipped Classroom (Aula invertida), Projectes d'aprenentatge servei (APS o ABS), Hora del geni (Genius Hour)
 
 ---
 
@@ -1903,7 +1903,7 @@ Permet regular el ritme de l'ensenyament en temps real a partir d'evidències d'
 
 **Adequada per a:** Comprensió, dubtes, necessitat d'ajuda.
 
-**Tècniques actives que l'utilitzen:** El model 5E, El semàfor, Escala de metacognició, Flipped Classroom (Aula invertida), KWL (Sé, Vull saber, He après), Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Parada de tres minuts, Peer Instruction (Instrucció entre iguals), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), Tiquet de sortida (exit ticket)
+**Tècniques actives que l'utilitzen:** El model 5E, El semàfor, Escala de metacognició, Flipped Classroom (Aula invertida), KWL (Sé, Vull saber, He après), Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Parada de tres minuts, Peer Instruction (Instrucció entre iguals), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), Tiquet de sortida (exit ticket), Resposta de tothom alhora
 
 ---
 
@@ -1966,7 +1966,7 @@ Com usar-la per avaluar: es vincula cada part de la tasca amb criteris concrets 
 
 **Adequada per a:** Competències, transferència, integració de sabers.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals), Alineament constructiu
 
 ---
 
@@ -2183,7 +2183,7 @@ Com usar-la: es dissenya una taula on les files són els criteris (p. ex., 'estr
 
 **Limitacions:** Requereix temps de disseny i bons descriptors.
 
-**Tècniques actives que l'utilitzen:** Taxonomia SOLO, Avaluació autèntica, Rúbrica d’avaluació, Revisió entre iguals (peer review)
+**Tècniques actives que l'utilitzen:** Taxonomia SOLO, Avaluació autèntica, Rúbrica d’avaluació, Revisió entre iguals (peer review), Pensament computacional, Diagrama d’espina de peix (Ishikawa), Diagrama de Venn
 
 ---
 
@@ -2233,7 +2233,7 @@ Com usar-la: els criteris inclouen aspectes com 'defineix objectius clars a l'in
 
 **Limitacions:** Requereix seguiment continuat.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS), Aprenentatge maker / STEAM, Hora del geni (Genius Hour), Marc ICAP
 
 ---
 
@@ -2258,7 +2258,7 @@ Es complementa amb la rúbrica de procés en projectes extensos. Usada sola, pot
 
 **Limitacions:** Pot deixar fora el procés si s'usa sola.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Doble codificació (dual coding), Projectes d'aprenentatge servei (APS o ABS), WebQuest, Aprenentatge maker / STEAM, Mapa mental, Línia de temps
 
 ---
 
@@ -2283,7 +2283,7 @@ Compartir-la abans de l'actuació permet a l'alumnat preparar-se amb més orient
 
 **Limitacions:** Pot ser difícil registrar-ho tot en directe.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals), Filosofia per a Infants (P4C), Debat acadèmic, Posar-se al lloc (Step Inside), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -2308,7 +2308,7 @@ Com usar-la: la pot aplicar el docent mitjançant l'observació, el propi alumne
 
 **Limitacions:** Requereix evidències de participació real.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals, Ventall i tria (Fan-N-Pick)
 
 ---
 
@@ -2333,7 +2333,7 @@ Com usar-la: els criteris reflecteixen els elements clau de la competència (p. 
 
 **Limitacions:** Cal formular indicadors observables.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals), Alineament constructiu
 
 ---
 
@@ -2358,7 +2358,7 @@ Com usar-la: s'elabora una llista d'indicadors concrets i observables (p. ex., '
 
 **Limitacions:** No valora bé la qualitat ni els matisos.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera solucions, Projectes d'aprenentatge servei (APS o ABS), Un per a tots, Revisió entre iguals (peer review)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera solucions, Projectes d'aprenentatge servei (APS o ABS), Un per a tots, Revisió entre iguals (peer review), Inicis de preguntes (Question Starts)
 
 ---
 
@@ -2383,7 +2383,7 @@ Com usar-la: es defineixen els indicadors que s'observaran i s'escull una escala
 
 **Limitacions:** Pot ser ambigua sense descriptors clars.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en problemes (ABP), Controvèrsia acadèmica, El Sac de Dubtes
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en problemes (ABP), Controvèrsia acadèmica, El Sac de Dubtes, Interrogació elaborativa, El joc de l’explicació (The Explanation Game), Conversa escrita en silenci (Chalk Talk), Bastida i zona de desenvolupament proper (ZDP), Marc ICAP
 
 ---
 
@@ -2408,7 +2408,7 @@ Adequada quan el docent té prou experiència per aplicar criteris implícitamen
 
 **Limitacions:** Menys precisa que una rúbrica completa.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en problemes (ABP), Controvèrsia acadèmica, El Sac de Dubtes
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en problemes (ABP), Controvèrsia acadèmica, El Sac de Dubtes, Debat acadèmic
 
 ---
 
@@ -2458,7 +2458,7 @@ Augmenta la consistència de la correcció entre diverses correccions del mateix
 
 **Limitacions:** Menys adequada per a tasques molt obertes si no s'adapta.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en problemes (ABP), Els Grups de Recerca, Paraula, idea, frase
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en problemes (ABP), Els Grups de Recerca, Paraula, idea, frase, Exemples concrets
 
 ---
 
@@ -2658,7 +2658,7 @@ Permetre donar retroalimentació objectiva sobre la participació, detectar qui 
 
 **Limitacions:** No s'ha de confondre la quantitat amb la qualitat.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Controvèrsia acadèmica, El Sac de Dubtes, Escala de metacognició, Flipped Classroom (Aula invertida)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Controvèrsia acadèmica, El Sac de Dubtes, Escala de metacognició, Flipped Classroom (Aula invertida), Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Filosofia per a Infants (P4C), Conversa escrita en silenci (Chalk Talk), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up)
 
 ---
 
@@ -2683,7 +2683,7 @@ Com usar-lo: es pot combinar amb l'observació directa del docent, l'autoavaluac
 
 **Limitacions:** Necessita observació o evidències complementàries.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Controvèrsia acadèmica, El Sac de Dubtes, Escala de metacognició, Flipped Classroom (Aula invertida)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Controvèrsia acadèmica, El Sac de Dubtes, Escala de metacognició, Flipped Classroom (Aula invertida), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -2783,7 +2783,7 @@ Com usar-la: es dissenya amb els criteris en files i els nivells en columnes. Ca
 
 **Limitacions:** Pot ser complexa per a l'alumnat.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Contracte d'aprenentatge, Diari d'aprenentatge, La caixa, Projectes d'aprenentatge servei (APS o ABS)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Contracte d'aprenentatge, Diari d'aprenentatge, La caixa, Projectes d'aprenentatge servei (APS o ABS), Alineament constructiu
 
 ---
 
@@ -2883,7 +2883,7 @@ Adequat per al seguiment formatiu ràpid, la comunicació a les famílies i l'au
 
 **Limitacions:** Poca precisió.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge experiencial, Aprenentatge per descobriment, Flipped Classroom (Aula invertida), La caixa
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge experiencial, Aprenentatge per descobriment, Flipped Classroom (Aula invertida), La caixa, Preguntes frontissa (hinge questions), Resposta de tothom alhora
 
 ---
 
@@ -2908,7 +2908,7 @@ El seu valor és principalment metacognitiu: obliga l'alumne a reflexionar sobre
 
 **Limitacions:** Pot haver-hi biaix si no hi ha criteris.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Portfolio (dossier d'aprenentatge), Repartir punts, Rúbrica d’avaluació
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Portfolio (dossier d'aprenentatge), Repartir punts, Rúbrica d’avaluació, Autoexplicació
 
 ---
 
@@ -3308,7 +3308,7 @@ Reduceix el temps de correcció, facilita la coherència entre correccions i per
 
 **Limitacions:** Pot dependre de la plataforma.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Escala de metacognició, La caixa, RallyRobin
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Escala de metacognició, La caixa, RallyRobin, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -3358,7 +3358,7 @@ Afavoreix la transparència, l'autoregulació i la motivació. En versions digit
 
 **Limitacions:** S'ha d'interpretar amb cautela.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Escala de metacognició, La caixa, RallyRobin
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Escala de metacognició, La caixa, RallyRobin, Aprenentatge personalitzat amb itineraris (playlists)
 
 ---
 
@@ -3383,7 +3383,7 @@ Són especialment útils per identificar tendències grupals i individuals de ma
 
 **Limitacions:** No equival directament a aprenentatge.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Paraula, idea, frase, RallyRobin, Rellotge de cites
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), Paraula, idea, frase, RallyRobin, Rellotge de cites, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -3458,7 +3458,7 @@ Com usar-la: es defineixen nivells clars i es revisa periòdicament on es troba 
 
 **Limitacions:** Requereix revisar periòdicament evidències comparables.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Controvèrsia acadèmica, Escala de metacognició
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), CO-OP CO-OP, Controvèrsia acadèmica, Escala de metacognició, Aprenentatge personalitzat amb itineraris (playlists), Bastida i zona de desenvolupament proper (ZDP)
 
 ---
 
@@ -3638,7 +3638,7 @@ El seu valor principal és metacognitiu: obliga l'alumnat a reflexionar sobre el
 
 **Funció pedagògica:** Afavorir la metacognició, l'autonomia i l'autoregulació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Portfolio (dossier d'aprenentatge), Repartir punts, Rúbrica d’avaluació
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en reptes (ABR), Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Portfolio (dossier d'aprenentatge), Repartir punts, Rúbrica d’avaluació, Autoexplicació, Hora del geni (Genius Hour)
 
 ---
 
@@ -3665,7 +3665,7 @@ La seva funció principal és formativa: els comentaris dels companys, combinats
 
 **Funció pedagògica:** Millorar treballs, comprendre criteris i aprendre entre iguals.
 
-**Tècniques actives que l'utilitzen:** CO-OP CO-OP, Diana d'avaluació, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Intercanviar dificultats, Repartir punts, Rúbrica d’avaluació, Revisió entre iguals (peer review), Dues estrelles i un desig
+**Tècniques actives que l'utilitzen:** CO-OP CO-OP, Diana d'avaluació, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Intercanviar dificultats, Repartir punts, Rúbrica d’avaluació, Revisió entre iguals (peer review), Dues estrelles i un desig, Ventall i tria (Fan-N-Pick), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -3692,7 +3692,7 @@ No ha de ser l'única forma d'avaluació: combinar-la amb autoavaluació i coava
 
 **Funció pedagògica:** Valorar aprenentatges amb criteris professionals o institucionals.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, Digital storytelling (relats digitals), El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equips d'oients, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Joc de rol, La taula rodona, Els Grups de Recerca, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Projectes d'aprenentatge servei (APS o ABS), Repartir punts, Seminari socràtic, STAD (Student Teams Achievement Divisions), TGT (Torneig de Jocs per Equips), Tiquet de sortida (exit ticket), Un per a tots, World Café, Disseny per a la comprensió (Understanding by Design, UbD), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Tutoria entre iguals (Peer Tutoring), Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, Digital storytelling (relats digitals), El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equips d'oients, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Joc de rol, La taula rodona, Els Grups de Recerca, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Projectes d'aprenentatge servei (APS o ABS), Repartir punts, Seminari socràtic, STAD (Student Teams Achievement Divisions), TGT (Torneig de Jocs per Equips), Tiquet de sortida (exit ticket), Un per a tots, World Café, Disseny per a la comprensió (Understanding by Design, UbD), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Tutoria entre iguals (Peer Tutoring), Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Filosofia per a Infants (P4C), Debat acadèmic
 
 ---
 
@@ -3719,7 +3719,7 @@ Una bona avaluació diagnòstica permet al docent partir d'on és l'alumnat, no 
 
 **Funció pedagògica:** Detectar coneixements previs, interessos i necessitats.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes  (ABPC), Cadena de Preguntes, Controvèrsia acadèmica, El foli giratori, El model 5E, Equips d'oients, Flipped Classroom (Aula invertida), KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), El que sé i el que sabem, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Parelles de discussió, Pensava... ara penso, Penso, m'interessa, investigo, Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), Rellotge de cites, Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, Veig, penso, em pregunto, Prediu, observa, explica (POE), Concept Cartoon, Pràctica de recuperació, Pràctica espaiada, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Tècnica de formulació de preguntes (QFT)
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes  (ABPC), Cadena de Preguntes, Controvèrsia acadèmica, El foli giratori, El model 5E, Equips d'oients, Flipped Classroom (Aula invertida), KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), El que sé i el que sabem, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Parelles de discussió, Pensava... ara penso, Penso, m'interessa, investigo, Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), Rellotge de cites, Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, Veig, penso, em pregunto, Prediu, observa, explica (POE), Concept Cartoon, Pràctica de recuperació, Pràctica espaiada, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Tècnica de formulació de preguntes (QFT), Interrogació elaborativa, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Inicis de preguntes (Question Starts)
 
 ---
 
@@ -3746,7 +3746,7 @@ L'avaluació formativa requereix temps i planificació, però és la que té mé
 
 **Funció pedagògica:** Regular l'ensenyament i l'aprenentatge mitjançant retroalimentació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Doble codificació (dual coding), Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Interrogació elaborativa, Exemples concrets, Autoexplicació, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Filosofia per a Infants (P4C), Posar-se al lloc (Step Inside), El joc de l’explicació (The Explanation Game), Conversa escrita en silenci (Chalk Talk), Inicis de preguntes (Question Starts), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview), Aprenentatge personalitzat amb itineraris (playlists), Mapa mental, Diagrama d’espina de peix (Ishikawa), Línia de temps, Diagrama de Venn, Bastida i zona de desenvolupament proper (ZDP), Alineament constructiu, Marc ICAP, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -3800,7 +3800,7 @@ L'avaluació competencial implica avaluar de forma integrada diversos sabers i c
 
 **Funció pedagògica:** Avaluar aplicació, transferència i integració.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), El model 5E, Escala de metacognició, Estacions d'aprenentatge, Taxonomia SOLO, Les 4C de l'aprenentatge, Equips d'ajuda mútua / TAI (Team Assisted Individualization), Pràctica intercalada
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), El model 5E, Escala de metacognició, Estacions d'aprenentatge, Taxonomia SOLO, Les 4C de l'aprenentatge, Equips d'ajuda mútua / TAI (Team Assisted Individualization), Pràctica intercalada, Debat acadèmic, WebQuest, Aprenentatge maker / STEAM, Pensament computacional, Hora del geni (Genius Hour), Alineament constructiu
 
 ---
 
@@ -3827,7 +3827,7 @@ Com aplicar-la: el docent observa mentre l'alumnat realitza la tasca (laboratori
 
 **Funció pedagògica:** Avaluar actuació, presa de decisions i aplicació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, CO-OP CO-OP, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), El Trencaclosques ("Jigsaw"), Equips d'oients, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Joc de rol, La taula rodona, Els Grups de Recerca, Peer Instruction (Instrucció entre iguals), Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), World Café, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Controvèrsia estructurada amb evidències, Pensament en veu alta
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, CO-OP CO-OP, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), El Trencaclosques ("Jigsaw"), Equips d'oients, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Joc de rol, La taula rodona, Els Grups de Recerca, Peer Instruction (Instrucció entre iguals), Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), World Café, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Controvèrsia estructurada amb evidències, Pensament en veu alta, Aprenentatge maker / STEAM, Mapa mental, Marc ICAP
 
 ---
 
@@ -3854,7 +3854,7 @@ Permete avaluar de forma integrada múltiples competències i criteris alhora, i
 
 **Funció pedagògica:** Avaluar planificació, recerca, creació i comunicació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Contracte d'aprenentatge, Digital storytelling (relats digitals), Graffiti Cooperatiu, Els Grups de Recerca, Projectes d'aprenentatge servei (APS o ABS), Les 4C de l'aprenentatge, Grup nominal, Rols cooperatius, Revisió entre iguals (peer review), Hàbits mentals
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Contracte d'aprenentatge, Digital storytelling (relats digitals), Graffiti Cooperatiu, Els Grups de Recerca, Projectes d'aprenentatge servei (APS o ABS), Les 4C de l'aprenentatge, Grup nominal, Rols cooperatius, Revisió entre iguals (peer review), Hàbits mentals, Aprenentatge maker / STEAM, Hora del geni (Genius Hour)
 
 ---
 
@@ -3881,7 +3881,7 @@ Com aplicar-la: s'avalua no només el resultat (si la hipòtesi era correcta o i
 
 **Funció pedagògica:** Avaluar pensament científic, recerca i anàlisi.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, CO-OP CO-OP, Contracte d'aprenentatge, El model 5E, Genera hipòtesis, Els Grups de Recerca, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Veig, penso, em pregunto, Coneixement tecnològic, pedagògic i del contingut (TPACK), Disseny Universal per a l'Aprenentatge (DUA / UDL), Centres d'interès (enfocament de Decroly), Indagació guiada per l'argumentació (ADI), Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Connecta, amplia, desafia, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Hàbits mentals
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, CO-OP CO-OP, Contracte d'aprenentatge, El model 5E, Genera hipòtesis, Els Grups de Recerca, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Veig, penso, em pregunto, Coneixement tecnològic, pedagògic i del contingut (TPACK), Disseny Universal per a l'Aprenentatge (DUA / UDL), Centres d'interès (enfocament de Decroly), Indagació guiada per l'argumentació (ADI), Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Connecta, amplia, desafia, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Hàbits mentals, WebQuest
 
 ---
 
@@ -3908,7 +3908,7 @@ Adequada en matemàtiques, física, química, tecnologia, economia i qualsevol �
 
 **Funció pedagògica:** Avaluar raonament i transferència.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, Diari d'aprenentatge, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els 5 per què, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Revisa les conseqüències, Seminari socràtic, Situació problema, TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Un per a tots, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Avaluació autèntica, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Hàbits mentals, Teoria de la càrrega cognitiva
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, Diari d'aprenentatge, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els 5 per què, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Revisa les conseqüències, Seminari socràtic, Situació problema, TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Un per a tots, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Avaluació autèntica, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Hàbits mentals, Teoria de la càrrega cognitiva, Pensament computacional, Diagrama d’espina de peix (Ishikawa)
 
 ---
 
@@ -3989,7 +3989,7 @@ Les evidències digitals permeten avaluar la competència digital de forma autè
 
 **Funció pedagògica:** Valorar competència digital, producció i participació en línia.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Digital storytelling (relats digitals), Flipped Classroom (Aula invertida), Portfolio (dossier d'aprenentatge), Projectes d'aprenentatge servei (APS o ABS), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Ludificació (gamificació)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Digital storytelling (relats digitals), Flipped Classroom (Aula invertida), Portfolio (dossier d'aprenentatge), Projectes d'aprenentatge servei (APS o ABS), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Ludificació (gamificació), WebQuest, Pensament computacional, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -4014,7 +4014,7 @@ Com aplicar-la: es parteix dels criteris d'avaluació i es concreten en indicado
 
 **Funció pedagògica:** Alinear evidències, criteris d'avaluació, indicadors i decisions de qualificació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Contracte d'aprenentatge, Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS), Disseny per a la comprensió (Understanding by Design, UbD), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Rúbrica d’avaluació, Revisió entre iguals (peer review), Dues estrelles i un desig, Aprenentatge de domini
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Contracte d'aprenentatge, Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS), Disseny per a la comprensió (Understanding by Design, UbD), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Rúbrica d’avaluació, Revisió entre iguals (peer review), Dues estrelles i un desig, Aprenentatge de domini, Alineament constructiu
 
 ---
 
@@ -4039,7 +4039,7 @@ La seva finalitat és augmentar la validesa de l'avaluació: que el resultat ref
 
 **Funció pedagògica:** Reduir barreres i oferir diverses formes de demostrar l'aprenentatge.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Analitza i sintetitza, Aprenentatge basat en casos (ABC), Aprenentatge basat en l'acció (ABA), Aprenentatge experiencial, Cercle de punts de vista, CO-OP CO-OP, Diari d'aprenentatge, El Trencaclosques ("Jigsaw"), El semàfor, Equip-parella-individual, Estacions d'aprenentatge, Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, El que sé i el que sabem, Els quatre savis, Mapa conceptual a quatre bandes, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Peer Instruction (Instrucció entre iguals), Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, RallyRobin, Repartir punts, RoundRobin, Situació problema, STAD (Student Teams Achievement Divisions), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Veig, penso, em pregunto, Disseny Universal per a l'Aprenentatge (DUA / UDL), Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), El joc de la NASA, Co-docència (Co-teaching), Ludificació (gamificació), Rols cooperatius, Exemples resolts, Alliberament gradual de la responsabilitat, Pensament en veu alta, Teoria de la càrrega cognitiva
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Analitza i sintetitza, Aprenentatge basat en casos (ABC), Aprenentatge basat en l'acció (ABA), Aprenentatge experiencial, Cercle de punts de vista, CO-OP CO-OP, Diari d'aprenentatge, El Trencaclosques ("Jigsaw"), El semàfor, Equip-parella-individual, Estacions d'aprenentatge, Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Doble codificació (dual coding), El que sé i el que sabem, Els quatre savis, Mapa conceptual a quatre bandes, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Peer Instruction (Instrucció entre iguals), Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, RallyRobin, Repartir punts, RoundRobin, Situació problema, STAD (Student Teams Achievement Divisions), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Veig, penso, em pregunto, Disseny Universal per a l'Aprenentatge (DUA / UDL), Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), El joc de la NASA, Co-docència (Co-teaching), Ludificació (gamificació), Rols cooperatius, Exemples resolts, Alliberament gradual de la responsabilitat, Pensament en veu alta, Teoria de la càrrega cognitiva, Aprenentatge personalitzat amb itineraris (playlists), Bastida i zona de desenvolupament proper (ZDP)
 
 ---
 
@@ -4064,7 +4064,7 @@ Ben usada, permet que l'avaluació formi part de l'aprenentatge i no sigui nomé
 
 **Funció pedagògica:** Seguir el progrés, detectar necessitats i ajustar l'ensenyament de forma sostinguda.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Aprenentatge personalitzat amb itineraris (playlists)
 
 ---
 
@@ -4139,7 +4139,7 @@ Com aplicar-la: es poden consensuar indicadors, usar contractes de grup, revisar
 
 **Funció pedagògica:** Augmentar la comprensió de criteris, la responsabilitat i l'autoregulació.
 
-**Tècniques actives que l'utilitzen:** CO-OP CO-OP, Contracte d'aprenentatge, Diana d'avaluació, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Intercanviar dificultats, La taula rodona, Portfolio (dossier d'aprenentatge), Repartir punts, Avaluació autèntica, Les 4C de l'aprenentatge, Rúbrica d’avaluació, Revisió entre iguals (peer review), Dues estrelles i un desig
+**Tècniques actives que l'utilitzen:** CO-OP CO-OP, Contracte d'aprenentatge, Diana d'avaluació, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Intercanviar dificultats, La taula rodona, Portfolio (dossier d'aprenentatge), Repartir punts, Avaluació autèntica, Les 4C de l'aprenentatge, Rúbrica d’avaluació, Revisió entre iguals (peer review), Dues estrelles i un desig, Debat acadèmic, Conversa escrita en silenci (Chalk Talk), Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -4166,7 +4166,7 @@ Com aplicar-la: es dissenyen tasques o reptes amb regles clares, criteris d'asso
 
 **Funció pedagògica:** Augmentar la motivació i la implicació, i obtenir retroalimentació immediata sobre l'aprenentatge.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), El joc de les paraules, Joc de rol, Quiz-Quiz-Trade (Intercanvi de targetes), TGT (Torneig de Jocs per Equips), El joc de la NASA, Ludificació (gamificació)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), El joc de les paraules, Joc de rol, Quiz-Quiz-Trade (Intercanvi de targetes), TGT (Torneig de Jocs per Equips), El joc de la NASA, Ludificació (gamificació), Duel de respostes (Showdown)
 
 ---
 

@@ -25,7 +25,8 @@
       "metac_099",
       "metac_125",
       "metac_131",
-      "metac_133"
+      "metac_133",
+      "metac_164"
     ],
     "eval_ids": [
       "HER_DIARIO_PROF",
@@ -160,7 +161,10 @@
       "metac_097",
       "metac_132",
       "metac_146",
-      "metac_151"
+      "metac_151",
+      "metac_176",
+      "metac_178",
+      "metac_179"
     ],
     "eval_ids": [
       "DIM_FEED",
@@ -363,7 +367,8 @@
       "metac_125",
       "metac_126",
       "metac_127",
-      "metac_131"
+      "metac_131",
+      "metac_171"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -464,7 +469,8 @@
       "metac_008",
       "metac_011",
       "metac_062",
-      "metac_126"
+      "metac_126",
+      "metac_171"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -520,7 +526,8 @@
       "metac_008",
       "metac_010",
       "metac_016",
-      "metac_034"
+      "metac_034",
+      "metac_172"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -575,7 +582,8 @@
       "metac_075",
       "metac_078",
       "metac_079",
-      "metac_149"
+      "metac_149",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -638,7 +646,9 @@
       "metac_014",
       "metac_015",
       "metac_062",
-      "metac_091"
+      "metac_091",
+      "metac_173",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -735,7 +745,10 @@
       "metac_031",
       "metac_080",
       "metac_106",
-      "metac_111"
+      "metac_111",
+      "metac_171",
+      "metac_172",
+      "metac_174"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -845,7 +858,9 @@
       "metac_009",
       "metac_013",
       "metac_027",
-      "metac_080"
+      "metac_080",
+      "metac_172",
+      "metac_174"
     ],
     "eval_ids": [
       "DIM_AUTO",
@@ -1021,7 +1036,8 @@
     "related": [
       "metac_070",
       "metac_079",
-      "metac_082"
+      "metac_082",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -1069,7 +1085,9 @@
     "related": [
       "metac_024",
       "metac_050",
-      "metac_087"
+      "metac_087",
+      "metac_161",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -1219,7 +1237,9 @@
       "metac_004",
       "metac_028",
       "metac_113",
-      "metac_132"
+      "metac_132",
+      "metac_155",
+      "metac_179"
     ],
     "eval_ids": [
       "DIM_FEED",
@@ -1260,7 +1280,9 @@
       "metac_030",
       "metac_077",
       "metac_107",
-      "metac_144"
+      "metac_144",
+      "metac_174",
+      "metac_175"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -1325,7 +1347,8 @@
       "metac_128",
       "metac_134",
       "metac_136",
-      "metac_147"
+      "metac_147",
+      "metac_162"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -1398,7 +1421,8 @@
       "metac_003",
       "metac_072",
       "metac_083",
-      "metac_095"
+      "metac_095",
+      "metac_169"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -1443,6 +1467,7 @@
     ],
     "block": "Metodologies actives",
     "related": [
+      "metac_047",
       "metac_069",
       "metac_097",
       "metac_100"
@@ -1490,7 +1515,8 @@
       "metac_015",
       "metac_046",
       "metac_064",
-      "metac_111"
+      "metac_111",
+      "metac_172"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -1573,7 +1599,10 @@
       "metac_022",
       "metac_060",
       "metac_064",
-      "metac_103"
+      "metac_103",
+      "metac_173",
+      "metac_178",
+      "metac_179"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -1781,7 +1810,8 @@
       "metac_033",
       "metac_048",
       "metac_088",
-      "metac_148"
+      "metac_148",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -2044,7 +2074,9 @@
       "metac_051",
       "metac_066",
       "metac_067",
-      "metac_096"
+      "metac_096",
+      "metac_157",
+      "metac_158"
     ],
     "eval_ids": [
       "DIM_AUTO",
@@ -2177,7 +2209,8 @@
       "metac_074",
       "metac_081",
       "metac_145",
-      "metac_152"
+      "metac_152",
+      "metac_156"
     ],
     "eval_ids": [
       "DIM_AUTO",
@@ -2244,7 +2277,8 @@
       "metac_110",
       "metac_116",
       "metac_119",
-      "metac_120"
+      "metac_120",
+      "metac_175"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -2293,7 +2327,9 @@
       "metac_093",
       "metac_128",
       "metac_134",
-      "metac_136"
+      "metac_136",
+      "metac_161",
+      "metac_162"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -2344,7 +2380,10 @@
     "related": [
       "metac_041",
       "metac_073",
-      "metac_096"
+      "metac_096",
+      "metac_171",
+      "metac_175",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -2414,7 +2453,8 @@
       "metac_048",
       "metac_100",
       "metac_101",
-      "metac_129"
+      "metac_129",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_COEV",
@@ -2537,7 +2577,9 @@
       "metac_005",
       "metac_027",
       "metac_064",
-      "metac_091"
+      "metac_091",
+      "metac_173",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -2555,6 +2597,42 @@
       "TEC_PROC_REFLEX",
       "TEC_PRUEBA",
       "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_047",
+    "name": "Doble codificació (dual coding)",
+    "summary": "Estratègia basada en la ciència cognitiva que combina la informació verbal amb representacions visuals (esquemes, diagrames, icones) perquè l’alumnat processi el contingut per dues vies complementàries. Millora la comprensió i la retenció en crear més connexions a la memòria.",
+    "desc": "La doble codificació parteix de la idea que la ment processa la informació verbal i la visual mitjançant sistemes diferents però connectats. Quan un mateix contingut es presenta alhora amb paraules i amb imatges que el representen, l’alumnat disposa de dues rutes per recuperar-lo després, cosa que millora la comprensió i la memòria a llarg termini.\n\nNo es tracta d’afegir imatges decoratives, sinó d’utilitzar representacions visuals que expliquin la idea: diagrames, línies de temps, esquemes de flux, icones, mapes o dibuixos que el mateix alumnat genera mentre estudia.\n\n## Com s’aplica\n\n1. Identifica la idea o procés clau que vols que l’alumnat comprengui i recordi.\n2. Presenta aquesta idea amb paraules (explicació, text breu) i, en paral·lel, amb una representació visual que en mostri l’estructura o les relacions.\n3. Demana a l’alumnat que reelabori el contingut transformant-lo d’un format a un altre: que converteixi un text en un esquema, o que expliqui amb paraules un diagrama.\n4. Evita la sobrecàrrega: la imatge i el text s’han de referir al mateix i estar pròxims, no competir per l’atenció.\n5. En el repàs, fes que recuperin primer la imatge mental i després la verbalitzin, o a l’inrevés.\n\n## Exemple\n\nEn estudiar el cicle de l’aigua, en lloc de llegir només un paràgraf, l’alumnat dibuixa un diagrama amb fletxes (evaporació, condensació, precipitació) i etiqueta cada fase amb una frase pròpia. Després tapa el text i explica el cicle mirant només el dibuix, i tot seguit tapa el dibuix i el descriu amb paraules. Les dues vies es reforcen mútuament.",
+    "tags": [
+      "ciència cognitiva",
+      "memòria",
+      "representació visual",
+      "comprensió",
+      "estudi"
+    ],
+    "fields": [
+      "Processament i Anàlisi de la informació",
+      "Comunicació i Creativitat",
+      "Construcció de coneixement"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_026",
+      "metac_100",
+      "metac_153",
+      "metac_176"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_INCL",
+      "HER_RUB_PROD",
+      "INS_ESQUEMA",
+      "INS_INFOG",
+      "INS_MAP_CONC",
+      "INS_MAP_MENT",
+      "TEC_PROD"
     ]
   },
   {
@@ -2590,7 +2668,8 @@
       "metac_044",
       "metac_088",
       "metac_101",
-      "metac_112"
+      "metac_112",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -2688,7 +2767,8 @@
     "related": [
       "metac_006",
       "metac_019",
-      "metac_087"
+      "metac_087",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -2796,7 +2876,8 @@
       "metac_065",
       "metac_086",
       "metac_112",
-      "metac_113"
+      "metac_113",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -2893,7 +2974,8 @@
       "metac_002",
       "metac_021",
       "metac_084",
-      "metac_089"
+      "metac_089",
+      "metac_170"
     ],
     "eval_ids": [
       "HER_RUB_COOP",
@@ -3135,7 +3217,11 @@
     "related": [
       "metac_028",
       "metac_078",
-      "metac_086"
+      "metac_086",
+      "metac_154",
+      "metac_156",
+      "metac_164",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3264,7 +3350,8 @@
       "metac_033",
       "metac_100",
       "metac_132",
-      "metac_146"
+      "metac_146",
+      "metac_176"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -3302,7 +3389,9 @@
       "metac_046",
       "metac_086",
       "metac_113",
-      "metac_117"
+      "metac_117",
+      "metac_173",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -3465,7 +3554,10 @@
       "metac_056",
       "metac_073",
       "metac_092",
-      "metac_098"
+      "metac_098",
+      "metac_159",
+      "metac_167",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3588,7 +3680,8 @@
       "metac_018",
       "metac_036",
       "metac_039",
-      "metac_066"
+      "metac_066",
+      "metac_160"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3678,7 +3771,8 @@
     "related": [
       "metac_025",
       "metac_084",
-      "metac_095"
+      "metac_095",
+      "metac_170"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -3724,7 +3818,10 @@
       "metac_095",
       "metac_096",
       "metac_137",
-      "metac_139"
+      "metac_139",
+      "metac_157",
+      "metac_158",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3815,7 +3912,8 @@
       "metac_099",
       "metac_133",
       "metac_145",
-      "metac_149"
+      "metac_149",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -3954,7 +4052,10 @@
       "metac_060",
       "metac_079",
       "metac_135",
-      "metac_149"
+      "metac_149",
+      "metac_154",
+      "metac_160",
+      "metac_164"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -4004,7 +4105,8 @@
       "metac_039",
       "metac_078",
       "metac_135",
-      "metac_149"
+      "metac_149",
+      "metac_159"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4050,7 +4152,8 @@
     "related": [
       "metac_009",
       "metac_014",
-      "metac_015"
+      "metac_015",
+      "metac_174"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4168,7 +4271,10 @@
       "metac_018",
       "metac_084",
       "metac_094",
-      "metac_121"
+      "metac_121",
+      "metac_158",
+      "metac_167",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4210,7 +4316,8 @@
     "related": [
       "metac_025",
       "metac_088",
-      "metac_112"
+      "metac_112",
+      "metac_169"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4275,7 +4382,9 @@
     "related": [
       "metac_054",
       "metac_072",
-      "metac_082"
+      "metac_082",
+      "metac_169",
+      "metac_170"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -4415,7 +4524,8 @@
     "related": [
       "metac_019",
       "metac_050",
-      "metac_100"
+      "metac_100",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -4453,7 +4563,8 @@
       "metac_032",
       "metac_048",
       "metac_083",
-      "metac_112"
+      "metac_112",
+      "metac_167"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4502,7 +4613,8 @@
       "metac_021",
       "metac_053",
       "metac_054",
-      "metac_065"
+      "metac_065",
+      "metac_178"
     ],
     "eval_ids": [
       "HER_RUB_COOP",
@@ -4547,7 +4659,10 @@
       "metac_134",
       "metac_135",
       "metac_136",
-      "metac_147"
+      "metac_147",
+      "metac_161",
+      "metac_162",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -4631,7 +4746,8 @@
       "metac_085",
       "metac_094",
       "metac_098",
-      "metac_115"
+      "metac_115",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -4673,7 +4789,8 @@
       "metac_042",
       "metac_055",
       "metac_112",
-      "metac_123"
+      "metac_123",
+      "metac_167"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -4719,7 +4836,8 @@
       "metac_007",
       "metac_082",
       "metac_092",
-      "metac_121"
+      "metac_121",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -4763,7 +4881,10 @@
       "metac_059",
       "metac_071",
       "metac_072",
-      "metac_073"
+      "metac_073",
+      "metac_160",
+      "metac_169",
+      "metac_170"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -4812,7 +4933,8 @@
       "metac_067",
       "metac_073",
       "metac_130",
-      "metac_137"
+      "metac_137",
+      "metac_157"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4948,7 +5070,8 @@
       "metac_075",
       "metac_127",
       "metac_131",
-      "metac_133"
+      "metac_133",
+      "metac_164"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -4991,10 +5114,12 @@
       "metac_026",
       "metac_031",
       "metac_044",
+      "metac_047",
       "metac_063",
       "metac_087",
       "metac_132",
-      "metac_146"
+      "metac_146",
+      "metac_176"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -5032,7 +5157,8 @@
       "metac_044",
       "metac_048",
       "metac_111",
-      "metac_112"
+      "metac_112",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -5073,7 +5199,8 @@
       "metac_105",
       "metac_106",
       "metac_144",
-      "metac_153"
+      "metac_153",
+      "metac_181"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -5163,7 +5290,9 @@
     "related": [
       "metac_103",
       "metac_107",
-      "metac_122"
+      "metac_122",
+      "metac_181",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -5206,7 +5335,9 @@
     "related": [
       "metac_102",
       "metac_103",
-      "metac_122"
+      "metac_122",
+      "metac_181",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -5247,7 +5378,8 @@
       "metac_014",
       "metac_077",
       "metac_102",
-      "metac_122"
+      "metac_122",
+      "metac_181"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -5296,7 +5428,8 @@
       "metac_122",
       "metac_130",
       "metac_141",
-      "metac_152"
+      "metac_152",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -5587,7 +5720,8 @@
       "metac_120",
       "metac_140",
       "metac_142",
-      "metac_143"
+      "metac_143",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -6033,7 +6167,9 @@
       "metac_128",
       "metac_129",
       "metac_134",
-      "metac_135"
+      "metac_135",
+      "metac_161",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -6302,7 +6438,8 @@
       "metac_126",
       "metac_130",
       "metac_136",
-      "metac_148"
+      "metac_148",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_COEV",
@@ -6468,7 +6605,9 @@
       "metac_069",
       "metac_100",
       "metac_103",
-      "metac_146"
+      "metac_146",
+      "metac_155",
+      "metac_179"
     ],
     "eval_ids": [
       "INS_EXPO",
@@ -6645,7 +6784,8 @@
       "metac_128",
       "metac_129",
       "metac_134",
-      "metac_147"
+      "metac_147",
+      "metac_162"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -6693,7 +6833,8 @@
       "metac_096",
       "metac_138",
       "metac_139",
-      "metac_150"
+      "metac_150",
+      "metac_154"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -6814,7 +6955,8 @@
       "metac_142",
       "metac_143",
       "metac_144",
-      "metac_153"
+      "metac_153",
+      "metac_155"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -6848,7 +6990,8 @@
       "metac_107",
       "metac_115",
       "metac_122",
-      "metac_138"
+      "metac_138",
+      "metac_175"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -6890,7 +7033,8 @@
       "metac_114",
       "metac_140",
       "metac_143",
-      "metac_153"
+      "metac_153",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -6924,7 +7068,9 @@
       "metac_114",
       "metac_135",
       "metac_140",
-      "metac_142"
+      "metac_142",
+      "metac_156",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -6960,7 +7106,8 @@
       "metac_023",
       "metac_102",
       "metac_122",
-      "metac_140"
+      "metac_140",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -7147,7 +7294,8 @@
       "metac_012",
       "metac_075",
       "metac_078",
-      "metac_079"
+      "metac_079",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -7296,11 +7444,13 @@
     "programs": [],
     "block": "Marcs educatius",
     "related": [
+      "metac_047",
       "metac_102",
       "metac_138",
       "metac_139",
       "metac_140",
-      "metac_142"
+      "metac_142",
+      "metac_155"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -7309,6 +7459,1065 @@
       "INS_POSTER",
       "TEC_ANAL_DOC",
       "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_154",
+    "name": "Interrogació elaborativa",
+    "summary": "Estratègia d’aprenentatge en què l’alumnat es pregunta i respon «per què és així?» o «com s’explica això?» sobre els fets que estudia, connectant-los amb el que ja sap. Afavoreix la comprensió profunda davant de la memorització superficial.",
+    "desc": "La interrogació elaborativa consisteix a generar i respondre preguntes del tipus «per què?» i «com?» sobre la informació que s’està aprenent, en lloc de limitar-se a llegir-la o repetir-la. En obligar a buscar explicacions i relacionar la dada nova amb coneixements previs, la informació s’integra de manera més sòlida i es recorda millor.\n\nÉs especialment útil amb continguts formats per fets que poden semblar arbitraris però que tenen una causa o una lògica subjacent.\n\n## Com s’aplica\n\n1. Presenta una afirmació o un fet del contingut (per exemple, una característica, una relació causa-efecte, una regla).\n2. Demana a l’alumnat que formuli la pregunta «per què és això així?» o «per què té sentit?».\n3. L’alumnat intenta respondre amb una explicació, recorrent al que ja sap i al material disponible.\n4. Contrasta les explicacions: es valida la correcta, es matisen les incompletes i es corregeixen les errònies.\n5. Es repeteix el procés amb els fets següents, encadenant explicacions.\n\n## Exemple\n\nEn ciències naturals, davant l’afirmació «els animals del desert solen ser d’hàbits nocturns», l’alumnat no la memoritza sense més, sinó que respon a «per què?»: perquè de dia les temperatures són extremes i sortir de nit redueix la pèrdua d’aigua i el risc de sobreescalfament. En elaborar la causa, la dada deixa de ser arbitrària i es recorda amb facilitat.",
+    "tags": [
+      "elaboració",
+      "preguntes per què",
+      "comprensió profunda",
+      "ciència cognitiva",
+      "metacognició"
+    ],
+    "fields": [
+      "Processament i Anàlisi de la informació",
+      "Pensament Crític i Metacognició",
+      "Construcció de coneixement"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_060",
+      "metac_078",
+      "metac_137",
+      "metac_156"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "INS_F_REFLEX",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_155",
+    "name": "Exemples concrets",
+    "summary": "Estratègia que il·lustra les idees abstractes amb exemples específics, quotidians i variats perquè l’alumnat entengui el concepte i sàpiga reconèixer-lo en situacions noves. Connecta el nou amb experiències reals i redueix l’abstracció excessiva.",
+    "desc": "Les idees abstractes es comprenen i es recorden millor quan s’ancoren en exemples concrets i pròxims. Aquesta estratègia consisteix a acompanyar cada concepte amb diversos exemples específics i, a la inversa, demanar a l’alumnat que generi els seus propis exemples, cosa que revela si ho ha entès de debò.\n\nUtilitzar exemples variats (no només un) ajuda a abstreure l’essencial del concepte i a transferir-lo a contextos diferents, evitant que l’aprenentatge quedi enganxat a un únic cas.\n\n## Com s’aplica\n\n1. Explica el concepte abstracte de manera clara i breu.\n2. Ofereix dos o tres exemples concrets i diversos que l’il·lustrin, assenyalant què tenen en comú.\n3. Inclou, si convé, un contraexemple (alguna cosa que sembla encaixar però no ho fa) per delimitar el concepte.\n4. Demana a l’alumnat que aporti els seus propis exemples a partir de la seva experiència.\n5. Comprova la qualitat d’aquests exemples: si són correctes, el concepte s’ha comprès; si no, s’aclareix.\n\n## Exemple\n\nEn ensenyar el concepte d’«inflació», en lloc de quedar-se en la definició, el docent mostra exemples concrets: el preu del pa que puja cada any, l’entrada de cinema que costava menys fa una dècada, el bitllet d’autobús. Després demana a cada alumne un exemple propi de la seva vida quotidiana. Comparar diversos casos ajuda a captar la idea comuna de pèrdua de poder adquisitiu.",
+    "tags": [
+      "ciència cognitiva",
+      "abstracció",
+      "transferència",
+      "comprensió",
+      "exemples"
+    ],
+    "fields": [
+      "Construcció de coneixement",
+      "Processament i Anàlisi de la informació",
+      "Comunicació i Creativitat"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_022",
+      "metac_132",
+      "metac_140",
+      "metac_153"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_GUIA_CORR",
+      "INS_PROB",
+      "INS_TRAB_IND",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_156",
+    "name": "Autoexplicació",
+    "summary": "Estratègia metacognitiva en què l’alumnat s’explica a si mateix, en veu alta o per escrit, què significa el que estudia i per què cada pas és correcte. Fa aflorar llacunes, integra el coneixement i millora la comprensió i la transferència.",
+    "desc": "L’autoexplicació consisteix que l’alumnat verbalitzi per a si mateix el sentit del que llegeix o resol: per què un pas porta al següent, com es connecta una idea amb una altra o quin principi justifica una solució. En fer-ho explícit, detecta el que no entén i construeix una representació més coherent del contingut.\n\nA diferència de rellegir (passiva), l’autoexplicació és una activitat generativa: l’alumnat produeix el raonament, no només el rep.\n\n## Com s’aplica\n\n1. Mentre l’alumnat llegeix un text o estudia un exemple resolt, li demanes que s’aturi en punts clau.\n2. En cada punt s’autoexplica: «això significa que…», «aquest pas es fa perquè…», «això es relaciona amb…».\n3. Es pot fer en veu alta, per escrit o en parelles (un explica, l’altre escolta i pregunta).\n4. Quan no aconsegueix explicar alguna cosa, ha localitzat una llacuna: torna al material per resoldre-la.\n5. El docent modela primer l’autoexplicació en veu alta perquè l’alumnat vegi com es fa.\n\n## Exemple\n\nEn estudiar un problema de física ja resolt, l’alumne no es limita a llegir la solució: en cada línia es pregunta i es respon per què s’aplica aquesta fórmula i d’on surt cada valor. En arribar a un pas que no sap justificar, s’adona que no entenia la conservació de l’energia i torna sobre aquest concepte abans de continuar.",
+    "tags": [
+      "metacognició",
+      "autoexplicació",
+      "ciència cognitiva",
+      "comprensió",
+      "autoregulació"
+    ],
+    "fields": [
+      "Pensament Crític i Metacognició",
+      "Construcció de coneixement",
+      "Processament i Anàlisi de la informació"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_040",
+      "metac_060",
+      "metac_143",
+      "metac_154"
+    ],
+    "eval_ids": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "HER_ESC_AUTO",
+      "INS_AUTOINF",
+      "INS_F_REFLEX",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX"
+    ]
+  },
+  {
+    "id": "metac_157",
+    "name": "Preguntes frontissa (hinge questions)",
+    "summary": "Pregunta diagnòstica d’opció múltiple, situada en un punt clau de la classe, la resposta de la qual revela en segons si el grup ha comprès un concepte. Segons el resultat, el docent decideix avançar, reexplicar o reagrupar.",
+    "desc": "Una pregunta frontissa és una pregunta dissenyada amb cura que es planteja en un moment «frontissa» de la sessió: el punt en què continuar depèn de si l’alumnat ha comprès l’anterior. És de resposta ràpida (normalment opció múltiple) i tot el grup respon alhora, de manera que el docent obté en menys d’un minut una imatge del nivell de comprensió de tota la classe.\n\nLa clau és el disseny: les opcions incorrectes han de correspondre a errors o concepcions equivocades freqüents, perquè la resposta triada informi del tipus de fallada, no només de si s’encerta o no.\n\n## Com s’aplica\n\n1. Identifica el concepte la comprensió del qual és imprescindible abans de continuar.\n2. Redacta una pregunta d’opció múltiple amb distractors que reflecteixin errors típics; ha de poder respondre’s en menys d’un minut i ser difícil d’encertar per atzar.\n3. Tota la classe respon alhora (targetes, dits, mini-pissarres o eina digital).\n4. Llegeix el patró de respostes: si la majoria encerta, avances; si predomina un error, l’abordes; si hi ha dispersió, reagrupes o reexpliques.\n5. Aprofita els distractors triats per fer aflorar i discutir el raonament equivocat.\n\n## Exemple\n\nDesprés d’explicar l’àrea del triangle, el docent projecta: «Quina és l’àrea d’un triangle de base 6 i altura 4? a) 24, b) 12, c) 10, d) 20». El distractor «24» revela qui oblida dividir entre dos. Tothom mostra la seva resposta alhora amb una targeta. Si molts trien «24», el docent sap a l’instant que ha de reforçar el «entre dos» abans de continuar.",
+    "tags": [
+      "avaluació formativa",
+      "diagnòstic",
+      "opció múltiple",
+      "presa de decisions",
+      "Dylan Wiliam"
+    ],
+    "fields": [
+      "Avaluació Formativa i Feedback",
+      "Pensament Crític i Metacognició",
+      "Activació de coneixements previs"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_037",
+      "metac_073",
+      "metac_096",
+      "metac_158"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_SEMAFORO",
+      "INS_CUEST_DIG",
+      "INS_TEST",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_158",
+    "name": "Resposta de tothom alhora",
+    "summary": "Sistema de resposta simultània de tota la classe (mini-pissarres, targetes ABCD, polzes o eina digital) davant una pregunta del docent. Substitueix el «aixecar la mà» d’uns pocs i dóna informació instantània sobre el grup sencer.",
+    "desc": "Quan només responen els qui aixequen la mà, el docent obté informació de tres o quatre alumnes, normalment els qui ja ho entenen. Els sistemes de resposta de tothom alhora fan que cada alumne respongui simultàniament i de manera visible, de manera que el docent «llegeix la sala» d’un cop d’ull i ningú no pot desconnectar.\n\nEls suports habituals són les mini-pissarres individuals (escriuen i mostren), les targetes A/B/C/D, els polzes amunt/avall o les eines digitals de votació.\n\n## Com s’aplica\n\n1. Planteja una pregunta clara que admeti una resposta breu o una opció tancada.\n2. Dóna uns segons de pensament perquè tothom prepari la resposta.\n3. A un senyal, tot el grup mostra la seva resposta alhora (pissarra, targeta, dits o pantalla).\n4. Observa la distribució de respostes i actua en conseqüència: confirmar, corregir un error comú o demanar que algú ho justifiqui.\n5. Repeteix sovint per mantenir la participació universal i el pols de la comprensió.\n\n## Exemple\n\nDurant una classe de llengua sobre tipus d’oració, el docent dicta una frase i demana: «simple o composta? A la de tres, mostreu la targeta». Tots els alumnes aixequen alhora la seva targeta A (simple) o B (composta). El docent veu de seguida que un terç s’equivoca amb un cas concret i l’aclareix abans de continuar, en lloc de descobrir-ho a l’examen.",
+    "tags": [
+      "avaluació formativa",
+      "participació",
+      "mini-pissarres",
+      "targetes ABCD",
+      "resposta simultània"
+    ],
+    "fields": [
+      "Avaluació Formativa i Feedback",
+      "Activació de coneixements previs",
+      "Pensament Crític i Metacognició"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_037",
+      "metac_073",
+      "metac_082",
+      "metac_157",
+      "metac_159"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_SEMAFORO",
+      "INS_CUEST_DIG",
+      "INS_SEMAF",
+      "TEC_OBS_SIS",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_159",
+    "name": "Preguntar sense mans aixecades (cold calling)",
+    "summary": "Tècnica de gestió de la participació en què el docent formula la pregunta a tota la classe i després tria qui respon, en lloc de demanar voluntaris. Manté tot l’alumnat pensant i distribueix la participació de manera equitativa.",
+    "desc": "Demanar voluntaris concentra la participació en uns pocs i permet que la resta es desconnecti. Amb el «cold calling» o «preguntar sense mans aixecades», el docent llança la pregunta a tothom, deixa temps de pensament i després anomena qui ha de respondre. Com que qualsevol pot ser triat, tot l’alumnat manté l’atenció i prepara una resposta.\n\nNo és un interrogatori per enxampar: es combina amb temps d’espera, un clima segur i la possibilitat de recolzar-se en un company, de manera que sigui una invitació a pensar i no una amenaça.\n\n## Com s’aplica\n\n1. Formula primer la pregunta a tota la classe, sense dir encara qui respondrà.\n2. Dóna uns segons de temps de pensament (idealment, que tothom esbossi una resposta mental o escrita).\n3. Anomena després una persona concreta, triant de manera variada i deliberada per repartir la participació.\n4. Acull la resposta sense penalitzar l’error; si la persona es bloqueja, ofereix suport, reformula o hi tornes després d’escoltar-ne una altra.\n5. Encadena diverses respostes per construir entre tots la idea completa.\n\n## Exemple\n\nEn lloc de «qui sap què va causar la Primera Guerra Mundial?» (responen sempre els mateixos), el docent diu: «Penseu trenta segons en una de les causes… Maria, comença tu». Com que ningú no sap qui cridarà, tothom prepara una resposta. Després encadena: «Gràcies, Maria; Lluís, pots afegir una altra causa?». La participació es reparteix i tothom continua implicat.",
+    "tags": [
+      "avaluació formativa",
+      "participació",
+      "gestió d’aula",
+      "equitat",
+      "preguntes"
+    ],
+    "fields": [
+      "Avaluació Formativa i Feedback",
+      "Comunicació i Creativitat",
+      "Pensament Crític i Metacognició"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_068",
+      "metac_079",
+      "metac_158",
+      "metac_160"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_REG_PART",
+      "INS_PART",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_160",
+    "name": "Temps d’espera (wait time)",
+    "summary": "Pràctica que consisteix a deixar uns segons de silenci després de formular una pregunta i també després de la resposta de l’alumne, abans de reaccionar. Augmenta la quantitat i la qualitat de les respostes i dóna espai per pensar a tot el grup.",
+    "desc": "El «temps d’espera» és la pausa deliberada que el docent manté després de fer una pregunta (abans que algú respongui) i després que un alumne respongui (abans de comentar o repreguntar). La recerca mostra que n’hi ha prou d’ampliar aquesta pausa a uns tres a cinc segons perquè les respostes siguin més llargues, més raonades i hi participi més alumnat.\n\nEl silenci incomoda al principi, però és precisament el que permet que el pensament passi; sense ell, només responen els més ràpids o impulsius.\n\n## Com s’aplica\n\n1. Després de formular la pregunta, compta mentalment uns segons abans d’acceptar respostes (temps d’espera 1).\n2. Resisteix la temptació de trencar el silenci reformulant o responent tu mateix.\n3. Quan un alumne acaba de respondre, espera de nou uns segons abans de valorar o repreguntar (temps d’espera 2): sovint el mateix alumne amplia o matisa.\n4. Acompanya l’espera amb senyals que pensar està bé («pren-te el teu temps», sense pressió).\n5. Combina’l amb preguntar sense mans aixecades perquè tothom faci servir aquest temps.\n\n## Exemple\n\nUn docent de filosofia pregunta «quina diferència hi ha entre saber i creure?» i, en lloc d’acceptar la primera mà alçada al segon, espera cinc segons en silenci. En aquest temps diversos alumnes que no solien intervenir elaboren una idea. Després de la primera resposta, espera de nou: l’alumne, sense pressió, afegeix un matís que enriqueix el debat.",
+    "tags": [
+      "avaluació formativa",
+      "temps d’espera",
+      "preguntes",
+      "participació",
+      "gestió d’aula"
+    ],
+    "fields": [
+      "Avaluació Formativa i Feedback",
+      "Pensament Crític i Metacognició",
+      "Comunicació i Creativitat"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_070",
+      "metac_078",
+      "metac_095",
+      "metac_159"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_REG_PART",
+      "INS_PART",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_161",
+    "name": "Filosofia per a Infants (P4C)",
+    "summary": "Enfocament en què el grup es constitueix en «comunitat d’indagació» per dialogar de manera rigorosa sobre preguntes filosòfiques que sorgeixen d’un estímul (un conte, una imatge, un dilema). Desenvolupa el pensament crític, creatiu i acurat, i l’escolta.",
+    "desc": "Filosofia per a Infants (Philosophy for Children, P4C), creat per Matthew Lipman, proposa convertir l’aula en una comunitat d’indagació: un grup que pensa en comú, dialoga amb raons i es qüestiona a si mateix. A partir d’un estímul (un relat, una imatge, un objecte o un dilema), el mateix alumnat formula les preguntes que li interessen i en tria una per investigar-la col·lectivament mitjançant el diàleg.\n\nNo busca arribar a una resposta única ni que el docent transmeti continguts, sinó desenvolupar un pensament de més qualitat: crític (amb raons), creatiu (amb idees noves) i acurat (atent als altres). El docent actua com a facilitador, no com a expert que corregeix.\n\n## Com s’aplica\n\n1. Es crea un clima de comunitat: el grup s’asseu en cercle per veure’s i escoltar-se.\n2. Es presenta un estímul compartit (conte, imatge, vídeo, dilema) i es dóna un temps per pensar.\n3. L’alumnat formula preguntes que li suscita l’estímul; es recullen a la vista de tothom.\n4. El grup tria, per consens o votació, la pregunta que vol investigar.\n5. Es dialoga guiats pel facilitador, que no dóna respostes però demana raons, exemples, contraexemples i connexions («per què?», «hi estàs d’acord?», «en què et bases?»).\n6. Es tanca amb una metacognició: què hem pensat, com ha canviat la nostra idea, què queda obert.\n\n## Exemple\n\nDesprés de llegir un conte en què un personatge menteix per protegir un amic, l’alumnat formula preguntes i tria investigar «està bé mentir alguna vegada?». En cercle, uns defensen que mentir sempre és dolent i altres aporten casos en què sembla justificat. El facilitador demana raons i contraexemples. Al final, ningú no ha «guanyat», però tothom ha afinat els seus arguments i ha après a escoltar i a matisar.",
+    "tags": [
+      "pensament crític",
+      "diàleg",
+      "comunitat d’indagació",
+      "filosofia",
+      "Lipman"
+    ],
+    "fields": [
+      "Pensament Crític i Metacognició",
+      "Comunicació i Creativitat",
+      "Cohesió i Cooperació"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_019",
+      "metac_042",
+      "metac_090",
+      "metac_124"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_HET",
+      "HER_REG_PART",
+      "HER_RUB_ORAL",
+      "INS_ASAM",
+      "INS_COLOQ",
+      "INS_DEBATE",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_162",
+    "name": "Debat acadèmic",
+    "summary": "Confrontació oral estructurada en què dos equips defensen postures oposades sobre una moció, amb torns reglats d’exposició, refutació i conclusió. Desenvolupa l’argumentació, la cerca d’evidències, l’escolta activa i l’expressió oral.",
+    "desc": "El debat acadèmic és una activitat formal en què dos equips assumeixen postures contràries (a favor i en contra) sobre una afirmació o moció, i les defensen seguint unes regles de torns i temps. A diferència d’una discussió lliure, la seva estructura obliga a preparar arguments sòlids, anticipar els del rival i respondre amb evidències, no amb opinions.\n\nUn tret formatiu important és que l’equip no sempre defensa el que pensa: en assignar-se les postures, l’alumnat ha de documentar i argumentar també posicions que no comparteix, cosa que desenvolupa l’empatia intel·lectual i el pensament crític.\n\n## Com s’aplica\n\n1. Es formula una moció clara i debatible (per exemple, «els mòbils s’haurien de prohibir als centres»).\n2. Es formen dos equips i se’ls assigna la postura a favor o en contra (no necessàriament la pròpia).\n3. Cada equip investiga i prepara arguments, evidències i possibles refutacions.\n4. Es desenvolupa el debat per torns cronometrats: exposició inicial, torns de refutació i conclusions.\n5. Un moderador controla els temps i un jurat (o la resta de la classe, amb una rúbrica) valora la qualitat argumentativa, no només «qui convenç més».\n6. Es tanca amb una reflexió conjunta sobre els millors arguments de tots dos costats.\n\n## Exemple\n\nEn una classe de secundària, la moció és «la intel·ligència artificial hauria de corregir els exàmens». Un equip defensa la postura a favor i un altre la contrària, assignades per sorteig. Cadascun aporta dades i exemples, refuta el contrari i conclou. La classe valora amb una rúbrica la solidesa dels arguments i el respecte dels torns, i després es discuteix quines raons han resultat més convincents.",
+    "tags": [
+      "debat",
+      "argumentació",
+      "expressió oral",
+      "evidències",
+      "pensament crític"
+    ],
+    "fields": [
+      "Comunicació i Creativitat",
+      "Pensament Crític i Metacognició",
+      "Processament i Anàlisi de la informació",
+      "Cohesió i Cooperació"
+    ],
+    "programs": [],
+    "block": "Organització de l’aprenentatge cooperatiu",
+    "related": [
+      "metac_024",
+      "metac_042",
+      "metac_090",
+      "metac_136"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_COMPART",
+      "DIM_HET",
+      "HER_ESC_VAL",
+      "HER_RUB_ORAL",
+      "INS_DEBATE",
+      "INS_EXPO",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_163",
+    "name": "Posar-se al lloc (Step Inside)",
+    "summary": "Rutina de pensament de Project Zero per prendre perspectiva: l’alumnat es fica en la pell d’una persona, personatge o objecte i respon què percep, què sap o creu i què li importa. Desenvolupa l’empatia i la comprensió de punts de vista diferents.",
+    "desc": "«Posar-se al lloc» (Step Inside) és una rutina de pensament que ajuda a explorar una situació des del punt de vista d’un altre: una persona, un personatge històric o literari, un col·lectiu o fins i tot un objecte. En adoptar aquesta perspectiva, l’alumnat comprèn que tota situació es veu de manera diferent segons qui la miri, i desenvolupa empatia i profunditat d’anàlisi.\n\nLa rutina es recolza en tres preguntes que l’alumnat respon «des de dins» de l’agent triat:\n\n## Com s’aplica\n\n1. Selecciona una situació, imatge, text o esdeveniment ric en perspectives.\n2. Cada alumne (o grup) tria o rep un agent des del qual mirar (persona, personatge, objecte).\n3. Respon, en primera persona, a tres preguntes: Què percebo o noto des d’aquí? Què sé, crec o penso? Què m’importa o què desitjo?\n4. Es comparteixen les diferents perspectives i es contrasten: on coincideixen, on xoquen i per què.\n5. Es reflexiona sobre com canvia la comprensió de la situació en haver-la mirat «des de dins» d’un altre.\n\n## Exemple\n\nDavant d’un quadre que representa una escena quotidiana del segle XIX, diferents alumnes es posen al lloc de la nena que hi apareix, del comerciant del fons i fins i tot del gos. Cadascun descriu què percep, què pensa i què li importa des d’aquesta posició. En posar-les en comú, la classe descobreix tensions i matisos de l’escena que no es veien des d’una única mirada.",
+    "tags": [
+      "rutina de pensament",
+      "perspectiva",
+      "empatia",
+      "Project Zero",
+      "punts de vista"
+    ],
+    "fields": [
+      "Rutines de pensament",
+      "Pensament Crític i Metacognició",
+      "Comunicació i Creativitat"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_019",
+      "metac_050",
+      "metac_052",
+      "metac_087"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_RUB_ORAL",
+      "INS_DRAMA",
+      "INS_F_REFLEX",
+      "INS_ROL",
+      "TEC_ORAL",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_164",
+    "name": "El joc de l’explicació (The Explanation Game)",
+    "summary": "Rutina de pensament que parteix d’identificar un detall cridaner d’un objecte o situació i preguntar repetidament «per què és així?» per construir explicacions. Fomenta la curiositat, la causalitat i el raonament basat en evidències.",
+    "desc": "«El joc de l’explicació» (The Explanation Game) és una rutina de Project Zero centrada a explicar el perquè de les coses. Comença fixant-se en algun tret o detall d’un objecte, imatge o fenomen i, a partir d’aquí, encadena preguntes «per què és així?» que porten a proposar explicacions cada cop més fonamentades.\n\nÉs especialment útil per activar la curiositat i per passar de la mera observació a la cerca de causes i mecanismes.\n\n## Com s’aplica\n\n1. Presenta un objecte, imatge o fenomen i demana a l’alumnat que s’hi fixi: «Què observes? Quin detall et crida l’atenció?».\n2. Sobre aquest detall, planteja: «Per què és així? Per què creus que passa això?».\n3. L’alumnat proposa una explicació possible (una hipòtesi).\n4. S’aprofundeix: «Què et fa pensar això? Quina altra explicació hi podria haver?».\n5. Es contrasten explicacions alternatives i es valoren segons les evidències disponibles.\n\n## Exemple\n\nEn ciències, el docent mostra una fulla amb les vores enrotllades i pregunta quin detall crida l’atenció. Un alumne assenyala les vores seques. «Per què creus que s’han enrotllat així?» Sorgeixen explicacions: falta d’aigua, excés de sol, una plaga. El grup les contrasta i decideix quines evidències servirien per confirmar-les, convertint una simple observació en una petita indagació.",
+    "tags": [
+      "rutina de pensament",
+      "explicació",
+      "causalitat",
+      "Project Zero",
+      "curiositat"
+    ],
+    "fields": [
+      "Rutines de pensament",
+      "Pensament Crític i Metacognició",
+      "Processament i Anàlisi de la informació"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_001",
+      "metac_060",
+      "metac_078",
+      "metac_099"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "INS_F_REFLEX",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_165",
+    "name": "Conversa escrita en silenci (Chalk Talk)",
+    "summary": "Rutina de pensament en què el grup dialoga per escrit i en silenci sobre una pregunta escrita en una superfície comuna: cadascú aporta idees, connecta amb les dels altres i planteja noves preguntes, sense parlar. Fa visible el pensament col·lectiu.",
+    "desc": "«Conversa escrita en silenci» (Chalk Talk) és una rutina de Project Zero per conversar sense paraules parlades. En una pissarra, mural o document compartit s’escriu una pregunta o tema central i l’alumnat respon per escrit, en silenci, afegint idees, comentant el que han escrit altres, connectant aportacions amb línies i formulant noves preguntes.\n\nEl silenci iguala la participació (també intervenen els qui no solen parlar), dóna temps per pensar i deixa un registre visible de tot el procés de pensament del grup.\n\n## Com s’aplica\n\n1. Escriu al centre d’una superfície àmplia una pregunta oberta o un tema.\n2. Explica l’única regla: es conversa només per escrit, sense parlar.\n3. L’alumnat s’hi acosta i escriu idees, respon al que veu, traça línies per connectar aportacions i afegeix preguntes.\n4. El docent pot participar també per escrit, llançant preguntes que facin aprofundir.\n5. Al final es trenca el silenci: s’observa el mural en conjunt, s’identifiquen patrons, acords i tensions, i es comenta en veu alta.\n\n## Exemple\n\nA tutoria, al centre d’un paper continu s’escriu «Què fa que un grup funcioni bé?». Sense parlar, l’alumnat va escrivint idees (respecte, escolta, repartir tasques), reaccionant a les dels altres i unint-les amb fletxes. En acabar, el mural mostra d’un cop d’ull les idees dominants i les discrepàncies, que serveixen de base per a un debat posterior.",
+    "tags": [
+      "rutina de pensament",
+      "conversa escrita",
+      "Project Zero",
+      "participació",
+      "pensament col·lectiu"
+    ],
+    "fields": [
+      "Rutines de pensament",
+      "Comunicació i Creativitat",
+      "Cohesió i Cooperació"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_032",
+      "metac_044",
+      "metac_048",
+      "metac_101"
+    ],
+    "eval_ids": [
+      "DIM_COMPART",
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "HER_REG_PART",
+      "INS_DOC_COL",
+      "INS_LLUVIA",
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_166",
+    "name": "Inicis de preguntes (Question Starts)",
+    "summary": "Rutina de pensament per generar preguntes: a partir d’un tema, l’alumnat crea moltes preguntes utilitzant arrencades com «per què…?», «què passaria si…?», «com…?». Estimula la curiositat i ensenya a formular bones preguntes, no només a respondre-les.",
+    "desc": "«Inicis de preguntes» (Question Starts) és una rutina de Project Zero que inverteix la dinàmica habitual de l’aula: en lloc de respondre preguntes, l’alumnat les genera. Per fer-ho se li ofereix una llista d’arrencades («Per què…?», «Què passaria si…?», «Com seria si…?», «Quin és el propòsit de…?», «Què canviaria si…?») que ajuden a produir preguntes de diferent tipus i profunditat sobre un tema.\n\nFormular preguntes activa l’interès, fa aflorar el que ja se sap i el que es vol esbrinar, i desenvolupa una habilitat clau del pensament crític: saber què preguntar.\n\n## Com s’aplica\n\n1. Presenta un tema, objecte o situació que s’hagi d’estudiar.\n2. Mostra una llista d’arrencades de pregunta variades.\n3. L’alumnat, individualment o en grup, genera el màxim nombre possible de preguntes utilitzant aquests inicis (pluja de preguntes, sense respondre-les encara).\n4. Es revisen les preguntes: s’identifiquen les més interessants o potents i es distingeix entre preguntes tancades i obertes.\n5. Es trien algunes preguntes per investigar-les o s’utilitzen per guiar l’estudi del tema.\n\n## Exemple\n\nAbans de començar un tema sobre l’aigua, l’alumnat usa les arrencades per generar preguntes: «Per què l’aigua del mar és salada?», «Què passaria si no plogués durant un any?», «Com arriba l’aigua fins a l’aixeta?». Després seleccionen les que més els intriguen i es converteixen en el fil conductor de la unitat, donant-los protagonisme en el que aprendran.",
+    "tags": [
+      "rutina de pensament",
+      "formular preguntes",
+      "curiositat",
+      "Project Zero",
+      "indagació"
+    ],
+    "fields": [
+      "Rutines de pensament",
+      "Activació de coneixements previs",
+      "Pensament Crític i Metacognició"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_012",
+      "metac_018",
+      "metac_075",
+      "metac_149"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_LISTA",
+      "INS_F_REFLEX",
+      "INS_LLUVIA",
+      "TEC_PROD",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_167",
+    "name": "Ventall i tria (Fan-N-Pick)",
+    "summary": "Estructura cooperativa Kagan per repassar continguts en equips de quatre amb targetes de preguntes. Cada membre assumeix per torns un rol diferent (sostenir les targetes, llegir, respondre, avaluar), garantint la participació equitativa de tothom.",
+    "desc": "«Ventall i tria» (Fan-N-Pick) és una estructura cooperativa de Spencer Kagan per repassar o practicar continguts en equips de quatre mitjançant un joc de targetes amb preguntes. El seu valor és la rotació de rols: en cada ronda cada membre fa una funció diferent, de manera que tots participen per igual i ningú no queda al marge.\n\nGaranteix la interacció simultània i la responsabilitat individual, dos principis clau de l’aprenentatge cooperatiu ben estructurat.\n\n## Com s’aplica\n\n1. Cada equip de quatre rep un joc de targetes amb preguntes (amb la resposta al dors o coneguda pel grup).\n2. L’alumne 1 sosté les targetes en ventall, de cara avall, i diu: «Tria’n una».\n3. L’alumne 2 tria una targeta i llegeix la pregunta en veu alta.\n4. L’alumne 3 respon la pregunta.\n5. L’alumne 4 valora la resposta: si és correcta, felicita; si no, ajuda a corregir-la o la reensenya.\n6. Els rols giren una posició i es repeteix amb la targeta següent, fins a esgotar el joc.\n\n## Exemple\n\nPer repassar vocabulari d’anglès, cada equip usa targetes amb una paraula per una cara i la traducció per l’altra. Qui sosté el ventall ofereix les targetes; un altre tria i llegeix; un tercer tradueix; el quart comprova amb el dors i, si cal, corregeix amb amabilitat. Després de cada pregunta els rols giren, així que en pocs minuts tothom ha preguntat, respost i avaluat.",
+    "tags": [
+      "aprenentatge cooperatiu",
+      "Kagan",
+      "repàs",
+      "rols",
+      "targetes"
+    ],
+    "fields": [
+      "Cohesió i Cooperació",
+      "Avaluació Formativa i Feedback",
+      "Activació de coneixements previs"
+    ],
+    "programs": [],
+    "block": "Organització de l’aprenentatge cooperatiu",
+    "related": [
+      "metac_068",
+      "metac_082",
+      "metac_088",
+      "metac_093"
+    ],
+    "eval_ids": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "HER_REG_COOP",
+      "HER_RUB_COOP",
+      "INS_PART",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_168",
+    "name": "Duel de respostes (Showdown)",
+    "summary": "Estructura cooperativa Kagan en què, davant una pregunta, tots els membres de l’equip responen alhora de manera individual i després comparen i consensuen. Combina la responsabilitat individual amb l’ajuda mútua i el repàs actiu.",
+    "desc": "«Duel de respostes» (Showdown) és una estructura cooperativa de Kagan per practicar o repassar en equip assegurant que tothom pensa. Un membre fa de «capità de ronda», llegeix la pregunta i tots resolen pel seu compte i en secret; a un senyal («Showdown!») mostren la resposta simultàniament, la comparen i, si hi ha discrepàncies, les discuteixen fins a entendre la correcta.\n\nLa clau és que ningú no es pot amagar darrere del grup: cada alumne produeix la seva pròpia resposta abans de comparar, cosa que combina responsabilitat individual i aprenentatge entre iguals.\n\n## Com s’aplica\n\n1. Cada equip té un joc de targetes-pregunta i cada membre, una pissarra o paper individual.\n2. El capità de ronda agafa la primera targeta i la llegeix en veu alta.\n3. Tots els membres resolen individualment i en silenci, sense mostrar la resposta.\n4. Quan tothom està a punt, el capità diu «Showdown!» i tots mostren la resposta alhora.\n5. Comparen: si coincideixen i és correcta, ho celebren; si hi ha diferències, discuteixen i s’ajuden fins a aclarir-la.\n6. El rol de capità gira i es passa a la targeta següent.\n\n## Exemple\n\nEn matemàtiques, el capità llegeix «resol 3/4 + 1/8». Cada membre ho calcula a la seva pissarra sense mirar els altres. Al crit de «Showdown!», tots mostren el resultat. Dos han posat 7/8 i dos un valor diferent: l’equip compara procediments, detecta on és l’error en sumar fraccions i el corregeix abans de passar a la targeta següent.",
+    "tags": [
+      "aprenentatge cooperatiu",
+      "Kagan",
+      "repàs",
+      "responsabilitat individual",
+      "pràctica"
+    ],
+    "fields": [
+      "Cohesió i Cooperació",
+      "Avaluació Formativa i Feedback",
+      "Activació de coneixements previs"
+    ],
+    "programs": [],
+    "block": "Organització de l’aprenentatge cooperatiu",
+    "related": [
+      "metac_068",
+      "metac_082",
+      "metac_092",
+      "metac_094"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_GAMIF",
+      "HER_REG_COOP",
+      "INS_TEST",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_PRUEBA"
+    ]
+  },
+  {
+    "id": "metac_169",
+    "name": "Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up)",
+    "summary": "Estructura cooperativa Kagan en què l’alumnat s’aixeca, es mou per l’aula i forma parelles a l’atzar amb companys diferents per intercanviar idees o respostes. Barreja el grup, activa físicament i multiplica les interaccions.",
+    "desc": "«Aixeca’t, busca parella, comparteix» (Stand Up–Hand Up–Pair Up) és una estructura cooperativa de Kagan que combina moviment i interacció. L’alumnat s’aixeca, camina i s’aparella amb qui troba (no amb el company habitual), comparteix una resposta o idea, i torna a buscar una altra parella diferent. Així cada alumne parla amb diversos companys diferents en pocs minuts.\n\nÉs ideal per activar el grup, trencar la rutina d’estar asseguts, barrejar els qui no solen treballar junts i donar molta pràctica oral en poc temps.\n\n## Com s’aplica\n\n1. Planteja una pregunta o tasca breu que cadascú pugui respondre.\n2. «Stand up»: tothom s’aixeca. «Hand up»: aixequen una mà mentre es mouen, com a senyal que busquen parella.\n3. «Pair up»: xoquen la mà amb el primer company que troben i abaixen la mà: són parella.\n4. Per torns, cadascú comparteix la seva resposta o idea i escolta la de l’altre.\n5. A un senyal del docent, tornen a aixecar la mà, s’acomiaden i busquen una nova parella diferent, repetint l’intercanvi.\n\n## Exemple\n\nDesprés de llegir un text, el docent demana: «penseu una idea que us hagi sorprès». Tothom s’aixeca amb la mà amunt, s’aparella amb el primer que troba i s’expliquen la idea. Al senyal, canvien de parella dues o tres vegades més. En cinc minuts cada alumne ha verbalitzat la seva idea diverses vegades i ha escoltat punts de vista diversos, arribant amb més bagatge a la posada en comú.",
+    "tags": [
+      "aprenentatge cooperatiu",
+      "Kagan",
+      "moviment",
+      "interacció oral",
+      "parelles"
+    ],
+    "fields": [
+      "Cohesió i Cooperació",
+      "Comunicació i Creativitat",
+      "Activació de coneixements previs"
+    ],
+    "programs": [],
+    "block": "Organització de l’aprenentatge cooperatiu",
+    "related": [
+      "metac_025",
+      "metac_083",
+      "metac_084",
+      "metac_095"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_REG_PART",
+      "INS_PART",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_170",
+    "name": "Entrevista en tres passos (Three-Step Interview)",
+    "summary": "Estructura cooperativa en què, en equips de quatre, els membres s’entrevisten per parelles (un pregunta, l’altre respon), inverteixen els papers i després cadascú comparteix amb l’equip el que ha après de la seva parella. Desenvolupa l’escolta i la síntesi.",
+    "desc": "L’«entrevista en tres passos» (Three-Step Interview) és una estructura cooperativa que assegura que tothom parla i tothom escolta. L’equip de quatre es divideix en dues parelles; dins de cada parella, primer un entrevista l’altre sobre un tema, després intercanvien els papers, i finalment, ja en l’equip complet, cadascú no explica el que és seu sinó el que ha après de la seva parella.\n\nAquest tercer pas és clau: obliga a escoltar amb atenció (perquè després cal retre comptes del que s’ha escoltat) i desenvolupa la capacitat de sintetitzar i comunicar la idea d’un altre amb fidelitat.\n\n## Com s’aplica\n\n1. Planteja un tema o pregunta que admeti respostes personals o elaborades.\n2. Pas 1: en cada parella, l’alumne A entrevista el B, que respon mentre A escolta (i pot prendre notes).\n3. Pas 2: inverteixen els papers; ara B entrevista A.\n4. Pas 3: en l’equip de quatre, cada membre comparteix per torns el que ha dit la seva parella (no el propi), en estructura «round robin».\n5. L’equip recull les idees comunes i les diferències.\n\n## Exemple\n\nEn iniciar un projecte, el tema és «quin tema t’agradaria investigar i per què?». En parelles, A entrevista B i després B a A. Després, en l’equip de quatre, cadascú presenta l’interès del seu company: «A en David li interessa el canvi climàtic perquè…». Així tothom practica l’escolta activa i la síntesi, i l’equip coneix els interessos de tots els seus membres per decidir el projecte.",
+    "tags": [
+      "aprenentatge cooperatiu",
+      "entrevista",
+      "escolta activa",
+      "síntesi",
+      "parelles"
+    ],
+    "fields": [
+      "Cohesió i Cooperació",
+      "Comunicació i Creativitat",
+      "Processament i Anàlisi de la informació"
+    ],
+    "programs": [],
+    "block": "Organització de l’aprenentatge cooperatiu",
+    "related": [
+      "metac_054",
+      "metac_072",
+      "metac_084",
+      "metac_095"
+    ],
+    "eval_ids": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "HER_REG_COOP",
+      "HER_RUB_ORAL",
+      "INS_ENTREV",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_171",
+    "name": "WebQuest",
+    "summary": "Activitat d’indagació guiada en què l’alumnat resol una tasca utilitzant recursos d’internet preseleccionats pel docent. Té una estructura fixa (introducció, tasca, procés, recursos, avaluació, conclusió) que orienta la cerca i l’anàlisi.",
+    "desc": "La WebQuest, creada per Bernie Dodge, és una metodologia d’indagació en què l’alumnat afronta una tasca o problema utilitzant fonamentalment recursos d’internet que el docent ha seleccionat per endavant. En proporcionar les fonts, el temps no es perd buscant sinó analitzant, comparant i transformant la informació, cosa que la fa especialment útil per ensenyar a tractar la informació de manera crítica.\n\nEl seu tret distintiu és una estructura fixa d’apartats que guia tot el procés i deixa clar què cal fer, amb quins recursos i com s’avaluarà.\n\n## Com s’aplica\n\n1. Introducció: presenta l’escenari i motiva la tasca.\n2. Tasca: descriu el producte final que l’alumnat ha d’elaborar (un informe, una presentació, una proposta…).\n3. Procés: detalla els passos a seguir, sovint amb repartiment de rols dins del grup.\n4. Recursos: ofereix els enllaços i materials preseleccionats que cal consultar.\n5. Avaluació: mostra la rúbrica amb què es valorarà el treball, coneguda des de l’inici.\n6. Conclusió: tanca recordant el que s’ha après i convidant a transferir-ho o a continuar indagant.\n\n## Exemple\n\nEn una WebQuest sobre energies renovables, la tasca demana elaborar una proposta d’instal·lació per al centre. L’alumnat, en grups amb rols (economista, enginyer, ecòleg), consulta els recursos web facilitats, compara tecnologies i costos, i prepara una presentació. La rúbrica, coneguda des del principi, valora el rigor de les dades, l’argumentació i la qualitat del producte.",
+    "tags": [
+      "indagació guiada",
+      "competència digital",
+      "internet",
+      "tractament de la informació",
+      "Dodge"
+    ],
+    "fields": [
+      "Processament i Anàlisi de la informació",
+      "Resolució de problemes i Reptes",
+      "Comunicació i Creativitat"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_008",
+      "metac_010",
+      "metac_014",
+      "metac_043"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_DIG",
+      "DIM_INDAG",
+      "HER_RUB_PROD",
+      "INS_INFO_INV",
+      "INS_PRESENT_DIG",
+      "INS_WEB",
+      "TEC_ANAL_DOC",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_172",
+    "name": "Aprenentatge maker / STEAM",
+    "summary": "Enfocament en què l’alumnat aprèn creant objectes i solucions tangibles (dissenyant, construint, programant) i integrant ciència, tecnologia, enginyeria, art i matemàtiques. Aprendre fent, amb error productiu, iteració i projectes amb sentit.",
+    "desc": "L’aprenentatge maker es basa en la idea d’«aprendre fent i creant»: l’alumnat construeix objectes físics o digitals (maquetes, prototips, dispositius, programes) per resoldre un repte, i en el procés mobilitza coneixements de diverses àrees. Quan aquesta creació integra de manera deliberada Ciència, Tecnologia, Enginyeria, Art i Matemàtiques, parlem d’enfocament STEAM.\n\nEl seu valor formatiu és el cicle de disseny: prototipar, provar, fallar, ajustar i millorar. L’error no és un fracàs sinó informació per iterar, i el producte final té un propòsit real que dóna sentit a l’esforç.\n\n## Com s’aplica\n\n1. Planteja un repte o necessitat que requereixi crear alguna cosa (un objecte, un mecanisme, una solució).\n2. L’alumnat idea possibles solucions i en tria una, identificant quins coneixements necessita de cada disciplina.\n3. Dissenya i construeix un primer prototip amb els materials o eines disponibles (manuals, electrònica, programació, impressió 3D…).\n4. Prova el prototip, detecta què falla i el millora en successives iteracions.\n5. Comparteix el producte final i reflexiona sobre el procés, els errors i el que ha après.\n\n## Exemple\n\nDavant el repte «dissenyeu un dispositiu que avisi quan una planta necessita aigua», l’alumnat combina ciència (humitat del sòl), tecnologia i programació (un sensor i una placa programable) i disseny (la carcassa). Construeixen un primer prototip que no funciona bé, ajusten el codi i el sensor, i després de diverses proves aconsegueixen un avisador funcional, documentant cada iteració en una memòria del projecte.",
+    "tags": [
+      "maker",
+      "STEAM",
+      "aprendre fent",
+      "prototipatge",
+      "interdisciplinarietat"
+    ],
+    "fields": [
+      "Resolució de problemes i Reptes",
+      "Comunicació i Creativitat",
+      "Cohesió i Cooperació"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_011",
+      "metac_014",
+      "metac_015",
+      "metac_027"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_DESEMP",
+      "DIM_PROY",
+      "HER_RUB_PROC",
+      "HER_RUB_PROD",
+      "INS_MAQUETA",
+      "INS_MEM_PROY",
+      "INS_PROTOTIPO",
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_173",
+    "name": "Pensament computacional",
+    "summary": "Manera d’abordar i resoldre problemes inspirada en la informàtica, basada en quatre destreses: descompondre, reconèixer patrons, abstreure l’essencial i dissenyar algorismes. És transferible a qualsevol àrea i no requereix necessàriament ordinadors.",
+    "desc": "El pensament computacional és una manera de raonar per resoldre problemes (no necessàriament amb ordinador) prenent prestades estratègies de la informàtica. Consisteix a analitzar un problema complex descomponent-lo en parts manejables, detectar regularitats, quedar-se amb l’essencial ignorant detalls irrellevants i formular una seqüència de passos clara que condueixi a la solució.\n\nEls seus quatre pilars són: descomposició (dividir el problema), reconeixement de patrons (veure el que es repeteix), abstracció (centrar-se en l’important) i algorísmica (definir passos ordenats i reutilitzables).\n\n## Com s’aplica\n\n1. Presenta un problema o tasca amb certa complexitat.\n2. Descomposició: l’alumnat el divideix en subproblemes més petits i abordables.\n3. Reconeixement de patrons: busca similituds amb problemes ja resolts o regularitats internes.\n4. Abstracció: identifica les dades i regles essencials i deixa fora l’accessori.\n5. Algorisme: dissenya una seqüència de passos precisa per resoldre’l, la prova i la depura si falla.\n\n## Exemple\n\nPer organitzar l’horari d’ús d’un únic ordinador entre diversos grups, l’alumnat descompon el problema (quants grups, quant temps, quines prioritats), reconeix el patró de torns rotatius, abstreu les regles clau (tothom l’ha d’usar el mateix temps) i dissenya un algorisme d’assignació pas a pas. El proven amb casos i l’ajusten: han resolt un problema real aplicant pensament computacional sense programar res.",
+    "tags": [
+      "pensament computacional",
+      "resolució de problemes",
+      "algorismes",
+      "abstracció",
+      "patrons"
+    ],
+    "fields": [
+      "Resolució de problemes i Reptes",
+      "Pensament Crític i Metacognició",
+      "Processament i Anàlisi de la informació"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_013",
+      "metac_028",
+      "metac_046",
+      "metac_064"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_DIG",
+      "DIM_PROB",
+      "HER_RUB_ANA",
+      "INS_MODELO_DIG",
+      "INS_PROB",
+      "INS_PROTOTIPO",
+      "TEC_PROD",
+      "TEC_PRUEBA"
+    ]
+  },
+  {
+    "id": "metac_174",
+    "name": "Hora del geni (Genius Hour)",
+    "summary": "Temps reservat periòdicament perquè l’alumnat investigui i desenvolupi un projecte sobre un tema de la seva pròpia elecció, guiat per la seva curiositat. Fomenta la motivació intrínseca, l’autonomia i la responsabilitat sobre el propi aprenentatge.",
+    "desc": "L’«hora del geni» (Genius Hour), inspirada en la pràctica d’algunes empreses de dedicar una part del temps laboral a projectes personals, consisteix a reservar de manera regular un temps de classe perquè cada alumne (o grup) investigui una pregunta o desenvolupi un projecte que ell mateix ha triat per interès genuí.\n\nEn ser l’alumnat qui decideix el tema, la motivació és intrínseca: aprèn perquè vol saber, no perquè li ho manin. El docent acompanya, ajuda a acotar el projecte, facilita recursos i exigeix rigor, però no imposa el contingut.\n\n## Com s’aplica\n\n1. Es reserva un temps periòdic fix (per exemple, una sessió a la setmana) dedicat al projecte personal.\n2. Cada alumne formula una pregunta o repte que l’interessi de debò i el planteja com a projecte investigable.\n3. El docent valida que sigui abordable, ajuda a concretar-lo i acorda un producte o resultat esperat.\n4. L’alumnat investiga, crea i documenta el seu avenç (bitàcola), gestionant el seu temps de manera autònoma.\n5. En acabar, comparteix el resultat amb la classe i reflexiona sobre el procés, els obstacles i el que ha après.\n\n## Exemple\n\nUna alumna apassionada pels animals dedica la seva hora del geni a investigar per què desapareixen les abelles i què s’hi pot fer. Defineix la pregunta, busca informació rigorosa, entrevista un apicultor i elabora una campanya de sensibilització per al centre. El docent l’orienta i li exigeix fonts fiables; ella aprèn biologia, comunicació i gestió de projectes moguda pel seu propi interès.",
+    "tags": [
+      "motivació intrínseca",
+      "autonomia",
+      "projecte personal",
+      "curiositat",
+      "aprenentatge autònom"
+    ],
+    "fields": [
+      "Comunicació i Creativitat",
+      "Resolució de problemes i Reptes",
+      "Pensament Crític i Metacognició"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_014",
+      "metac_015",
+      "metac_023",
+      "metac_080"
+    ],
+    "eval_ids": [
+      "DIM_AUTO",
+      "DIM_COMP",
+      "DIM_PROY",
+      "HER_RUB_PROC",
+      "INS_BIT",
+      "INS_DEF_PROY",
+      "INS_PORT",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_175",
+    "name": "Aprenentatge personalitzat amb itineraris (playlists)",
+    "summary": "Model en què l’alumnat avança per una seqüència d’activitats (una «llista de reproducció») al seu propi ritme i, en part, segons les seves necessitats i eleccions. El docent allibera temps per atendre individualment i el progrés es basa en el domini, no en el rellotge.",
+    "desc": "L’aprenentatge personalitzat mitjançant itineraris o «playlists» organitza el contingut d’una unitat com una seqüència d’activitats que l’alumnat recorre al seu propi ritme, amb certa capacitat d’elecció sobre l’ordre, el format o el nivell. Com que no tothom avança alhora, el docent deixa d’explicar a la vegada per a tots i dedica el temps a donar suport individualment o en petits grups a qui ho necessita.\n\nÉs un model emparentat amb l’aula invertida i l’aprenentatge de domini: s’avança a l’etapa següent quan es demostra el domini de l’anterior, no quan ho marca el calendari. Requereix materials ben estructurats i un sistema clar de seguiment.\n\n## Com s’aplica\n\n1. Defineix els objectius d’aprenentatge de la unitat i les fites de domini que cal demostrar.\n2. Dissenya la llista d’activitats (explicacions, lectures, vídeos, pràctiques, comprovacions), amb obligatòries i opcionals segons el nivell.\n3. Cada alumne rep el seu itinerari i avança al seu ritme, registrant el seu progrés en un tauler.\n4. El docent monitora el tauler i dedica el temps d’aula a atenció individualitzada i a petits grups amb dificultats comunes.\n5. Es comprova el domini en punts de control abans de passar a l’etapa següent; qui ho necessita, reforça; qui va avançat, aprofundeix.\n\n## Exemple\n\nEn una unitat de matemàtiques, cada alumne rep una llista amb vídeos, exercicis autocorregibles i mini-reptes, a més de comprovacions de domini. Mentre la majoria practica de manera autònoma, el docent reuneix els quatre alumnes que fallen en un mateix concepte i els el reexplica. Qui ja domina el bàsic passa a reptes d’ampliació. Ningú no espera la resta ni es queda enrere sense suport.",
+    "tags": [
+      "aprenentatge personalitzat",
+      "itineraris",
+      "ritme propi",
+      "atenció a la diversitat",
+      "domini"
+    ],
+    "fields": [
+      "Avaluació Formativa i Feedback",
+      "Construcció de coneixement",
+      "Activació de coneixements previs"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_023",
+      "metac_041",
+      "metac_043",
+      "metac_141"
+    ],
+    "eval_ids": [
+      "DIM_CONT",
+      "DIM_FORM",
+      "DIM_INCL",
+      "HER_ESC_PROG",
+      "HER_PANEL",
+      "INS_PLAN_TRAB",
+      "INS_PORT",
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_176",
+    "name": "Mapa mental",
+    "summary": "Organitzador gràfic radial que parteix d’una idea central i desplega branques amb paraules clau, colors i imatges per representar com es relacionen els conceptes. Ajuda a estructurar idees, sintetitzar, memoritzar i generar connexions de manera visual.",
+    "desc": "El mapa mental, popularitzat per Tony Buzan, és una representació gràfica que organitza la informació de manera radial: al centre se situa la idea o tema principal i d’ella surten branques que es subdivideixen en idees secundàries, utilitzant paraules clau (no frases llargues), colors i imatges. La seva estructura imita la forma associativa en què la ment connecta idees.\n\nA diferència del mapa conceptual (que uneix conceptes amb enllaços etiquetats formant proposicions), el mapa mental és més lliure, visual i personal, i resulta molt útil per fer pluges d’idees, resumir i memoritzar.\n\n## Com s’aplica\n\n1. Escriu al centre del full la idea o tema principal, idealment amb una imatge.\n2. Traça branques gruixudes cap a les idees principals relacionades, cadascuna amb una paraula clau.\n3. Subdivideix cada branca en branques més fines amb idees secundàries, mantenint una paraula per branca.\n4. Usa colors diferents per branca i incorpora dibuixos o icones que ajudin a recordar.\n5. Revisa i reorganitza: afegeix connexions entre branques si descobreixes relacions noves.\n\n## Exemple\n\nPer repassar el tema de l’aparell digestiu, l’alumnat dibuixa al centre un estómac i d’allà surten branques de colors: «òrgans», «procés», «nutrients», «malalties». Cada branca es ramifica amb paraules clau i icones. En construir-lo, l’alumnat decideix què és principal i què secundari i com es connecta tot, cosa que l’obliga a estructurar el contingut i li facilita recordar-lo després d’un cop d’ull.",
+    "tags": [
+      "organitzador gràfic",
+      "mapa mental",
+      "síntesi",
+      "pensament visual",
+      "Buzan"
+    ],
+    "fields": [
+      "Processament i Anàlisi de la informació",
+      "Comunicació i Creativitat",
+      "Construcció de coneixement"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_004",
+      "metac_047",
+      "metac_063",
+      "metac_100",
+      "metac_178"
+    ],
+    "eval_ids": [
+      "DIM_DESEMP",
+      "DIM_FORM",
+      "HER_RUB_PROD",
+      "INS_ESQUEMA",
+      "INS_MAP_MENT",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_177",
+    "name": "Diagrama d’espina de peix (Ishikawa)",
+    "summary": "Organitzador gràfic amb forma d’esquelet de peix per analitzar les causes d’un problema: l’efecte se situa al cap i les possibles causes s’agrupen per categories al llarg de les espines. Ajuda a pensar de manera sistemàtica les arrels d’un problema.",
+    "desc": "El diagrama d’espina de peix o diagrama d’Ishikawa (també anomenat de causa-efecte) és una eina visual per analitzar les causes que originen un problema o efecte. Es dibuixa com un esquelet de peix: al «cap» s’escriu l’efecte o problema i de la «columna» surten espines que representen categories de causes, i de cada espina, subespines amb causes concretes.\n\nObliga a no quedar-se en la primera explicació, sinó a explorar de manera ordenada diferents famílies de causes, distingint entre causes principals i secundàries.\n\n## Com s’aplica\n\n1. Escriu amb claredat el problema o efecte a analitzar al cap del peix (a la dreta).\n2. Defineix les grans categories de causes (per exemple: persones, mètodes, materials, entorn) i col·loca-les com a espines principals.\n3. Per a cada categoria, el grup aporta possibles causes mitjançant pluja d’idees i les afegeix com a subespines.\n4. Aprofundeix preguntant «per què?» en cada causa, per arribar a les arrels més que als símptomes.\n5. Analitza el diagrama complet i identifica les causes més probables o influents sobre les quals actuar.\n\n## Exemple\n\nDavant el problema «a classe es perd molt temps en començar les sessions», el grup dibuixa l’espina i agrupa causes: organització (no està el material a punt), normes (entren tard), espai (taules mal disposades), hàbits (triguen a treure el quadern). En veure-ho en conjunt, identifiquen que la causa arrel més influent és la falta d’una rutina d’inici, i decideixen actuar-hi.",
+    "tags": [
+      "organitzador gràfic",
+      "causa-efecte",
+      "anàlisi de problemes",
+      "Ishikawa",
+      "resolució de problemes"
+    ],
+    "fields": [
+      "Processament i Anàlisi de la informació",
+      "Pensament Crític i Metacognició",
+      "Resolució de problemes i Reptes"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_013",
+      "metac_046",
+      "metac_060",
+      "metac_064"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_PROB",
+      "HER_RUB_ANA",
+      "INS_ESQUEMA",
+      "INS_PROB",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_178",
+    "name": "Línia de temps",
+    "summary": "Organitzador gràfic que representa fets o etapes ordenats cronològicament sobre un eix. Ajuda a comprendre seqüències, durades, simultaneïtats i relacions causa-efecte al llarg del temps, i a situar els esdeveniments en el seu context.",
+    "desc": "La línia de temps és una representació visual en què els esdeveniments, etapes o processos es col·loquen en ordre cronològic al llarg d’un eix (normalment horitzontal). Permet captar d’un cop d’ull l’ordre dels fets, quant duren, quines coses passen alhora i com uns successos poden ser causa o conseqüència d’altres.\n\nÉs un organitzador molt versàtil: serveix tant per a història com per al desenvolupament d’un experiment, les fases d’un projecte, la biografia d’un autor o l’evolució d’un concepte.\n\n## Com s’aplica\n\n1. Delimita el període i els fets o etapes que es representaran.\n2. Traça l’eix i decideix l’escala (que la distància entre punts sigui proporcional al temps transcorregut).\n3. Situa cada esdeveniment en la seva posició, amb una etiqueta breu i, si convé, una imatge.\n4. Marca durades (amb barres o trams) i assenyala simultaneïtats o relacions entre fets.\n5. Interpreta la línia: analitza seqüències, ritmes, períodes de canvi i possibles causes i efectes.\n\n## Exemple\n\nEn estudiar l’Edat Contemporània, l’alumnat construeix una línia de temps a escala amb les revolucions, guerres i avenços tecnològics. En veure’ls ordenats i proporcionats, descobreixen que certs invents coincideixen amb canvis socials i que alguns conflictes s’encadenen, comprenent no només què va passar sinó quan, en quin ordre i com es relacionen els fets entre si.",
+    "tags": [
+      "organitzador gràfic",
+      "cronologia",
+      "seqüència temporal",
+      "història",
+      "causa-efecte"
+    ],
+    "fields": [
+      "Processament i Anàlisi de la informació",
+      "Construcció de coneixement",
+      "Comunicació i Creativitat"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_004",
+      "metac_028",
+      "metac_089",
+      "metac_176"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_RUB_PROD",
+      "INS_ESQUEMA",
+      "INS_LINEA",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_179",
+    "name": "Diagrama de Venn",
+    "summary": "Organitzador gràfic format per cercles que se solapen per comparar dos o més elements: el propi de cadascun va a la part no compartida i el comú, a la intersecció. Ajuda a analitzar semblances i diferències de manera visual i precisa.",
+    "desc": "El diagrama de Venn utilitza cercles superposats per comparar i contrastar dos o més conceptes, objectes o idees. Cada cercle representa un element; a la zona exclusiva de cada cercle s’escriuen les seves característiques pròpies, i a la zona on els cercles se solapen, les característiques que comparteixen.\n\nÉs una eina senzilla però potent per entrenar la comparació rigorosa: obliga a decidir, per a cada tret, si és exclusiu d’un, exclusiu d’un altre o comú a tots dos, cosa que afina l’anàlisi.\n\n## Com s’aplica\n\n1. Tria els dos (o tres) elements que es compararan i dibuixa un cercle per a cadascun, solapant-los.\n2. Identifica les característiques de cada element mitjançant observació, lectura o pluja d’idees.\n3. Col·loca cada característica al seu lloc: a la part exclusiva si és pròpia d’un sol element; a la intersecció si és compartida.\n4. Revisa el repartiment i discuteix els casos dubtosos (de debò és comú o només s’assembla?).\n5. Extreu conclusions a partir del que és exclusiu i el que és compartit.\n\n## Exemple\n\nPer comparar mamífers i ocells, l’alumnat dibuixa dos cercles. En el de mamífers: pèl, glàndules mamàries; en el d’ocells: plomes, bec, ous amb closca; a la intersecció: vertebrats, respiració pulmonar, sang calenta. En situar cada tret, l’alumnat comprèn amb precisió què tenen en comú tots dos grups i què els distingeix.",
+    "tags": [
+      "organitzador gràfic",
+      "comparació",
+      "semblances i diferències",
+      "anàlisi",
+      "Venn"
+    ],
+    "fields": [
+      "Processament i Anàlisi de la informació",
+      "Pensament Crític i Metacognició",
+      "Construcció de coneixement"
+    ],
+    "programs": [],
+    "block": "Metodologies actives",
+    "related": [
+      "metac_004",
+      "metac_022",
+      "metac_028",
+      "metac_132"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_RUB_ANA",
+      "INS_COM_TEXT",
+      "INS_ESQUEMA",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_180",
+    "name": "Bastida i zona de desenvolupament proper (ZDP)",
+    "summary": "Marc basat en Vygotsky: la zona de desenvolupament proper és la distància entre el que l’alumnat pot fer sol i el que pot assolir amb ajuda. La bastida són els suports temporals que el docent o un company ofereixen i retiren a mesura que s’assoleix autonomia.",
+    "desc": "La zona de desenvolupament proper (ZDP), concepte de Lev Vygotsky, designa el marge entre el que un alumne pot fer per si mateix i el que pot arribar a fer amb l’ajuda d’algú més capaç (el docent o un company). L’aprenentatge més eficaç es produeix precisament en aquesta zona: tasques que no són ni massa fàcils ni inabordables en solitari.\n\nLa bastida (scaffolding) és la metàfora dels suports que es proporcionen dins d’aquesta zona: pistes, models, preguntes, organitzadors o guies que sostenen l’alumnat mentre ho necessita i que es van retirant progressivament a mesura que guanya autonomia, igual que una bastida es desmunta quan l’edifici se sosté sol.\n\n## Com s’aplica\n\n1. Esbrina què pot fer l’alumnat sol i què queda just per sobre del seu nivell actual (la seva ZDP).\n2. Proposa tasques situades en aquesta zona: assolibles amb ajuda, però no sense ella.\n3. Ofereix bastides adequades: modelar el procés, donar pistes, descompondre la tasca, proporcionar plantilles o exemples.\n4. Observa el progrés i retira els suports de manera gradual a mesura que l’alumnat demostra domini.\n5. Ajusta contínuament: si la tasca resulta inabordable, reforça la bastida; si és trivial, eleva el repte.\n\n## Exemple\n\nUn alumne sap resoldre equacions senzilles però no les de dos passos. El docent situa la tasca en la seva ZDP i li dóna bastides: primer en resol una al seu costat pensant en veu alta, després li ofereix una plantilla amb els passos, després només una pista («què fas primer?») i, finalment, li retira tot suport. L’alumne acaba resolent-les de manera autònoma.",
+    "tags": [
+      "Vygotsky",
+      "bastida",
+      "zona de desenvolupament proper",
+      "scaffolding",
+      "aprenentatge guiat"
+    ],
+    "fields": [
+      "Disseny i anàlisi educativa",
+      "Construcció de coneixement",
+      "Avaluació Formativa i Feedback"
+    ],
+    "programs": [],
+    "block": "Marcs educatius",
+    "related": [
+      "metac_114",
+      "metac_142",
+      "metac_143",
+      "metac_144"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_INCL",
+      "HER_ESC_OBS",
+      "HER_ESC_PROG",
+      "INS_F_REFLEX",
+      "TEC_OBS_SIS",
+      "TEC_PROC_REFLEX"
+    ]
+  },
+  {
+    "id": "metac_181",
+    "name": "Alineament constructiu",
+    "summary": "Principi de disseny didàctic de John Biggs: els objectius d’aprenentatge, les activitats i l’avaluació han d’estar coherentment alineats. L’alumnat aprèn «construint» a través d’activitats que condueixen directament a demostrar els objectius previstos.",
+    "desc": "L’alineament constructiu, formulat per John Biggs, combina dues idees. La «constructiva» prové del constructivisme: l’alumnat aprèn construint significat a través del que fa. L’«alineament» exigeix que tres elements del disseny didàctic apuntin en la mateixa direcció: els resultats d’aprenentatge previstos, les activitats d’ensenyament-aprenentatge i les tasques d’avaluació.\n\nLa clau és la coherència: si un objectiu diu que l’alumnat ha d’«analitzar», les activitats l’han de fer analitzar i l’avaluació ha de demanar que analitzi (no que recordi). Quan els tres elements estan alineats, s’elimina el desajust habitual entre el que es diu que es busca, el que es fa a classe i el que finalment s’examina.\n\n## Com s’aplica\n\n1. Formula els resultats d’aprenentatge amb verbs que expressin el nivell cognitiu desitjat (explicar, aplicar, dissenyar, avaluar…).\n2. Dissenya activitats d’aula que obliguin l’alumnat a posar en pràctica justament aquest verb.\n3. Dissenya l’avaluació de manera que la tasca demanada demostri directament aquest mateix resultat, amb criteris coherents.\n4. Revisa la coherència: comprova que objectiu, activitat i avaluació comparteixen el mateix nivell i tipus d’aprenentatge.\n5. Ajusta qualsevol element desalineat (per exemple, un objectiu d’«aplicar» avaluat amb un examen de memorització).\n\n## Exemple\n\nSi l’objectiu és «l’alumnat serà capaç de dissenyar un experiment per respondre una pregunta», les activitats no es poden limitar a llegir sobre el mètode científic: l’alumnat ha de dissenyar experiments a classe. I l’avaluació, en conseqüència, li demanarà dissenyar-ne un (no respondre un test sobre les fases). Objectiu, pràctica i prova queden alineats.",
+    "tags": [
+      "Biggs",
+      "disseny didàctic",
+      "alineament",
+      "constructivisme",
+      "avaluació coherent"
+    ],
+    "fields": [
+      "Disseny i anàlisi educativa",
+      "Avaluació Formativa i Feedback",
+      "Pensament Crític i Metacognició"
+    ],
+    "programs": [],
+    "block": "Marcs educatius",
+    "related": [
+      "metac_102",
+      "metac_104",
+      "metac_105",
+      "metac_106"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_FORM",
+      "HER_MATRIZ",
+      "HER_RUB_COMP",
+      "INS_TAREA_COMP_INT",
+      "TEC_TRIANG"
+    ]
+  },
+  {
+    "id": "metac_182",
+    "name": "Marc ICAP",
+    "summary": "Marc de Michelene Chi que classifica el grau d’implicació cognitiva de l’alumnat en quatre modes —Interactiu, Constructiu, Actiu i Passiu— i prediu que l’aprenentatge millora a mesura que s’ascendeix: Interactiu > Constructiu > Actiu > Passiu.",
+    "desc": "El marc ICAP, proposat per Michelene Chi, ofereix una manera senzilla de valorar i elevar la qualitat cognitiva de les activitats d’aprenentatge segons el tipus de comportament que provoquen en l’alumnat. Distingeix quatre modes d’implicació, de menor a major eficàcia:\n\nPASSIU: l’alumnat rep informació sense fer res observable (escoltar una explicació, veure un vídeo).\n\nACTIU: fa alguna cosa física amb el material però sense generar contingut nou (subratllar, copiar, repetir).\n\nCONSTRUCTIU: produeix alguna cosa que va més enllà del que es dóna (resumir amb les seves paraules, fer un esquema, plantejar preguntes, explicar).\n\nINTERACTIU: construeix en diàleg amb un altre, de manera que les aportacions s’enriqueixen mútuament (discutir, debatre, co-crear).\n\nLa hipòtesi ICAP sosté que l’aprenentatge augmenta en pujar de nivell: Interactiu > Constructiu > Actiu > Passiu. És una guia pràctica per redissenyar activitats cap a modes més exigents.\n\n## Com s’aplica\n\n1. Analitza una activitat i classifica-la en un dels quatre modes segons el que realment fa l’alumnat.\n2. Si és passiva o activa, redissenya-la perquè sigui almenys constructiva (que l’alumnat generi alguna cosa pròpia).\n3. Quan sigui possible, eleva-la a interactiva afegint diàleg genuí entre iguals sobre el que s’ha construït.\n4. Assegura’t que el mode «interactiu» ho sigui de debò: que tots dos aportin i es responguin, no que només un treballi.\n5. Usa el marc per equilibrar la sessió, reduint el temps en mode passiu.\n\n## Exemple\n\nEn lloc que l’alumnat només escolti l’explicació d’un text (passiu) o el subratlli (actiu), el docent li demana primer resumir-lo amb les seves paraules i formular preguntes (constructiu) i després discutir aquestes preguntes en parelles elaborant junts una resposta (interactiu). La mateixa matèria, abordada en un mode ICAP superior, produeix un aprenentatge més profund.",
+    "tags": [
+      "ICAP",
+      "Chi",
+      "implicació cognitiva",
+      "disseny d’activitats",
+      "aprenentatge actiu"
+    ],
+    "fields": [
+      "Disseny i anàlisi educativa",
+      "Pensament Crític i Metacognició",
+      "Construcció de coneixement"
+    ],
+    "programs": [],
+    "block": "Marcs educatius",
+    "related": [
+      "metac_073",
+      "metac_104",
+      "metac_105",
+      "metac_107"
+    ],
+    "eval_ids": [
+      "DIM_DESEMP",
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "HER_RUB_PROC",
+      "INS_PART",
+      "TEC_OBS_SIS"
+    ]
+  },
+  {
+    "id": "metac_183",
+    "name": "Comunitat d’indagació (Community of Inquiry)",
+    "summary": "Marc per dissenyar i avaluar l’aprenentatge en línia o híbrid, basat en tres presències que han de coincidir: cognitiva, social i docent. Sosté que un aprenentatge profund en entorns virtuals sorgeix de la interacció equilibrada de les tres.",
+    "desc": "El marc de la Comunitat d’Indagació (Community of Inquiry, CoI), desenvolupat per Garrison, Anderson i Archer, explica què cal perquè l’aprenentatge en entorns en línia o híbrids sigui profund i no una mera transmissió de materials. Proposa que l’experiència educativa de qualitat sorgeix de la intersecció de tres «presències»:\n\nPRESÈNCIA COGNITIVA: el grau en què l’alumnat construeix i confirma significat mitjançant la reflexió i el diàleg sostingut (explorar, integrar, resoldre).\n\nPRESÈNCIA SOCIAL: la capacitat dels participants de mostrar-se com a persones reals, comunicar-se amb confiança i sentir-se part d’un grup.\n\nPRESÈNCIA DOCENT: el disseny, la facilitació i l’orientació que estructuren l’experiència i mantenen el focus.\n\nL’aprenentatge significatiu es dóna on les tres presències se solapen; si en falta alguna (per exemple, fòrums sense facilitació o sense clima de confiança), la indagació s’afebleix.\n\n## Com s’aplica\n\n1. Dissenya l’experiència (presència docent): objectius clars, seqüència d’activitats i espais d’interacció ben estructurats.\n2. Té cura de la presència social des de l’inici: dinàmiques de presentació, normes de respecte i un clima en què sigui segur participar.\n3. Promou la presència cognitiva amb tasques que exigeixin indagar i dialogar: preguntes detonants, fòrums de discussió, construcció col·laborativa.\n4. Facilita de manera activa: modera els debats, sintetitza, reorienta i dóna feedback, sense desaparèixer ni acaparar.\n5. Avalua observant les tres presències (qualitat del diàleg, participació, sentit de comunitat) i ajusta el disseny.\n\n## Exemple\n\nEn un curs semipresencial, el docent llança en un fòrum una pregunta detonant sobre un dilema real (presència cognitiva), després d’haver creat abans un clima de confiança amb presentacions i normes de participació (presència social), i modera el fil sintetitzant aportacions i repreguntant (presència docent). El resultat no és una bústia de missatges solts, sinó una indagació col·lectiva que aprofundeix en el tema.",
+    "tags": [
+      "aprenentatge en línia",
+      "comunitat d’indagació",
+      "CoI",
+      "presència docent",
+      "aprenentatge híbrid"
+    ],
+    "fields": [
+      "Disseny i anàlisi educativa",
+      "Comunicació i Creativitat",
+      "Pensament Crític i Metacognició"
+    ],
+    "programs": [],
+    "block": "Marcs educatius",
+    "related": [
+      "metac_043",
+      "metac_090",
+      "metac_124",
+      "metac_129"
+    ],
+    "eval_ids": [
+      "DIM_COMPART",
+      "DIM_DIG",
+      "DIM_FORM",
+      "HER_ANALITICAS",
+      "HER_RUB_DIG",
+      "INS_BLOG",
+      "INS_DOC_COL",
+      "INS_FORO",
+      "TEC_INTER_DIG"
     ]
   }
 ]

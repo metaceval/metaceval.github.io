@@ -66,7 +66,7 @@ The main difference is that “What makes you say that?” works as a short obse
 
 For this reason, “What makes you say that?” is especially useful for starting a conversation, activating observation or making students' interpretations visible. CER is more suitable when the aim is to produce a final response, a scientific explanation, a lab conclusion or an argued text.
 
-**Related techniques:** Generate Hypotheses, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Concept Cartoon, Claim, Support, Question
+**Related techniques:** Generate Hypotheses, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Concept Cartoon, Claim, Support, Question, The Explanation Game
 
 **How to assess:**
 
@@ -103,7 +103,7 @@ In a biology lesson, the teacher gives students a short text about blood circula
 
 As a final synthesis, each student writes three sentences explaining the whole process without copying the text literally. The teacher checks whether they have distinguished essential information from secondary details and whether the diagram correctly shows the relationships between the parts.
 
-**Related techniques:** Compare and Contrast, Four-Part Concept Map, Word-Phrase-Sentence, Headlines, Frayer Model, Generate, sort, connect, elaborate, One-sentence summary
+**Related techniques:** Compare and Contrast, Four-Part Concept Map, Word-Phrase-Sentence, Headlines, Frayer Model, Generate, sort, connect, elaborate, One-sentence summary, Mind map, Timeline, Venn diagram
 
 **How to assess:**
 
@@ -206,7 +206,7 @@ Each student chooses one perspective and prepares a short statement. For example
 
 At the end, the group shares what new ideas have emerged and what questions remain open. The routine helps students understand that the same issue can have different consequences depending on the perspective taken.
 
-**Related techniques:** Structured Academic Controversy, Role Play, Role on the Wall (Character Silhouette)
+**Related techniques:** Structured Academic Controversy, Role Play, Role on the Wall (Character Silhouette), Philosophy for Children (P4C), Step Inside
 
 **How to assess:**
 
@@ -279,7 +279,7 @@ Objective: To improve students' understanding of the French Revolution
 - Provide feedback on the quality of the comparisons
 - Outcome: Improved student understanding of the French Revolution and development of critical thinking and communication skills.
 
-**Related techniques:** Analyze and Synthesize, Detect Patterns, Two-Column Method, Frayer Model
+**Related techniques:** Analyze and Synthesize, Detect Patterns, Two-Column Method, Frayer Model, Concrete examples, Venn diagram
 
 **How to assess:**
 
@@ -368,7 +368,7 @@ This routine can be useful in helping students improve their understanding of a 
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
-**Related techniques:** Word-Phrase-Sentence, Headlines, Visual Thinking
+**Related techniques:** Dual coding, Word-Phrase-Sentence, Headlines, Visual Thinking
 
 **How to assess:**
 
@@ -423,7 +423,7 @@ Then, in pairs, they formulate relationships such as: “When rent is more than 
 
 The activity ends with a discussion about how these patterns can help with decisions about saving, spending or financial planning.
 
-**Related techniques:** Compare and Contrast, 5 Whys, Problem Matrix, Depth of Knowledge (DOK)
+**Related techniques:** Compare and Contrast, 5 Whys, Problem Matrix, Depth of Knowledge (DOK), Computational thinking, Timeline, Venn diagram
 
 **How to assess:**
 
@@ -460,7 +460,7 @@ The teacher collects the responses or reviews them visually and spends the first
 
 **Resources:** [Rating scale](https://jjdeharo.github.io/directo/escala.html)
 
-**Related techniques:** Assessment Target, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Exit Ticket
+**Related techniques:** Assessment Target, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Exit Ticket, Hinge questions, All-student response
 
 **How to assess:**
 
@@ -503,7 +503,7 @@ This routine guides students to reflect on their own learning through a sequence
 #### Example
 After completing a laboratory exercise, students fill in the ladder, indicating what they have learned about experimental design, how they controlled variables, and in what other experiments they could apply that procedure.
 
-**Related techniques:** Learning Journal, I Used to Think... Now I Think, 3-2-1 Bridge, Connect, extend, challenge, Habits of mind
+**Related techniques:** Learning Journal, I Used to Think... Now I Think, 3-2-1 Bridge, Connect, extend, challenge, Habits of mind, Self-explanation
 
 **How to assess:**
 
@@ -609,7 +609,7 @@ Then each group evaluates the proposals using three criteria: ease of use, impac
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html)
 
-**Related techniques:** Apply Knowledge, Design Thinking, Problem Matrix, Problem Situation
+**Related techniques:** Apply Knowledge, Design Thinking, Problem Matrix, Problem Situation, Computational thinking, Fishbone diagram (Ishikawa)
 
 **How to assess:**
 
@@ -701,7 +701,7 @@ The teacher presents the following idea or proposal: "The school is considering 
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
-**Related techniques:** I like it / I don't like it, Review the Consequences, Nominal Group Technique, Two-Column Method
+**Related techniques:** I like it / I don't like it, Review the Consequences, Nominal Group Technique, Two-Column Method, Step Inside
 
 **How to assess:**
 
@@ -754,7 +754,7 @@ In a biology lesson, the teacher presents the problem: “A plant in the classro
 
 Based on this chain of questions, students propose checking soil moisture, reviewing the plant’s location and setting up a watering plan. The technique helps move from a superficial explanation to more specific and testable causes.
 
-**Related techniques:** Detect Patterns, Ask Why, Review the Consequences
+**Related techniques:** Detect Patterns, Ask Why, Review the Consequences, Elaborative interrogation, Self-explanation, The Explanation Game, Fishbone diagram (Ishikawa)
 
 **How to assess:**
 
@@ -950,7 +950,7 @@ Finally, the teacher asked the students to share their ideas on how to research 
 
 After sharing their ideas about "I Investigate," the teacher guided the students in selecting one or more research questions to investigate during the rest of the unit.
 
-**Related techniques:** Inquiry-Based Learning, Question-Based Learning (QBL), KWL (I know, I want to know, I have learned), 3-2-1 Bridge, See-Think-Wonder, Claim, Support, Question, Connect, extend, challenge, Question Formulation Technique (QFT)
+**Related techniques:** Inquiry-Based Learning, Question-Based Learning (QBL), KWL (I know, I want to know, I have learned), 3-2-1 Bridge, See-Think-Wonder, Claim, Support, Question, Connect, extend, challenge, Question Formulation Technique (QFT), Question Starts
 
 **How to assess:**
 
@@ -1003,7 +1003,7 @@ In a history lesson, the teacher introduces the topic of twentieth-century migra
 
 Students look for answers in maps, population graphs and short testimonies. Then they present an evidence-based explanation. The routine helps turn an initial observation into historical questions that require causes, context and relationships between factors.
 
-**Related techniques:** Question-Based Learning (QBL), 5 Whys, Ask and Answer, Reciprocal Teaching, Question Formulation Technique (QFT)
+**Related techniques:** Question-Based Learning (QBL), 5 Whys, Ask and Answer, Reciprocal Teaching, Question Formulation Technique (QFT), Elaborative interrogation, Wait time, The Explanation Game
 
 **How to assess:**
 
@@ -1042,7 +1042,7 @@ Students answer individually first and then compare their answers in small group
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
-**Related techniques:** Question-Based Learning (QBL), Chain of Questions, Listener Teams, Ask Why, Reciprocal Teaching, Question Formulation Technique (QFT)
+**Related techniques:** Question-Based Learning (QBL), Chain of Questions, Listener Teams, Ask Why, Reciprocal Teaching, Question Formulation Technique (QFT), Cold calling
 
 **How to assess:**
 
@@ -1169,7 +1169,7 @@ In literature, students analyze a character from a novel. Inside the silhouette,
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
-**Related techniques:** Circle of Viewpoints, Role Play, Visual Thinking
+**Related techniques:** Circle of Viewpoints, Role Play, Visual Thinking, Step Inside
 
 **How to assess:**
 
@@ -1276,7 +1276,7 @@ In an art history lesson, the teacher shows a photograph of a crowded urban squa
 
 In “I think”, they interpret what may be happening: a citizens’ protest, a labor claim or a political demand. In “I wonder”, they formulate questions: “What year did this happen?”, “What were they demanding?”, “Who organized the protest?” or “What consequences did it have?”. The routine helps separate observation, interpretation and research questions.
 
-**Related techniques:** What makes you say that?, Generate Hypotheses, Think, Puzzle, Explore, Predict, Observe, Explain (POE), Concept Cartoon, Claim, Support, Question
+**Related techniques:** What makes you say that?, Generate Hypotheses, Think, Puzzle, Explore, Predict, Observe, Explain (POE), Concept Cartoon, Claim, Support, Question, The Explanation Game
 
 **How to assess:**
 
@@ -1572,6 +1572,154 @@ In biology, the class analyses whether the use of animals in biomedical research
 ---
 
 
+### 32. Step Inside `metac_163`
+
+_A Project Zero thinking routine for perspective-taking: learners step into the shoes of a person, character or object and answer what they perceive, what they know or believe and what they care about. It develops empathy and understanding of different viewpoints._
+
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Communication and Creativity
+
+_Keywords: thinking routine, perspective, empathy, Project Zero, viewpoints_
+
+Step Inside is a thinking routine that helps explore a situation from someone else’s point of view: a person, a historical or literary character, a group or even an object. By adopting that perspective, learners understand that every situation looks different depending on who is looking, and they develop empathy and depth of analysis.
+
+The routine rests on three questions that learners answer “from inside” the chosen agent:
+
+#### How to apply it
+
+1. Select a situation, image, text or event rich in perspectives.
+2. Each student (or group) chooses or is assigned an agent to look from (person, character, object).
+3. They answer, in the first person, three questions: What do I perceive or notice from here? What do I know, believe or think? What do I care about or want?
+4. The different perspectives are shared and compared: where they agree, where they clash and why.
+5. They reflect on how understanding of the situation changes after looking at it “from inside” someone else.
+
+#### Example
+
+Faced with a painting of an everyday 19th-century scene, different students step into the girl who appears, the merchant in the background and even the dog. Each describes what they perceive, think and care about from that position. Sharing them, the class discovers tensions and nuances in the scene that were invisible from a single viewpoint.
+
+**Related techniques:** Circle of Viewpoints, Role Play, Compass Points, Role on the Wall (Character Silhouette)
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Analysis of productions
+
+- *Instruments:* Oral rubric
+
+- *Dimensions:* Formative purpose
+
+---
+
+
+### 33. The Explanation Game `metac_164`
+
+_A thinking routine that starts by identifying a striking detail of an object or situation and repeatedly asking “why is it like that?” to build explanations. It fosters curiosity, causal reasoning and evidence-based thinking._
+
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Critical Thinking and Metacognition, Information Processing and Analysis
+
+_Keywords: thinking routine, explanation, causality, Project Zero, curiosity_
+
+The Explanation Game is a Project Zero routine focused on explaining the why of things. It begins by noticing some feature or detail of an object, image or phenomenon and, from there, chains “why is it like that?” questions that lead to proposing increasingly grounded explanations.
+
+It is especially useful for activating curiosity and for moving from mere observation to the search for causes and mechanisms.
+
+#### How to apply it
+
+1. Present an object, image or phenomenon and ask learners to notice: “What do you observe? What detail catches your attention?”.
+2. About that detail, ask: “Why is it like that? Why do you think that happens?”.
+3. Learners propose a possible explanation (a hypothesis).
+4. Go deeper: “What makes you think that? What other explanation could there be?”.
+5. Alternative explanations are compared and judged against the available evidence.
+
+#### Example
+
+In science, the teacher shows a leaf with curled edges and asks what detail stands out. A student points to the dry edges. “Why do you think they curled like that?” Explanations emerge: lack of water, too much sun, a pest. The group compares them and decides what evidence would confirm each, turning a simple observation into a small inquiry.
+
+**Related techniques:** What makes you say that?, 5 Whys, Ask Why, See-Think-Wonder
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Observation scale
+
+- *Dimensions:* Formative purpose
+
+---
+
+
+### 34. Chalk Talk `metac_165`
+
+_A thinking routine in which the group dialogues in writing and in silence about a question written on a shared surface: each person adds ideas, connects to others’ and poses new questions, without speaking. It makes collective thinking visible._
+
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Communication and Creativity, Cohesion and Cooperation
+
+_Keywords: thinking routine, written conversation, Project Zero, participation, collective thinking_
+
+Chalk Talk is a Project Zero routine for conversing without spoken words. On a board, mural or shared document a central question or topic is written, and learners respond in writing, in silence, adding ideas, commenting on what others have written, connecting contributions with lines and posing new questions.
+
+The silence equalises participation (those who rarely speak also take part), gives time to think and leaves a visible record of the group’s whole thinking process.
+
+#### How to apply it
+
+1. Write an open question or topic in the centre of a large surface.
+2. Explain the only rule: you converse only in writing, without speaking.
+3. Learners approach and write ideas, respond to what they see, draw lines to connect contributions and add questions.
+4. The teacher can also take part in writing, posing questions that push deeper.
+5. At the end the silence is broken: the mural is viewed as a whole, patterns, agreements and tensions are identified, and it is discussed aloud.
+
+#### Example
+
+In a tutorial, the centre of a large sheet reads “What makes a group work well?”. Without speaking, learners write ideas (respect, listening, sharing tasks), react to others’ and join them with arrows. When finished, the mural shows at a glance the dominant ideas and the disagreements, which form the basis for a later discussion.
+
+**Related techniques:** Roundtable, Gallery Walk, Cooperative Graffiti, World Café
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Analysis of productions
+
+- *Instruments:* Observation scale, Participation record
+
+- *Dimensions:* Shared and participatory assessment, Formative purpose
+
+---
+
+
+### 35. Question Starts `metac_166`
+
+_A thinking routine for generating questions: from a topic, learners create many questions using starters like “why…?”, “what if…?”, “how…?”. It sparks curiosity and teaches how to ask good questions, not just answer them._
+
+**Block:** Active Methodologies · **Fields:** Thinking Routines, Activation of Prior Knowledge, Critical Thinking and Metacognition
+
+_Keywords: thinking routine, question formulation, curiosity, Project Zero, inquiry_
+
+Question Starts is a Project Zero routine that reverses the usual classroom dynamic: instead of answering questions, learners generate them. To do so they are given a list of starters (“Why…?”, “What would happen if…?”, “What would it be like if…?”, “What is the purpose of…?”, “What would change if…?”) that help produce questions of different kinds and depth about a topic.
+
+Formulating questions activates interest, surfaces what is already known and what one wants to find out, and develops a key critical-thinking skill: knowing what to ask.
+
+#### How to apply it
+
+1. Present a topic, object or situation to be studied.
+2. Show a list of varied question starters.
+3. Learners, individually or in groups, generate as many questions as possible using those starters (a question brainstorm, without answering them yet).
+4. The questions are reviewed: the most interesting or powerful are identified and closed vs. open questions are distinguished.
+5. Some questions are chosen to be investigated or used to guide the study of the topic.
+
+#### Example
+
+Before starting a topic on water, learners use the starters to generate questions: “Why is sea water salty?”, “What would happen if it didn’t rain for a year?”, “How does water reach the tap?”. They then select the ones that intrigue them most, which become the thread of the unit, giving them ownership of what they will learn.
+
+**Related techniques:** Question-Based Learning (QBL), Chain of Questions, Think, Puzzle, Explore, Question Formulation Technique (QFT)
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions, Probing and questioning
+
+- *Instruments:* Checklist
+
+- *Dimensions:* Diagnostic purpose, Formative purpose
+
+---
+
+
 ## Cohesion and Cooperation
 
 
@@ -1850,7 +1998,7 @@ There are significant elements in our lives. Sharing them allows us to recognize
 
 Source: ECO. (2007). Group building activities.
 
-**Related techniques:** Getting to Know Each Other, The Box, Interview, I like it / I don't like it
+**Related techniques:** Getting to Know Each Other, The Box, Interview, I like it / I don't like it, Timeline
 
 **How to assess:**
 
@@ -1890,7 +2038,7 @@ In a tutoring session on classroom coexistence, each student receives three chip
 
 Once a student has used all three chips, they listen until everyone has used theirs. This prevents the same students from always speaking and gives space to those who usually participate less. At the end, the group selects three shared rules and discusses whether the turn-taking system improved the quality of the dialogue.
 
-**Related techniques:** Fishbowl (Aquarium), Round Table, Nominal Group Technique, Cooperative Roles
+**Related techniques:** Fishbowl (Aquarium), Round Table, Nominal Group Technique, Cooperative Roles, Fan-N-Pick
 
 **How to assess:**
 
@@ -1968,7 +2116,7 @@ A cooperative learning structure in pairs in which one student acts as a tutor f
 #### Example
 In mathematics, a student tutor supports a partner in solving a problem. The tutor asks what data are available, what operation may be needed, and why, but does not write the final answer.
 
-**Related techniques:** Team-Pair-Solo, Four Wise Students, Team Assisted Individualization (TAI), Yellow Pages, Co-teaching, Worked examples, Gradual release of responsibility, Think-aloud
+**Related techniques:** Team-Pair-Solo, Four Wise Students, Team Assisted Individualization (TAI), Yellow Pages, Co-teaching, Worked examples, Gradual release of responsibility, Think-aloud, Scaffolding and zone of proximal development (ZPD)
 
 **How to assess:**
 
@@ -2223,6 +2371,156 @@ At the end, the team reviews whether each role helped organize the work better: 
 ---
 
 
+### 16. Fan-N-Pick `metac_167`
+
+_A Kagan cooperative structure for reviewing content in teams of four with question cards. Each member takes a different role in turn (holding the cards, reading, answering, evaluating), ensuring everyone participates equally._
+
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Formative Assessment and Feedback, Activation of Prior Knowledge
+
+_Keywords: cooperative learning, Kagan, review, roles, cards_
+
+Fan-N-Pick is a Spencer Kagan cooperative structure for reviewing or practising content in teams of four using a deck of question cards. Its value lies in the rotation of roles: in each round every member performs a different function, so all participate equally and no one is left out.
+
+It guarantees simultaneous interaction and individual accountability, two key principles of well-structured cooperative learning.
+
+#### How to apply it
+
+1. Each team of four receives a deck of question cards (with the answer on the back or known to the group).
+2. Student 1 holds the cards in a fan, face down, and says: “Pick a card.”
+3. Student 2 picks a card and reads the question aloud.
+4. Student 3 answers the question.
+5. Student 4 evaluates the answer: if correct, praises; if not, helps correct it or re-teaches.
+6. Roles rotate one position and it repeats with the next card, until the deck is finished.
+
+#### Example
+
+To review English vocabulary, each team uses cards with a word on one side and its translation on the other. The one holding the fan offers the cards; another picks and reads; a third translates; the fourth checks against the back and, if needed, corrects kindly. After each question roles rotate, so within minutes everyone has questioned, answered and evaluated.
+
+**Related techniques:** Numbered Heads Together, Quiz-Quiz-Trade, RoundRobin, Talking Chips
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Oral exchanges
+
+- *Instruments:* Cooperative work record, Cooperative work rubric
+
+- *Dimensions:* Peer assessment, Formative purpose
+
+---
+
+
+### 17. Showdown `metac_168`
+
+_A Kagan cooperative structure in which, given a question, all team members answer at once individually and then compare and reach consensus. It combines individual accountability with mutual help and active review._
+
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Formative Assessment and Feedback, Activation of Prior Knowledge
+
+_Keywords: cooperative learning, Kagan, review, individual accountability, practice_
+
+Showdown is a Kagan cooperative structure for practising or reviewing in a team while making sure everyone thinks. One member acts as “round captain”, reads the question, and everyone solves it on their own and in secret; on a signal (“Showdown!”) they show their answers simultaneously, compare them and, if there are discrepancies, discuss until the correct one is understood.
+
+The key is that no one can hide behind the group: each student produces their own answer before comparing, combining individual accountability with peer learning.
+
+#### How to apply it
+
+1. Each team has a deck of question cards and each member an individual whiteboard or paper.
+2. The round captain takes the first card and reads it aloud.
+3. All members solve it individually and silently, without showing their answer.
+4. When everyone is ready, the captain says “Showdown!” and all reveal their answers at once.
+5. They compare: if they match and are correct, they celebrate; if they differ, they discuss and help one another until it is clarified.
+6. The captain role rotates and they move to the next card.
+
+#### Example
+
+In maths, the captain reads “solve 3/4 + 1/8”. Each member works it out on their whiteboard without looking at the others. On the call of “Showdown!”, everyone shows their result. Two wrote 7/8 and two a different value: the team compares procedures, spots where the error in adding fractions lies and corrects it before moving to the next card.
+
+**Related techniques:** Numbered Heads Together, Quiz-Quiz-Trade, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT)
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Specific tests
+
+- *Instruments:* Cooperative work record
+
+- *Dimensions:* Formative purpose, Gamified assessment
+
+---
+
+
+### 18. Stand Up–Hand Up–Pair Up `metac_169`
+
+_A Kagan cooperative structure in which learners stand up, move around the room and form random pairs with different classmates to exchange ideas or answers. It mixes the group, activates them physically and multiplies interactions._
+
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity, Activation of Prior Knowledge
+
+_Keywords: cooperative learning, Kagan, movement, oral interaction, pairs_
+
+Stand Up–Hand Up–Pair Up is a Kagan cooperative structure that combines movement and interaction. Learners stand up, wander and pair with whoever they meet (not their usual partner), share an answer or idea, and then look for another, different partner. This way each student talks with several different classmates in just a few minutes.
+
+It is ideal for energising the group, breaking the routine of sitting, mixing those who rarely work together and giving lots of oral practice in little time.
+
+#### How to apply it
+
+1. Pose a question or short task that everyone can answer.
+2. “Stand up”: everyone stands. “Hand up”: they raise a hand while moving, as a signal that they are looking for a partner.
+3. “Pair up”: they high-five the first classmate they meet and lower their hand: they are a pair.
+4. In turn, each shares their answer or idea and listens to the other’s.
+5. On the teacher’s signal, they raise their hand again, say goodbye and look for a new, different partner, repeating the exchange.
+
+#### Example
+
+After reading a text, the teacher asks: “think of an idea that surprised you.” Everyone stands with a hand up, pairs with the first person they meet and tells each other their idea. On the signal, they swap partners two or three more times. In five minutes each student has verbalised their idea several times and heard diverse viewpoints, arriving better prepared at the whole-class sharing.
+
+**Related techniques:** Timed Pair Share, RallyRobin, Appointment Clock, Think-Pair-Share
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Oral exchanges
+
+- *Instruments:* Participation record
+
+- *Dimensions:* Formative purpose
+
+---
+
+
+### 19. Three-Step Interview `metac_170`
+
+_A cooperative structure in which, in teams of four, members interview each other in pairs (one asks, the other answers), swap roles, and then each shares with the team what they learned from their partner. It develops listening and synthesis._
+
+**Block:** Cooperative Learning Organization · **Fields:** Cohesion and Cooperation, Communication and Creativity, Information Processing and Analysis
+
+_Keywords: cooperative learning, interview, active listening, synthesis, pairs_
+
+The Three-Step Interview is a cooperative structure that ensures everyone speaks and everyone listens. The team of four splits into two pairs; within each pair, first one interviews the other about a topic, then they swap roles, and finally, back in the full team, each member shares not their own answer but what they learned from their partner.
+
+That third step is key: it forces attentive listening (because there is later accountability for what was heard) and develops the ability to synthesise and faithfully communicate someone else’s idea.
+
+#### How to apply it
+
+1. Pose a topic or question that allows personal or elaborated answers.
+2. Step 1: in each pair, student A interviews B, who answers while A listens (and may take notes).
+3. Step 2: they swap roles; now B interviews A.
+4. Step 3: in the team of four, each member shares in turn what their partner said (not their own), in a round-robin structure.
+5. The team gathers the shared ideas and the differences.
+
+#### Example
+
+When starting a project, the topic is “what would you like to research and why?”. In pairs, A interviews B and then B interviews A. Then, in the team of four, each presents their partner’s interest: “David is interested in climate change because…”. This way everyone practises active listening and synthesis, and the team learns all its members’ interests in order to decide the project.
+
+**Related techniques:** Interview, Discussion Pairs, Appointment Clock, Think-Pair-Share
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Oral exchanges
+
+- *Instruments:* Cooperative work record, Oral rubric
+
+- *Dimensions:* Peer assessment, Formative purpose
+
+---
+
+
 ## Activation of Prior Knowledge
 
 
@@ -2335,7 +2633,7 @@ First, each pair presents its position. Then the pairs switch sides and must def
 
 The activity helps students understand the complexity of the issue and learn to argue without reducing the debate to a simple opposition between being for or against.
 
-**Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Fishbowl (Aquarium), Socratic Seminar, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Tug of war
+**Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Fishbowl (Aquarium), Socratic Seminar, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Tug of war, Academic debate
 
 **How to assess:**
 
@@ -2393,7 +2691,7 @@ In a language lesson, the teacher asks each team to write a short story based on
 
 In a second round, each student revises or improves one aspect of the text: vocabulary, coherence, connectors or spelling. At the end, the team reads the story and comments on each member’s contribution. The technique ensures that everyone participates and makes it possible to build a shared product through successive contributions.
 
-**Related techniques:** Word Game, Cooperative Graffiti, RoundRobin, +1
+**Related techniques:** Word Game, Cooperative Graffiti, RoundRobin, +1, Chalk Talk
 
 **How to assess:**
 
@@ -2565,7 +2863,7 @@ In a mathematics unit on linear functions, the teacher prepares a short 8-minute
 
 Before class, the teacher reviews the answers and notices that many students confuse slope with initial value. In class, the first few minutes are used to clarify this difficulty, and then students work on a practical activity: interpreting graphs of phone tariffs, journeys and electricity consumption. Face-to-face time is used to answer questions, compare strategies and apply the content to specific situations.
 
-**Related techniques:** Learning Stations, Peer Instruction, Exit Ticket
+**Related techniques:** Learning Stations, Peer Instruction, Exit Ticket, WebQuest, Personalised learning playlists, Community of Inquiry
 
 **How to assess:**
 
@@ -2661,7 +2959,7 @@ In mathematics, the teacher gives each team four proportionality exercises. Each
 
 When time is up, the teacher calls a random number, for example 3. All students with that number answer on behalf of their teams. Since they do not know who will be chosen, the team must help all members understand the task, not just get a quick answer.
 
-**Related techniques:** Pencils in the Middle, Peer Instruction, STAD (Student Teams Achievement Divisions), One for All
+**Related techniques:** Pencils in the Middle, Peer Instruction, STAD (Student Teams Achievement Divisions), One for All, Cold calling, Fan-N-Pick, Showdown
 
 **How to assess:**
 
@@ -2706,7 +3004,7 @@ In a digital education lesson, the teacher poses several questions about social 
 
 Each pair discusses the questions for a few minutes and writes down two agreed ideas. Then the teacher randomly asks some pairs for their answers and builds a shared list of recommendations on the board. The technique activates prior experiences and turns them into shared criteria for responsible use.
 
-**Related techniques:** Timed Pair Share, Appointment Clock, Think-Pair-Share
+**Related techniques:** Timed Pair Share, Appointment Clock, Think-Pair-Share, Three-Step Interview
 
 **How to assess:**
 
@@ -2753,7 +3051,7 @@ In the next round, with the six o’clock appointment, they answer another quest
 
 **Resources:** [Appointment Clock](https://reloj-citas.github.io/)
 
-**Related techniques:** Interview, Discussion Pairs, Quiz-Quiz-Trade
+**Related techniques:** Interview, Discussion Pairs, Quiz-Quiz-Trade, Stand Up–Hand Up–Pair Up, Three-Step Interview
 
 **How to assess:**
 
@@ -2798,7 +3096,7 @@ A brief cooperative learning technique that combines individual reflection, pair
 #### Example
 In biology, before explaining natural selection, the teacher asks: **Why do some bacteria become resistant to antibiotics?** Each student proposes an explanation, then compares it with their partner, and finally, several answers are gathered to begin the explanation.
 
-**Related techniques:** 1 - 2 - 4, Timed Pair Share, What I know and what we know, Detective Pairs, Discussion Pairs, Peer Instruction
+**Related techniques:** 1 - 2 - 4, Timed Pair Share, What I know and what we know, Detective Pairs, Discussion Pairs, Peer Instruction, Wait time, Stand Up–Hand Up–Pair Up, Three-Step Interview
 
 **How to assess:**
 
@@ -2981,7 +3279,7 @@ In a digitalization class, students design a solution to improve the organizatio
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html)
 
-**Related techniques:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Generate Solutions, Problem Matrix, The 4Cs of Learning
+**Related techniques:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Generate Solutions, Problem Matrix, The 4Cs of Learning, Maker learning / STEAM
 
 **How to assess:**
 
@@ -3254,7 +3552,7 @@ This table summarizes ideas related to "how to improve academic performance":
 
 This matrix allows you to compare different solutions and assess which are the best options based on their potential effects or consequences.
 
-**Related techniques:** Design Thinking, Detect Patterns, Generate Solutions, Review the Consequences, Two-Column Method, NASA Game
+**Related techniques:** Design Thinking, Detect Patterns, Generate Solutions, Review the Consequences, Two-Column Method, NASA Game, Computational thinking, Fishbone diagram (Ishikawa)
 
 **How to assess:**
 
@@ -3379,7 +3677,7 @@ On tournament day, students compete at tables with classmates from other teams w
 
 **Resources:** [QPlay: Interactive Contest](https://jjdeharo.github.io/qplay/) · [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
-**Related techniques:** Game-Based Learning (GBL), Quiz-Quiz-Trade, STAD (Student Teams Achievement Divisions), Gamification
+**Related techniques:** Game-Based Learning (GBL), Quiz-Quiz-Trade, STAD (Student Teams Achievement Divisions), Gamification, Showdown
 
 **How to assess:**
 
@@ -3457,13 +3755,87 @@ Worked examples are problems that have already been solved step by step, with ex
 #### Example
 In physics, before solving kinematics problems, the teacher shows an example where data are identified, the formula is chosen, units are substituted and the reasonableness of the result is checked. Students then complete a similar problem with some steps left blank.
 
-**Related techniques:** Team-Pair-Solo, Peer Tutoring, Gradual release of responsibility, Think-aloud, Orientation guides, Cognitive load theory
+**Related techniques:** Team-Pair-Solo, Peer Tutoring, Gradual release of responsibility, Think-aloud, Orientation guides, Cognitive load theory, Concrete examples
 
 **How to assess:**
 
 - *Evaluation techniques:* Documentary analysis, Analysis of productions, Specific tests
 
 - *Dimensions:* Inclusive assessment and UDL, Problem solving
+
+---
+
+
+### 14. Maker learning / STEAM `metac_172`
+
+_An approach in which learners learn by creating tangible objects and solutions (designing, building, coding) and integrating science, technology, engineering, art and mathematics. Learning by doing, with productive failure, iteration and meaningful projects._
+
+**Block:** Active Methodologies · **Fields:** Problem Solving and Challenges, Communication and Creativity, Cohesion and Cooperation
+
+_Keywords: maker, STEAM, learning by doing, prototyping, interdisciplinarity_
+
+Maker learning is based on the idea of “learning by making and creating”: learners build physical or digital objects (models, prototypes, devices, programs) to solve a challenge, and in the process mobilise knowledge from several areas. When that creation deliberately integrates Science, Technology, Engineering, Art and Mathematics, we speak of a STEAM approach.
+
+Its formative value lies in the design cycle: prototype, test, fail, adjust and improve. Error is not a failure but information for iterating, and the final product has a real purpose that gives meaning to the effort.
+
+#### How to apply it
+
+1. Pose a challenge or need that requires creating something (an object, a mechanism, a solution).
+2. Learners come up with possible solutions and choose one, identifying what knowledge they need from each discipline.
+3. They design and build a first prototype with the available materials or tools (handcraft, electronics, coding, 3D printing…).
+4. They test the prototype, detect what fails and improve it over successive iterations.
+5. They share the final product and reflect on the process, the errors and what was learned.
+
+#### Example
+
+Faced with the challenge “design a device that warns when a plant needs water”, learners combine science (soil moisture), technology and coding (a sensor and a programmable board) and design (the casing). They build a first prototype that does not work well, adjust the code and sensor, and after several tests achieve a working alert, documenting each iteration in a project report.
+
+**Related techniques:** Laboratory-Based Learning, Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Analysis of productions
+
+- *Instruments:* Process rubric, Product rubric
+
+- *Dimensions:* Competency-based approach, Performance evidence, Project-based learning
+
+---
+
+
+### 15. Computational thinking `metac_173`
+
+_A way of approaching and solving problems inspired by computer science, based on four skills: decomposing, recognising patterns, abstracting the essential and designing algorithms. It transfers to any subject and does not necessarily require computers._
+
+**Block:** Active Methodologies · **Fields:** Problem Solving and Challenges, Critical Thinking and Metacognition, Information Processing and Analysis
+
+_Keywords: computational thinking, problem solving, algorithms, abstraction, patterns_
+
+Computational thinking is a way of reasoning to solve problems (not necessarily with a computer) by borrowing strategies from computer science. It means analysing a complex problem by breaking it into manageable parts, detecting regularities, keeping the essentials while ignoring irrelevant details, and formulating a clear sequence of steps that leads to the solution.
+
+Its four pillars are: decomposition (dividing the problem), pattern recognition (seeing what repeats), abstraction (focusing on what matters) and algorithm design (defining ordered, reusable steps).
+
+#### How to apply it
+
+1. Present a problem or task with some complexity.
+2. Decomposition: learners divide it into smaller, manageable subproblems.
+3. Pattern recognition: they look for similarities with already-solved problems or internal regularities.
+4. Abstraction: they identify the essential data and rules and leave out the incidental.
+5. Algorithm: they design a precise sequence of steps to solve it, test it and debug it if it fails.
+
+#### Example
+
+To organise the schedule for using a single computer among several groups, learners decompose the problem (how many groups, how much time, what priorities), recognise the pattern of rotating turns, abstract the key rules (everyone must use it for the same time) and design a step-by-step allocation algorithm. They test it with cases and adjust it: they have solved a real problem applying computational thinking without coding anything.
+
+**Related techniques:** Problem-Based Learning (PBL), Detect Patterns, Generate Solutions, Problem Matrix
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions, Specific tests
+
+- *Instruments:* Analytic rubric
+
+- *Dimensions:* Competency-based approach, Digital evidence, Problem solving
 
 ---
 
@@ -3556,7 +3928,7 @@ A methodology in which learning is organized around questions, observations, or 
 #### Example
 In biology, students investigate why some seeds germinate better than others. They design a small test with different light or humidity conditions, collect data, and justify their conclusions.
 
-**Related techniques:** Research-Based Learning (RBL), Laboratory-Based Learning, Discovery Learning, 5E Instructional Model, Generate Hypotheses, Detective Pairs, Think, Puzzle, Explore, Centers of Interest (Decroly Approach), Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Concept Cartoon
+**Related techniques:** Research-Based Learning (RBL), Laboratory-Based Learning, Discovery Learning, 5E Instructional Model, Generate Hypotheses, Detective Pairs, Think, Puzzle, Explore, Centers of Interest (Decroly Approach), Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Concept Cartoon, WebQuest
 
 **How to assess:**
 
@@ -3657,7 +4029,7 @@ Finally, the students have to create a tangible final product that demonstrates 
 
 Through the development of this project, the students have learned about energy conservation and climate change in a much deeper and more meaningful way than with traditional teaching methods.
 
-**Related techniques:** Problem-Based Learning (PBL), Design Thinking, Digital Storytelling, Service-Learning, Authentic Assessment, The 4Cs of Learning
+**Related techniques:** Problem-Based Learning (PBL), Design Thinking, Digital Storytelling, Service-Learning, Authentic Assessment, The 4Cs of Learning, WebQuest, Maker learning / STEAM, Genius Hour
 
 **How to assess:**
 
@@ -3718,7 +4090,7 @@ Example of applying Challenge-Based Learning to solve this problem:
 
 - Evaluation: Students will conduct a self-evaluation to reflect on the process followed and the results obtained. An evaluation will also be carried out by the teacher(s) involved. If deemed necessary, external evaluations can be requested from other stakeholders in the neighborhood to obtain a broader perspective on the work undertaken.
 
-**Related techniques:** Action-Based Learning (ABL), Problem-Based Learning (PBL), Design Thinking, Service-Learning
+**Related techniques:** Action-Based Learning (ABL), Problem-Based Learning (PBL), Design Thinking, Service-Learning, Maker learning / STEAM, Genius Hour
 
 **How to assess:**
 
@@ -3805,7 +4177,7 @@ Sources:
 
 1. Once all the students have spoken, a brief summary of each pair's viewpoints is created.
 
-**Related techniques:** 1 - 2 - 4, Discussion Pairs, RallyRobin, Think-Pair-Share
+**Related techniques:** 1 - 2 - 4, Discussion Pairs, RallyRobin, Think-Pair-Share, Stand Up–Hand Up–Pair Up
 
 **How to assess:**
 
@@ -3887,7 +4259,7 @@ Classroom organization into different stations or workspaces. At each station, s
 #### Example
 In biology, one station involves observing samples, another image analysis, another answering questions, and another creating a diagram. All groups rotate through all the stations.
 
-**Related techniques:** Flipped Classroom, Universal Design for Learning (UDL), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching
+**Related techniques:** Flipped Classroom, Universal Design for Learning (UDL), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching, Personalised learning playlists
 
 **How to assess:**
 
@@ -3931,7 +4303,7 @@ Each team starts at one poster and writes its ideas for three minutes. Then the 
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html) · [Interactive wall](https://jjdeharo.github.io/directo/muro.html)
 
-**Related techniques:** Roundtable, Gallery Walk, RoundRobin, World Café, Nominal Group Technique
+**Related techniques:** Roundtable, Gallery Walk, RoundRobin, World Café, Nominal Group Technique, Chalk Talk
 
 **How to assess:**
 
@@ -4053,7 +4425,7 @@ In a literature lesson, the teacher asks: “What traits can a main character ha
 
 The pair continues until they run out of ideas. Then some responses are collected on the board and used to analyze the main character of a short story. The structure makes it possible to generate a broad list quickly and ensures that both students participate.
 
-**Related techniques:** Timed Pair Share, RoundRobin, Nominal Group Technique
+**Related techniques:** Timed Pair Share, RoundRobin, Nominal Group Technique, Stand Up–Hand Up–Pair Up
 
 **How to assess:**
 
@@ -4096,7 +4468,7 @@ In a tutoring session, the teacher asks the group: “What could we do to make t
 
 The round continues until several proposals have been collected. Then the team selects the two it considers most feasible and shares them with the class. The technique gathers many ideas without one person dominating the conversation.
 
-**Related techniques:** Roundtable, Cooperative Graffiti, RallyRobin, Nominal Group Technique
+**Related techniques:** Roundtable, Cooperative Graffiti, RallyRobin, Nominal Group Technique, Fan-N-Pick
 
 **How to assess:**
 
@@ -4141,7 +4513,7 @@ A collaborative dialogue activity in small groups that rotate through several ta
 #### Example
 In a unit on sustainability, each table addresses one question: water consumption, energy, waste, mobility, and food. The groups rotate, complete the ideas, and finally develop proposals for the center.
 
-**Related techniques:** Gallery Walk, Cooperative Graffiti, The 4Cs of Learning, Nominal Group Technique
+**Related techniques:** Gallery Walk, Cooperative Graffiti, The 4Cs of Learning, Nominal Group Technique, Chalk Talk
 
 **How to assess:**
 
@@ -4272,13 +4644,50 @@ Gradual release of responsibility is a scaffolding model in which responsibility
 #### Example
 To solve geometry problems, the teacher solves one problem while thinking aloud for 5 minutes. Then they solve another with the class. Next, pairs work on a third problem and, finally, each student solves a similar one individually.
 
-**Related techniques:** Team-Pair-Solo, Peer Tutoring, Worked examples, Think-aloud, Cognitive load theory
+**Related techniques:** Team-Pair-Solo, Peer Tutoring, Worked examples, Think-aloud, Cognitive load theory, Scaffolding and zone of proximal development (ZPD)
 
 **How to assess:**
 
 - *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Dimensions:* Inclusive assessment and UDL, Problem solving
+
+---
+
+
+### 19. Concrete examples `metac_155`
+
+_A strategy that illustrates abstract ideas with specific, everyday and varied examples so learners grasp the concept and can recognise it in new situations. It links the new to real experiences and reduces excessive abstraction._
+
+**Block:** Active Methodologies · **Fields:** Knowledge Building, Information Processing and Analysis, Communication and Creativity
+
+_Keywords: cognitive science, abstraction, transfer, comprehension, examples_
+
+Abstract ideas are understood and remembered better when anchored in concrete, familiar examples. This strategy means pairing each concept with several specific examples and, conversely, asking learners to generate their own, which reveals whether they have truly understood.
+
+Using varied examples (not just one) helps abstract the essence of the concept and transfer it to different contexts, preventing learning from being stuck to a single case.
+
+#### How to apply it
+
+1. Explain the abstract concept clearly and briefly.
+2. Offer two or three diverse, concrete examples that illustrate it, pointing out what they have in common.
+3. If useful, include a counterexample (something that seems to fit but does not) to delimit the concept.
+4. Ask learners to contribute their own examples from their experience.
+5. Check the quality of those examples: if they are correct, the concept is understood; if not, clarify it.
+
+#### Example
+
+When teaching the concept of “inflation”, instead of stopping at the definition, the teacher shows concrete examples: the price of bread rising every year, the cinema ticket that cost less a decade ago, the bus fare. Then each student is asked for an example from their own daily life. Comparing several cases helps capture the shared idea of loss of purchasing power.
+
+**Related techniques:** Compare and Contrast, Frayer Model, Worked examples, Cognitive load theory
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions
+
+- *Instruments:* Correction guide
+
+- *Dimensions:* Formative purpose
 
 ---
 
@@ -4378,7 +4787,7 @@ We can also use a simpler structure for the same problem:
 
 2. Results analysis and presentation to the class. Students analyze the collected data and draw conclusions about the effect of different types of fertilizers on plant growth. They then present their research findings to the class clearly and with scientific rigor.
 
-**Related techniques:** Inquiry-Based Learning, Laboratory-Based Learning, Group Investigation, Argument-Driven Inquiry (ADI)
+**Related techniques:** Inquiry-Based Learning, Laboratory-Based Learning, Group Investigation, Argument-Driven Inquiry (ADI), WebQuest
 
 **How to assess:**
 
@@ -4439,7 +4848,7 @@ Then each group designs a simple experiment with two groups of seeds: one expose
 
 At the end, they analyze the data, compare the results with the initial hypothesis and prepare a short presentation with a data table, a graph and an evidence-based conclusion.
 
-**Related techniques:** Inquiry-Based Learning, Research-Based Learning (RBL), Experiential Learning, 5E Instructional Model
+**Related techniques:** Inquiry-Based Learning, Research-Based Learning (RBL), Experiential Learning, 5E Instructional Model, Maker learning / STEAM
 
 **How to assess:**
 
@@ -4501,7 +4910,7 @@ In a unit on the history of Western music, the teacher has decided to use questi
 
 The teacher has divided the students into groups of three and assigned each group one of the periods of Western music. The students must work in teams to develop a set of questions using the three categories mentioned above for their assigned period. Then, each group will present their questions to the rest of the class, who will answer them. In this way, learning will develop collaboratively and metacognitively, as students must use their prior knowledge, synthesize the information they have acquired, organize and prioritize it, and apply their knowledge to new situations.
 
-**Related techniques:** Think, Puzzle, Explore, Ask Why, Ask and Answer, Question Formulation Technique (QFT)
+**Related techniques:** Think, Puzzle, Explore, Ask Why, Ask and Answer, Question Formulation Technique (QFT), Question Starts
 
 **How to assess:**
 
@@ -4564,7 +4973,7 @@ In the Technology subject, the challenge is to design an automatic irrigation sy
 
 5. Finally, they install the system in the garden and present the final result, explaining how they overcame the technical problems that arose during the process.
 
-**Related techniques:** Case-Based Learning (CBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Group Investigation, Problem Situation
+**Related techniques:** Case-Based Learning (CBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Group Investigation, Problem Situation, Computational thinking, Fishbone diagram (Ishikawa)
 
 **How to assess:**
 
@@ -4669,7 +5078,44 @@ The teacher writes key words such as “communication”, “leadership”, “t
 ---
 
 
-### 7. Role Play `metac_050`
+### 7. Dual coding `metac_047`
+
+_A cognitive-science strategy that pairs verbal information with visual representations (diagrams, schematics, icons) so learners process content through two complementary channels. It improves comprehension and retention by creating more memory connections._
+
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Communication and Creativity, Knowledge Building
+
+_Keywords: cognitive science, memory, visual representation, comprehension, study_
+
+Dual coding builds on the idea that the mind processes verbal and visual information through distinct but connected systems. When the same content is presented both in words and in images that represent it, learners have two routes to retrieve it later, which improves comprehension and long-term memory.
+
+It is not about adding decorative pictures, but about using visual representations that explain the idea: diagrams, timelines, flowcharts, icons, maps or sketches that learners generate themselves while studying.
+
+#### How to apply it
+
+1. Identify the key idea or process you want learners to understand and remember.
+2. Present that idea in words (explanation, short text) and, alongside, with a visual representation that shows its structure or relationships.
+3. Ask learners to re-elaborate the content by transforming it from one format to another: turning a text into a diagram, or explaining a diagram in words.
+4. Avoid overload: image and text should refer to the same thing and sit close together, not compete for attention.
+5. When reviewing, have them retrieve the mental image first and then verbalise it, or the other way around.
+
+#### Example
+
+When studying the water cycle, instead of only reading a paragraph, learners draw a diagram with arrows (evaporation, condensation, precipitation) and label each phase in their own words. Then they cover the text and explain the cycle looking only at the drawing, and next cover the drawing and describe it in words. The two channels reinforce each other.
+
+**Related techniques:** CSI: Color, Symbol, Image, Visual Thinking, Cognitive load theory, Mind map
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions
+
+- *Instruments:* Product rubric
+
+- *Dimensions:* Formative purpose, Inclusive assessment and UDL
+
+---
+
+
+### 8. Role Play `metac_050`
 
 _A technique in which students adopt a role or character to deal with a situation. It helps develop empathy, communication, understanding of perspectives, decision-making, and problem-solving in simulated contexts._
 
@@ -4683,7 +5129,7 @@ An example of the role-playing technique could be the following:
 
 Imagine that the group is studying World War II. Participants can divide themselves into different roles, such as political leaders, military personnel, or ordinary citizens from the various countries involved in the war. The group will then have to resolve a series of problems or dilemmas related to the war, such as what decisions each role would make in certain situations or what the consequences of those decisions would be. Thus, participants will have to work together to solve the role-playing challenges while simultaneously reflecting on the different perspectives and motivations of the various characters.
 
-**Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Role on the Wall (Character Silhouette)
+**Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Role on the Wall (Character Silhouette), Step Inside
 
 **How to assess:**
 
@@ -4696,7 +5142,7 @@ Imagine that the group is studying World War II. Participants can divide themsel
 ---
 
 
-### 8. Interview `metac_054`
+### 9. Interview `metac_054`
 
 _This technique involves students interviewing each other in pairs or small groups and then presenting a summary about their partner. It helps improve interpersonal skills, listening, communication, and group cohesion._
 
@@ -4724,7 +5170,7 @@ During the first week of cooperative teamwork, the teacher forms random pairs an
 
 After interviewing each other, each student writes a sentence about their partner, for example: “Marta is organized, prefers clear tasks and can help the team distribute the work”. At the end, the sentences are read aloud and help build a richer picture of the group.
 
-**Related techniques:** Who's who?, Getting to Know Each Other, Appointment Clock, Follow the trail
+**Related techniques:** Who's who?, Getting to Know Each Other, Appointment Clock, Follow the trail, Three-Step Interview
 
 **How to assess:**
 
@@ -4735,7 +5181,7 @@ After interviewing each other, each student writes a sentence about their partne
 ---
 
 
-### 9. Round Table `metac_055`
+### 10. Round Table `metac_055`
 
 _A group dialogue technique focused on a question or problem. It serves to promote participation, listen to different perspectives, build consensus, improve communication, and seek shared solutions._
 
@@ -4786,7 +5232,7 @@ The teacher moderates so that no one dominates the conversation and writes down 
 ---
 
 
-### 10. Shared Reading `metac_057`
+### 11. Shared Reading `metac_057`
 
 _A cooperative reading technique in which students take turns reading, explaining, and evaluating excerpts from a text. It helps improve reading comprehension, active listening, oral expression, and the shared construction of meaning._
 
@@ -4835,7 +5281,7 @@ Then the second student reads the next paragraph and the third summarizes it. Th
 ---
 
 
-### 11. Ghost Reading `metac_058`
+### 12. Ghost Reading `metac_058`
 
 _A collective oral reading technique in which students spontaneously continue reading when another student stops. It helps improve comprehension, reading fluency, oral expression, attention, and respect within the group._
 
@@ -4874,7 +5320,7 @@ At the end, the group discusses whether the rhythm was maintained, whether the p
 ---
 
 
-### 12. Four-Part Concept Map `metac_063`
+### 13. Four-Part Concept Map `metac_063`
 
 _A technique in which a team collaboratively constructs a final concept map or outline. It serves to organize information, synthesize content, distribute responsibilities, and create shared study materials._
 
@@ -4904,7 +5350,7 @@ In each team, one student prepares the part on neurons, another the central nerv
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
-**Related techniques:** Analyze and Synthesize, Word Game, Visual Thinking, Frayer Model, Generate, sort, connect, elaborate
+**Related techniques:** Analyze and Synthesize, Word Game, Visual Thinking, Frayer Model, Generate, sort, connect, elaborate, Mind map
 
 **How to assess:**
 
@@ -4917,7 +5363,7 @@ In each team, one student prepares the part on neurons, another the central nerv
 ---
 
 
-### 13. Service-Learning `metac_080`
+### 14. Service-Learning `metac_080`
 
 _This project combines curricular learning with community service to address a real need in the local area. It serves to educate students through social action, reflection, cooperation, and evaluation of results._
 
@@ -5019,7 +5465,7 @@ Creation of a community garden in a neighborhood with few green spaces and a hig
 
 1. Potential collaborations with other similar initiatives would be explored to expand the program.
 
-**Related techniques:** Action-Based Learning (ABL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL)
+**Related techniques:** Action-Based Learning (ABL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Genius Hour
 
 **How to assess:**
 
@@ -5032,7 +5478,7 @@ Creation of a community garden in a neighborhood with few green spaces and a hig
 ---
 
 
-### 14. Frayer Model `metac_132`
+### 15. Frayer Model `metac_132`
 
 _Graphic organiser for working with concepts through definition, characteristics, examples and non-examples. It helps clarify academic vocabulary, distinguish concepts and improve understanding._
 
@@ -5056,7 +5502,7 @@ It can be used in science, mathematics, language arts, history, economics or any
 #### Example
 In mathematics, for the concept “function”, students write a definition, identify characteristics such as each input value having a single output value, add examples of functions using tables or graphs, and include non-examples where the same input has two different outputs.
 
-**Related techniques:** Analyze and Synthesize, Compare and Contrast, Four-Part Concept Map, Word-Phrase-Sentence, Visual Thinking, Depth of Knowledge (DOK), Generate, sort, connect, elaborate
+**Related techniques:** Analyze and Synthesize, Compare and Contrast, Four-Part Concept Map, Word-Phrase-Sentence, Visual Thinking, Depth of Knowledge (DOK), Generate, sort, connect, elaborate, Concrete examples, Venn diagram
 
 **How to assess:**
 
@@ -5065,7 +5511,7 @@ In mathematics, for the concept “function”, students write a definition, ide
 ---
 
 
-### 15. Reciprocal Teaching `metac_135`
+### 16. Reciprocal Teaching `metac_135`
 
 _Reading comprehension technique based on summarising, questioning, clarifying and predicting by turns. It helps improve active reading, self-regulation, dialogue and shared understanding of texts._
 
@@ -5100,7 +5546,7 @@ In biology, the group reads a text about vaccines. One student summarises the fi
 ---
 
 
-### 16. +1 `metac_148`
+### 17. +1 `metac_148`
 
 _Routine in which notes circulate and each peer adds an improvement. It helps enrich notes, review information and build a more complete version._
 
@@ -5145,7 +5591,7 @@ After three rounds, the summary returns to its author. Each student spends 3 min
 ---
 
 
-### 17. Cornell notes `metac_150`
+### 18. Cornell notes `metac_150`
 
 _Note-taking system with a notes area, questions area and final summary. It helps take better notes, review through retrieval and organise autonomous study._
 
@@ -5185,7 +5631,7 @@ In history, during an explanation of the Second Republic, students take notes fo
 ---
 
 
-### 18. One-sentence summary `metac_151`
+### 19. One-sentence summary `metac_151`
 
 _Synthesis technique that condenses learning into one precise sentence. It helps distinguish essential ideas and check understanding quickly._
 
@@ -5221,6 +5667,229 @@ After studying the Second Republic, students spend 3 minutes writing a sentence 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
+
+---
+
+
+### 20. Elaborative interrogation `metac_154`
+
+_A learning strategy in which learners ask and answer “why is this so?” or “how does this work?” about the facts they study, connecting them to what they already know. It fosters deep understanding rather than surface memorisation._
+
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Critical Thinking and Metacognition, Knowledge Building
+
+_Keywords: elaboration, why questions, deep understanding, cognitive science, metacognition_
+
+Elaborative interrogation means generating and answering “why?” and “how?” questions about the information being learned, instead of merely reading or repeating it. By forcing learners to seek explanations and link new facts to prior knowledge, the information is integrated more firmly and remembered better.
+
+It is especially useful with content made up of facts that may seem arbitrary but have an underlying cause or logic.
+
+#### How to apply it
+
+1. Present a statement or fact from the content (for example, a feature, a cause-effect relationship, a rule).
+2. Ask learners to pose the question “why is this so?” or “why does this make sense?”.
+3. Learners try to answer with an explanation, drawing on what they already know and the available material.
+4. Compare the explanations: the correct one is validated, incomplete ones are refined and wrong ones are corrected.
+5. Repeat the process with the following facts, chaining explanations together.
+
+#### Example
+
+In science, faced with the statement “desert animals tend to be nocturnal”, learners do not just memorise it but answer “why?”: because daytime temperatures are extreme and coming out at night reduces water loss and the risk of overheating. By elaborating the cause, the fact stops being arbitrary and is easily remembered.
+
+**Related techniques:** 5 Whys, Ask Why, Retrieval practice, Self-explanation
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Observation scale
+
+- *Dimensions:* Diagnostic purpose, Formative purpose
+
+---
+
+
+### 21. WebQuest `metac_171`
+
+_A guided-inquiry activity in which learners solve a task using internet resources preselected by the teacher. It has a fixed structure (introduction, task, process, resources, evaluation, conclusion) that guides searching and analysis._
+
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Problem Solving and Challenges, Communication and Creativity
+
+_Keywords: guided inquiry, digital competence, internet, information handling, Dodge_
+
+The WebQuest, created by Bernie Dodge, is an inquiry methodology in which learners tackle a task or problem using mainly internet resources the teacher has selected beforehand. By providing the sources, time is not lost searching but spent analysing, comparing and transforming information, which makes it especially useful for teaching critical handling of information.
+
+Its hallmark is a fixed structure of sections that guides the whole process and makes clear what to do, with which resources and how it will be assessed.
+
+#### How to apply it
+
+1. Introduction: presents the scenario and motivates the task.
+2. Task: describes the final product learners must produce (a report, a presentation, a proposal…).
+3. Process: details the steps to follow, often with role distribution within the group.
+4. Resources: provides the preselected links and materials to consult.
+5. Evaluation: shows the rubric the work will be judged with, known from the start.
+6. Conclusion: closes by recalling what was learned and inviting transfer or further inquiry.
+
+#### Example
+
+In a WebQuest on renewable energy, the task asks for a proposal to install a system at the school. Learners, in groups with roles (economist, engineer, ecologist), consult the provided web resources, compare technologies and costs, and prepare a presentation. The rubric, known from the start, assesses the rigour of the data, the argumentation and the quality of the product.
+
+**Related techniques:** Inquiry-Based Learning, Research-Based Learning (RBL), Project-Based Learning (PjBL), Flipped Classroom
+
+**How to assess:**
+
+- *Evaluation techniques:* Documentary analysis, Analysis of productions
+
+- *Instruments:* Product rubric
+
+- *Dimensions:* Competency-based approach, Digital evidence, Inquiry
+
+---
+
+
+### 22. Mind map `metac_176`
+
+_A radial graphic organiser that starts from a central idea and spreads out branches with keywords, colours and images to represent how concepts relate. It helps structure ideas, synthesise, memorise and generate connections visually._
+
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Communication and Creativity, Knowledge Building
+
+_Keywords: graphic organiser, mind map, synthesis, visual thinking, Buzan_
+
+The mind map, popularised by Tony Buzan, is a graphic representation that organises information radially: the main idea or topic sits in the centre and branches radiate out, subdividing into secondary ideas, using keywords (not long sentences), colours and images. Its structure mimics the associative way the mind connects ideas.
+
+Unlike the concept map (which links concepts with labelled connectors forming propositions), the mind map is freer, more visual and personal, and is very useful for brainstorming, summarising and memorising.
+
+#### How to apply it
+
+1. Write the main idea or topic in the centre of the sheet, ideally with an image.
+2. Draw thick branches towards the related main ideas, each with a keyword.
+3. Subdivide each branch into finer branches with secondary ideas, keeping one word per branch.
+4. Use different colours per branch and add drawings or icons that aid recall.
+5. Review and reorganise: add connections between branches if you discover new relationships.
+
+#### Example
+
+To review the digestive system, learners draw a stomach in the centre and colourful branches radiate out: “organs”, “process”, “nutrients”, “diseases”. Each branch ramifies with keywords and icons. In building it, learners decide what is main and what is secondary and how everything connects, which forces them to structure the content and makes it easier to recall at a glance.
+
+**Related techniques:** Analyze and Synthesize, Dual coding, Four-Part Concept Map, Visual Thinking, Timeline
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions
+
+- *Instruments:* Product rubric
+
+- *Dimensions:* Performance evidence, Formative purpose
+
+---
+
+
+### 23. Fishbone diagram (Ishikawa) `metac_177`
+
+_A fish-skeleton-shaped graphic organiser for analysing the causes of a problem: the effect sits in the head and possible causes are grouped by categories along the bones. It helps think systematically about the roots of a problem._
+
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Critical Thinking and Metacognition, Problem Solving and Challenges
+
+_Keywords: graphic organiser, cause-effect, problem analysis, Ishikawa, problem solving_
+
+The fishbone or Ishikawa diagram (also called cause-effect) is a visual tool for analysing the causes that produce a problem or effect. It is drawn as a fish skeleton: the “head” holds the effect or problem and from the “spine” come bones representing categories of causes, and from each bone, sub-bones with specific causes.
+
+It forces you not to settle for the first explanation, but to explore different families of causes in an orderly way, distinguishing main from secondary causes.
+
+#### How to apply it
+
+1. Clearly write the problem or effect to analyse in the fish’s head (on the right).
+2. Define the main categories of causes (for example: people, methods, materials, environment) and place them as main bones.
+3. For each category, the group brainstorms possible causes and adds them as sub-bones.
+4. Go deeper by asking “why?” at each cause, to reach the roots rather than the symptoms.
+5. Analyse the complete diagram and identify the most likely or influential causes to act on.
+
+#### Example
+
+Faced with the problem “a lot of time is lost at the start of lessons”, the group draws the fishbone and groups causes: organisation (materials not ready), rules (they arrive late), space (badly arranged desks), habits (slow to get out their notebook). Seeing it all together, they identify that the most influential root cause is the lack of a start-of-class routine, and decide to act on it.
+
+**Related techniques:** Problem-Based Learning (PBL), Generate Solutions, 5 Whys, Problem Matrix
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions
+
+- *Instruments:* Analytic rubric
+
+- *Dimensions:* Formative purpose, Problem solving
+
+---
+
+
+### 24. Timeline `metac_178`
+
+_A graphic organiser that represents events or stages in chronological order along an axis. It helps understand sequences, durations, simultaneity and cause-effect relationships over time, and place events in their context._
+
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Knowledge Building, Communication and Creativity
+
+_Keywords: graphic organiser, chronology, temporal sequence, history, cause-effect_
+
+A timeline is a visual representation in which events, stages or processes are placed in chronological order along an axis (usually horizontal). It lets you grasp at a glance the order of events, how long they last, what happens at the same time and how some events can be the cause or consequence of others.
+
+It is a very versatile organiser: it works for history as well as for the development of an experiment, the phases of a project, an author’s biography or the evolution of a concept.
+
+#### How to apply it
+
+1. Delimit the period and the events or stages to be represented.
+2. Draw the axis and decide the scale (so the distance between points is proportional to the time elapsed).
+3. Place each event in its position, with a short label and, if useful, an image.
+4. Mark durations (with bars or spans) and indicate simultaneity or relationships between events.
+5. Interpret the timeline: analyse sequences, rhythms, periods of change and possible causes and effects.
+
+#### Example
+
+When studying the contemporary era, learners build a to-scale timeline with revolutions, wars and technological advances. Seeing them ordered and proportioned, they discover that certain inventions coincide with social changes and that some conflicts chain together, understanding not only what happened but when, in what order and how events relate to one another.
+
+**Related techniques:** Analyze and Synthesize, Detect Patterns, Follow the trail, Mind map
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions
+
+- *Instruments:* Product rubric
+
+- *Dimensions:* Formative purpose
+
+---
+
+
+### 25. Venn diagram `metac_179`
+
+_A graphic organiser made of overlapping circles to compare two or more elements: what is unique to each goes in the non-shared part and what is common goes in the overlap. It helps analyse similarities and differences visually and precisely._
+
+**Block:** Active Methodologies · **Fields:** Information Processing and Analysis, Critical Thinking and Metacognition, Knowledge Building
+
+_Keywords: graphic organiser, comparison, similarities and differences, analysis, Venn_
+
+The Venn diagram uses overlapping circles to compare and contrast two or more concepts, objects or ideas. Each circle represents an element; in the exclusive area of each circle you write its own characteristics, and in the area where the circles overlap, the characteristics they share.
+
+It is a simple but powerful tool for training rigorous comparison: it forces you to decide, for each feature, whether it is unique to one, unique to the other or common to both, which sharpens the analysis.
+
+#### How to apply it
+
+1. Choose the two (or three) elements to compare and draw a circle for each, overlapping them.
+2. Identify the characteristics of each element through observation, reading or brainstorming.
+3. Place each characteristic in its place: in the exclusive part if unique to one element; in the overlap if shared.
+4. Review the distribution and discuss the doubtful cases (is it really common or just similar?).
+5. Draw conclusions from what is exclusive and what is shared.
+
+#### Example
+
+To compare mammals and birds, learners draw two circles. In the mammals one: hair, mammary glands; in the birds one: feathers, beak, shelled eggs; in the overlap: vertebrates, lung breathing, warm blood. By placing each feature, learners understand precisely what both groups have in common and what distinguishes them.
+
+**Related techniques:** Analyze and Synthesize, Compare and Contrast, Detect Patterns, Frayer Model
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of productions
+
+- *Instruments:* Analytic rubric
+
+- *Dimensions:* Formative purpose
 
 ---
 
@@ -5261,7 +5930,7 @@ The biology teacher has been working on the concepts of blood circulation with h
 
 1. At the end of the activity, the teacher summarizes the students' understanding and identifies areas that need further work. The teacher also reviews the key concepts of blood circulation to ensure that all students have grasped them.
 
-**Related techniques:** Three-Minute Pause, Ask and Answer, Quiz-Quiz-Trade
+**Related techniques:** Three-Minute Pause, Ask and Answer, Quiz-Quiz-Trade, Question Starts
 
 **How to assess:**
 
@@ -5306,7 +5975,7 @@ An explicit agreement between student and teacher regarding objectives, tasks, t
 #### Example
 In a research project, each student agrees with the teacher on the research question, the sources to be consulted, the final product, and the deadlines for partial submissions.
 
-**Related techniques:** Learning Journal, Portfolio (learning dossier), Visible Learning, Orientation guides
+**Related techniques:** Learning Journal, Portfolio (learning dossier), Visible Learning, Orientation guides, Genius Hour, Personalised learning playlists
 
 **How to assess:**
 
@@ -5490,7 +6159,7 @@ During an explanation about cellular respiration, the teacher pauses after expla
 
 Then each team asks one question. The teacher notices that several doubts are focused on confusing gas exchange with cellular respiration, so this difference is clarified before continuing. The pause allows the teacher to adjust the explanation while learning is still in progress.
 
-**Related techniques:** Chain of Questions, The Sack of Doubts, Listener Teams, Minute Paper
+**Related techniques:** Chain of Questions, The Sack of Doubts, Listener Teams, Minute Paper, Wait time
 
 **How to assess:**
 
@@ -5537,7 +6206,7 @@ In mathematics, the teacher poses a question about conditional probability with 
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
-**Related techniques:** Flipped Classroom, Exchange difficulties, Numbered Heads Together, Think-Pair-Share, Exit Ticket, Retrieval practice, Interleaved practice
+**Related techniques:** Flipped Classroom, Exchange difficulties, Numbered Heads Together, Think-Pair-Share, Exit Ticket, Retrieval practice, Interleaved practice, Hinge questions, All-student response, ICAP framework
 
 **How to assess:**
 
@@ -5624,7 +6293,7 @@ In an English lesson, each student receives a card with a vocabulary word on one
 
 Then they switch roles, exchange cards and look for a new partner. In a few minutes, each student practises several words with different classmates. The technique turns review into a short, oral and dynamic activity.
 
-**Related techniques:** Game-Based Learning (GBL), Chain of Questions, Appointment Clock, Teams-Games-Tournament (TGT), Gamification
+**Related techniques:** Game-Based Learning (GBL), Chain of Questions, Appointment Clock, Teams-Games-Tournament (TGT), Gamification, All-student response, Fan-N-Pick, Showdown
 
 **How to assess:**
 
@@ -5699,7 +6368,7 @@ At the end, each student takes an individual test with a new map. The team earns
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
-**Related techniques:** Numbered Heads Together, Distribute Points, Teams-Games-Tournament (TGT), One for All, Team Assisted Individualization (TAI)
+**Related techniques:** Numbered Heads Together, Distribute Points, Teams-Games-Tournament (TGT), One for All, Team Assisted Individualization (TAI), Showdown
 
 **How to assess:**
 
@@ -5740,7 +6409,7 @@ A student might answer: “I understood that factories changed the organization 
 
 **Resources:** [Exit tickets](https://jjdeharo.github.io/directo/ticket.html)
 
-**Related techniques:** Assessment Target, Traffic Light, Flipped Classroom, Minute Paper, Muddiest Point, Peer Instruction, Two Stars and a Wish, Retrieval practice
+**Related techniques:** Assessment Target, Traffic Light, Flipped Classroom, Minute Paper, Muddiest Point, Peer Instruction, Two Stars and a Wish, Retrieval practice, Hinge questions
 
 **How to assess:**
 
@@ -5792,7 +6461,7 @@ In a language arts activity, each student writes an argumentative text about mob
 
 The reviewer identifies one clear idea in the text, one part that is not easy to understand and one specific improvement. The author then revises the text: reformulates the thesis, adds a piece of evidence and improves the counterargument. The technique turns assessment into a real opportunity for improvement before the final version.
 
-**Related techniques:** Assessment Target, Gallery Walk, Portfolio (learning dossier), Socratic Seminar, Assessment Rubric, Dialogic Gathering, Argument-Driven Inquiry (ADI), Two Stars and a Wish, Structured Controversy with Evidence, +1
+**Related techniques:** Assessment Target, Gallery Walk, Portfolio (learning dossier), Socratic Seminar, Assessment Rubric, Dialogic Gathering, Argument-Driven Inquiry (ADI), Two Stars and a Wish, Structured Controversy with Evidence, +1, Community of Inquiry
 
 **How to assess:**
 
@@ -5870,7 +6539,7 @@ At the start of a biology lesson, students spend 5 minutes writing everything th
 
 The teacher collects the most frequent doubts and uses the first minutes of the lesson to clarify them.
 
-**Related techniques:** Minute Paper, Peer Instruction, Exit Ticket, Spaced practice, Interleaved practice, Cornell notes
+**Related techniques:** Minute Paper, Peer Instruction, Exit Ticket, Spaced practice, Interleaved practice, Cornell notes, Elaborative interrogation
 
 **How to assess:**
 
@@ -5950,7 +6619,7 @@ Mastery learning is an approach in which students move on to the next content on
 #### Example
 In a fractions unit, each subtopic ends with a short 5-question check. Students who master addition of fractions move on to multiplication; those who still make errors receive an alternative explanation and specific practice before trying again.
 
-**Related techniques:** Visible Learning, Team Assisted Individualization (TAI), Assessment Rubric, Spaced practice
+**Related techniques:** Visible Learning, Team Assisted Individualization (TAI), Assessment Rubric, Spaced practice, Personalised learning playlists
 
 **How to assess:**
 
@@ -5990,7 +6659,7 @@ Orientation guides are supports that help students complete a complex task throu
 #### Example
 For argumentative writing, the guide includes questions such as: “What is your thesis?”, “What evidence supports it?”, “Have you included an objection?” and “Have you answered that objection?”. Students use it before submitting the final version.
 
-**Related techniques:** Learning Contract, Understanding by Design (UbD), Assessment Rubric, Worked examples
+**Related techniques:** Learning Contract, Understanding by Design (UbD), Assessment Rubric, Worked examples, Scaffolding and zone of proximal development (ZPD)
 
 **How to assess:**
 
@@ -5999,6 +6668,191 @@ For argumentative writing, the guide includes questions such as: “What is your
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
+
+---
+
+
+### 19. Hinge questions `metac_157`
+
+_A diagnostic multiple-choice question placed at a key point in the lesson whose answer reveals within seconds whether the group has understood a concept. Based on the result, the teacher decides to move on, re-explain or regroup._
+
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Activation of Prior Knowledge
+
+_Keywords: formative assessment, diagnosis, multiple choice, decision making, Dylan Wiliam_
+
+A hinge question is a carefully designed question posed at a “hinge” moment of the lesson: the point where moving on depends on whether learners have understood what came before. It is quick to answer (usually multiple choice) and the whole group responds at once, so the teacher gets a picture of the whole class’s understanding in under a minute.
+
+The key lies in the design: the incorrect options should correspond to common errors or misconceptions, so that the chosen answer reports the type of mistake, not just whether it is right or wrong.
+
+#### How to apply it
+
+1. Identify the concept whose understanding is essential before continuing.
+2. Write a multiple-choice question with distractors reflecting typical errors; it should be answerable in under a minute and hard to guess by chance.
+3. The whole class answers at once (cards, fingers, mini-whiteboards or a digital tool).
+4. Read the response pattern: if most are right, move on; if one error dominates, address it; if answers are scattered, regroup or re-explain.
+5. Use the chosen distractors to surface and discuss the faulty reasoning.
+
+#### Example
+
+After explaining the area of a triangle, the teacher projects: “What is the area of a triangle with base 6 and height 4? a) 24, b) 12, c) 10, d) 20.” The distractor “24” reveals who forgets to divide by two. Everyone shows their answer at once with a card. If many choose “24”, the teacher instantly knows they must reinforce the “divide by two” before continuing.
+
+**Related techniques:** Traffic Light, Peer Instruction, Exit Ticket, All-student response
+
+**How to assess:**
+
+- *Evaluation techniques:* Specific tests, Probing and questioning
+
+- *Instruments:* Assessment traffic light
+
+- *Dimensions:* Diagnostic purpose, Formative purpose
+
+---
+
+
+### 20. All-student response `metac_158`
+
+_A whole-class simultaneous response system (mini-whiteboards, ABCD cards, thumbs or a digital tool) to a teacher’s question. It replaces hands-up from a few and gives instant information about the entire group._
+
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Activation of Prior Knowledge, Critical Thinking and Metacognition
+
+_Keywords: formative assessment, participation, mini-whiteboards, ABCD cards, simultaneous response_
+
+When only those who raise their hand answer, the teacher gets information from three or four students, usually the ones who already understand. All-student response systems make every student answer at the same time and visibly, so the teacher “reads the room” at a glance and no one can switch off.
+
+Common supports are individual mini-whiteboards (write and show), A/B/C/D cards, thumbs up/down, or digital polling tools.
+
+#### How to apply it
+
+1. Pose a clear question that allows a short answer or a closed option.
+2. Give a few seconds of thinking time so everyone prepares their answer.
+3. On a signal, the whole group shows their answer at once (whiteboard, card, fingers or screen).
+4. Observe the distribution of answers and act accordingly: confirm, correct a common error or ask someone to justify.
+5. Repeat often to maintain universal participation and a pulse on understanding.
+
+#### Example
+
+During a language lesson on sentence types, the teacher reads out a sentence and asks: “simple or compound? On three, show your card.” All students raise their A (simple) or B (compound) card at once. The teacher immediately sees that a third get a particular case wrong and clarifies it before moving on, instead of discovering it in the exam.
+
+**Related techniques:** Traffic Light, Peer Instruction, Quiz-Quiz-Trade, Hinge questions, Cold calling
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Probing and questioning
+
+- *Instruments:* Assessment traffic light
+
+- *Dimensions:* Diagnostic purpose, Formative purpose
+
+---
+
+
+### 21. Cold calling `metac_159`
+
+_A participation-management technique in which the teacher asks the question to the whole class and then chooses who answers, rather than calling for volunteers. It keeps every student thinking and distributes participation fairly._
+
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Communication and Creativity, Critical Thinking and Metacognition
+
+_Keywords: formative assessment, participation, classroom management, equity, questioning_
+
+Asking for volunteers concentrates participation in a few and lets the rest switch off. With cold calling, the teacher poses the question to everyone, allows thinking time, and then names who should answer. Since anyone might be chosen, all students stay attentive and prepare a response.
+
+It is not a gotcha interrogation: it is combined with wait time, a safe climate and the chance to lean on a partner, so that it is an invitation to think rather than a threat.
+
+#### How to apply it
+
+1. Pose the question to the whole class first, without yet saying who will answer.
+2. Give a few seconds of thinking time (ideally everyone sketches a mental or written answer).
+3. Then name a specific person, choosing in a varied and deliberate way to spread participation.
+4. Welcome the answer without penalising error; if the person freezes, offer support, rephrase or return to them after hearing someone else.
+5. Chain several answers to build the full idea together.
+
+#### Example
+
+Instead of “who knows what caused the First World War?” (the same few always answer), the teacher says: “Think for thirty seconds about one of the causes… María, you start.” Since no one knows who will be called, everyone prepares an answer. Then it chains: “Thanks, María; Luis, can you add another cause?” Participation is shared and everyone stays involved.
+
+**Related techniques:** Numbered Heads Together, Ask and Answer, All-student response, Wait time
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Participation record
+
+- *Dimensions:* Formative purpose
+
+---
+
+
+### 22. Wait time `metac_160`
+
+_The practice of leaving a few seconds of silence after asking a question and also after a student’s answer, before reacting. It increases the quantity and quality of responses and gives the whole group space to think._
+
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Critical Thinking and Metacognition, Communication and Creativity
+
+_Keywords: formative assessment, wait time, questioning, participation, classroom management_
+
+Wait time is the deliberate pause the teacher keeps after asking a question (before anyone answers) and after a student answers (before commenting or following up). Research shows that simply extending that pause to about three to five seconds makes answers longer, more reasoned and brings in more students.
+
+The silence feels uncomfortable at first, but it is precisely what allows thinking to happen; without it, only the fastest or most impulsive answer.
+
+#### How to apply it
+
+1. After asking the question, count a few seconds mentally before accepting answers (wait time 1).
+2. Resist the urge to break the silence by rephrasing or answering yourself.
+3. When a student finishes answering, wait again a few seconds before evaluating or following up (wait time 2): often the student themselves expands or qualifies.
+4. Accompany the wait with signals that thinking is fine (“take your time”, no pressure).
+5. Combine it with cold calling so everyone uses that time.
+
+#### Example
+
+A philosophy teacher asks “what is the difference between knowing and believing?” and, instead of taking the first raised hand within a second, waits five seconds in silence. In that time several students who rarely spoke up develop an idea. After the first answer, the teacher waits again: the student, under no pressure, adds a nuance that enriches the discussion.
+
+**Related techniques:** Three-Minute Pause, Ask Why, Think-Pair-Share, Cold calling
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Probing and questioning
+
+- *Instruments:* Participation record
+
+- *Dimensions:* Formative purpose
+
+---
+
+
+### 23. Personalised learning playlists `metac_175`
+
+_A model in which learners move through a sequence of activities (a “playlist”) at their own pace and, in part, according to their needs and choices. The teacher frees up time for individual support, and progress is based on mastery, not the clock._
+
+**Block:** Active Methodologies · **Fields:** Formative Assessment and Feedback, Knowledge Building, Activation of Prior Knowledge
+
+_Keywords: personalised learning, pathways, self-pacing, differentiation, mastery_
+
+Personalised learning through pathways or “playlists” organises a unit’s content as a sequence of activities learners work through at their own pace, with some choice over order, format or level. Since not everyone advances in unison, the teacher stops explaining to all at once and spends the time supporting individuals or small groups who need it.
+
+It is related to the flipped classroom and mastery learning: you move to the next stage when you demonstrate mastery of the previous one, not when the calendar dictates. It requires well-structured materials and a clear tracking system.
+
+#### How to apply it
+
+1. Define the unit’s learning goals and the mastery milestones to be demonstrated.
+2. Design the list of activities (explanations, readings, videos, practice, checks), with compulsory and optional ones by level.
+3. Each learner receives their pathway and progresses at their own pace, recording progress on a dashboard.
+4. The teacher monitors the dashboard and devotes class time to individualised attention and to small groups with common difficulties.
+5. Mastery is checked at checkpoints before moving to the next stage; those who need it reinforce, those ahead go deeper.
+
+#### Example
+
+In a maths unit, each student receives a list with videos, self-correcting exercises and mini-challenges, plus mastery checks. While most practise independently, the teacher gathers the four students struggling with the same concept and re-explains it. Those who already master the basics move on to extension challenges. No one waits for the rest or falls behind without support.
+
+**Related techniques:** Learning Contract, Learning Stations, Flipped Classroom, Mastery learning
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Analysis of productions
+
+- *Instruments:* Progress scale, Progress dashboard
+
+- *Dimensions:* Continuous assessment, Formative purpose, Inclusive assessment and UDL
 
 ---
 
@@ -6174,7 +7028,7 @@ A structured dialogue technique centered around a text, image, problem, or open 
 #### Example
 In philosophy or biology, the group analyzes a text on bioethics. Students prepare questions and during the seminar they discuss what criteria should guide a scientific decision with social implications.
 
-**Related techniques:** Structured Academic Controversy, Listener Teams, Fishbowl (Aquarium), Round Table, Dialogic Gathering, Toulmin's Argumentation Model, Peer Review, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Tug of war
+**Related techniques:** Structured Academic Controversy, Listener Teams, Fishbowl (Aquarium), Round Table, Dialogic Gathering, Toulmin's Argumentation Model, Peer Review, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Tug of war, Philosophy for Children (P4C), Academic debate, Community of Inquiry
 
 **How to assess:**
 
@@ -6305,7 +7159,7 @@ It is closely related to academic controversy, but here the quality of evidence,
 #### Example
 In biology and citizenship education, the class debates whether the sale of energy drinks to minors should be limited. Each team analyses data on caffeine, consumption habits, health and freedom of choice. They then defend a stance, listen to objections and write a final synthesis with conditions, limits and evidence.
 
-**Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model, Peer Review, Argument Map, Tug of war
+**Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model, Peer Review, Argument Map, Tug of war, Academic debate
 
 **How to assess:**
 
@@ -6345,13 +7199,88 @@ Think-aloud is a modelling technique in which the teacher verbalises decisions, 
 #### Example
 In a reading comprehension activity, the teacher reads a paragraph and says: “I do not know this word, but from the previous sentence it seems to indicate a cause. I will keep reading to check.” Students then practise the same strategy in pairs.
 
-**Related techniques:** Peer Tutoring, Reciprocal Teaching, Worked examples, Gradual release of responsibility
+**Related techniques:** Peer Tutoring, Reciprocal Teaching, Worked examples, Gradual release of responsibility, Self-explanation, Scaffolding and zone of proximal development (ZPD)
 
 **How to assess:**
 
 - *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Dimensions:* Performance evidence, Inclusive assessment and UDL
+
+---
+
+
+### 8. Self-explanation `metac_156`
+
+_A metacognitive strategy in which learners explain to themselves, aloud or in writing, what the material means and why each step is correct. It surfaces gaps, integrates knowledge and improves comprehension and transfer._
+
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Knowledge Building, Information Processing and Analysis
+
+_Keywords: metacognition, self-explanation, cognitive science, comprehension, self-regulation_
+
+Self-explanation means having learners verbalise to themselves the meaning of what they read or solve: why one step leads to the next, how one idea connects to another, or what principle justifies a solution. By making it explicit, they detect what they do not understand and build a more coherent representation of the content.
+
+Unlike rereading (passive), self-explanation is a generative activity: learners produce the reasoning rather than just receiving it.
+
+#### How to apply it
+
+1. While learners read a text or study a worked example, ask them to pause at key points.
+2. At each point they self-explain: “this means that…”, “this step is done because…”, “this relates to…”.
+3. It can be done aloud, in writing or in pairs (one explains, the other listens and questions).
+4. When they cannot explain something, they have located a gap: they return to the material to resolve it.
+5. The teacher first models self-explanation aloud so learners see how it is done.
+
+#### Example
+
+When studying an already-solved physics problem, the student does not just read the solution: at each line they ask and answer why that formula applies and where each value comes from. On reaching a step they cannot justify, they realise they did not understand conservation of energy and revisit that concept before continuing.
+
+**Related techniques:** Metacognition Ladder, 5 Whys, Think-aloud, Elaborative interrogation
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections
+
+- *Instruments:* Self-assessment scale
+
+- *Dimensions:* Self-assessment, Formative purpose
+
+---
+
+
+### 9. Philosophy for Children (P4C) `metac_161`
+
+_An approach in which the group becomes a “community of inquiry” to dialogue rigorously about philosophical questions arising from a stimulus (a story, an image, a dilemma). It develops critical, creative and caring thinking, and listening._
+
+**Block:** Active Methodologies · **Fields:** Critical Thinking and Metacognition, Communication and Creativity, Cohesion and Cooperation
+
+_Keywords: critical thinking, dialogue, community of inquiry, philosophy, Lipman_
+
+Philosophy for Children (P4C), created by Matthew Lipman, proposes turning the classroom into a community of inquiry: a group that thinks together, dialogues with reasons and questions itself. From a stimulus (a story, an image, an object or a dilemma), the learners themselves formulate the questions that interest them and choose one to investigate collectively through dialogue.
+
+It does not seek a single answer nor for the teacher to transmit content, but to develop higher-quality thinking: critical (with reasons), creative (with new ideas) and caring (attentive to others). The teacher acts as a facilitator, not as an expert who corrects.
+
+#### How to apply it
+
+1. A community climate is created: the group sits in a circle to see and hear one another.
+2. A shared stimulus is presented (story, image, video, dilemma) and time is given to think.
+3. Learners formulate the questions the stimulus raises; they are collected in full view of all.
+4. The group chooses, by consensus or vote, the question it wants to investigate.
+5. They dialogue guided by the facilitator, who gives no answers but asks for reasons, examples, counterexamples and connections (“why?”, “do you agree?”, “what is that based on?”).
+6. It closes with metacognition: what we thought, how our idea changed, what remains open.
+
+#### Example
+
+After reading a story in which a character lies to protect a friend, learners formulate questions and choose to investigate “is it ever right to lie?”. In a circle, some argue that lying is always wrong and others bring cases where it seems justified. The facilitator asks for reasons and counterexamples. In the end no one has “won”, but everyone has refined their arguments and learned to listen and qualify.
+
+**Related techniques:** Circle of Viewpoints, Fishbowl (Aquarium), Socratic Seminar, Dialogic Gathering
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Oral exchanges
+
+- *Instruments:* Participation record, Oral rubric
+
+- *Dimensions:* Formative purpose, Teacher assessment
 
 ---
 
@@ -6391,7 +7320,7 @@ A discussion technique in which a small group engages in dialogue in the center 
 #### Example
 In social sciences, the central group debates whether a city should limit private vehicle traffic. The observers note arguments based on data, relevant questions, and moments when others are or are not being listened to.
 
-**Related techniques:** Structured Academic Controversy, Round Table, Socratic Seminar, Talking Chips, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence
+**Related techniques:** Structured Academic Controversy, Round Table, Socratic Seminar, Talking Chips, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Philosophy for Children (P4C), Academic debate
 
 **How to assess:**
 
@@ -6435,7 +7364,7 @@ The posters are placed on the classroom walls. Groups rotate around the room and
 
 **Resources:** [Interactive wall](https://jjdeharo.github.io/directo/muro.html)
 
-**Related techniques:** Cooperative Graffiti, Visual Thinking, World Café, Peer Review
+**Related techniques:** Cooperative Graffiti, Visual Thinking, World Café, Peer Review, Chalk Talk
 
 **How to assess:**
 
@@ -6503,7 +7432,7 @@ Each group visually represents the problem, possible actions, people involved an
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
-**Related techniques:** CSI: Color, Symbol, Image, Digital Storytelling, Gallery Walk, Four-Part Concept Map, Role on the Wall (Character Silhouette), Frayer Model, Generate, sort, connect, elaborate
+**Related techniques:** CSI: Color, Symbol, Image, Digital Storytelling, Gallery Walk, Dual coding, Four-Part Concept Map, Role on the Wall (Character Silhouette), Frayer Model, Generate, sort, connect, elaborate, Mind map
 
 **How to assess:**
 
@@ -6597,7 +7526,7 @@ In literature, after reading an excerpt from a novel about a character facing a 
 
 The teacher does not look for a single correct interpretation, but helps the group justify contributions, listen to different points of view and build a richer understanding of the text.
 
-**Related techniques:** Shared Reading, Ghost Reading, Word-Phrase-Sentence, Socratic Seminar, Toulmin's Argumentation Model, Peer Review, Argument Map, Reciprocal Teaching
+**Related techniques:** Shared Reading, Ghost Reading, Word-Phrase-Sentence, Socratic Seminar, Toulmin's Argumentation Model, Peer Review, Argument Map, Reciprocal Teaching, Philosophy for Children (P4C), Community of Inquiry
 
 **How to assess:**
 
@@ -6606,6 +7535,81 @@ The teacher does not look for a single correct interpretation, but helps the gro
 - *Instruments:* Cooperative work rubric
 
 - *Dimensions:* Performance evidence, Teacher assessment, Problem solving
+
+---
+
+
+### 6. Academic debate `metac_162`
+
+_A structured oral confrontation in which two teams defend opposing positions on a motion, with regulated turns of statement, rebuttal and conclusion. It develops argumentation, evidence-seeking, active listening and oral expression._
+
+**Block:** Cooperative Learning Organization · **Fields:** Communication and Creativity, Critical Thinking and Metacognition, Information Processing and Analysis, Cohesion and Cooperation
+
+_Keywords: debate, argumentation, oral expression, evidence, critical thinking_
+
+Academic debate is a formal activity in which two teams take opposing positions (for and against) on a statement or motion, and defend them following rules of turns and timing. Unlike a free discussion, its structure forces participants to prepare solid arguments, anticipate the opponent’s and respond with evidence, not opinions.
+
+An important formative feature is that a team does not always defend what it thinks: because positions are assigned, learners must also research and argue stances they do not share, which develops intellectual empathy and critical thinking.
+
+#### How to apply it
+
+1. A clear, debatable motion is set (for example, “phones should be banned in schools”).
+2. Two teams are formed and assigned the for or against position (not necessarily their own).
+3. Each team researches and prepares arguments, evidence and possible rebuttals.
+4. The debate runs in timed turns: opening statements, rebuttal turns and conclusions.
+5. A moderator keeps time and a jury (or the rest of the class, with a rubric) judges argumentative quality, not just “who is most persuasive”.
+6. It closes with a joint reflection on the best arguments from both sides.
+
+#### Example
+
+In a secondary class, the motion is “artificial intelligence should grade exams”. One team defends the for position and another the against, assigned by lot. Each brings data and examples, rebuts the other and concludes. The class uses a rubric to assess the soundness of arguments and respect for turns, and then discusses which reasons proved most convincing.
+
+**Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Structured Controversy with Evidence
+
+**How to assess:**
+
+- *Evaluation techniques:* Oral exchanges
+
+- *Instruments:* Rating scale, Oral rubric
+
+- *Dimensions:* Competency-based approach, Shared and participatory assessment, Teacher assessment
+
+---
+
+
+### 7. Genius Hour `metac_174`
+
+_Time set aside periodically for learners to investigate and develop a project on a topic of their own choice, driven by their curiosity. It fosters intrinsic motivation, autonomy and responsibility for one’s own learning._
+
+**Block:** Active Methodologies · **Fields:** Communication and Creativity, Problem Solving and Challenges, Critical Thinking and Metacognition
+
+_Keywords: intrinsic motivation, autonomy, personal project, curiosity, self-directed learning_
+
+Genius Hour, inspired by the practice in some companies of devoting part of work time to personal projects, means regularly setting aside class time for each student (or group) to investigate a question or develop a project they have chosen out of genuine interest.
+
+Because learners decide the topic, motivation is intrinsic: they learn because they want to know, not because they are told to. The teacher accompanies, helps scope the project, provides resources and demands rigour, but does not impose the content.
+
+#### How to apply it
+
+1. A fixed regular time is reserved (for example, one session a week) devoted to the personal project.
+2. Each student formulates a question or challenge they genuinely care about and frames it as an investigable project.
+3. The teacher checks it is feasible, helps focus it and agrees on an expected product or outcome.
+4. Learners research, create and document their progress (a log), managing their time autonomously.
+5. When finished, they share the result with the class and reflect on the process, the obstacles and what was learned.
+
+#### Example
+
+A student passionate about animals devotes her Genius Hour to investigating why bees are disappearing and what can be done. She defines the question, seeks rigorous information, interviews a beekeeper and creates an awareness campaign for the school. The teacher guides her and requires reliable sources; she learns biology, communication and project management driven by her own interest.
+
+**Related techniques:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Learning Contract, Service-Learning
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of processes and reflections, Analysis of productions
+
+- *Instruments:* Process rubric
+
+- *Dimensions:* Self-assessment, Competency-based approach, Project-based learning
 
 ---
 
@@ -6643,7 +7647,7 @@ A curriculum design model that proposes planning backward. Instead of starting w
 #### Example
 Before designing a unit on ecosystems, the teacher defines that students should explain food-web relationships and justify ecological imbalances. Then the teacher decides which task will serve as evidence and finally plans labs, readings and debates.
 
-**Related techniques:** Depth of Knowledge (DOK), Bloom's Taxonomy, Authentic Assessment, Orientation guides, Cognitive load theory
+**Related techniques:** Depth of Knowledge (DOK), Bloom's Taxonomy, Authentic Assessment, Orientation guides, Cognitive load theory, Constructive alignment
 
 **How to assess:**
 
@@ -6732,7 +7736,7 @@ A model for assessing the quality of understanding shown by students in their re
 #### Example
 In response to a question about natural selection, a student may mention only one factor, relate several factors or apply the concept to a new situation. The SOLO taxonomy helps distinguish these levels.
 
-**Related techniques:** Depth of Knowledge (DOK), Visible Learning, Assessment Rubric
+**Related techniques:** Depth of Knowledge (DOK), Visible Learning, Assessment Rubric, Constructive alignment, ICAP framework
 
 **How to assess:**
 
@@ -6778,7 +7782,7 @@ A framework for classifying cognitive processes that helps formulate objectives,
 #### Example
 In a biology unit, students may remember terms, explain processes, apply a model, analyze data, evaluate a conclusion or create an experimental proposal.
 
-**Related techniques:** Understanding by Design (UbD), Depth of Knowledge (DOK), Assessment Rubric
+**Related techniques:** Understanding by Design (UbD), Depth of Knowledge (DOK), Assessment Rubric, Constructive alignment, ICAP framework
 
 **How to assess:**
 
@@ -6816,7 +7820,7 @@ An assessment approach based on meaningful, contextualized tasks close to real o
 #### Example
 Instead of only answering questions about nutrition, students design a healthy menu proposal for a specific situation and justify their decisions using scientific criteria.
 
-**Related techniques:** Apply Knowledge, Project-Based Learning (PjBL), Portfolio (learning dossier), Understanding by Design (UbD), Assessment Rubric
+**Related techniques:** Apply Knowledge, Project-Based Learning (PjBL), Portfolio (learning dossier), Understanding by Design (UbD), Assessment Rubric, Constructive alignment
 
 **How to assess:**
 
@@ -6855,7 +7859,7 @@ An approach that guides teaching decisions toward practices with visible impact 
 #### Example
 In a writing activity, the teacher shares clear criteria, reviews drafts, gives specific feedback, and asks students to state one concrete improvement they will apply in the next version.
 
-**Related techniques:** Learning Contract, SOLO Taxonomy, Assessment Rubric, Two Stars and a Wish, Mastery learning, Habits of mind
+**Related techniques:** Learning Contract, SOLO Taxonomy, Assessment Rubric, Two Stars and a Wish, Mastery learning, Habits of mind, ICAP framework
 
 **How to assess:**
 
@@ -7165,13 +8169,175 @@ Cognitive load theory is John Sweller's framework for analysing the limits of wo
 #### Example
 In physics, early motion problems are presented with the data already identified and the formula selected. Students focus on interpreting the procedure. In later problems, they must identify the data, choose the formula and justify the result themselves.
 
-**Related techniques:** Understanding by Design (UbD), Spaced practice, Interleaved practice, Worked examples, Gradual release of responsibility
+**Related techniques:** Dual coding, Understanding by Design (UbD), Spaced practice, Interleaved practice, Worked examples, Gradual release of responsibility, Concrete examples
 
 **How to assess:**
 
 - *Evaluation techniques:* Documentary analysis, Analysis of productions
 
 - *Dimensions:* Inclusive assessment and UDL, Problem solving
+
+---
+
+
+### 14. Scaffolding and zone of proximal development (ZPD) `metac_180`
+
+_A Vygotsky-based framework: the zone of proximal development is the distance between what learners can do alone and what they can achieve with help. Scaffolding is the temporary support a teacher or peer provides and removes as autonomy is gained._
+
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Knowledge Building, Formative Assessment and Feedback
+
+_Keywords: Vygotsky, scaffolding, zone of proximal development, guided learning, support_
+
+The zone of proximal development (ZPD), a concept from Lev Vygotsky, denotes the gap between what a learner can do by themselves and what they can achieve with the help of someone more capable (the teacher or a peer). The most effective learning happens precisely in that zone: tasks that are neither too easy nor impossible to tackle alone.
+
+Scaffolding is the metaphor for the supports provided within that zone: hints, models, questions, organisers or guides that hold the learner up while needed and are gradually removed as they gain autonomy, just as scaffolding is dismantled once the building stands on its own.
+
+#### How to apply it
+
+1. Find out what learners can do alone and what lies just above their current level (their ZPD).
+2. Propose tasks located in that zone: achievable with help, but not without it.
+3. Offer suitable scaffolds: modelling the process, giving hints, breaking the task down, providing templates or examples.
+4. Observe progress and remove the supports gradually as the learner demonstrates mastery.
+5. Adjust continuously: if the task proves unmanageable, reinforce the scaffolding; if trivial, raise the challenge.
+
+#### Example
+
+A student can solve simple equations but not two-step ones. The teacher places the task in their ZPD and gives scaffolds: first they solve one together thinking aloud, then offers a template with the steps, then only a hint (“what do you do first?”) and, finally, removes all support. The student ends up solving them independently.
+
+**Related techniques:** Peer Tutoring, Gradual release of responsibility, Think-aloud, Orientation guides
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation, Analysis of processes and reflections
+
+- *Instruments:* Observation scale, Progress scale
+
+- *Dimensions:* Formative purpose, Inclusive assessment and UDL
+
+---
+
+
+### 15. Constructive alignment `metac_181`
+
+_John Biggs’s instructional-design principle: learning outcomes, activities and assessment must be coherently aligned. Learners learn by “constructing” through activities that lead directly to demonstrating the intended outcomes._
+
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Formative Assessment and Feedback, Critical Thinking and Metacognition
+
+_Keywords: Biggs, instructional design, alignment, constructivism, coherent assessment_
+
+Constructive alignment, formulated by John Biggs, combines two ideas. The “constructive” part comes from constructivism: learners learn by building meaning through what they do. “Alignment” requires three elements of instructional design to point in the same direction: the intended learning outcomes, the teaching-learning activities and the assessment tasks.
+
+The key is coherence: if an outcome says learners must “analyse”, the activities must make them analyse and the assessment must ask them to analyse (not to recall). When the three elements are aligned, the usual mismatch between what is claimed to be sought, what is done in class and what is finally examined disappears.
+
+#### How to apply it
+
+1. Formulate the learning outcomes with verbs expressing the intended cognitive level (explain, apply, design, evaluate…).
+2. Design classroom activities that force learners to put precisely that verb into practice.
+3. Design the assessment so that the required task directly demonstrates that same outcome, with coherent criteria.
+4. Check the coherence: confirm that outcome, activity and assessment share the same level and type of learning.
+5. Adjust any misaligned element (for example, an “apply” outcome assessed with a memorisation test).
+
+#### Example
+
+If the outcome is “learners will be able to design an experiment to answer a question”, the activities cannot just be reading about the scientific method: learners must design experiments in class. And the assessment, accordingly, will ask them to design one (not answer a test about the phases). Outcome, practice and test are aligned.
+
+**Related techniques:** Understanding by Design (UbD), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment
+
+**How to assess:**
+
+- *Evaluation techniques:* Evidence triangulation
+
+- *Instruments:* Assessment matrix, Competency rubric
+
+- *Dimensions:* Competency-based approach, Criteria-based assessment, Formative purpose
+
+---
+
+
+### 16. ICAP framework `metac_182`
+
+_Michelene Chi’s framework classifying learners’ degree of cognitive engagement into four modes —Interactive, Constructive, Active and Passive— and predicting that learning improves as you move up: Interactive > Constructive > Active > Passive._
+
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Critical Thinking and Metacognition, Knowledge Building
+
+_Keywords: ICAP, Chi, cognitive engagement, activity design, active learning_
+
+The ICAP framework, proposed by Michelene Chi, offers a simple way to assess and raise the cognitive quality of learning activities according to the type of behaviour they prompt in learners. It distinguishes four modes of engagement, from least to most effective:
+
+**PASSIVE:** learners receive information without doing anything observable (listening to an explanation, watching a video).
+
+**ACTIVE:** they do something physical with the material but without generating new content (underlining, copying, repeating).
+
+**CONSTRUCTIVE:** they produce something beyond what was given (summarising in their own words, making a diagram, posing questions, explaining).
+
+**INTERACTIVE:** they construct in dialogue with another, so contributions enrich each other (discussing, debating, co-creating).
+
+The ICAP hypothesis holds that learning increases as you move up: Interactive > Constructive > Active > Passive. It is a practical guide for redesigning activities towards more demanding modes.
+
+#### How to apply it
+
+1. Analyse an activity and classify it into one of the four modes according to what learners actually do.
+2. If it is passive or active, redesign it to be at least constructive (so learners generate something of their own).
+3. Where possible, raise it to interactive by adding genuine peer dialogue about what was constructed.
+4. Make sure the “interactive” mode truly is: that both contribute and respond, not that only one works.
+5. Use the framework to balance the session, reducing time in passive mode.
+
+#### Example
+
+Instead of learners only listening to the explanation of a text (passive) or underlining it (active), the teacher first asks them to summarise it in their own words and pose questions (constructive) and then discuss those questions in pairs, jointly building an answer (interactive). The same content, tackled in a higher ICAP mode, produces deeper learning.
+
+**Related techniques:** Peer Instruction, SOLO Taxonomy, Bloom's Taxonomy, Visible Learning
+
+**How to assess:**
+
+- *Evaluation techniques:* Systematic observation
+
+- *Instruments:* Observation scale, Process rubric
+
+- *Dimensions:* Performance evidence, Formative purpose
+
+---
+
+
+### 17. Community of Inquiry `metac_183`
+
+_A framework for designing and evaluating online or blended learning, based on three presences that must coincide: cognitive, social and teaching. It holds that deep learning in virtual settings arises from the balanced interaction of all three._
+
+**Block:** Educational Frameworks · **Fields:** Educational Design and Analysis, Communication and Creativity, Critical Thinking and Metacognition
+
+_Keywords: online learning, community of inquiry, CoI, teaching presence, blended learning_
+
+The Community of Inquiry (CoI) framework, developed by Garrison, Anderson and Archer, explains what is needed for online or blended learning to be deep rather than a mere transmission of materials. It proposes that a quality educational experience arises from the intersection of three “presences”:
+
+**COGNITIVE PRESENCE:** the extent to which learners construct and confirm meaning through reflection and sustained dialogue (exploring, integrating, resolving).
+
+**SOCIAL PRESENCE:** participants’ ability to project themselves as real people, communicate with trust and feel part of a group.
+
+**TEACHING PRESENCE:** the design, facilitation and guidance that structure the experience and keep it focused.
+
+Meaningful learning happens where the three presences overlap; if one is missing (for example, forums without facilitation or without a trusting climate), inquiry weakens.
+
+#### How to apply it
+
+1. Design the experience (teaching presence): clear goals, a sequence of activities and well-structured interaction spaces.
+2. Attend to social presence from the start: introduction activities, respect norms and a climate where it is safe to participate.
+3. Promote cognitive presence with tasks that require inquiry and dialogue: triggering questions, discussion forums, collaborative construction.
+4. Facilitate actively: moderate discussions, synthesise, redirect and give feedback, without disappearing or monopolising.
+5. Evaluate by observing the three presences (quality of dialogue, participation, sense of community) and adjust the design.
+
+#### Example
+
+In a blended course, the teacher posts a triggering question about a real dilemma in a forum (cognitive presence), having first created a climate of trust through introductions and participation norms (social presence), and moderates the thread by synthesising contributions and following up (teaching presence). The result is not an inbox of scattered messages, but a collective inquiry that goes deep into the topic.
+
+**Related techniques:** Flipped Classroom, Socratic Seminar, Dialogic Gathering, Peer Review
+
+**How to assess:**
+
+- *Evaluation techniques:* Analysis of digital interactions
+
+- *Instruments:* Learning analytics, Digital rubric
+
+- *Dimensions:* Shared and participatory assessment, Digital evidence, Formative purpose
 
 ---
 
@@ -7242,7 +8408,7 @@ The Question Formulation Technique, or QFT, is an approach from the Right Questi
 #### Example
 In biology, the teacher shows the sentence: “There are more and more antibiotic-resistant bacteria”. For 5 minutes, teams generate questions. They then choose three: a factual question, a causal question and an inquiry question. These questions guide the information search in the next lesson.
 
-**Related techniques:** Question-Based Learning (QBL), Think, Puzzle, Explore, Ask Why, Ask and Answer
+**Related techniques:** Question-Based Learning (QBL), Think, Puzzle, Explore, Ask Why, Ask and Answer, Question Starts
 
 **How to assess:**
 

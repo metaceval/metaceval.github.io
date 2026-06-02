@@ -25,7 +25,8 @@
       "metac_099",
       "metac_125",
       "metac_131",
-      "metac_133"
+      "metac_133",
+      "metac_164"
     ],
     "eval_ids": [
       "HER_DIARIO_PROF",
@@ -160,7 +161,10 @@
       "metac_097",
       "metac_132",
       "metac_146",
-      "metac_151"
+      "metac_151",
+      "metac_176",
+      "metac_178",
+      "metac_179"
     ],
     "eval_ids": [
       "DIM_FEED",
@@ -363,7 +367,8 @@
       "metac_125",
       "metac_126",
       "metac_127",
-      "metac_131"
+      "metac_131",
+      "metac_171"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -464,7 +469,8 @@
       "metac_008",
       "metac_011",
       "metac_062",
-      "metac_126"
+      "metac_126",
+      "metac_171"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -520,7 +526,8 @@
       "metac_008",
       "metac_010",
       "metac_016",
-      "metac_034"
+      "metac_034",
+      "metac_172"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -575,7 +582,8 @@
       "metac_075",
       "metac_078",
       "metac_079",
-      "metac_149"
+      "metac_149",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -638,7 +646,9 @@
       "metac_014",
       "metac_015",
       "metac_062",
-      "metac_091"
+      "metac_091",
+      "metac_173",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -735,7 +745,10 @@
       "metac_031",
       "metac_080",
       "metac_106",
-      "metac_111"
+      "metac_111",
+      "metac_171",
+      "metac_172",
+      "metac_174"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -845,7 +858,9 @@
       "metac_009",
       "metac_013",
       "metac_027",
-      "metac_080"
+      "metac_080",
+      "metac_172",
+      "metac_174"
     ],
     "eval_ids": [
       "DIM_AUTO",
@@ -1021,7 +1036,8 @@
     "related": [
       "metac_070",
       "metac_079",
-      "metac_082"
+      "metac_082",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -1069,7 +1085,9 @@
     "related": [
       "metac_024",
       "metac_050",
-      "metac_087"
+      "metac_087",
+      "metac_161",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -1219,7 +1237,9 @@
       "metac_004",
       "metac_028",
       "metac_113",
-      "metac_132"
+      "metac_132",
+      "metac_155",
+      "metac_179"
     ],
     "eval_ids": [
       "DIM_FEED",
@@ -1260,7 +1280,9 @@
       "metac_030",
       "metac_077",
       "metac_107",
-      "metac_144"
+      "metac_144",
+      "metac_174",
+      "metac_175"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -1325,7 +1347,8 @@
       "metac_128",
       "metac_134",
       "metac_136",
-      "metac_147"
+      "metac_147",
+      "metac_162"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -1398,7 +1421,8 @@
       "metac_003",
       "metac_072",
       "metac_083",
-      "metac_095"
+      "metac_095",
+      "metac_169"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -1443,6 +1467,7 @@
     ],
     "block": "Active Methodologies",
     "related": [
+      "metac_047",
       "metac_069",
       "metac_097",
       "metac_100"
@@ -1490,7 +1515,8 @@
       "metac_015",
       "metac_046",
       "metac_064",
-      "metac_111"
+      "metac_111",
+      "metac_172"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -1573,7 +1599,10 @@
       "metac_022",
       "metac_060",
       "metac_064",
-      "metac_103"
+      "metac_103",
+      "metac_173",
+      "metac_178",
+      "metac_179"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -1781,7 +1810,8 @@
       "metac_033",
       "metac_048",
       "metac_088",
-      "metac_148"
+      "metac_148",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -2044,7 +2074,9 @@
       "metac_051",
       "metac_066",
       "metac_067",
-      "metac_096"
+      "metac_096",
+      "metac_157",
+      "metac_158"
     ],
     "eval_ids": [
       "DIM_AUTO",
@@ -2177,7 +2209,8 @@
       "metac_074",
       "metac_081",
       "metac_145",
-      "metac_152"
+      "metac_152",
+      "metac_156"
     ],
     "eval_ids": [
       "DIM_AUTO",
@@ -2244,7 +2277,8 @@
       "metac_110",
       "metac_116",
       "metac_119",
-      "metac_120"
+      "metac_120",
+      "metac_175"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -2293,7 +2327,9 @@
       "metac_093",
       "metac_128",
       "metac_134",
-      "metac_136"
+      "metac_136",
+      "metac_161",
+      "metac_162"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -2344,7 +2380,10 @@
     "related": [
       "metac_041",
       "metac_073",
-      "metac_096"
+      "metac_096",
+      "metac_171",
+      "metac_175",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -2414,7 +2453,8 @@
       "metac_048",
       "metac_100",
       "metac_101",
-      "metac_129"
+      "metac_129",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_COEV",
@@ -2537,7 +2577,9 @@
       "metac_005",
       "metac_027",
       "metac_064",
-      "metac_091"
+      "metac_091",
+      "metac_173",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -2555,6 +2597,42 @@
       "TEC_PROC_REFLEX",
       "TEC_PRUEBA",
       "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_047",
+    "name": "Dual coding",
+    "summary": "A cognitive-science strategy that pairs verbal information with visual representations (diagrams, schematics, icons) so learners process content through two complementary channels. It improves comprehension and retention by creating more memory connections.",
+    "desc": "Dual coding builds on the idea that the mind processes verbal and visual information through distinct but connected systems. When the same content is presented both in words and in images that represent it, learners have two routes to retrieve it later, which improves comprehension and long-term memory.\n\nIt is not about adding decorative pictures, but about using visual representations that explain the idea: diagrams, timelines, flowcharts, icons, maps or sketches that learners generate themselves while studying.\n\n## How to apply it\n\n1. Identify the key idea or process you want learners to understand and remember.\n2. Present that idea in words (explanation, short text) and, alongside, with a visual representation that shows its structure or relationships.\n3. Ask learners to re-elaborate the content by transforming it from one format to another: turning a text into a diagram, or explaining a diagram in words.\n4. Avoid overload: image and text should refer to the same thing and sit close together, not compete for attention.\n5. When reviewing, have them retrieve the mental image first and then verbalise it, or the other way around.\n\n## Example\n\nWhen studying the water cycle, instead of only reading a paragraph, learners draw a diagram with arrows (evaporation, condensation, precipitation) and label each phase in their own words. Then they cover the text and explain the cycle looking only at the drawing, and next cover the drawing and describe it in words. The two channels reinforce each other.",
+    "tags": [
+      "cognitive science",
+      "memory",
+      "visual representation",
+      "comprehension",
+      "study"
+    ],
+    "fields": [
+      "Information Processing and Analysis",
+      "Communication and Creativity",
+      "Knowledge Building"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_026",
+      "metac_100",
+      "metac_153",
+      "metac_176"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_INCL",
+      "HER_RUB_PROD",
+      "INS_ESQUEMA",
+      "INS_INFOG",
+      "INS_MAP_CONC",
+      "INS_MAP_MENT",
+      "TEC_PROD"
     ]
   },
   {
@@ -2590,7 +2668,8 @@
       "metac_044",
       "metac_088",
       "metac_101",
-      "metac_112"
+      "metac_112",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -2688,7 +2767,8 @@
     "related": [
       "metac_006",
       "metac_019",
-      "metac_087"
+      "metac_087",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -2796,7 +2876,8 @@
       "metac_065",
       "metac_086",
       "metac_112",
-      "metac_113"
+      "metac_113",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -2893,7 +2974,8 @@
       "metac_002",
       "metac_021",
       "metac_084",
-      "metac_089"
+      "metac_089",
+      "metac_170"
     ],
     "eval_ids": [
       "HER_RUB_COOP",
@@ -3135,7 +3217,11 @@
     "related": [
       "metac_028",
       "metac_078",
-      "metac_086"
+      "metac_086",
+      "metac_154",
+      "metac_156",
+      "metac_164",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3264,7 +3350,8 @@
       "metac_033",
       "metac_100",
       "metac_132",
-      "metac_146"
+      "metac_146",
+      "metac_176"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -3302,7 +3389,9 @@
       "metac_046",
       "metac_086",
       "metac_113",
-      "metac_117"
+      "metac_117",
+      "metac_173",
+      "metac_177"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -3465,7 +3554,10 @@
       "metac_056",
       "metac_073",
       "metac_092",
-      "metac_098"
+      "metac_098",
+      "metac_159",
+      "metac_167",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3588,7 +3680,8 @@
       "metac_018",
       "metac_036",
       "metac_039",
-      "metac_066"
+      "metac_066",
+      "metac_160"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3678,7 +3771,8 @@
     "related": [
       "metac_025",
       "metac_084",
-      "metac_095"
+      "metac_095",
+      "metac_170"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -3724,7 +3818,10 @@
       "metac_095",
       "metac_096",
       "metac_137",
-      "metac_139"
+      "metac_139",
+      "metac_157",
+      "metac_158",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -3815,7 +3912,8 @@
       "metac_099",
       "metac_133",
       "metac_145",
-      "metac_149"
+      "metac_149",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -3954,7 +4052,10 @@
       "metac_060",
       "metac_079",
       "metac_135",
-      "metac_149"
+      "metac_149",
+      "metac_154",
+      "metac_160",
+      "metac_164"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -4004,7 +4105,8 @@
       "metac_039",
       "metac_078",
       "metac_135",
-      "metac_149"
+      "metac_149",
+      "metac_159"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4050,7 +4152,8 @@
     "related": [
       "metac_009",
       "metac_014",
-      "metac_015"
+      "metac_015",
+      "metac_174"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4168,7 +4271,10 @@
       "metac_018",
       "metac_084",
       "metac_094",
-      "metac_121"
+      "metac_121",
+      "metac_158",
+      "metac_167",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4210,7 +4316,8 @@
     "related": [
       "metac_025",
       "metac_088",
-      "metac_112"
+      "metac_112",
+      "metac_169"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4275,7 +4382,9 @@
     "related": [
       "metac_054",
       "metac_072",
-      "metac_082"
+      "metac_082",
+      "metac_169",
+      "metac_170"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -4415,7 +4524,8 @@
     "related": [
       "metac_019",
       "metac_050",
-      "metac_100"
+      "metac_100",
+      "metac_163"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -4453,7 +4563,8 @@
       "metac_032",
       "metac_048",
       "metac_083",
-      "metac_112"
+      "metac_112",
+      "metac_167"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4502,7 +4613,8 @@
       "metac_021",
       "metac_053",
       "metac_054",
-      "metac_065"
+      "metac_065",
+      "metac_178"
     ],
     "eval_ids": [
       "HER_RUB_COOP",
@@ -4547,7 +4659,10 @@
       "metac_134",
       "metac_135",
       "metac_136",
-      "metac_147"
+      "metac_147",
+      "metac_161",
+      "metac_162",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -4631,7 +4746,8 @@
       "metac_085",
       "metac_094",
       "metac_098",
-      "metac_115"
+      "metac_115",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -4673,7 +4789,8 @@
       "metac_042",
       "metac_055",
       "metac_112",
-      "metac_123"
+      "metac_123",
+      "metac_167"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -4719,7 +4836,8 @@
       "metac_007",
       "metac_082",
       "metac_092",
-      "metac_121"
+      "metac_121",
+      "metac_168"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -4763,7 +4881,10 @@
       "metac_059",
       "metac_071",
       "metac_072",
-      "metac_073"
+      "metac_073",
+      "metac_160",
+      "metac_169",
+      "metac_170"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -4812,7 +4933,8 @@
       "metac_067",
       "metac_073",
       "metac_130",
-      "metac_137"
+      "metac_137",
+      "metac_157"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -4948,7 +5070,8 @@
       "metac_075",
       "metac_127",
       "metac_131",
-      "metac_133"
+      "metac_133",
+      "metac_164"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -4991,10 +5114,12 @@
       "metac_026",
       "metac_031",
       "metac_044",
+      "metac_047",
       "metac_063",
       "metac_087",
       "metac_132",
-      "metac_146"
+      "metac_146",
+      "metac_176"
     ],
     "eval_ids": [
       "DIM_PROB",
@@ -5032,7 +5157,8 @@
       "metac_044",
       "metac_048",
       "metac_111",
-      "metac_112"
+      "metac_112",
+      "metac_165"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -5073,7 +5199,8 @@
       "metac_105",
       "metac_106",
       "metac_144",
-      "metac_153"
+      "metac_153",
+      "metac_181"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -5163,7 +5290,9 @@
     "related": [
       "metac_103",
       "metac_107",
-      "metac_122"
+      "metac_122",
+      "metac_181",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_COMP",
@@ -5206,7 +5335,9 @@
     "related": [
       "metac_102",
       "metac_103",
-      "metac_122"
+      "metac_122",
+      "metac_181",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -5247,7 +5378,8 @@
       "metac_014",
       "metac_077",
       "metac_102",
-      "metac_122"
+      "metac_122",
+      "metac_181"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -5296,7 +5428,8 @@
       "metac_122",
       "metac_130",
       "metac_141",
-      "metac_152"
+      "metac_152",
+      "metac_182"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -5587,7 +5720,8 @@
       "metac_120",
       "metac_140",
       "metac_142",
-      "metac_143"
+      "metac_143",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -6033,7 +6167,9 @@
       "metac_128",
       "metac_129",
       "metac_134",
-      "metac_135"
+      "metac_135",
+      "metac_161",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -6302,7 +6438,8 @@
       "metac_126",
       "metac_130",
       "metac_136",
-      "metac_148"
+      "metac_148",
+      "metac_183"
     ],
     "eval_ids": [
       "DIM_COEV",
@@ -6468,7 +6605,9 @@
       "metac_069",
       "metac_100",
       "metac_103",
-      "metac_146"
+      "metac_146",
+      "metac_155",
+      "metac_179"
     ],
     "eval_ids": [
       "INS_EXPO",
@@ -6645,7 +6784,8 @@
       "metac_128",
       "metac_129",
       "metac_134",
-      "metac_147"
+      "metac_147",
+      "metac_162"
     ],
     "eval_ids": [
       "DIM_CASO",
@@ -6693,7 +6833,8 @@
       "metac_096",
       "metac_138",
       "metac_139",
-      "metac_150"
+      "metac_150",
+      "metac_154"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -6814,7 +6955,8 @@
       "metac_142",
       "metac_143",
       "metac_144",
-      "metac_153"
+      "metac_153",
+      "metac_155"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -6848,7 +6990,8 @@
       "metac_107",
       "metac_115",
       "metac_122",
-      "metac_138"
+      "metac_138",
+      "metac_175"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
@@ -6890,7 +7033,8 @@
       "metac_114",
       "metac_140",
       "metac_143",
-      "metac_153"
+      "metac_153",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -6924,7 +7068,9 @@
       "metac_114",
       "metac_135",
       "metac_140",
-      "metac_142"
+      "metac_142",
+      "metac_156",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_DESEMP",
@@ -6960,7 +7106,8 @@
       "metac_023",
       "metac_102",
       "metac_122",
-      "metac_140"
+      "metac_140",
+      "metac_180"
     ],
     "eval_ids": [
       "DIM_CONT",
@@ -7147,7 +7294,8 @@
       "metac_012",
       "metac_075",
       "metac_078",
-      "metac_079"
+      "metac_079",
+      "metac_166"
     ],
     "eval_ids": [
       "DIM_DIAG",
@@ -7296,11 +7444,13 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
+      "metac_047",
       "metac_102",
       "metac_138",
       "metac_139",
       "metac_140",
-      "metac_142"
+      "metac_142",
+      "metac_155"
     ],
     "eval_ids": [
       "DIM_INCL",
@@ -7309,6 +7459,1065 @@
       "INS_POSTER",
       "TEC_ANAL_DOC",
       "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_154",
+    "name": "Elaborative interrogation",
+    "summary": "A learning strategy in which learners ask and answer “why is this so?” or “how does this work?” about the facts they study, connecting them to what they already know. It fosters deep understanding rather than surface memorisation.",
+    "desc": "Elaborative interrogation means generating and answering “why?” and “how?” questions about the information being learned, instead of merely reading or repeating it. By forcing learners to seek explanations and link new facts to prior knowledge, the information is integrated more firmly and remembered better.\n\nIt is especially useful with content made up of facts that may seem arbitrary but have an underlying cause or logic.\n\n## How to apply it\n\n1. Present a statement or fact from the content (for example, a feature, a cause-effect relationship, a rule).\n2. Ask learners to pose the question “why is this so?” or “why does this make sense?”.\n3. Learners try to answer with an explanation, drawing on what they already know and the available material.\n4. Compare the explanations: the correct one is validated, incomplete ones are refined and wrong ones are corrected.\n5. Repeat the process with the following facts, chaining explanations together.\n\n## Example\n\nIn science, faced with the statement “desert animals tend to be nocturnal”, learners do not just memorise it but answer “why?”: because daytime temperatures are extreme and coming out at night reduces water loss and the risk of overheating. By elaborating the cause, the fact stops being arbitrary and is easily remembered.",
+    "tags": [
+      "elaboration",
+      "why questions",
+      "deep understanding",
+      "cognitive science",
+      "metacognition"
+    ],
+    "fields": [
+      "Information Processing and Analysis",
+      "Critical Thinking and Metacognition",
+      "Knowledge Building"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_060",
+      "metac_078",
+      "metac_137",
+      "metac_156"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "INS_F_REFLEX",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_155",
+    "name": "Concrete examples",
+    "summary": "A strategy that illustrates abstract ideas with specific, everyday and varied examples so learners grasp the concept and can recognise it in new situations. It links the new to real experiences and reduces excessive abstraction.",
+    "desc": "Abstract ideas are understood and remembered better when anchored in concrete, familiar examples. This strategy means pairing each concept with several specific examples and, conversely, asking learners to generate their own, which reveals whether they have truly understood.\n\nUsing varied examples (not just one) helps abstract the essence of the concept and transfer it to different contexts, preventing learning from being stuck to a single case.\n\n## How to apply it\n\n1. Explain the abstract concept clearly and briefly.\n2. Offer two or three diverse, concrete examples that illustrate it, pointing out what they have in common.\n3. If useful, include a counterexample (something that seems to fit but does not) to delimit the concept.\n4. Ask learners to contribute their own examples from their experience.\n5. Check the quality of those examples: if they are correct, the concept is understood; if not, clarify it.\n\n## Example\n\nWhen teaching the concept of “inflation”, instead of stopping at the definition, the teacher shows concrete examples: the price of bread rising every year, the cinema ticket that cost less a decade ago, the bus fare. Then each student is asked for an example from their own daily life. Comparing several cases helps capture the shared idea of loss of purchasing power.",
+    "tags": [
+      "cognitive science",
+      "abstraction",
+      "transfer",
+      "comprehension",
+      "examples"
+    ],
+    "fields": [
+      "Knowledge Building",
+      "Information Processing and Analysis",
+      "Communication and Creativity"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_022",
+      "metac_132",
+      "metac_140",
+      "metac_153"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_GUIA_CORR",
+      "INS_PROB",
+      "INS_TRAB_IND",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_156",
+    "name": "Self-explanation",
+    "summary": "A metacognitive strategy in which learners explain to themselves, aloud or in writing, what the material means and why each step is correct. It surfaces gaps, integrates knowledge and improves comprehension and transfer.",
+    "desc": "Self-explanation means having learners verbalise to themselves the meaning of what they read or solve: why one step leads to the next, how one idea connects to another, or what principle justifies a solution. By making it explicit, they detect what they do not understand and build a more coherent representation of the content.\n\nUnlike rereading (passive), self-explanation is a generative activity: learners produce the reasoning rather than just receiving it.\n\n## How to apply it\n\n1. While learners read a text or study a worked example, ask them to pause at key points.\n2. At each point they self-explain: “this means that…”, “this step is done because…”, “this relates to…”.\n3. It can be done aloud, in writing or in pairs (one explains, the other listens and questions).\n4. When they cannot explain something, they have located a gap: they return to the material to resolve it.\n5. The teacher first models self-explanation aloud so learners see how it is done.\n\n## Example\n\nWhen studying an already-solved physics problem, the student does not just read the solution: at each line they ask and answer why that formula applies and where each value comes from. On reaching a step they cannot justify, they realise they did not understand conservation of energy and revisit that concept before continuing.",
+    "tags": [
+      "metacognition",
+      "self-explanation",
+      "cognitive science",
+      "comprehension",
+      "self-regulation"
+    ],
+    "fields": [
+      "Critical Thinking and Metacognition",
+      "Knowledge Building",
+      "Information Processing and Analysis"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_040",
+      "metac_060",
+      "metac_143",
+      "metac_154"
+    ],
+    "eval_ids": [
+      "DIM_AUTO",
+      "DIM_FORM",
+      "HER_ESC_AUTO",
+      "INS_AUTOINF",
+      "INS_F_REFLEX",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX"
+    ]
+  },
+  {
+    "id": "metac_157",
+    "name": "Hinge questions",
+    "summary": "A diagnostic multiple-choice question placed at a key point in the lesson whose answer reveals within seconds whether the group has understood a concept. Based on the result, the teacher decides to move on, re-explain or regroup.",
+    "desc": "A hinge question is a carefully designed question posed at a “hinge” moment of the lesson: the point where moving on depends on whether learners have understood what came before. It is quick to answer (usually multiple choice) and the whole group responds at once, so the teacher gets a picture of the whole class’s understanding in under a minute.\n\nThe key lies in the design: the incorrect options should correspond to common errors or misconceptions, so that the chosen answer reports the type of mistake, not just whether it is right or wrong.\n\n## How to apply it\n\n1. Identify the concept whose understanding is essential before continuing.\n2. Write a multiple-choice question with distractors reflecting typical errors; it should be answerable in under a minute and hard to guess by chance.\n3. The whole class answers at once (cards, fingers, mini-whiteboards or a digital tool).\n4. Read the response pattern: if most are right, move on; if one error dominates, address it; if answers are scattered, regroup or re-explain.\n5. Use the chosen distractors to surface and discuss the faulty reasoning.\n\n## Example\n\nAfter explaining the area of a triangle, the teacher projects: “What is the area of a triangle with base 6 and height 4? a) 24, b) 12, c) 10, d) 20.” The distractor “24” reveals who forgets to divide by two. Everyone shows their answer at once with a card. If many choose “24”, the teacher instantly knows they must reinforce the “divide by two” before continuing.",
+    "tags": [
+      "formative assessment",
+      "diagnosis",
+      "multiple choice",
+      "decision making",
+      "Dylan Wiliam"
+    ],
+    "fields": [
+      "Formative Assessment and Feedback",
+      "Critical Thinking and Metacognition",
+      "Activation of Prior Knowledge"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_037",
+      "metac_073",
+      "metac_096",
+      "metac_158"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_SEMAFORO",
+      "INS_CUEST_DIG",
+      "INS_TEST",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_158",
+    "name": "All-student response",
+    "summary": "A whole-class simultaneous response system (mini-whiteboards, ABCD cards, thumbs or a digital tool) to a teacher’s question. It replaces hands-up from a few and gives instant information about the entire group.",
+    "desc": "When only those who raise their hand answer, the teacher gets information from three or four students, usually the ones who already understand. All-student response systems make every student answer at the same time and visibly, so the teacher “reads the room” at a glance and no one can switch off.\n\nCommon supports are individual mini-whiteboards (write and show), A/B/C/D cards, thumbs up/down, or digital polling tools.\n\n## How to apply it\n\n1. Pose a clear question that allows a short answer or a closed option.\n2. Give a few seconds of thinking time so everyone prepares their answer.\n3. On a signal, the whole group shows their answer at once (whiteboard, card, fingers or screen).\n4. Observe the distribution of answers and act accordingly: confirm, correct a common error or ask someone to justify.\n5. Repeat often to maintain universal participation and a pulse on understanding.\n\n## Example\n\nDuring a language lesson on sentence types, the teacher reads out a sentence and asks: “simple or compound? On three, show your card.” All students raise their A (simple) or B (compound) card at once. The teacher immediately sees that a third get a particular case wrong and clarifies it before moving on, instead of discovering it in the exam.",
+    "tags": [
+      "formative assessment",
+      "participation",
+      "mini-whiteboards",
+      "ABCD cards",
+      "simultaneous response"
+    ],
+    "fields": [
+      "Formative Assessment and Feedback",
+      "Activation of Prior Knowledge",
+      "Critical Thinking and Metacognition"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_037",
+      "metac_073",
+      "metac_082",
+      "metac_157",
+      "metac_159"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_SEMAFORO",
+      "INS_CUEST_DIG",
+      "INS_SEMAF",
+      "TEC_OBS_SIS",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_159",
+    "name": "Cold calling",
+    "summary": "A participation-management technique in which the teacher asks the question to the whole class and then chooses who answers, rather than calling for volunteers. It keeps every student thinking and distributes participation fairly.",
+    "desc": "Asking for volunteers concentrates participation in a few and lets the rest switch off. With cold calling, the teacher poses the question to everyone, allows thinking time, and then names who should answer. Since anyone might be chosen, all students stay attentive and prepare a response.\n\nIt is not a gotcha interrogation: it is combined with wait time, a safe climate and the chance to lean on a partner, so that it is an invitation to think rather than a threat.\n\n## How to apply it\n\n1. Pose the question to the whole class first, without yet saying who will answer.\n2. Give a few seconds of thinking time (ideally everyone sketches a mental or written answer).\n3. Then name a specific person, choosing in a varied and deliberate way to spread participation.\n4. Welcome the answer without penalising error; if the person freezes, offer support, rephrase or return to them after hearing someone else.\n5. Chain several answers to build the full idea together.\n\n## Example\n\nInstead of “who knows what caused the First World War?” (the same few always answer), the teacher says: “Think for thirty seconds about one of the causes… María, you start.” Since no one knows who will be called, everyone prepares an answer. Then it chains: “Thanks, María; Luis, can you add another cause?” Participation is shared and everyone stays involved.",
+    "tags": [
+      "formative assessment",
+      "participation",
+      "classroom management",
+      "equity",
+      "questioning"
+    ],
+    "fields": [
+      "Formative Assessment and Feedback",
+      "Communication and Creativity",
+      "Critical Thinking and Metacognition"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_068",
+      "metac_079",
+      "metac_158",
+      "metac_160"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_REG_PART",
+      "INS_PART",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_160",
+    "name": "Wait time",
+    "summary": "The practice of leaving a few seconds of silence after asking a question and also after a student’s answer, before reacting. It increases the quantity and quality of responses and gives the whole group space to think.",
+    "desc": "Wait time is the deliberate pause the teacher keeps after asking a question (before anyone answers) and after a student answers (before commenting or following up). Research shows that simply extending that pause to about three to five seconds makes answers longer, more reasoned and brings in more students.\n\nThe silence feels uncomfortable at first, but it is precisely what allows thinking to happen; without it, only the fastest or most impulsive answer.\n\n## How to apply it\n\n1. After asking the question, count a few seconds mentally before accepting answers (wait time 1).\n2. Resist the urge to break the silence by rephrasing or answering yourself.\n3. When a student finishes answering, wait again a few seconds before evaluating or following up (wait time 2): often the student themselves expands or qualifies.\n4. Accompany the wait with signals that thinking is fine (“take your time”, no pressure).\n5. Combine it with cold calling so everyone uses that time.\n\n## Example\n\nA philosophy teacher asks “what is the difference between knowing and believing?” and, instead of taking the first raised hand within a second, waits five seconds in silence. In that time several students who rarely spoke up develop an idea. After the first answer, the teacher waits again: the student, under no pressure, adds a nuance that enriches the discussion.",
+    "tags": [
+      "formative assessment",
+      "wait time",
+      "questioning",
+      "participation",
+      "classroom management"
+    ],
+    "fields": [
+      "Formative Assessment and Feedback",
+      "Critical Thinking and Metacognition",
+      "Communication and Creativity"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_070",
+      "metac_078",
+      "metac_095",
+      "metac_159"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_REG_PART",
+      "INS_PART",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_161",
+    "name": "Philosophy for Children (P4C)",
+    "summary": "An approach in which the group becomes a “community of inquiry” to dialogue rigorously about philosophical questions arising from a stimulus (a story, an image, a dilemma). It develops critical, creative and caring thinking, and listening.",
+    "desc": "Philosophy for Children (P4C), created by Matthew Lipman, proposes turning the classroom into a community of inquiry: a group that thinks together, dialogues with reasons and questions itself. From a stimulus (a story, an image, an object or a dilemma), the learners themselves formulate the questions that interest them and choose one to investigate collectively through dialogue.\n\nIt does not seek a single answer nor for the teacher to transmit content, but to develop higher-quality thinking: critical (with reasons), creative (with new ideas) and caring (attentive to others). The teacher acts as a facilitator, not as an expert who corrects.\n\n## How to apply it\n\n1. A community climate is created: the group sits in a circle to see and hear one another.\n2. A shared stimulus is presented (story, image, video, dilemma) and time is given to think.\n3. Learners formulate the questions the stimulus raises; they are collected in full view of all.\n4. The group chooses, by consensus or vote, the question it wants to investigate.\n5. They dialogue guided by the facilitator, who gives no answers but asks for reasons, examples, counterexamples and connections (“why?”, “do you agree?”, “what is that based on?”).\n6. It closes with metacognition: what we thought, how our idea changed, what remains open.\n\n## Example\n\nAfter reading a story in which a character lies to protect a friend, learners formulate questions and choose to investigate “is it ever right to lie?”. In a circle, some argue that lying is always wrong and others bring cases where it seems justified. The facilitator asks for reasons and counterexamples. In the end no one has “won”, but everyone has refined their arguments and learned to listen and qualify.",
+    "tags": [
+      "critical thinking",
+      "dialogue",
+      "community of inquiry",
+      "philosophy",
+      "Lipman"
+    ],
+    "fields": [
+      "Critical Thinking and Metacognition",
+      "Communication and Creativity",
+      "Cohesion and Cooperation"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_019",
+      "metac_042",
+      "metac_090",
+      "metac_124"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_HET",
+      "HER_REG_PART",
+      "HER_RUB_ORAL",
+      "INS_ASAM",
+      "INS_COLOQ",
+      "INS_DEBATE",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_162",
+    "name": "Academic debate",
+    "summary": "A structured oral confrontation in which two teams defend opposing positions on a motion, with regulated turns of statement, rebuttal and conclusion. It develops argumentation, evidence-seeking, active listening and oral expression.",
+    "desc": "Academic debate is a formal activity in which two teams take opposing positions (for and against) on a statement or motion, and defend them following rules of turns and timing. Unlike a free discussion, its structure forces participants to prepare solid arguments, anticipate the opponent’s and respond with evidence, not opinions.\n\nAn important formative feature is that a team does not always defend what it thinks: because positions are assigned, learners must also research and argue stances they do not share, which develops intellectual empathy and critical thinking.\n\n## How to apply it\n\n1. A clear, debatable motion is set (for example, “phones should be banned in schools”).\n2. Two teams are formed and assigned the for or against position (not necessarily their own).\n3. Each team researches and prepares arguments, evidence and possible rebuttals.\n4. The debate runs in timed turns: opening statements, rebuttal turns and conclusions.\n5. A moderator keeps time and a jury (or the rest of the class, with a rubric) judges argumentative quality, not just “who is most persuasive”.\n6. It closes with a joint reflection on the best arguments from both sides.\n\n## Example\n\nIn a secondary class, the motion is “artificial intelligence should grade exams”. One team defends the for position and another the against, assigned by lot. Each brings data and examples, rebuts the other and concludes. The class uses a rubric to assess the soundness of arguments and respect for turns, and then discusses which reasons proved most convincing.",
+    "tags": [
+      "debate",
+      "argumentation",
+      "oral expression",
+      "evidence",
+      "critical thinking"
+    ],
+    "fields": [
+      "Communication and Creativity",
+      "Critical Thinking and Metacognition",
+      "Information Processing and Analysis",
+      "Cohesion and Cooperation"
+    ],
+    "programs": [],
+    "block": "Cooperative Learning Organization",
+    "related": [
+      "metac_024",
+      "metac_042",
+      "metac_090",
+      "metac_136"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_COMPART",
+      "DIM_HET",
+      "HER_ESC_VAL",
+      "HER_RUB_ORAL",
+      "INS_DEBATE",
+      "INS_EXPO",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_163",
+    "name": "Step Inside",
+    "summary": "A Project Zero thinking routine for perspective-taking: learners step into the shoes of a person, character or object and answer what they perceive, what they know or believe and what they care about. It develops empathy and understanding of different viewpoints.",
+    "desc": "Step Inside is a thinking routine that helps explore a situation from someone else’s point of view: a person, a historical or literary character, a group or even an object. By adopting that perspective, learners understand that every situation looks different depending on who is looking, and they develop empathy and depth of analysis.\n\nThe routine rests on three questions that learners answer “from inside” the chosen agent:\n\n## How to apply it\n\n1. Select a situation, image, text or event rich in perspectives.\n2. Each student (or group) chooses or is assigned an agent to look from (person, character, object).\n3. They answer, in the first person, three questions: What do I perceive or notice from here? What do I know, believe or think? What do I care about or want?\n4. The different perspectives are shared and compared: where they agree, where they clash and why.\n5. They reflect on how understanding of the situation changes after looking at it “from inside” someone else.\n\n## Example\n\nFaced with a painting of an everyday 19th-century scene, different students step into the girl who appears, the merchant in the background and even the dog. Each describes what they perceive, think and care about from that position. Sharing them, the class discovers tensions and nuances in the scene that were invisible from a single viewpoint.",
+    "tags": [
+      "thinking routine",
+      "perspective",
+      "empathy",
+      "Project Zero",
+      "viewpoints"
+    ],
+    "fields": [
+      "Thinking Routines",
+      "Critical Thinking and Metacognition",
+      "Communication and Creativity"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_019",
+      "metac_050",
+      "metac_052",
+      "metac_087"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_RUB_ORAL",
+      "INS_DRAMA",
+      "INS_F_REFLEX",
+      "INS_ROL",
+      "TEC_ORAL",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_164",
+    "name": "The Explanation Game",
+    "summary": "A thinking routine that starts by identifying a striking detail of an object or situation and repeatedly asking “why is it like that?” to build explanations. It fosters curiosity, causal reasoning and evidence-based thinking.",
+    "desc": "The Explanation Game is a Project Zero routine focused on explaining the why of things. It begins by noticing some feature or detail of an object, image or phenomenon and, from there, chains “why is it like that?” questions that lead to proposing increasingly grounded explanations.\n\nIt is especially useful for activating curiosity and for moving from mere observation to the search for causes and mechanisms.\n\n## How to apply it\n\n1. Present an object, image or phenomenon and ask learners to notice: “What do you observe? What detail catches your attention?”.\n2. About that detail, ask: “Why is it like that? Why do you think that happens?”.\n3. Learners propose a possible explanation (a hypothesis).\n4. Go deeper: “What makes you think that? What other explanation could there be?”.\n5. Alternative explanations are compared and judged against the available evidence.\n\n## Example\n\nIn science, the teacher shows a leaf with curled edges and asks what detail stands out. A student points to the dry edges. “Why do you think they curled like that?” Explanations emerge: lack of water, too much sun, a pest. The group compares them and decides what evidence would confirm each, turning a simple observation into a small inquiry.",
+    "tags": [
+      "thinking routine",
+      "explanation",
+      "causality",
+      "Project Zero",
+      "curiosity"
+    ],
+    "fields": [
+      "Thinking Routines",
+      "Critical Thinking and Metacognition",
+      "Information Processing and Analysis"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_001",
+      "metac_060",
+      "metac_078",
+      "metac_099"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "INS_F_REFLEX",
+      "INS_PREG_ORAL",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_165",
+    "name": "Chalk Talk",
+    "summary": "A thinking routine in which the group dialogues in writing and in silence about a question written on a shared surface: each person adds ideas, connects to others’ and poses new questions, without speaking. It makes collective thinking visible.",
+    "desc": "Chalk Talk is a Project Zero routine for conversing without spoken words. On a board, mural or shared document a central question or topic is written, and learners respond in writing, in silence, adding ideas, commenting on what others have written, connecting contributions with lines and posing new questions.\n\nThe silence equalises participation (those who rarely speak also take part), gives time to think and leaves a visible record of the group’s whole thinking process.\n\n## How to apply it\n\n1. Write an open question or topic in the centre of a large surface.\n2. Explain the only rule: you converse only in writing, without speaking.\n3. Learners approach and write ideas, respond to what they see, draw lines to connect contributions and add questions.\n4. The teacher can also take part in writing, posing questions that push deeper.\n5. At the end the silence is broken: the mural is viewed as a whole, patterns, agreements and tensions are identified, and it is discussed aloud.\n\n## Example\n\nIn a tutorial, the centre of a large sheet reads “What makes a group work well?”. Without speaking, learners write ideas (respect, listening, sharing tasks), react to others’ and join them with arrows. When finished, the mural shows at a glance the dominant ideas and the disagreements, which form the basis for a later discussion.",
+    "tags": [
+      "thinking routine",
+      "written conversation",
+      "Project Zero",
+      "participation",
+      "collective thinking"
+    ],
+    "fields": [
+      "Thinking Routines",
+      "Communication and Creativity",
+      "Cohesion and Cooperation"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_032",
+      "metac_044",
+      "metac_048",
+      "metac_101"
+    ],
+    "eval_ids": [
+      "DIM_COMPART",
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "HER_REG_PART",
+      "INS_DOC_COL",
+      "INS_LLUVIA",
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_166",
+    "name": "Question Starts",
+    "summary": "A thinking routine for generating questions: from a topic, learners create many questions using starters like “why…?”, “what if…?”, “how…?”. It sparks curiosity and teaches how to ask good questions, not just answer them.",
+    "desc": "Question Starts is a Project Zero routine that reverses the usual classroom dynamic: instead of answering questions, learners generate them. To do so they are given a list of starters (“Why…?”, “What would happen if…?”, “What would it be like if…?”, “What is the purpose of…?”, “What would change if…?”) that help produce questions of different kinds and depth about a topic.\n\nFormulating questions activates interest, surfaces what is already known and what one wants to find out, and develops a key critical-thinking skill: knowing what to ask.\n\n## How to apply it\n\n1. Present a topic, object or situation to be studied.\n2. Show a list of varied question starters.\n3. Learners, individually or in groups, generate as many questions as possible using those starters (a question brainstorm, without answering them yet).\n4. The questions are reviewed: the most interesting or powerful are identified and closed vs. open questions are distinguished.\n5. Some questions are chosen to be investigated or used to guide the study of the topic.\n\n## Example\n\nBefore starting a topic on water, learners use the starters to generate questions: “Why is sea water salty?”, “What would happen if it didn’t rain for a year?”, “How does water reach the tap?”. They then select the ones that intrigue them most, which become the thread of the unit, giving them ownership of what they will learn.",
+    "tags": [
+      "thinking routine",
+      "question formulation",
+      "curiosity",
+      "Project Zero",
+      "inquiry"
+    ],
+    "fields": [
+      "Thinking Routines",
+      "Activation of Prior Knowledge",
+      "Critical Thinking and Metacognition"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_012",
+      "metac_018",
+      "metac_075",
+      "metac_149"
+    ],
+    "eval_ids": [
+      "DIM_DIAG",
+      "DIM_FORM",
+      "HER_LISTA",
+      "INS_F_REFLEX",
+      "INS_LLUVIA",
+      "TEC_PROD",
+      "TEC_SONDEO"
+    ]
+  },
+  {
+    "id": "metac_167",
+    "name": "Fan-N-Pick",
+    "summary": "A Kagan cooperative structure for reviewing content in teams of four with question cards. Each member takes a different role in turn (holding the cards, reading, answering, evaluating), ensuring everyone participates equally.",
+    "desc": "Fan-N-Pick is a Spencer Kagan cooperative structure for reviewing or practising content in teams of four using a deck of question cards. Its value lies in the rotation of roles: in each round every member performs a different function, so all participate equally and no one is left out.\n\nIt guarantees simultaneous interaction and individual accountability, two key principles of well-structured cooperative learning.\n\n## How to apply it\n\n1. Each team of four receives a deck of question cards (with the answer on the back or known to the group).\n2. Student 1 holds the cards in a fan, face down, and says: “Pick a card.”\n3. Student 2 picks a card and reads the question aloud.\n4. Student 3 answers the question.\n5. Student 4 evaluates the answer: if correct, praises; if not, helps correct it or re-teaches.\n6. Roles rotate one position and it repeats with the next card, until the deck is finished.\n\n## Example\n\nTo review English vocabulary, each team uses cards with a word on one side and its translation on the other. The one holding the fan offers the cards; another picks and reads; a third translates; the fourth checks against the back and, if needed, corrects kindly. After each question roles rotate, so within minutes everyone has questioned, answered and evaluated.",
+    "tags": [
+      "cooperative learning",
+      "Kagan",
+      "review",
+      "roles",
+      "cards"
+    ],
+    "fields": [
+      "Cohesion and Cooperation",
+      "Formative Assessment and Feedback",
+      "Activation of Prior Knowledge"
+    ],
+    "programs": [],
+    "block": "Cooperative Learning Organization",
+    "related": [
+      "metac_068",
+      "metac_082",
+      "metac_088",
+      "metac_093"
+    ],
+    "eval_ids": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "HER_REG_COOP",
+      "HER_RUB_COOP",
+      "INS_PART",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_168",
+    "name": "Showdown",
+    "summary": "A Kagan cooperative structure in which, given a question, all team members answer at once individually and then compare and reach consensus. It combines individual accountability with mutual help and active review.",
+    "desc": "Showdown is a Kagan cooperative structure for practising or reviewing in a team while making sure everyone thinks. One member acts as “round captain”, reads the question, and everyone solves it on their own and in secret; on a signal (“Showdown!”) they show their answers simultaneously, compare them and, if there are discrepancies, discuss until the correct one is understood.\n\nThe key is that no one can hide behind the group: each student produces their own answer before comparing, combining individual accountability with peer learning.\n\n## How to apply it\n\n1. Each team has a deck of question cards and each member an individual whiteboard or paper.\n2. The round captain takes the first card and reads it aloud.\n3. All members solve it individually and silently, without showing their answer.\n4. When everyone is ready, the captain says “Showdown!” and all reveal their answers at once.\n5. They compare: if they match and are correct, they celebrate; if they differ, they discuss and help one another until it is clarified.\n6. The captain role rotates and they move to the next card.\n\n## Example\n\nIn maths, the captain reads “solve 3/4 + 1/8”. Each member works it out on their whiteboard without looking at the others. On the call of “Showdown!”, everyone shows their result. Two wrote 7/8 and two a different value: the team compares procedures, spots where the error in adding fractions lies and corrects it before moving to the next card.",
+    "tags": [
+      "cooperative learning",
+      "Kagan",
+      "review",
+      "individual accountability",
+      "practice"
+    ],
+    "fields": [
+      "Cohesion and Cooperation",
+      "Formative Assessment and Feedback",
+      "Activation of Prior Knowledge"
+    ],
+    "programs": [],
+    "block": "Cooperative Learning Organization",
+    "related": [
+      "metac_068",
+      "metac_082",
+      "metac_092",
+      "metac_094"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_GAMIF",
+      "HER_REG_COOP",
+      "INS_TEST",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_PRUEBA"
+    ]
+  },
+  {
+    "id": "metac_169",
+    "name": "Stand Up–Hand Up–Pair Up",
+    "summary": "A Kagan cooperative structure in which learners stand up, move around the room and form random pairs with different classmates to exchange ideas or answers. It mixes the group, activates them physically and multiplies interactions.",
+    "desc": "Stand Up–Hand Up–Pair Up is a Kagan cooperative structure that combines movement and interaction. Learners stand up, wander and pair with whoever they meet (not their usual partner), share an answer or idea, and then look for another, different partner. This way each student talks with several different classmates in just a few minutes.\n\nIt is ideal for energising the group, breaking the routine of sitting, mixing those who rarely work together and giving lots of oral practice in little time.\n\n## How to apply it\n\n1. Pose a question or short task that everyone can answer.\n2. “Stand up”: everyone stands. “Hand up”: they raise a hand while moving, as a signal that they are looking for a partner.\n3. “Pair up”: they high-five the first classmate they meet and lower their hand: they are a pair.\n4. In turn, each shares their answer or idea and listens to the other’s.\n5. On the teacher’s signal, they raise their hand again, say goodbye and look for a new, different partner, repeating the exchange.\n\n## Example\n\nAfter reading a text, the teacher asks: “think of an idea that surprised you.” Everyone stands with a hand up, pairs with the first person they meet and tells each other their idea. On the signal, they swap partners two or three more times. In five minutes each student has verbalised their idea several times and heard diverse viewpoints, arriving better prepared at the whole-class sharing.",
+    "tags": [
+      "cooperative learning",
+      "Kagan",
+      "movement",
+      "oral interaction",
+      "pairs"
+    ],
+    "fields": [
+      "Cohesion and Cooperation",
+      "Communication and Creativity",
+      "Activation of Prior Knowledge"
+    ],
+    "programs": [],
+    "block": "Cooperative Learning Organization",
+    "related": [
+      "metac_025",
+      "metac_083",
+      "metac_084",
+      "metac_095"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_REG_PART",
+      "INS_PART",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_170",
+    "name": "Three-Step Interview",
+    "summary": "A cooperative structure in which, in teams of four, members interview each other in pairs (one asks, the other answers), swap roles, and then each shares with the team what they learned from their partner. It develops listening and synthesis.",
+    "desc": "The Three-Step Interview is a cooperative structure that ensures everyone speaks and everyone listens. The team of four splits into two pairs; within each pair, first one interviews the other about a topic, then they swap roles, and finally, back in the full team, each member shares not their own answer but what they learned from their partner.\n\nThat third step is key: it forces attentive listening (because there is later accountability for what was heard) and develops the ability to synthesise and faithfully communicate someone else’s idea.\n\n## How to apply it\n\n1. Pose a topic or question that allows personal or elaborated answers.\n2. Step 1: in each pair, student A interviews B, who answers while A listens (and may take notes).\n3. Step 2: they swap roles; now B interviews A.\n4. Step 3: in the team of four, each member shares in turn what their partner said (not their own), in a round-robin structure.\n5. The team gathers the shared ideas and the differences.\n\n## Example\n\nWhen starting a project, the topic is “what would you like to research and why?”. In pairs, A interviews B and then B interviews A. Then, in the team of four, each presents their partner’s interest: “David is interested in climate change because…”. This way everyone practises active listening and synthesis, and the team learns all its members’ interests in order to decide the project.",
+    "tags": [
+      "cooperative learning",
+      "interview",
+      "active listening",
+      "synthesis",
+      "pairs"
+    ],
+    "fields": [
+      "Cohesion and Cooperation",
+      "Communication and Creativity",
+      "Information Processing and Analysis"
+    ],
+    "programs": [],
+    "block": "Cooperative Learning Organization",
+    "related": [
+      "metac_054",
+      "metac_072",
+      "metac_084",
+      "metac_095"
+    ],
+    "eval_ids": [
+      "DIM_COEV",
+      "DIM_FORM",
+      "HER_REG_COOP",
+      "HER_RUB_ORAL",
+      "INS_ENTREV",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
+    ]
+  },
+  {
+    "id": "metac_171",
+    "name": "WebQuest",
+    "summary": "A guided-inquiry activity in which learners solve a task using internet resources preselected by the teacher. It has a fixed structure (introduction, task, process, resources, evaluation, conclusion) that guides searching and analysis.",
+    "desc": "The WebQuest, created by Bernie Dodge, is an inquiry methodology in which learners tackle a task or problem using mainly internet resources the teacher has selected beforehand. By providing the sources, time is not lost searching but spent analysing, comparing and transforming information, which makes it especially useful for teaching critical handling of information.\n\nIts hallmark is a fixed structure of sections that guides the whole process and makes clear what to do, with which resources and how it will be assessed.\n\n## How to apply it\n\n1. Introduction: presents the scenario and motivates the task.\n2. Task: describes the final product learners must produce (a report, a presentation, a proposal…).\n3. Process: details the steps to follow, often with role distribution within the group.\n4. Resources: provides the preselected links and materials to consult.\n5. Evaluation: shows the rubric the work will be judged with, known from the start.\n6. Conclusion: closes by recalling what was learned and inviting transfer or further inquiry.\n\n## Example\n\nIn a WebQuest on renewable energy, the task asks for a proposal to install a system at the school. Learners, in groups with roles (economist, engineer, ecologist), consult the provided web resources, compare technologies and costs, and prepare a presentation. The rubric, known from the start, assesses the rigour of the data, the argumentation and the quality of the product.",
+    "tags": [
+      "guided inquiry",
+      "digital competence",
+      "internet",
+      "information handling",
+      "Dodge"
+    ],
+    "fields": [
+      "Information Processing and Analysis",
+      "Problem Solving and Challenges",
+      "Communication and Creativity"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_008",
+      "metac_010",
+      "metac_014",
+      "metac_043"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_DIG",
+      "DIM_INDAG",
+      "HER_RUB_PROD",
+      "INS_INFO_INV",
+      "INS_PRESENT_DIG",
+      "INS_WEB",
+      "TEC_ANAL_DOC",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_172",
+    "name": "Maker learning / STEAM",
+    "summary": "An approach in which learners learn by creating tangible objects and solutions (designing, building, coding) and integrating science, technology, engineering, art and mathematics. Learning by doing, with productive failure, iteration and meaningful projects.",
+    "desc": "Maker learning is based on the idea of “learning by making and creating”: learners build physical or digital objects (models, prototypes, devices, programs) to solve a challenge, and in the process mobilise knowledge from several areas. When that creation deliberately integrates Science, Technology, Engineering, Art and Mathematics, we speak of a STEAM approach.\n\nIts formative value lies in the design cycle: prototype, test, fail, adjust and improve. Error is not a failure but information for iterating, and the final product has a real purpose that gives meaning to the effort.\n\n## How to apply it\n\n1. Pose a challenge or need that requires creating something (an object, a mechanism, a solution).\n2. Learners come up with possible solutions and choose one, identifying what knowledge they need from each discipline.\n3. They design and build a first prototype with the available materials or tools (handcraft, electronics, coding, 3D printing…).\n4. They test the prototype, detect what fails and improve it over successive iterations.\n5. They share the final product and reflect on the process, the errors and what was learned.\n\n## Example\n\nFaced with the challenge “design a device that warns when a plant needs water”, learners combine science (soil moisture), technology and coding (a sensor and a programmable board) and design (the casing). They build a first prototype that does not work well, adjust the code and sensor, and after several tests achieve a working alert, documenting each iteration in a project report.",
+    "tags": [
+      "maker",
+      "STEAM",
+      "learning by doing",
+      "prototyping",
+      "interdisciplinarity"
+    ],
+    "fields": [
+      "Problem Solving and Challenges",
+      "Communication and Creativity",
+      "Cohesion and Cooperation"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_011",
+      "metac_014",
+      "metac_015",
+      "metac_027"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_DESEMP",
+      "DIM_PROY",
+      "HER_RUB_PROC",
+      "HER_RUB_PROD",
+      "INS_MAQUETA",
+      "INS_MEM_PROY",
+      "INS_PROTOTIPO",
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_173",
+    "name": "Computational thinking",
+    "summary": "A way of approaching and solving problems inspired by computer science, based on four skills: decomposing, recognising patterns, abstracting the essential and designing algorithms. It transfers to any subject and does not necessarily require computers.",
+    "desc": "Computational thinking is a way of reasoning to solve problems (not necessarily with a computer) by borrowing strategies from computer science. It means analysing a complex problem by breaking it into manageable parts, detecting regularities, keeping the essentials while ignoring irrelevant details, and formulating a clear sequence of steps that leads to the solution.\n\nIts four pillars are: decomposition (dividing the problem), pattern recognition (seeing what repeats), abstraction (focusing on what matters) and algorithm design (defining ordered, reusable steps).\n\n## How to apply it\n\n1. Present a problem or task with some complexity.\n2. Decomposition: learners divide it into smaller, manageable subproblems.\n3. Pattern recognition: they look for similarities with already-solved problems or internal regularities.\n4. Abstraction: they identify the essential data and rules and leave out the incidental.\n5. Algorithm: they design a precise sequence of steps to solve it, test it and debug it if it fails.\n\n## Example\n\nTo organise the schedule for using a single computer among several groups, learners decompose the problem (how many groups, how much time, what priorities), recognise the pattern of rotating turns, abstract the key rules (everyone must use it for the same time) and design a step-by-step allocation algorithm. They test it with cases and adjust it: they have solved a real problem applying computational thinking without coding anything.",
+    "tags": [
+      "computational thinking",
+      "problem solving",
+      "algorithms",
+      "abstraction",
+      "patterns"
+    ],
+    "fields": [
+      "Problem Solving and Challenges",
+      "Critical Thinking and Metacognition",
+      "Information Processing and Analysis"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_013",
+      "metac_028",
+      "metac_046",
+      "metac_064"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_DIG",
+      "DIM_PROB",
+      "HER_RUB_ANA",
+      "INS_MODELO_DIG",
+      "INS_PROB",
+      "INS_PROTOTIPO",
+      "TEC_PROD",
+      "TEC_PRUEBA"
+    ]
+  },
+  {
+    "id": "metac_174",
+    "name": "Genius Hour",
+    "summary": "Time set aside periodically for learners to investigate and develop a project on a topic of their own choice, driven by their curiosity. It fosters intrinsic motivation, autonomy and responsibility for one’s own learning.",
+    "desc": "Genius Hour, inspired by the practice in some companies of devoting part of work time to personal projects, means regularly setting aside class time for each student (or group) to investigate a question or develop a project they have chosen out of genuine interest.\n\nBecause learners decide the topic, motivation is intrinsic: they learn because they want to know, not because they are told to. The teacher accompanies, helps scope the project, provides resources and demands rigour, but does not impose the content.\n\n## How to apply it\n\n1. A fixed regular time is reserved (for example, one session a week) devoted to the personal project.\n2. Each student formulates a question or challenge they genuinely care about and frames it as an investigable project.\n3. The teacher checks it is feasible, helps focus it and agrees on an expected product or outcome.\n4. Learners research, create and document their progress (a log), managing their time autonomously.\n5. When finished, they share the result with the class and reflect on the process, the obstacles and what was learned.\n\n## Example\n\nA student passionate about animals devotes her Genius Hour to investigating why bees are disappearing and what can be done. She defines the question, seeks rigorous information, interviews a beekeeper and creates an awareness campaign for the school. The teacher guides her and requires reliable sources; she learns biology, communication and project management driven by her own interest.",
+    "tags": [
+      "intrinsic motivation",
+      "autonomy",
+      "personal project",
+      "curiosity",
+      "self-directed learning"
+    ],
+    "fields": [
+      "Communication and Creativity",
+      "Problem Solving and Challenges",
+      "Critical Thinking and Metacognition"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_014",
+      "metac_015",
+      "metac_023",
+      "metac_080"
+    ],
+    "eval_ids": [
+      "DIM_AUTO",
+      "DIM_COMP",
+      "DIM_PROY",
+      "HER_RUB_PROC",
+      "INS_BIT",
+      "INS_DEF_PROY",
+      "INS_PORT",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_175",
+    "name": "Personalised learning playlists",
+    "summary": "A model in which learners move through a sequence of activities (a “playlist”) at their own pace and, in part, according to their needs and choices. The teacher frees up time for individual support, and progress is based on mastery, not the clock.",
+    "desc": "Personalised learning through pathways or “playlists” organises a unit’s content as a sequence of activities learners work through at their own pace, with some choice over order, format or level. Since not everyone advances in unison, the teacher stops explaining to all at once and spends the time supporting individuals or small groups who need it.\n\nIt is related to the flipped classroom and mastery learning: you move to the next stage when you demonstrate mastery of the previous one, not when the calendar dictates. It requires well-structured materials and a clear tracking system.\n\n## How to apply it\n\n1. Define the unit’s learning goals and the mastery milestones to be demonstrated.\n2. Design the list of activities (explanations, readings, videos, practice, checks), with compulsory and optional ones by level.\n3. Each learner receives their pathway and progresses at their own pace, recording progress on a dashboard.\n4. The teacher monitors the dashboard and devotes class time to individualised attention and to small groups with common difficulties.\n5. Mastery is checked at checkpoints before moving to the next stage; those who need it reinforce, those ahead go deeper.\n\n## Example\n\nIn a maths unit, each student receives a list with videos, self-correcting exercises and mini-challenges, plus mastery checks. While most practise independently, the teacher gathers the four students struggling with the same concept and re-explains it. Those who already master the basics move on to extension challenges. No one waits for the rest or falls behind without support.",
+    "tags": [
+      "personalised learning",
+      "pathways",
+      "self-pacing",
+      "differentiation",
+      "mastery"
+    ],
+    "fields": [
+      "Formative Assessment and Feedback",
+      "Knowledge Building",
+      "Activation of Prior Knowledge"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_023",
+      "metac_041",
+      "metac_043",
+      "metac_141"
+    ],
+    "eval_ids": [
+      "DIM_CONT",
+      "DIM_FORM",
+      "DIM_INCL",
+      "HER_ESC_PROG",
+      "HER_PANEL",
+      "INS_PLAN_TRAB",
+      "INS_PORT",
+      "TEC_OBS_SIS",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_176",
+    "name": "Mind map",
+    "summary": "A radial graphic organiser that starts from a central idea and spreads out branches with keywords, colours and images to represent how concepts relate. It helps structure ideas, synthesise, memorise and generate connections visually.",
+    "desc": "The mind map, popularised by Tony Buzan, is a graphic representation that organises information radially: the main idea or topic sits in the centre and branches radiate out, subdividing into secondary ideas, using keywords (not long sentences), colours and images. Its structure mimics the associative way the mind connects ideas.\n\nUnlike the concept map (which links concepts with labelled connectors forming propositions), the mind map is freer, more visual and personal, and is very useful for brainstorming, summarising and memorising.\n\n## How to apply it\n\n1. Write the main idea or topic in the centre of the sheet, ideally with an image.\n2. Draw thick branches towards the related main ideas, each with a keyword.\n3. Subdivide each branch into finer branches with secondary ideas, keeping one word per branch.\n4. Use different colours per branch and add drawings or icons that aid recall.\n5. Review and reorganise: add connections between branches if you discover new relationships.\n\n## Example\n\nTo review the digestive system, learners draw a stomach in the centre and colourful branches radiate out: “organs”, “process”, “nutrients”, “diseases”. Each branch ramifies with keywords and icons. In building it, learners decide what is main and what is secondary and how everything connects, which forces them to structure the content and makes it easier to recall at a glance.",
+    "tags": [
+      "graphic organiser",
+      "mind map",
+      "synthesis",
+      "visual thinking",
+      "Buzan"
+    ],
+    "fields": [
+      "Information Processing and Analysis",
+      "Communication and Creativity",
+      "Knowledge Building"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_004",
+      "metac_047",
+      "metac_063",
+      "metac_100",
+      "metac_178"
+    ],
+    "eval_ids": [
+      "DIM_DESEMP",
+      "DIM_FORM",
+      "HER_RUB_PROD",
+      "INS_ESQUEMA",
+      "INS_MAP_MENT",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_177",
+    "name": "Fishbone diagram (Ishikawa)",
+    "summary": "A fish-skeleton-shaped graphic organiser for analysing the causes of a problem: the effect sits in the head and possible causes are grouped by categories along the bones. It helps think systematically about the roots of a problem.",
+    "desc": "The fishbone or Ishikawa diagram (also called cause-effect) is a visual tool for analysing the causes that produce a problem or effect. It is drawn as a fish skeleton: the “head” holds the effect or problem and from the “spine” come bones representing categories of causes, and from each bone, sub-bones with specific causes.\n\nIt forces you not to settle for the first explanation, but to explore different families of causes in an orderly way, distinguishing main from secondary causes.\n\n## How to apply it\n\n1. Clearly write the problem or effect to analyse in the fish’s head (on the right).\n2. Define the main categories of causes (for example: people, methods, materials, environment) and place them as main bones.\n3. For each category, the group brainstorms possible causes and adds them as sub-bones.\n4. Go deeper by asking “why?” at each cause, to reach the roots rather than the symptoms.\n5. Analyse the complete diagram and identify the most likely or influential causes to act on.\n\n## Example\n\nFaced with the problem “a lot of time is lost at the start of lessons”, the group draws the fishbone and groups causes: organisation (materials not ready), rules (they arrive late), space (badly arranged desks), habits (slow to get out their notebook). Seeing it all together, they identify that the most influential root cause is the lack of a start-of-class routine, and decide to act on it.",
+    "tags": [
+      "graphic organiser",
+      "cause-effect",
+      "problem analysis",
+      "Ishikawa",
+      "problem solving"
+    ],
+    "fields": [
+      "Information Processing and Analysis",
+      "Critical Thinking and Metacognition",
+      "Problem Solving and Challenges"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_013",
+      "metac_046",
+      "metac_060",
+      "metac_064"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_PROB",
+      "HER_RUB_ANA",
+      "INS_ESQUEMA",
+      "INS_PROB",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_178",
+    "name": "Timeline",
+    "summary": "A graphic organiser that represents events or stages in chronological order along an axis. It helps understand sequences, durations, simultaneity and cause-effect relationships over time, and place events in their context.",
+    "desc": "A timeline is a visual representation in which events, stages or processes are placed in chronological order along an axis (usually horizontal). It lets you grasp at a glance the order of events, how long they last, what happens at the same time and how some events can be the cause or consequence of others.\n\nIt is a very versatile organiser: it works for history as well as for the development of an experiment, the phases of a project, an author’s biography or the evolution of a concept.\n\n## How to apply it\n\n1. Delimit the period and the events or stages to be represented.\n2. Draw the axis and decide the scale (so the distance between points is proportional to the time elapsed).\n3. Place each event in its position, with a short label and, if useful, an image.\n4. Mark durations (with bars or spans) and indicate simultaneity or relationships between events.\n5. Interpret the timeline: analyse sequences, rhythms, periods of change and possible causes and effects.\n\n## Example\n\nWhen studying the contemporary era, learners build a to-scale timeline with revolutions, wars and technological advances. Seeing them ordered and proportioned, they discover that certain inventions coincide with social changes and that some conflicts chain together, understanding not only what happened but when, in what order and how events relate to one another.",
+    "tags": [
+      "graphic organiser",
+      "chronology",
+      "temporal sequence",
+      "history",
+      "cause-effect"
+    ],
+    "fields": [
+      "Information Processing and Analysis",
+      "Knowledge Building",
+      "Communication and Creativity"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_004",
+      "metac_028",
+      "metac_089",
+      "metac_176"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_RUB_PROD",
+      "INS_ESQUEMA",
+      "INS_LINEA",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_179",
+    "name": "Venn diagram",
+    "summary": "A graphic organiser made of overlapping circles to compare two or more elements: what is unique to each goes in the non-shared part and what is common goes in the overlap. It helps analyse similarities and differences visually and precisely.",
+    "desc": "The Venn diagram uses overlapping circles to compare and contrast two or more concepts, objects or ideas. Each circle represents an element; in the exclusive area of each circle you write its own characteristics, and in the area where the circles overlap, the characteristics they share.\n\nIt is a simple but powerful tool for training rigorous comparison: it forces you to decide, for each feature, whether it is unique to one, unique to the other or common to both, which sharpens the analysis.\n\n## How to apply it\n\n1. Choose the two (or three) elements to compare and draw a circle for each, overlapping them.\n2. Identify the characteristics of each element through observation, reading or brainstorming.\n3. Place each characteristic in its place: in the exclusive part if unique to one element; in the overlap if shared.\n4. Review the distribution and discuss the doubtful cases (is it really common or just similar?).\n5. Draw conclusions from what is exclusive and what is shared.\n\n## Example\n\nTo compare mammals and birds, learners draw two circles. In the mammals one: hair, mammary glands; in the birds one: feathers, beak, shelled eggs; in the overlap: vertebrates, lung breathing, warm blood. By placing each feature, learners understand precisely what both groups have in common and what distinguishes them.",
+    "tags": [
+      "graphic organiser",
+      "comparison",
+      "similarities and differences",
+      "analysis",
+      "Venn"
+    ],
+    "fields": [
+      "Information Processing and Analysis",
+      "Critical Thinking and Metacognition",
+      "Knowledge Building"
+    ],
+    "programs": [],
+    "block": "Active Methodologies",
+    "related": [
+      "metac_004",
+      "metac_022",
+      "metac_028",
+      "metac_132"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "HER_RUB_ANA",
+      "INS_COM_TEXT",
+      "INS_ESQUEMA",
+      "TEC_PROD"
+    ]
+  },
+  {
+    "id": "metac_180",
+    "name": "Scaffolding and zone of proximal development (ZPD)",
+    "summary": "A Vygotsky-based framework: the zone of proximal development is the distance between what learners can do alone and what they can achieve with help. Scaffolding is the temporary support a teacher or peer provides and removes as autonomy is gained.",
+    "desc": "The zone of proximal development (ZPD), a concept from Lev Vygotsky, denotes the gap between what a learner can do by themselves and what they can achieve with the help of someone more capable (the teacher or a peer). The most effective learning happens precisely in that zone: tasks that are neither too easy nor impossible to tackle alone.\n\nScaffolding is the metaphor for the supports provided within that zone: hints, models, questions, organisers or guides that hold the learner up while needed and are gradually removed as they gain autonomy, just as scaffolding is dismantled once the building stands on its own.\n\n## How to apply it\n\n1. Find out what learners can do alone and what lies just above their current level (their ZPD).\n2. Propose tasks located in that zone: achievable with help, but not without it.\n3. Offer suitable scaffolds: modelling the process, giving hints, breaking the task down, providing templates or examples.\n4. Observe progress and remove the supports gradually as the learner demonstrates mastery.\n5. Adjust continuously: if the task proves unmanageable, reinforce the scaffolding; if trivial, raise the challenge.\n\n## Example\n\nA student can solve simple equations but not two-step ones. The teacher places the task in their ZPD and gives scaffolds: first they solve one together thinking aloud, then offers a template with the steps, then only a hint (“what do you do first?”) and, finally, removes all support. The student ends up solving them independently.",
+    "tags": [
+      "Vygotsky",
+      "scaffolding",
+      "zone of proximal development",
+      "guided learning",
+      "support"
+    ],
+    "fields": [
+      "Educational Design and Analysis",
+      "Knowledge Building",
+      "Formative Assessment and Feedback"
+    ],
+    "programs": [],
+    "block": "Educational Frameworks",
+    "related": [
+      "metac_114",
+      "metac_142",
+      "metac_143",
+      "metac_144"
+    ],
+    "eval_ids": [
+      "DIM_FORM",
+      "DIM_INCL",
+      "HER_ESC_OBS",
+      "HER_ESC_PROG",
+      "INS_F_REFLEX",
+      "TEC_OBS_SIS",
+      "TEC_PROC_REFLEX"
+    ]
+  },
+  {
+    "id": "metac_181",
+    "name": "Constructive alignment",
+    "summary": "John Biggs’s instructional-design principle: learning outcomes, activities and assessment must be coherently aligned. Learners learn by “constructing” through activities that lead directly to demonstrating the intended outcomes.",
+    "desc": "Constructive alignment, formulated by John Biggs, combines two ideas. The “constructive” part comes from constructivism: learners learn by building meaning through what they do. “Alignment” requires three elements of instructional design to point in the same direction: the intended learning outcomes, the teaching-learning activities and the assessment tasks.\n\nThe key is coherence: if an outcome says learners must “analyse”, the activities must make them analyse and the assessment must ask them to analyse (not to recall). When the three elements are aligned, the usual mismatch between what is claimed to be sought, what is done in class and what is finally examined disappears.\n\n## How to apply it\n\n1. Formulate the learning outcomes with verbs expressing the intended cognitive level (explain, apply, design, evaluate…).\n2. Design classroom activities that force learners to put precisely that verb into practice.\n3. Design the assessment so that the required task directly demonstrates that same outcome, with coherent criteria.\n4. Check the coherence: confirm that outcome, activity and assessment share the same level and type of learning.\n5. Adjust any misaligned element (for example, an “apply” outcome assessed with a memorisation test).\n\n## Example\n\nIf the outcome is “learners will be able to design an experiment to answer a question”, the activities cannot just be reading about the scientific method: learners must design experiments in class. And the assessment, accordingly, will ask them to design one (not answer a test about the phases). Outcome, practice and test are aligned.",
+    "tags": [
+      "Biggs",
+      "instructional design",
+      "alignment",
+      "constructivism",
+      "coherent assessment"
+    ],
+    "fields": [
+      "Educational Design and Analysis",
+      "Formative Assessment and Feedback",
+      "Critical Thinking and Metacognition"
+    ],
+    "programs": [],
+    "block": "Educational Frameworks",
+    "related": [
+      "metac_102",
+      "metac_104",
+      "metac_105",
+      "metac_106"
+    ],
+    "eval_ids": [
+      "DIM_COMP",
+      "DIM_CRIT",
+      "DIM_FORM",
+      "HER_MATRIZ",
+      "HER_RUB_COMP",
+      "INS_TAREA_COMP_INT",
+      "TEC_TRIANG"
+    ]
+  },
+  {
+    "id": "metac_182",
+    "name": "ICAP framework",
+    "summary": "Michelene Chi’s framework classifying learners’ degree of cognitive engagement into four modes —Interactive, Constructive, Active and Passive— and predicting that learning improves as you move up: Interactive > Constructive > Active > Passive.",
+    "desc": "The ICAP framework, proposed by Michelene Chi, offers a simple way to assess and raise the cognitive quality of learning activities according to the type of behaviour they prompt in learners. It distinguishes four modes of engagement, from least to most effective:\n\nPASSIVE: learners receive information without doing anything observable (listening to an explanation, watching a video).\n\nACTIVE: they do something physical with the material but without generating new content (underlining, copying, repeating).\n\nCONSTRUCTIVE: they produce something beyond what was given (summarising in their own words, making a diagram, posing questions, explaining).\n\nINTERACTIVE: they construct in dialogue with another, so contributions enrich each other (discussing, debating, co-creating).\n\nThe ICAP hypothesis holds that learning increases as you move up: Interactive > Constructive > Active > Passive. It is a practical guide for redesigning activities towards more demanding modes.\n\n## How to apply it\n\n1. Analyse an activity and classify it into one of the four modes according to what learners actually do.\n2. If it is passive or active, redesign it to be at least constructive (so learners generate something of their own).\n3. Where possible, raise it to interactive by adding genuine peer dialogue about what was constructed.\n4. Make sure the “interactive” mode truly is: that both contribute and respond, not that only one works.\n5. Use the framework to balance the session, reducing time in passive mode.\n\n## Example\n\nInstead of learners only listening to the explanation of a text (passive) or underlining it (active), the teacher first asks them to summarise it in their own words and pose questions (constructive) and then discuss those questions in pairs, jointly building an answer (interactive). The same content, tackled in a higher ICAP mode, produces deeper learning.",
+    "tags": [
+      "ICAP",
+      "Chi",
+      "cognitive engagement",
+      "activity design",
+      "active learning"
+    ],
+    "fields": [
+      "Educational Design and Analysis",
+      "Critical Thinking and Metacognition",
+      "Knowledge Building"
+    ],
+    "programs": [],
+    "block": "Educational Frameworks",
+    "related": [
+      "metac_073",
+      "metac_104",
+      "metac_105",
+      "metac_107"
+    ],
+    "eval_ids": [
+      "DIM_DESEMP",
+      "DIM_FORM",
+      "HER_ESC_OBS",
+      "HER_RUB_PROC",
+      "INS_PART",
+      "TEC_OBS_SIS"
+    ]
+  },
+  {
+    "id": "metac_183",
+    "name": "Community of Inquiry",
+    "summary": "A framework for designing and evaluating online or blended learning, based on three presences that must coincide: cognitive, social and teaching. It holds that deep learning in virtual settings arises from the balanced interaction of all three.",
+    "desc": "The Community of Inquiry (CoI) framework, developed by Garrison, Anderson and Archer, explains what is needed for online or blended learning to be deep rather than a mere transmission of materials. It proposes that a quality educational experience arises from the intersection of three “presences”:\n\nCOGNITIVE PRESENCE: the extent to which learners construct and confirm meaning through reflection and sustained dialogue (exploring, integrating, resolving).\n\nSOCIAL PRESENCE: participants’ ability to project themselves as real people, communicate with trust and feel part of a group.\n\nTEACHING PRESENCE: the design, facilitation and guidance that structure the experience and keep it focused.\n\nMeaningful learning happens where the three presences overlap; if one is missing (for example, forums without facilitation or without a trusting climate), inquiry weakens.\n\n## How to apply it\n\n1. Design the experience (teaching presence): clear goals, a sequence of activities and well-structured interaction spaces.\n2. Attend to social presence from the start: introduction activities, respect norms and a climate where it is safe to participate.\n3. Promote cognitive presence with tasks that require inquiry and dialogue: triggering questions, discussion forums, collaborative construction.\n4. Facilitate actively: moderate discussions, synthesise, redirect and give feedback, without disappearing or monopolising.\n5. Evaluate by observing the three presences (quality of dialogue, participation, sense of community) and adjust the design.\n\n## Example\n\nIn a blended course, the teacher posts a triggering question about a real dilemma in a forum (cognitive presence), having first created a climate of trust through introductions and participation norms (social presence), and moderates the thread by synthesising contributions and following up (teaching presence). The result is not an inbox of scattered messages, but a collective inquiry that goes deep into the topic.",
+    "tags": [
+      "online learning",
+      "community of inquiry",
+      "CoI",
+      "teaching presence",
+      "blended learning"
+    ],
+    "fields": [
+      "Educational Design and Analysis",
+      "Communication and Creativity",
+      "Critical Thinking and Metacognition"
+    ],
+    "programs": [],
+    "block": "Educational Frameworks",
+    "related": [
+      "metac_043",
+      "metac_090",
+      "metac_124",
+      "metac_129"
+    ],
+    "eval_ids": [
+      "DIM_COMPART",
+      "DIM_DIG",
+      "DIM_FORM",
+      "HER_ANALITICAS",
+      "HER_RUB_DIG",
+      "INS_BLOG",
+      "INS_DOC_COL",
+      "INS_FORO",
+      "TEC_INTER_DIG"
     ]
   }
 ]

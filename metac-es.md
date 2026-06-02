@@ -65,7 +65,7 @@ La diferencia principal es que «¿Qué te hace decir eso?» funciona como una r
 
 Por eso, «¿Qué te hace decir eso?» es especialmente útil para iniciar una conversación, activar la observación o hacer visibles las interpretaciones del alumnado. CER es más adecuado cuando se quiere elaborar una respuesta final, una explicación científica, una conclusión de laboratorio o un texto argumentado.
 
-**Técnicas relacionadas:** Genera hipótesis, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question)
+**Técnicas relacionadas:** Genera hipótesis, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), El juego de la explicación (The Explanation Game)
 
 **Cómo evaluar:**
 
@@ -98,7 +98,7 @@ En una clase de biología, el profesor entrega un breve texto sobre la circulaci
 
 Como síntesis final, cada estudiante escribe tres frases que expliquen el proceso completo sin copiar literalmente el texto. El profesor revisa si han distinguido la información esencial de los detalles secundarios y si el esquema refleja correctamente las relaciones entre las partes.
 
-**Técnicas relacionadas:** Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Titulares, Modelo Frayer, Generar, ordenar, conectar, elaborar, Resumen en una frase
+**Técnicas relacionadas:** Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Titulares, Modelo Frayer, Generar, ordenar, conectar, elaborar, Resumen en una frase, Mapa mental, Línea de tiempo, Diagrama de Venn
 
 **Cómo evaluar:**
 
@@ -209,7 +209,7 @@ Cada estudiante escoge una perspectiva y prepara una intervención breve. Por ej
 
 Al final, el grupo comparte qué nuevas ideas han aparecido y qué preguntas quedan abiertas. La rutina ayuda a comprender que un mismo problema puede tener consecuencias distintas según la perspectiva adoptada.
 
-**Técnicas relacionadas:** Controversia académica, Juego de rol, Role on the Wall (Silueta del personaje)
+**Técnicas relacionadas:** Controversia académica, Juego de rol, Role on the Wall (Silueta del personaje), Filosofía para Niños (P4C), Ponerse en el lugar (Step Inside)
 
 **Cómo evaluar:**
 
@@ -275,7 +275,7 @@ Objetivo: Mejorar la comprensión de los alumnos sobre la Revolución Francesa
   - Proporcionar *feedback* sobre la calidad de las comparaciones
 - Resultado: Mejora de la comprensión de los alumnos sobre la Revolución Francesa y desarrollo de habilidades de pensamiento crítico y comunicación.
 
-**Técnicas relacionadas:** Analiza y sintetiza, Detecta patrones, Las dos columnas, Modelo Frayer
+**Técnicas relacionadas:** Analiza y sintetiza, Detecta patrones, Las dos columnas, Modelo Frayer, Ejemplos concretos, Diagrama de Venn
 
 **Cómo evaluar:**
 
@@ -363,7 +363,7 @@ Esta rutina puede ser útil para ayudar a los alumnos a mejorar la comprensión 
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** Palabra, idea, frase, Titulares, Visual Thinking (pensamiento visual)
+**Técnicas relacionadas:** Doble codificación (dual coding), Palabra, idea, frase, Titulares, Visual Thinking (pensamiento visual)
 
 **Cómo evaluar:**
 
@@ -417,7 +417,7 @@ Después, en parejas, formulan relaciones como: “Cuando el alquiler supera un 
 
 La actividad termina con una discusión sobre cómo esos patrones pueden ayudar a tomar decisiones de ahorro, consumo o planificación económica.
 
-**Técnicas relacionadas:** Contrasta y compara, Los 5 porqués, Matriz de problemas, Profundidad del conocimiento (Depth of Knowledge, DOK)
+**Técnicas relacionadas:** Contrasta y compara, Los 5 porqués, Matriz de problemas, Profundidad del conocimiento (Depth of Knowledge, DOK), Pensamiento computacional, Línea de tiempo, Diagrama de Venn
 
 **Cómo evaluar:**
 
@@ -452,7 +452,7 @@ El profesor recoge las respuestas o las revisa visualmente y dedica los primeros
 
 **Recursos:** [Escala de valoración](https://jjdeharo.github.io/directo/escala.html)
 
-**Técnicas relacionadas:** Diana de evaluación, KWL (Sé, Quiero saber, He aprendido), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Ticket de salida (exit ticket)
+**Técnicas relacionadas:** Diana de evaluación, KWL (Sé, Quiero saber, He aprendido), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Ticket de salida (exit ticket), Preguntas bisagra (hinge questions), Respuesta de todos a la vez
 
 **Cómo evaluar:**
 
@@ -490,7 +490,7 @@ Rutina que guía al alumnado para pensar sobre su propio aprendizaje mediante un
 #### Ejemplo
 Al terminar una práctica de laboratorio, los alumnos completan la escalera indicando qué han aprendido sobre el diseño experimental, cómo han controlado variables y en qué otros experimentos podrían aplicar ese procedimiento.
 
-**Técnicas relacionadas:** Diario de aprendizaje, Pensaba... ahora pienso, Puente 3 - 2 - 1, Conectar, ampliar, desafiar, Hábitos mentales
+**Técnicas relacionadas:** Diario de aprendizaje, Pensaba... ahora pienso, Puente 3 - 2 - 1, Conectar, ampliar, desafiar, Hábitos mentales, Autoexplicación
 
 **Cómo evaluar:**
 
@@ -593,7 +593,7 @@ Después, cada grupo valora las propuestas con tres criterios: facilidad de uso,
 
 **Recursos:** [Lluvia de ideas y votos](https://jjdeharo.github.io/directo/ideas.html)
 
-**Técnicas relacionadas:** Aplica los conocimientos, Pensamiento de diseño (Design Thinking), Matriz de problemas, Situación problema
+**Técnicas relacionadas:** Aplica los conocimientos, Pensamiento de diseño (Design Thinking), Matriz de problemas, Situación problema, Pensamiento computacional, Diagrama de espina de pescado (Ishikawa)
 
 **Cómo evaluar:**
 
@@ -677,7 +677,7 @@ El profesor plantea la siguiente idea o propuesta: ""La escuela está pensando e
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Técnicas relacionadas:** Me gusta / No me gusta, Revisa las consecuencias, Grupo nominal, Las dos columnas
+**Técnicas relacionadas:** Me gusta / No me gusta, Revisa las consecuencias, Grupo nominal, Las dos columnas, Ponerse en el lugar (Step Inside)
 
 **Cómo evaluar:**
 
@@ -730,7 +730,7 @@ En una clase de biología, el profesor plantea el problema: “Una planta del au
 
 A partir de la cadena de preguntas, el alumnado propone comprobar la humedad del suelo, revisar la ubicación de la planta y establecer un plan de riego. La técnica ayuda a pasar de una explicación superficial a causas más concretas y comprobables.
 
-**Técnicas relacionadas:** Detecta patrones, Pregunta el porqué, Revisa las consecuencias
+**Técnicas relacionadas:** Detecta patrones, Pregunta el porqué, Revisa las consecuencias, Interrogación elaborativa, Autoexplicación, El juego de la explicación (The Explanation Game), Diagrama de espina de pescado (Ishikawa)
 
 **Cómo evaluar:**
 
@@ -925,7 +925,7 @@ Finalmente, el profesor pide a los alumnos que compartan las ideas que han tenid
 
 Después de compartir las ideas sobre ""Investigo" ", el profesor guía a los alumnos en la selección de una o más preguntas de investigación para investigar durante el resto de la unidad.
 
-**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC), KWL (Sé, Quiero saber, He aprendido), Puente 3 - 2 - 1, Veo, pienso, me pregunto, Afirmación, apoyo y pregunta (Claim-Support-Question), Conectar, ampliar, desafiar, Técnica de formulación de preguntas (QFT)
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en preguntas (ABPC), KWL (Sé, Quiero saber, He aprendido), Puente 3 - 2 - 1, Veo, pienso, me pregunto, Afirmación, apoyo y pregunta (Claim-Support-Question), Conectar, ampliar, desafiar, Técnica de formulación de preguntas (QFT), Inicios de preguntas (Question Starts)
 
 **Cómo evaluar:**
 
@@ -978,7 +978,7 @@ En una clase de historia, el profesor introduce el tema de las migraciones del s
 
 Los alumnos buscan respuestas en mapas, gráficos de población y testimonios breves. Después presentan una explicación apoyada en evidencias. La rutina ayuda a transformar una observación inicial en preguntas históricas que requieren causas, contexto y relaciones entre factores.
 
-**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Los 5 porqués, Pregunta y responde, Enseñanza recíproca, Técnica de formulación de preguntas (QFT)
+**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Los 5 porqués, Pregunta y responde, Enseñanza recíproca, Técnica de formulación de preguntas (QFT), Interrogación elaborativa, Tiempo de espera (wait time), El juego de la explicación (The Explanation Game)
 
 **Cómo evaluar:**
 
@@ -1014,7 +1014,7 @@ Los alumnos responden primero de forma individual y después comparan sus respue
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Cadena de Preguntas, Equipos de oyentes, Pregunta el porqué, Enseñanza recíproca, Técnica de formulación de preguntas (QFT)
+**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Cadena de Preguntas, Equipos de oyentes, Pregunta el porqué, Enseñanza recíproca, Técnica de formulación de preguntas (QFT), Preguntar sin manos levantadas (cold calling)
 
 **Cómo evaluar:**
 
@@ -1136,7 +1136,7 @@ En literatura, los alumnos analizan un personaje de una novela. Dentro de la sil
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** Círculo de puntos de vista, Juego de rol, Visual Thinking (pensamiento visual)
+**Técnicas relacionadas:** Círculo de puntos de vista, Juego de rol, Visual Thinking (pensamiento visual), Ponerse en el lugar (Step Inside)
 
 **Cómo evaluar:**
 
@@ -1260,7 +1260,7 @@ En una clase de historia del arte, el profesor muestra una fotografía de una pl
 
 En “Pienso”, interpreta lo que puede estar ocurriendo: una protesta ciudadana, una reivindicación laboral o una demanda política. En “Me pregunto”, formula preguntas: “¿En qué año ocurrió?”, “¿Qué reclamaban?”, “¿Quién organizó la protesta?” o “¿Qué consecuencias tuvo?”. La rutina ayuda a separar observación, interpretación y preguntas de investigación.
 
-**Técnicas relacionadas:** ¿Qué te hace decir eso?, Genera hipótesis, Pienso, me interesa, investigo, Predice, observa, explica (POE), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question)
+**Técnicas relacionadas:** ¿Qué te hace decir eso?, Genera hipótesis, Pienso, me interesa, investigo, Predice, observa, explica (POE), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), El juego de la explicación (The Explanation Game)
 
 **Cómo evaluar:**
 
@@ -1556,6 +1556,154 @@ En biología, la clase analiza si debe permitirse el uso de animales en investig
 ---
 
 
+### 32. Ponerse en el lugar (Step Inside) `metac_163`
+
+_Rutina de pensamiento de Project Zero para tomar perspectiva: el alumnado se mete en la piel de una persona, personaje u objeto y responde qué percibe, qué sabe o cree y qué le importa. Desarrolla la empatía y la comprensión de puntos de vista distintos._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Rutinas de pensamiento, Pensamiento Crítico y Metacognición, Comunicación y Creatividad
+
+_Palabras clave: rutina de pensamiento, perspectiva, empatía, Project Zero, puntos de vista_
+
+«Ponerse en el lugar» (Step Inside) es una rutina de pensamiento que ayuda a explorar una situación desde el punto de vista de otro: una persona, un personaje histórico o literario, un colectivo o incluso un objeto. Al adoptar esa perspectiva, el alumnado comprende que toda situación se ve de forma distinta según quién la mire, y desarrolla empatía y profundidad de análisis.
+
+La rutina se apoya en tres preguntas que el alumnado responde «desde dentro» del agente elegido:
+
+#### Cómo se aplica
+
+1. Selecciona una situación, imagen, texto o acontecimiento rico en perspectivas.
+2. Cada alumno (o grupo) elige o recibe un agente desde el que mirar (persona, personaje, objeto).
+3. Responde, en primera persona, a tres preguntas: ¿Qué percibo o noto desde aquí? ¿Qué sé, creo o pienso? ¿Qué me importa o qué deseo?
+4. Se comparten las distintas perspectivas y se contrastan: dónde coinciden, dónde chocan y por qué.
+5. Se reflexiona sobre cómo cambia la comprensión de la situación al haberla mirado «desde dentro» de otro.
+
+#### Ejemplo
+
+Ante un cuadro que representa una escena cotidiana del siglo XIX, distintos alumnos se ponen en el lugar de la niña que aparece, del comerciante del fondo y hasta del perro. Cada uno describe qué percibe, qué piensa y qué le importa desde esa posición. Al ponerlas en común, la clase descubre tensiones y matices de la escena que no se veían desde una única mirada.
+
+**Técnicas relacionadas:** Círculo de puntos de vista, Juego de rol, La brújula (puntos cardinales), Role on the Wall (Silueta del personaje)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Intercambios orales, Análisis de producciones
+
+- *Instrumentos:* Rúbrica oral
+
+- *Dimensiones:* Finalidad formativa
+
+---
+
+
+### 33. El juego de la explicación (The Explanation Game) `metac_164`
+
+_Rutina de pensamiento que parte de identificar un detalle llamativo de un objeto o situación y preguntar repetidamente «¿por qué es así?» para construir explicaciones. Fomenta la curiosidad, la causalidad y el razonamiento basado en evidencias._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Rutinas de pensamiento, Pensamiento Crítico y Metacognición, Procesamiento y Análisis de la información
+
+_Palabras clave: rutina de pensamiento, explicación, causalidad, Project Zero, curiosidad_
+
+«El juego de la explicación» (The Explanation Game) es una rutina de Project Zero centrada en explicar el porqué de las cosas. Comienza fijándose en algún rasgo o detalle de un objeto, imagen o fenómeno y, a partir de ahí, encadena preguntas «¿por qué es así?» que llevan a proponer explicaciones cada vez más fundamentadas.
+
+Es especialmente útil para activar la curiosidad y para pasar de la mera observación a la búsqueda de causas y mecanismos.
+
+#### Cómo se aplica
+
+1. Presenta un objeto, imagen o fenómeno y pide al alumnado que se fije: «¿Qué observas? ¿Qué detalle te llama la atención?».
+2. Sobre ese detalle, plantea: «¿Por qué es así? ¿Por qué crees que ocurre eso?».
+3. El alumnado propone una explicación posible (una hipótesis).
+4. Se profundiza: «¿Qué te hace pensar eso? ¿Qué otra explicación podría haber?».
+5. Se contrastan explicaciones alternativas y se valoran según las evidencias disponibles.
+
+#### Ejemplo
+
+En ciencias, el docente muestra una hoja con los bordes enrollados y pregunta qué detalle llama la atención. Un alumno señala los bordes secos. «¿Por qué crees que se han enrollado así?» Surgen explicaciones: falta de agua, exceso de sol, una plaga. El grupo las contrasta y decide qué evidencias servirían para confirmarlas, convirtiendo una simple observación en una pequeña indagación.
+
+**Técnicas relacionadas:** ¿Qué te hace decir eso?, Los 5 porqués, Pregunta el porqué, Veo, pienso, me pregunto
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
+
+- *Instrumentos:* Escala de observación
+
+- *Dimensiones:* Finalidad formativa
+
+---
+
+
+### 34. Conversación escrita en silencio (Chalk Talk) `metac_165`
+
+_Rutina de pensamiento en la que el grupo dialoga por escrito y en silencio sobre una pregunta escrita en una superficie común: cada uno aporta ideas, conecta con lo de los demás y plantea nuevas preguntas, sin hablar. Visibiliza el pensamiento colectivo._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Rutinas de pensamiento, Comunicación y Creatividad, Cohesión y Cooperación
+
+_Palabras clave: rutina de pensamiento, conversación escrita, Project Zero, participación, pensamiento colectivo_
+
+«Conversación escrita en silencio» (Chalk Talk) es una rutina de Project Zero para conversar sin palabras habladas. En una pizarra, mural o documento compartido se escribe una pregunta o tema central y el alumnado responde por escrito, en silencio, añadiendo ideas, comentando lo que han escrito otros, conectando aportaciones con líneas y formulando nuevas preguntas.
+
+El silencio iguala la participación (también intervienen quienes no suelen hablar), da tiempo a pensar y deja un registro visible de todo el proceso de pensamiento del grupo.
+
+#### Cómo se aplica
+
+1. Escribe en el centro de una superficie amplia una pregunta abierta o un tema.
+2. Explica la única regla: se conversa solo por escrito, sin hablar.
+3. El alumnado se acerca y escribe ideas, responde a lo que ven, traza líneas para conectar aportaciones y añade preguntas.
+4. El docente puede participar también por escrito, lanzando preguntas que hagan profundizar.
+5. Al final se rompe el silencio: se observa el mural en conjunto, se identifican patrones, acuerdos y tensiones, y se comenta en voz alta.
+
+#### Ejemplo
+
+En tutoría, en el centro de un papel continuo se escribe «¿Qué hace que un grupo funcione bien?». Sin hablar, el alumnado va escribiendo ideas (respeto, escucha, repartir tareas), reaccionando a las de los demás y uniéndolas con flechas. Al terminar, el mural muestra de un vistazo las ideas dominantes y las discrepancias, que sirven de base para un debate posterior.
+
+**Técnicas relacionadas:** El folio giratorio, Gallery Walk (Paseo por la galería), Graffiti Cooperativo, World Café
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Análisis de producciones
+
+- *Instrumentos:* Escala de observación, Registro de participación
+
+- *Dimensiones:* Evaluación compartida y participativa, Finalidad formativa
+
+---
+
+
+### 35. Inicios de preguntas (Question Starts) `metac_166`
+
+_Rutina de pensamiento para generar preguntas: a partir de un tema, el alumnado crea muchas preguntas usando arranques como «¿por qué…?», «¿qué pasaría si…?», «¿cómo…?». Estimula la curiosidad y enseña a formular buenas preguntas, no solo a responderlas._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Rutinas de pensamiento, Activación de conocimientos previos, Pensamiento Crítico y Metacognición
+
+_Palabras clave: rutina de pensamiento, formular preguntas, curiosidad, Project Zero, indagación_
+
+«Inicios de preguntas» (Question Starts) es una rutina de Project Zero que invierte la dinámica habitual del aula: en lugar de responder preguntas, el alumnado las genera. Para ello se le ofrece una lista de arranques («¿Por qué…?», «¿Qué pasaría si…?», «¿Cómo sería si…?», «¿Cuál es el propósito de…?», «¿Qué cambiaría si…?») que ayudan a producir preguntas de distinto tipo y profundidad sobre un tema.
+
+Formular preguntas activa el interés, hace aflorar lo que ya se sabe y lo que se quiere averiguar, y desarrolla una habilidad clave del pensamiento crítico: saber qué preguntar.
+
+#### Cómo se aplica
+
+1. Presenta un tema, objeto o situación que vaya a estudiarse.
+2. Muestra una lista de arranques de pregunta variados.
+3. El alumnado, individualmente o en grupo, genera el mayor número posible de preguntas usando esos inicios (lluvia de preguntas, sin responderlas todavía).
+4. Se revisan las preguntas: se identifican las más interesantes o potentes y se distingue entre preguntas cerradas y abiertas.
+5. Se eligen algunas preguntas para investigarlas o se usan para guiar el estudio del tema.
+
+#### Ejemplo
+
+Antes de empezar un tema sobre el agua, el alumnado usa los arranques para generar preguntas: «¿Por qué el agua del mar es salada?», «¿Qué pasaría si no lloviera durante un año?», «¿Cómo llega el agua hasta el grifo?». Después seleccionan las que más les intrigan y se convierten en el hilo conductor de la unidad, dándoles protagonismo en lo que van a aprender.
+
+**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Cadena de Preguntas, Pienso, me interesa, investigo, Técnica de formulación de preguntas (QFT)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones, Sondeo y cuestionamiento
+
+- *Instrumentos:* Lista de cotejo o control
+
+- *Dimensiones:* Finalidad diagnóstica, Finalidad formativa
+
+---
+
+
 ## Cohesión y Cooperación
 
 
@@ -1820,7 +1968,7 @@ En nuestra vida hay elementos significativos. Si se comparten se está reconocie
 
 Fuente: ECO. (2007). Dinámicas para hacer grupo.
 
-**Técnicas relacionadas:** Conozcámonos, La caja, La entrevista, Me gusta / No me gusta
+**Técnicas relacionadas:** Conozcámonos, La caja, La entrevista, Me gusta / No me gusta, Línea de tiempo
 
 **Cómo evaluar:**
 
@@ -1857,7 +2005,7 @@ En una tutoría sobre convivencia, cada alumno recibe tres fichas para debatir l
 
 Quien ya ha usado sus tres fichas escucha hasta que todos hayan participado. Esto evita que siempre hablen los mismos y da espacio a quienes suelen intervenir menos. Al final, el grupo selecciona tres normas compartidas y comenta si la distribución de turnos ha mejorado la calidad del diálogo.
 
-**Técnicas relacionadas:** Fishbowl (Pecera), La mesa redonda, Grupo nominal, Roles cooperativos
+**Técnicas relacionadas:** Fishbowl (Pecera), La mesa redonda, Grupo nominal, Roles cooperativos, Abanico y elige (Fan-N-Pick)
 
 **Cómo evaluar:**
 
@@ -1935,7 +2083,7 @@ Estructura de aprendizaje cooperativo en parejas en la que un alumno actúa como
 #### Ejemplo
 En matemáticas, un alumno tutor acompaña a su compañero en la resolución de un problema. Le pregunta qué datos tiene, qué operación cree necesaria y por qué, pero no le escribe la respuesta final.
 
-**Técnicas relacionadas:** Equipo-pareja-individual, Los cuatro sabios, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Las páginas amarillas, Co-enseñanza (Co-teaching), Ejemplos resueltos, Liberación gradual de la responsabilidad, Pensamiento en voz alta
+**Técnicas relacionadas:** Equipo-pareja-individual, Los cuatro sabios, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Las páginas amarillas, Co-enseñanza (Co-teaching), Ejemplos resueltos, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Andamiaje y zona de desarrollo próximo (ZDP)
 
 **Cómo evaluar:**
 
@@ -2190,6 +2338,156 @@ Al terminar, el equipo revisa si cada rol ha ayudado a organizar mejor el trabaj
 ---
 
 
+### 16. Abanico y elige (Fan-N-Pick) `metac_167`
+
+_Estructura cooperativa Kagan para repasar contenidos en equipos de cuatro con tarjetas de preguntas. Cada miembro asume por turnos un rol distinto (sostener las tarjetas, leer, responder, evaluar), garantizando la participación equitativa de todos._
+
+**Bloque:** Organización del aprendizaje cooperativo · **Ámbitos:** Cohesión y Cooperación, Evaluación Formativa y Feedback, Activación de conocimientos previos
+
+_Palabras clave: aprendizaje cooperativo, Kagan, repaso, roles, tarjetas_
+
+«Abanico y elige» (Fan-N-Pick) es una estructura cooperativa de Spencer Kagan para repasar o practicar contenidos en equipos de cuatro mediante un mazo de tarjetas con preguntas. Su valor está en la rotación de roles: en cada ronda cada miembro hace una función distinta, de modo que todos participan por igual y nadie queda al margen.
+
+Garantiza la interacción simultánea y la responsabilidad individual, dos principios clave del aprendizaje cooperativo bien estructurado.
+
+#### Cómo se aplica
+
+1. Cada equipo de cuatro recibe un mazo de tarjetas con preguntas (con su respuesta al dorso o conocida por el grupo).
+2. El alumno 1 sostiene las tarjetas en abanico, boca abajo, y dice: «Elige una».
+3. El alumno 2 elige una tarjeta y lee la pregunta en voz alta.
+4. El alumno 3 responde la pregunta.
+5. El alumno 4 valora la respuesta: si es correcta, felicita; si no, ayuda a corregirla o la reenseña.
+6. Los roles rotan una posición y se repite con la siguiente tarjeta, hasta agotar el mazo.
+
+#### Ejemplo
+
+Para repasar vocabulario de inglés, cada equipo usa tarjetas con una palabra por una cara y su traducción por la otra. El que sostiene el abanico ofrece las tarjetas; otro elige y lee; un tercero traduce; el cuarto comprueba con el dorso y, si hace falta, corrige con amabilidad. Tras cada pregunta los roles rotan, así que en pocos minutos todos han preguntado, respondido y evaluado.
+
+**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Quiz-Quiz-Trade (Intercambio de tarjetas), RoundRobin, Talking Chips (Fichas de conversación)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Intercambios orales
+
+- *Instrumentos:* Registro de trabajo cooperativo, Rúbrica de trabajo cooperativo
+
+- *Dimensiones:* Coevaluación, Finalidad formativa
+
+---
+
+
+### 17. Duelo de respuestas (Showdown) `metac_168`
+
+_Estructura cooperativa Kagan en la que, ante una pregunta, todos los miembros del equipo responden a la vez de forma individual y luego comparan y consensúan. Combina la responsabilidad individual con la ayuda mutua y el repaso activo._
+
+**Bloque:** Organización del aprendizaje cooperativo · **Ámbitos:** Cohesión y Cooperación, Evaluación Formativa y Feedback, Activación de conocimientos previos
+
+_Palabras clave: aprendizaje cooperativo, Kagan, repaso, responsabilidad individual, práctica_
+
+«Duelo de respuestas» (Showdown) es una estructura cooperativa de Kagan para practicar o repasar en equipo asegurando que todos piensan. Un miembro hace de «capitán de ronda», lee la pregunta y todos resuelven por su cuenta y en secreto; a una señal («¡Showdown!») muestran su respuesta simultáneamente, la comparan y, si hay discrepancias, las discuten hasta entender la correcta.
+
+La clave es que nadie puede esconderse detrás del grupo: cada alumno produce su propia respuesta antes de comparar, lo que combina responsabilidad individual y aprendizaje entre iguales.
+
+#### Cómo se aplica
+
+1. Cada equipo tiene un mazo de tarjetas-pregunta y cada miembro, una pizarra o papel individual.
+2. El capitán de ronda toma la primera tarjeta y la lee en voz alta.
+3. Todos los miembros resuelven individualmente y en silencio, sin mostrar su respuesta.
+4. Cuando todos están listos, el capitán dice «¡Showdown!» y todos muestran su respuesta a la vez.
+5. Comparan: si coinciden y es correcta, celebran; si hay diferencias, discuten y se ayudan hasta aclararla.
+6. El rol de capitán rota y se pasa a la siguiente tarjeta.
+
+#### Ejemplo
+
+En matemáticas, el capitán lee «resuelve 3/4 + 1/8». Cada miembro lo calcula en su pizarra sin mirar a los demás. Al grito de «¡Showdown!», todos muestran su resultado. Dos han puesto 7/8 y dos un valor distinto: el equipo compara procedimientos, detecta dónde está el error al sumar fracciones y lo corrige antes de pasar a la siguiente tarjeta.
+
+**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Quiz-Quiz-Trade (Intercambio de tarjetas), STAD (Student Teams Achievement Divisions), TGT (Torneo de Juegos por Equipos)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Pruebas específicas
+
+- *Instrumentos:* Registro de trabajo cooperativo
+
+- *Dimensiones:* Finalidad formativa, Evaluación gamificada
+
+---
+
+
+### 18. Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up) `metac_169`
+
+_Estructura cooperativa Kagan en la que el alumnado se levanta, se mueve por el aula y forma parejas al azar con distintos compañeros para intercambiar ideas o respuestas. Mezcla al grupo, activa físicamente y multiplica las interacciones._
+
+**Bloque:** Organización del aprendizaje cooperativo · **Ámbitos:** Cohesión y Cooperación, Comunicación y Creatividad, Activación de conocimientos previos
+
+_Palabras clave: aprendizaje cooperativo, Kagan, movimiento, interacción oral, parejas_
+
+«Levántate, busca pareja, comparte» (Stand Up–Hand Up–Pair Up) es una estructura cooperativa de Kagan que combina movimiento e interacción. El alumnado se levanta, deambula y se empareja con quien encuentre (no con su compañero habitual), comparte una respuesta o idea, y vuelve a buscar otra pareja distinta. Así cada alumno habla con varios compañeros diferentes en pocos minutos.
+
+Es ideal para activar al grupo, romper la rutina de estar sentados, mezclar a quienes no suelen trabajar juntos y dar mucha práctica oral en poco tiempo.
+
+#### Cómo se aplica
+
+1. Plantea una pregunta o tarea breve que cada uno pueda responder.
+2. «Stand up»: todos se levantan. «Hand up»: levantan una mano mientras se mueven, como señal de que buscan pareja.
+3. «Pair up»: chocan la mano con el primer compañero que encuentran y bajan la mano: son pareja.
+4. Por turnos, cada uno comparte su respuesta o idea y escucha la del otro.
+5. A una señal del docente, vuelven a levantar la mano, se despiden y buscan una nueva pareja distinta, repitiendo el intercambio.
+
+#### Ejemplo
+
+Tras leer un texto, el docente pide: «pensad una idea que os haya sorprendido». Todos se levantan con la mano arriba, se emparejan con el primero que encuentran y se cuentan su idea. A la señal, cambian de pareja dos o tres veces más. En cinco minutos cada alumno ha verbalizado su idea varias veces y ha escuchado puntos de vista diversos, llegando con más bagaje a la puesta en común.
+
+**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), RallyRobin, Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Intercambios orales
+
+- *Instrumentos:* Registro de participación
+
+- *Dimensiones:* Finalidad formativa
+
+---
+
+
+### 19. Entrevista en tres pasos (Three-Step Interview) `metac_170`
+
+_Estructura cooperativa en la que, en equipos de cuatro, los miembros se entrevistan por parejas (uno pregunta, otro responde), invierten los papeles y luego cada uno comparte con el equipo lo que ha aprendido de su pareja. Desarrolla la escucha y la síntesis._
+
+**Bloque:** Organización del aprendizaje cooperativo · **Ámbitos:** Cohesión y Cooperación, Comunicación y Creatividad, Procesamiento y Análisis de la información
+
+_Palabras clave: aprendizaje cooperativo, entrevista, escucha activa, síntesis, parejas_
+
+La «entrevista en tres pasos» (Three-Step Interview) es una estructura cooperativa que asegura que todos hablan y todos escuchan. El equipo de cuatro se divide en dos parejas; dentro de cada pareja, primero uno entrevista al otro sobre un tema, después intercambian los papeles, y finalmente, ya en el equipo completo, cada uno no cuenta lo suyo sino lo que ha aprendido de su pareja.
+
+Ese tercer paso es clave: obliga a escuchar con atención (porque después hay que rendir cuentas de lo escuchado) y desarrolla la capacidad de sintetizar y comunicar la idea de otro con fidelidad.
+
+#### Cómo se aplica
+
+1. Plantea un tema o pregunta que admita respuestas personales o elaboradas.
+2. Paso 1: en cada pareja, el alumno A entrevista al B, que responde mientras A escucha (y puede tomar notas).
+3. Paso 2: invierten los papeles; ahora B entrevista a A.
+4. Paso 3: en el equipo de cuatro, cada miembro comparte por turnos lo que ha dicho su pareja (no lo propio), en estructura «round robin».
+5. El equipo recoge las ideas comunes y las diferencias.
+
+#### Ejemplo
+
+Al iniciar un proyecto, el tema es «¿qué tema te gustaría investigar y por qué?». En parejas, A entrevista a B y luego B a A. Después, en el equipo de cuatro, cada uno presenta el interés de su compañero: «A David le interesa el cambio climático porque…». Así todos practican la escucha activa y la síntesis, y el equipo conoce los intereses de todos sus miembros para decidir el proyecto.
+
+**Técnicas relacionadas:** La entrevista, Parejas de discusión, Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Intercambios orales
+
+- *Instrumentos:* Registro de trabajo cooperativo, Rúbrica oral
+
+- *Dimensiones:* Coevaluación, Finalidad formativa
+
+---
+
+
 ## Activación de conocimientos previos
 
 
@@ -2292,7 +2590,7 @@ Primero, cada pareja expone su posición. Después, las parejas cambian de postu
 
 La actividad permite que el alumnado comprenda la complejidad del tema y aprenda a argumentar sin reducir el debate a una oposición simple entre estar a favor o en contra.
 
-**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Fishbowl (Pecera), Seminario socrático, Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Tira y afloja
+**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Fishbowl (Pecera), Seminario socrático, Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Tira y afloja, Debate académico
 
 **Cómo evaluar:**
 
@@ -2350,7 +2648,7 @@ En una clase de lengua, el profesor pide a cada equipo que escriba un cuento bre
 
 En una segunda vuelta, cada estudiante revisa o mejora una parte del texto: vocabulario, coherencia, conectores o corrección ortográfica. Al final, el equipo lee el cuento y comenta qué aportación ha hecho cada miembro. La técnica garantiza que todos participen y permite construir un producto común a partir de intervenciones sucesivas.
 
-**Técnicas relacionadas:** El juego de las palabras, Graffiti Cooperativo, RoundRobin, +1
+**Técnicas relacionadas:** El juego de las palabras, Graffiti Cooperativo, RoundRobin, +1, Conversación escrita en silencio (Chalk Talk)
 
 **Cómo evaluar:**
 
@@ -2519,7 +2817,7 @@ En una unidad de matemáticas sobre funciones lineales, el profesor prepara un v
 
 Antes de la clase, el profesor revisa las respuestas y detecta que muchos alumnos confunden pendiente con altura inicial. En el aula, dedica los primeros minutos a aclarar esa dificultad y después organiza una actividad práctica: interpretar gráficas de tarifas de telefonía, trayectos y consumo eléctrico. El tiempo presencial se utiliza para resolver dudas, comparar estrategias y aplicar el contenido a situaciones concretas.
 
-**Técnicas relacionadas:** Estaciones de aprendizaje, Peer Instruction (Instrucción entre iguales), Ticket de salida (exit ticket)
+**Técnicas relacionadas:** Estaciones de aprendizaje, Peer Instruction (Instrucción entre iguales), Ticket de salida (exit ticket), WebQuest, Aprendizaje personalizado con itinerarios (playlists), Comunidad de indagación (Community of Inquiry)
 
 **Cómo evaluar:**
 
@@ -2614,7 +2912,7 @@ En matemáticas, el profesor entrega a cada equipo cuatro ejercicios de proporci
 
 Cuando termina el tiempo, el profesor dice un número al azar, por ejemplo el 3. Todos los alumnos con ese número salen o responden en nombre de su equipo. Como no saben quién será elegido, el equipo tiene que ayudar a todos sus miembros a comprender la tarea, no solo a obtener una respuesta rápida.
 
-**Técnicas relacionadas:** Lápiz al centro, Peer Instruction (Instrucción entre iguales), STAD (Student Teams Achievement Divisions), Uno para todos
+**Técnicas relacionadas:** Lápiz al centro, Peer Instruction (Instrucción entre iguales), STAD (Student Teams Achievement Divisions), Uno para todos, Preguntar sin manos levantadas (cold calling), Abanico y elige (Fan-N-Pick), Duelo de respuestas (Showdown)
 
 **Cómo evaluar:**
 
@@ -2656,7 +2954,7 @@ En una clase de educación digital, el profesor plantea varias preguntas sobre e
 
 Cada pareja comenta las preguntas durante unos minutos y anota dos ideas consensuadas. Después, el profesor pide al azar la respuesta de algunas parejas y construye en la pizarra una lista común de recomendaciones. La técnica permite activar experiencias previas y convertirlas en criterios compartidos de uso responsable.
 
-**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte)
+**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte), Entrevista en tres pasos (Three-Step Interview)
 
 **Cómo evaluar:**
 
@@ -2705,7 +3003,7 @@ En la siguiente ronda, con la cita de las seis, responden otra pregunta: “¿Qu
 
 **Recursos:** [Reloj de citas](https://reloj-citas.github.io/)
 
-**Técnicas relacionadas:** La entrevista, Parejas de discusión, Quiz-Quiz-Trade (Intercambio de tarjetas)
+**Técnicas relacionadas:** La entrevista, Parejas de discusión, Quiz-Quiz-Trade (Intercambio de tarjetas), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Entrevista en tres pasos (Three-Step Interview)
 
 **Cómo evaluar:**
 
@@ -2744,7 +3042,7 @@ Técnica cooperativa breve que combina reflexión individual, contraste por pare
 #### Ejemplo
 En biología, antes de explicar la selección natural, el profesor pregunta: **¿por qué algunas bacterias se vuelven resistentes a los antibióticos?** Cada alumno propone una explicación, después la compara con su pareja y finalmente se recogen varias respuestas para iniciar la explicación.
 
-**Técnicas relacionadas:** 1 - 2 - 4, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Lo que sé y lo que sabemos, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales)
+**Técnicas relacionadas:** 1 - 2 - 4, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Lo que sé y lo que sabemos, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales), Tiempo de espera (wait time), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Entrevista en tres pasos (Three-Step Interview)
 
 **Cómo evaluar:**
 
@@ -2853,7 +3151,7 @@ La técnica de formulación de preguntas, o QFT, es una propuesta del Right Ques
 #### Ejemplo
 En biología, el profesor muestra la frase: “Cada vez hay más bacterias resistentes a los antibióticos”. Durante 5 minutos, los equipos generan preguntas. Después eligen tres: una factual, una causal y una de investigación. Esas preguntas orientan la búsqueda de información de la sesión siguiente.
 
-**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde
+**Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Inicios de preguntas (Question Starts)
 
 **Cómo evaluar:**
 
@@ -2977,7 +3275,7 @@ En digitalización, los alumnos diseñan una solución para mejorar la organizac
 
 **Recursos:** [Lluvia de ideas y votos](https://jjdeharo.github.io/directo/ideas.html)
 
-**Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Genera soluciones, Matriz de problemas, Las 4C del aprendizaje
+**Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Genera soluciones, Matriz de problemas, Las 4C del aprendizaje, Aprendizaje maker / STEAM
 
 **Cómo evaluar:**
 
@@ -3232,7 +3530,7 @@ Esta tabla recoge las ideas referentes a ""cómo mejorar el rendimiento escolar"
 
 Con esta matriz, se pueden comparar las diferentes soluciones y valorar cuáles son las mejores opciones en función de sus posibles efectos o consecuencias.
 
-**Técnicas relacionadas:** Pensamiento de diseño (Design Thinking), Detecta patrones, Genera soluciones, Revisa las consecuencias, Las dos columnas, El juego de la NASA
+**Técnicas relacionadas:** Pensamiento de diseño (Design Thinking), Detecta patrones, Genera soluciones, Revisa las consecuencias, Las dos columnas, El juego de la NASA, Pensamiento computacional, Diagrama de espina de pescado (Ishikawa)
 
 **Cómo evaluar:**
 
@@ -3347,7 +3645,7 @@ El día del torneo, los alumnos compiten en mesas con compañeros de nivel parec
 
 **Recursos:** [QPlay: Concurso interactivo](https://jjdeharo.github.io/qplay/) · [GeCo - Generador de Equipos Cooperativos](https://jjdeharo.github.io/geco/)
 
-**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), Quiz-Quiz-Trade (Intercambio de tarjetas), STAD (Student Teams Achievement Divisions), Ludificación (gamificación)
+**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), Quiz-Quiz-Trade (Intercambio de tarjetas), STAD (Student Teams Achievement Divisions), Ludificación (gamificación), Duelo de respuestas (Showdown)
 
 **Cómo evaluar:**
 
@@ -3425,13 +3723,87 @@ Los ejemplos resueltos son problemas ya solucionados paso a paso, con explicaci�
 #### Ejemplo
 En física, antes de resolver problemas de cinemática, el profesor muestra un ejemplo donde se identifican los datos, se elige la fórmula, se sustituyen unidades y se comprueba si el resultado tiene sentido. Después, el alumnado completa un problema similar con algunos pasos en blanco.
 
-**Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Teoría de la carga cognitiva
+**Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Teoría de la carga cognitiva, Ejemplos concretos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones, Pruebas específicas
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
+
+---
+
+
+### 14. Aprendizaje maker / STEAM `metac_172`
+
+_Enfoque en el que el alumnado aprende creando objetos y soluciones tangibles (diseñando, construyendo, programando) e integrando ciencia, tecnología, ingeniería, arte y matemáticas. Aprender haciendo, con error productivo, iteración y proyectos con sentido._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Resolución de problemas y Retos, Comunicación y Creatividad, Cohesión y Cooperación
+
+_Palabras clave: maker, STEAM, aprender haciendo, prototipado, interdisciplinariedad_
+
+El aprendizaje maker se basa en la idea de «aprender haciendo y creando»: el alumnado construye objetos físicos o digitales (maquetas, prototipos, dispositivos, programas) para resolver un reto, y en el proceso moviliza conocimientos de varias áreas. Cuando esa creación integra de forma deliberada Ciencia, Tecnología, Ingeniería, Arte y Matemáticas, hablamos de enfoque STEAM.
+
+Su valor formativo está en el ciclo de diseño: prototipar, probar, fallar, ajustar y mejorar. El error no es un fracaso sino información para iterar, y el producto final tiene un propósito real que da sentido al esfuerzo.
+
+#### Cómo se aplica
+
+1. Plantea un reto o necesidad que requiera crear algo (un objeto, un mecanismo, una solución).
+2. El alumnado idea posibles soluciones y elige una, identificando qué conocimientos necesita de cada disciplina.
+3. Diseña y construye un primer prototipo con los materiales o herramientas disponibles (manuales, electrónica, programación, impresión 3D…).
+4. Prueba el prototipo, detecta qué falla y lo mejora en sucesivas iteraciones.
+5. Comparte el producto final y reflexiona sobre el proceso, los errores y lo aprendido.
+
+#### Ejemplo
+
+Ante el reto «diseñad un dispositivo que avise cuando una planta necesita agua», el alumnado combina ciencia (humedad del suelo), tecnología y programación (un sensor y una placa programable) y diseño (la carcasa). Construyen un primer prototipo que no funciona bien, ajustan el código y el sensor, y tras varias pruebas logran un avisador funcional, documentando cada iteración en una memoria del proyecto.
+
+**Técnicas relacionadas:** Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Análisis de producciones
+
+- *Instrumentos:* Rúbrica de proceso, Rúbrica de producto
+
+- *Dimensiones:* Enfoque competencial, Evidencia de desempeño, Trabajo por proyectos
+
+---
+
+
+### 15. Pensamiento computacional `metac_173`
+
+_Forma de abordar y resolver problemas inspirada en la informática, basada en cuatro destrezas: descomponer, reconocer patrones, abstraer lo esencial y diseñar algoritmos. Es transferible a cualquier área y no requiere necesariamente ordenadores._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Resolución de problemas y Retos, Pensamiento Crítico y Metacognición, Procesamiento y Análisis de la información
+
+_Palabras clave: pensamiento computacional, resolución de problemas, algoritmos, abstracción, patrones_
+
+El pensamiento computacional es una manera de razonar para resolver problemas (no necesariamente con ordenador) tomando prestadas estrategias de la informática. Consiste en analizar un problema complejo descomponiéndolo en partes manejables, detectar regularidades, quedarse con lo esencial ignorando detalles irrelevantes y formular una secuencia de pasos clara que conduzca a la solución.
+
+Sus cuatro pilares son: descomposición (dividir el problema), reconocimiento de patrones (ver lo que se repite), abstracción (centrarse en lo importante) y algoritmia (definir pasos ordenados y reutilizables).
+
+#### Cómo se aplica
+
+1. Presenta un problema o tarea con cierta complejidad.
+2. Descomposición: el alumnado lo divide en subproblemas más pequeños y abordables.
+3. Reconocimiento de patrones: busca similitudes con problemas ya resueltos o regularidades internas.
+4. Abstracción: identifica los datos y reglas esenciales y deja fuera lo accesorio.
+5. Algoritmo: diseña una secuencia de pasos precisa para resolverlo, la prueba y la depura si falla.
+
+#### Ejemplo
+
+Para organizar el horario de uso de un único ordenador entre varios grupos, el alumnado descompone el problema (cuántos grupos, cuánto tiempo, qué prioridades), reconoce el patrón de turnos rotativos, abstrae las reglas clave (todos deben usarlo el mismo tiempo) y diseña un algoritmo de asignación paso a paso. Lo prueban con casos y lo ajustan: han resuelto un problema real aplicando pensamiento computacional sin programar nada.
+
+**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Detecta patrones, Genera soluciones, Matriz de problemas
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones, Pruebas específicas
+
+- *Instrumentos:* Rúbrica analítica
+
+- *Dimensiones:* Enfoque competencial, Evidencias digitales, Resolución de problemas
 
 ---
 
@@ -3512,7 +3884,7 @@ Metodología en la que el aprendizaje se organiza a partir de preguntas, observa
 #### Ejemplo
 En biología, los alumnos investigan por qué algunas semillas germinan mejor que otras. Diseñan una pequeña prueba con distintas condiciones de luz o humedad, recogen datos y justifican sus conclusiones.
 
-**Técnicas relacionadas:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje por descubrimiento, El modelo 5E, Genera hipótesis, Parejas de detectives, Pienso, me interesa, investigo, Centros de interés (enfoque de Decroly), Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Concept Cartoon
+**Técnicas relacionadas:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje por descubrimiento, El modelo 5E, Genera hipótesis, Parejas de detectives, Pienso, me interesa, investigo, Centros de interés (enfoque de Decroly), Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Concept Cartoon, WebQuest
 
 **Cómo evaluar:**
 
@@ -3621,7 +3993,7 @@ En resumen, el aprendizaje basado en proyectos implica la creación de un produc
 
 Aquí se puede consultar un desarrollo más detallado de este proyecto.
 
-**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Digital storytelling (relatos digitales), Proyectos de Aprendizaje-Servicio (ApS o ABS), Evaluación auténtica, Las 4C del aprendizaje
+**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Digital storytelling (relatos digitales), Proyectos de Aprendizaje-Servicio (ApS o ABS), Evaluación auténtica, Las 4C del aprendizaje, WebQuest, Aprendizaje maker / STEAM, Hora del genio (Genius Hour)
 
 **Cómo evaluar:**
 
@@ -3677,7 +4049,7 @@ Ejemplo de aplicación de ABR para resolver este problema:
 - Difusión del trabajo: Los alumnos pueden crear un vídeo o una exposición para explicar las soluciones propuestas y los resultados obtenidos. También pueden escribir un artículo para una revista del barrio o realizar una presentación a la comunidad.
 - Evaluación: Los alumnos se harán una autoevaluación para reflexionar sobre el proceso seguido y los resultados obtenidos, y también se hará una evaluación por parte del docente o docentes implicados. Si se considera necesario, se pueden pedir evaluaciones externas a otros agentes del barrio para obtener una visión más amplia del trabajo realizado.
 
-**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS)
+**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS), Aprendizaje maker / STEAM, Hora del genio (Genius Hour)
 
 **Cómo evaluar:**
 
@@ -3754,7 +4126,7 @@ Fuentes:
 1. Después de 5 minutos, B comparte con A su opinión sobre el tema, mientras A escucha de manera activa.
 1. Una vez finalizadas las intervenciones, se realiza una breve síntesis de los puntos de vista de cada pareja.
 
-**Técnicas relacionadas:** 1 - 2 - 4, Parejas de discusión, RallyRobin, Think-Pair-Share (Piensa-Pareja-Comparte)
+**Técnicas relacionadas:** 1 - 2 - 4, Parejas de discusión, RallyRobin, Think-Pair-Share (Piensa-Pareja-Comparte), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up)
 
 **Cómo evaluar:**
 
@@ -3829,7 +4201,7 @@ Organización del aula en diferentes estaciones o espacios de trabajo. En cada e
 #### Ejemplo
 En biología, una estación contiene observación de muestras, otra análisis de imágenes, otra resolución de preguntas y otra elaboración de un esquema. Todos los grupos pasan por todas las estaciones.
 
-**Técnicas relacionadas:** Flipped Classroom (Aula invertida), Diseño Universal para el Aprendizaje (DUA / UDL), Equipos paralelos, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching)
+**Técnicas relacionadas:** Flipped Classroom (Aula invertida), Diseño Universal para el Aprendizaje (DUA / UDL), Equipos paralelos, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Aprendizaje personalizado con itinerarios (playlists)
 
 **Cómo evaluar:**
 
@@ -3870,7 +4242,7 @@ Cada equipo empieza en un cartel y escribe sus ideas durante tres minutos. Despu
 
 **Recursos:** [Lluvia de ideas y votos](https://jjdeharo.github.io/directo/ideas.html) · [Muro interactivo](https://jjdeharo.github.io/directo/muro.html)
 
-**Técnicas relacionadas:** El folio giratorio, Gallery Walk (Paseo por la galería), RoundRobin, World Café, Grupo nominal
+**Técnicas relacionadas:** El folio giratorio, Gallery Walk (Paseo por la galería), RoundRobin, World Café, Grupo nominal, Conversación escrita en silencio (Chalk Talk)
 
 **Cómo evaluar:**
 
@@ -3988,7 +4360,7 @@ En una clase de literatura, el profesor pregunta: “¿Qué rasgos puede tener u
 
 La pareja continúa hasta que agota sus ideas. Después, algunas respuestas se recogen en la pizarra y se utilizan para analizar el protagonista de un relato. La estructura permite generar una lista amplia en poco tiempo y asegura que ambos alumnos participen.
 
-**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), RoundRobin, Grupo nominal
+**Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), RoundRobin, Grupo nominal, Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up)
 
 **Cómo evaluar:**
 
@@ -4030,7 +4402,7 @@ En tutoría, el profesor plantea al grupo: “¿Qué podríamos hacer para que l
 
 La ronda continúa hasta reunir varias propuestas. Después, el equipo selecciona las dos que considera más viables y las comparte con la clase. La técnica permite recoger muchas ideas sin que una sola persona domine la conversación.
 
-**Técnicas relacionadas:** El folio giratorio, Graffiti Cooperativo, RallyRobin, Grupo nominal
+**Técnicas relacionadas:** El folio giratorio, Graffiti Cooperativo, RallyRobin, Grupo nominal, Abanico y elige (Fan-N-Pick)
 
 **Cómo evaluar:**
 
@@ -4069,7 +4441,7 @@ Dinámica de diálogo colaborativo en pequeños grupos que rotan por varias mesa
 #### Ejemplo
 En una unidad sobre sostenibilidad, cada mesa aborda una pregunta: consumo de agua, energía, residuos, movilidad y alimentación. Los grupos rotan, completan las ideas y finalmente elaboran propuestas para el centro.
 
-**Técnicas relacionadas:** Gallery Walk (Paseo por la galería), Graffiti Cooperativo, Las 4C del aprendizaje, Grupo nominal
+**Técnicas relacionadas:** Gallery Walk (Paseo por la galería), Graffiti Cooperativo, Las 4C del aprendizaje, Grupo nominal, Conversación escrita en silencio (Chalk Talk)
 
 **Cómo evaluar:**
 
@@ -4200,13 +4572,50 @@ La liberación gradual de la responsabilidad es un modelo de andamiaje en el que
 #### Ejemplo
 Para resolver problemas de geometría, el profesor resuelve uno pensando en voz alta durante 5 minutos. Después resuelve otro con la clase. A continuación, las parejas trabajan un tercer problema y, al final, cada alumno resuelve individualmente uno similar.
 
-**Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Ejemplos resueltos, Pensamiento en voz alta, Teoría de la carga cognitiva
+**Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Ejemplos resueltos, Pensamiento en voz alta, Teoría de la carga cognitiva, Andamiaje y zona de desarrollo próximo (ZDP)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
+
+---
+
+
+### 19. Ejemplos concretos `metac_155`
+
+_Estrategia que ilustra las ideas abstractas con ejemplos específicos, cotidianos y variados para que el alumnado entienda el concepto y sepa reconocerlo en situaciones nuevas. Conecta lo nuevo con experiencias reales y reduce la abstracción excesiva._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Construcción de conocimiento, Procesamiento y Análisis de la información, Comunicación y Creatividad
+
+_Palabras clave: ciencia cognitiva, abstracción, transferencia, comprensión, ejemplos_
+
+Las ideas abstractas se comprenden y recuerdan mejor cuando se anclan en ejemplos concretos y cercanos. Esta estrategia consiste en acompañar cada concepto con varios ejemplos específicos y, a la inversa, pedir al alumnado que genere sus propios ejemplos, lo que revela si ha entendido de verdad.
+
+Usar ejemplos variados (no uno solo) ayuda a abstraer lo esencial del concepto y a transferirlo a contextos distintos, evitando que el aprendizaje quede pegado a un único caso.
+
+#### Cómo se aplica
+
+1. Explica el concepto abstracto de forma clara y breve.
+2. Ofrece dos o tres ejemplos concretos y diversos que lo ilustren, señalando qué tienen en común.
+3. Incluye, si conviene, un contraejemplo (algo que parece encajar pero no lo hace) para delimitar el concepto.
+4. Pide al alumnado que aporte sus propios ejemplos a partir de su experiencia.
+5. Comprueba la calidad de esos ejemplos: si son correctos, el concepto se ha comprendido; si no, se aclara.
+
+#### Ejemplo
+
+Al enseñar el concepto de «inflación», en lugar de quedarse en la definición, el docente muestra ejemplos concretos: el precio del pan que sube cada año, la entrada de cine que costaba menos hace una década, el billete de autobús. Después pide a cada alumno un ejemplo propio de su vida cotidiana. Comparar varios casos ayuda a captar la idea común de pérdida de poder adquisitivo.
+
+**Técnicas relacionadas:** Contrasta y compara, Modelo Frayer, Ejemplos resueltos, Teoría de la carga cognitiva
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones
+
+- *Instrumentos:* Guía de corrección
+
+- *Dimensiones:* Finalidad formativa
 
 ---
 
@@ -4291,7 +4700,7 @@ También podemos utilizar una estructura más simple para el mismo problema:
 1. Comprobación de la hipótesis. Los estudiantes realizan experimentos con diferentes grupos de plantas fertilizadas con orgánico o químico y miden el crecimiento cada semana para comprobar si la hipótesis es correcta o no.
 1. Elaboración de resultados y presentación al resto de la clase. Los estudiantes analizan los datos recogidos y elaboran resultados y conclusiones sobre el efecto de los diferentes tipos de fertilizantes en el crecimiento de las plantas. A continuación, presentan los resultados de la investigación al resto de la clase de manera clara y con rigor científico.
 
-**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en laboratorio (ABL), Los Grupos de Investigación, Indagación guiada por la argumentación (ADI)
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en laboratorio (ABL), Los Grupos de Investigación, Indagación guiada por la argumentación (ADI), WebQuest
 
 **Cómo evaluar:**
 
@@ -4342,7 +4751,7 @@ Después, cada grupo diseña un experimento sencillo con dos grupos de semillas:
 
 Al final, analizan los datos, comparan los resultados con la hipótesis inicial y preparan una breve comunicación con una tabla de datos, una gráfica y una conclusión basada en evidencias.
 
-**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje experiencial, El modelo 5E
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje experiencial, El modelo 5E, Aprendizaje maker / STEAM
 
 **Cómo evaluar:**
 
@@ -4401,7 +4810,7 @@ En una unidad sobre la historia de la música occidental, el profesor ha decidid
 
 El profesor ha dividido a los estudiantes en grupos de 3 y ha asignado a cada grupo una de las épocas de la música occidental. Los estudiantes tienen que trabajar en equipo para elaborar una guía de preguntas con las tres categorías anteriores para su época asignada. Después, cada grupo presentará sus preguntas al resto de la clase, que se encargarán de responderlas. Así, el aprendizaje se desarrollará de forma colaborativa y metacognitiva, ya que los estudiantes tienen que utilizar sus ideas previas, sintetizar la información adquirida, organizarla y jerarquizarla, y aplicar su conocimiento a nuevas situaciones.
 
-**Técnicas relacionadas:** Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Técnica de formulación de preguntas (QFT)
+**Técnicas relacionadas:** Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Técnica de formulación de preguntas (QFT), Inicios de preguntas (Question Starts)
 
 **Cómo evaluar:**
 
@@ -4453,7 +4862,7 @@ En la asignatura de Tecnología, se plantea el reto de diseñar un sistema de ri
 4. Los grupos montan un prototipo y realizan pruebas de funcionamiento en el aula.
 5. Finalmente, instalan el sistema en el huerto y presentan el resultado final, explicando cómo han superado los problemas técnicos que han ido surgiendo durante el proceso.
 
-**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Los Grupos de Investigación, Situación problema
+**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Los Grupos de Investigación, Situación problema, Pensamiento computacional, Diagrama de espina de pescado (Ishikawa)
 
 **Cómo evaluar:**
 
@@ -4572,7 +4981,44 @@ Adaptado de Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar pa
 ---
 
 
-### 7. Juego de rol `metac_050`
+### 7. Doble codificación (dual coding) `metac_047`
+
+_Estrategia basada en la ciencia cognitiva que combina la información verbal con representaciones visuales (esquemas, diagramas, iconos) para que el alumnado procese el contenido por dos vías complementarias. Mejora la comprensión y la retención al crear más conexiones en la memoria._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Procesamiento y Análisis de la información, Comunicación y Creatividad, Construcción de conocimiento
+
+_Palabras clave: ciencia cognitiva, memoria, representación visual, comprensión, estudio_
+
+La doble codificación parte de la idea de que la mente procesa la información verbal y la visual mediante sistemas distintos pero conectados. Cuando un mismo contenido se presenta a la vez con palabras y con imágenes que lo representan, el alumnado dispone de dos rutas para recuperarlo después, lo que mejora la comprensión y la memoria a largo plazo.
+
+No se trata de añadir imágenes decorativas, sino de usar representaciones visuales que expliquen la idea: diagramas, líneas de tiempo, esquemas de flujo, iconos, mapas o dibujos que el propio alumnado genera mientras estudia.
+
+#### Cómo se aplica
+
+1. Identifica la idea o proceso clave que quieres que el alumnado comprenda y recuerde.
+2. Presenta esa idea con palabras (explicación, texto breve) y, en paralelo, con una representación visual que muestre su estructura o sus relaciones.
+3. Pide al alumnado que reelabore el contenido transformándolo de un formato a otro: que convierta un texto en un esquema, o que explique con palabras un diagrama.
+4. Evita la sobrecarga: la imagen y el texto deben referirse a lo mismo y estar próximos, no competir por la atención.
+5. En el repaso, haz que recuperen primero la imagen mental y luego la verbalicen, o al revés.
+
+#### Ejemplo
+
+Al estudiar el ciclo del agua, en lugar de leer solo un párrafo, el alumnado dibuja un diagrama con flechas (evaporación, condensación, precipitación) y rotula cada fase con una frase propia. Después tapa el texto y explica el ciclo mirando solo el dibujo, y luego tapa el dibujo y lo describe con palabras. Las dos vías se refuerzan mutuamente.
+
+**Técnicas relacionadas:** CSI: Color, Símbolo, Imagen, Visual Thinking (pensamiento visual), Teoría de la carga cognitiva, Mapa mental
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones
+
+- *Instrumentos:* Rúbrica de producto
+
+- *Dimensiones:* Finalidad formativa, Evaluación inclusiva y DUA
+
+---
+
+
+### 8. Juego de rol `metac_050`
 
 _Técnica en la que el alumnado adopta un rol o personaje para afrontar una situación. Sirve para desarrollar empatía, comunicación, comprensión de perspectivas, toma de decisiones y resolución de problemas en contextos simulados._
 
@@ -4586,7 +5032,7 @@ Un ejemplo de la técnica del juego de rol podría ser el siguiente:
 
 Imaginaremos que el grupo está estudiando la Segunda Guerra Mundial. Los participantes pueden dividirse en diferentes roles, como líderes políticos, militares o ciudadanos comunes de los diferentes países implicados en la guerra. Después, el grupo tendrá que resolver una serie de problemas o dilemas relacionados con la guerra, como qué decisiones tomaría cada rol en determinadas situaciones o qué consecuencias tendrían estas decisiones. Así, los participantes tendrán que trabajar juntos para resolver los problemas del juego de rol y a la vez reflexionar sobre los diferentes puntos de vista y las motivaciones de los diferentes personajes.
 
-**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Role on the Wall (Silueta del personaje)
+**Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Role on the Wall (Silueta del personaje), Ponerse en el lugar (Step Inside)
 
 **Cómo evaluar:**
 
@@ -4599,7 +5045,7 @@ Imaginaremos que el grupo está estudiando la Segunda Guerra Mundial. Los partic
 ---
 
 
-### 8. La entrevista `metac_054`
+### 9. La entrevista `metac_054`
 
 _Técnica en la que el alumnado se entrevista por parejas o pequeños grupos y luego presenta una síntesis sobre el compañero. Sirve para mejorar el conocimiento interpersonal, la escucha, la comunicación y la cohesión del grupo._
 
@@ -4627,7 +5073,7 @@ En la primera semana de trabajo en equipos cooperativos, el profesor forma parej
 
 Después de entrevistarse mutuamente, cada alumno escribe una frase sobre su compañero, por ejemplo: “Marta es organizada, prefiere tener las tareas claras y puede ayudar al equipo a repartir el trabajo”. Al final, las frases se leen en voz alta y sirven para formar una imagen más rica del grupo.
 
-**Técnicas relacionadas:** ¿Quién es quién?, Conozcámonos, Reloj de citas, Seguir la pista
+**Técnicas relacionadas:** ¿Quién es quién?, Conozcámonos, Reloj de citas, Seguir la pista, Entrevista en tres pasos (Three-Step Interview)
 
 **Cómo evaluar:**
 
@@ -4638,7 +5084,7 @@ Después de entrevistarse mutuamente, cada alumno escribe una frase sobre su com
 ---
 
 
-### 9. La mesa redonda `metac_055`
+### 10. La mesa redonda `metac_055`
 
 _Técnica de diálogo grupal en torno a una pregunta o problema. Sirve para promover la participación, escuchar perspectivas distintas, construir acuerdos, mejorar la comunicación y buscar soluciones compartidas._
 
@@ -4689,7 +5135,7 @@ El docente modera para que nadie monopolice la conversación y anota las propues
 ---
 
 
-### 10. Lectura compartida `metac_057`
+### 11. Lectura compartida `metac_057`
 
 _Técnica de lectura cooperativa en la que los alumnos leen, explican y valoran fragmentos de un texto por turnos. Sirve para mejorar comprensión lectora, escucha activa, expresión oral y construcción compartida del significado._
 
@@ -4740,7 +5186,7 @@ Después, el segundo alumno lee el siguiente párrafo y el tercero lo resume. El
 ---
 
 
-### 11. Lectura fantasma `metac_058`
+### 12. Lectura fantasma `metac_058`
 
 _Técnica de lectura oral colectiva en la que los alumnos continúan espontáneamente la lectura cuando otro se detiene. Sirve para mejorar comprensión, fluidez lectora, expresión oral, atención y respeto dentro del grupo._
 
@@ -4777,7 +5223,7 @@ Al finalizar, el grupo comenta si se ha mantenido el ritmo, si las pausas han ay
 ---
 
 
-### 12. Mapa conceptual a cuatro bandas `metac_063`
+### 13. Mapa conceptual a cuatro bandas `metac_063`
 
 _Técnica en la que un equipo construye de forma cooperativa un mapa conceptual o esquema final. Sirve para organizar información, sintetizar contenidos, repartir responsabilidades y crear material de estudio compartido._
 
@@ -4807,7 +5253,7 @@ En cada equipo, un alumno prepara la parte sobre neuronas, otro la del sistema n
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** Analiza y sintetiza, El juego de las palabras, Visual Thinking (pensamiento visual), Modelo Frayer, Generar, ordenar, conectar, elaborar
+**Técnicas relacionadas:** Analiza y sintetiza, El juego de las palabras, Visual Thinking (pensamiento visual), Modelo Frayer, Generar, ordenar, conectar, elaborar, Mapa mental
 
 **Cómo evaluar:**
 
@@ -4820,7 +5266,7 @@ En cada equipo, un alumno prepara la parte sobre neuronas, otro la del sistema n
 ---
 
 
-### 13. Proyectos de Aprendizaje-Servicio (ApS o ABS) `metac_080`
+### 14. Proyectos de Aprendizaje-Servicio (ApS o ABS) `metac_080`
 
 _Proyecto que combina aprendizaje curricular y servicio a la comunidad en una necesidad real del entorno. Sirve para formar al alumnado mediante acción social, reflexión, cooperación y evaluación de resultados._
 
@@ -4910,7 +5356,7 @@ Creación de un huerto comunitario en un barrio con pocos espacios verdes y alta
    1. Se promovería la difusión de los resultados y las conclusiones obtenidas, ya sea a través de las redes sociales o de la prensa local.
    1. Se buscarían posibles colaboraciones con otras iniciativas similares para extender el programa.
 
-**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR)
+**Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Hora del genio (Genius Hour)
 
 **Cómo evaluar:**
 
@@ -4923,7 +5369,7 @@ Creación de un huerto comunitario en un barrio con pocos espacios verdes y alta
 ---
 
 
-### 14. Modelo Frayer `metac_132`
+### 15. Modelo Frayer `metac_132`
 
 _Organizador gráfico para trabajar conceptos mediante definición, características, ejemplos y no ejemplos. Sirve para precisar vocabulario académico, diferenciar conceptos y mejorar la comprensión._
 
@@ -4947,7 +5393,7 @@ Puede aplicarse en ciencias, matemáticas, lengua, historia, economía o cualqui
 #### Ejemplo
 En matemáticas, para el concepto “función”, el alumnado escribe una definición, indica características como que a cada valor de entrada le corresponde un único valor de salida, añade ejemplos de funciones mediante tablas o gráficas y no ejemplos donde un mismo valor de entrada tiene dos salidas distintas.
 
-**Técnicas relacionadas:** Analiza y sintetiza, Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Generar, ordenar, conectar, elaborar
+**Técnicas relacionadas:** Analiza y sintetiza, Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Generar, ordenar, conectar, elaborar, Ejemplos concretos, Diagrama de Venn
 
 **Cómo evaluar:**
 
@@ -4956,7 +5402,7 @@ En matemáticas, para el concepto “función”, el alumnado escribe una defini
 ---
 
 
-### 15. Enseñanza recíproca `metac_135`
+### 16. Enseñanza recíproca `metac_135`
 
 _Técnica de comprensión lectora basada en resumir, preguntar, aclarar y predecir por turnos. Sirve para mejorar lectura activa, autorregulación, diálogo y comprensión compartida de textos._
 
@@ -4991,7 +5437,7 @@ En biología, el grupo lee un texto sobre vacunas. Un alumno resume el primer p�
 ---
 
 
-### 16. +1 `metac_148`
+### 17. +1 `metac_148`
 
 _Rutina en la que los apuntes circulan y cada compañero añade una mejora. Sirve para enriquecer notas, revisar información y construir una versión más completa._
 
@@ -5036,7 +5482,7 @@ Tras tres rondas, el resumen vuelve a su autor. Cada alumno dedica 3 minutos a r
 ---
 
 
-### 17. Apuntes Cornell `metac_150`
+### 18. Apuntes Cornell `metac_150`
 
 _Sistema de apuntes con zona de notas, preguntas y síntesis final. Sirve para tomar mejores apuntes, repasar mediante recuperación y organizar el estudio autónomo._
 
@@ -5076,7 +5522,7 @@ En historia, durante una explicación sobre la Segunda República, el alumnado t
 ---
 
 
-### 18. Resumen en una frase `metac_151`
+### 19. Resumen en una frase `metac_151`
 
 _Técnica de síntesis que condensa un aprendizaje en una sola frase precisa. Sirve para distinguir ideas esenciales y comprobar comprensión de forma rápida._
 
@@ -5116,6 +5562,229 @@ Tras estudiar la Segunda República, el alumnado dedica 3 minutos a escribir una
 ---
 
 
+### 20. Interrogación elaborativa `metac_154`
+
+_Estrategia de aprendizaje en la que el alumnado se pregunta y responde «¿por qué es así?» o «¿cómo se explica esto?» sobre los hechos que estudia, conectándolos con lo que ya sabe. Favorece la comprensión profunda frente a la memorización superficial._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Procesamiento y Análisis de la información, Pensamiento Crítico y Metacognición, Construcción de conocimiento
+
+_Palabras clave: elaboración, preguntas por qué, comprensión profunda, ciencia cognitiva, metacognición_
+
+La interrogación elaborativa consiste en generar y responder preguntas del tipo «¿por qué?» y «¿cómo?» sobre la información que se está aprendiendo, en lugar de limitarse a leerla o repetirla. Al obligar a buscar explicaciones y relacionar el dato nuevo con conocimientos previos, la información se integra de forma más sólida y se recuerda mejor.
+
+Es especialmente útil con contenidos formados por hechos que pueden parecer arbitrarios pero que tienen una causa o una lógica subyacente.
+
+#### Cómo se aplica
+
+1. Presenta una afirmación o un hecho del contenido (por ejemplo, una característica, una relación causa-efecto, una regla).
+2. Pide al alumnado que formule la pregunta «¿por qué es esto así?» o «¿por qué tiene sentido?».
+3. El alumnado intenta responder con una explicación, recurriendo a lo que ya sabe y al material disponible.
+4. Contrasta las explicaciones: se valida la correcta, se matizan las incompletas y se corrigen las erróneas.
+5. Se repite el proceso con los siguientes hechos, encadenando explicaciones.
+
+#### Ejemplo
+
+En ciencias naturales, ante la afirmación «los animales del desierto suelen ser de hábitos nocturnos», el alumnado no la memoriza sin más, sino que responde a «¿por qué?»: porque de día las temperaturas son extremas y salir de noche reduce la pérdida de agua y el riesgo de sobrecalentamiento. Al elaborar la causa, el dato deja de ser arbitrario y se recuerda con facilidad.
+
+**Técnicas relacionadas:** Los 5 porqués, Pregunta el porqué, Práctica de recuperación, Autoexplicación
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
+
+- *Instrumentos:* Escala de observación
+
+- *Dimensiones:* Finalidad diagnóstica, Finalidad formativa
+
+---
+
+
+### 21. WebQuest `metac_171`
+
+_Actividad de indagación guiada en la que el alumnado resuelve una tarea usando recursos de internet preseleccionados por el docente. Tiene una estructura fija (introducción, tarea, proceso, recursos, evaluación, conclusión) que orienta la búsqueda y el análisis._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Procesamiento y Análisis de la información, Resolución de problemas y Retos, Comunicación y Creatividad
+
+_Palabras clave: indagación guiada, competencia digital, internet, tratamiento de la información, Dodge_
+
+La WebQuest, creada por Bernie Dodge, es una metodología de indagación en la que el alumnado afronta una tarea o problema utilizando fundamentalmente recursos de internet que el docente ha seleccionado de antemano. Al proporcionar las fuentes, el tiempo no se pierde en buscar sino en analizar, comparar y transformar la información, lo que la hace especialmente útil para enseñar a tratar la información de forma crítica.
+
+Su seña de identidad es una estructura fija de apartados que guía todo el proceso y deja claro qué hay que hacer, con qué recursos y cómo se evaluará.
+
+#### Cómo se aplica
+
+1. Introducción: presenta el escenario y motiva la tarea.
+2. Tarea: describe el producto final que el alumnado debe elaborar (un informe, una presentación, una propuesta…).
+3. Proceso: detalla los pasos a seguir, a menudo con reparto de roles dentro del grupo.
+4. Recursos: ofrece los enlaces y materiales preseleccionados que se deben consultar.
+5. Evaluación: muestra la rúbrica con la que se valorará el trabajo, conocida desde el inicio.
+6. Conclusión: cierra recordando lo aprendido e invitando a transferirlo o a seguir indagando.
+
+#### Ejemplo
+
+En una WebQuest sobre energías renovables, la tarea pide elaborar una propuesta de instalación para el centro. El alumnado, en grupos con roles (economista, ingeniero, ecólogo), consulta los recursos web facilitados, compara tecnologías y costes, y prepara una presentación. La rúbrica, conocida desde el principio, valora el rigor de los datos, la argumentación y la calidad del producto.
+
+**Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la investigación (ABI), Aprendizaje basado en proyectos (ABProyectos), Flipped Classroom (Aula invertida)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis documental, Análisis de producciones
+
+- *Instrumentos:* Rúbrica de producto
+
+- *Dimensiones:* Enfoque competencial, Evidencias digitales, Indagación
+
+---
+
+
+### 22. Mapa mental `metac_176`
+
+_Organizador gráfico radial que parte de una idea central y despliega ramas con palabras clave, colores e imágenes para representar cómo se relacionan los conceptos. Ayuda a estructurar ideas, sintetizar, memorizar y generar conexiones de forma visual._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Procesamiento y Análisis de la información, Comunicación y Creatividad, Construcción de conocimiento
+
+_Palabras clave: organizador gráfico, mapa mental, síntesis, pensamiento visual, Buzan_
+
+El mapa mental, popularizado por Tony Buzan, es una representación gráfica que organiza la información de forma radial: en el centro se sitúa la idea o tema principal y de ella salen ramas que se subdividen en ideas secundarias, usando palabras clave (no frases largas), colores e imágenes. Su estructura imita la forma asociativa en que la mente conecta ideas.
+
+A diferencia del mapa conceptual (que une conceptos con enlaces etiquetados formando proposiciones), el mapa mental es más libre, visual y personal, y resulta muy útil para hacer lluvias de ideas, resumir y memorizar.
+
+#### Cómo se aplica
+
+1. Escribe en el centro de la hoja la idea o tema principal, idealmente con una imagen.
+2. Traza ramas gruesas hacia las ideas principales relacionadas, cada una con una palabra clave.
+3. Subdivide cada rama en ramas más finas con ideas secundarias, manteniendo una palabra por rama.
+4. Usa colores distintos por rama e incorpora dibujos o iconos que ayuden a recordar.
+5. Revisa y reorganiza: añade conexiones entre ramas si descubres relaciones nuevas.
+
+#### Ejemplo
+
+Para repasar el tema del aparato digestivo, el alumnado dibuja en el centro un estómago y de ahí salen ramas de colores: «órganos», «proceso», «nutrientes», «enfermedades». Cada rama se ramifica con palabras clave e iconos. Al construirlo, el alumnado decide qué es principal y qué secundario y cómo se conecta todo, lo que le obliga a estructurar el contenido y le facilita recordarlo después de un vistazo.
+
+**Técnicas relacionadas:** Analiza y sintetiza, Doble codificación (dual coding), Mapa conceptual a cuatro bandas, Visual Thinking (pensamiento visual), Línea de tiempo
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones
+
+- *Instrumentos:* Rúbrica de producto
+
+- *Dimensiones:* Evidencia de desempeño, Finalidad formativa
+
+---
+
+
+### 23. Diagrama de espina de pescado (Ishikawa) `metac_177`
+
+_Organizador gráfico con forma de esqueleto de pez para analizar las causas de un problema: el efecto se sitúa en la cabeza y las posibles causas se agrupan por categorías a lo largo de las espinas. Ayuda a pensar de forma sistemática las raíces de un problema._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Procesamiento y Análisis de la información, Pensamiento Crítico y Metacognición, Resolución de problemas y Retos
+
+_Palabras clave: organizador gráfico, causa-efecto, análisis de problemas, Ishikawa, resolución de problemas_
+
+El diagrama de espina de pescado o diagrama de Ishikawa (también llamado de causa-efecto) es una herramienta visual para analizar las causas que originan un problema o efecto. Se dibuja como un esqueleto de pez: en la «cabeza» se escribe el efecto o problema y de la «columna» salen espinas que representan categorías de causas, y de cada espina, subespinas con causas concretas.
+
+Obliga a no quedarse en la primera explicación, sino a explorar de forma ordenada distintas familias de causas, distinguiendo entre causas principales y secundarias.
+
+#### Cómo se aplica
+
+1. Escribe con claridad el problema o efecto a analizar en la cabeza del pez (a la derecha).
+2. Define las grandes categorías de causas (por ejemplo: personas, métodos, materiales, entorno) y colócalas como espinas principales.
+3. Para cada categoría, el grupo aporta posibles causas mediante lluvia de ideas y las añade como subespinas.
+4. Profundiza preguntando «¿por qué?» en cada causa, para llegar a las raíces más que a los síntomas.
+5. Analiza el diagrama completo e identifica las causas más probables o influyentes sobre las que actuar.
+
+#### Ejemplo
+
+Ante el problema «en clase se pierde mucho tiempo al empezar las sesiones», el grupo dibuja la espina y agrupa causas: organización (no está el material listo), normas (entran tarde), espacio (mesas mal dispuestas), hábitos (tardan en sacar el cuaderno). Al verlo en conjunto, identifican que la causa raíz más influyente es la falta de una rutina de inicio, y deciden actuar sobre ella.
+
+**Técnicas relacionadas:** Aprendizaje basado en problemas (ABP), Genera soluciones, Los 5 porqués, Matriz de problemas
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones
+
+- *Instrumentos:* Rúbrica analítica
+
+- *Dimensiones:* Finalidad formativa, Resolución de problemas
+
+---
+
+
+### 24. Línea de tiempo `metac_178`
+
+_Organizador gráfico que representa hechos o etapas ordenados cronológicamente sobre un eje. Ayuda a comprender secuencias, duraciones, simultaneidades y relaciones causa-efecto a lo largo del tiempo, y a situar los acontecimientos en su contexto._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Procesamiento y Análisis de la información, Construcción de conocimiento, Comunicación y Creatividad
+
+_Palabras clave: organizador gráfico, cronología, secuencia temporal, historia, causa-efecto_
+
+La línea de tiempo es una representación visual en la que los acontecimientos, etapas o procesos se colocan en orden cronológico a lo largo de un eje (normalmente horizontal). Permite captar de un vistazo el orden de los hechos, cuánto duran, qué cosas ocurren a la vez y cómo unos sucesos pueden ser causa o consecuencia de otros.
+
+Es un organizador muy versátil: sirve tanto para historia como para el desarrollo de un experimento, las fases de un proyecto, la biografía de un autor o la evolución de un concepto.
+
+#### Cómo se aplica
+
+1. Delimita el periodo y los hechos o etapas que se van a representar.
+2. Traza el eje y decide la escala (que la distancia entre puntos sea proporcional al tiempo transcurrido).
+3. Sitúa cada acontecimiento en su posición, con una etiqueta breve y, si conviene, una imagen.
+4. Marca duraciones (con barras o tramos) y señala simultaneidades o relaciones entre hechos.
+5. Interpreta la línea: analiza secuencias, ritmos, periodos de cambio y posibles causas y efectos.
+
+#### Ejemplo
+
+Al estudiar la Edad Contemporánea, el alumnado construye una línea de tiempo a escala con las revoluciones, guerras y avances tecnológicos. Al verlos ordenados y proporcionados, descubren que ciertos inventos coinciden con cambios sociales y que algunos conflictos se encadenan, comprendiendo no solo qué pasó sino cuándo, en qué orden y cómo se relacionan los hechos entre sí.
+
+**Técnicas relacionadas:** Analiza y sintetiza, Detecta patrones, Seguir la pista, Mapa mental
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones
+
+- *Instrumentos:* Rúbrica de producto
+
+- *Dimensiones:* Finalidad formativa
+
+---
+
+
+### 25. Diagrama de Venn `metac_179`
+
+_Organizador gráfico formado por círculos que se solapan para comparar dos o más elementos: lo propio de cada uno va en la parte no compartida y lo común, en la intersección. Ayuda a analizar semejanzas y diferencias de forma visual y precisa._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Procesamiento y Análisis de la información, Pensamiento Crítico y Metacognición, Construcción de conocimiento
+
+_Palabras clave: organizador gráfico, comparación, semejanzas y diferencias, análisis, Venn_
+
+El diagrama de Venn utiliza círculos superpuestos para comparar y contrastar dos o más conceptos, objetos o ideas. Cada círculo representa un elemento; en la zona exclusiva de cada círculo se escriben sus características propias, y en la zona donde los círculos se solapan, las características que comparten.
+
+Es una herramienta sencilla pero potente para entrenar la comparación rigurosa: obliga a decidir, para cada rasgo, si es exclusivo de uno, exclusivo de otro o común a ambos, lo que afina el análisis.
+
+#### Cómo se aplica
+
+1. Elige los dos (o tres) elementos que se van a comparar y dibuja un círculo por cada uno, solapándolos.
+2. Identifica las características de cada elemento mediante observación, lectura o lluvia de ideas.
+3. Coloca cada característica en su lugar: en la parte exclusiva si es propia de un solo elemento; en la intersección si es compartida.
+4. Revisa el reparto y discute los casos dudosos (¿de verdad es común o solo se parece?).
+5. Extrae conclusiones a partir de lo que es exclusivo y lo que es compartido.
+
+#### Ejemplo
+
+Para comparar mamíferos y aves, el alumnado dibuja dos círculos. En el de mamíferos: pelo, glándulas mamarias; en el de aves: plumas, pico, huevos con cáscara; en la intersección: vertebrados, respiración pulmonar, sangre caliente. Al situar cada rasgo, el alumnado comprende con precisión qué tienen en común ambos grupos y qué los distingue.
+
+**Técnicas relacionadas:** Analiza y sintetiza, Contrasta y compara, Detecta patrones, Modelo Frayer
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de producciones
+
+- *Instrumentos:* Rúbrica analítica
+
+- *Dimensiones:* Finalidad formativa
+
+---
+
+
 ## Evaluación Formativa y Feedback
 
 
@@ -5150,7 +5819,7 @@ Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para a
 
 1. Al final de la actividad, el profesor realiza un resumen de los conocimientos de los estudiantes y determina qué áreas necesitan más trabajo. También realiza una revisión de los conceptos clave de la circulación sanguínea para asegurar que todos los alumnos los han entendido de manera adecuada.
 
-**Técnicas relacionadas:** Parada de tres minutos, Pregunta y responde, Quiz-Quiz-Trade (Intercambio de tarjetas)
+**Técnicas relacionadas:** Parada de tres minutos, Pregunta y responde, Quiz-Quiz-Trade (Intercambio de tarjetas), Inicios de preguntas (Question Starts)
 
 **Cómo evaluar:**
 
@@ -5189,7 +5858,7 @@ Acuerdo explícito entre alumno y profesor sobre objetivos, tareas, tiempos, rec
 #### Ejemplo
 En un proyecto de investigación, cada alumno acuerda con el profesor la pregunta que trabajará, las fuentes que consultará, el producto final y las fechas de entrega parciales.
 
-**Técnicas relacionadas:** Diario de aprendizaje, Portfolio (dosier de aprendizaje), Aprendizaje visible (Visible Learning), Guías de orientación
+**Técnicas relacionadas:** Diario de aprendizaje, Portfolio (dosier de aprendizaje), Aprendizaje visible (Visible Learning), Guías de orientación, Hora del genio (Genius Hour), Aprendizaje personalizado con itinerarios (playlists)
 
 **Cómo evaluar:**
 
@@ -5356,7 +6025,7 @@ Durante una explicación sobre la respiración celular, el profesor se detiene d
 
 Después, cada equipo plantea una pregunta. El profesor detecta que varias dudas se centran en confundir intercambio de gases con respiración celular, así que aclara esa diferencia antes de continuar. La pausa permite ajustar la explicación mientras el aprendizaje todavía está en proceso.
 
-**Técnicas relacionadas:** Cadena de Preguntas, El Saco de Dudas, Equipos de oyentes, Minute Paper (Papel de un minuto)
+**Técnicas relacionadas:** Cadena de Preguntas, El Saco de Dudas, Equipos de oyentes, Minute Paper (Papel de un minuto), Tiempo de espera (wait time)
 
 **Cómo evaluar:**
 
@@ -5397,7 +6066,7 @@ En matemáticas, el profesor plantea una pregunta sobre probabilidad condicionad
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
 
-**Técnicas relacionadas:** Flipped Classroom (Aula invertida), Intercambiar dificultades, Números iguales juntos (Cabezas juntas numeradas), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Práctica de recuperación, Práctica intercalada
+**Técnicas relacionadas:** Flipped Classroom (Aula invertida), Intercambiar dificultades, Números iguales juntos (Cabezas juntas numeradas), Think-Pair-Share (Piensa-Pareja-Comparte), Ticket de salida (exit ticket), Práctica de recuperación, Práctica intercalada, Preguntas bisagra (hinge questions), Respuesta de todos a la vez, Marco ICAP
 
 **Cómo evaluar:**
 
@@ -5477,7 +6146,7 @@ En una clase de inglés, cada alumno recibe una tarjeta con una palabra de vocab
 
 Después cambian los roles, intercambian las tarjetas y buscan una nueva pareja. En pocos minutos, cada estudiante practica varias palabras con compañeros diferentes. La técnica convierte el repaso en una actividad breve, oral y dinámica.
 
-**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), Cadena de Preguntas, Reloj de citas, TGT (Torneo de Juegos por Equipos), Ludificación (gamificación)
+**Técnicas relacionadas:** Aprendizaje basado en el juego (ABJ), Cadena de Preguntas, Reloj de citas, TGT (Torneo de Juegos por Equipos), Ludificación (gamificación), Respuesta de todos a la vez, Abanico y elige (Fan-N-Pick), Duelo de respuestas (Showdown)
 
 **Cómo evaluar:**
 
@@ -5549,7 +6218,7 @@ Al final, cada alumno realiza una prueba individual con un mapa nuevo. El equipo
 
 **Recursos:** [GeCo - Generador de Equipos Cooperativos](https://jjdeharo.github.io/geco/)
 
-**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Repartir puntos, TGT (Torneo de Juegos por Equipos), Uno para todos, Equipos de ayuda mutua / TAI (Team Assisted Individualization)
+**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Repartir puntos, TGT (Torneo de Juegos por Equipos), Uno para todos, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Duelo de respuestas (Showdown)
 
 **Cómo evaluar:**
 
@@ -5588,7 +6257,7 @@ Un alumno puede responder: “He entendido que las fábricas cambiaron la organi
 
 **Recursos:** [Tickets de salida](https://jjdeharo.github.io/directo/ticket.html)
 
-**Técnicas relacionadas:** Diana de evaluación, El semáforo, Flipped Classroom (Aula invertida), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Peer Instruction (Instrucción entre iguales), Dos estrellas y un deseo, Práctica de recuperación
+**Técnicas relacionadas:** Diana de evaluación, El semáforo, Flipped Classroom (Aula invertida), Minute Paper (Papel de un minuto), Muddiest Point (El punto más confuso), Peer Instruction (Instrucción entre iguales), Dos estrellas y un deseo, Práctica de recuperación, Preguntas bisagra (hinge questions)
 
 **Cómo evaluar:**
 
@@ -5640,7 +6309,7 @@ En una actividad de lengua, cada alumno escribe un texto argumentativo sobre el 
 
 El revisor señala una idea clara del texto, una parte que no se entiende bien y una mejora concreta. Después, el autor revisa su texto: reformula la tesis, añade un dato y mejora el contraargumento. La técnica convierte la evaluación en una oportunidad real de mejora antes de la versión final.
 
-**Técnicas relacionadas:** Diana de evaluación, Gallery Walk (Paseo por la galería), Portfolio (dosier de aprendizaje), Seminario socrático, Rúbrica de evaluación, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Dos estrellas y un deseo, Controversia estructurada con evidencias, +1
+**Técnicas relacionadas:** Diana de evaluación, Gallery Walk (Paseo por la galería), Portfolio (dosier de aprendizaje), Seminario socrático, Rúbrica de evaluación, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Dos estrellas y un deseo, Controversia estructurada con evidencias, +1, Comunidad de indagación (Community of Inquiry)
 
 **Cómo evaluar:**
 
@@ -5718,7 +6387,7 @@ Al inicio de una clase de biología, los alumnos dedican 5 minutos a escribir to
 
 El profesor recoge las dudas más frecuentes y dedica los primeros minutos de la sesión a aclararlas.
 
-**Técnicas relacionadas:** Minute Paper (Papel de un minuto), Peer Instruction (Instrucción entre iguales), Ticket de salida (exit ticket), Práctica espaciada, Práctica intercalada, Apuntes Cornell
+**Técnicas relacionadas:** Minute Paper (Papel de un minuto), Peer Instruction (Instrucción entre iguales), Ticket de salida (exit ticket), Práctica espaciada, Práctica intercalada, Apuntes Cornell, Interrogación elaborativa
 
 **Cómo evaluar:**
 
@@ -5798,7 +6467,7 @@ El aprendizaje de dominio es un enfoque en el que el alumnado avanza al siguient
 #### Ejemplo
 En una unidad de fracciones, cada subtema termina con una prueba breve de 5 preguntas. El alumnado que domina la suma de fracciones pasa a multiplicación; quien todavía tiene errores recibe una explicación alternativa y ejercicios específicos antes de volver a intentarlo.
 
-**Técnicas relacionadas:** Aprendizaje visible (Visible Learning), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Rúbrica de evaluación, Práctica espaciada
+**Técnicas relacionadas:** Aprendizaje visible (Visible Learning), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Rúbrica de evaluación, Práctica espaciada, Aprendizaje personalizado con itinerarios (playlists)
 
 **Cómo evaluar:**
 
@@ -5838,7 +6507,7 @@ Las guías de orientación son apoyos que ayudan al alumnado a realizar una tare
 #### Ejemplo
 Para escribir un texto argumentativo, la guía incluye preguntas como: “¿Cuál es tu tesis?”, “¿Qué evidencia la apoya?”, “¿Has incluido una objeción?” y “¿Has respondido a esa objeción?”. El alumnado la utiliza antes de entregar la versión final.
 
-**Técnicas relacionadas:** Contrato de aprendizaje, Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación, Ejemplos resueltos
+**Técnicas relacionadas:** Contrato de aprendizaje, Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación, Ejemplos resueltos, Andamiaje y zona de desarrollo próximo (ZDP)
 
 **Cómo evaluar:**
 
@@ -5847,6 +6516,191 @@ Para escribir un texto argumentativo, la guía incluye preguntas como: “¿Cuá
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+
+---
+
+
+### 19. Preguntas bisagra (hinge questions) `metac_157`
+
+_Pregunta diagnóstica de opción múltiple, situada en un punto clave de la clase, cuya respuesta revela en segundos si el grupo ha comprendido un concepto. Según el resultado, el docente decide avanzar, reexplicar o reagrupar._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Evaluación Formativa y Feedback, Pensamiento Crítico y Metacognición, Activación de conocimientos previos
+
+_Palabras clave: evaluación formativa, diagnóstico, opción múltiple, toma de decisiones, Dylan Wiliam_
+
+Una pregunta bisagra es una pregunta cuidadosamente diseñada que se plantea en un momento «bisagra» de la sesión: el punto en el que continuar depende de si el alumnado ha comprendido lo anterior. Es de respuesta rápida (normalmente opción múltiple) y todo el grupo responde a la vez, de modo que el docente obtiene en menos de un minuto una imagen del nivel de comprensión de toda la clase.
+
+La clave está en el diseño: las opciones incorrectas deben corresponder a errores o concepciones equivocadas frecuentes, para que la respuesta elegida informe del tipo de fallo, no solo de si se acierta o no.
+
+#### Cómo se aplica
+
+1. Identifica el concepto cuya comprensión es imprescindible antes de seguir.
+2. Redacta una pregunta de opción múltiple con distractores que reflejen errores típicos; debe poder responderse en menos de un minuto y ser difícil de acertar por azar.
+3. Toda la clase responde a la vez (tarjetas, dedos, mini-pizarras o herramienta digital).
+4. Lee el patrón de respuestas: si la mayoría acierta, avanzas; si predomina un error, lo abordas; si hay dispersión, reagrupas o reexplicas.
+5. Aprovecha los distractores elegidos para hacer aflorar y discutir el razonamiento equivocado.
+
+#### Ejemplo
+
+Tras explicar el área del triángulo, el docente proyecta: «¿Cuál es el área de un triángulo de base 6 y altura 4? a) 24, b) 12, c) 10, d) 20». El distractor «24» revela a quien olvida dividir entre dos. Todos muestran su respuesta a la vez con una tarjeta. Si muchos eligen «24», el docente sabe al instante que debe reforzar el «entre dos» antes de continuar.
+
+**Técnicas relacionadas:** El semáforo, Peer Instruction (Instrucción entre iguales), Ticket de salida (exit ticket), Respuesta de todos a la vez
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Pruebas específicas, Sondeo y cuestionamiento
+
+- *Instrumentos:* Semáforo de evaluación
+
+- *Dimensiones:* Finalidad diagnóstica, Finalidad formativa
+
+---
+
+
+### 20. Respuesta de todos a la vez `metac_158`
+
+_Sistema de respuesta simultánea de toda la clase (mini-pizarras, tarjetas ABCD, pulgares o herramienta digital) ante una pregunta del docente. Sustituye al «levantar la mano» de unos pocos y da información instantánea sobre el grupo entero._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Evaluación Formativa y Feedback, Activación de conocimientos previos, Pensamiento Crítico y Metacognición
+
+_Palabras clave: evaluación formativa, participación, mini-pizarras, tarjetas ABCD, respuesta simultánea_
+
+Cuando solo responden quienes levantan la mano, el docente obtiene información de tres o cuatro alumnos, normalmente los que ya lo entienden. Los sistemas de respuesta de todos a la vez hacen que cada alumno responda simultáneamente y de forma visible, de modo que el docente «lee la sala» de un vistazo y nadie puede desconectar.
+
+Los soportes habituales son las mini-pizarras individuales (escriben y muestran), las tarjetas A/B/C/D, los pulgares arriba/abajo o las herramientas digitales de votación.
+
+#### Cómo se aplica
+
+1. Plantea una pregunta clara que admita una respuesta breve o una opción cerrada.
+2. Da unos segundos de pensamiento para que todos preparen su respuesta.
+3. A una señal, todo el grupo muestra su respuesta a la vez (pizarra, tarjeta, dedos o pantalla).
+4. Observa la distribución de respuestas y actúa en consecuencia: confirmar, corregir un error común o pedir que alguien justifique.
+5. Repite con frecuencia para mantener la participación universal y el pulso de la comprensión.
+
+#### Ejemplo
+
+Durante una clase de lengua sobre tipos de oración, el docente dicta una frase y pide: «¿simple o compuesta? A la de tres, mostrad vuestra tarjeta». Todos los alumnos levantan a la vez su tarjeta A (simple) o B (compuesta). El docente ve al momento que un tercio se equivoca con un caso concreto y lo aclara antes de seguir, en lugar de descubrirlo en el examen.
+
+**Técnicas relacionadas:** El semáforo, Peer Instruction (Instrucción entre iguales), Quiz-Quiz-Trade (Intercambio de tarjetas), Preguntas bisagra (hinge questions), Preguntar sin manos levantadas (cold calling)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Sondeo y cuestionamiento
+
+- *Instrumentos:* Semáforo de evaluación
+
+- *Dimensiones:* Finalidad diagnóstica, Finalidad formativa
+
+---
+
+
+### 21. Preguntar sin manos levantadas (cold calling) `metac_159`
+
+_Técnica de gestión de la participación en la que el docente formula la pregunta a toda la clase y luego elige quién responde, en lugar de pedir voluntarios. Mantiene a todo el alumnado pensando y distribuye la participación de forma equitativa._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Evaluación Formativa y Feedback, Comunicación y Creatividad, Pensamiento Crítico y Metacognición
+
+_Palabras clave: evaluación formativa, participación, gestión de aula, equidad, preguntas_
+
+Pedir voluntarios concentra la participación en unos pocos y permite que el resto se desconecte. Con el «cold calling» o «preguntar sin manos levantadas», el docente lanza la pregunta a todos, deja tiempo de pensamiento y después nombra a quien debe responder. Como cualquiera puede ser elegido, todo el alumnado mantiene la atención y prepara una respuesta.
+
+No es un interrogatorio para pillar: se combina con tiempo de espera, un clima seguro y la posibilidad de apoyarse en un compañero, de modo que sea una invitación a pensar y no una amenaza.
+
+#### Cómo se aplica
+
+1. Formula primero la pregunta a toda la clase, sin decir aún quién responderá.
+2. Da unos segundos de tiempo de pensamiento (idealmente, que todos esbocen una respuesta mental o escrita).
+3. Nombra después a una persona concreta, eligiendo de forma variada y deliberada para repartir la participación.
+4. Acoge la respuesta sin penalizar el error; si la persona se bloquea, ofrece apoyo, reformula o vuelve a ella tras escuchar a otra.
+5. Encadena varias respuestas para construir entre todos la idea completa.
+
+#### Ejemplo
+
+En lugar de «¿quién sabe qué causó la Primera Guerra Mundial?» (responden siempre los mismos), el docente dice: «Pensad treinta segundos en una de las causas… María, empieza tú». Como nadie sabe a quién llamará, todos preparan una respuesta. Después encadena: «Gracias, María; Luis, ¿puedes añadir otra causa?». La participación se reparte y todos siguen implicados.
+
+**Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Pregunta y responde, Respuesta de todos a la vez, Tiempo de espera (wait time)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
+
+- *Instrumentos:* Registro de participación
+
+- *Dimensiones:* Finalidad formativa
+
+---
+
+
+### 22. Tiempo de espera (wait time) `metac_160`
+
+_Práctica que consiste en dejar unos segundos de silencio tras formular una pregunta y también tras la respuesta del alumno, antes de reaccionar. Aumenta la cantidad y la calidad de las respuestas y da espacio para pensar a todo el grupo._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Evaluación Formativa y Feedback, Pensamiento Crítico y Metacognición, Comunicación y Creatividad
+
+_Palabras clave: evaluación formativa, tiempo de espera, preguntas, participación, gestión de aula_
+
+El «tiempo de espera» es la pausa deliberada que el docente mantiene después de hacer una pregunta (antes de que alguien responda) y después de que un alumno responda (antes de comentar o repreguntar). La investigación muestra que basta con ampliar esa pausa a unos tres a cinco segundos para que las respuestas sean más largas, más razonadas y participe más alumnado.
+
+El silencio incomoda al principio, pero es precisamente lo que permite que el pensamiento ocurra; sin él, solo responden los más rápidos o impulsivos.
+
+#### Cómo se aplica
+
+1. Tras formular la pregunta, cuenta mentalmente unos segundos antes de aceptar respuestas (tiempo de espera 1).
+2. Resiste la tentación de romper el silencio reformulando o respondiendo tú mismo.
+3. Cuando un alumno termina de responder, espera de nuevo unos segundos antes de valorar o repreguntar (tiempo de espera 2): a menudo el propio alumno amplía o matiza.
+4. Acompaña la espera con señales de que pensar está bien («tómate tu tiempo», sin presión).
+5. Combínalo con preguntar sin manos levantadas para que todos usen ese tiempo.
+
+#### Ejemplo
+
+Un docente de filosofía pregunta «¿qué diferencia hay entre saber y creer?» y, en lugar de aceptar la primera mano alzada al segundo, espera cinco segundos en silencio. En ese tiempo varios alumnos que no solían intervenir elaboran una idea. Tras la primera respuesta, espera de nuevo: el alumno, sin presión, añade un matiz que enriquece el debate.
+
+**Técnicas relacionadas:** Parada de tres minutos, Pregunta el porqué, Think-Pair-Share (Piensa-Pareja-Comparte), Preguntar sin manos levantadas (cold calling)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Intercambios orales, Sondeo y cuestionamiento
+
+- *Instrumentos:* Registro de participación
+
+- *Dimensiones:* Finalidad formativa
+
+---
+
+
+### 23. Aprendizaje personalizado con itinerarios (playlists) `metac_175`
+
+_Modelo en el que el alumnado avanza por una secuencia de actividades (una «lista de reproducción») a su propio ritmo y, en parte, según sus necesidades y elecciones. El docente libera tiempo para atender individualmente y el progreso se basa en el dominio, no en el reloj._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Evaluación Formativa y Feedback, Construcción de conocimiento, Activación de conocimientos previos
+
+_Palabras clave: aprendizaje personalizado, itinerarios, ritmo propio, atención a la diversidad, dominio_
+
+El aprendizaje personalizado mediante itinerarios o «playlists» organiza el contenido de una unidad como una secuencia de actividades que el alumnado recorre a su propio ritmo, con cierta capacidad de elección sobre el orden, el formato o el nivel. Como no todos avanzan al unísono, el docente deja de explicar a la vez para todos y dedica el tiempo a apoyar individualmente o en pequeños grupos a quien lo necesita.
+
+Es un modelo emparentado con el aula invertida y el aprendizaje de dominio: se avanza a la siguiente etapa cuando se demuestra el dominio de la anterior, no cuando lo marca el calendario. Requiere materiales bien estructurados y un sistema claro de seguimiento.
+
+#### Cómo se aplica
+
+1. Define los objetivos de aprendizaje de la unidad y los hitos de dominio que hay que demostrar.
+2. Diseña la lista de actividades (explicaciones, lecturas, vídeos, prácticas, comprobaciones), con obligatorias y opcionales según el nivel.
+3. Cada alumno recibe su itinerario y avanza a su ritmo, registrando su progreso en un panel.
+4. El docente monitoriza el panel y dedica el tiempo de aula a atención individualizada y a pequeños grupos con dificultades comunes.
+5. Se comprueba el dominio en puntos de control antes de pasar a la siguiente etapa; quien lo necesita, refuerza; quien va avanzado, profundiza.
+
+#### Ejemplo
+
+En una unidad de matemáticas, cada alumno recibe una lista con vídeos, ejercicios autocorregibles y mini-retos, además de comprobaciones de dominio. Mientras la mayoría practica de forma autónoma, el docente reúne a los cuatro alumnos que fallan en un mismo concepto y se lo reexplica. Quien ya domina lo básico pasa a retos de ampliación. Nadie espera al resto ni se queda atrás sin apoyo.
+
+**Técnicas relacionadas:** Contrato de aprendizaje, Estaciones de aprendizaje, Flipped Classroom (Aula invertida), Aprendizaje de dominio
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Análisis de producciones
+
+- *Instrumentos:* Escala de progreso, Panel de progreso
+
+- *Dimensiones:* Evaluación continua, Finalidad formativa, Evaluación inclusiva y DUA
 
 ---
 
@@ -6005,7 +6859,7 @@ Técnica de diálogo estructurado en torno a un texto, una imagen, un problema o
 #### Ejemplo
 En filosofía o biología, el grupo analiza un texto sobre bioética. Los alumnos preparan preguntas y durante el seminario discuten qué criterios deberían guiar una decisión científica con implicaciones sociales.
 
-**Técnicas relacionadas:** Controversia académica, Equipos de oyentes, Fishbowl (Pecera), La mesa redonda, Tertulia dialógica, Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Tira y afloja
+**Técnicas relacionadas:** Controversia académica, Equipos de oyentes, Fishbowl (Pecera), La mesa redonda, Tertulia dialógica, Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Tira y afloja, Filosofía para Niños (P4C), Debate académico, Comunidad de indagación (Community of Inquiry)
 
 **Cómo evaluar:**
 
@@ -6136,7 +6990,7 @@ Está muy relacionada con la controversia académica, pero aquí se subraya de f
 #### Ejemplo
 En biología y ciudadanía, la clase debate si debe limitarse la venta de bebidas energéticas a menores. Cada equipo analiza datos sobre cafeína, hábitos de consumo, salud y libertad de elección. Después defiende una postura, escucha objeciones y redacta una síntesis final con condiciones, límites y evidencias.
 
-**Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Mapa de argumentos, Tira y afloja
+**Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Mapa de argumentos, Tira y afloja, Debate académico
 
 **Cómo evaluar:**
 
@@ -6176,13 +7030,88 @@ El pensamiento en voz alta es una técnica de modelado en la que el docente verb
 #### Ejemplo
 En una actividad de comprensión lectora, el profesor lee un párrafo y dice: “No conozco esta palabra, pero por la frase anterior parece que indica una causa. Voy a seguir leyendo para comprobarlo”. Después los alumnos practican la misma estrategia por parejas.
 
-**Técnicas relacionadas:** Tutoría entre iguales (Peer Tutoring), Enseñanza recíproca, Ejemplos resueltos, Liberación gradual de la responsabilidad
+**Técnicas relacionadas:** Tutoría entre iguales (Peer Tutoring), Enseñanza recíproca, Ejemplos resueltos, Liberación gradual de la responsabilidad, Autoexplicación, Andamiaje y zona de desarrollo próximo (ZDP)
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Dimensiones:* Evidencia de desempeño, Evaluación inclusiva y DUA
+
+---
+
+
+### 8. Autoexplicación `metac_156`
+
+_Estrategia metacognitiva en la que el alumnado se explica a sí mismo, en voz alta o por escrito, qué significa lo que estudia y por qué cada paso es correcto. Hace aflorar lagunas, integra el conocimiento y mejora la comprensión y la transferencia._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Pensamiento Crítico y Metacognición, Construcción de conocimiento, Procesamiento y Análisis de la información
+
+_Palabras clave: metacognición, autoexplicación, ciencia cognitiva, comprensión, autorregulación_
+
+La autoexplicación consiste en que el alumnado verbalice para sí mismo el sentido de lo que lee o resuelve: por qué un paso lleva al siguiente, cómo se conecta una idea con otra o qué principio justifica una solución. Al hacerlo explícito, detecta lo que no entiende y construye una representación más coherente del contenido.
+
+A diferencia de releer (pasiva), la autoexplicación es una actividad generativa: el alumnado produce el razonamiento, no solo lo recibe.
+
+#### Cómo se aplica
+
+1. Mientras el alumnado lee un texto o estudia un ejemplo resuelto, le pides que se detenga en puntos clave.
+2. En cada punto se autoexplica: «esto significa que…», «este paso se hace porque…», «esto se relaciona con…».
+3. Puede hacerse en voz alta, por escrito o en parejas (uno explica, otro escucha y pregunta).
+4. Cuando no logra explicar algo, ha localizado una laguna: vuelve al material para resolverla.
+5. El docente modela primero la autoexplicación en voz alta para que el alumnado vea cómo se hace.
+
+#### Ejemplo
+
+Al estudiar un problema de física ya resuelto, el alumno no se limita a leer la solución: en cada línea se pregunta y se responde por qué se aplica esa fórmula y de dónde sale cada valor. Al llegar a un paso que no sabe justificar, se da cuenta de que no entendía la conservación de la energía y vuelve sobre ese concepto antes de seguir.
+
+**Técnicas relacionadas:** Escalera de metacognición, Los 5 porqués, Pensamiento en voz alta, Interrogación elaborativa
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Intercambios orales, Análisis de procesos y reflexiones
+
+- *Instrumentos:* Escala de autoevaluación
+
+- *Dimensiones:* Autoevaluación, Finalidad formativa
+
+---
+
+
+### 9. Filosofía para Niños (P4C) `metac_161`
+
+_Enfoque en el que el grupo se constituye en «comunidad de indagación» para dialogar de forma rigurosa sobre preguntas filosóficas que surgen de un estímulo (un cuento, una imagen, un dilema). Desarrolla el pensamiento crítico, creativo y cuidadoso, y la escucha._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Pensamiento Crítico y Metacognición, Comunicación y Creatividad, Cohesión y Cooperación
+
+_Palabras clave: pensamiento crítico, diálogo, comunidad de indagación, filosofía, Lipman_
+
+Filosofía para Niños (Philosophy for Children, P4C), creado por Matthew Lipman, propone convertir el aula en una comunidad de indagación: un grupo que piensa en común, dialoga con razones y se cuestiona a sí mismo. A partir de un estímulo (un relato, una imagen, un objeto o un dilema), el propio alumnado formula las preguntas que le interesan y elige una para investigarla colectivamente mediante el diálogo.
+
+No busca llegar a una respuesta única ni que el docente transmita contenidos, sino desarrollar un pensamiento de mayor calidad: crítico (con razones), creativo (con ideas nuevas) y cuidadoso (atento a los demás). El docente actúa como facilitador, no como experto que corrige.
+
+#### Cómo se aplica
+
+1. Se crea un clima de comunidad: el grupo se sienta en círculo para verse y escucharse.
+2. Se presenta un estímulo compartido (cuento, imagen, vídeo, dilema) y se da un tiempo para pensar.
+3. El alumnado formula preguntas que le suscita el estímulo; se recogen a la vista de todos.
+4. El grupo elige, por consenso o votación, la pregunta que quiere investigar.
+5. Se dialoga guiados por el facilitador, que no da respuestas pero pide razones, ejemplos, contraejemplos y conexiones («¿por qué?», «¿estás de acuerdo?», «¿en qué te basas?»).
+6. Se cierra con una metacognición: qué hemos pensado, cómo ha cambiado nuestra idea, qué queda abierto.
+
+#### Ejemplo
+
+Tras leer un cuento en el que un personaje miente para proteger a un amigo, el alumnado formula preguntas y elige investigar «¿está bien mentir alguna vez?». En círculo, unos defienden que mentir siempre es malo y otros aportan casos en que parece justificado. El facilitador pide razones y contraejemplos. Al final, nadie ha «ganado», pero todos han afinado sus argumentos y han aprendido a escuchar y a matizar.
+
+**Técnicas relacionadas:** Círculo de puntos de vista, Fishbowl (Pecera), Seminario socrático, Tertulia dialógica
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Intercambios orales
+
+- *Instrumentos:* Registro de participación, Rúbrica oral
+
+- *Dimensiones:* Finalidad formativa, Heteroevaluación
 
 ---
 
@@ -6216,7 +7145,7 @@ Técnica de discusión en la que un pequeño grupo dialoga en el centro mientras
 #### Ejemplo
 En ciencias sociales, el grupo central debate si una ciudad debería limitar el tráfico privado. Los observadores anotan argumentos basados en datos, preguntas relevantes y momentos en los que se escucha o no a los demás.
 
-**Técnicas relacionadas:** Controversia académica, La mesa redonda, Seminario socrático, Talking Chips (Fichas de conversación), Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias
+**Técnicas relacionadas:** Controversia académica, La mesa redonda, Seminario socrático, Talking Chips (Fichas de conversación), Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Filosofía para Niños (P4C), Debate académico
 
 **Cómo evaluar:**
 
@@ -6257,7 +7186,7 @@ Los pósteres se colocan en las paredes del aula. Los grupos rotan por la clase 
 
 **Recursos:** [Muro interactivo](https://jjdeharo.github.io/directo/muro.html)
 
-**Técnicas relacionadas:** Graffiti Cooperativo, Visual Thinking (pensamiento visual), World Café, Revisión entre iguales (peer review)
+**Técnicas relacionadas:** Graffiti Cooperativo, Visual Thinking (pensamiento visual), World Café, Revisión entre iguales (peer review), Conversación escrita en silencio (Chalk Talk)
 
 **Cómo evaluar:**
 
@@ -6317,7 +7246,7 @@ Cada grupo representa visualmente el problema, las posibles acciones, las person
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
-**Técnicas relacionadas:** CSI: Color, Símbolo, Imagen, Digital storytelling (relatos digitales), Gallery Walk (Paseo por la galería), Mapa conceptual a cuatro bandas, Role on the Wall (Silueta del personaje), Modelo Frayer, Generar, ordenar, conectar, elaborar
+**Técnicas relacionadas:** CSI: Color, Símbolo, Imagen, Digital storytelling (relatos digitales), Gallery Walk (Paseo por la galería), Doble codificación (dual coding), Mapa conceptual a cuatro bandas, Role on the Wall (Silueta del personaje), Modelo Frayer, Generar, ordenar, conectar, elaborar, Mapa mental
 
 **Cómo evaluar:**
 
@@ -6411,7 +7340,7 @@ En literatura, tras leer un fragmento de una novela sobre una decisión difícil
 
 El profesor no busca una única interpretación correcta, sino que ayuda a que el grupo justifique sus aportaciones, escuche puntos de vista diferentes y construya una comprensión más rica del texto.
 
-**Técnicas relacionadas:** Lectura compartida, Lectura fantasma, Palabra, idea, frase, Seminario socrático, Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Mapa de argumentos, Enseñanza recíproca
+**Técnicas relacionadas:** Lectura compartida, Lectura fantasma, Palabra, idea, frase, Seminario socrático, Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Mapa de argumentos, Enseñanza recíproca, Filosofía para Niños (P4C), Comunidad de indagación (Community of Inquiry)
 
 **Cómo evaluar:**
 
@@ -6420,6 +7349,81 @@ El profesor no busca una única interpretación correcta, sino que ayuda a que e
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Resolución de problemas
+
+---
+
+
+### 6. Debate académico `metac_162`
+
+_Confrontación oral estructurada en la que dos equipos defienden posturas opuestas sobre una moción, con turnos reglados de exposición, refutación y conclusión. Desarrolla la argumentación, la búsqueda de evidencias, la escucha activa y la expresión oral._
+
+**Bloque:** Organización del aprendizaje cooperativo · **Ámbitos:** Comunicación y Creatividad, Pensamiento Crítico y Metacognición, Procesamiento y Análisis de la información, Cohesión y Cooperación
+
+_Palabras clave: debate, argumentación, expresión oral, evidencias, pensamiento crítico_
+
+El debate académico es una actividad formal en la que dos equipos asumen posturas contrarias (a favor y en contra) sobre una afirmación o moción, y las defienden siguiendo unas reglas de turnos y tiempos. A diferencia de una discusión libre, su estructura obliga a preparar argumentos sólidos, anticipar los del rival y responder con evidencias, no con opiniones.
+
+Un rasgo formativo importante es que el equipo no siempre defiende lo que piensa: al asignarse las posturas, el alumnado debe documentar y argumentar también posiciones que no comparte, lo que desarrolla la empatía intelectual y el pensamiento crítico.
+
+#### Cómo se aplica
+
+1. Se formula una moción clara y debatible (por ejemplo, «los móviles deberían prohibirse en los centros»).
+2. Se forman dos equipos y se les asigna la postura a favor o en contra (no necesariamente la propia).
+3. Cada equipo investiga y prepara argumentos, evidencias y posibles refutaciones.
+4. Se desarrolla el debate por turnos cronometrados: exposición inicial, turnos de refutación y conclusiones.
+5. Un moderador controla los tiempos y un jurado (o el resto de la clase, con una rúbrica) valora la calidad argumentativa, no solo «quién convence más».
+6. Se cierra con una reflexión conjunta sobre los mejores argumentos de ambos lados.
+
+#### Ejemplo
+
+En una clase de secundaria, la moción es «la inteligencia artificial debería corregir los exámenes». Un equipo defiende la postura a favor y otro la contraria, asignadas por sorteo. Cada uno aporta datos y ejemplos, refuta al contrario y concluye. La clase valora con una rúbrica la solidez de los argumentos y el respeto de los turnos, y después se discute qué razones han resultado más convincentes.
+
+**Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Controversia estructurada con evidencias
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Intercambios orales
+
+- *Instrumentos:* Escala de valoración, Rúbrica oral
+
+- *Dimensiones:* Enfoque competencial, Evaluación compartida y participativa, Heteroevaluación
+
+---
+
+
+### 7. Hora del genio (Genius Hour) `metac_174`
+
+_Tiempo reservado periódicamente para que el alumnado investigue y desarrolle un proyecto sobre un tema de su propia elección, guiado por su curiosidad. Fomenta la motivación intrínseca, la autonomía y la responsabilidad sobre el propio aprendizaje._
+
+**Bloque:** Metodologías activas · **Ámbitos:** Comunicación y Creatividad, Resolución de problemas y Retos, Pensamiento Crítico y Metacognición
+
+_Palabras clave: motivación intrínseca, autonomía, proyecto personal, curiosidad, aprendizaje autónomo_
+
+La «hora del genio» (Genius Hour), inspirada en la práctica de algunas empresas de dedicar una parte del tiempo laboral a proyectos personales, consiste en reservar de forma regular un tiempo de clase para que cada alumno (o grupo) investigue una pregunta o desarrolle un proyecto que él mismo ha elegido por interés genuino.
+
+Al ser el alumnado quien decide el tema, la motivación es intrínseca: aprende porque quiere saber, no porque se lo manden. El docente acompaña, ayuda a acotar el proyecto, facilita recursos y exige rigor, pero no impone el contenido.
+
+#### Cómo se aplica
+
+1. Se reserva un tiempo periódico fijo (por ejemplo, una sesión a la semana) dedicado al proyecto personal.
+2. Cada alumno formula una pregunta o reto que le interese de verdad y lo plantea como proyecto investigable.
+3. El docente valida que sea abordable, ayuda a concretarlo y acuerda un producto o resultado esperado.
+4. El alumnado investiga, crea y documenta su avance (bitácora), gestionando su tiempo de forma autónoma.
+5. Al terminar, comparte el resultado con la clase y reflexiona sobre el proceso, los obstáculos y lo aprendido.
+
+#### Ejemplo
+
+Una alumna apasionada por los animales dedica su hora del genio a investigar por qué desaparecen las abejas y qué se puede hacer. Define la pregunta, busca información rigurosa, entrevista a un apicultor y elabora una campaña de sensibilización para el centro. El docente la orienta y le exige fuentes fiables; ella aprende biología, comunicación y gestión de proyectos movida por su propio interés.
+
+**Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Contrato de aprendizaje, Proyectos de Aprendizaje-Servicio (ApS o ABS)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de procesos y reflexiones, Análisis de producciones
+
+- *Instrumentos:* Rúbrica de proceso
+
+- *Dimensiones:* Autoevaluación, Enfoque competencial, Trabajo por proyectos
 
 ---
 
@@ -6457,7 +7461,7 @@ Modelo de diseño curricular que propone planificar de atrás hacia delante. En 
 #### Ejemplo
 Antes de diseñar una unidad sobre ecosistemas, el profesor define que el alumnado debe explicar relaciones tróficas y justificar desequilibrios. Después decide qué tarea servirá como evidencia y, finalmente, planifica prácticas, lecturas y debates.
 
-**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía de Bloom, Evaluación auténtica, Guías de orientación, Teoría de la carga cognitiva
+**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía de Bloom, Evaluación auténtica, Guías de orientación, Teoría de la carga cognitiva, Alineamiento constructivo
 
 **Cómo evaluar:**
 
@@ -6546,7 +7550,7 @@ Modelo que ayuda a valorar la calidad de la comprensión que muestra el alumnado
 #### Ejemplo
 Ante una pregunta sobre selección natural, un alumno puede mencionar solo un factor, relacionar varios factores o aplicar el concepto a una situación nueva. La taxonomía SOLO permite distinguir estos niveles.
 
-**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Aprendizaje visible (Visible Learning), Rúbrica de evaluación
+**Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Aprendizaje visible (Visible Learning), Rúbrica de evaluación, Alineamiento constructivo, Marco ICAP
 
 **Cómo evaluar:**
 
@@ -6592,7 +7596,7 @@ Marco de clasificación de procesos cognitivos que ayuda a formular objetivos, a
 #### Ejemplo
 En una unidad de biología, el alumnado puede recordar términos, explicar procesos, aplicar un modelo, analizar datos, evaluar una conclusión o crear una propuesta experimental.
 
-**Técnicas relacionadas:** Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Rúbrica de evaluación
+**Técnicas relacionadas:** Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Rúbrica de evaluación, Alineamiento constructivo, Marco ICAP
 
 **Cómo evaluar:**
 
@@ -6630,7 +7634,7 @@ Enfoque de evaluación que propone tareas significativas, contextualizadas y cer
 #### Ejemplo
 En lugar de responder solo preguntas sobre nutrición, el alumnado diseña una propuesta de menú saludable para una situación concreta y justifica sus decisiones con criterios científicos.
 
-**Técnicas relacionadas:** Aplica los conocimientos, Aprendizaje basado en proyectos (ABProyectos), Portfolio (dosier de aprendizaje), Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación
+**Técnicas relacionadas:** Aplica los conocimientos, Aprendizaje basado en proyectos (ABProyectos), Portfolio (dosier de aprendizaje), Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación, Alineamiento constructivo
 
 **Cómo evaluar:**
 
@@ -6669,7 +7673,7 @@ Enfoque que orienta la toma de decisiones docentes hacia prácticas con impacto 
 #### Ejemplo
 En una actividad de escritura, el profesor comparte criterios claros, revisa borradores, da feedback específico y pide al alumnado que indique qué mejora concreta aplicará en la siguiente versión.
 
-**Técnicas relacionadas:** Contrato de aprendizaje, Taxonomía SOLO, Rúbrica de evaluación, Dos estrellas y un deseo, Aprendizaje de dominio, Hábitos mentales
+**Técnicas relacionadas:** Contrato de aprendizaje, Taxonomía SOLO, Rúbrica de evaluación, Dos estrellas y un deseo, Aprendizaje de dominio, Hábitos mentales, Marco ICAP
 
 **Cómo evaluar:**
 
@@ -6979,12 +7983,174 @@ La teoría de la carga cognitiva es un marco de John Sweller que analiza los lí
 #### Ejemplo
 En física, los primeros problemas de movimiento se presentan con los datos ya identificados y la fórmula seleccionada. El alumnado se centra en interpretar el procedimiento. En problemas posteriores, debe identificar por sí mismo los datos, elegir la fórmula y justificar el resultado.
 
-**Técnicas relacionadas:** Diseño para la comprensión (Understanding by Design, UbD), Práctica espaciada, Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad
+**Técnicas relacionadas:** Doble codificación (dual coding), Diseño para la comprensión (Understanding by Design, UbD), Práctica espaciada, Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad, Ejemplos concretos
 
 **Cómo evaluar:**
 
 - *Técnicas de evaluación:* Análisis documental, Análisis de producciones
 
 - *Dimensiones:* Evaluación inclusiva y DUA, Resolución de problemas
+
+---
+
+
+### 14. Andamiaje y zona de desarrollo próximo (ZDP) `metac_180`
+
+_Marco basado en Vygotsky: la zona de desarrollo próximo es la distancia entre lo que el alumnado puede hacer solo y lo que puede lograr con ayuda. El andamiaje son los apoyos temporales que el docente o un compañero ofrecen y retiran a medida que se logra autonomía._
+
+**Bloque:** Marcos educativos · **Ámbitos:** Diseño y análisis educativo, Construcción de conocimiento, Evaluación Formativa y Feedback
+
+_Palabras clave: Vygotsky, andamiaje, zona de desarrollo próximo, scaffolding, aprendizaje guiado_
+
+La zona de desarrollo próximo (ZDP), concepto de Lev Vygotsky, designa el margen entre lo que un alumno puede hacer por sí mismo y lo que puede llegar a hacer con la ayuda de alguien más capaz (el docente o un compañero). El aprendizaje más eficaz se produce precisamente en esa zona: tareas que no son ni demasiado fáciles ni inabordables en solitario.
+
+El andamiaje (scaffolding) es la metáfora de los apoyos que se proporcionan dentro de esa zona: pistas, modelos, preguntas, organizadores o guías que sostienen al alumnado mientras lo necesita y que se van retirando progresivamente a medida que gana autonomía, igual que un andamio se desmonta cuando el edificio se sostiene solo.
+
+#### Cómo se aplica
+
+1. Averigua qué puede hacer el alumnado solo y qué queda justo por encima de su nivel actual (su ZDP).
+2. Propón tareas situadas en esa zona: alcanzables con ayuda, pero no sin ella.
+3. Ofrece andamios adecuados: modelar el proceso, dar pistas, descomponer la tarea, proporcionar plantillas o ejemplos.
+4. Observa el progreso y retira los apoyos de forma gradual a medida que el alumnado demuestra dominio.
+5. Ajusta continuamente: si la tarea resulta inabordable, refuerza el andamiaje; si es trivial, eleva el reto.
+
+#### Ejemplo
+
+Un alumno sabe resolver ecuaciones sencillas pero no las de dos pasos. El docente sitúa la tarea en su ZDP y le da andamios: primero resuelve una junto a él pensando en voz alta, luego le ofrece una plantilla con los pasos, después solo una pista («¿qué haces primero?») y, finalmente, le retira todo apoyo. El alumno acaba resolviéndolas de forma autónoma.
+
+**Técnicas relacionadas:** Tutoría entre iguales (Peer Tutoring), Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática, Análisis de procesos y reflexiones
+
+- *Instrumentos:* Escala de observación, Escala de progreso
+
+- *Dimensiones:* Finalidad formativa, Evaluación inclusiva y DUA
+
+---
+
+
+### 15. Alineamiento constructivo `metac_181`
+
+_Principio de diseño didáctico de John Biggs: los objetivos de aprendizaje, las actividades y la evaluación deben estar coherentemente alineados. El alumnado aprende «construyendo» a través de actividades que conducen directamente a demostrar los objetivos previstos._
+
+**Bloque:** Marcos educativos · **Ámbitos:** Diseño y análisis educativo, Evaluación Formativa y Feedback, Pensamiento Crítico y Metacognición
+
+_Palabras clave: Biggs, diseño didáctico, alineamiento, constructivismo, evaluación coherente_
+
+El alineamiento constructivo, formulado por John Biggs, combina dos ideas. La «constructiva» procede del constructivismo: el alumnado aprende construyendo significado a través de lo que hace. El «alineamiento» exige que tres elementos del diseño didáctico apunten en la misma dirección: los resultados de aprendizaje previstos, las actividades de enseñanza-aprendizaje y las tareas de evaluación.
+
+La clave es la coherencia: si un objetivo dice que el alumnado debe «analizar», las actividades deben hacerle analizar y la evaluación debe pedir que analice (no que recuerde). Cuando los tres elementos están alineados, se elimina el desajuste habitual entre lo que se dice que se busca, lo que se hace en clase y lo que finalmente se examina.
+
+#### Cómo se aplica
+
+1. Formula los resultados de aprendizaje con verbos que expresen el nivel cognitivo deseado (explicar, aplicar, diseñar, evaluar…).
+2. Diseña actividades de aula que obliguen al alumnado a poner en práctica justamente ese verbo.
+3. Diseña la evaluación de modo que la tarea pedida demuestre directamente ese mismo resultado, con criterios coherentes.
+4. Revisa la coherencia: comprueba que objetivo, actividad y evaluación comparten el mismo nivel y tipo de aprendizaje.
+5. Ajusta cualquier elemento desalineado (por ejemplo, un objetivo de «aplicar» evaluado con un examen de memorización).
+
+#### Ejemplo
+
+Si el objetivo es «el alumnado será capaz de diseñar un experimento para responder una pregunta», las actividades no pueden limitarse a leer sobre el método científico: el alumnado debe diseñar experimentos en clase. Y la evaluación, en consecuencia, le pedirá diseñar uno (no responder un test sobre las fases). Objetivo, práctica y prueba quedan alineados.
+
+**Técnicas relacionadas:** Diseño para la comprensión (Understanding by Design, UbD), Taxonomía SOLO, Taxonomía de Bloom, Evaluación auténtica
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Triangulación de evidencias
+
+- *Instrumentos:* Matriz de valoración, Rúbrica competencial
+
+- *Dimensiones:* Enfoque competencial, Evaluación criterial, Finalidad formativa
+
+---
+
+
+### 16. Marco ICAP `metac_182`
+
+_Marco de Michelene Chi que clasifica el grado de implicación cognitiva del alumnado en cuatro modos —Interactivo, Constructivo, Activo y Pasivo— y predice que el aprendizaje mejora a medida que se asciende: Interactivo > Constructivo > Activo > Pasivo._
+
+**Bloque:** Marcos educativos · **Ámbitos:** Diseño y análisis educativo, Pensamiento Crítico y Metacognición, Construcción de conocimiento
+
+_Palabras clave: ICAP, Chi, implicación cognitiva, diseño de actividades, aprendizaje activo_
+
+El marco ICAP, propuesto por Michelene Chi, ofrece una forma sencilla de valorar y elevar la calidad cognitiva de las actividades de aprendizaje según el tipo de comportamiento que provocan en el alumnado. Distingue cuatro modos de implicación, de menor a mayor eficacia:
+
+**PASIVO:** el alumnado recibe información sin hacer nada observable (escuchar una explicación, ver un vídeo).
+
+**ACTIVO:** hace algo físico con el material pero sin generar contenido nuevo (subrayar, copiar, repetir).
+
+**CONSTRUCTIVO:** produce algo que va más allá de lo dado (resumir con sus palabras, hacer un esquema, plantear preguntas, explicar).
+
+**INTERACTIVO:** construye en diálogo con otro, de modo que las aportaciones se enriquecen mutuamente (discutir, debatir, co-crear).
+
+La hipótesis ICAP sostiene que el aprendizaje aumenta al subir de nivel: Interactivo > Constructivo > Activo > Pasivo. Es una guía práctica para rediseñar actividades hacia modos más exigentes.
+
+#### Cómo se aplica
+
+1. Analiza una actividad y clasifícala en uno de los cuatro modos según lo que realmente hace el alumnado.
+2. Si es pasiva o activa, rediséñala para que sea al menos constructiva (que el alumnado genere algo propio).
+3. Cuando sea posible, eleva a interactiva añadiendo diálogo genuino entre iguales sobre lo construido.
+4. Asegúrate de que el modo «interactivo» lo sea de verdad: que ambos aporten y se respondan, no que uno solo trabaje.
+5. Usa el marco para equilibrar la sesión, reduciendo el tiempo en modo pasivo.
+
+#### Ejemplo
+
+En lugar de que el alumnado solo escuche la explicación de un texto (pasivo) o lo subraye (activo), el docente le pide primero resumirlo con sus palabras y formular preguntas (constructivo) y después discutir esas preguntas en parejas elaborando juntos una respuesta (interactivo). La misma materia, abordada en un modo ICAP superior, produce un aprendizaje más profundo.
+
+**Técnicas relacionadas:** Peer Instruction (Instrucción entre iguales), Taxonomía SOLO, Taxonomía de Bloom, Aprendizaje visible (Visible Learning)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Observación sistemática
+
+- *Instrumentos:* Escala de observación, Rúbrica de proceso
+
+- *Dimensiones:* Evidencia de desempeño, Finalidad formativa
+
+---
+
+
+### 17. Comunidad de indagación (Community of Inquiry) `metac_183`
+
+_Marco para diseñar y evaluar el aprendizaje en línea o híbrido, basado en tres presencias que deben coincidir: cognitiva, social y docente. Sostiene que un aprendizaje profundo en entornos virtuales surge de la interacción equilibrada de las tres._
+
+**Bloque:** Marcos educativos · **Ámbitos:** Diseño y análisis educativo, Comunicación y Creatividad, Pensamiento Crítico y Metacognición
+
+_Palabras clave: aprendizaje en línea, comunidad de indagación, CoI, presencia docente, aprendizaje híbrido_
+
+El marco de la Comunidad de Indagación (Community of Inquiry, CoI), desarrollado por Garrison, Anderson y Archer, explica qué hace falta para que el aprendizaje en entornos en línea o híbridos sea profundo y no una mera transmisión de materiales. Propone que la experiencia educativa de calidad surge de la intersección de tres «presencias»:
+
+**PRESENCIA COGNITIVA:** el grado en que el alumnado construye y confirma significado mediante la reflexión y el diálogo sostenido (explorar, integrar, resolver).
+
+**PRESENCIA SOCIAL:** la capacidad de los participantes de mostrarse como personas reales, comunicarse con confianza y sentirse parte de un grupo.
+
+**PRESENCIA DOCENTE:** el diseño, la facilitación y la orientación que estructuran la experiencia y mantienen el foco.
+
+El aprendizaje significativo se da donde las tres presencias se solapan; si falta alguna (por ejemplo, foros sin facilitación o sin clima de confianza), la indagación se debilita.
+
+#### Cómo se aplica
+
+1. Diseña la experiencia (presencia docente): objetivos claros, secuencia de actividades y espacios de interacción bien estructurados.
+2. Cuida la presencia social desde el inicio: dinámicas de presentación, normas de respeto y un clima en el que sea seguro participar.
+3. Promueve la presencia cognitiva con tareas que exijan indagar y dialogar: preguntas detonantes, foros de discusión, construcción colaborativa.
+4. Facilita de forma activa: modera los debates, sintetiza, reorienta y da feedback, sin desaparecer ni acaparar.
+5. Evalúa observando las tres presencias (calidad del diálogo, participación, sentido de comunidad) y ajusta el diseño.
+
+#### Ejemplo
+
+En un curso semipresencial, el docente lanza en un foro una pregunta detonante sobre un dilema real (presencia cognitiva), tras haber creado antes un clima de confianza con presentaciones y normas de participación (presencia social), y modera el hilo sintetizando aportaciones y repreguntando (presencia docente). El resultado no es un buzón de mensajes sueltos, sino una indagación colectiva que profundiza en el tema.
+
+**Técnicas relacionadas:** Flipped Classroom (Aula invertida), Seminario socrático, Tertulia dialógica, Revisión entre iguales (peer review)
+
+**Cómo evaluar:**
+
+- *Técnicas de evaluación:* Análisis de interacciones digitales
+
+- *Instrumentos:* Analíticas de aprendizaje, Rúbrica digital
+
+- *Dimensiones:* Evaluación compartida y participativa, Evidencias digitales, Finalidad formativa
 
 ---

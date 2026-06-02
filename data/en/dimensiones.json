@@ -64,7 +64,17 @@
         "HER_REG_COMP": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_015",
+      "metac_029",
+      "metac_030",
+      "metac_034",
+      "metac_037",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_122"
+    ]
   },
   {
     "id": "DIM_COEV",
@@ -129,7 +139,17 @@
         "HER_FORM_DIG": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_020",
+      "metac_029",
+      "metac_042",
+      "metac_044",
+      "metac_049",
+      "metac_085",
+      "metac_122",
+      "metac_129",
+      "metac_130"
+    ]
   },
   {
     "id": "DIM_HET",
@@ -257,7 +277,39 @@
         "INS_LLUVIA": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_003",
+      "metac_009",
+      "metac_010",
+      "metac_012",
+      "metac_018",
+      "metac_024",
+      "metac_032",
+      "metac_034",
+      "metac_039",
+      "metac_043",
+      "metac_051",
+      "metac_052",
+      "metac_059",
+      "metac_068",
+      "metac_071",
+      "metac_072",
+      "metac_074",
+      "metac_075",
+      "metac_081",
+      "metac_082",
+      "metac_084",
+      "metac_095",
+      "metac_098",
+      "metac_099",
+      "metac_127",
+      "metac_131",
+      "metac_137",
+      "metac_138",
+      "metac_145",
+      "metac_146",
+      "metac_149"
+    ]
   },
   {
     "id": "DIM_FORM",
@@ -400,7 +452,84 @@
         "HER_SOCIO": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_007",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_018",
+      "metac_020",
+      "metac_023",
+      "metac_024",
+      "metac_025",
+      "metac_027",
+      "metac_029",
+      "metac_030",
+      "metac_032",
+      "metac_034",
+      "metac_036",
+      "metac_037",
+      "metac_039",
+      "metac_040",
+      "metac_041",
+      "metac_042",
+      "metac_043",
+      "metac_044",
+      "metac_045",
+      "metac_049",
+      "metac_050",
+      "metac_051",
+      "metac_052",
+      "metac_056",
+      "metac_058",
+      "metac_060",
+      "metac_066",
+      "metac_067",
+      "metac_068",
+      "metac_069",
+      "metac_070",
+      "metac_071",
+      "metac_073",
+      "metac_077",
+      "metac_079",
+      "metac_080",
+      "metac_082",
+      "metac_083",
+      "metac_085",
+      "metac_088",
+      "metac_092",
+      "metac_096",
+      "metac_098",
+      "metac_102",
+      "metac_103",
+      "metac_104",
+      "metac_105",
+      "metac_106",
+      "metac_107",
+      "metac_109",
+      "metac_110",
+      "metac_114",
+      "metac_115",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_126",
+      "metac_127",
+      "metac_128",
+      "metac_129",
+      "metac_130",
+      "metac_134",
+      "metac_136",
+      "metac_137",
+      "metac_138",
+      "metac_141",
+      "metac_144",
+      "metac_148",
+      "metac_150",
+      "metac_151"
+    ]
   },
   {
     "id": "DIM_SUM",
@@ -499,7 +628,22 @@
         "HER_RUB_DIG": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_021",
+      "metac_036",
+      "metac_055",
+      "metac_071",
+      "metac_072",
+      "metac_085",
+      "metac_095",
+      "metac_096",
+      "metac_098",
+      "metac_099",
+      "metac_101",
+      "metac_113",
+      "metac_129",
+      "metac_137"
+    ]
   },
   {
     "id": "DIM_COMP",
@@ -582,7 +726,20 @@
         "HER_MAP_EVID": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_006",
+      "metac_007",
+      "metac_010",
+      "metac_012",
+      "metac_013",
+      "metac_034",
+      "metac_040",
+      "metac_041",
+      "metac_104",
+      "metac_111",
+      "metac_115",
+      "metac_139"
+    ]
   },
   {
     "id": "DIM_DESEMP",
@@ -722,7 +879,23 @@
         "HER_CONTR_GRUP": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_009",
+      "metac_010",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_023",
+      "metac_031",
+      "metac_048",
+      "metac_062",
+      "metac_080",
+      "metac_111",
+      "metac_112",
+      "metac_123",
+      "metac_129",
+      "metac_152"
+    ]
   },
   {
     "id": "DIM_INDAG",
@@ -769,7 +942,34 @@
         "HER_GUIA_CORR": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_008",
+      "metac_010",
+      "metac_011",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_017",
+      "metac_020",
+      "metac_023",
+      "metac_034",
+      "metac_045",
+      "metac_062",
+      "metac_075",
+      "metac_077",
+      "metac_078",
+      "metac_099",
+      "metac_108",
+      "metac_110",
+      "metac_119",
+      "metac_126",
+      "metac_131",
+      "metac_133",
+      "metac_145",
+      "metac_147",
+      "metac_149",
+      "metac_152"
+    ]
   },
   {
     "id": "DIM_PROB",
@@ -816,7 +1016,78 @@
         "HER_GUIA_CORR": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_003",
+      "metac_005",
+      "metac_006",
+      "metac_008",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_017",
+      "metac_019",
+      "metac_024",
+      "metac_027",
+      "metac_028",
+      "metac_030",
+      "metac_033",
+      "metac_034",
+      "metac_036",
+      "metac_038",
+      "metac_042",
+      "metac_043",
+      "metac_045",
+      "metac_046",
+      "metac_048",
+      "metac_049",
+      "metac_050",
+      "metac_055",
+      "metac_056",
+      "metac_060",
+      "metac_062",
+      "metac_064",
+      "metac_068",
+      "metac_071",
+      "metac_076",
+      "metac_080",
+      "metac_084",
+      "metac_086",
+      "metac_090",
+      "metac_091",
+      "metac_094",
+      "metac_095",
+      "metac_097",
+      "metac_098",
+      "metac_100",
+      "metac_103",
+      "metac_104",
+      "metac_106",
+      "metac_112",
+      "metac_113",
+      "metac_114",
+      "metac_117",
+      "metac_119",
+      "metac_121",
+      "metac_122",
+      "metac_124",
+      "metac_125",
+      "metac_126",
+      "metac_127",
+      "metac_128",
+      "metac_130",
+      "metac_131",
+      "metac_133",
+      "metac_134",
+      "metac_139",
+      "metac_140",
+      "metac_142",
+      "metac_152",
+      "metac_153"
+    ]
   },
   {
     "id": "DIM_CASO",
@@ -857,7 +1128,9 @@
         "HER_ESC_DESC": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_006"
+    ]
   },
   {
     "id": "DIM_SIM",
@@ -905,7 +1178,10 @@
         "HER_REG_ANE": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_050",
+      "metac_127"
+    ]
   },
   {
     "id": "DIM_DIG",
@@ -1038,7 +1314,10 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_023",
+      "metac_104"
+    ]
   },
   {
     "id": "DIM_INCL",
@@ -1113,7 +1392,49 @@
         "HER_MAP_EVID": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_003",
+      "metac_004",
+      "metac_006",
+      "metac_009",
+      "metac_016",
+      "metac_020",
+      "metac_030",
+      "metac_035",
+      "metac_037",
+      "metac_038",
+      "metac_041",
+      "metac_045",
+      "metac_046",
+      "metac_059",
+      "metac_063",
+      "metac_068",
+      "metac_069",
+      "metac_073",
+      "metac_076",
+      "metac_078",
+      "metac_079",
+      "metac_083",
+      "metac_085",
+      "metac_088",
+      "metac_091",
+      "metac_092",
+      "metac_094",
+      "metac_095",
+      "metac_099",
+      "metac_110",
+      "metac_112",
+      "metac_113",
+      "metac_114",
+      "metac_115",
+      "metac_117",
+      "metac_120",
+      "metac_121",
+      "metac_123",
+      "metac_142",
+      "metac_143",
+      "metac_153"
+    ]
   },
   {
     "id": "DIM_CONT",
@@ -1165,7 +1486,84 @@
         "HER_HOJA_IND": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_007",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_018",
+      "metac_020",
+      "metac_023",
+      "metac_024",
+      "metac_025",
+      "metac_027",
+      "metac_029",
+      "metac_030",
+      "metac_032",
+      "metac_034",
+      "metac_036",
+      "metac_037",
+      "metac_039",
+      "metac_040",
+      "metac_041",
+      "metac_042",
+      "metac_043",
+      "metac_044",
+      "metac_045",
+      "metac_049",
+      "metac_050",
+      "metac_051",
+      "metac_052",
+      "metac_056",
+      "metac_058",
+      "metac_060",
+      "metac_066",
+      "metac_067",
+      "metac_068",
+      "metac_069",
+      "metac_070",
+      "metac_071",
+      "metac_073",
+      "metac_077",
+      "metac_079",
+      "metac_080",
+      "metac_082",
+      "metac_083",
+      "metac_085",
+      "metac_088",
+      "metac_092",
+      "metac_096",
+      "metac_098",
+      "metac_102",
+      "metac_103",
+      "metac_104",
+      "metac_105",
+      "metac_106",
+      "metac_107",
+      "metac_109",
+      "metac_110",
+      "metac_114",
+      "metac_115",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_126",
+      "metac_127",
+      "metac_128",
+      "metac_129",
+      "metac_130",
+      "metac_134",
+      "metac_136",
+      "metac_137",
+      "metac_138",
+      "metac_141",
+      "metac_144",
+      "metac_148",
+      "metac_150",
+      "metac_151"
+    ]
   },
   {
     "id": "DIM_FEED",
@@ -1221,7 +1619,87 @@
         "HER_DECL_IA": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_007",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_018",
+      "metac_020",
+      "metac_022",
+      "metac_023",
+      "metac_024",
+      "metac_025",
+      "metac_027",
+      "metac_029",
+      "metac_030",
+      "metac_032",
+      "metac_034",
+      "metac_036",
+      "metac_037",
+      "metac_039",
+      "metac_040",
+      "metac_041",
+      "metac_042",
+      "metac_043",
+      "metac_044",
+      "metac_045",
+      "metac_049",
+      "metac_050",
+      "metac_051",
+      "metac_052",
+      "metac_056",
+      "metac_058",
+      "metac_060",
+      "metac_066",
+      "metac_067",
+      "metac_068",
+      "metac_069",
+      "metac_070",
+      "metac_071",
+      "metac_073",
+      "metac_077",
+      "metac_079",
+      "metac_080",
+      "metac_082",
+      "metac_083",
+      "metac_085",
+      "metac_088",
+      "metac_092",
+      "metac_096",
+      "metac_098",
+      "metac_102",
+      "metac_103",
+      "metac_104",
+      "metac_105",
+      "metac_106",
+      "metac_107",
+      "metac_109",
+      "metac_110",
+      "metac_114",
+      "metac_115",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_125",
+      "metac_126",
+      "metac_127",
+      "metac_128",
+      "metac_129",
+      "metac_130",
+      "metac_134",
+      "metac_136",
+      "metac_137",
+      "metac_138",
+      "metac_141",
+      "metac_144",
+      "metac_148",
+      "metac_150",
+      "metac_151"
+    ]
   },
   {
     "id": "DIM_CAL_ACRED",
@@ -1333,7 +1811,10 @@
         "HER_SOCIO": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_055",
+      "metac_111"
+    ]
   },
   {
     "id": "DIM_GAMIF",
@@ -1389,7 +1870,15 @@
         "HER_ANALITICAS": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_007",
+      "metac_033",
+      "metac_050",
+      "metac_082",
+      "metac_094",
+      "metac_117",
+      "metac_121"
+    ]
   },
   {
     "id": "DIM_TRAZ_IA",
@@ -1535,6 +2024,8 @@
         "HER_ANALITICAS": "ocasional"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_069"
+    ]
   }
 ]

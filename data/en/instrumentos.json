@@ -113,7 +113,12 @@
         "TEC_PRUEBA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_104",
+      "metac_106",
+      "metac_122",
+      "metac_129"
+    ]
   },
   {
     "id": "HER_RUB_HOL",
@@ -412,7 +417,89 @@
         "INS_ESCAPE": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_001",
+      "metac_002",
+      "metac_003",
+      "metac_007",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_018",
+      "metac_019",
+      "metac_020",
+      "metac_021",
+      "metac_024",
+      "metac_025",
+      "metac_027",
+      "metac_032",
+      "metac_033",
+      "metac_034",
+      "metac_035",
+      "metac_036",
+      "metac_038",
+      "metac_039",
+      "metac_041",
+      "metac_045",
+      "metac_046",
+      "metac_049",
+      "metac_050",
+      "metac_053",
+      "metac_054",
+      "metac_055",
+      "metac_056",
+      "metac_057",
+      "metac_058",
+      "metac_059",
+      "metac_061",
+      "metac_062",
+      "metac_063",
+      "metac_065",
+      "metac_068",
+      "metac_069",
+      "metac_071",
+      "metac_072",
+      "metac_075",
+      "metac_076",
+      "metac_078",
+      "metac_079",
+      "metac_080",
+      "metac_083",
+      "metac_084",
+      "metac_086",
+      "metac_088",
+      "metac_089",
+      "metac_091",
+      "metac_092",
+      "metac_093",
+      "metac_094",
+      "metac_095",
+      "metac_098",
+      "metac_101",
+      "metac_110",
+      "metac_111",
+      "metac_112",
+      "metac_114",
+      "metac_115",
+      "metac_116",
+      "metac_117",
+      "metac_118",
+      "metac_120",
+      "metac_121",
+      "metac_123",
+      "metac_124",
+      "metac_126",
+      "metac_129",
+      "metac_130",
+      "metac_135",
+      "metac_136",
+      "metac_148",
+      "metac_152"
+    ]
   },
   {
     "id": "HER_RUB_COMP",
@@ -578,7 +665,9 @@
         "TEC_SONDEO": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_046"
+    ]
   },
   {
     "id": "HER_ESC_OBS",
@@ -1637,7 +1726,87 @@
         "TEC_PROC_REFLEX": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_007",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_018",
+      "metac_020",
+      "metac_022",
+      "metac_023",
+      "metac_024",
+      "metac_025",
+      "metac_027",
+      "metac_029",
+      "metac_030",
+      "metac_032",
+      "metac_034",
+      "metac_036",
+      "metac_037",
+      "metac_039",
+      "metac_040",
+      "metac_041",
+      "metac_042",
+      "metac_043",
+      "metac_044",
+      "metac_045",
+      "metac_049",
+      "metac_050",
+      "metac_051",
+      "metac_052",
+      "metac_056",
+      "metac_058",
+      "metac_060",
+      "metac_066",
+      "metac_067",
+      "metac_068",
+      "metac_069",
+      "metac_070",
+      "metac_071",
+      "metac_073",
+      "metac_077",
+      "metac_079",
+      "metac_080",
+      "metac_082",
+      "metac_083",
+      "metac_085",
+      "metac_088",
+      "metac_092",
+      "metac_096",
+      "metac_098",
+      "metac_102",
+      "metac_103",
+      "metac_104",
+      "metac_105",
+      "metac_106",
+      "metac_107",
+      "metac_109",
+      "metac_110",
+      "metac_114",
+      "metac_115",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_125",
+      "metac_126",
+      "metac_127",
+      "metac_128",
+      "metac_129",
+      "metac_130",
+      "metac_134",
+      "metac_136",
+      "metac_137",
+      "metac_138",
+      "metac_141",
+      "metac_144",
+      "metac_148",
+      "metac_150",
+      "metac_151"
+    ]
   },
   {
     "id": "HER_MATRIZ",
@@ -1840,7 +2009,9 @@
         "INS_F_REFLEX": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_029"
+    ]
   },
   {
     "id": "HER_SEMAFORO",
@@ -1943,7 +2114,17 @@
         "TEC_ENC_CUEST": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_015",
+      "metac_029",
+      "metac_030",
+      "metac_034",
+      "metac_037",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_122"
+    ]
   },
   {
     "id": "HER_RUB_AUTO",
@@ -1992,7 +2173,17 @@
         "INS_AUTOINF": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_015",
+      "metac_029",
+      "metac_030",
+      "metac_034",
+      "metac_037",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_122"
+    ]
   },
   {
     "id": "HER_RUB_COEV",
@@ -2039,7 +2230,17 @@
         "INS_DEF_PROY": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_020",
+      "metac_029",
+      "metac_042",
+      "metac_044",
+      "metac_049",
+      "metac_085",
+      "metac_122",
+      "metac_129",
+      "metac_130"
+    ]
   },
   {
     "id": "HER_FICHA_COEV",
@@ -2089,7 +2290,17 @@
         "INS_TRAB_COOP": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_020",
+      "metac_029",
+      "metac_042",
+      "metac_044",
+      "metac_049",
+      "metac_085",
+      "metac_122",
+      "metac_129",
+      "metac_130"
+    ]
   },
   {
     "id": "HER_LISTA_AUTO",
@@ -2133,7 +2344,17 @@
         "INS_PRESENT_DIG": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_015",
+      "metac_029",
+      "metac_030",
+      "metac_034",
+      "metac_037",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_122"
+    ]
   },
   {
     "id": "HER_REG_COMP",
@@ -3267,7 +3488,87 @@
         "INS_EPORT_SEL": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_004",
+      "metac_007",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_018",
+      "metac_020",
+      "metac_022",
+      "metac_023",
+      "metac_024",
+      "metac_025",
+      "metac_027",
+      "metac_029",
+      "metac_030",
+      "metac_032",
+      "metac_034",
+      "metac_036",
+      "metac_037",
+      "metac_039",
+      "metac_040",
+      "metac_041",
+      "metac_042",
+      "metac_043",
+      "metac_044",
+      "metac_045",
+      "metac_049",
+      "metac_050",
+      "metac_051",
+      "metac_052",
+      "metac_056",
+      "metac_058",
+      "metac_060",
+      "metac_066",
+      "metac_067",
+      "metac_068",
+      "metac_069",
+      "metac_070",
+      "metac_071",
+      "metac_073",
+      "metac_077",
+      "metac_079",
+      "metac_080",
+      "metac_082",
+      "metac_083",
+      "metac_085",
+      "metac_088",
+      "metac_092",
+      "metac_096",
+      "metac_098",
+      "metac_102",
+      "metac_103",
+      "metac_104",
+      "metac_105",
+      "metac_106",
+      "metac_107",
+      "metac_109",
+      "metac_110",
+      "metac_114",
+      "metac_115",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_123",
+      "metac_125",
+      "metac_126",
+      "metac_127",
+      "metac_128",
+      "metac_129",
+      "metac_130",
+      "metac_134",
+      "metac_136",
+      "metac_137",
+      "metac_138",
+      "metac_141",
+      "metac_144",
+      "metac_148",
+      "metac_150",
+      "metac_151"
+    ]
   },
   {
     "id": "HER_CONTR_GRUP",

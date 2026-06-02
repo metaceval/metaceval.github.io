@@ -698,6 +698,7 @@ function applyI18N() {
   if (titleEl) titleEl.innerHTML = i('homeTitle').replace(/para el aula|per a l'aula|for the classroom/i, m => `<span>${m}</span>`);
   setText('homeSubtitle',         i('homeSubtitle'));
   setText('homeConnectText',      i('homeConnectText'));
+  setTitle('homeConnector',       i('homeConnectText'));
   setText('homeTecTitle',         i('homeTecTitle'));
   setText('homeTecDesc',          i('homeTecDesc'));
   setText('homeEvalTitle',        i('homeEvalTitle'));

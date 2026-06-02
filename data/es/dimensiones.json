@@ -231,7 +231,68 @@
         "HER_ACTA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_006",
+      "metac_007",
+      "metac_008",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_012",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_016",
+      "metac_017",
+      "metac_020",
+      "metac_023",
+      "metac_024",
+      "metac_027",
+      "metac_029",
+      "metac_030",
+      "metac_031",
+      "metac_034",
+      "metac_035",
+      "metac_036",
+      "metac_039",
+      "metac_041",
+      "metac_042",
+      "metac_043",
+      "metac_044",
+      "metac_050",
+      "metac_055",
+      "metac_062",
+      "metac_066",
+      "metac_067",
+      "metac_073",
+      "metac_077",
+      "metac_080",
+      "metac_085",
+      "metac_090",
+      "metac_092",
+      "metac_094",
+      "metac_096",
+      "metac_098",
+      "metac_101",
+      "metac_102",
+      "metac_104",
+      "metac_105",
+      "metac_106",
+      "metac_107",
+      "metac_114",
+      "metac_119",
+      "metac_120",
+      "metac_121",
+      "metac_122",
+      "metac_124",
+      "metac_126",
+      "metac_129",
+      "metac_130",
+      "metac_136",
+      "metac_137",
+      "metac_138",
+      "metac_141"
+    ]
   },
   {
     "id": "DIM_DIAG",
@@ -823,7 +884,42 @@
         "HER_GUIA_OBS": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_006",
+      "metac_007",
+      "metac_008",
+      "metac_009",
+      "metac_010",
+      "metac_011",
+      "metac_013",
+      "metac_014",
+      "metac_015",
+      "metac_016",
+      "metac_020",
+      "metac_024",
+      "metac_027",
+      "metac_035",
+      "metac_039",
+      "metac_042",
+      "metac_044",
+      "metac_050",
+      "metac_055",
+      "metac_062",
+      "metac_073",
+      "metac_080",
+      "metac_083",
+      "metac_087",
+      "metac_088",
+      "metac_090",
+      "metac_093",
+      "metac_094",
+      "metac_101",
+      "metac_119",
+      "metac_124",
+      "metac_126",
+      "metac_136",
+      "metac_143"
+    ]
   },
   {
     "id": "DIM_PROY",
@@ -1259,7 +1355,18 @@
         "HER_DECL_IA": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_007",
+      "metac_014",
+      "metac_015",
+      "metac_031",
+      "metac_043",
+      "metac_077",
+      "metac_080",
+      "metac_108",
+      "metac_109",
+      "metac_121"
+    ]
   },
   {
     "id": "DIM_CRIT",
@@ -1753,7 +1860,17 @@
         "HER_MAP_EVID": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_023",
+      "metac_077",
+      "metac_085",
+      "metac_092",
+      "metac_094",
+      "metac_102",
+      "metac_106",
+      "metac_122",
+      "metac_141"
+    ]
   },
   {
     "id": "DIM_COMPART",

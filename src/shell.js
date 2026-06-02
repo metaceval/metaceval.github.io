@@ -47,7 +47,7 @@ async function switchLang(lang) {
   S.page = 0;
   renderViewToggle();
   if (S.view === 'evaluacion') {
-    loadEvalLang(lang).then(() => { renderEvalTabs(); renderEvalList(); }).catch(() => {});
+    loadEvalLang(lang).then(() => { renderEvalTabs(); if (S.evalMapMode) renderEvalList(); else renderEvalCards(); }).catch(() => {});
   } else {
     renderBlockTabs();
     renderTabs();

@@ -184,7 +184,7 @@ async function init() {
     S.search = e.target.value;
     S.page = 0;
     updateSearchUI();
-    if (S.view === 'evaluacion') renderEvalList();
+    if (S.view === 'evaluacion') { if (S.evalMapMode) renderEvalList(); else renderEvalCards(); }
     else renderCards();
   });
   document.getElementById('searchClearBtn').onclick = () => {
@@ -193,7 +193,7 @@ async function init() {
     S.search = '';
     S.page = 0;
     updateSearchUI();
-    if (S.view === 'evaluacion') renderEvalList();
+    if (S.view === 'evaluacion') { if (S.evalMapMode) renderEvalList(); else renderEvalCards(); }
     else renderCards();
     input.focus();
   };
@@ -212,7 +212,6 @@ async function init() {
 
   initEvalSplitEvents();
   initEvalMapEvents();
-  initUnifiedMapEvents();
   initBipartiteMapEvents();
 
   // mapViewBtn removed — view mode toggle is now in results bar

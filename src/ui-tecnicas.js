@@ -467,10 +467,23 @@ function openModal(itemId) {
   const evalEl2 = document.getElementById('modalEval');
   if (modalScroll && evalEl2) modalScroll.appendChild(evalEl2);
 
-  // Restore technique-specific action buttons; hide eval map button
+  // Restore technique-specific action buttons
   showModalActionButtons();
   const evalMapBtn = document.getElementById('modalEvalMapBtn');
-  if (evalMapBtn) evalMapBtn.style.display = 'none';
+  if (evalMapBtn) {
+    evalMapBtn.style.display = '';
+    document.getElementById('modalEvalMapBtnLabel').textContent = i('viewMapBtn');
+    evalMapBtn.title = i('viewModeMap');
+    evalMapBtn.onclick = () => {
+      const id = S.modal;
+      closeModal();
+      if (!S.mapMode) toggleMapView();
+      requestAnimationFrame(() => {
+        const ni = MAP.nodes.findIndex(n => n.id === id);
+        if (ni >= 0) mapSelectNode(ni);
+      });
+    };
+  }
   const bipartiteBtn = document.getElementById('modalBipartiteBtn');
   if (bipartiteBtn) {
     bipartiteBtn.style.display = '';

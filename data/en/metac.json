@@ -21,14 +21,34 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_099",
       "metac_045",
-      "metac_125"
+      "metac_099",
+      "metac_125",
+      "metac_131",
+      "metac_133"
     ],
     "eval_ids": [
+      "HER_DIARIO_PROF",
+      "HER_ESC_DESC",
+      "HER_ESC_OBS",
+      "HER_ESC_VAL",
+      "HER_GUIA_OBS",
+      "HER_NOTAS_CAMPO",
+      "HER_RUB_COOP",
+      "INS_FORO",
+      "INS_LAB",
+      "INS_PREG_ORAL",
+      "INS_PR_DES",
+      "INS_PR_ORAL",
+      "INS_RESP_CORTA",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_INC",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -48,11 +68,19 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_021",
       "metac_053",
       "metac_054",
-      "metac_021"
+      "metac_065"
     ],
     "eval_ids": [
+      "HER_ACTA",
+      "HER_RUB_COOP",
+      "HER_SOCIO",
+      "INS_ACTA",
+      "INS_ASAM",
+      "INS_EXPO",
+      "INS_TRAB_COOP",
       "TEC_ORAL"
     ]
   },
@@ -81,14 +109,28 @@
     ],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_095",
+      "metac_025",
+      "metac_038",
+      "metac_059",
       "metac_076",
-      "metac_025"
+      "metac_095"
     ],
     "eval_ids": [
+      "DIM_DIAG",
       "DIM_INCL",
+      "DIM_PROB",
+      "HER_ACTA",
+      "HER_RUB_COOP",
+      "HER_SOCIO",
+      "INS_ACTA",
+      "INS_COLOQ",
+      "INS_DOC_COL",
+      "INS_PART",
+      "INS_PROB",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -112,15 +154,33 @@
     "block": "Active Methodologies",
     "related": [
       "metac_022",
+      "metac_063",
       "metac_069",
-      "metac_063"
+      "metac_097",
+      "metac_132",
+      "metac_146",
+      "metac_151"
     ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_INCL",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
-      "TEC_PROC_REFLEX"
+      "INS_COMIC",
+      "INS_COM_TEXT",
+      "INS_DOCS",
+      "INS_ENSAYO",
+      "INS_ESQUEMA",
+      "INS_MAP_MENT",
+      "INS_MONO",
+      "INS_PRESENT_DIG",
+      "INS_PR_DES",
+      "INS_RESUMEN",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -143,12 +203,24 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_091",
       "metac_046",
+      "metac_091",
       "metac_106"
     ],
     "eval_ids": [
-      "INS_ROL"
+      "DIM_PROB",
+      "INS_DRAMA",
+      "INS_LIBRO_ABIERTO",
+      "INS_MICROVIDEO",
+      "INS_MODELO_DIG",
+      "INS_PROB",
+      "INS_PR_PRACT",
+      "INS_ROL",
+      "INS_TUTORIAL",
+      "TEC_ANAL_DOC",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -172,14 +244,23 @@
     "block": "Active Methodologies",
     "related": [
       "metac_013",
-      "metac_091",
-      "metac_024"
+      "metac_024",
+      "metac_050",
+      "metac_091"
     ],
     "eval_ids": [
+      "DIM_CASO",
+      "DIM_COMP",
       "DIM_DESEMP",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_PROB",
+      "INS_CASO",
+      "INS_ENSAYO",
+      "INS_EXPO",
+      "INS_PROB",
       "INS_ROL",
+      "INS_TRAB_COOP",
       "TEC_ORAL",
       "TEC_PROD"
     ]
@@ -210,19 +291,40 @@
     ],
     "block": "Active Methodologies",
     "related": [
-      "metac_121",
+      "metac_082",
       "metac_094",
-      "metac_082"
+      "metac_121"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_GAMIF",
       "DIM_HET",
+      "HER_DIARIO_PROF",
+      "HER_ESC_DESC",
+      "HER_ESC_OBS",
+      "HER_ESC_VAL",
       "HER_FICHA_RETRO",
+      "HER_GUIA_OBS",
+      "HER_NOTAS_CAMPO",
       "HER_PLANT_FF",
-      "TEC_OBS_SIS"
+      "HER_RUB_COOP",
+      "INS_DRAMA",
+      "INS_ESCAPE",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_PR_PRACT",
+      "INS_TRAB_COOP",
+      "TEC_OBS_INC",
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -247,17 +349,41 @@
     "block": "Active Methodologies",
     "related": [
       "metac_010",
+      "metac_011",
+      "metac_017",
+      "metac_034",
+      "metac_045",
+      "metac_071",
+      "metac_075",
+      "metac_119",
+      "metac_125",
       "metac_126",
-      "metac_045"
+      "metac_127",
+      "metac_131"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "HER_BAREMO",
+      "HER_ESC_NUM",
+      "HER_GUIA_CORR",
+      "HER_PLANT_CORR",
+      "HER_SEMAFORO",
+      "INS_CUAD_CAMPO",
+      "INS_DOCS",
+      "INS_INFO_INV",
+      "INS_KPSI",
       "INS_PR_OBJ",
+      "INS_ROL",
       "INS_TEST",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PRUEBA"
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -281,15 +407,30 @@
     "block": "Active Methodologies",
     "related": [
       "metac_015",
+      "metac_016",
       "metac_080",
-      "metac_016"
+      "metac_119"
     ],
     "eval_ids": [
       "DIM_DESEMP",
+      "DIM_DIAG",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_PROB",
+      "DIM_PROY",
+      "HER_RUB_COOP",
+      "INS_DOC_COL",
+      "INS_ENTREV",
+      "INS_EXPO",
+      "INS_PROB",
+      "INS_ROL",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "INS_TRAB_IND",
+      "TEC_ENTREV_EVAL",
+      "TEC_OBS_SIS",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -317,16 +458,32 @@
     "block": "Active Methodologies",
     "related": [
       "metac_008",
-      "metac_126",
-      "metac_011"
+      "metac_011",
+      "metac_062",
+      "metac_126"
     ],
     "eval_ids": [
+      "DIM_COMP",
       "DIM_DESEMP",
+      "DIM_DIAG",
       "DIM_HET",
+      "DIM_INDAG",
       "DIM_PROB",
+      "DIM_PROY",
+      "HER_RUB_COOP",
+      "INS_ART_DIV",
+      "INS_EXPO",
+      "INS_INFO_INV",
+      "INS_LAB",
+      "INS_MONO",
+      "INS_PROB",
       "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -355,13 +512,29 @@
     "related": [
       "metac_008",
       "metac_010",
+      "metac_016",
       "metac_034"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "HER_RUB_COOP",
+      "INS_CHECK_LAB",
+      "INS_EXPO",
+      "INS_INFO_LAB",
+      "INS_LAB",
+      "INS_PROB",
+      "INS_PR_PRACT",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -390,20 +563,40 @@
     "block": "Active Methodologies",
     "related": [
       "metac_075",
+      "metac_078",
       "metac_079",
-      "metac_078"
+      "metac_149"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "DIM_PROY",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_LIBRO_ABIERTO",
+      "INS_PREG_ORAL",
+      "INS_PROB",
+      "INS_PR_DES",
       "INS_PR_OBJ",
+      "INS_PR_ORAL",
+      "INS_RESP_CORTA",
+      "INS_ROL",
       "INS_TEST",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PRUEBA"
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -431,21 +624,71 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_091",
       "metac_006",
-      "metac_015"
+      "metac_014",
+      "metac_015",
+      "metac_062",
+      "metac_091"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "DIM_PROY",
+      "HER_BANCO_DESC",
+      "HER_BAREMO",
+      "HER_CONV",
+      "HER_CUAD_CAL",
+      "HER_DIARIO_PROF",
+      "HER_ESC_DESC",
+      "HER_ESC_OBS",
+      "HER_ESC_PROG",
+      "HER_ESC_VAL",
+      "HER_ESC_VERB",
       "HER_FICHA_RETRO",
+      "HER_GUIA_CORR",
+      "HER_GUIA_OBS",
+      "HER_IND_CRIT",
+      "HER_MAP_EVID",
+      "HER_MATRIZ_POND",
+      "HER_NOTAS_CAMPO",
+      "HER_PERFIL_LOGRO",
+      "HER_PLANT_CORR",
       "HER_PLANT_FF",
+      "HER_REG_ANE",
+      "HER_REG_COMP",
+      "HER_REG_COOP",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_RUB_COMP",
+      "HER_RUB_COOP",
+      "HER_RUB_ORAL",
+      "HER_TAB_CRIT",
+      "INS_CASO",
+      "INS_DEBATE",
+      "INS_EXPO",
+      "INS_FORO",
+      "INS_LIBRO_ABIERTO",
+      "INS_PLAN_TRAB",
+      "INS_PROB",
+      "INS_PROTOTIPO",
+      "INS_PR_COMP",
       "INS_ROL",
+      "INS_TAREA_COMP_INT",
       "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_INC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -474,21 +717,80 @@
     "related": [
       "metac_013",
       "metac_027",
-      "metac_080"
+      "metac_031",
+      "metac_080",
+      "metac_106",
+      "metac_111"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "DIM_PROY",
+      "HER_ANALITICAS",
+      "HER_BANCO_DESC",
+      "HER_BANCO_EVID",
+      "HER_CONTR_GRUP",
+      "HER_CONV",
+      "HER_CUAD_CAL",
+      "HER_DECL_IA",
+      "HER_ESC_PROG",
+      "HER_ESC_VERB",
       "HER_FICHA_RETRO",
+      "HER_FICHA_VAL",
+      "HER_HIST_REV",
+      "HER_HOJA_GRUP",
+      "HER_HOJA_IND",
+      "HER_IND_CRIT",
+      "HER_INF_IND",
+      "HER_MAP_EVID",
+      "HER_MATRIZ",
+      "HER_MATRIZ_POND",
+      "HER_PANEL",
+      "HER_PERFIL_LOGRO",
       "HER_PLANT_FF",
+      "HER_REG_ANE",
+      "HER_REG_COMP",
+      "HER_REG_COOP",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_RUB_COMP",
+      "HER_RUB_COOP",
+      "HER_RUB_DIG",
+      "HER_RUB_HOL",
+      "HER_RUB_ORAL",
+      "HER_RUB_PROC",
+      "HER_RUB_PROD",
+      "HER_TAB_CRIT",
+      "INS_BIT",
+      "INS_BIT_IA",
+      "INS_CUAD_DIG",
+      "INS_DEF_PROY",
+      "INS_DOC_COL",
+      "INS_ENT_PAR",
+      "INS_EXPO",
+      "INS_MAQUETA",
+      "INS_MEM_PROY",
       "INS_PODCAST",
+      "INS_PROB",
+      "INS_PR_COMP",
+      "INS_RESUMEN",
+      "INS_ROL",
+      "INS_TAREA_COMP_INT",
+      "INS_TRAB_COOP",
       "INS_VIDEO",
+      "INS_WEB",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO",
+      "TEC_TRIANG"
     ]
   },
   {
@@ -516,26 +818,58 @@
     "block": "Active Methodologies",
     "related": [
       "metac_009",
-      "metac_080",
-      "metac_027"
+      "metac_013",
+      "metac_027",
+      "metac_080"
     ],
     "eval_ids": [
+      "DIM_AUTO",
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "HER_BANCO_DESC",
+      "HER_CONV",
+      "HER_ESC_AUTO",
       "HER_FICHA_RETRO",
+      "HER_IND_CRIT",
+      "HER_LISTA_AUTO",
+      "HER_MAP_EVID",
+      "HER_MATRIZ_POND",
+      "HER_PERFIL_LOGRO",
       "HER_PLANT_FF",
+      "HER_RUB_AUTO",
+      "HER_RUB_COMP",
+      "HER_RUB_COOP",
+      "HER_RUB_HOL",
+      "HER_RUB_ORAL",
+      "HER_RUB_PROC",
+      "HER_RUB_PROD",
+      "HER_TAB_CRIT",
       "INS_BLOG",
+      "INS_DEF_PROY",
+      "INS_ENTREV",
+      "INS_EXPO",
       "INS_LLUVIA",
+      "INS_PROB",
+      "INS_PR_COMP",
       "INS_PR_OBJ",
       "INS_ROL",
+      "INS_TAREA_COMP_INT",
       "INS_TEST",
+      "INS_TRAB_COOP",
       "INS_VIDEO",
+      "TEC_ENTREV_EVAL",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PRUEBA"
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -558,14 +892,29 @@
     "block": "Active Methodologies",
     "related": [
       "metac_009",
-      "metac_119",
-      "metac_011"
+      "metac_011",
+      "metac_017",
+      "metac_119"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
+      "DIM_INCL",
+      "HER_NOTAS_CAMPO",
+      "HER_SEMAFORO",
+      "INS_EPORT_SEL",
+      "INS_FICHA_LECT",
+      "INS_F_REFLEX",
+      "INS_KPSI",
+      "INS_MAP_INI",
+      "INS_MODELO_DIG",
+      "INS_POSTER",
+      "INS_PR_PRACT",
+      "TEC_OBS_INC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -595,8 +944,21 @@
     ],
     "eval_ids": [
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
       "DIM_TRAZ_IA",
-      "TEC_PROC_REFLEX"
+      "HER_SEMAFORO",
+      "INS_COMIC",
+      "INS_COM_TEXT",
+      "INS_KPSI",
+      "INS_LINEA",
+      "INS_MAQUETA",
+      "INS_PROB",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -619,17 +981,31 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_082",
+      "metac_070",
       "metac_079",
-      "metac_070"
+      "metac_082"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
+      "HER_ESC_NUM",
       "HER_FICHA_RETRO",
+      "HER_FORM_DIG",
+      "HER_HOJA_CALC",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_CUEST_DIG",
+      "INS_GLOS",
+      "INS_PR_OBJ",
+      "INS_RESP_CORTA",
+      "INS_RESUMEN",
+      "INS_TEST",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "TEC_OBS_SIS",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -652,15 +1028,24 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_024",
       "metac_050",
-      "metac_087",
-      "metac_024"
+      "metac_087"
     ],
     "eval_ids": [
+      "DIM_PROB",
+      "HER_RUB_COOP",
+      "HER_SOCIO",
+      "INS_ASAM",
+      "INS_COLOQ",
       "INS_DEBATE",
+      "INS_FORO",
       "INS_LLUVIA",
+      "INS_ROL",
+      "INS_TRAB_COOP",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -693,17 +1078,43 @@
       "metac_062"
     ],
     "eval_ids": [
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_INDAG",
+      "HER_ACTA",
+      "HER_CONTR_GRUP",
+      "HER_CUAD_CAL",
+      "HER_ESC_PROG",
+      "HER_ESC_VERB",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
+      "HER_HOJA_GRUP",
       "HER_PLANT_FF",
+      "HER_REG_ANE",
+      "HER_REG_COMP",
+      "HER_REG_COOP",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_RUB_COEV",
+      "HER_RUB_COOP",
+      "HER_SOCIO",
+      "INS_ACTA",
+      "INS_DOC_COL",
+      "INS_ESQUEMA",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_REV_PARES",
+      "INS_ROL",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -726,10 +1137,18 @@
     "related": [
       "metac_002",
       "metac_054",
-      "metac_089"
+      "metac_089",
+      "metac_118"
     ],
     "eval_ids": [
-      "DIM_TRAZ_IA"
+      "DIM_SUM",
+      "DIM_TRAZ_IA",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -753,16 +1172,26 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_113",
+      "metac_004",
       "metac_028",
-      "metac_004"
+      "metac_113",
+      "metac_132"
     ],
     "eval_ids": [
       "DIM_FEED",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_COM_GRAF",
+      "INS_COM_TEXT",
+      "INS_ENSAYO",
+      "INS_MAP_MENT",
+      "INS_PR_DES",
+      "INS_ROL",
       "INS_VIDEO",
-      "TEC_PROC_REFLEX"
+      "TEC_ANAL_DOC",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -784,20 +1213,36 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_077",
       "metac_030",
-      "metac_107"
+      "metac_077",
+      "metac_107",
+      "metac_144"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
+      "DIM_CONT",
+      "DIM_CRIT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROY",
+      "HER_BANCO_EVID",
       "HER_FICHA_RETRO",
+      "HER_FICHA_VAL",
+      "HER_HOJA_IND",
+      "HER_INF_IND",
+      "HER_MATRIZ",
       "HER_PLANT_FF",
+      "INS_AUTOINF",
+      "INS_CONTRATO",
+      "INS_ENT_PAR",
+      "INS_EPORT_SEL",
+      "INS_F_REFLEX",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -825,22 +1270,59 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_090",
+      "metac_006",
+      "metac_019",
       "metac_042",
-      "metac_019"
+      "metac_090",
+      "metac_128",
+      "metac_134",
+      "metac_136",
+      "metac_147"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "HER_ACTA",
+      "HER_CUAD_CAL",
+      "HER_DIARIO_PROF",
+      "HER_ESC_DESC",
+      "HER_ESC_OBS",
+      "HER_ESC_PROG",
+      "HER_ESC_VAL",
+      "HER_ESC_VERB",
       "HER_FICHA_RETRO",
+      "HER_GUIA_OBS",
       "HER_PLANT_FF",
+      "HER_REG_ANE",
+      "HER_REG_COMP",
+      "HER_REG_COOP",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_RUB_COOP",
+      "INS_ACTA",
+      "INS_CASO",
+      "INS_COLOQ",
       "INS_DEBATE",
+      "INS_ENSAYO",
+      "INS_EXPO",
+      "INS_FORO",
+      "INS_LIBRO_ABIERTO",
+      "INS_PROB",
+      "INS_PR_DES",
+      "INS_PR_ORAL",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -864,19 +1346,27 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_095",
+      "metac_003",
       "metac_072",
-      "metac_083"
+      "metac_083",
+      "metac_095"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_PART",
+      "INS_PREG_ORAL",
+      "INS_RESP_CORTA",
       "INS_ROL",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -904,13 +1394,20 @@
     ],
     "block": "Active Methodologies",
     "related": [
-      "metac_100",
+      "metac_069",
       "metac_097",
-      "metac_069"
+      "metac_100"
     ],
     "eval_ids": [
+      "INS_COMIC",
+      "INS_DRAMA",
+      "INS_EXPO",
+      "INS_MAP_MENT",
+      "INS_ROL",
       "INS_VIDEO",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -940,21 +1437,58 @@
     ],
     "block": "Educational Frameworks",
     "related": [
-      "metac_046",
+      "metac_014",
       "metac_015",
-      "metac_064"
+      "metac_046",
+      "metac_064",
+      "metac_111"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "HER_ANALITICAS",
+      "HER_BANCO_DESC",
+      "HER_CONV",
+      "HER_DECL_IA",
       "HER_FICHA_RETRO",
+      "HER_HIST_REV",
+      "HER_IND_CRIT",
+      "HER_MAP_EVID",
+      "HER_MATRIZ_POND",
+      "HER_PANEL",
+      "HER_PERFIL_LOGRO",
       "HER_PLANT_FF",
+      "HER_RUB_COMP",
+      "HER_RUB_COOP",
+      "HER_RUB_DIG",
+      "HER_RUB_HOL",
+      "HER_RUB_ORAL",
+      "HER_RUB_PROC",
+      "HER_RUB_PROD",
+      "HER_TAB_CRIT",
+      "INS_BIT",
+      "INS_BIT_IA",
+      "INS_DEF_PROY",
+      "INS_ENTREV",
+      "INS_EXPO",
+      "INS_MEM_PROY",
+      "INS_PROB",
+      "INS_PROTOTIPO",
+      "INS_PR_COMP",
       "INS_PR_OBJ",
+      "INS_ROL",
+      "INS_TAREA_COMP_INT",
       "INS_TEST",
+      "INS_TRAB_COOP",
+      "TEC_ENTREV_EVAL",
       "TEC_OBS_SIS",
-      "TEC_PRUEBA"
+      "TEC_ORAL",
+      "TEC_PRUEBA",
+      "TEC_TRIANG"
     ]
   },
   {
@@ -980,13 +1514,28 @@
     "block": "Active Methodologies",
     "related": [
       "metac_022",
+      "metac_060",
       "metac_064",
       "metac_103"
     ],
     "eval_ids": [
+      "DIM_PROB",
+      "INS_COLOQ",
+      "INS_COM_GRAF",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_LINEA",
+      "INS_MICROVIDEO",
+      "INS_PROB",
+      "INS_RESP_CORTA",
+      "INS_RESUMEN",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1015,18 +1564,36 @@
     "block": "Active Methodologies",
     "related": [
       "metac_037",
+      "metac_096",
       "metac_122",
-      "metac_096"
+      "metac_129",
+      "metac_130"
     ],
     "eval_ids": [
+      "DIM_AUTO",
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "HER_DIANA",
+      "HER_ESC_AUTO",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
+      "HER_LISTA_AUTO",
       "HER_PLANT_FF",
+      "HER_RUB_AUTO",
+      "HER_RUB_COEV",
+      "INS_CHECK_LAB",
+      "INS_CUAD_CAMPO",
+      "INS_EXPO",
+      "INS_INFO_LAB",
+      "INS_PART",
+      "INS_REV_PARES",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1048,21 +1615,41 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_023",
       "metac_040",
-      "metac_077",
-      "metac_074"
+      "metac_074",
+      "metac_077"
     ],
     "eval_ids": [
+      "DIM_AUTO",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_PROB",
+      "HER_BANCO_EVID",
+      "HER_ESC_AUTO",
       "HER_FICHA_RETRO",
+      "HER_FICHA_VAL",
+      "HER_HOJA_IND",
+      "HER_INF_IND",
+      "HER_LISTA_AUTO",
+      "HER_MATRIZ",
       "HER_PLANT_FF",
+      "HER_RUB_AUTO",
+      "INS_AUTOINF",
+      "INS_DIARIO",
+      "INS_EPORT_SEL",
+      "INS_F_REFLEX",
       "INS_PODCAST",
+      "INS_PR_ORAL",
+      "INS_TRAB_COOP",
       "INS_VIDEO",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1084,14 +1671,26 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_100",
       "metac_014",
-      "metac_097"
+      "metac_097",
+      "metac_100",
+      "metac_109"
     ],
     "eval_ids": [
       "DIM_DIG",
       "DIM_HET",
+      "DIM_PROY",
+      "HER_FORM_DIG",
+      "HER_HOJA_CALC",
+      "INS_COLOQ",
+      "INS_CUEST_DIG",
+      "INS_ENTREV",
+      "INS_ESQUEMA",
+      "INS_EXPO",
+      "INS_ROL",
       "INS_VIDEO",
+      "TEC_ENTREV_EVAL",
+      "TEC_ORAL",
       "TEC_PROD"
     ]
   },
@@ -1116,18 +1715,31 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_088",
+      "metac_033",
       "metac_048",
-      "metac_033"
+      "metac_088",
+      "metac_148"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_ASAM",
+      "INS_CUADERNO",
+      "INS_MAP_INI",
+      "INS_MAP_MENT",
+      "INS_MODELO_DIG",
+      "INS_PART",
+      "INS_ROL",
       "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1156,12 +1768,24 @@
     ],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_063",
       "metac_032",
+      "metac_063",
       "metac_069"
     ],
     "eval_ids": [
-      "INS_TRAB_COOP"
+      "DIM_GAMIF",
+      "DIM_PROB",
+      "HER_RUB_COOP",
+      "INS_ESQUEMA",
+      "INS_EXPO",
+      "INS_MAP_CONC",
+      "INS_PART",
+      "INS_PROB",
+      "INS_RESUMEN",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -1192,17 +1816,36 @@
     "related": [
       "metac_008",
       "metac_011",
-      "metac_051"
+      "metac_017",
+      "metac_051",
+      "metac_127"
     ],
     "eval_ids": [
+      "DIM_AUTO",
+      "DIM_COMP",
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "HER_ESC_AUTO",
       "HER_FICHA_RETRO",
+      "HER_LISTA_AUTO",
       "HER_PLANT_FF",
+      "HER_RUB_AUTO",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PROB",
       "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1231,13 +1874,19 @@
     "related": [
       "metac_020",
       "metac_061",
-      "metac_116"
+      "metac_116",
+      "metac_123"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
       "DIM_INCL",
-      "INS_TRAB_COOP"
+      "HER_RUB_COOP",
+      "INS_ESQUEMA",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_PROD"
     ]
   },
   {
@@ -1265,16 +1914,37 @@
     ],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_067",
       "metac_049",
+      "metac_067",
       "metac_070"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "DIM_SUM",
+      "HER_ACTA",
+      "HER_CONTR_GRUP",
+      "HER_CUAD_CAL",
+      "HER_ESC_DESC",
+      "HER_ESC_OBS",
+      "HER_ESC_VAL",
       "HER_FICHA_RETRO",
+      "HER_GUIA_OBS",
+      "HER_HOJA_GRUP",
       "HER_PLANT_FF",
+      "HER_REG_ANE",
+      "HER_REG_COMP",
+      "HER_REG_COOP",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_RUB_COOP",
+      "HER_SOCIO",
+      "INS_ACTA",
+      "INS_ASAM",
+      "INS_PROB",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS"
     ]
@@ -1304,19 +1974,29 @@
     ],
     "block": "Active Methodologies",
     "related": [
+      "metac_029",
+      "metac_051",
+      "metac_066",
       "metac_067",
-      "metac_096",
-      "metac_066"
+      "metac_096"
     ],
     "eval_ids": [
+      "DIM_AUTO",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "HER_ESC_AUTO",
       "HER_FICHA_RETRO",
+      "HER_LISTA_AUTO",
       "HER_PLANT_FF",
+      "HER_RUB_AUTO",
+      "INS_F_REFLEX",
       "INS_ROL",
+      "INS_SEMAF",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1340,10 +2020,17 @@
     "related": [
       "metac_003",
       "metac_114",
-      "metac_115"
+      "metac_115",
+      "metac_140",
+      "metac_142"
     ],
     "eval_ids": [
       "DIM_INCL",
+      "DIM_PROB",
+      "HER_RUB_COOP",
+      "INS_PROB",
+      "INS_ROL",
+      "INS_TRAB_COOP",
       "TEC_PROD"
     ]
   },
@@ -1370,19 +2057,31 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_070",
-      "metac_090",
-      "metac_079"
+      "metac_079",
+      "metac_090"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_CUAD_CAMPO",
+      "INS_DOCS",
+      "INS_EXPO",
+      "INS_LINEA",
+      "INS_PART",
       "INS_ROL",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1407,16 +2106,44 @@
     "related": [
       "metac_030",
       "metac_074",
-      "metac_081"
+      "metac_081",
+      "metac_145",
+      "metac_152"
     ],
     "eval_ids": [
+      "DIM_AUTO",
+      "DIM_COMP",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
+      "HER_DECL_IA",
+      "HER_DIARIO_PROF",
+      "HER_ESC_AUTO",
+      "HER_ESC_PROG",
+      "HER_ESC_VERB",
       "HER_FICHA_RETRO",
+      "HER_HIST_REV",
+      "HER_LISTA_AUTO",
+      "HER_NOTAS_CAMPO",
+      "HER_PANEL",
       "HER_PLANT_FF",
+      "HER_REG_ANE",
+      "HER_REG_COMP",
+      "HER_REG_COOP",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_RUB_AUTO",
+      "HER_RUB_DIG",
+      "INS_BIT",
+      "INS_BIT_IA",
+      "INS_ENT_PAR",
+      "INS_F_REFLEX",
+      "INS_LAB",
       "INS_ROL",
+      "TEC_OBS_INC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1440,19 +2167,29 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_043",
+      "metac_110",
       "metac_116",
       "metac_119",
-      "metac_043"
+      "metac_120"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_ESQUEMA",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROD"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1475,22 +2212,35 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_090",
       "metac_024",
-      "metac_093"
+      "metac_055",
+      "metac_090",
+      "metac_093",
+      "metac_128",
+      "metac_134",
+      "metac_136"
     ],
     "eval_ids": [
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COEV",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_REV_PARES",
       "INS_ROL",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1519,16 +2269,40 @@
       "metac_096"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
       "DIM_PROB",
+      "HER_CONTR_GRUP",
       "HER_FICHA_RETRO",
+      "HER_HOJA_GRUP",
       "HER_PLANT_FF",
+      "HER_REG_ANE",
+      "HER_REG_COMP",
+      "HER_REG_COOP",
+      "HER_REG_DESC",
+      "HER_REG_PART",
+      "HER_SEMAFORO",
+      "INS_BIT",
+      "INS_COM_GRAF",
+      "INS_CUAD_CAMPO",
+      "INS_DEF_PROY",
+      "INS_EXPO",
+      "INS_INFO_INV",
+      "INS_INFO_LAB",
+      "INS_KPSI",
+      "INS_MAP_INI",
+      "INS_PROB",
+      "INS_ROL",
       "INS_VIDEO",
-      "TEC_OBS_SIS"
+      "TEC_ENC_CUEST",
+      "TEC_OBS_SIS",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1557,18 +2331,29 @@
     "block": "Active Methodologies",
     "related": [
       "metac_048",
+      "metac_100",
       "metac_101",
-      "metac_100"
+      "metac_129"
     ],
     "eval_ids": [
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COEV",
+      "INS_EXPO",
       "INS_POSTER",
-      "TEC_OBS_SIS"
+      "INS_REV_PARES",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1596,23 +2381,46 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_001",
       "metac_008",
       "metac_071",
-      "metac_001"
+      "metac_099",
+      "metac_127",
+      "metac_131"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "HER_BANCO_EVID",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_AUTOINF",
+      "INS_COMIC",
+      "INS_CUADERNO",
       "INS_DEBATE",
+      "INS_EPORT_SEL",
+      "INS_EXPO",
+      "INS_GLOS",
+      "INS_LINEA",
+      "INS_PRESENT_DIG",
+      "INS_PROB",
       "INS_PR_OBJ",
+      "INS_RESUMEN",
+      "INS_ROL",
       "INS_TEST",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PRUEBA"
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1641,18 +2449,26 @@
     ],
     "block": "Active Methodologies",
     "related": [
+      "metac_005",
       "metac_027",
       "metac_064",
       "metac_091"
     ],
     "eval_ids": [
       "DIM_INCL",
+      "DIM_PROB",
       "HER_LISTA",
+      "HER_RUB_COOP",
+      "INS_INFO_INV",
+      "INS_PREG_ORAL",
+      "INS_PROB",
       "INS_PR_OBJ",
       "INS_ROL",
       "INS_TEST",
+      "INS_TRAB_COOP",
       "TEC_PROC_REFLEX",
-      "TEC_PRUEBA"
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1685,13 +2501,30 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_032",
+      "metac_044",
+      "metac_088",
       "metac_101",
       "metac_112"
     ],
     "eval_ids": [
+      "DIM_PROB",
+      "DIM_PROY",
+      "INS_ART_DIV",
+      "INS_COMIC",
+      "INS_EXPO",
+      "INS_GLOS",
       "INS_LLUVIA",
+      "INS_MICROVIDEO",
+      "INS_PODCAST",
       "INS_POSTER",
-      "INS_TRAB_COOP"
+      "INS_PRESENT_DIG",
+      "INS_TRAB_COOP",
+      "INS_TUTORIAL",
+      "INS_WEB",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1717,17 +2550,29 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_036",
-      "metac_073",
-      "metac_067"
+      "metac_067",
+      "metac_073"
     ],
     "eval_ids": [
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COEV",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PROB",
+      "INS_REV_PARES",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1753,20 +2598,32 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_006",
       "metac_019",
-      "metac_087",
-      "metac_006"
+      "metac_087"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_GAMIF",
       "DIM_HET",
+      "DIM_PROB",
+      "DIM_SIM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PROB",
       "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1795,17 +2652,26 @@
     ],
     "block": "Active Methodologies",
     "related": [
+      "metac_034",
+      "metac_037",
+      "metac_059",
+      "metac_074",
       "metac_075",
       "metac_081",
-      "metac_037"
+      "metac_145"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_COM_TEXT",
+      "INS_FICHA_LECT",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1834,17 +2700,35 @@
     ],
     "block": "Active Methodologies",
     "related": [
-      "metac_113",
+      "metac_065",
       "metac_086",
-      "metac_112"
+      "metac_112",
+      "metac_113"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
+      "HER_CONV",
       "HER_FICHA_RETRO",
+      "HER_IND_CRIT",
+      "HER_MAP_EVID",
+      "HER_PERFIL_LOGRO",
       "HER_PLANT_FF",
+      "HER_RUB_COMP",
+      "HER_RUB_ORAL",
+      "HER_TAB_CRIT",
+      "INS_CASO",
+      "INS_CUEST_DIG",
+      "INS_DOCS",
+      "INS_PR_COMP",
+      "INS_TAREA_COMP_INT",
+      "TEC_ENC_CUEST",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO",
+      "TEC_TRIANG"
     ]
   },
   {
@@ -1870,7 +2754,28 @@
       "metac_118"
     ],
     "eval_ids": [
-      "TEC_ORAL"
+      "HER_DECL_IA",
+      "HER_FICHA_VAL",
+      "HER_HIST_REV",
+      "HER_HOJA_IND",
+      "HER_INF_IND",
+      "HER_MATRIZ",
+      "HER_PANEL",
+      "HER_RUB_COOP",
+      "HER_RUB_DIG",
+      "HER_SEMAFORO",
+      "INS_AUTOINF",
+      "INS_BIT_IA",
+      "INS_EPORT_SEL",
+      "INS_EXPO",
+      "INS_KPSI",
+      "INS_MAP_INI",
+      "INS_PR_ORAL",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
+      "TEC_SONDEO",
+      "TEC_TRIANG"
     ]
   },
   {
@@ -1892,12 +2797,18 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_002",
       "metac_021",
       "metac_084",
       "metac_089"
     ],
     "eval_ids": [
-      "INS_TRAB_COOP"
+      "HER_RUB_COOP",
+      "INS_ENTREV",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_ENTREV_EVAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -1922,16 +2833,28 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_090",
       "metac_042",
-      "metac_093"
+      "metac_090",
+      "metac_093",
+      "metac_117"
     ],
     "eval_ids": [
+      "DIM_COMPART",
       "DIM_DESEMP",
       "DIM_HET",
+      "DIM_PROB",
+      "DIM_SUM",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_PROB",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1955,20 +2878,27 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_068",
+      "metac_076",
       "metac_098",
-      "metac_076"
+      "metac_123"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_PART",
+      "INS_PROB",
       "INS_ROL",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -1991,13 +2921,22 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_058",
       "metac_069",
       "metac_124",
-      "metac_058"
+      "metac_135",
+      "metac_148"
     ],
     "eval_ids": [
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_POSTER",
+      "INS_RESUMEN",
       "INS_TRAB_COOP",
-      "TEC_ORAL"
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_PRUEBA"
     ]
   },
   {
@@ -2026,12 +2965,19 @@
       "metac_124"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_POSTER",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_ORAL"
+      "TEC_ORAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -2055,14 +3001,21 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_003",
       "metac_051",
-      "metac_095",
-      "metac_003"
+      "metac_095"
     ],
     "eval_ids": [
+      "DIM_DIAG",
       "DIM_INCL",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_ROL",
       "INS_TRAB_COOP",
-      "TEC_PROD"
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2086,20 +3039,26 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_028",
       "metac_078",
-      "metac_086",
-      "metac_028"
+      "metac_086"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "INS_DEBATE",
+      "INS_MAP_CONC",
       "INS_ROL",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2122,14 +3081,19 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_020",
       "metac_035",
       "metac_114",
       "metac_116"
     ],
     "eval_ids": [
       "DIM_INCL",
+      "HER_RUB_COOP",
+      "INS_EXPO",
       "INS_ROL",
-      "INS_TRAB_COOP"
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -2150,14 +3114,29 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_010",
       "metac_013",
-      "metac_020",
-      "metac_010"
+      "metac_020"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
-      "DIM_PROB"
+      "DIM_INDAG",
+      "DIM_PROB",
+      "DIM_PROY",
+      "HER_BAREMO",
+      "HER_ESC_NUM",
+      "HER_GUIA_CORR",
+      "HER_PLANT_CORR",
+      "HER_RUB_COOP",
+      "INS_FICHA_LECT",
+      "INS_LINEA",
+      "INS_MONO",
+      "INS_PROB",
+      "INS_PR_OBJ",
+      "INS_TEST",
+      "INS_TRAB_COOP",
+      "TEC_PROD"
     ]
   },
   {
@@ -2186,13 +3165,22 @@
     ],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_004",
       "metac_033",
       "metac_100",
-      "metac_004"
+      "metac_132",
+      "metac_146"
     ],
     "eval_ids": [
       "DIM_INCL",
-      "INS_TRAB_COOP"
+      "HER_RUB_COOP",
+      "INS_ESQUEMA",
+      "INS_EXPO",
+      "INS_MAP_CONC",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -2214,11 +3202,17 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_027",
+      "metac_028",
       "metac_046",
+      "metac_086",
       "metac_113",
-      "metac_086"
+      "metac_117"
     ],
     "eval_ids": [
+      "DIM_PROB",
+      "INS_PROB",
+      "TEC_ANAL_DOC",
       "TEC_PROD"
     ]
   },
@@ -2240,14 +3234,19 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_089",
       "metac_002",
-      "metac_052"
+      "metac_052",
+      "metac_089"
     ],
     "eval_ids": [
       "HER_RUB_COOP",
+      "INS_CUADERNO",
+      "INS_ENT_PAR",
       "INS_EXPO",
+      "INS_FICHA_LECT",
+      "INS_MEM_PROY",
       "INS_PART",
+      "INS_PODCAST",
       "INS_TRAB_COOP",
       "TEC_ORAL"
     ]
@@ -2276,18 +3275,24 @@
     ],
     "block": "Active Methodologies",
     "related": [
-      "metac_096",
+      "metac_037",
       "metac_067",
-      "metac_037"
+      "metac_070",
+      "metac_096",
+      "metac_137",
+      "metac_150",
+      "metac_151"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2314,18 +3319,22 @@
     ],
     "block": "Active Methodologies",
     "related": [
-      "metac_066",
       "metac_036",
-      "metac_037"
+      "metac_037",
+      "metac_049",
+      "metac_066",
+      "metac_096"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2349,18 +3358,27 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_098",
       "metac_056",
-      "metac_092"
+      "metac_073",
+      "metac_092",
+      "metac_098"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_PART",
+      "INS_PROB",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2391,19 +3409,56 @@
     ],
     "block": "Active Methodologies",
     "related": [
+      "metac_004",
+      "metac_026",
+      "metac_033",
       "metac_057",
+      "metac_058",
       "metac_097",
-      "metac_004"
+      "metac_124",
+      "metac_132",
+      "metac_135",
+      "metac_150",
+      "metac_151"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "DIM_TRAZ_IA",
+      "HER_ANALITICAS",
+      "HER_BAREMO",
+      "HER_ESC_NUM",
       "HER_FICHA_RETRO",
+      "HER_FORM_DIG",
+      "HER_GUIA_CORR",
+      "HER_HOJA_CALC",
+      "HER_PLANT_CORR",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_CASO",
+      "INS_COM_GRAF",
+      "INS_CUAD_DIG",
+      "INS_CUEST_DIG",
+      "INS_DEBATE",
+      "INS_DOCS",
+      "INS_EXPO",
+      "INS_LIBRO_ABIERTO",
+      "INS_MODELO_DIG",
+      "INS_POSTER",
+      "INS_PRESENT_DIG",
+      "INS_PR_OBJ",
+      "INS_TEST",
       "INS_TRAB_COOP",
+      "INS_WEB",
+      "TEC_ANAL_DOC",
+      "TEC_INTER_DIG",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2426,17 +3481,24 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_018",
+      "metac_036",
       "metac_039",
       "metac_066"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_PART",
       "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROD"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2461,20 +3523,30 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_008",
       "metac_045",
-      "metac_095",
-      "metac_008"
+      "metac_095"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
+      "DIM_SUM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PROB",
       "INS_ROL",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS",
-      "TEC_ORAL"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2498,13 +3570,20 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_025",
-      "metac_095",
-      "metac_084"
+      "metac_084",
+      "metac_095"
     ],
     "eval_ids": [
+      "DIM_DIAG",
+      "DIM_SUM",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_ROL",
       "INS_TRAB_COOP",
-      "TEC_ORAL"
+      "TEC_ORAL",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2532,11 +3611,16 @@
     ],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_095",
+      "metac_043",
+      "metac_049",
       "metac_068",
-      "metac_096"
+      "metac_095",
+      "metac_096",
+      "metac_137",
+      "metac_139"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
@@ -2544,8 +3628,12 @@
       "DIM_INCL",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2567,14 +3655,23 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_081",
+      "metac_030",
       "metac_040",
-      "metac_051"
+      "metac_051",
+      "metac_081",
+      "metac_127",
+      "metac_145"
     ],
     "eval_ids": [
+      "DIM_DIAG",
+      "INS_DEBATE",
+      "INS_ESQUEMA",
       "INS_POSTER",
       "INS_ROL",
-      "TEC_PROC_REFLEX"
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2600,12 +3697,29 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_051",
       "metac_008",
-      "metac_012"
+      "metac_012",
+      "metac_051",
+      "metac_081",
+      "metac_099",
+      "metac_133",
+      "metac_145",
+      "metac_149"
     ],
     "eval_ids": [
-      "TEC_PROC_REFLEX"
+      "DIM_DIAG",
+      "DIM_INDAG",
+      "HER_RUB_COOP",
+      "INS_ENTREV",
+      "INS_LLUVIA",
+      "INS_POSTER",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_ENTREV_EVAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2629,13 +3743,20 @@
     "related": [
       "metac_003",
       "metac_056",
-      "metac_091"
+      "metac_091",
+      "metac_117"
     ],
     "eval_ids": [
       "DIM_INCL",
+      "DIM_PROB",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_PART",
+      "INS_PROB",
+      "INS_TALLER",
       "INS_TRAB_COOP",
-      "TEC_ORAL"
+      "TEC_ORAL",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2657,25 +3778,38 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
+      "metac_023",
       "metac_030",
+      "metac_106",
       "metac_122",
-      "metac_106"
+      "metac_129"
     ],
     "eval_ids": [
+      "DIM_AUTO",
       "DIM_CAL_ACRED",
+      "DIM_CONT",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_INDAG",
+      "HER_ESC_AUTO",
       "HER_FICHA_RETRO",
+      "HER_LISTA_AUTO",
       "HER_PLANT_FF",
+      "HER_RUB_AUTO",
+      "INS_EXPO",
       "INS_PORT",
+      "INS_PORT_DIG",
+      "INS_RESEÑA",
+      "INS_ROL",
       "INS_VIDEO",
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2701,15 +3835,26 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_060",
       "metac_012",
-      "metac_079"
+      "metac_060",
+      "metac_079",
+      "metac_135",
+      "metac_149"
     ],
     "eval_ids": [
       "DIM_INCL",
+      "DIM_INDAG",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_ROL",
+      "INS_TRAB_COOP",
       "INS_VIDEO",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2739,18 +3884,29 @@
     ],
     "block": "Active Methodologies",
     "related": [
-      "metac_018",
       "metac_012",
-      "metac_078"
+      "metac_018",
+      "metac_039",
+      "metac_078",
+      "metac_135",
+      "metac_149"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_DRAMA",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2776,21 +3932,56 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_015",
       "metac_009",
-      "metac_014"
+      "metac_014",
+      "metac_015"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "DIM_PROY",
+      "HER_BANCO_DESC",
+      "HER_BANCO_EVID",
+      "HER_CONTR_GRUP",
       "HER_FICHA_RETRO",
+      "HER_FICHA_VAL",
+      "HER_HOJA_GRUP",
+      "HER_HOJA_IND",
+      "HER_INF_IND",
+      "HER_MATRIZ",
+      "HER_MATRIZ_POND",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "HER_RUB_HOL",
+      "HER_RUB_PROC",
+      "HER_RUB_PROD",
+      "INS_BIT",
+      "INS_CUADERNO",
+      "INS_CUAD_DIG",
+      "INS_DEBATE",
+      "INS_ENT_PAR",
+      "INS_FICHA_LECT",
+      "INS_MAP_INI",
+      "INS_MEM_PROY",
+      "INS_MONO",
+      "INS_PART",
+      "INS_PROB",
+      "INS_PR_PRACT",
+      "INS_ROL",
+      "INS_TALLER",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO",
+      "TEC_TRIANG"
     ]
   },
   {
@@ -2813,12 +4004,16 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_074",
+      "metac_040",
       "metac_051",
+      "metac_074",
       "metac_075"
     ],
     "eval_ids": [
-      "TEC_PROC_REFLEX"
+      "DIM_DIAG",
+      "TEC_OBS_SIS",
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2841,19 +4036,25 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_007",
       "metac_018",
+      "metac_084",
       "metac_094",
-      "metac_084"
+      "metac_121"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_GAMIF",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "INS_ROL",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2882,18 +4083,38 @@
       "metac_112"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "HER_ANALITICAS",
+      "HER_DECL_IA",
       "HER_FICHA_RETRO",
+      "HER_FORM_DIG",
+      "HER_HIST_REV",
+      "HER_HOJA_CALC",
+      "HER_PANEL",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "HER_RUB_DIG",
+      "INS_BIT_IA",
+      "INS_CUAD_DIG",
       "INS_LLUVIA",
+      "INS_MICROVIDEO",
+      "INS_MODELO_DIG",
+      "INS_PART",
+      "INS_PODCAST",
+      "INS_PRESENT_DIG",
       "INS_ROL",
       "INS_TRAB_COOP",
+      "INS_TUTORIAL",
+      "INS_WEB",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2922,12 +4143,27 @@
     ],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_072",
       "metac_054",
+      "metac_072",
       "metac_082"
     ],
     "eval_ids": [
-      "INS_TRAB_COOP"
+      "DIM_DIAG",
+      "DIM_PROB",
+      "HER_ANALITICAS",
+      "HER_FORM_DIG",
+      "HER_HOJA_CALC",
+      "HER_RUB_COOP",
+      "INS_CUAD_DIG",
+      "INS_CUEST_DIG",
+      "INS_DOC_COL",
+      "INS_EXPO",
+      "INS_FORO",
+      "INS_PROB",
+      "INS_TRAB_COOP",
+      "INS_WEB",
+      "TEC_ORAL",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -2948,19 +4184,34 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_122",
       "metac_092",
+      "metac_122",
       "metac_123"
     ],
     "eval_ids": [
+      "DIM_AUTO",
       "DIM_CAL_ACRED",
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_SUM",
+      "HER_ESC_AUTO",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
+      "HER_LISTA_AUTO",
       "HER_PLANT_FF",
-      "TEC_OBS_SIS"
+      "HER_RUB_AUTO",
+      "HER_RUB_COEV",
+      "INS_COM_GRAF",
+      "INS_CUADERNO",
+      "INS_MAP_MENT",
+      "INS_REV_PARES",
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_PROC_REFLEX"
     ]
   },
   {
@@ -2985,13 +4236,21 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_064",
       "metac_052",
+      "metac_060",
+      "metac_064",
       "metac_113"
     ],
     "eval_ids": [
+      "DIM_PROB",
+      "HER_RUB_COOP",
       "INS_ROL",
-      "TEC_PROC_REFLEX"
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3020,14 +4279,19 @@
     ],
     "block": "Active Methodologies",
     "related": [
-      "metac_050",
       "metac_019",
+      "metac_050",
       "metac_100"
     ],
     "eval_ids": [
       "DIM_DESEMP",
+      "INS_EXPO",
       "INS_ROL",
-      "TEC_PROC_REFLEX"
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3051,23 +4315,34 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_083",
+      "metac_032",
       "metac_048",
+      "metac_083",
       "metac_112"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "HER_ESC_NUM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
       "INS_LLUVIA",
+      "INS_MICROVIDEO",
+      "INS_PART",
+      "INS_PODCAST",
       "INS_ROL",
+      "INS_TEST",
       "INS_TRAB_COOP",
+      "INS_TUTORIAL",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3089,13 +4364,17 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_021",
       "metac_053",
       "metac_054",
       "metac_065"
     ],
     "eval_ids": [
       "HER_RUB_COOP",
+      "INS_ART_DIV",
+      "INS_COM_TEXT",
       "INS_EXPO",
+      "INS_GLOS",
       "INS_ROL",
       "INS_TRAB_COOP",
       "TEC_ORAL",
@@ -3122,16 +4401,32 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_124",
+      "metac_024",
+      "metac_039",
       "metac_042",
-      "metac_024"
+      "metac_055",
+      "metac_124",
+      "metac_128",
+      "metac_129",
+      "metac_133",
+      "metac_134",
+      "metac_135",
+      "metac_136",
+      "metac_147"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
+      "DIM_PROB",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_ROL",
+      "INS_SEMINARIO",
+      "TEC_ANAL_DOC",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3154,14 +4449,22 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_005",
+      "metac_006",
       "metac_013",
       "metac_046",
       "metac_076"
     ],
     "eval_ids": [
       "DIM_INCL",
+      "DIM_PROB",
+      "HER_RUB_COOP",
+      "INS_PROB",
+      "INS_ROL",
+      "INS_SIT_PROB",
       "INS_TRAB_COOP",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3188,19 +4491,24 @@
     ],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_115",
+      "metac_068",
+      "metac_085",
       "metac_094",
-      "metac_068"
+      "metac_098",
+      "metac_115"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
       "INS_PR_OBJ",
+      "INS_ROL",
       "INS_TEST",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS",
@@ -3226,15 +4534,21 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_055",
       "metac_042",
-      "metac_112"
+      "metac_055",
+      "metac_112",
+      "metac_123"
     ],
     "eval_ids": [
       "DIM_DESEMP",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PART",
       "INS_ROL",
-      "TEC_ORAL"
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3267,15 +4581,24 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_007",
+      "metac_082",
       "metac_092",
-      "metac_082"
+      "metac_121"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
       "DIM_DESEMP",
+      "DIM_GAMIF",
       "DIM_HET",
       "DIM_INCL",
-      "INS_TRAB_COOP"
+      "DIM_PROB",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PROB",
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3301,14 +4624,24 @@
     "related": [
       "metac_003",
       "metac_025",
-      "metac_072"
+      "metac_059",
+      "metac_071",
+      "metac_072",
+      "metac_073"
     ],
     "eval_ids": [
+      "DIM_DIAG",
       "DIM_INCL",
+      "DIM_PROB",
+      "DIM_SUM",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PART",
       "INS_TRAB_COOP",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3335,21 +4668,29 @@
     ],
     "block": "Active Methodologies",
     "related": [
+      "metac_029",
+      "metac_037",
+      "metac_043",
       "metac_066",
       "metac_067",
-      "metac_037"
+      "metac_073",
+      "metac_130",
+      "metac_137"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_SUM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "INS_BILLETE",
       "INS_DEBATE",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3372,12 +4713,20 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_069",
+      "metac_004",
       "metac_026",
-      "metac_004"
+      "metac_031",
+      "metac_069",
+      "metac_151"
     ],
     "eval_ids": [
-      "TEC_PROC_REFLEX"
+      "DIM_PROB",
+      "INS_EXPO",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3401,18 +4750,34 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_068",
       "metac_056",
+      "metac_068",
       "metac_092"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "DIM_SUM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_ART_DIV",
+      "INS_CHECK_LAB",
+      "INS_CUAD_CAMPO",
+      "INS_GLOS",
+      "INS_INFO_LAB",
+      "INS_LAB",
+      "INS_PODCAST",
+      "INS_PROB",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "INS_TUTORIAL",
+      "TEC_OBS_SIS",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3437,13 +4802,22 @@
     "related": [
       "metac_001",
       "metac_045",
-      "metac_075"
+      "metac_075",
+      "metac_127",
+      "metac_131",
+      "metac_133"
     ],
     "eval_ids": [
+      "DIM_DIAG",
       "DIM_INCL",
+      "DIM_INDAG",
+      "DIM_SUM",
       "INS_BLOG",
+      "INS_ROL",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3471,11 +4845,23 @@
     "block": "Active Methodologies",
     "related": [
       "metac_026",
+      "metac_031",
+      "metac_044",
       "metac_063",
-      "metac_087"
+      "metac_087",
+      "metac_132",
+      "metac_146"
     ],
     "eval_ids": [
-      "INS_POSTER"
+      "DIM_PROB",
+      "INS_ESQUEMA",
+      "INS_EXPO",
+      "INS_POSTER",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3498,8 +4884,9 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_048",
       "metac_044",
+      "metac_048",
+      "metac_111",
       "metac_112"
     ],
     "eval_ids": [
@@ -3536,12 +4923,15 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_105",
       "metac_103",
-      "metac_106"
+      "metac_105",
+      "metac_106",
+      "metac_144",
+      "metac_153"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
@@ -3551,7 +4941,9 @@
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3575,18 +4967,27 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_105",
+      "metac_028",
+      "metac_102",
       "metac_104",
-      "metac_122"
+      "metac_105",
+      "metac_122",
+      "metac_132",
+      "metac_152"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3611,18 +5012,25 @@
     "block": "Educational Frameworks",
     "related": [
       "metac_103",
-      "metac_122",
-      "metac_107"
+      "metac_107",
+      "metac_122"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_CONT",
+      "DIM_CRIT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_ANA",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3646,11 +5054,12 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_103",
       "metac_102",
+      "metac_103",
       "metac_122"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
@@ -3658,7 +5067,8 @@
       "HER_PLANT_FF",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3682,20 +5092,27 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_122",
+      "metac_005",
+      "metac_014",
+      "metac_077",
       "metac_102",
-      "metac_014"
+      "metac_122"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_ANA",
+      "INS_PROB",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3720,17 +5137,24 @@
     "block": "Educational Frameworks",
     "related": [
       "metac_023",
+      "metac_104",
       "metac_122",
-      "metac_104"
+      "metac_130",
+      "metac_141",
+      "metac_152"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_BORR",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3790,18 +5214,23 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_108",
       "metac_031",
+      "metac_108",
       "metac_121"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_EXPO",
       "INS_ROL",
-      "TEC_OBS_SIS"
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -3825,18 +5254,32 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
+      "metac_041",
       "metac_108",
-      "metac_120",
-      "metac_041"
+      "metac_120"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "DIM_INDAG",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_ART_DIV",
+      "INS_AUTOINF",
+      "INS_ESQUEMA",
+      "INS_EXPO",
+      "INS_INFOG",
+      "INS_MEM_PROY",
+      "INS_MONO",
+      "INS_PART",
+      "INS_TRAB_COOP",
       "INS_VIDEO",
-      "TEC_OBS_SIS"
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -3862,11 +5305,21 @@
     "related": [
       "metac_014",
       "metac_027",
-      "metac_101"
+      "metac_101",
+      "metac_152"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_COMPART",
+      "DIM_PROY",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3889,15 +5342,25 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_093",
+      "metac_048",
+      "metac_052",
       "metac_083",
-      "metac_052"
+      "metac_088",
+      "metac_093",
+      "metac_101"
     ],
     "eval_ids": [
       "DIM_INCL",
+      "DIM_PROB",
+      "DIM_PROY",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_TRAB_COOP",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3921,13 +5384,22 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_022",
       "metac_052",
       "metac_064",
-      "metac_022"
+      "metac_086",
+      "metac_128",
+      "metac_134"
     ],
     "eval_ids": [
       "DIM_INCL",
-      "TEC_PROC_REFLEX"
+      "DIM_PROB",
+      "DIM_SUM",
+      "INS_PROB",
+      "TEC_ANAL_DOC",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3951,20 +5423,32 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_038",
       "metac_061",
       "metac_115",
-      "metac_038"
+      "metac_118",
+      "metac_120",
+      "metac_140",
+      "metac_142",
+      "metac_143"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_EXPO",
       "INS_ROL",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -3987,18 +5471,23 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_114",
+      "metac_038",
       "metac_092",
-      "metac_038"
+      "metac_114",
+      "metac_141"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
       "INS_TRAB_COOP",
-      "TEC_OBS_SIS"
+      "TEC_OBS_SIS",
+      "TEC_PROD"
     ]
   },
   {
@@ -4023,11 +5512,16 @@
     "block": "Cooperative Learning Organization",
     "related": [
       "metac_035",
-      "metac_061",
-      "metac_041"
+      "metac_041",
+      "metac_061"
     ],
     "eval_ids": [
+      "HER_RUB_COOP",
+      "INS_EXPO",
       "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROD"
     ]
   },
@@ -4051,15 +5545,24 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_076",
+      "metac_055",
       "metac_064",
-      "metac_055"
+      "metac_076"
     ],
     "eval_ids": [
+      "DIM_GAMIF",
       "DIM_INCL",
+      "DIM_PROB",
+      "HER_RUB_COOP",
+      "INS_DEBATE",
+      "INS_DRAMA",
+      "INS_PROB",
+      "INS_ROL",
       "INS_TRAB_COOP",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4081,9 +5584,9 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
+      "metac_021",
       "metac_053",
-      "metac_114",
-      "metac_021"
+      "metac_114"
     ],
     "eval_ids": [
       "HER_RUB_COOP",
@@ -4113,14 +5616,22 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_016",
+      "metac_008",
       "metac_009",
-      "metac_008"
+      "metac_016",
+      "metac_041"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "INS_DEBATE",
+      "INS_EXPO",
       "INS_ROL",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROD"
     ]
   },
@@ -4144,19 +5655,27 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
+      "metac_041",
+      "metac_108",
       "metac_110",
-      "metac_114",
-      "metac_041"
+      "metac_114"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "DIM_INCL",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_POSTER",
       "INS_ROL",
-      "TEC_OBS_SIS"
+      "INS_TRAB_COOP",
+      "TEC_OBS_SIS",
+      "TEC_ORAL"
     ]
   },
   {
@@ -4183,20 +5702,32 @@
     "block": "Active Methodologies",
     "related": [
       "metac_007",
+      "metac_082",
       "metac_094",
-      "metac_082"
+      "metac_109"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DIG",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_GAMIF",
       "DIM_HET",
       "DIM_INCL",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_ENTREV",
+      "INS_ESCAPE",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_PROB",
       "INS_TRAB_COOP",
       "INS_VIDEO",
+      "TEC_ENTREV_EVAL",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROD"
     ]
   },
@@ -4223,21 +5754,45 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_106",
       "metac_029",
-      "metac_107"
+      "metac_077",
+      "metac_085",
+      "metac_103",
+      "metac_104",
+      "metac_105",
+      "metac_106",
+      "metac_107",
+      "metac_129",
+      "metac_130",
+      "metac_141",
+      "metac_144"
     ],
     "eval_ids": [
+      "DIM_AUTO",
       "DIM_CAL_ACRED",
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "HER_ESC_AUTO",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
+      "HER_LISTA_AUTO",
       "HER_PLANT_FF",
+      "HER_RUB_ANA",
+      "HER_RUB_AUTO",
+      "HER_RUB_COEV",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_REV_PARES",
+      "INS_TRAB_COOP",
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4261,20 +5816,27 @@
     "programs": [],
     "block": "Cooperative Learning Organization",
     "related": [
-      "metac_093",
+      "metac_035",
       "metac_056",
-      "metac_035"
+      "metac_085",
+      "metac_093"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_INCL",
+      "DIM_PROY",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PART",
       "INS_PODCAST",
       "INS_ROL",
       "INS_TRAB_COOP",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROD"
     ]
   },
@@ -4300,16 +5862,30 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_090",
       "metac_057",
-      "metac_069"
+      "metac_058",
+      "metac_069",
+      "metac_090",
+      "metac_128",
+      "metac_129",
+      "metac_134",
+      "metac_135"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_HET",
+      "DIM_PROB",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4336,17 +5912,29 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_126",
       "metac_001",
-      "metac_008"
+      "metac_008",
+      "metac_126",
+      "metac_127",
+      "metac_128",
+      "metac_131",
+      "metac_133",
+      "metac_134",
+      "metac_136"
     ],
     "eval_ids": [
       "DIM_FEED",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_EXPO",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4375,21 +5963,35 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_125",
       "metac_008",
-      "metac_010"
+      "metac_010",
+      "metac_125",
+      "metac_128",
+      "metac_129"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_INDAG",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
+      "INS_CHECK_LAB",
+      "INS_EXPO",
+      "INS_INFO_LAB",
+      "INS_LAB",
       "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4417,24 +6019,33 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_045",
       "metac_008",
+      "metac_034",
+      "metac_045",
       "metac_074",
       "metac_099",
       "metac_125",
-      "metac_034"
+      "metac_131"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
+      "DIM_SIM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "INS_PR_OBJ",
+      "INS_ROL",
+      "INS_SIM",
       "INS_TEST",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
       "TEC_PROD",
-      "TEC_PRUEBA"
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4461,24 +6072,33 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_125",
-      "metac_126",
-      "metac_090",
       "metac_024",
       "metac_042",
+      "metac_090",
       "metac_113",
-      "metac_124"
+      "metac_124",
+      "metac_125",
+      "metac_126",
+      "metac_133",
+      "metac_134",
+      "metac_136",
+      "metac_147"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "INS_DEBATE",
+      "INS_EXPO",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4505,25 +6125,46 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_122",
-      "metac_077",
-      "metac_044",
       "metac_029",
-      "metac_126",
+      "metac_044",
+      "metac_077",
+      "metac_090",
+      "metac_122",
       "metac_124",
-      "metac_090"
+      "metac_126",
+      "metac_130",
+      "metac_136",
+      "metac_148"
     ],
     "eval_ids": [
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROY",
+      "DIM_SUM",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
       "HER_LISTA",
       "HER_PLANT_FF",
+      "HER_RUB_ANA",
+      "HER_RUB_COEV",
+      "HER_RUB_COOP",
+      "INS_BORR",
+      "INS_CHECK_LAB",
+      "INS_EXPO",
+      "INS_LAB",
       "INS_PORT",
+      "INS_REV_PARES",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
+      "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4548,22 +6189,36 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_129",
-      "metac_122",
       "metac_029",
       "metac_096",
-      "metac_107"
+      "metac_107",
+      "metac_122",
+      "metac_129",
+      "metac_148"
     ],
     "eval_ids": [
+      "DIM_COEV",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_PROB",
+      "HER_FICHA_COEV",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COEV",
+      "HER_RUB_COOP",
+      "INS_2E1D",
+      "INS_BORR",
+      "INS_EXPO",
+      "INS_INFO_INV",
+      "INS_REV_PARES",
+      "INS_TRAB_COOP",
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4589,17 +6244,25 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_099",
-      "metac_127",
-      "metac_045",
-      "metac_008",
       "metac_001",
-      "metac_125"
+      "metac_008",
+      "metac_045",
+      "metac_099",
+      "metac_125",
+      "metac_127"
     ],
     "eval_ids": [
+      "DIM_DIAG",
+      "DIM_INDAG",
+      "DIM_PROB",
+      "INS_EXPO",
       "INS_VIDEO",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4629,10 +6292,16 @@
       "metac_063",
       "metac_069",
       "metac_100",
-      "metac_103"
+      "metac_103",
+      "metac_146"
     ],
     "eval_ids": [
-      "TEC_PROC_REFLEX"
+      "INS_EXPO",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4658,16 +6327,23 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_125",
       "metac_001",
-      "metac_099",
-      "metac_128",
+      "metac_075",
       "metac_090",
-      "metac_075"
+      "metac_099",
+      "metac_125",
+      "metac_128"
     ],
     "eval_ids": [
+      "DIM_INDAG",
+      "DIM_PROB",
+      "INS_EXPO",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4692,23 +6368,30 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_128",
-      "metac_125",
       "metac_024",
-      "metac_090",
       "metac_042",
+      "metac_090",
       "metac_113",
-      "metac_124"
+      "metac_124",
+      "metac_125",
+      "metac_128",
+      "metac_136"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
+      "DIM_PROB",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "INS_DEBATE",
+      "INS_EXPO",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4738,13 +6421,22 @@
       "metac_069",
       "metac_078",
       "metac_079",
+      "metac_090",
       "metac_124",
-      "metac_090"
+      "metac_143",
+      "metac_150"
     ],
     "eval_ids": [
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_RESUMEN",
       "INS_ROL",
       "INS_TRAB_COOP",
-      "TEC_PROC_REFLEX"
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4772,26 +6464,32 @@
     "block": "Active Methodologies",
     "related": [
       "metac_024",
-      "metac_128",
-      "metac_125",
-      "metac_090",
       "metac_042",
+      "metac_090",
+      "metac_125",
+      "metac_128",
       "metac_129",
-      "metac_134"
+      "metac_134",
+      "metac_147"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_DESEMP",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "HER_RUB_COOP",
       "INS_DEBATE",
+      "INS_EXPO",
       "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
       "TEC_ORAL",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4814,21 +6512,26 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_138",
-      "metac_150",
       "metac_066",
+      "metac_073",
       "metac_096",
-      "metac_073"
+      "metac_138",
+      "metac_139",
+      "metac_150"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
+      "DIM_SUM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4853,16 +6556,22 @@
     "related": [
       "metac_137",
       "metac_139",
+      "metac_141",
       "metac_150",
-      "metac_141"
+      "metac_153"
     ],
     "eval_ids": [
+      "DIM_CONT",
+      "DIM_DIAG",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
-      "TEC_OBS_SIS"
+      "INS_POSTER",
+      "TEC_OBS_SIS",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4885,14 +6594,20 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_138",
-      "metac_137",
       "metac_073",
+      "metac_137",
+      "metac_138",
       "metac_153"
     ],
     "eval_ids": [
+      "DIM_COMP",
+      "DIM_PROB",
+      "INS_PROB",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
       "TEC_PROC_REFLEX",
-      "TEC_PROD"
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4915,13 +6630,20 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_142",
-      "metac_153",
       "metac_038",
-      "metac_114"
+      "metac_114",
+      "metac_142",
+      "metac_143",
+      "metac_144",
+      "metac_153"
     ],
     "eval_ids": [
-      "DIM_INCL"
+      "DIM_INCL",
+      "DIM_PROB",
+      "INS_PROB",
+      "TEC_ANAL_DOC",
+      "TEC_PROD",
+      "TEC_PRUEBA"
     ]
   },
   {
@@ -4944,19 +6666,23 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_115",
       "metac_107",
+      "metac_115",
       "metac_122",
       "metac_138"
     ],
     "eval_ids": [
       "DIM_CAL_ACRED",
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "DIM_HET",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
-      "TEC_OBS_SIS"
+      "TEC_OBS_SIS",
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -4979,14 +6705,19 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_143",
-      "metac_140",
       "metac_038",
-      "metac_114"
+      "metac_114",
+      "metac_140",
+      "metac_143",
+      "metac_153"
     ],
     "eval_ids": [
       "DIM_INCL",
-      "TEC_PROC_REFLEX"
+      "DIM_PROB",
+      "INS_PROB",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5009,15 +6740,20 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_142",
+      "metac_114",
       "metac_135",
       "metac_140",
-      "metac_114"
+      "metac_142"
     ],
     "eval_ids": [
       "DIM_DESEMP",
       "DIM_INCL",
-      "TEC_PROC_REFLEX"
+      "INS_EXPO",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5040,18 +6776,22 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_122",
       "metac_023",
       "metac_102",
+      "metac_122",
       "metac_140"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "INS_EXPO",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5074,15 +6814,19 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_074",
+      "metac_040",
       "metac_051",
-      "metac_075",
-      "metac_040"
+      "metac_074",
+      "metac_075"
     ],
     "eval_ids": [
+      "DIM_DIAG",
+      "DIM_INDAG",
+      "INS_POSTER",
       "INS_ROL",
       "INS_VIDEO",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5106,13 +6850,20 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
+      "metac_004",
       "metac_063",
       "metac_100",
-      "metac_132",
-      "metac_004"
+      "metac_132"
     ],
     "eval_ids": [
-      "TEC_PROC_REFLEX"
+      "DIM_DIAG",
+      "INS_EXPO",
+      "INS_MAP_CONC",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5136,14 +6887,18 @@
     "block": "Active Methodologies",
     "related": [
       "metac_024",
-      "metac_136",
       "metac_090",
-      "metac_128"
+      "metac_128",
+      "metac_136"
     ],
     "eval_ids": [
+      "DIM_INDAG",
       "INS_DEBATE",
+      "INS_EXPO",
+      "INS_ROL",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5167,16 +6922,24 @@
     "block": "Active Methodologies",
     "related": [
       "metac_032",
+      "metac_057",
       "metac_129",
-      "metac_130",
-      "metac_057"
+      "metac_130"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
-      "TEC_OBS_SIS"
+      "HER_RUB_COOP",
+      "INS_RESUMEN",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5200,15 +6963,21 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_075",
       "metac_012",
+      "metac_075",
       "metac_078",
       "metac_079"
     ],
     "eval_ids": [
+      "DIM_DIAG",
+      "DIM_INDAG",
       "INS_DEBATE",
+      "INS_ROL",
+      "TEC_ANAL_DOC",
       "TEC_ORAL",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5231,18 +7000,23 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_137",
       "metac_066",
       "metac_069",
-      "metac_135"
+      "metac_135",
+      "metac_137",
+      "metac_138"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
+      "TEC_ANAL_DOC",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_PROD",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5265,17 +7039,23 @@
     "programs": [],
     "block": "Active Methodologies",
     "related": [
-      "metac_097",
-      "metac_069",
       "metac_004",
-      "metac_066"
+      "metac_066",
+      "metac_069",
+      "metac_097"
     ],
     "eval_ids": [
+      "DIM_CONT",
       "DIM_FEED",
       "DIM_FORM",
       "HER_FICHA_RETRO",
       "HER_PLANT_FF",
-      "TEC_OBS_SIS"
+      "INS_EXPO",
+      "INS_RESUMEN",
+      "TEC_ANAL_DOC",
+      "TEC_OBS_SIS",
+      "TEC_ORAL",
+      "TEC_PROD"
     ]
   },
   {
@@ -5298,14 +7078,20 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_111",
-      "metac_107",
       "metac_040",
-      "metac_103"
+      "metac_103",
+      "metac_107",
+      "metac_111"
     ],
     "eval_ids": [
+      "DIM_INDAG",
+      "DIM_PROB",
+      "DIM_PROY",
+      "HER_RUB_COOP",
+      "INS_TRAB_COOP",
       "TEC_OBS_SIS",
-      "TEC_PROC_REFLEX"
+      "TEC_PROC_REFLEX",
+      "TEC_SONDEO"
     ]
   },
   {
@@ -5328,14 +7114,19 @@
     "programs": [],
     "block": "Educational Frameworks",
     "related": [
-      "metac_140",
-      "metac_142",
+      "metac_102",
       "metac_138",
       "metac_139",
-      "metac_102"
+      "metac_140",
+      "metac_142"
     ],
     "eval_ids": [
-      "DIM_INCL"
+      "DIM_INCL",
+      "DIM_PROB",
+      "INS_ESQUEMA",
+      "INS_POSTER",
+      "TEC_ANAL_DOC",
+      "TEC_PROD"
     ]
   }
 ]

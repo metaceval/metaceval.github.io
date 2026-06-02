@@ -484,7 +484,7 @@ function mapDraw() {
       ctx.strokeStyle = dark ? 'rgba(148,163,184,0.6)' : 'rgba(100,116,139,0.5)';
     } else if (isSelEdge) {
       ctx.setLineDash([]);
-      ctx.lineWidth   = 2.5 / cam.scale;
+      ctx.lineWidth   = 2 / cam.scale;
       ctx.strokeStyle = dark ? 'rgba(148,163,184,0.95)' : 'rgba(37,99,235,0.75)';
     } else {
       ctx.setLineDash([]);

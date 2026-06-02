@@ -349,14 +349,24 @@ function evalGraphDraw() {
   ctx.scale(cam.scale, cam.scale);
   ctx.translate(-cam.x, -cam.y);
 
-  EGRAPH.edges.forEach(({ a, b, isTransversal }) => {
+  const centerIdx = EGRAPH.nodes.findIndex(n => n.isCenter);
+  EGRAPH.edges.forEach(({ a, b }) => {
     const na = EGRAPH.nodes[a], nb = EGRAPH.nodes[b];
-    const col = isTransversal ? pal.DIM : pal[nb.prefix];
+    const isHovEdge    = hov >= 0 && (a === hov || b === hov);
+    const isCenterEdge = centerIdx >= 0 && (a === centerIdx || b === centerIdx);
     ctx.beginPath();
     ctx.moveTo(na.x, na.y);
     ctx.lineTo(nb.x, nb.y);
-    ctx.strokeStyle = (col?.edge || '#999') + (dark ? '88' : '66');
-    ctx.lineWidth   = 2;
+    if (isHovEdge) {
+      ctx.lineWidth   = 1.5 / cam.scale;
+      ctx.strokeStyle = dark ? 'rgba(148,163,184,0.85)' : 'rgba(37,99,235,0.55)';
+    } else if (isCenterEdge) {
+      ctx.lineWidth   = 2 / cam.scale;
+      ctx.strokeStyle = dark ? 'rgba(148,163,184,0.95)' : 'rgba(37,99,235,0.75)';
+    } else {
+      ctx.lineWidth   = 1.5 / cam.scale;
+      ctx.strokeStyle = dark ? 'rgba(148,163,184,0.55)' : 'rgba(37,99,235,0.35)';
+    }
     ctx.stroke();
   });
 

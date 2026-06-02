@@ -520,6 +520,7 @@
       "DIM_HET",
       "DIM_INDAG",
       "DIM_PROB",
+      "DIM_PROY",
       "HER_RUB_COOP",
       "INS_CHECK_LAB",
       "INS_EXPO",
@@ -1033,6 +1034,7 @@
       "metac_087"
     ],
     "eval_ids": [
+      "DIM_INCL",
       "DIM_PROB",
       "HER_RUB_COOP",
       "HER_SOCIO",

@@ -611,6 +611,9 @@ function applyI18N() {
   document.getElementById('assistantLink').title       = i('assistantTip');
   const bipartiteBtn = document.getElementById('modalBipartiteBtn');
   if (bipartiteBtn) bipartiteBtn.title = i('bipartiteTip');
+  setText('modalBipartiteBtnLabel', i('viewEvaluacion'));
+  setText('modalEvalMapBtnLabel', i('mapView'));
+  setTitle('modalEvalMapBtn', i('mapViewHint'));
   document.getElementById('selectBtnLabel').textContent = S.selectMode ? i('selectOff') : i('selectMode');
   document.getElementById('favBtnLabel').textContent   = i('favBtn');
   document.getElementById('panelTitle').textContent    = i('favPanel');

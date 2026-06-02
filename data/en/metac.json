@@ -20,7 +20,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_099",
+      "metac_045",
+      "metac_125"
+    ],
     "eval_ids": [
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX",
@@ -43,7 +47,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_053",
+      "metac_054",
+      "metac_021"
+    ],
     "eval_ids": [
       "TEC_ORAL"
     ]
@@ -72,7 +80,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_095",
+      "metac_076",
+      "metac_025"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP",
@@ -98,7 +110,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_022",
+      "metac_069",
+      "metac_063"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_INCL",
@@ -126,7 +142,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_091",
+      "metac_046",
+      "metac_106"
+    ],
     "eval_ids": [
       "INS_ROL"
     ]
@@ -150,7 +170,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_013",
+      "metac_091",
+      "metac_024"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_ROL",
@@ -183,7 +207,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_121",
+      "metac_094",
+      "metac_082"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -212,7 +240,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_010",
+      "metac_126",
+      "metac_045"
+    ],
     "eval_ids": [
       "INS_PR_OBJ",
       "INS_TEST",
@@ -240,7 +272,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_015",
+      "metac_080",
+      "metac_016"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP",
@@ -270,7 +306,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_008",
+      "metac_126",
+      "metac_011"
+    ],
     "eval_ids": [
       "DIM_PROB",
       "INS_ROL",
@@ -301,7 +341,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_008",
+      "metac_010",
+      "metac_034"
+    ],
     "eval_ids": [
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX"
@@ -331,7 +375,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_075",
+      "metac_079",
+      "metac_078"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -368,7 +416,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_091",
+      "metac_006",
+      "metac_015"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -403,7 +455,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_013",
+      "metac_027",
+      "metac_080"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -439,7 +495,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_009",
+      "metac_080",
+      "metac_027"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -474,7 +534,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_009",
+      "metac_119",
+      "metac_011"
+    ],
     "eval_ids": [
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX"
@@ -500,7 +564,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_008",
+      "metac_016",
+      "metac_034"
+    ],
     "eval_ids": [
       "DIM_TRAZ_IA",
       "TEC_PROC_REFLEX"
@@ -525,7 +593,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_082",
+      "metac_079",
+      "metac_070"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -554,7 +626,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_050",
+      "metac_087",
+      "metac_024"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "INS_LLUVIA",
@@ -586,7 +662,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_035",
+      "metac_061",
+      "metac_062"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -616,7 +696,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_002",
+      "metac_054",
+      "metac_089"
+    ],
     "eval_ids": [
       "DIM_TRAZ_IA"
     ]
@@ -641,7 +725,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_113",
+      "metac_028",
+      "metac_004"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "HER_FICHA_RETRO",
@@ -668,7 +756,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_077",
+      "metac_030",
+      "metac_107"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -703,7 +795,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_090",
+      "metac_042",
+      "metac_019"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -736,7 +832,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_095",
+      "metac_072",
+      "metac_083"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -772,7 +872,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_100",
+      "metac_097",
+      "metac_069"
+    ],
     "eval_ids": [
       "INS_VIDEO",
       "TEC_PROC_REFLEX"
@@ -804,7 +908,11 @@
       }
     ],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_046",
+      "metac_015",
+      "metac_064"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -837,7 +945,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_022",
+      "metac_064",
+      "metac_103"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "TEC_ORAL",
@@ -868,7 +980,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_037",
+      "metac_122",
+      "metac_096"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -897,7 +1013,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_040",
+      "metac_077",
+      "metac_074"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -928,7 +1048,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_100",
+      "metac_014",
+      "metac_097"
+    ],
     "eval_ids": [
       "INS_VIDEO",
       "TEC_PROD"
@@ -954,7 +1078,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_088",
+      "metac_048",
+      "metac_033"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -990,7 +1118,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_063",
+      "metac_032",
+      "metac_069"
+    ],
     "eval_ids": [
       "INS_TRAB_COOP"
     ]
@@ -1020,7 +1152,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_008",
+      "metac_011",
+      "metac_051"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1054,7 +1190,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_020",
+      "metac_061",
+      "metac_116"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP"
@@ -1084,7 +1224,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_067",
+      "metac_049",
+      "metac_070"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1118,7 +1262,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_067",
+      "metac_096",
+      "metac_066"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1148,7 +1296,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_003",
+      "metac_114",
+      "metac_115"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "TEC_PROD"
@@ -1175,7 +1327,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_070",
+      "metac_090",
+      "metac_079"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1205,7 +1361,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_030",
+      "metac_074",
+      "metac_081"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1236,7 +1396,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_116",
+      "metac_119",
+      "metac_043"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1266,7 +1430,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_090",
+      "metac_024",
+      "metac_093"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1299,7 +1467,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_041",
+      "metac_073",
+      "metac_096"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1335,7 +1507,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_048",
+      "metac_101",
+      "metac_100"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1369,7 +1545,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_008",
+      "metac_071",
+      "metac_001"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1410,7 +1590,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_027",
+      "metac_064",
+      "metac_091"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "HER_LISTA",
@@ -1449,7 +1633,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_032",
+      "metac_101",
+      "metac_112"
+    ],
     "eval_ids": [
       "INS_LLUVIA",
       "INS_POSTER",
@@ -1477,7 +1665,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_036",
+      "metac_073",
+      "metac_067"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1510,7 +1702,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_019",
+      "metac_087",
+      "metac_006"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1546,7 +1742,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_075",
+      "metac_081",
+      "metac_037"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1581,7 +1781,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_113",
+      "metac_086",
+      "metac_112"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1608,7 +1812,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_002",
+      "metac_089",
+      "metac_118"
+    ],
     "eval_ids": [
       "TEC_ORAL"
     ]
@@ -1631,7 +1839,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_021",
+      "metac_084",
+      "metac_089"
+    ],
     "eval_ids": [
       "INS_TRAB_COOP"
     ]
@@ -1657,7 +1869,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_090",
+      "metac_042",
+      "metac_093"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "TEC_ORAL",
@@ -1683,7 +1899,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_068",
+      "metac_098",
+      "metac_076"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1716,7 +1936,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_069",
+      "metac_124",
+      "metac_058"
+    ],
     "eval_ids": [
       "INS_TRAB_COOP",
       "TEC_ORAL"
@@ -1742,7 +1966,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_057",
+      "metac_069",
+      "metac_124"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1772,7 +2000,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_051",
+      "metac_095",
+      "metac_003"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP",
@@ -1799,7 +2031,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_078",
+      "metac_086",
+      "metac_028"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1831,7 +2067,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_035",
+      "metac_114",
+      "metac_116"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_ROL",
@@ -1855,7 +2095,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_013",
+      "metac_020",
+      "metac_010"
+    ],
     "eval_ids": [
       "DIM_PROB"
     ]
@@ -1885,7 +2129,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_033",
+      "metac_100",
+      "metac_004"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP"
@@ -1909,7 +2157,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_046",
+      "metac_113",
+      "metac_086"
+    ],
     "eval_ids": [
       "TEC_PROD"
     ]
@@ -1931,7 +2183,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_089",
+      "metac_002",
+      "metac_052"
+    ],
     "eval_ids": []
   },
   {
@@ -1957,7 +2213,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_096",
+      "metac_067",
+      "metac_037"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -1990,7 +2250,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_066",
+      "metac_036",
+      "metac_037"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2020,7 +2284,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_098",
+      "metac_056",
+      "metac_092"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2058,7 +2326,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_057",
+      "metac_097",
+      "metac_004"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2088,7 +2360,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_018",
+      "metac_039",
+      "metac_066"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2120,7 +2396,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_045",
+      "metac_095",
+      "metac_008"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2152,7 +2432,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_025",
+      "metac_095",
+      "metac_084"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "INS_TRAB_COOP",
@@ -2183,7 +2467,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_095",
+      "metac_068",
+      "metac_096"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2212,7 +2500,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_081",
+      "metac_040",
+      "metac_051"
+    ],
     "eval_ids": [
       "INS_POSTER",
       "INS_ROL",
@@ -2241,7 +2533,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_051",
+      "metac_008",
+      "metac_012"
+    ],
     "eval_ids": [
       "TEC_PROC_REFLEX"
     ]
@@ -2264,7 +2560,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_003",
+      "metac_056",
+      "metac_091"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_DEBATE",
@@ -2290,7 +2590,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_030",
+      "metac_122",
+      "metac_106"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2327,7 +2631,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_060",
+      "metac_012",
+      "metac_079"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_VIDEO",
@@ -2361,7 +2669,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_018",
+      "metac_012",
+      "metac_078"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2394,7 +2706,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_015",
+      "metac_009",
+      "metac_014"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2424,7 +2740,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_074",
+      "metac_051",
+      "metac_075"
+    ],
     "eval_ids": [
       "TEC_PROC_REFLEX"
     ]
@@ -2448,7 +2768,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_018",
+      "metac_094",
+      "metac_084"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2480,7 +2804,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_025",
+      "metac_088",
+      "metac_112"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2520,7 +2848,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_072",
+      "metac_054",
+      "metac_082"
+    ],
     "eval_ids": [
       "INS_TRAB_COOP"
     ]
@@ -2542,7 +2874,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_122",
+      "metac_092",
+      "metac_123"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2573,7 +2909,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_064",
+      "metac_052",
+      "metac_113"
+    ],
     "eval_ids": [
       "INS_ROL",
       "TEC_PROC_REFLEX"
@@ -2604,7 +2944,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_050",
+      "metac_019",
+      "metac_100"
+    ],
     "eval_ids": [
       "INS_ROL",
       "TEC_PROC_REFLEX"
@@ -2630,7 +2974,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_083",
+      "metac_048",
+      "metac_112"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2663,7 +3011,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_053",
+      "metac_054",
+      "metac_065"
+    ],
     "eval_ids": []
   },
   {
@@ -2685,7 +3037,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_124",
+      "metac_042",
+      "metac_024"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "TEC_ORAL",
@@ -2711,7 +3067,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_013",
+      "metac_046",
+      "metac_076"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP",
@@ -2741,7 +3101,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_115",
+      "metac_094",
+      "metac_068"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2773,7 +3137,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_055",
+      "metac_042",
+      "metac_112"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "INS_ROL",
@@ -2808,7 +3176,11 @@
       }
     ],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_007",
+      "metac_092",
+      "metac_082"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP"
@@ -2834,7 +3206,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_003",
+      "metac_025",
+      "metac_072"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_DEBATE",
@@ -2866,7 +3242,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_066",
+      "metac_067",
+      "metac_037"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2898,7 +3278,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_069",
+      "metac_026",
+      "metac_004"
+    ],
     "eval_ids": [
       "TEC_PROC_REFLEX"
     ]
@@ -2923,7 +3307,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_068",
+      "metac_056",
+      "metac_092"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -2952,7 +3340,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_001",
+      "metac_045",
+      "metac_075"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_BLOG",
@@ -2983,7 +3375,11 @@
       }
     ],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_026",
+      "metac_063",
+      "metac_087"
+    ],
     "eval_ids": [
       "INS_POSTER"
     ]
@@ -3007,7 +3403,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_048",
+      "metac_044",
+      "metac_112"
+    ],
     "eval_ids": []
   },
   {
@@ -3030,7 +3430,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_105",
+      "metac_103",
+      "metac_106"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3063,7 +3467,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_105",
+      "metac_104",
+      "metac_122"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3094,7 +3502,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_103",
+      "metac_122",
+      "metac_107"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3125,7 +3537,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_103",
+      "metac_102",
+      "metac_122"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3156,7 +3572,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_122",
+      "metac_102",
+      "metac_014"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3187,7 +3607,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_023",
+      "metac_122",
+      "metac_104"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3217,7 +3641,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_109",
+      "metac_110",
+      "metac_120"
+    ],
     "eval_ids": []
   },
   {
@@ -3240,7 +3668,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_108",
+      "metac_031",
+      "metac_121"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3270,7 +3702,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_108",
+      "metac_120",
+      "metac_041"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3301,7 +3737,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_014",
+      "metac_027",
+      "metac_101"
+    ],
     "eval_ids": [
       "TEC_PROC_REFLEX",
       "TEC_PROD"
@@ -3326,7 +3766,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_093",
+      "metac_083",
+      "metac_052"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_DEBATE",
@@ -3354,7 +3798,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_052",
+      "metac_064",
+      "metac_022"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "TEC_PROC_REFLEX"
@@ -3380,7 +3828,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_061",
+      "metac_115",
+      "metac_038"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3411,7 +3863,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_114",
+      "metac_092",
+      "metac_038"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3442,7 +3898,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_035",
+      "metac_061",
+      "metac_041"
+    ],
     "eval_ids": [
       "INS_TRAB_COOP",
       "TEC_PROD"
@@ -3467,7 +3927,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_076",
+      "metac_064",
+      "metac_055"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "INS_TRAB_COOP",
@@ -3493,7 +3957,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_053",
+      "metac_114",
+      "metac_021"
+    ],
     "eval_ids": []
   },
   {
@@ -3515,7 +3983,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_016",
+      "metac_009",
+      "metac_008"
+    ],
     "eval_ids": [
       "INS_ROL",
       "TEC_PROD"
@@ -3540,7 +4012,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_110",
+      "metac_114",
+      "metac_041"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3573,7 +4049,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_007",
+      "metac_094",
+      "metac_082"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3608,7 +4088,11 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_106",
+      "metac_029",
+      "metac_107"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3640,7 +4124,11 @@
     ],
     "programs": [],
     "block": "Cooperative Learning Organization",
-    "related": [],
+    "related": [
+      "metac_093",
+      "metac_056",
+      "metac_035"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3675,7 +4163,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_090",
+      "metac_057",
+      "metac_069"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "TEC_ORAL",
@@ -3705,7 +4197,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_126",
+      "metac_001",
+      "metac_008"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "HER_FICHA_RETRO",
@@ -3740,7 +4236,11 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_125",
+      "metac_008",
+      "metac_010"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3776,7 +4276,14 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_045",
+      "metac_008",
+      "metac_074",
+      "metac_099",
+      "metac_125",
+      "metac_034"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3813,7 +4320,15 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_125",
+      "metac_126",
+      "metac_090",
+      "metac_024",
+      "metac_042",
+      "metac_113",
+      "metac_124"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3849,7 +4364,15 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_122",
+      "metac_077",
+      "metac_044",
+      "metac_029",
+      "metac_126",
+      "metac_124",
+      "metac_090"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3883,7 +4406,13 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_129",
+      "metac_122",
+      "metac_029",
+      "metac_096",
+      "metac_107"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -3917,7 +4446,14 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_099",
+      "metac_127",
+      "metac_045",
+      "metac_008",
+      "metac_001",
+      "metac_125"
+    ],
     "eval_ids": [
       "INS_VIDEO",
       "TEC_OBS_SIS",
@@ -3945,7 +4481,14 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_004",
+      "metac_022",
+      "metac_063",
+      "metac_069",
+      "metac_100",
+      "metac_103"
+    ],
     "eval_ids": [
       "TEC_PROC_REFLEX"
     ]
@@ -3972,7 +4515,14 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_125",
+      "metac_001",
+      "metac_099",
+      "metac_128",
+      "metac_090",
+      "metac_075"
+    ],
     "eval_ids": [
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX"
@@ -3999,7 +4549,15 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_128",
+      "metac_125",
+      "metac_024",
+      "metac_090",
+      "metac_042",
+      "metac_113",
+      "metac_124"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4033,7 +4591,14 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_057",
+      "metac_069",
+      "metac_078",
+      "metac_079",
+      "metac_124",
+      "metac_090"
+    ],
     "eval_ids": [
       "INS_ROL",
       "INS_TRAB_COOP",
@@ -4063,7 +4628,15 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_024",
+      "metac_128",
+      "metac_125",
+      "metac_090",
+      "metac_042",
+      "metac_129",
+      "metac_134"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4096,7 +4669,13 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_138",
+      "metac_150",
+      "metac_066",
+      "metac_096",
+      "metac_073"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4126,7 +4705,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_137",
+      "metac_139",
+      "metac_150",
+      "metac_141"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4154,7 +4738,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_138",
+      "metac_137",
+      "metac_073",
+      "metac_153"
+    ],
     "eval_ids": [
       "TEC_PROC_REFLEX",
       "TEC_PROD"
@@ -4179,7 +4768,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_142",
+      "metac_153",
+      "metac_038",
+      "metac_114"
+    ],
     "eval_ids": [
       "DIM_INCL"
     ]
@@ -4203,7 +4797,12 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_115",
+      "metac_107",
+      "metac_122",
+      "metac_138"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4231,7 +4830,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_143",
+      "metac_140",
+      "metac_038",
+      "metac_114"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "TEC_PROC_REFLEX"
@@ -4256,7 +4860,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_142",
+      "metac_135",
+      "metac_140",
+      "metac_114"
+    ],
     "eval_ids": [
       "DIM_INCL",
       "TEC_PROC_REFLEX"
@@ -4281,7 +4890,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_122",
+      "metac_023",
+      "metac_102",
+      "metac_140"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4310,7 +4924,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_074",
+      "metac_051",
+      "metac_075",
+      "metac_040"
+    ],
     "eval_ids": [
       "INS_ROL",
       "INS_VIDEO",
@@ -4337,7 +4956,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_063",
+      "metac_100",
+      "metac_132",
+      "metac_004"
+    ],
     "eval_ids": [
       "TEC_PROC_REFLEX"
     ]
@@ -4361,7 +4985,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_024",
+      "metac_136",
+      "metac_090",
+      "metac_128"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "TEC_ORAL",
@@ -4387,7 +5016,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_032",
+      "metac_129",
+      "metac_130",
+      "metac_057"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4416,7 +5050,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_075",
+      "metac_012",
+      "metac_078",
+      "metac_079"
+    ],
     "eval_ids": [
       "INS_DEBATE",
       "TEC_ORAL",
@@ -4442,7 +5081,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_137",
+      "metac_066",
+      "metac_069",
+      "metac_135"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4471,7 +5115,12 @@
     ],
     "programs": [],
     "block": "Active Methodologies",
-    "related": [],
+    "related": [
+      "metac_097",
+      "metac_069",
+      "metac_004",
+      "metac_066"
+    ],
     "eval_ids": [
       "DIM_FEED",
       "DIM_FORM",
@@ -4499,7 +5148,12 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_111",
+      "metac_107",
+      "metac_040",
+      "metac_103"
+    ],
     "eval_ids": [
       "TEC_OBS_SIS",
       "TEC_PROC_REFLEX"
@@ -4524,7 +5178,13 @@
     ],
     "programs": [],
     "block": "Educational Frameworks",
-    "related": [],
+    "related": [
+      "metac_140",
+      "metac_142",
+      "metac_138",
+      "metac_139",
+      "metac_102"
+    ],
     "eval_ids": [
       "DIM_INCL"
     ]

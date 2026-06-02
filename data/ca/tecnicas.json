@@ -1130,7 +1130,10 @@
         "HER_PLANT_CORR": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_043",
+      "metac_052"
+    ]
   },
   {
     "id": "TEC_ANAL_DOC",
@@ -1306,7 +1309,9 @@
         "HER_PANEL": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_069"
+    ]
   },
   {
     "id": "TEC_TRIANG",

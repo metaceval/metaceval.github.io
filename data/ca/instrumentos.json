@@ -2009,7 +2009,9 @@
         "INS_F_REFLEX": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_029"
+    ]
   },
   {
     "id": "HER_SEMAFORO",
@@ -2112,7 +2114,17 @@
         "TEC_ENC_CUEST": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_015",
+      "metac_029",
+      "metac_030",
+      "metac_034",
+      "metac_037",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_122"
+    ]
   },
   {
     "id": "HER_RUB_AUTO",
@@ -2161,7 +2173,17 @@
         "INS_AUTOINF": "principal"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_015",
+      "metac_029",
+      "metac_030",
+      "metac_034",
+      "metac_037",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_122"
+    ]
   },
   {
     "id": "HER_RUB_COEV",
@@ -2208,7 +2230,17 @@
         "INS_DEF_PROY": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_020",
+      "metac_029",
+      "metac_042",
+      "metac_044",
+      "metac_049",
+      "metac_085",
+      "metac_122",
+      "metac_129",
+      "metac_130"
+    ]
   },
   {
     "id": "HER_FICHA_COEV",
@@ -2258,7 +2290,17 @@
         "INS_TRAB_COOP": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_020",
+      "metac_029",
+      "metac_042",
+      "metac_044",
+      "metac_049",
+      "metac_085",
+      "metac_122",
+      "metac_129",
+      "metac_130"
+    ]
   },
   {
     "id": "HER_LISTA_AUTO",
@@ -2302,7 +2344,17 @@
         "INS_PRESENT_DIG": "complementaria"
       }
     },
-    "metac_ids": []
+    "metac_ids": [
+      "metac_015",
+      "metac_029",
+      "metac_030",
+      "metac_034",
+      "metac_037",
+      "metac_040",
+      "metac_077",
+      "metac_085",
+      "metac_122"
+    ]
   },
   {
     "id": "HER_REG_COMP",

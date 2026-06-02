@@ -2188,7 +2188,13 @@
       "metac_002",
       "metac_052"
     ],
-    "eval_ids": []
+    "eval_ids": [
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_TRAB_COOP",
+      "TEC_ORAL"
+    ]
   },
   {
     "id": "metac_066",
@@ -3016,7 +3022,14 @@
       "metac_054",
       "metac_065"
     ],
-    "eval_ids": []
+    "eval_ids": [
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_ROL",
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
+      "TEC_SONDEO"
+    ]
   },
   {
     "id": "metac_090",
@@ -3408,7 +3421,16 @@
       "metac_044",
       "metac_112"
     ],
-    "eval_ids": []
+    "eval_ids": [
+      "DIM_SUM",
+      "HER_RUB_COOP",
+      "INS_EXPO",
+      "INS_PART",
+      "INS_TRAB_COOP",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_SONDEO"
+    ]
   },
   {
     "id": "metac_102",
@@ -3646,7 +3668,15 @@
       "metac_110",
       "metac_120"
     ],
-    "eval_ids": []
+    "eval_ids": [
+      "DIM_INDAG",
+      "INS_EXPO",
+      "TEC_ANAL_DOC",
+      "TEC_ORAL",
+      "TEC_PROD",
+      "TEC_PRUEBA",
+      "TEC_SONDEO"
+    ]
   },
   {
     "id": "metac_109",
@@ -3962,7 +3992,13 @@
       "metac_114",
       "metac_021"
     ],
-    "eval_ids": []
+    "eval_ids": [
+      "HER_RUB_COOP",
+      "INS_ESQUEMA",
+      "INS_EXPO",
+      "INS_TRAB_COOP",
+      "TEC_ORAL"
+    ]
   },
   {
     "id": "metac_119",

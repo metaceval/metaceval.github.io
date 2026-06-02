@@ -160,6 +160,7 @@ const I18N = {
     evalTypeFilterLabel: 'Ver en el mapa:',
     evalTypeToggleTip:  tipo => `${tipo} — mostrar u ocultar este tipo de elemento en el grafo`,
     evalHub2ndTip:  'Mostrar u ocultar las conexiones entre los propios nodos relacionados (relaciones de 2.º grado)',
+    evalHub2ndLabel: '2.º nivel',
     evalOccasionalBtn:'Ocasionales',
     evalOccasionalTip:'Mostrar u ocultar las relaciones de uso ocasional o poco frecuente',
     evalHubFitTip:  'Centrar el grafo y ajustar el zoom para ver todos los nodos',
@@ -352,6 +353,7 @@ const I18N = {
     evalTypeFilterLabel: 'Veure al mapa:',
     evalTypeToggleTip:  tipus => `${tipus} — mostrar o amagar aquest tipus d'element al graf`,
     evalHub2ndTip:  'Mostrar o amagar les connexions entre els mateixos nodes relacionats (relacions de 2n grau)',
+    evalHub2ndLabel: '2n nivell',
     evalOccasionalBtn:'Ocasionals',
     evalOccasionalTip:'Mostrar / ocultar relacions ocasionals',
     evalHubFitTip:  'Centrar i ajustar la vista',
@@ -544,6 +546,7 @@ const I18N = {
     evalTypeFilterLabel: 'Show in map:',
     evalTypeToggleTip:  type => `${type} — show or hide this element type in the graph`,
     evalHub2ndTip:  'Show or hide connections between the related nodes themselves (2nd-degree relationships)',
+    evalHub2ndLabel: '2nd level',
     evalOccasionalBtn:'Occasional',
     evalOccasionalTip:'Show / hide occasional relationships',
     evalHubFitTip:  'Centre and fit view',
@@ -638,7 +641,8 @@ function applyI18N() {
   setTitle('footerCodeBadge', i('footerCodeTitle'));
   setText('footerCodeLabel', i('footerCode'));
   setTitle('evalHub2ndBtn',  i('evalHub2ndTip'));
-  setText('evalHubOccasionalBtn', i('evalOccasionalBtn'));
+  setText('evalHub2ndLabel', i('evalHub2ndLabel'));
+  setText('evalHubOccasionalLabel', i('evalOccasionalBtn'));
   setTitle('evalHubOccasionalBtn', i('evalOccasionalTip'));
   setTitle('evalMapExpandBtn', i('evalHub2ndTip'));
   setTitle('evalMapFitBtn', i('evalHubFitTip'));

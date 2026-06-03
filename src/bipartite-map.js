@@ -27,8 +27,8 @@ const BPAL = {
     bg: '#f8fafc', grid: '#e2e8f0', text: '#1e293b', muted: '#64748b',
     ego: { bg: '#fef3c7', border: '#f59e0b', text: '#b45309' },
     TEC: { bg: '#dbeafe', border: '#3b82f6', text: '#1e40af' },
-    INS: { bg: '#dcfce7', border: '#4ade80', text: '#15803d' },
-    HER: { bg: '#f3e8ff', border: '#c084fc', text: '#7e22ce' },
+    EVI: { bg: '#dcfce7', border: '#4ade80', text: '#15803d' },
+    INS: { bg: '#f3e8ff', border: '#c084fc', text: '#7e22ce' },
     DIM: { bg: '#fef3c7', border: '#fbbf24', text: '#b45309' },
     tec: { bg: '#fef3c7', border: '#f59e0b', text: '#b45309' },
     edge: '#cbd5e1', edgeHover: '#3b82f6',
@@ -37,8 +37,8 @@ const BPAL = {
     bg: '#0f172a', grid: '#1e293b', text: '#f1f5f9', muted: '#94a3b8',
     ego: { bg: '#451a03', border: '#f59e0b', text: '#fcd34d' },
     TEC: { bg: '#1e3a5f', border: '#3b82f6', text: '#93c5fd' },
-    INS: { bg: '#14532d', border: '#22c55e', text: '#86efac' },
-    HER: { bg: '#3b0764', border: '#a855f7', text: '#d8b4fe' },
+    EVI: { bg: '#14532d', border: '#22c55e', text: '#86efac' },
+    INS: { bg: '#3b0764', border: '#a855f7', text: '#d8b4fe' },
     DIM: { bg: '#451a03', border: '#fbbf24', text: '#fcd34d' },
     tec: { bg: '#451a03', border: '#f59e0b', text: '#fcd34d' },
     edge: '#334155', edgeHover: '#60a5fa',
@@ -106,7 +106,7 @@ function bmapBuild(id, type) {
   if (type === 'tecnica') {
     const evItems = bmapConnectedEval(id);
     // Group by prefix (entity_type → category)
-    const order = ['TEC','INS','HER','DIM'];
+    const order = ['TEC','EVI','INS','DIM'];
     const grouped = {};
     evItems.forEach(e => {
       const pfx = evalEntityPrefix(e.id);
@@ -200,8 +200,8 @@ function bmapDraw() {
   // so each group is delimited on the side instead of interrupting the column.
   const GROUP_LABELS = {
     TEC: () => i('evalCatTec'),
+    EVI: () => i('evalCatEvi'),
     INS: () => i('evalCatIns'),
-    HER: () => i('evalCatHer'),
     DIM: () => i('evalCatDim'),
     tec: () => i('techniques') || 'Técnicas activas',
   };

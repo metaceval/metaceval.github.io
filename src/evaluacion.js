@@ -1044,8 +1044,8 @@ function openEvalModal(evalId) {
   const byId = EV.byId[S.lang];
   const innerGroups = [
     { field: 'related_tecnicas',    cat: EVAL_CATS.find(c => c.prefix === 'TEC') },
-    { field: 'related_instruments', cat: EVAL_CATS.find(c => c.prefix === 'INS') },
-    { field: 'related_tools',       cat: EVAL_CATS.find(c => c.prefix === 'HER') },
+    { field: 'related_instruments', cat: EVAL_CATS.find(c => c.prefix === 'EVI') },
+    { field: 'related_tools',       cat: EVAL_CATS.find(c => c.prefix === 'INS') },
     { field: 'related_dimensions',  cat: EVAL_CATS.find(c => c.prefix === 'DIM') },
   ].map(({ field, cat }) => ({
     cat,
@@ -1170,8 +1170,8 @@ function buildEvalMarkdown(entity) {
   const byId = EV.byId[S.lang];
   const innerGroups = [
     { field: 'related_tecnicas', cat: EVAL_CATS.find(c => c.prefix === 'TEC') },
-    { field: 'related_instruments', cat: EVAL_CATS.find(c => c.prefix === 'INS') },
-    { field: 'related_tools', cat: EVAL_CATS.find(c => c.prefix === 'HER') },
+    { field: 'related_instruments', cat: EVAL_CATS.find(c => c.prefix === 'EVI') },
+    { field: 'related_tools', cat: EVAL_CATS.find(c => c.prefix === 'INS') },
     { field: 'related_dimensions', cat: EVAL_CATS.find(c => c.prefix === 'DIM') },
   ].map(({ field, cat }) => ({
     cat,

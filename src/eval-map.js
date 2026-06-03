@@ -21,14 +21,14 @@ const EG = {
 const EGPAL = {
   light: {
     TEC: { bg: '#dbeafe', edge: '#93c5fd', stroke: '#2563EB', text: '#1D4ED8' },
-    INS: { bg: '#dcfce7', edge: '#4ade80', stroke: '#16a34a', text: '#15803d' },
-    HER: { bg: '#f3e8ff', edge: '#c084fc', stroke: '#9333ea', text: '#7e22ce' },
+    EVI: { bg: '#dcfce7', edge: '#4ade80', stroke: '#16a34a', text: '#15803d' },
+    INS: { bg: '#f3e8ff', edge: '#c084fc', stroke: '#9333ea', text: '#7e22ce' },
     DIM: { bg: '#fef3c7', edge: '#fbbf24', stroke: '#d97706', text: '#b45309' },
   },
   dark: {
     TEC: { bg: 'rgba(37,99,235,0.15)',   edge: '#3b82f6', stroke: '#60a5fa', text: '#93c5fd' },
-    INS: { bg: 'rgba(22,163,74,0.15)',   edge: '#22c55e', stroke: '#4ade80', text: '#86efac' },
-    HER: { bg: 'rgba(147,51,234,0.15)',  edge: '#a855f7', stroke: '#c084fc', text: '#d8b4fe' },
+    EVI: { bg: 'rgba(22,163,74,0.15)',   edge: '#22c55e', stroke: '#4ade80', text: '#86efac' },
+    INS: { bg: 'rgba(147,51,234,0.15)',  edge: '#a855f7', stroke: '#c084fc', text: '#d8b4fe' },
     DIM: { bg: 'rgba(217,119,6,0.15)',   edge: '#f59e0b', stroke: '#fbbf24', text: '#fde68a' },
   },
 };
@@ -48,8 +48,8 @@ const EVAL_DIM_REL  = { cat: 'dimensiones', field: 'related_dimensions', metaKey
 const EVAL_REL_PRI  = { principal: 3, complementaria: 2, ocasional: 1 };
 const EVAL_GRAPH_TYPES = [
   { prefix: 'TEC', cat: 'tecnicas', label: 'evalCatTec' },
-  { prefix: 'INS', cat: 'evidencias', label: 'evalCatIns' },
-  { prefix: 'HER', cat: 'instrumentos', label: 'evalCatHer' },
+  { prefix: 'EVI', cat: 'evidencias', label: 'evalCatEvi' },
+  { prefix: 'INS', cat: 'instrumentos', label: 'evalCatIns' },
   { prefix: 'DIM', cat: 'dimensiones', label: 'evalCatDim' },
 ];
 
@@ -60,7 +60,7 @@ const EGRAPH = {
   camera: { x: 0, y: 0, scale: 1 },
   expanded: false,
   showOccasional: false,
-  vis: { TEC: true, INS: true, HER: true, DIM: true },
+  vis: { TEC: true, EVI: true, INS: true, DIM: true },
   isPanning: false, panMoved: false,
   panStart: { x: 0, y: 0 }, camStart: { x: 0, y: 0 },
   dragNode: -1,

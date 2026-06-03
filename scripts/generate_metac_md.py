@@ -34,8 +34,8 @@ LANGS = {
         "source":   "Fuente",
         "eval":     "Cómo evaluar",
             "eval_tec": "Técnicas de evaluación",
-            "eval_ins": "Evidencias observables",
-            "eval_her": "Instrumentos",
+            "eval_evi": "Evidencias observables",
+            "eval_ins": "Instrumentos",
             "eval_dim": "Dimensiones",
         },
     },
@@ -61,8 +61,8 @@ LANGS = {
         "source":   "Font",
         "eval":     "Com avaluar",
             "eval_tec": "Tècniques d'avaluació",
-            "eval_ins": "Evidències observables",
-            "eval_her": "Instruments",
+            "eval_evi": "Evidències observables",
+            "eval_ins": "Instruments",
             "eval_dim": "Dimensions",
         },
     },
@@ -88,8 +88,8 @@ LANGS = {
         "source":   "Source",
         "eval":     "How to assess",
             "eval_tec": "Evaluation techniques",
-            "eval_ins": "Observable evidence",
-            "eval_her": "Instruments",
+            "eval_evi": "Observable evidence",
+            "eval_ins": "Instruments",
             "eval_dim": "Dimensions",
         },
     },
@@ -193,18 +193,18 @@ def technique_block(n, item, labels, by_id, eval_names):
     if item.get("eval_ids") and eval_names:
         groups = {
             "eval_tec": [],
+            "eval_evi": [],
             "eval_ins": [],
-            "eval_her": [],
             "eval_dim": [],
         }
-        prefix_map = {"TEC": "eval_tec", "INS": "eval_ins", "HER": "eval_her", "DIM": "eval_dim"}
+        prefix_map = {"TEC": "eval_tec", "EVI": "eval_evi", "INS": "eval_ins", "DIM": "eval_dim"}
         for eid in item["eval_ids"]:
             prefix = eid.split("_")[0]
             key = prefix_map.get(prefix)
             if key and eid in eval_names:
                 groups[key].append(eval_names[eid])
         eval_parts = []
-        for key in ("eval_tec", "eval_ins", "eval_her", "eval_dim"):
+        for key in ("eval_tec", "eval_evi", "eval_ins", "eval_dim"):
             if groups[key]:
                 eval_parts.append(f"*{labels[key]}:* {', '.join(groups[key])}")
         if eval_parts:

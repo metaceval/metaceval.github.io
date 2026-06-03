@@ -178,12 +178,16 @@ function filteredData() {
   if (S.field)
     indexed = indexed.filter(({ item }) => item.fieldIds.includes(S.field));
 
-  const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  const norm = normSearch;
   const q = norm(S.search.trim());
   if (q) indexed = indexed.filter(({ item }) =>
-    norm(item.id).includes(q) ||
+    S.searchMode === 'title'
+      ? norm(item.name).includes(q)
+      : (norm(item.id).includes(q) ||
     norm(item.name).includes(q) ||
     norm(item.desc).includes(q) ||
+    norm(item.example).includes(q) ||
+    norm(item.source).includes(q) ||
     norm(item.summary).includes(q) ||
     item.blocks.some(b => norm(b).includes(q)) ||
     item.tags.some(t => norm(t).includes(q)) ||
@@ -191,7 +195,7 @@ function filteredData() {
     item.programs.some(p =>
       norm(p.label).includes(q) ||
       norm(p.url).includes(q)
-    )
+    ))
   );
 
   return sortRows(indexed);
@@ -327,7 +331,7 @@ function renderCards() {
     const card = document.createElement('div');
     card.className = 'card' + (fav ? ' is-fav' : '') + (shared ? ' is-shared' : '') + (selected ? ' is-selected' : '');
     const progIcon = item.programs.length
-      ? `<span class="card-prog-icon" title="${item.programs.map(p => esc(p.label)).join(', ')}"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></span>`
+      ? `<span class="card-prog-icon" title="${item.programs.map(p => esc(p.label)).join(', ')}"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></span>`
       : '';
     card.innerHTML = `
       <div class="card-top">
@@ -426,6 +430,26 @@ function openModal(itemId) {
   document.getElementById('modalTags').style.display = item.summary ? '' : 'none';
   document.getElementById('modalBody').innerHTML = formatDesc(item.desc);
 
+  // Source
+  const sourceEl = document.getElementById('modalSource');
+  if (item.source) {
+    sourceEl.style.display = '';
+    sourceEl.textContent = item.source;
+  } else {
+    sourceEl.style.display = 'none';
+    sourceEl.textContent = '';
+  }
+
+  // Example block
+  const exampleEl = document.getElementById('modalExample');
+  if (item.example) {
+    exampleEl.style.display = '';
+    exampleEl.innerHTML = `<div class="modal-example-label">${esc(i('example'))}</div>` + formatDesc(item.example);
+  } else {
+    exampleEl.style.display = 'none';
+    exampleEl.innerHTML = '';
+  }
+
   // Related techniques (bidirectional)
   const relBox = document.getElementById('modalRelated');
   const relatedItems = relatedBidirectional(item);
@@ -451,9 +475,9 @@ function openModal(itemId) {
     progWrap.innerHTML = `<span class="modal-programs-label">${i('programs')}</span>` +
       item.programs.map(p => `
         <a class="program-btn" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-            <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/>
+            <rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/>
           </svg>
           ${esc(p.label)}
         </a>`).join('');
@@ -517,6 +541,8 @@ function printModal() {
     ${meta ? `<p class="print-meta">${esc(meta)}</p>` : ''}
     ${item.summary ? `<p class="print-summary">${esc(item.summary)}</p>` : ''}
     <div class="print-body">${formatDesc(item.desc)}</div>
+    ${item.source ? `<p class="print-source">${esc(item.source)}</p>` : ''}
+    ${item.example ? `<div class="print-example-label">${esc(i('example'))}</div><div class="print-body print-example">${formatDesc(item.example)}</div>` : ''}
     <p class="print-footer">Metac · ${techniqueURL(item.id)}</p>
   `;
   window.print();
@@ -528,6 +554,8 @@ function buildTechniqueMarkdown(item) {
   if (item.fields.length) lines.push(`Ámbitos: ${item.fields.join(', ')}`);
   if (item.summary) lines.push('', item.summary);
   if (item.desc) lines.push('', item.desc.trim());
+  if (item.example) lines.push('', `## ${i('example')}`, '', item.example.trim());
+  if (item.source)  lines.push('', item.source.trim());
 
   const relatedItems = relatedBidirectional(item);
   if (relatedItems.length) {
@@ -578,6 +606,8 @@ function copyModal() {
     meta ? `<p><em>${esc(meta)}</em></p>` : '',
     item.summary ? `<blockquote><p>${esc(item.summary)}</p></blockquote>` : '',
     item.desc ? formatDesc(item.desc) : '',
+    item.example ? `<h3>${esc(i('example'))}</h3>${formatDesc(item.example)}` : '',
+    item.source  ? `<p><em>${esc(item.source)}</em></p>` : '',
     `<p><a href="${esc(url)}">${esc(url)}</a></p>`,
   ].filter(Boolean).join('\n');
 
@@ -586,6 +616,8 @@ function copyModal() {
     meta,
     item.summary ? '\n' + item.summary : '',
     item.desc ? '\n' + item.desc.replace(/## /g, '\n').trim() : '',
+    item.example ? `\n${i('example')}\n` + item.example.replace(/## /g, '\n').trim() : '',
+    item.source  ? '\n' + item.source.trim() : '',
     '\n' + url,
   ].filter(Boolean).join('\n');
 

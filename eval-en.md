@@ -2225,6 +2225,37 @@ It is the most suitable assessment tool for complex tasks where detailed feedbac
 
 **Limitations:** Requires design time and good descriptors.
 
+**Example:**
+
+Analytic rubric for assessing an oral presentation in Year 10. Each criterion is scored independently.
+|
+| Criterion
+| Excellent (4)
+| Satisfactory (3)
+| Developing (2)
+| Beginning (1)
+| Content
+| Clear, well-developed ideas supported by evidence.
+| Correct ideas with some details underdeveloped.
+| Basic ideas; lacks depth or precision.
+| Incomplete or inaccurate information.
+| Structure
+| Introduction, development and conclusion very clearly distinguished.
+| Clear structure with some transitions that could be improved.
+| Structure present but poorly defined.
+| No appreciable structure.
+| Oral expression
+| Excellent diction, volume and pace; constant eye contact.
+| Fluent delivery with occasional hesitation.
+| Functional delivery but with frequent pauses or low voice.
+| Significant difficulties in oral communication.
+| Time management
+| Fits the allotted time perfectly.
+| Slight overrun or underrun (±1 min).
+| 2–3 minute discrepancy.
+| Does not manage the allotted time.
+The final mark is obtained by adding the score for each criterion (maximum 16 points) and converting it to a 1–10 scale.
+
 **Active techniques using this:** SOLO Taxonomy, Authentic Assessment, Assessment Rubric, Peer Review, Computational thinking, Fishbone diagram (Ishikawa), Venn diagram
 
 ---

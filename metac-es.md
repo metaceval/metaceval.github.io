@@ -51,12 +51,6 @@ En la mayoría de los casos, la rutina toma la forma presentándola a toda una c
 
 Las preguntas básicas pueden ser muchas y se pueden variar en número y formas, dependiendo del contexto, algunos ejemplos pueden ser: ¿Qué sabe usted? ¿Qué es lo que ves o sabes que te hace decir eso?, aunque también es posible que nos venga bien trabajar las interpretaciones que los alumnos realizan del tema que se está trabajando y de esta manera podemos utilizar preguntas como: ¿Qué ves? o ¿Qué sabe usted? Con el tiempo los estudiantes pueden empezar a apoyar automáticamente sus interpretaciones con evidencias y, finalmente, los estudiantes empezarán a interiorizar la rutina.
 
-#### Ejemplo
-
-En una clase de historia, el profesor muestra una fotografía de una fábrica durante la Revolución Industrial y pregunta: “¿Qué creéis que está ocurriendo en esta imagen?”. Un alumno responde: “Parece que las condiciones de trabajo eran duras”. El profesor le pide que justifique su interpretación: “¿Qué te hace decir eso?”. El alumno señala la presencia de muchos trabajadores juntos, la falta de luz natural y la edad aparente de algunos niños.
-
-A partir de estas respuestas, la clase diferencia entre observaciones, interpretaciones y evidencias. La rutina ayuda a que el alumnado no se limite a opinar, sino que apoye sus ideas en indicios concretos.
-
 #### Relación con CER
 
 Esta rutina se relaciona con **Afirmación, evidencia y razonamiento (CER)** porque ambas piden justificar las ideas con evidencias. En los dos casos el alumnado debe evitar respuestas basadas solo en opiniones y aprender a distinguir entre observación, interpretación y justificación.
@@ -64,6 +58,12 @@ Esta rutina se relaciona con **Afirmación, evidencia y razonamiento (CER)** por
 La diferencia principal es que «¿Qué te hace decir eso?» funciona como una rutina breve de observación e interpretación: el alumnado dice qué piensa sobre una imagen, texto, objeto o situación y explica qué indicios le llevan a pensarlo. CER, en cambio, exige una estructura argumentativa más completa: una afirmación explícita, evidencias seleccionadas y un razonamiento que explique por qué esas evidencias sostienen la afirmación.
 
 Por eso, «¿Qué te hace decir eso?» es especialmente útil para iniciar una conversación, activar la observación o hacer visibles las interpretaciones del alumnado. CER es más adecuado cuando se quiere elaborar una respuesta final, una explicación científica, una conclusión de laboratorio o un texto argumentado.
+
+**Ejemplo:**
+
+En una clase de historia, el profesor muestra una fotografía de una fábrica durante la Revolución Industrial y pregunta: “¿Qué creéis que está ocurriendo en esta imagen?”. Un alumno responde: “Parece que las condiciones de trabajo eran duras”. El profesor le pide que justifique su interpretación: “¿Qué te hace decir eso?”. El alumno señala la presencia de muchos trabajadores juntos, la falta de luz natural y la edad aparente de algunos niños.
+
+A partir de estas respuestas, la clase diferencia entre observaciones, interpretaciones y evidencias. La rutina ayuda a que el alumnado no se limite a opinar, sino que apoye sus ideas en indicios concretos.
 
 **Técnicas relacionadas:** Genera hipótesis, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Concept Cartoon, Afirmación, apoyo y pregunta (Claim-Support-Question), El juego de la explicación (The Explanation Game)
 
@@ -92,7 +92,7 @@ Esta rutina de pensamiento implica que los alumnos analicen un texto o una image
 - Pide a los alumnos que sinteticen los puntos clave en un resumen o en un esquema.
 - Revisa el resumen o el esquema de los alumnos y proporciona feedback. Puedes hacerlo de manera individual o con todo el equipo, dependiendo de las necesidades de los alumnos.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de biología, el profesor entrega un breve texto sobre la circulación sanguínea y un esquema del corazón. Primero, el alumnado subraya las ideas principales: función del corazón, recorrido de la sangre y diferencia entre sangre oxigenada y desoxigenada. Después, organiza esas ideas en un esquema con flechas.
 
@@ -121,8 +121,6 @@ _Palabras clave: aplicación de conocimientos, resolución de problemas, pensami
 
 La rutina de pensamiento "Aplica los conocimientos" es una herramienta muy útil para ayudar a los estudiantes a utilizar los conocimientos que han adquirido de manera activa y reflexiva. Esto implica aplicar los conocimientos a situaciones o problemas nuevos, con el fin de comprender mejor los conceptos y utilizar el pensamiento crítico para resolver problemas.
 
-
-
     Parte del profesor:
 
 1. Establece el objetivo de la rutina: antes de comenzarla, es importante que expliques a los alumnos cuál es el objetivo de la rutina y cómo se relaciona con el material que estáis estudiando.
@@ -141,7 +139,7 @@ Parte de los alumnos:
 
 1. Revisad el trabajo que habéis hecho para aseguraros de que habéis aplicado los conocimientos de manera adecuada y que habéis llegado a conclusiones razonables. Si hay algo que no os queda claro, no dudéis en pedir ayuda o en hacer preguntas.
 
-#### Ejemplo
+**Ejemplo:**
 
 Después de estudiar porcentajes e interés simple, el profesor plantea una situación práctica: “Queréis comprar un ordenador de 600 euros. Una tienda ofrece un descuento del 15 % y otra permite pagarlo en seis meses con un recargo del 4 %. ¿Qué opción conviene más y por qué?”.
 
@@ -179,9 +177,6 @@ Esta rutina se puede utilizar al principio de una unidad para ayudar a los alumn
 Después de identificar un tema, los alumnos realizan una lluvia de ideas sobre diferentes perspectivas que puede haber. Se puede ayudar a los alumnos con estas preguntas:
 ¿Cómo se ve desde diferentes puntos en el espacio y desde diferentes puntos en el tiempo? ¿Quién y qué queda afectado? ¿Quién está involucrado? ¿A quién le puede preocupar? Después de la lluvia de ideas, cada alumno escoge un punto de vista. Hay que darles tiempo para preparar qué pueden decir sobre el tema desde esta perspectiva, para encarnar el punto de vista utilizando estas preguntas y para estructurar aquello que dice el personaje.
 
-
-
-
 CÍRCULO DE PUNTOS DE VISTA
 
 ---
@@ -191,17 +186,12 @@ CÍRCULO DE PUNTOS DE VISTA
 ---
 **PIENSO** ... 
 
-
-
-
-
-
 ---
 
 **CONCLUSIONES**
  ¿Qué nuevas ideas tienes sobre el tema que antes no tenías? ¿Qué nuevas preguntas tienes?
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de geografía, el profesor plantea el tema de la construcción de una nueva carretera cerca de una zona natural. Primero, la clase identifica distintos puntos de vista: vecinos que necesitan desplazarse, comerciantes locales, ecologistas, responsables municipales y animales o plantas afectados por la obra.
 
@@ -258,7 +248,8 @@ La rutina de pensamiento Contrasta y compara es una técnica que se puede utiliz
 
 1. Escuchad el *feedback* del profesor y utilizadlo para mejorar las comparaciones y contrastes que habéis hecho.
 
-#### Ejemplo
+**Ejemplo:**
+
 Objetivo: Mejorar la comprensión de los alumnos sobre la Revolución Francesa
 
 - Etapa 1: Proporcionar a los alumnos diferentes fuentes de información sobre la Revolución Francesa
@@ -326,21 +317,9 @@ Una rutina para extraer la esencia de las ideas no verbales
 ¿Qué imagen elegirías para representar esta idea? |
  
 
-
 COMENTARIOS
 
-
-
-
-
-
-
-
-
-
----
-
-#### Ejemplo de aplicación de la rutina CSI: Color, Símbolo, Imagen
+**Ejemplo:**
 
 - Objetivo: Mejorar la comprensión de los alumnos sobre la Segunda Guerra Mundial
 - Etapa 1: Proporcionar a los alumnos información sobre la Segunda Guerra Mundial a través de lecturas y vídeos
@@ -409,7 +388,7 @@ La rutina de pensamiento ""detecta patrones"" consiste en buscar e identificar r
 
 1. Haz un resumen de las ideas más importantes que han surgido de la discusión y reflexiona sobre lo que has aprendido. ¿Qué relaciones o patrones has identificado? ¿Qué ideas nuevas has aprendido? ¿Cómo puedes aplicar estas ideas a otras situaciones o problemas?
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de matemáticas aplicadas, el profesor entrega una tabla con los ingresos y gastos mensuales de varias familias ficticias. El alumnado observa los datos y busca patrones: qué tipos de gastos aumentan cuando suben los ingresos, qué gastos se mantienen estables y qué situaciones generan más riesgo de déficit.
 
@@ -444,7 +423,7 @@ Esta rutina permite realizar una reflexión crítica sobre lo que se ha entendid
 
 Se puede utilizar una plantilla similar a esta:
 
-#### Ejemplo
+**Ejemplo:**
 
 Al finalizar una explicación sobre la fotosíntesis, cada alumno completa tres columnas. En verde escribe: “Entiendo que las plantas fabrican materia orgánica usando luz, agua y dióxido de carbono”. En amarillo anota: “Tengo dudas sobre el papel de las sales minerales”. En rojo puede escribir: “No entiendo bien qué ocurre en los cloroplastos”.
 
@@ -487,7 +466,8 @@ Rutina que guía al alumnado para pensar sobre su propio aprendizaje mediante un
 - Mejorar la transferencia de conocimientos.
 - Desarrollar autorregulación y pensamiento reflexivo.
 
-#### Ejemplo
+**Ejemplo:**
+
 Al terminar una práctica de laboratorio, los alumnos completan la escalera indicando qué han aprendido sobre el diseño experimental, cómo han controlado variables y en qué otros experimentos podrían aplicar ese procedimiento.
 
 **Técnicas relacionadas:** Diario de aprendizaje, Pensaba... ahora pienso, Puente 3 - 2 - 1, Conectar, ampliar, desafiar, Hábitos mentales, Autoexplicación
@@ -534,7 +514,7 @@ Si se realiza de forma individual, los alumnos pueden utilizar esta rutina para 
 
 Si se realiza en grupo, pueden utilizar esta rutina para debatir y discutir sus ideas con los compañeros. Esto les puede ayudar a comprender mejor las diferentes perspectivas y a desarrollar habilidades de comunicación y trabajo en equipo. También les puede ayudar a enriquecer sus investigaciones con las ideas y la información de los demás.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de biología, el profesor muestra dos plantas de la misma especie: una con hojas verdes y otra con hojas amarillentas. Plantea la pregunta: “¿Por qué una de las plantas presenta clorosis?”.
 
@@ -585,7 +565,7 @@ Aquí tenemos los pasos para utilizar esta rutina de forma efectiva:
 
 1. Selecciona la mejor solución entre las que has valorado.
 
-#### Ejemplo
+**Ejemplo:**
 
 En digitalización, el profesor plantea un problema real del grupo: muchos alumnos olvidan fechas de entrega y materiales necesarios. Primero, el alumnado genera posibles soluciones: calendario compartido, recordatorios automáticos, tablón semanal, checklist por asignatura o responsable rotativo.
 
@@ -628,7 +608,8 @@ Rutina que organiza el aprendizaje en tres momentos: lo que el alumnado sabe, lo
 - Transformar la curiosidad en preguntas de trabajo.
 - Favorecer la metacognición y la síntesis final.
 
-#### Ejemplo
+**Ejemplo:**
+
 Antes de estudiar los ecosistemas, los alumnos escriben qué saben sobre cadenas tróficas, qué preguntas tienen sobre las relaciones entre organismos y, al final, qué han aprendido sobre redes alimentarias y equilibrio ecológico.
 
 **Recursos:** [Nube de palabras](https://jjdeharo.github.io/directo/nube.html)
@@ -661,12 +642,9 @@ Esta técnica se utiliza para introducir un tema, una idea o una propuesta. Se t
 - N: Necesidad de Saber. ¿Qué más necesitas saber o descubrir sobre esta idea o propuesta? ¿Qué información adicional os ayudaría a evaluar estas ideas o propuestas?
 - S: Sugerencias o Postura para Avanzar. ¿Cuál es tu sugerencia, postura u opinión actual con respecto a esta idea o propuesta? ¿Cuál debe ser el paso siguiente para evaluar esta idea o propuesta?
 
-
-
-
 Adaptado de: Project Zero. (2020). Puntos de la Brújula
 
-#### Ejemplo
+**Ejemplo:**
 
 El profesor plantea la siguiente idea o propuesta: ""La escuela está pensando en implementar un nuevo sistema de recogida de residuos para reducir la generación de basura y mejorar la gestión de los recursos. ¿Qué os parece?" "
 
@@ -674,6 +652,8 @@ El profesor plantea la siguiente idea o propuesta: ""La escuela está pensando e
 1. **Objeciones**. Exponen los obstáculos o preocupaciones que han encontrado con esta idea o propuesta. Algunos pueden decir que es una muy buena idea, pero que es necesario hacer una campaña de concienciación para que todos sepan cómo funciona el nuevo sistema de recogida de residuos y se comprometan a seguirlo.
 1. **Necesidades**. Exponen qué más necesitarían saber o descubrir sobre esta idea o propuesta para poder evaluarla de forma más precisa. Algunos pueden pedir más información sobre qué tipos de residuos se pueden reciclar y cómo se hará la recogida, otros pueden pedir información sobre qué recursos se necesitarían para implementar este nuevo sistema, o bien pueden pedir ejemplos de otras escuelas que ya hayan implementado un sistema de recogida de residuos similar.
 1. **Suggeriments**. Los estudiantes dan sus sugerencias o posiciones para avanzar con esta idea o propuesta y exponen cuál debe ser el paso siguiente para evaluarla. Algunos pueden decir que es necesario hacer una reunión con todos los estudiantes para explicarles el nuevo sistema de recogida de residuos y pedirles su compromiso para seguirlo. Otros pueden decir que es necesario hacer una encuesta para ver qué grado de conocimiento hay sobre reciclaje y cómo se podría mejorar.
+
+_Adaptado de: Project Zero. (2020). Puntos de la Brújula._
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
 
@@ -718,7 +698,7 @@ Para utilizar la técnica de los ""5 porqués" ", el profesorado puede seguir lo
 
 1. Una vez que los alumnos hayan aprendido a utilizar la técnica, les puede ser útil utilizar esta estrategia para reflexionar sobre otros temas o materias de estudio para mejorar su comprensión y su aprendizaje.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de biología, el profesor plantea el problema: “Una planta del aula se está marchitando”. El grupo aplica los 5 porqués:
 
@@ -780,10 +760,6 @@ Se les dan a los alumnos las siguientes instrucciones:
 1. Cada miembro del grupo reflexiona brevemente sobre su nueva comprensión y cómo la rutina ha contribuido a ella.
 (5 minutos).
 
-
-
-
-
 | ***PALABRA*** | ***IDEA*** | ***FRASE*** |
 |*¿Qué palabra te ha captado la atención?* |*¿Qué idea es significativa para ti?* |*¿Qué flash te ha ayudado a entender mejor la exposición / texto?* |
 ---
@@ -791,29 +767,19 @@ Se les dan a los alumnos las siguientes instrucciones:
 
 ¿Qué temas hay en común? 
 
-
-
 *
 
 ---
 ***IMPLICACIONS**:
  ¿Qué implicaciones, interpretaciones o predicciones podéis sacar del texto? 
 
-
-
 *
 
 ---
 ***ASPECTOS OLVIDADOS**: 
-¿Qué aspectos del texto se han olvidado en la discusión del grupo? ¿Qué os lleva a pensar esto? * 
+¿Qué aspectos del texto se han olvidado en la discusión del grupo? ¿Qué os lleva a pensar esto? *
 
-
-
-
-
----
-
-#### Ejemplo
+**Ejemplo:**
 
 Después de leer un artículo breve sobre el uso de inteligencia artificial en educación, cada alumno selecciona una palabra, una idea y una frase. Una palabra podría ser “personalización”; una idea, “la IA puede ayudar a adaptar actividades, pero no sustituye el criterio docente”; y una frase, “la tecnología amplía posibilidades cuando se integra con intención pedagógica”.
 
@@ -857,7 +823,7 @@ La rutina puede organizarse con una tabla sencilla:
 
 Después, las respuestas pueden compartirse en parejas, en pequeño grupo o con toda la clase. También pueden utilizarse para elaborar un mural, iniciar un debate o revisar de forma colectiva cómo ha evolucionado la comprensión del tema.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de ciencias sobre la fotosíntesis, el profesor pide al alumnado que complete la primera columna antes de trabajar el tema. Algunas respuestas iniciales pueden ser: “Pensaba que las plantas se alimentaban de la tierra” o “Pensaba que la luz solo servía para que crecieran”.
 
@@ -901,8 +867,8 @@ Muchas veces los alumnos tienen concepciones erróneas sobre un tema en este mom
 
 Rutina en PDF
 
----
-#### Ejemplo
+**Ejemplo:**
+
 Profesor: Hoy estudiaremos el tema de la conservación de la energía. Antes de empezar, quiero que os toméis unos minutos para reflexionar sobre este tema y escribáis las ideas que os vengan a la cabeza sobre qué pensáis que es la conservación de la energía.
 
 Después de 5 minutos, el profesor pide a los alumnos que compartan sus ideas sobre ""Pienso" ". Algunas de las ideas que los alumnos comparten son:
@@ -972,7 +938,7 @@ La rutina de pensamiento ""pregunta el porqué" " se puede utilizar en cualquier
 
 - Presentar las respuestas encontradas al grupo o al profesor.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de historia, el profesor introduce el tema de las migraciones del siglo XX con una imagen de una estación llena de viajeros. Pide al alumnado que formule preguntas con “por qué”: “¿Por qué muchas personas abandonaron el campo?”, “¿Por qué algunas ciudades crecieron tan rápido?” o “¿Por qué las condiciones laborales influyeron en los desplazamientos?”.
 
@@ -1006,7 +972,7 @@ Esta rutina de pensamiento implica que los alumnos se hagan una pregunta e inten
 1. Da a los alumnos el tiempo suficiente para responder a las preguntas de manera individual o en grupos.
 1. Revisa las respuestas de los alumnos y proporciona *retroalimentación*. Puedes hacerlo de manera individual o con todo el equipo, dependiendo de las necesidades de los alumnos.
 
-#### Ejemplo
+**Ejemplo:**
 
 En matemáticas, el profesor quiere comprobar si el alumnado comprende el concepto de media aritmética. Propone preguntas como: “¿Qué representa la media?”, “¿Cómo se calcula?”, “¿Puede una media ocultar diferencias importantes entre los datos?” y “¿En qué casos conviene mirar también la mediana?”.
 
@@ -1043,6 +1009,22 @@ Esta rutina se realiza dos veces, una al empezar un tema y otra al acabarlo, de 
 
 1. Después se comparten las conclusiones de cada uno con el resto de la clase.
 
+**Ejemplo:**
+
+En una clase de 5.º de Primaria que inicia una unidad sobre el agua y sus estados, el docente pide que cada alumno complete el puente antes de empezar.
+
+**Antes de la unidad** (alumna de ejemplo):
+- 3 ideas: agua, vapor, hielo
+- 2 preguntas: ¿Cómo se convierte el agua en vapor? / ¿Qué le pasa al agua cuando se congela?
+- 1 metáfora: el agua es como un actor que cambia de disfraz
+
+**Al terminar la unidad**, la misma alumna completa el puente de nuevo:
+- 3 ideas: evaporación, condensación, ciclo del agua
+- 2 preguntas: ¿Puede haber nieve en el desierto? / ¿Cuánta agua hay en la atmósfera?
+- 1 metáfora: el agua es como un viajero que nunca para de moverse
+
+En la puesta en común, explica qué ha cambiado en su forma de pensar y por qué. El docente usa las metáforas finales para identificar el nivel de comprensión alcanzado por cada estudiante.
+
 **Técnicas relacionadas:** Escalera de metacognición, KWL (Sé, Quiero saber, He aprendido), Pensaba... ahora pienso, Pienso, me interesa, investigo
 
 **Cómo evaluar:**
@@ -1063,7 +1045,6 @@ _Rutina en la que el alumnado analiza consecuencias o implicaciones de una situa
 _Palabras clave: consecuencias, pensamiento crítico, reflexión, evidencias, perspectiva_
 
 La rutina de pensamiento ""revisa las consecuencias" " es una técnica que se puede utilizar para hacer reflexionar a los alumnos sobre las implicaciones o las consecuencias de los conceptos o hechos que están estudiando. Esta rutina se puede utilizar tanto al principio de un tema, como a mediados o al final, dependiendo de las necesidades y los objetivos del aprendizaje.
-
 
 Parte del profesor:
 
@@ -1089,7 +1070,7 @@ Parte del alumno:
 
 Así pues, esta rutina implica una interacción entre el profesor y los alumnos, con los alumnos reflexionando sobre las consecuencias o las implicaciones de los conceptos o hechos que han aprendido y compartiendo sus reflexiones con el grupo o con el profesor.  Se puede utilizar esta rutina para hacer reflexionar a los alumnos sobre cualquier tipo de conceptos o hechos, y es especialmente útil para promover el pensamiento crítico y la reflexión sobre cuestiones complejas o problemas relevantes de la vida diaria.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de tecnología, el profesor presenta la propuesta de implantar un sistema de entrega de trabajos solo mediante una plataforma digital. El alumnado revisa posibles consecuencias: ahorro de papel, facilidad para conservar evidencias, necesidad de conexión, riesgo de olvidar contraseñas, diferencias de acceso a dispositivos y cambios en la organización del profesorado.
 
@@ -1131,7 +1112,8 @@ Técnica visual para analizar un personaje, grupo social, organismo, institució
 - Relacionar evidencias con interpretaciones.
 - Representar visualmente información compleja.
 
-#### Ejemplo
+**Ejemplo:**
+
 En literatura, los alumnos analizan un personaje de una novela. Dentro de la silueta escriben sus miedos y deseos; fuera, sus actos y cómo lo ven los demás personajes.
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
@@ -1168,19 +1150,13 @@ Se pueden seguir los pasos siguientes:
 
 1. El profesor dice a los alumnos; Piensa sobre todo lo que hemos estado hablando hoy en clase. Si tuvieras que escribir un titular que captara la esencia de lo que hemos estado hablando y que pueda ser recordado, ¿qué titular elegirías? 
 
-
 1. Compartir el titular con alguien de la clase. 
-
 
 1. El profesor pregunta: ¿Quién ha oído un titular que sea particularmente bueno y que realmente llegue al fondo de la cuestión? 
 
-
 1. Se crea una lista de ""headlines" ". Esta lista se puede revisar y ampliar a medida que los alumnos aprenden más sobre el tema. 
 
-
 1. Al final del tema, el profesor pregunta: ¿cómo ha cambiado tu “headline”? ¿En qué difiere de lo que ya habías dicho tú? (estas preguntas pueden ayudar a los alumnos a realizar cambios en el pensamiento).
-
-
 
 Ficha para trabajar la técnica:
 
@@ -1189,33 +1165,14 @@ Ficha para trabajar la técnica:
 
 *Si quisieras escribir un titular para este tema, ahora que has captado el aspecto más importante y que quieres que sea recordado, ¿qué titular elegirías? *
 
-
-
-
-
-
-
 ---
 *¿Cómo ha cambiado tu titular a partir de la discusión de hoy? *
-
-
-
-
-
-
 
 ---
 *¿En qué difiere respecto al anterior? *
 
+**Ejemplo:**
 
-
-
-
-
-
----
-
-#### Ejemplo
 Tema: el uso de los plásticos de un solo uso
 
 Titular inicial: ""El plástico de un solo uso es muy cómodo, pero tiene un gran impacto ambiental" "
@@ -1252,9 +1209,8 @@ En la entrada del blog Princippia, Enseña a tus alumnos para ser buenos observa
 - **ME PREGUNTO**. El docente continúa con las preguntas guía: ¿Qué preguntas te haces después de observar la imagen? ¿Qué detalles de la imagen te han llevado a preguntar-te esto? Después de un pequeño tiempo de reflexión, el alumno escribe la columna ME PREGUNTO de su organizador gráfico.
 Compartir con un compañero. Después de trabajar individualmente, los alumnos pueden trabajar en parejas para compartir sus ideas antes de compartirlas con el grupo clase. Es importante que los alumnos al compartir sus ideas empiecen la frase con veo…pienso…me pregunto... para ayudarlos a automatizar la rutina.
 Compartir en gran grupo mediante un mural virtual. Trabajar la rutina en gran grupo permitirá que los alumnos aprendan a escuchar y aceptar las opiniones de los demás, a considerar diversos puntos de vista y respetarse.
----
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de historia del arte, el profesor muestra una fotografía de una plaza urbana llena de gente durante una manifestación. En la columna “Veo”, el alumnado anota solo observaciones: pancartas, muchas personas, edificios, policía, carteles y una calle cortada.
 
@@ -1294,7 +1250,8 @@ Rutina sencilla para analizar una propuesta, alternativa o experiencia previa me
 - Distinguir ventajas e inconvenientes.
 - Favorecer la argumentación y la toma de decisiones.
 
-#### Ejemplo
+**Ejemplo:**
+
 Antes de decidir si una actividad se hará individualmente o en grupo, la clase elabora dos columnas con pros y contras de cada opción y justifica qué organización parece más adecuada.
 
 **Técnicas relacionadas:** Contrasta y compara, La brújula (puntos cardinales), Matriz de problemas, Revisa las consecuencias, Modelo de argumentación de Toulmin, Mapa de argumentos
@@ -1342,7 +1299,8 @@ Puede utilizarse en ciencias, historia, economía, filosofía, lengua o cualquie
 - CER es especialmente útil para escribir explicaciones científicas, conclusiones de prácticas, respuestas argumentadas o análisis de datos.
 - «¿Qué te hace decir eso?» funciona muy bien como rutina breve de observación; CER funciona mejor como marco para elaborar respuestas más completas.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una práctica de biología, el alumnado observa que unas semillas han germinado mejor en presencia de agua que en ausencia de agua. La pregunta es: “¿El agua es necesaria para la germinación?”.
 
 - **Afirmación**: El agua es necesaria para que las semillas germinen.
@@ -1389,7 +1347,8 @@ Es especialmente útil para hacer visibles las ideas previas, detectar concepcio
 - Favorecer el cambio conceptual y la revisión de ideas.
 - Desarrollar explicación razonada a partir de observaciones o datos.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, el profesor pregunta: “¿Qué ocurrirá si colocamos una patata pelada en agua muy salada durante una hora?”. Antes de observar el resultado, cada alumno predice si la patata ganará agua, perderá agua o no cambiará, y justifica su respuesta.
 
 Después se realiza la experiencia. El alumnado observa que la patata pierde firmeza y masa. A continuación, compara el resultado con su predicción y explica el proceso mediante la ósmosis: el agua sale de las células hacia el medio más concentrado en sal. La técnica ayuda a revisar ideas intuitivas sobre el movimiento del agua y a construir una explicación basada en evidencias.
@@ -1427,7 +1386,8 @@ Es una técnica más ligera que CER. No exige construir una explicación complet
 4. Formula una pregunta que ayude a seguir pensando o investigando.
 5. Se comparten respuestas y se revisa la calidad de las afirmaciones, apoyos y preguntas.
 
-#### Ejemplo
+**Ejemplo:**
+
 En historia, tras analizar un gráfico sobre población urbana, un alumno escribe: “Afirmación: las ciudades crecieron mucho durante la industrialización. Apoyo: el gráfico muestra un aumento sostenido de población urbana entre 1850 y 1900. Pregunta: ¿ese crecimiento fue igual en todos los grupos sociales o afectó más a unos que a otros?”.
 
 **Técnicas relacionadas:** ¿Qué te hace decir eso?, Pienso, me interesa, investigo, Seminario socrático, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin
@@ -1465,7 +1425,8 @@ Conectar, ampliar, desafiar es una rutina de pensamiento de Project Zero que ayu
 - Formular dudas significativas.
 - Favorecer metacognición y pensamiento crítico.
 
-#### Ejemplo
+**Ejemplo:**
+
 Tras leer un texto sobre cambio climático, el alumnado dedica 8 minutos a completar tres apartados. Conecta el CO2 con la combustión estudiada en química, amplía su comprensión con el papel del metano y plantea como desafío entender por qué los efectos no son iguales en todas las regiones.
 
 **Técnicas relacionadas:** Escalera de metacognición, KWL (Sé, Quiero saber, He aprendido), Pensaba... ahora pienso, Pienso, me interesa, investigo
@@ -1503,7 +1464,8 @@ Generar, ordenar, conectar, elaborar es una rutina de pensamiento de Project Zer
 - Organizar información de forma gráfica.
 - Construir una síntesis conceptual.
 
-#### Ejemplo
+**Ejemplo:**
+
 Al iniciar el sistema circulatorio, los alumnos generan durante 3 minutos términos como corazón, arterias, venas, sangre, oxígeno y capilares. Después los ordenan, los conectan con flechas y elaboran el mapa añadiendo presión sanguínea, intercambio de gases y transporte de nutrientes.
 
 **Técnicas relacionadas:** Analiza y sintetiza, Mapa conceptual a cuatro bandas, Visual Thinking (pensamiento visual), Modelo Frayer
@@ -1542,7 +1504,8 @@ Tira y afloja es una rutina de pensamiento de Project Zero para analizar dilemas
 - Reconocer matices y condiciones.
 - Desarrollar pensamiento crítico y argumentación.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, la clase analiza si debe permitirse el uso de animales en investigación biomédica. Durante 10 minutos, los grupos colocan argumentos a favor y en contra: desarrollo de tratamientos, sufrimiento animal, regulación ética y alternativas experimentales. Al final, formulan una postura matizada.
 
 **Técnicas relacionadas:** Controversia académica, Seminario socrático, Modelo de argumentación de Toulmin, Controversia estructurada con evidencias
@@ -1576,7 +1539,7 @@ La rutina se apoya en tres preguntas que el alumnado responde «desde dentro» d
 4. Se comparten las distintas perspectivas y se contrastan: dónde coinciden, dónde chocan y por qué.
 5. Se reflexiona sobre cómo cambia la comprensión de la situación al haberla mirado «desde dentro» de otro.
 
-#### Ejemplo
+**Ejemplo:**
 
 Ante un cuadro que representa una escena cotidiana del siglo XIX, distintos alumnos se ponen en el lugar de la niña que aparece, del comerciante del fondo y hasta del perro. Cada uno describe qué percibe, qué piensa y qué le importa desde esa posición. Al ponerlas en común, la clase descubre tensiones y matices de la escena que no se veían desde una única mirada.
 
@@ -1613,7 +1576,7 @@ Es especialmente útil para activar la curiosidad y para pasar de la mera observ
 4. Se profundiza: «¿Qué te hace pensar eso? ¿Qué otra explicación podría haber?».
 5. Se contrastan explicaciones alternativas y se valoran según las evidencias disponibles.
 
-#### Ejemplo
+**Ejemplo:**
 
 En ciencias, el docente muestra una hoja con los bordes enrollados y pregunta qué detalle llama la atención. Un alumno señala los bordes secos. «¿Por qué crees que se han enrollado así?» Surgen explicaciones: falta de agua, exceso de sol, una plaga. El grupo las contrasta y decide qué evidencias servirían para confirmarlas, convirtiendo una simple observación en una pequeña indagación.
 
@@ -1650,7 +1613,7 @@ El silencio iguala la participación (también intervienen quienes no suelen hab
 4. El docente puede participar también por escrito, lanzando preguntas que hagan profundizar.
 5. Al final se rompe el silencio: se observa el mural en conjunto, se identifican patrones, acuerdos y tensiones, y se comenta en voz alta.
 
-#### Ejemplo
+**Ejemplo:**
 
 En tutoría, en el centro de un papel continuo se escribe «¿Qué hace que un grupo funcione bien?». Sin hablar, el alumnado va escribiendo ideas (respeto, escucha, repartir tareas), reaccionando a las de los demás y uniéndolas con flechas. Al terminar, el mural muestra de un vistazo las ideas dominantes y las discrepancias, que sirven de base para un debate posterior.
 
@@ -1687,7 +1650,7 @@ Formular preguntas activa el interés, hace aflorar lo que ya se sabe y lo que s
 4. Se revisan las preguntas: se identifican las más interesantes o potentes y se distingue entre preguntas cerradas y abiertas.
 5. Se eligen algunas preguntas para investigarlas o se usan para guiar el estudio del tema.
 
-#### Ejemplo
+**Ejemplo:**
 
 Antes de empezar un tema sobre el agua, el alumnado usa los arranques para generar preguntas: «¿Por qué el agua del mar es salada?», «¿Qué pasaría si no lloviera durante un año?», «¿Cómo llega el agua hasta el grifo?». Después seleccionan las que más les intrigan y se convierten en el hilo conductor de la unidad, dándoles protagonismo en lo que van a aprender.
 
@@ -1721,13 +1684,13 @@ En esta dinámica se trata de que los alumnos se definan a sí mismos, pero no f
 1. Los alumnos escriben una carta donde hablen de sus gustos, aficiones, su carácter, etc., pero no sobre su aspecto físico ni cómo van vestidos. Es bueno que el profesorado se implique y escriba también su propia descripción.
 1. Se van leyendo las cartas una a una y los alumnos intenten adivinar quién la ha escrito.
 
-#### Ejemplo
+**Ejemplo:**
 
 Al inicio de curso, el profesor propone al grupo que escriba una breve carta para presentarse a una persona que todavía no los conoce. En la carta pueden hablar de sus aficiones, de cómo les gusta trabajar, de qué les cuesta más, de qué tipo de actividades les motivan o de algún rasgo de su carácter, pero no pueden mencionar datos físicos.
 
 Después, el profesor lee las cartas sin decir el nombre. El grupo intenta adivinar quién la ha escrito y debe justificar su respuesta con alguna pista del texto. La actividad facilita que los alumnos se conozcan mejor y genera un clima inicial de confianza.
 
-Fuente: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase.
+_Fuente: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase._
 
 **Técnicas relacionadas:** Conozcámonos, La caja, La entrevista, Me gusta / No me gusta
 
@@ -1775,13 +1738,13 @@ Conclusiones
 
 Es interesante conocer a las personas con las que convivimos día a día porque así las podemos comprender mejor y cooperar en la consecución de objetivos comunes.
 
-Fuente: ECO. (2007). Dinámicas para hacer grupo.
-
-#### Ejemplo
+**Ejemplo:**
 
 En la primera semana de clase, el profesor entrega una ficha con frases como: “Busca a alguien que tenga un animal en casa”, “Busca a alguien que practique algún deporte”, “Busca a alguien que sepa cocinar algo sencillo” o “Busca a alguien que haya leído un libro este verano”.
 
 Durante unos minutos, el alumnado se mueve por el aula, pregunta a sus compañeros y anota nombres en la ficha. Después, se hace una puesta en común: cada estudiante comenta algo que ha descubierto de otra persona. La actividad ayuda a romper el hielo, favorece la interacción inicial y permite que el grupo encuentre afinidades más allá de los grupos habituales.
+
+_Fuente: ECO. (2007). Dinámicas para hacer grupo._
 
 **Técnicas relacionadas:** ¿Quién es quién?, La entrevista, Seguir la pista, Las páginas amarillas
 
@@ -1813,23 +1776,15 @@ Esta técnica es especialmente útil para las áreas de conocimiento en las que 
 - A continuación, cada uno de ellos vuelve a su equipo de origen y se responsabiliza de explicar al grupo la parte que ha preparado.  
 Así pues, todos los alumnos se necesitan los unos a los otros y se ven ""obligados" " a cooperar, porque cada uno de ellos dispone solo de una pieza del rompecabezas y sus compañeros de equipo tienen las otras, imprescindibles para culminar con éxito la tarea propuesta: el dominio global de un tema objeto de estudio previamente fragmentado.
 
-
----
-Fuente: Pérez, M. (2015). Dinámicas cooperativas.
-
----
-
-**Explicación de la técnica:**
-
-
-
-#### Ejemplo
+**Ejemplo:**
 
 En una unidad sobre el aparato digestivo, el profesor divide el contenido en cuatro secciones: boca y esófago, estómago, intestino delgado e intestino grueso. En cada equipo base, cada alumno recibe una sección distinta y la prepara con un texto, un esquema y una imagen.
 
 Después, todos los alumnos que tienen la misma sección se reúnen en grupos de expertos para resolver dudas, acordar las ideas esenciales y preparar una explicación clara. A continuación, vuelven a su equipo base y explican su parte al resto.
 
 El equipo completa un esquema general del proceso digestivo, relacionando las fases entre sí y explicando qué ocurre con los alimentos en cada una. La tarea solo puede terminarse si todos los miembros aportan correctamente su pieza.
+
+_Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Recursos:** [Técnica Jigsaw](https://jigsawcoop.github.io/)
 
@@ -1868,18 +1823,17 @@ Conocer rasgos de personalidad característicos del alumnado que forma parte del
 
 - A continuación invita al grupo a hacer lo mismo, indicándoles que un día tendrán que traer a clase su propia caja con “sus objetos” (tres o cuatro, los que se determinen). Ese día mostrarán los objetos a sus compañeros y compañeras y les explicarán qué significa, en el ámbito personal, cada uno.
 
-
 Conclusiones
 
 El hecho de dar a conocer algunos rasgos de nuestra personalidad genera confianza mutua y desarrolla la empatía.
 
-Fuente: ECO. (2007). Dinámicas para hacer grupo.
-
-#### Ejemplo
+**Ejemplo:**
 
 Al inicio de curso, el profesor lleva una caja con cuatro objetos: una libreta, una pequeña planta, una memoria USB y una pieza de bicicleta. Explica que la libreta representa su gusto por escribir y organizar ideas, la planta su interés por la biología, la memoria USB su relación con la tecnología y la pieza de bicicleta una afición personal.
 
 Después, cada alumno prepara su propia caja con tres objetos que expliquen algo de su personalidad, intereses o habilidades. En la sesión siguiente, los presenta al grupo y responde a alguna pregunta de sus compañeros. La actividad permite conocerse de forma personal sin centrarse en el aspecto físico.
+
+_Fuente: ECO. (2007). Dinámicas para hacer grupo._
 
 **Técnicas relacionadas:** ¿Quién es quién?, Seguir la pista, Las páginas amarillas
 
@@ -1920,7 +1874,7 @@ Fuentes:
 - Dipsalut. (2016). Dinàmiques curtes de cohesió de grup i acceptació.
 - Dinámicas grupales. (2021). Dinámica Me Gusta y No Me Gusta.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una sesión de tutoría, el profesor traza una línea imaginaria en el aula. Dice frases como: “Me gusta trabajar en grupo”, “Me gusta hablar en público”, “Me cuesta pedir ayuda”, “Me gustan las actividades creativas” o “Prefiero tareas con instrucciones muy claras”.
 
@@ -1952,13 +1906,6 @@ Dar a conocer a las otras personas del grupo aspectos significativos de nuestra 
 #### Desarrollo
 
 - El profesor o profesora escribe en la pizarra datos numéricos, palabras, símbolos..., es decir, pistas sobre aspectos personales que compartirá con el grupo. Por ejemplo:
-  - Barcelona, dos, 1950, camarero, once, leer, 2, sinceridad, San Petersburgo...
-
-- Los alumnos siguen las pistas y realizan preguntas cerradas para adivinar qué significado tienen. Por ejemplo:
-  - ¿Eres de Barcelona?
-  - ¿Tu equipo de fútbol preferido es el Barcelona?
-  - ¿Estudiaste en Barcelona?
-  - ¿Tienes familia viviendo en Barcelona?, etc.
 
 - Cada estudiante prepara seis pistas sobre sí mismo y, en parejas, intentan descubrir su significado.
 
@@ -1966,7 +1913,21 @@ Conclusiones
 
 En nuestra vida hay elementos significativos. Si se comparten se está reconociendo y valorando a las otras personas y también a nosotros mismos.
 
-Fuente: ECO. (2007). Dinámicas para hacer grupo.
+**Ejemplo:**
+
+El docente escribe en la pizarra sus propias pistas: _Barcelona, dos, 1950, camarero, once, leer, 2, sinceridad, San Petersburgo_.
+
+Los alumnos hacen preguntas cerradas (sí/no) para descifrarlas:
+- "¿Eres de Barcelona?" → No
+- "¿Estudiaste en Barcelona?" → Sí ✓
+- "¿El número dos tiene que ver con tus hijos?" → Sí ✓
+- "¿1950 es el año en que naciste?" → No
+- "¿Es el año en que nació alguien de tu familia?" → Sí ✓
+- "¿San Petersburgo es una ciudad que has visitado?" → Sí ✓
+
+Una vez descifradas las pistas del docente, cada estudiante prepara sus seis pistas y, en parejas, el compañero intenta descubrirlas con preguntas de sí/no. La sesión termina compartiendo en gran grupo las pistas más curiosas o difíciles de descifrar.
+
+_Fuente: ECO. (2007). Dinámicas para hacer grupo._
 
 **Técnicas relacionadas:** Conozcámonos, La caja, La entrevista, Me gusta / No me gusta, Línea de tiempo
 
@@ -1999,7 +1960,7 @@ Técnica para asegurar una participación equitativa en los debates en grupo.
 #### Objetivos
 Regular la participación, evitar que un alumno domine la conversación y animar a los más reservados a participar.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una tutoría sobre convivencia, cada alumno recibe tres fichas para debatir la pregunta: “¿Qué normas ayudan a que un grupo trabaje mejor?”. Cada vez que alguien interviene debe dejar una ficha en el centro.
 
@@ -2041,7 +2002,8 @@ Técnica estructurada de generación y priorización de ideas que facilita la pa
 - Recoger ideas de forma ordenada y equitativa.
 - Tomar decisiones grupales con mayor equilibrio.
 
-#### Ejemplo
+**Ejemplo:**
+
 Antes de elegir el tema de un proyecto, cada alumno propone varias opciones. Después se recogen todas, se aclaran y se votan para seleccionar la propuesta que represente mejor al grupo.
 
 **Técnicas relacionadas:** Graffiti Cooperativo, La brújula (puntos cardinales), RallyRobin, RoundRobin, Talking Chips (Fichas de conversación), World Café
@@ -2080,7 +2042,8 @@ Estructura de aprendizaje cooperativo en parejas en la que un alumno actúa como
 - Mejorar la comprensión mediante explicación y acompañamiento.
 - Desarrollar responsabilidad, escucha y comunicación.
 
-#### Ejemplo
+**Ejemplo:**
+
 En matemáticas, un alumno tutor acompaña a su compañero en la resolución de un problema. Le pregunta qué datos tiene, qué operación cree necesaria y por qué, pero no le escribe la respuesta final.
 
 **Técnicas relacionadas:** Equipo-pareja-individual, Los cuatro sabios, Equipos de ayuda mutua / TAI (Team Assisted Individualization), Las páginas amarillas, Co-enseñanza (Co-teaching), Ejemplos resueltos, Liberación gradual de la responsabilidad, Pensamiento en voz alta, Andamiaje y zona de desarrollo próximo (ZDP)
@@ -2119,7 +2082,8 @@ Estructura cooperativa que combina el trabajo en equipos heterogéneos con la in
 - Favorecer ayuda mutua y responsabilidad individual.
 - Atender diferentes ritmos y niveles de competencia.
 
-#### Ejemplo
+**Ejemplo:**
+
 En cálculo, cada alumno trabaja una secuencia de ejercicios ajustada a su nivel. Antes de pedir ayuda al profesor, consulta con su equipo, que le orienta y revisa el procedimiento.
 
 **Técnicas relacionadas:** Equipo-pareja-individual, STAD (Student Teams Achievement Divisions), Tutoría entre iguales (Peer Tutoring), Aprendizaje de dominio
@@ -2158,7 +2122,8 @@ Estructura cooperativa en la que distintos grupos se especializan en prácticas,
 - Favorecer la tutoría entre iguales.
 - Compartir aprendizajes complementarios de forma cooperativa.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, media clase realiza una práctica de observación de células vegetales y la otra media una de células animales. Después se forman equipos mixtos para comparar resultados y elaborar una conclusión conjunta.
 
 **Técnicas relacionadas:** El Rompecabezas ("Jigsaw"), Estaciones de aprendizaje, Los cuatro sabios
@@ -2195,7 +2160,8 @@ Dinámica de toma de decisiones que muestra de forma práctica la eficacia del t
 - Desarrollar argumentación, escucha y consenso.
 - Analizar cómo mejora la toma de decisiones cuando se contrastan ideas.
 
-#### Ejemplo
+**Ejemplo:**
+
 El grupo debe ordenar los objetos más importantes para sobrevivir tras un alunizaje. Primero decide cada alumno, después el equipo y finalmente se compara con la solución experta.
 
 **Técnicas relacionadas:** La mesa redonda, Matriz de problemas, Placemat consensus
@@ -2234,7 +2200,8 @@ Dinámica de cohesión en la que cada estudiante crea un anuncio personal ofreci
 - Visibilizar las fortalezas de cada alumno.
 - Promover ayuda entre iguales y cohesión de grupo.
 
-#### Ejemplo
+**Ejemplo:**
+
 Un alumno ofrece ayuda para usar una hoja de cálculo, otro para dibujar esquemas y otro para explicar reglas de un juego. La clase crea un directorio al que puede acudir cuando necesite apoyo.
 
 **Técnicas relacionadas:** Conozcámonos, La caja, Tutoría entre iguales (Peer Tutoring)
@@ -2270,7 +2237,8 @@ Modelo de docencia compartida en el que dos docentes trabajan conjuntamente en l
 - Enriquecer las estrategias de enseñanza.
 - Favorecer mentoría, observación y apoyo dentro del aula.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una clase inclusiva, un docente conduce la explicación mientras otro observa dificultades, ofrece apoyos puntuales y después ambos reorganizan la actividad según las necesidades detectadas.
 
 **Técnicas relacionadas:** Estaciones de aprendizaje, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Diseño Universal para el Aprendizaje (DUA / UDL), Tutoría entre iguales (Peer Tutoring)
@@ -2320,7 +2288,8 @@ Los roles cooperativos ayudan a evitar que unos alumnos asuman todo el trabajo y
 - Organizar mejor la cooperación.
 - Ayudar al alumnado a aprender cómo se trabaja en grupo.
 
-#### Ejemplo
+**Ejemplo:**
+
 En un proyecto para crear un pódcast de aula, un alumno coordina el reparto de tareas, otro escribe el guion, otro controla el tiempo de grabación y otro actúa como portavoz del equipo. También puede haber un responsable de sonido o de revisión final.
 
 Al terminar, el equipo revisa si cada rol ha ayudado a organizar mejor el trabajo: si el guion estaba claro, si todos han participado, si se han respetado los tiempos y si el producto final comunica bien el mensaje. La técnica permite que el trabajo cooperativo sea más ordenado y que las responsabilidades sean visibles.
@@ -2359,7 +2328,7 @@ Garantiza la interacción simultánea y la responsabilidad individual, dos princ
 5. El alumno 4 valora la respuesta: si es correcta, felicita; si no, ayuda a corregirla o la reenseña.
 6. Los roles rotan una posición y se repite con la siguiente tarjeta, hasta agotar el mazo.
 
-#### Ejemplo
+**Ejemplo:**
 
 Para repasar vocabulario de inglés, cada equipo usa tarjetas con una palabra por una cara y su traducción por la otra. El que sostiene el abanico ofrece las tarjetas; otro elige y lee; un tercero traduce; el cuarto comprueba con el dorso y, si hace falta, corrige con amabilidad. Tras cada pregunta los roles rotan, así que en pocos minutos todos han preguntado, respondido y evaluado.
 
@@ -2397,7 +2366,7 @@ La clave es que nadie puede esconderse detrás del grupo: cada alumno produce su
 5. Comparan: si coinciden y es correcta, celebran; si hay diferencias, discuten y se ayudan hasta aclararla.
 6. El rol de capitán rota y se pasa a la siguiente tarjeta.
 
-#### Ejemplo
+**Ejemplo:**
 
 En matemáticas, el capitán lee «resuelve 3/4 + 1/8». Cada miembro lo calcula en su pizarra sin mirar a los demás. Al grito de «¡Showdown!», todos muestran su resultado. Dos han puesto 7/8 y dos un valor distinto: el equipo compara procedimientos, detecta dónde está el error al sumar fracciones y lo corrige antes de pasar a la siguiente tarjeta.
 
@@ -2434,7 +2403,7 @@ Es ideal para activar al grupo, romper la rutina de estar sentados, mezclar a qu
 4. Por turnos, cada uno comparte su respuesta o idea y escucha la del otro.
 5. A una señal del docente, vuelven a levantar la mano, se despiden y buscan una nueva pareja distinta, repitiendo el intercambio.
 
-#### Ejemplo
+**Ejemplo:**
 
 Tras leer un texto, el docente pide: «pensad una idea que os haya sorprendido». Todos se levantan con la mano arriba, se emparejan con el primero que encuentran y se cuentan su idea. A la señal, cambian de pareja dos o tres veces más. En cinco minutos cada alumno ha verbalizado su idea varias veces y ha escuchado puntos de vista diversos, llegando con más bagaje a la puesta en común.
 
@@ -2471,7 +2440,7 @@ Ese tercer paso es clave: obliga a escuchar con atención (porque después hay q
 4. Paso 3: en el equipo de cuatro, cada miembro comparte por turnos lo que ha dicho su pareja (no lo propio), en estructura «round robin».
 5. El equipo recoge las ideas comunes y las diferencias.
 
-#### Ejemplo
+**Ejemplo:**
 
 Al iniciar un proyecto, el tema es «¿qué tema te gustaría investigar y por qué?». En parejas, A entrevista a B y luego B a A. Después, en el equipo de cuatro, cada uno presenta el interés de su compañero: «A David le interesa el cambio climático porque…». Así todos practican la escucha activa y la síntesis, y el equipo conoce los intereses de todos sus miembros para decidir el proyecto.
 
@@ -2520,10 +2489,7 @@ Debemos tener muy en cuenta los tiempos necesarios para cada uno de los alumnos,
 
 La resolución de la tarea por parte de los equipos puede ir acompañada de una recompensa del grupo y del profesor, en forma de elogio, aplauso, etc.
 
-
-Fuente: Pérez, M. (2015). Dinámicas cooperativas.
-
-#### Ejemplo de aplicación de la Técnica cooperativa: 1 - 2 - 4:
+**Ejemplo:**
 
 1. El profesor de ciencias plantea una pregunta sobre el sistema solar a sus alumnos: "¿Cuáles son las principales características del planeta Marte?"
 
@@ -2531,6 +2497,8 @@ Fuente: Pérez, M. (2015). Dinámicas cooperativas.
 1. Los alumnos se colocan en parejas e intercambian sus respuestas. Discuten y comentan las respuestas del otro miembro de la pareja y deciden cuáles son las más adecuadas. Cada pareja escribe la respuesta final en común.
 1. Las dos parejas ponen en común sus escritos y discuten las diferencias y similitudes entre ellas. Elaboran una respuesta final que incluya las aportaciones de todos los miembros del equipo.
 1. El profesor revisa la respuesta final del grupo y hace los comentarios o correcciones necesarios.
+
+_Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Recursos:** [GeCo - Generador de Equipos Cooperativos](https://jjdeharo.github.io/geco/)
 
@@ -2567,7 +2535,6 @@ MÉTODO
 
 La idea es que, a medida que avanza la actividad, los estudiantes se vayan dando cuenta de la complejidad del tema y puedan ver las diferentes perspectivas que hay alrededor de él. Así, en lugar de defender una posición de manera enconada, aprenden a argumentar de manera más abierta y a tener en cuenta las diferentes perspectivas.
 
-
 **OBSERVACIONES Y CONSEJOS PRÁCTICOS:**
 
 - Se puede utilizar en cualquier momento del proceso de aprendizaje, tanto para resolver dudas o problemas como para repasar o profundizar en un tema determinado.
@@ -2580,15 +2547,15 @@ La idea es que, a medida que avanza la actividad, los estudiantes se vayan dando
 
 - Se recomienda realizar una síntesis final de las ideas expuestas por cada equipo, con el fin de facilitar la comprensión de los diferentes puntos de vista y la profundización en el tema.
 
-Fuente: *Structuring Academic Controversy*, Johnson y Johnson, 1994 en Grup de recerca sobre aprenentatge entre iguals. (2016).
-
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de biología, el profesor plantea la cuestión: “¿Debe permitirse el uso de organismos modificados genéticamente en la agricultura?”. En cada equipo de cuatro, una pareja prepara argumentos a favor y la otra argumentos en contra, utilizando fuentes proporcionadas por el docente.
 
 Primero, cada pareja expone su posición. Después, las parejas cambian de postura y deben defender la posición contraria con los mejores argumentos que han escuchado. Al final, el equipo elabora una síntesis que incluya beneficios, riesgos, condiciones de uso y dudas pendientes.
 
 La actividad permite que el alumnado comprenda la complejidad del tema y aprenda a argumentar sin reducir el debate a una oposición simple entre estar a favor o en contra.
+
+_Fuente: *Structuring Academic Controversy*, Johnson y Johnson, 1994 en Grup de recerca sobre aprenentatge entre iguals. (2016)._
 
 **Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Fishbowl (Pecera), Seminario socrático, Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Tira y afloja, Debate académico
 
@@ -2631,22 +2598,15 @@ Para que la actividad sea dinámica, establecer una rotación rápida, incluso c
 Pedir a los alumnos que cada uno escriba con un color diferente, de esta manera podremos diferenciar bien sus aportaciones. 
 Se puede utilizar una pequeña pizarra en vez de un folio. Introducir materiales que aporten novedad a la actividad. 
 
-Observar las aportaciones de cada uno de los miembros del equipo. 
+Observar las aportaciones de cada uno de los miembros del equipo.
 
-
-Fuente:  Pérez, M. (2015). Dinámicas cooperativas.
-
----
-
-**Explicación de la técnica:**
-
-
-
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de lengua, el profesor pide a cada equipo que escriba un cuento breve a partir de una imagen. El primer alumno escribe el inicio de la historia durante un minuto y pasa el folio al compañero de la derecha. El segundo continúa la narración, el tercero introduce un conflicto y el cuarto propone un desenlace.
 
 En una segunda vuelta, cada estudiante revisa o mejora una parte del texto: vocabulario, coherencia, conectores o corrección ortográfica. Al final, el equipo lee el cuento y comenta qué aportación ha hecho cada miembro. La técnica garantiza que todos participen y permite construir un producto común a partir de intervenciones sucesivas.
+
+_Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Técnicas relacionadas:** El juego de las palabras, Graffiti Cooperativo, RoundRobin, +1, Conversación escrita en silencio (Chalk Talk)
 
@@ -2691,7 +2651,8 @@ Modelo didáctico que organiza una secuencia de aprendizaje activo en cinco fase
 - Activar conocimientos previos y promover indagación.
 - Favorecer aplicación, transferencia y evaluación formativa.
 
-#### Ejemplo completo
+**Ejemplo:**
+
 Tema: **¿Qué necesitan las semillas para germinar?**
 
 1. **Enganchar / Engage**: el profesor muestra dos macetas, una con semillas germinadas y otra sin germinar. Pregunta: “Si ambas tenían semillas, ¿por qué en una han germinado y en la otra no?”. El alumnado escribe sus ideas iniciales sobre el papel del agua, la luz, la temperatura y el tipo de suelo.
@@ -2748,13 +2709,13 @@ Consejos:
 - Antes de empezar la clase, haced preguntas que serán respondidas durante la exposición. Pedid a los alumnos que estén alertas para encontrar estas respuestas.
 - Distribuir los diferentes roles entre los integrantes de cada equipo. Consensuar dentro del grupo la propuesta final.
 
-Fuente: Varas, M. & Zariquiey, F. (2011). Técnicas formales e informales de aprendizaje cooperativo. 
-
-#### Ejemplo
+**Ejemplo:**
 
 Durante una explicación sobre el cambio climático, el profesor divide la clase en cuatro equipos de oyentes. Un equipo debe preparar preguntas, otro debe identificar ideas con las que está de acuerdo, otro debe señalar posibles objeciones o dudas y el último debe aportar ejemplos de la vida cotidiana.
 
 Al acabar la exposición, el equipo de preguntas plantea cuestiones sobre causas y consecuencias, el equipo de aprobación destaca la utilidad de diferenciar tiempo atmosférico y clima, el equipo de desacuerdo pregunta por la fiabilidad de algunos datos y el equipo de ejemplos relaciona el tema con sequías, olas de calor o cambios en el consumo energético. La actividad transforma una explicación del profesor en una escucha activa y estructurada.
+
+_Fuente: Varas, M. & Zariquiey, F. (2011). Técnicas formales e informales de aprendizaje cooperativo._
 
 **Técnicas relacionadas:** Parada de tres minutos, Pregunta y responde, Seminario socrático
 
@@ -2791,10 +2752,7 @@ A veces se revisan estos cuestionarios antes de la clase presencial para poder e
 
 Dado que las explicaciones se hacen fuera del horario escolar, este tiempo ahora se aprovecha para la resolución de dudas y realización de trabajos, cosa que antes se hacía muchas veces en casa.
 
-
-
 #### Metodología del aula invertida
-
 
 #### Modelo gráfico
 
@@ -2802,20 +2760,13 @@ Elaboración propia
 
 #### Modelo tecnológico para *Flipped Classroom*
 
-
-Fuente: Basso-Aránguiz  et al. (2018). Propuesta de modelo tecnológico para Flipped Classroom (T-FliC) en educación superior.
-
-El siguiente vídeo, aunque un poco largo, explica con bastante detalle en qué consiste, tanto en los fundamentos pedagógicos como en el desarrollo.
-
-
-
-Selección de software para el Flipped classroom.
-
-#### Ejemplo
+**Ejemplo:**
 
 En una unidad de matemáticas sobre funciones lineales, el profesor prepara un vídeo breve de 8 minutos con la explicación inicial: concepto de función, pendiente, ordenada en el origen y lectura de una gráfica. Junto al vídeo, el alumnado completa un pequeño formulario con tres preguntas de comprobación.
 
 Antes de la clase, el profesor revisa las respuestas y detecta que muchos alumnos confunden pendiente con altura inicial. En el aula, dedica los primeros minutos a aclarar esa dificultad y después organiza una actividad práctica: interpretar gráficas de tarifas de telefonía, trayectos y consumo eléctrico. El tiempo presencial se utiliza para resolver dudas, comparar estrategias y aplicar el contenido a situaciones concretas.
+
+_Fuente: Basso-Aránguiz et al. (2018). Propuesta de modelo tecnológico para Flipped Classroom (T-FliC) en educación superior._
 
 **Técnicas relacionadas:** Estaciones de aprendizaje, Peer Instruction (Instrucción entre iguales), Ticket de salida (exit ticket), WebQuest, Aprendizaje personalizado con itinerarios (playlists), Comunidad de indagación (Community of Inquiry)
 
@@ -2846,7 +2797,6 @@ Esta actividad tiene como objetivos orientar hacia los contenidos y desarrollar 
 
 1. Una vez recogidas las ideas de ambos, los alumnos forman parejas con el compañero que tienen más cerca y construyen un texto que recoja las aportaciones de ambos. Los dos escriben el texto en el segundo apartado y firman las dos fichas. Entregan una al profesor y se quedan con la otra para la puesta en común.
 
-
 1. Se hace una puesta en común en gran grupo. Al acabar, entregan la segunda ficha.
 
 CONSEJOS
@@ -2855,13 +2805,13 @@ CONSEJOS
 - Valorar la generación de respuestas por encima incluso de la corrección de estas.
 - Utilizar las aportaciones de los alumnos a la hora de desarrollar el tema.
 
-Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
-
-#### Ejemplo
+**Ejemplo:**
 
 Antes de empezar una unidad sobre ecosistemas, el profesor entrega una ficha con dos apartados: “Lo que sé” y “Lo que sabemos”. Individualmente, cada alumno escribe ideas como “hay productores y consumidores”, “las plantas hacen fotosíntesis” o “los animales dependen unos de otros”.
 
 Después, se forman parejas y construyen un texto común con las ideas de ambos, corrigiendo errores y añadiendo relaciones nuevas. En la puesta en común, el profesor recoge las aportaciones más repetidas y las utiliza para iniciar la unidad, detectar ideas previas y formular preguntas de trabajo.
+
+_Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Técnicas relacionadas:** 1 - 2 - 4, KWL (Sé, Quiero saber, He aprendido), Think-Pair-Share (Piensa-Pareja-Comparte)
 
@@ -2904,13 +2854,13 @@ Fuente Pérez, M. (2015). Dinámicas cooperativas.
 
 **Explicación de la técnica:**
 
-
-
-#### Ejemplo
+**Ejemplo:**
 
 En matemáticas, el profesor entrega a cada equipo cuatro ejercicios de proporcionalidad. Cada alumno tiene un número del 1 al 4. El equipo resuelve los ejercicios y se asegura de que todos entienden el procedimiento: identificar magnitudes, comprobar si la relación es directa o inversa y justificar el cálculo.
 
 Cuando termina el tiempo, el profesor dice un número al azar, por ejemplo el 3. Todos los alumnos con ese número salen o responden en nombre de su equipo. Como no saben quién será elegido, el equipo tiene que ayudar a todos sus miembros a comprender la tarea, no solo a obtener una respuesta rápida.
+
+_Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Técnicas relacionadas:** Lápiz al centro, Peer Instruction (Instrucción entre iguales), STAD (Student Teams Achievement Divisions), Uno para todos, Preguntar sin manos levantadas (cold calling), Abanico y elige (Fan-N-Pick), Duelo de respuestas (Showdown)
 
@@ -2939,20 +2889,19 @@ Objetivos:
 - Generar diversas respuestas.
 - Fomentar el diálogo, la controversia y el consenso.
 
-
 Desarrollo
 
 1. El profesor plantea una serie de preguntas que se responderán a lo largo de la sesión.
 1. Los alumnos se agrupan en parejas.
 1. El profesor pide al azar algunas respuestas de las parejas.
 
-Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
-
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de educación digital, el profesor plantea varias preguntas sobre el uso de redes sociales: “¿Qué ventajas tiene compartir contenidos en línea?”, “¿Qué riesgos puede haber al publicar información personal?” y “¿Qué normas básicas deberíamos seguir para comunicarnos con respeto?”.
 
 Cada pareja comenta las preguntas durante unos minutos y anota dos ideas consensuadas. Después, el profesor pide al azar la respuesta de algunas parejas y construye en la pizarra una lista común de recomendaciones. La técnica permite activar experiencias previas y convertirlas en criterios compartidos de uso responsable.
+
+_Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Técnicas relacionadas:** Cronometrado, Pareja, Comparte (Timed, Pair, Share), Reloj de citas, Think-Pair-Share (Piensa-Pareja-Comparte), Entrevista en tres pasos (Three-Step Interview)
 
@@ -2993,9 +2942,7 @@ Adaptado de Orientacionandujar. (2017). Aprendizaje cooperativo el reloj de las 
 
 **Explicación de la técnica:**
 
-
-
-#### Ejemplo
+**Ejemplo:**
 
 En una unidad de comprensión lectora, cada alumno completa su reloj con doce citas. El profesor anuncia la cita de las tres y plantea la pregunta: “¿Cuál es la idea principal del texto que hemos leído?”. Las parejas se reúnen, comparan sus respuestas y redactan una frase común.
 
@@ -3039,7 +2986,8 @@ Técnica cooperativa breve que combina reflexión individual, contraste por pare
 - Dar tiempo para pensar antes de hablar.
 - Mejorar la calidad de las respuestas mediante el contraste entre iguales.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, antes de explicar la selección natural, el profesor pregunta: **¿por qué algunas bacterias se vuelven resistentes a los antibióticos?** Cada alumno propone una explicación, después la compara con su pareja y finalmente se recogen varias respuestas para iniciar la explicación.
 
 **Técnicas relacionadas:** 1 - 2 - 4, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Lo que sé y lo que sabemos, Parejas de detectives, Parejas de discusión, Peer Instruction (Instrucción entre iguales), Tiempo de espera (wait time), Levántate, busca pareja, comparte (Stand Up–Hand Up–Pair Up), Entrevista en tres pasos (Three-Step Interview)
@@ -3067,13 +3015,13 @@ _Palabras clave: responsabilidad grupal, cooperación, evaluación, resolución 
 1. Los equipos se aseguran de haber respondido los ejercicios correctamente dentro del grupo.
 1. El profesor coge una solución al azar de cada grupo y su nota será la de todo el equipo.
 
-Font: Laboratorio de innovación educativa de la cooperativa José Ramón Otero. (2016). Aprendizaje cooperativo.
-
-#### Ejemplo
+**Ejemplo:**
 
 En matemáticas, el profesor plantea cuatro problemas de proporcionalidad para resolver en equipo. Cada grupo discute los procedimientos, comprueba los cálculos y se asegura de que cualquier miembro pueda explicar la solución.
 
 Al terminar, el profesor recoge al azar el cuaderno de un alumno de cada grupo. La corrección de ese ejercicio cuenta para todo el equipo. Esto anima al grupo a revisar el trabajo de todos y a no dejar que una sola persona resuelva la tarea sin que los demás la comprendan.
+
+_Fuente: Laboratorio de innovación educativa de la cooperativa José Ramón Otero. (2016). Aprendizaje cooperativo._
 
 **Técnicas relacionadas:** Lápiz al centro, Números iguales juntos (Cabezas juntas numeradas), STAD (Student Teams Achievement Divisions)
 
@@ -3109,7 +3057,8 @@ Es especialmente útil para detectar concepciones alternativas, iniciar una inda
 5. Se contrasta con una observación, experimento, lectura o discusión guiada.
 6. El alumnado revisa su explicación inicial.
 
-#### Ejemplo
+**Ejemplo:**
+
 En física, una viñeta muestra tres alumnos hablando sobre una pelota que cae. Uno dice que los objetos pesados caen siempre antes, otro que todos caen igual si no hay aire y otro que depende de la forma. La clase discute las ideas, realiza una pequeña experiencia o analiza un vídeo y revisa sus explicaciones sobre la caída de los cuerpos.
 
 **Técnicas relacionadas:** ¿Qué te hace decir eso?, Aprendizaje basado en indagación, Genera hipótesis, Veo, pienso, me pregunto, Afirmación, evidencia y razonamiento (CER), Predice, observa, explica (POE)
@@ -3148,7 +3097,8 @@ La técnica de formulación de preguntas, o QFT, es una propuesta del Right Ques
 - Distinguir tipos de preguntas.
 - Mejorar la calidad de la indagación.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, el profesor muestra la frase: “Cada vez hay más bacterias resistentes a los antibióticos”. Durante 5 minutos, los equipos generan preguntas. Después eligen tres: una factual, una causal y una de investigación. Esas preguntas orientan la búsqueda de información de la sesión siguiente.
 
 **Técnicas relacionadas:** Aprendizaje basado en preguntas (ABPC), Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Inicios de preguntas (Question Starts)
@@ -3176,8 +3126,6 @@ _Palabras clave: casos, análisis, toma de decisiones, argumentación, trabajo e
 Es un modelo flexible, en el cual el profesor plantea un caso que los estudiantes pueden leer, explorar o debatir, permitiendo que cada uno desarrolle su propia opinión. 
 
 Los casos son situaciones o acontecimientos concretos de la vida real o simulados, pero realistas. Los alumnos deben analizarlo o proporcionar respuestas de solución.
-
-
 
 #### Aplicación del ABC
 
@@ -3209,7 +3157,7 @@ Fuentes:
 - AQU. (2009). Metodologías activas y formativas.
 - López, A. (2008). El método de casos
 
-#### Ejemplo
+**Ejemplo:**
 
 Los alumnos de la ESO están estudiando la economía y tienen que trabajar con el caso de una empresa local que está teniendo dificultades financieras. El profesor puede proporcionar a los estudiantes información sobre la empresa, como sus finanzas, sus productos o servicios, su competencia, etc., y pedirles que analicen la situación y propongan soluciones a los problemas que la empresa está experimentando.
 
@@ -3270,7 +3218,8 @@ Metodología activa orientada a resolver problemas mediante un proceso creativo 
 - Fomentar la colaboración y la toma de decisiones.
 - Aprender a mejorar una solución a partir de pruebas y retroalimentación.
 
-#### Ejemplo
+**Ejemplo:**
+
 En digitalización, los alumnos diseñan una solución para mejorar la organización de tareas del grupo clase. Entrevistan a compañeros, definen necesidades, proponen ideas, crean un prototipo de plantilla digital y lo prueban durante una semana.
 
 **Recursos:** [Lluvia de ideas y votos](https://jjdeharo.github.io/directo/ideas.html)
@@ -3302,14 +3251,13 @@ _Palabras clave: dudas, ayuda mutua, evaluación formativa, cooperación, feedba
 
 Esta estructura es especialmente útil para poner de relieve la interacción (en este caso, en forma de solidaridad o ayuda mutua) que tiene que haber en todo el grupo de clase, no solo dentro de un mismo equipo, ya que los diferentes equipos se ayudan a la hora de resolver las dudas que un equipo concreto no ha sabido resolver.
 
-
-Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
-
-#### Ejemplo
+**Ejemplo:**
 
 Después de una sesión sobre ecuaciones de primer grado, cada alumno escribe una duda concreta: “¿Por qué se cambia de signo al pasar un término al otro lado?”, “¿Qué hago si hay paréntesis?” o “¿Cómo compruebo si la solución es correcta?”.
 
 Primero, el equipo intenta resolver las dudas de sus miembros. Las que no pueden responder se depositan en el saco de dudas de la clase. El profesor extrae algunas y pide si otro equipo puede explicarlas. Al final, se resuelven colectivamente las dudas más repetidas y el docente detecta qué aspectos necesitan una nueva explicación.
+
+_Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula._
 
 **Recursos:** [Muro interactivo](https://jjdeharo.github.io/directo/muro.html)
 
@@ -3344,13 +3292,13 @@ Esta técnica se basa en la retirada progresiva de apoyo.
 
 Si se considera necesario en los pasos 3 y 4, pueden pedir ayuda a la otra pareja o a su pareja, respectivamente.
 
-Fuente:  *Team-Pair-Solo, Cuseu*, 2002  en Grup de recerca sobre aprenentatge entre iguals. (2016).
-
-#### Ejemplo
+**Ejemplo:**
 
 En matemáticas, el profesor propone tres problemas similares sobre porcentajes. El primero se resuelve en equipos de cuatro: calcular el precio final de un producto con descuento e IVA. El segundo se resuelve por parejas: comparar dos ofertas con descuentos distintos. El tercero se resuelve individualmente: decidir qué opción de compra resulta más económica y justificarlo.
 
 Al final, el equipo compara los procedimientos utilizados y revisa los errores. La estructura permite que el alumnado practique primero con apoyo amplio, después con apoyo reducido y finalmente de forma autónoma.
+
+_Fuente: Team-Pair-Solo, Cuseu (2002) en Grup de recerca sobre aprenentatge entre iguals. (2016)._
 
 **Técnicas relacionadas:** 1 - 2 - 4, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Ejemplos resueltos, Liberación gradual de la responsabilidad
 
@@ -3381,12 +3329,8 @@ Después de una explicación o de un tema tratado previamente en clase, el docen
 1. Los equipos intentan resolver los problemas o preguntas que hay escritos en las tarjetas recibidas.
 1. Si han conseguido una respuesta correcta, pasan a la siguiente; si no, revisan el proceso para introducir las correcciones necesarias.
 
+**Ejemplo:**
 
-
-
-Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
-
-#### Ejemplo
 Por ejemplo, imaginad que se quiere realizar una actividad sobre el ciclo del agua con la técnica del intercambio de dificultades. Después de la exposición del tema, el docente pediría a los alumnos que pensaran en una dificultad o pregunta relacionada con el ciclo del agua y la formularan en una tarjeta. Algunos ejemplos de dificultades o preguntas que los alumnos podrían formular podrían ser:
 
 - ¿Cómo se produce la transpiración?
@@ -3397,6 +3341,8 @@ Por ejemplo, imaginad que se quiere realizar una actividad sobre el ciclo del ag
 Después, los alumnos trabajarían en equipos para encontrar las respuestas a las preguntas o problemas que han formulado. Una vez han encontrado las respuestas, las escribirían al reverso de la tarjeta. Finalmente, los equipos intercambiarían las tarjetas con otro equipo e intentarían resolver los problemas o preguntas que hay escritos. Si han conseguido una respuesta correcta, pasarían a la siguiente; si no, revisarían el proceso para introducir las correcciones necesarias.
 
 Así, con esta técnica, todos los estudiantes habrían tenido la oportunidad de reflexionar sobre el tema del ciclo del agua y de trabajar en equipo para encontrar las respuestas a sus dificultades. Además, habrían podido revisar y corregir sus procesos de resolución de los problemas relacionados con este tema.
+
+_Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Técnicas relacionadas:** El Saco de Dudas, Muddiest Point (El punto más confuso), Peer Instruction (Instrucción entre iguales)
 
@@ -3439,14 +3385,13 @@ Es muy útil para promover la participación igualitaria de todos y cada uno de 
 
 Será muy importante tener en cuenta y aplicar aquí uno de los principios básicos reguladores del trabajo en equipo cooperativo: la economía de recursos. Este concepto hace referencia al hecho de que no le damos una ficha con las preguntas a cada uno de los alumnos, sino que entregamos solo una hoja por equipo de base. Este hecho provoca una mejora considerable en el proceso de escucha activa, ya que los alumnos deben estar pendientes del coordinador de cada cuestión, porque en caso contrario no podrán llevar a feliz término la tarea. Además, evita que haya alumnos que por motivo de velocidad de ejecución se anticipen al resto del equipo en la realización de tareas.
 
-
-Fuente: Pérez, M. (2015). Dinámicas cooperativas.
-
-#### Ejemplo
+**Ejemplo:**
 
 En biología, cada equipo recibe una hoja con cuatro preguntas sobre nutrición: función de los glúcidos, diferencia entre alimento y nutriente, papel de las vitaminas y consecuencias de una dieta desequilibrada. Los lápices quedan en el centro mientras se debate cada pregunta.
 
 El alumno responsable de la primera cuestión la lee y coordina las intervenciones. Todos deben aportar una idea antes de escribir. Cuando el equipo llega a una respuesta consensuada, todos cogen el lápiz y la anotan en su cuaderno. Después, el turno pasa al siguiente compañero. Así se evita que uno solo resuelva toda la tarea y se favorece la explicación entre iguales.
+
+_Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Técnicas relacionadas:** Números iguales juntos (Cabezas juntas numeradas), Placemat consensus, Uno para todos, Roles cooperativos
 
@@ -3471,7 +3416,7 @@ _Palabras clave: investigación, resolución de problemas, cooperación, trabajo
 
 Véase la sección Aprendizaje basado en situaciones problematizadas (ABP).
 
-#### Ejemplo
+**Ejemplo:**
 
 En una unidad sobre contaminación del agua, el profesor plantea una situación problemática: “En un río cercano han aparecido peces muertos y el ayuntamiento quiere saber qué puede estar ocurriendo”. La clase se organiza en grupos de investigación, y cada grupo asume una línea de trabajo: análisis de posibles contaminantes, usos del suelo próximos al río, efectos sobre los seres vivos, normativa ambiental y propuestas de intervención.
 
@@ -3515,20 +3460,20 @@ Se pueden seguir los siguientes pasos:
 
 1. Realizar un seguimiento de cómo se ha implementado la solución escogida y evaluar los resultados obtenidos.
 
-Ejemplo
+**Ejemplo:**
 
-Esta tabla recoge las ideas referentes a ""cómo mejorar el rendimiento escolar" ":
+En una clase de 3.º de ESO sobre hábitos de estudio, el docente plantea el problema: "¿Cómo podemos mejorar el rendimiento escolar?". Cada equipo propone soluciones y anticipa sus consecuencias en una tabla:
 
 | Solución | Efecto o consecuencia |
 |---|---|
-|Organizar mejor el tiempo	|Mejora la gestión del tiempo y la capacidad de concentración|
-|Estudiar en grupos	|Mejora la comprensión y la resolución de dudas|
-|Descansar suficiente	|Mejora la concentración y la memoria|
-|Alimentarse saludablemente	|Mejora la concentración y la memoria|
-|Fijar objetivos	|Mejora la motivación y la concentración|
-|Eliminar distracciones	|Mejora la concentración|
+| Organizar mejor el tiempo | Mejora la gestión del tiempo y la concentración |
+| Estudiar en grupos | Mejora la comprensión y la resolución de dudas |
+| Descansar suficiente | Mejora la concentración y la memoria |
+| Alimentarse saludablemente | Mejora la concentración y la memoria |
+| Fijar objetivos | Mejora la motivación y la concentración |
+| Eliminar distracciones | Mejora la concentración |
 
-Con esta matriz, se pueden comparar las diferentes soluciones y valorar cuáles son las mejores opciones en función de sus posibles efectos o consecuencias.
+Una vez completada la matriz, los equipos comparan las opciones y justifican cuál consideran más factible para su situación concreta.
 
 **Técnicas relacionadas:** Pensamiento de diseño (Design Thinking), Detecta patrones, Genera soluciones, Revisa las consecuencias, Las dos columnas, El juego de la NASA, Pensamiento computacional, Diagrama de espina de pescado (Ishikawa)
 
@@ -3557,11 +3502,13 @@ Esta técnica es muy sencilla de aplicar. Con esta técnica se puede alentar a l
 
 Adaptado de: Colegio Ártica. (2018). Construimos nuestro propio aprendizaje.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una asignatura de economía, el profesor plantea la pregunta: “¿Cómo podríamos organizar una feria de intercambio en el centro con un presupuesto limitado?”. Cada alumno escribe primero sus propuestas en una zona individual del mantel: intercambio de libros usados, taller de manualidades, pequeño concierto, campaña de difusión o recogida de materiales reutilizables.
 
 Después, el equipo comparte las ideas y solo escribe en el centro aquellas en las que todos están de acuerdo. Finalmente, el portavoz explica qué propuestas han consensuado y qué criterios han usado: coste, facilidad de organización, participación del alumnado e impacto esperado. La técnica ayuda a pasar de ideas individuales a una decisión colectiva razonada.
+
+_Adaptado de: Colegio Ártica. (2018). Construimos nuestro propio aprendizaje._
 
 **Técnicas relacionadas:** 1 - 2 - 4, Lápiz al centro, Situación problema, El juego de la NASA
 
@@ -3596,14 +3543,15 @@ Consellos:
 - Pedirle que genere al menos dos respuestas diferentes.
 - Asegurar que a veces tenga la oportunidad de realizar esta técnica con compañeros de nivel alto.
 
-Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
+**Ejemplo:**
 
-#### Ejemplo
 El profesor plantea la siguiente situación problemática: ""Vuestra escuela está situada en un barrio con una alta concentración de tráfico y contaminación. Muchos alumnos que viven en este barrio han empezado a quejarse de dolores de cabeza y problemas de concentración. ¿Cómo podríais mejorar la calidad del aire en vuestro barrio?" "
 
 Cada estudiante dedica unos minutos a pensar en una posible solución a este problema y, después, se dividen en grupos pequeños. En estos grupos, discuten las diferentes soluciones y buscan una respuesta consensuada.
 
 Finalmente, el profesor elige al azar un miembro de cada grupo para que explique la o las soluciones que han manejado. Algunas de las soluciones que pueden salir en esta técnica pueden ser: promover el uso del transporte público o bicicletas en vez de vehículos privados, mejorar la calidad de los filtros de los vehículos, promover campañas de concienciación sobre la contaminación, plantar árboles en el barrio para mejorar la calidad del aire, etc.
+
+_Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Técnicas relacionadas:** Aplica los conocimientos, Aprendizaje basado en casos (ABC), Aprendizaje basado en problemas (ABP), Genera soluciones, Placemat consensus
 
@@ -3637,7 +3585,7 @@ Similar a STAD, pero sustituye las pruebas individuales por torneos semanales.
 #### Objetivos
 Aumentar la motivación y asegurar que todos los alumnos (de nivel alto o bajo) tengan la misma oportunidad de éxito.
 
-#### Ejemplo
+**Ejemplo:**
 
 En lengua, los equipos base preparan durante la semana un conjunto de tarjetas sobre categorías gramaticales: sustantivos, adjetivos, verbos, adverbios y preposiciones. Practican juntos con ejemplos y se aseguran de que todos sepan justificar cada respuesta.
 
@@ -3682,7 +3630,8 @@ La práctica intercalada mezcla problemas o tareas de tipos diferentes dentro de
 - Evitar el dominio aparente que producen los bloques homogéneos.
 - Desarrollar comprensión flexible.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una sesión de matemáticas de 20 minutos, el profesor mezcla ecuaciones, sistemas, porcentajes y problemas de proporcionalidad. Antes de calcular, cada alumno debe escribir: “Este problema es de...” y justificar qué procedimiento aplicará.
 
 **Técnicas relacionadas:** Peer Instruction (Instrucción entre iguales), Práctica de recuperación, Práctica espaciada, Teoría de la carga cognitiva
@@ -3720,7 +3669,8 @@ Los ejemplos resueltos son problemas ya solucionados paso a paso, con explicaci�
 - Facilitar el paso progresivo hacia la autonomía.
 - Mejorar la comprensión de tareas complejas.
 
-#### Ejemplo
+**Ejemplo:**
+
 En física, antes de resolver problemas de cinemática, el profesor muestra un ejemplo donde se identifican los datos, se elige la fórmula, se sustituyen unidades y se comprueba si el resultado tiene sentido. Después, el alumnado completa un problema similar con algunos pasos en blanco.
 
 **Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Liberación gradual de la responsabilidad, Pensamiento en voz alta, Guías de orientación, Teoría de la carga cognitiva, Ejemplos concretos
@@ -3754,7 +3704,7 @@ Su valor formativo está en el ciclo de diseño: prototipar, probar, fallar, aju
 4. Prueba el prototipo, detecta qué falla y lo mejora en sucesivas iteraciones.
 5. Comparte el producto final y reflexiona sobre el proceso, los errores y lo aprendido.
 
-#### Ejemplo
+**Ejemplo:**
 
 Ante el reto «diseñad un dispositivo que avise cuando una planta necesita agua», el alumnado combina ciencia (humedad del suelo), tecnología y programación (un sensor y una placa programable) y diseño (la carcasa). Construyen un primer prototipo que no funciona bien, ajustan el código y el sensor, y tras varias pruebas logran un avisador funcional, documentando cada iteración en una memoria del proyecto.
 
@@ -3791,7 +3741,7 @@ Sus cuatro pilares son: descomposición (dividir el problema), reconocimiento de
 4. Abstracción: identifica los datos y reglas esenciales y deja fuera lo accesorio.
 5. Algoritmo: diseña una secuencia de pasos precisa para resolverlo, la prueba y la depura si falla.
 
-#### Ejemplo
+**Ejemplo:**
 
 Para organizar el horario de uso de un único ordenador entre varios grupos, el alumnado descompone el problema (cuántos grupos, cuánto tiempo, qué prioridades), reconoce el patrón de turnos rotativos, abstrae las reglas clave (todos deben usarlo el mismo tiempo) y diseña un algoritmo de asignación paso a paso. Lo prueban con casos y lo ajustan: han resuelto un problema real aplicando pensamiento computacional sin programar nada.
 
@@ -3836,7 +3786,7 @@ Comparación de ABJ con otras metodologías:
 
 Adaptado de Wikipedia.
 
-#### Ejemplo
+**Ejemplo:**
 
 Un ejemplo de aprendizaje basado en el juego (ABJ) en educación secundaria podría ser el siguiente:
 
@@ -3881,7 +3831,8 @@ Metodología en la que el aprendizaje se organiza a partir de preguntas, observa
 - Mejorar la capacidad para formular preguntas investigables.
 - Relacionar datos, explicaciones y conclusiones.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, los alumnos investigan por qué algunas semillas germinan mejor que otras. Diseñan una pequeña prueba con distintas condiciones de luz o humedad, recogen datos y justifican sus conclusiones.
 
 **Técnicas relacionadas:** Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje por descubrimiento, El modelo 5E, Genera hipótesis, Parejas de detectives, Pienso, me interesa, investigo, Centros de interés (enfoque de Decroly), Afirmación, evidencia y razonamiento (CER), Indagación guiada por la argumentación (ADI), Predice, observa, explica (POE), Concept Cartoon, WebQuest
@@ -3919,14 +3870,15 @@ Así como el ABP permite superar la limitación del “silencio en las aulas” 
 
 - 3ª fase. Presentación de la experiencia. Finalmente, reflexiona, comparte y valora la experiencia.
 
-
 Adaptado de: Esteban, M. (2011). Del “Aprendizaje Basado En Problemas” (ABP) al “Aprendizaje Basado En La Acción” (ABA). Claves para su complementariedad e implementación.
 
-#### Ejemplo
+**Ejemplo:**
 
 Un ejemplo de aprendizaje basado en la acción (ABA) en educación secundaria podría ser el siguiente:
 
 Imaginad que los estudiantes de la ESO están estudiando el medio ambiente y el profesor quiere utilizar el ABA para ayudarles a comprender mejor la importancia de proteger los recursos naturales. El profesor puede planificar una actividad en la que los estudiantes tienen que trabajar colaborativamente para investigar sobre un problema ambiental específico, como la degradación de las aguas o la contaminación del aire, en su localidad. Después, tienen que diseñar una campaña de concienciación para promover la preservación de los recursos naturales y presentarla al resto de la clase. Esta actividad incluye tanto trabajos contextualizados, como realizar entrevistas o realizar observaciones de campo, como trabajos descontextualizados, como utilizar recursos digitales o elaborar materiales de promoción. Al final de la actividad, los estudiantes reflexionan sobre el proceso que han seguido y comparten los resultados de su campaña con el resto de la clase. Este ejemplo muestra cómo el ABA puede utilizar la combinación de situaciones contextualizadas y descontextualizadas para ayudar a los estudiantes a conectar con su entorno y desarrollar habilidades y conocimientos de manera significativa.
+
+_Adaptado de: Esteban, M. (2011). Del "Aprendizaje Basado En Problemas" (ABP) al "Aprendizaje Basado En La Acción" (ABA)._
 
 **Técnicas relacionadas:** Aprendizaje basado en retos (ABR), Aprendizaje experiencial, Proyectos de Aprendizaje-Servicio (ApS o ABS), Centros de interés (enfoque de Decroly)
 
@@ -3969,7 +3921,7 @@ Fuentes:
 - Área de Tecnología Educativa. (2017). Aprendizaje basado en proyectos.
 - Wikipedia.
 
-#### Ejemplo
+**Ejemplo:**
 
 Imaginemos que un grupo de estudiantes del instituto están interesados en aprender sobre **conservación de la energía y el cambio climático**. Sus profesores deciden utilizar el aprendizaje basado en proyectos para ayudarles a explorar este tema de manera más profunda.
 
@@ -4034,9 +3986,7 @@ Al hacer referencia al ABR, suelen distinguirse las fases siguientes:
 
 1. **Evaluación**. La autoevaluación y el aprendizaje a través del error serán parte fundamental de la evolución natural del trabajo. Igualmente, habrá evaluación continua por parte del docente o docentes implicados, además de poder existir evaluaciones externas de otros agentes sociales partícipes en la consecución de los objetivos marcados. Se contará con instrumentos de evaluación formal e informal.
 
-Fuente: Mosquera, I. (2019). Aprendizaje basado en retos: ¡acepta el desafío!
-
-#### Ejemplo
+**Ejemplo:**
 
 Un ejemplo de problema que puede tener un instituto o el barrio donde se encuentra es la falta de bancos para sentarse en el exterior. Esta falta de mobiliario urbano puede afectar la calidad de vida de la comunidad, ya que la presencia de lugares donde descansar o hacer vida social es importante para el bienestar de los vecinos.
 
@@ -4048,6 +3998,8 @@ Ejemplo de aplicación de ABR para resolver este problema:
 - Comprobación en contexto: Los alumnos pondrán en práctica las soluciones que hayan propuesto, como por ejemplo organizando una campaña de limpieza de bancos o hablando con los comercios del barrio para conseguir que pongan taburetes o bancos cerca de los establecimientos.
 - Difusión del trabajo: Los alumnos pueden crear un vídeo o una exposición para explicar las soluciones propuestas y los resultados obtenidos. También pueden escribir un artículo para una revista del barrio o realizar una presentación a la comunidad.
 - Evaluación: Los alumnos se harán una autoevaluación para reflexionar sobre el proceso seguido y los resultados obtenidos, y también se hará una evaluación por parte del docente o docentes implicados. Si se considera necesario, se pueden pedir evaluaciones externas a otros agentes del barrio para obtener una visión más amplia del trabajo realizado.
+
+_Fuente: Mosquera, I. (2019). Aprendizaje basado en retos: ¡acepta el desafío!_
 
 **Técnicas relacionadas:** Aprendizaje basado en la acción (ABA), Aprendizaje basado en problemas (ABP), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS), Aprendizaje maker / STEAM, Hora del genio (Genius Hour)
 
@@ -4078,7 +4030,7 @@ Las actividades que se pueden utilizar en esta metodología pueden ser muy diver
 
 Este tipo de aprendizaje se puede incluir en la categoría de aprendizaje por descubrimiento.
 
-#### Ejemplo
+**Ejemplo:**
 
 Un ejemplo de aprendizaje experiencial podría ser una actividad en la que los estudiantes de biología visiten una reserva natural para observar de primera mano diferentes especies de animales y plantas, así como su hábitat y comportamiento. Esta actividad les permitirá experimentar de primera mano los conceptos que están estudiando en clase, como la biodiversidad, los ecosistemas o los ciclos de vida de los seres vivos.
 
@@ -4118,7 +4070,7 @@ Fuentes:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Aprendizaje cooperativo en la universidad
 
-#### Ejemplo
+**Ejemplo:**
 
 1. El profesor propone el tema ""La importancia de los océanos en el clima del planeta" ".
 1. Marcamos un tiempo de 5 minutos para cada intervención.
@@ -4152,15 +4104,14 @@ Los relatos o narraciones digitales consisten en combinar narrativas y contenido
 La planificación y la elaboración de proyectos multimedia en forma de relato (*digital storytelling*, DST) intenta aprovechar las nuevas tecnologías digitales para potenciar este recurso didáctico. Originariamente, los DST se centraban sobre todo en narraciones de experiencias personales en formato de vídeo, con voz o entrevistas, de menos de 5 minutos. Actualmente, el relato digital también puede integrar recursos argumentales e informativos, propios de un género más documental.
 
 Los relatos digitales pueden ser realizados por el profesorado, pero con las orientaciones adecuadas los pueden realizar también el alumnado (para más detalles ver 8 pasos para implementar storytelling en el aula).
----
 
-Fuente: Relatos digitales (digital storytelling) en De Haro, J.J. (2022). Herramientas y Servicios TIC Abiertos Para Educación.
-
-#### Ejemplo
+**Ejemplo:**
 
 En una unidad de biología sobre enfermedades infecciosas, el alumnado crea un relato digital de tres minutos titulado “El viaje de un virus”. Cada equipo elige un punto de vista: una célula infectada, una persona enferma, el sistema inmunitario o un equipo médico.
 
 El producto final combina una narración breve, imágenes, esquemas sencillos, música o efectos de sonido y una conclusión científica. El docente pide que el relato incluya conceptos como transmisión, respuesta inmunitaria, prevención y tratamiento. Al presentarlo, cada grupo explica qué decisiones narrativas ha tomado y qué contenidos científicos ha querido comunicar.
+
+_Fuente: Relatos digitales (digital storytelling) en De Haro, J.J. (2022). Herramientas y Servicios TIC Abiertos Para Educación._
 
 **Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Titulares, Visual Thinking (pensamiento visual), Modelo SAMR
 
@@ -4198,7 +4149,8 @@ Organización del aula en diferentes estaciones o espacios de trabajo. En cada e
 - Favorecer la autonomía y la cooperación.
 - Recoger evidencias variadas de aprendizaje.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, una estación contiene observación de muestras, otra análisis de imágenes, otra resolución de preguntas y otra elaboración de un esquema. Todos los grupos pasan por todas las estaciones.
 
 **Técnicas relacionadas:** Flipped Classroom (Aula invertida), Diseño Universal para el Aprendizaje (DUA / UDL), Equipos paralelos, Centros de interés (enfoque de Decroly), Co-enseñanza (Co-teaching), Aprendizaje personalizado con itinerarios (playlists)
@@ -4234,7 +4186,7 @@ Lluvia de ideas rotativa por escrito.
 #### Objetivos
 Generar una gran cantidad de ideas de forma colaborativa y rápida.
 
-#### Ejemplo
+**Ejemplo:**
 
 Antes de iniciar un proyecto sobre mejora del patio escolar, el profesor coloca cuatro carteles grandes con preguntas diferentes: “¿Qué problemas tiene el patio?”, “¿Qué usos debería permitir?”, “¿Qué normas serían necesarias?” y “¿Qué mejoras serían fáciles de aplicar?”.
 
@@ -4268,10 +4220,11 @@ Se trata de una simplificación de la técnica del rompecabezas.
 1. En la primera fase de la sesión cada miembro de cada equipo tendrá que acudir a uno de los “4 sabios” para que, junto con los componentes de los otros equipos que han acudido al mismo “sabio”, este les explique o les enseñe lo que sabe.
 1. Después, en la segunda fase de la sesión, cada alumno vuelve a su equipo de origen, y cada uno tendrá que explicar o enseñar al resto de sus compañeros o compañeras del equipo aquello que los respectivos “sabios” les han enseñado. De esta manera, en cada equipo de base se intercambian aquello que cada uno, por separado, ha aprendido del “sabio” correspondiente.
 
-Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
+**Ejemplo:**
 
-#### Ejemplo
 Por ejemplo, imaginad que se quiere realizar una actividad sobre el uso de los pronombres débiles en catalán. Se podrían seleccionar cuatro estudiantes que consideren que ya dominan este tema y se les pide que se preparen para explicarlo a los demás. Después, se dividiría el grupo en equipos de cuatro estudiantes y un alumno de cada grupo iría a ver a uno de los ""sabios" " para recibir instrucciones sobre el uso de los pronombres débiles. Después de la primera fase, cada estudiante volvería a su equipo y explicaría a sus compañeros lo que ha aprendido del ""sabio" " que ha visitado. Así, todos los estudiantes habrían aprendido sobre el uso de los pronombres débiles gracias a las explicaciones de los diferentes ""sabios" ".
+
+_Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula._
 
 **Técnicas relacionadas:** CO-OP CO-OP, El Rompecabezas ("Jigsaw"), Tutoría entre iguales (Peer Tutoring), Equipos paralelos
 
@@ -4318,7 +4271,15 @@ _Palabras clave: hipótesis, conocimientos previos, parejas, resolución de prob
 
 1. Finalmente, el docente empieza a explicar la unidad didáctica partiendo de la pregunta planteada y de las soluciones elegidas.
 
-Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo
+**Ejemplo:**
+
+En una clase de 2.º de ESO que inicia la unidad de la Revolución Industrial, el docente plantea: "¿Por qué crees que los trabajadores de las fábricas del siglo XIX empezaron a organizarse colectivamente?"
+
+Cada alumno reflexiona en silencio y anota dos hipótesis posibles: por ejemplo, "porque las condiciones de trabajo eran pésimas" y "porque querían tener más poder frente a los propietarios". Después, en parejas, se preguntan mutuamente cuáles son sus hipótesis y las anotan sin debatir ni corregir.
+
+El docente recoge todas las hipótesis en la pizarra: aparecen ideas sobre salarios, jornadas laborales, solidaridad, presión económica... A continuación valora en voz alta la variedad de vías explicativas —sin decir todavía cuál es la correcta— y arranca la explicación de la unidad partiendo precisamente de esas hipótesis.
+
+_Fuente: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Técnicas relacionadas:** Aprendizaje basado en indagación, Genera hipótesis, Think-Pair-Share (Piensa-Pareja-Comparte)
 
@@ -4354,7 +4315,7 @@ Fuentes:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Aprendizaje cooperativo en la universidad
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de literatura, el profesor pregunta: “¿Qué rasgos puede tener un personaje protagonista?”. Cada alumno piensa unos segundos y, por parejas, van alternando respuestas: “tiene un objetivo”, “cambia a lo largo de la historia”, “se enfrenta a un conflicto”, “toma decisiones”, “tiene aliados o rivales”.
 
@@ -4396,7 +4357,7 @@ Fuentes:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Aprendizaje cooperativo en la universidad
 
-#### Ejemplo
+**Ejemplo:**
 
 En tutoría, el profesor plantea al grupo: “¿Qué podríamos hacer para que la biblioteca escolar se use más?”. En equipos de cuatro, cada alumno aporta una idea durante su turno: ampliar horarios, crear recomendaciones de lectura, reservar un espacio tranquilo de estudio, organizar clubes de lectura, exponer novedades o permitir sugerencias del alumnado.
 
@@ -4438,7 +4399,8 @@ Dinámica de diálogo colaborativo en pequeños grupos que rotan por varias mesa
 - Conectar perspectivas distintas.
 - Construir una síntesis colectiva sobre un tema amplio.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una unidad sobre sostenibilidad, cada mesa aborda una pregunta: consumo de agua, energía, residuos, movilidad y alimentación. Los grupos rotan, completan las ideas y finalmente elaboran propuestas para el centro.
 
 **Técnicas relacionadas:** Gallery Walk (Paseo por la galería), Graffiti Cooperativo, Las 4C del aprendizaje, Grupo nominal, Conversación escrita en silencio (Chalk Talk)
@@ -4477,7 +4439,8 @@ Enfoque globalizador que organiza el aprendizaje a partir de necesidades, intere
 - Globalizar contenidos de varias áreas.
 - Partir de la experiencia directa y de las necesidades del alumnado.
 
-#### Ejemplo
+**Ejemplo:**
+
 A partir del centro de interés “la alimentación”, el alumnado observa hábitos cotidianos, analiza etiquetas, calcula proporciones, estudia nutrientes y elabora propuestas de mejora.
 
 **Técnicas relacionadas:** Aprendizaje basado en indagación, Aprendizaje basado en la acción (ABA), Aprendizaje experiencial, Estaciones de aprendizaje
@@ -4525,7 +4488,8 @@ Su rasgo distintivo es que la investigación no termina cuando se obtienen datos
 - En la indagación general puede bastar con elaborar una explicación o conclusión; en ADI el argumento debe defenderse, revisarse y transformarse en un informe final.
 - ADI tiene una secuencia más pautada, especialmente útil cuando se quiere enseñar al alumnado a argumentar científicamente.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, el profesor plantea la pregunta: “¿Influye la luz en la germinación de las semillas?”. Cada grupo diseña una pequeña investigación con semillas en condiciones de luz y oscuridad, controla variables como el agua y la temperatura, y registra los resultados durante varios días.
 
 Después, cada grupo prepara un argumento tentativo. Por ejemplo: “La luz no es necesaria para la germinación inicial, porque en ambos grupos germinó un número parecido de semillas”. Durante la sesión de argumentación, otros grupos preguntan si se controló bien la humedad, si el número de semillas era suficiente o si se midió solo germinación o también crecimiento.
@@ -4569,7 +4533,8 @@ La liberación gradual de la responsabilidad es un modelo de andamiaje en el que
 - Retirar ayudas de forma progresiva.
 - Favorecer autonomía y seguridad.
 
-#### Ejemplo
+**Ejemplo:**
+
 Para resolver problemas de geometría, el profesor resuelve uno pensando en voz alta durante 5 minutos. Después resuelve otro con la clase. A continuación, las parejas trabajan un tercer problema y, al final, cada alumno resuelve individualmente uno similar.
 
 **Técnicas relacionadas:** Equipo-pareja-individual, Tutoría entre iguales (Peer Tutoring), Ejemplos resueltos, Pensamiento en voz alta, Teoría de la carga cognitiva, Andamiaje y zona de desarrollo próximo (ZDP)
@@ -4605,7 +4570,7 @@ Usar ejemplos variados (no uno solo) ayuda a abstraer lo esencial del concepto y
 4. Pide al alumnado que aporte sus propios ejemplos a partir de su experiencia.
 5. Comprueba la calidad de esos ejemplos: si son correctos, el concepto se ha comprendido; si no, se aclara.
 
-#### Ejemplo
+**Ejemplo:**
 
 Al enseñar el concepto de «inflación», en lugar de quedarse en la definición, el docente muestra ejemplos concretos: el precio del pan que sube cada año, la entrada de cine que costaba menos hace una década, el billete de autobús. Después pide a cada alumno un ejemplo propio de su vida cotidiana. Comparar varios casos ayuda a captar la idea común de pérdida de poder adquisitivo.
 
@@ -4647,8 +4612,6 @@ Hay 5 posibles objetivos del ABI:
 1. Explicar o predecir
 1. Diseñar o desarrollar
 
-
-
 #### Implementación en el aula
 
 1. **Identificar problemas o situaciones problemáticas que requieren investigación**. Son los propios estudiantes los encargados de buscar problemáticas que quieran solucionar o investigar, siendo el docente un facilitador y orientador para que obtengan los resultados esperados.
@@ -4680,8 +4643,8 @@ Fuentes:
 - Servicio de Innovación Educativa de la UPM (Julio 2020). Aprendizaje basado en la investigación.
 - Lamelo, O.S. (2015). Caja de Herramientas Pensamiento Crítico
 
----
-#### Ejemplo
+**Ejemplo:**
+
 Un ejemplo de aprendizaje basado en la investigación podría ser un grupo de estudiantes que quieren investigar el efecto de los diferentes tipos de fertilizantes en el crecimiento de plantas. 
 
 1. Identificar problemas o situaciones problemáticas que requieren investigación. Los estudiantes han identificado como problema o situación problemática a investigar el efecto de los diferentes tipos de fertilizantes en el crecimiento de las plantas.
@@ -4745,7 +4708,7 @@ Este método proporciona al alumno habilidades como la investigación y la gesti
 1. Comunicación:
    1. ¿Cómo presentaré mis hallazgos?
 
-#### Ejemplo
+**Ejemplo:**
 
 En una práctica de biología, el profesor plantea la pregunta: “¿La luz influye en la germinación de las semillas?”. El alumnado formula una hipótesis, por ejemplo: “Las semillas germinarán mejor con luz que sin luz”.
 
@@ -4796,12 +4759,10 @@ Desarrollar una unidad a través de preguntas estructuradas y jerarquizadas para
 
    1. **Problemáticas o creativas**: Fomentan la creación de soluciones o respuestas originales con la información procesada (¿Qué otras alternativas se os ocurren para…?, ¿cómo lo imagináis en el futuro?, ¿qué pasaría si…?, ¿qué cambios o mejoras le haríais?, ¿qué proyectos se te ocurren alrededor de esto?).
 
-
 Las preguntas siempre tienen que estar jerarquizadas (de fácticas a creativas)
 
-Fuente: IPCHILE. (2019). Ficha para implementar y evaluar metodología y aprendizaje basado en preguntas para la comprensión.
+**Ejemplo:**
 
-#### Ejemplo
 En una unidad sobre la historia de la música occidental, el profesor ha decidido utilizar la metodología del aprendizaje basado en preguntas para incentivar y corroborar la comprensión de los estudiantes sobre los contenidos centrales del curso. Por ello, ha elaborado una guía de preguntas jerarquizadas con las siguientes categorías:
 
 1. Preguntas fácticas: ¿Cuáles son las tres épocas más importantes de la música occidental? ¿Cuáles son los instrumentos más característicos de cada época? ¿Cuáles son los compositores más destacados de cada época?
@@ -4811,6 +4772,8 @@ En una unidad sobre la historia de la música occidental, el profesor ha decidid
 1. Preguntas problemáticas o creativas: Si pudiésemos crear una nueva época de música, ¿cuáles serían sus elementos característicos? ¿Cuáles serían las influencias más importantes para esta nueva época? ¿Cómo se adaptaría la música a las nuevas tecnologías?
 
 El profesor ha dividido a los estudiantes en grupos de 3 y ha asignado a cada grupo una de las épocas de la música occidental. Los estudiantes tienen que trabajar en equipo para elaborar una guía de preguntas con las tres categorías anteriores para su época asignada. Después, cada grupo presentará sus preguntas al resto de la clase, que se encargarán de responderlas. Así, el aprendizaje se desarrollará de forma colaborativa y metacognitiva, ya que los estudiantes tienen que utilizar sus ideas previas, sintetizar la información adquirida, organizarla y jerarquizarla, y aplicar su conocimiento a nuevas situaciones.
+
+_Fuente: IPCHILE. (2019). Ficha para implementar y evaluar metodología y aprendizaje basado en preguntas para la comprensión._
 
 **Técnicas relacionadas:** Pienso, me interesa, investigo, Pregunta el porqué, Pregunta y responde, Técnica de formulación de preguntas (QFT), Inicios de preguntas (Question Starts)
 
@@ -4854,7 +4817,7 @@ Tamaño del EQUIPO: Grupos pequeños (normalmente de 3 a 5 alumnos).
 OBSERVACIONES Y CONSEJOS PRÀCTICOS: 
 El problema no tiene que tener una única solución "correcta", sino que tiene que permitir diferentes enfoques y debates. El papel del docente pasa de ser un transmisor de conocimientos a ser un tutor o facilitador que guía el proceso sin dar las respuestas directamente. Es fundamental que el problema esté bien diseñado y sea motivador para el alumnado. Hay que asegurarse de que los grupos tengan acceso a fuentes de información variadas y fiables.
 
-#### Ejemplo de aplicación del Aprendizaje basado en problemas (ABP):
+**Ejemplo:**
 
 En la asignatura de Tecnología, se plantea el reto de diseñar un sistema de riego automático para el huerto escolar que sea sostenible y de bajo coste.
 
@@ -4889,8 +4852,6 @@ El aprendizaje por descubrimiento se desarrolla mediante un proceso de búsqueda
 
 Se trata de que el alumnado encuentre la solución a los problemas por sí mismo y con la ayuda del profesorado, pero sin tener la solución definitiva. 
 
-
-
 Se basa en el aprendizaje a través de la exploración y el descubrimiento de los estudiantes. En esta metodología, los alumnos tienen la oportunidad de realizar preguntas, investigar y experimentar para descubrir los conceptos o las habilidades que se quieren aprender. Esto les permite realizar sus propias conexiones y relaciones con lo que ya saben, lo que puede promover el aprendizaje más profundo y significativo. El aprendizaje por descubrimiento puede incluir diversas actividades, como el uso de materiales manipulativos o de juegos, la exploración de diferentes entornos o el uso de tecnologías de la información y la comunicación. Esta metodología se basa en la idea de que los estudiantes aprenden mejor cuando tienen la oportunidad de descubrir los conceptos por ellos mismos.
 
 #### Tipos de aprendizaje por descubrimiento
@@ -4901,7 +4862,7 @@ El aprendizaje por descubrimiento se puede dividir en dos categorías principale
 
 - El **aprendizaje por descubrimiento libre**, por su parte, implica que los alumnos tienen una gran libertad para explorar y descubrir los conceptos o las habilidades por ellos mismos, sin ningún tipo de guía o ayuda externa. Esta metodología se basa en la idea de que los alumnos aprenden mejor cuando tienen la oportunidad de descubrir los conceptos por ellos mismos, ya que esto les permite realizar sus propias conexiones y relaciones con lo que ya saben.
 
-#### Ejemplos
+**Ejemplo:**
 
 ### Ejemplos de aprendizaje por descubrimiento guiado
 - Un grupo de alumnos de ciencia están estudiando la nutrición y tienen que diseñar un menú equilibrado para una semana. El enseñante proporciona a los alumnos una lista de las diferentes categorías de alimentos que se tienen que incluir en el menú (proteínas, legumbres, verduras, etc.), así como las cantidades recomendadas de cada categoría. Los alumnos tienen que utilizar esta información para seleccionar los alimentos que quieren incluir en su menú, y tienen que justificar sus decisiones.
@@ -4957,7 +4918,8 @@ Criterios para potenciar la participación y la interacción:
 
 Adaptado de Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula
 
-#### Ejemplo
+**Ejemplo:**
+
 1. El maestro o la maestra escriben en la pizarra unas cuantas palabras clave sobre el tema que están trabajando o ya han acabado de trabajar, por ejemplo: "comunicación", "liderazgo", "equipo", "resolución de conflictos".
 
 1. En cada uno de los equipos de base los estudiantes tienen que escribir una frase con estas palabras –cada uno a partir de una de las palabras clave-, o expresar la idea que hay “detrás” de estas palabras. Por ejemplo, un estudiante puede escribir: "La comunicación efectiva es clave para el liderazgo de un equipo".
@@ -5003,7 +4965,7 @@ No se trata de añadir imágenes decorativas, sino de usar representaciones visu
 4. Evita la sobrecarga: la imagen y el texto deben referirse a lo mismo y estar próximos, no competir por la atención.
 5. En el repaso, haz que recuperen primero la imagen mental y luego la verbalicen, o al revés.
 
-#### Ejemplo
+**Ejemplo:**
 
 Al estudiar el ciclo del agua, en lugar de leer solo un párrafo, el alumnado dibuja un diagrama con flechas (evaporación, condensación, precipitación) y rotula cada fase con una frase propia. Después tapa el texto y explica el ciclo mirando solo el dibujo, y luego tapa el dibujo y lo describe con palabras. Las dos vías se refuerzan mutuamente.
 
@@ -5030,9 +4992,13 @@ _Palabras clave: rol, perspectiva, toma de decisiones, comunicación, resolució
 
 Esta técnica consiste en hacer que los participantes se pongan en el lugar de un personaje o rol específico, y desarrollen una actividad o situación en la que tengan que tomar decisiones y resolver problemas. Esta técnica promueve la colaboración y la comunicación entre los miembros del grupo, ya que tienen que trabajar juntos para resolver los problemas del juego de rol. Además, también puede fomentar la reflexión y la comprensión sobre diferentes temas o conceptos, porque los participantes tienen que ponerse en el lugar de un personaje y entender sus motivaciones y decisiones.
 
-Un ejemplo de la técnica del juego de rol podría ser el siguiente:
+**Ejemplo:**
 
-Imaginaremos que el grupo está estudiando la Segunda Guerra Mundial. Los participantes pueden dividirse en diferentes roles, como líderes políticos, militares o ciudadanos comunes de los diferentes países implicados en la guerra. Después, el grupo tendrá que resolver una serie de problemas o dilemas relacionados con la guerra, como qué decisiones tomaría cada rol en determinadas situaciones o qué consecuencias tendrían estas decisiones. Así, los participantes tendrán que trabajar juntos para resolver los problemas del juego de rol y a la vez reflexionar sobre los diferentes puntos de vista y las motivaciones de los diferentes personajes.
+En una clase de 4.º de ESO que estudia la Primera Guerra Mundial, el docente divide al grupo en tres bandos: representantes del Imperio austrohúngaro, del Imperio Británico y de Serbia. Cada equipo recibe una tarjeta de rol con la posición histórica de su país, sus alianzas y sus intereses.
+
+El reto: responder al asesinato del archiduque Francisco Fernando. Cada bando delibera internamente durante cinco minutos y formula su respuesta oficial. Después, en plenario, los representantes negocian, intentan evitar la escalada bélica y deben argumentar su posición con datos históricos reales.
+
+Al terminar, el docente presenta lo que ocurrió realmente y el grupo reflexiona sobre qué decisiones podrían haber cambiado el curso de la historia y por qué ningún bando las tomó.
 
 **Técnicas relacionadas:** Aprendizaje basado en casos (ABC), Círculo de puntos de vista, Role on the Wall (Silueta del personaje), Ponerse en el lugar (Step Inside)
 
@@ -5069,7 +5035,7 @@ Esta técnica permite un conocimiento más profundo entre los compañeros y comp
 
 Adaptado de Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
 
-#### Ejemplo
+**Ejemplo:**
 
 En la primera semana de trabajo en equipos cooperativos, el profesor forma parejas aleatorias y les da una breve guía de entrevista: “¿Qué se te da bien?”, “¿Qué te cuesta más en clase?”, “¿Cómo prefieres trabajar?”, “¿Qué puedes aportar a un equipo?” y “¿Qué necesitas de tus compañeros para trabajar mejor?”.
 
@@ -5118,7 +5084,7 @@ Para llevarla a cabo podemos hacer lo siguiente:
 
 1. Finalmente, resumid los acuerdos y las soluciones acordadas en la mesa redonda, y asignad las responsabilidades para llevarlas a cabo.
 
-#### Ejemplo
+**Ejemplo:**
 
 En tutoría, el grupo realiza una mesa redonda sobre la pregunta: “¿Cómo podemos mejorar el uso del móvil durante las clases y los descansos?”. Cada alumno dispone de un turno breve para exponer su opinión, aportar una experiencia o proponer una norma.
 
@@ -5169,9 +5135,7 @@ La actividad consta de cuatro rondas de tres pasos cada una.
 
 Explicación de la técnica (versión simplificada):
 
-
-
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de ciencias sociales, el grupo lee un texto breve sobre las causas de la Revolución Francesa. En equipos de cuatro, el primer alumno lee el primer párrafo; el segundo lo resume con sus palabras; el tercero y el cuarto comprueban si el resumen recoge las ideas esenciales y añaden matices.
 
@@ -5206,7 +5170,7 @@ Se trata de leer un texto entre varios, cuando uno acaba empieza otro de forma v
 
 Es una técnica que conviene realizar más de una vez, ya que mejoran notablemente con el tiempo.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de lengua, el profesor empieza a leer en voz alta un relato breve. Tras unas líneas, se detiene en un punto natural de la lectura. Un alumno continúa de forma voluntaria y, cuando lo considera oportuno, se detiene para que otro compañero siga.
 
@@ -5239,19 +5203,13 @@ Al acabar un tema, como síntesis final, cada equipo puede elaborar un mapa conc
 1. Dentro de cada equipo de base se repartirán las diferentes partes del mapa o esquema entre los componentes del equipo, de manera que cada estudiante tendrá que traer pensado de su casa (o hará en clase de forma individual o por parejas) la parte que le ha tocado.
 1. Después pondrán en común la parte que ha preparado cada uno, repasarán la coherencia del mapa o del esquema que resulte y, si es necesario, lo retocarán antes de darlo por bueno y realizar una copia para cada uno, que os servirá como material de estudio.
 
-Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
-
----
-
-**Explicación de la técnica:**
-
-
-
-#### Ejemplo
+**Ejemplo:**
 
 Al terminar una unidad sobre el sistema nervioso, el profesor acuerda con la clase los apartados principales del mapa conceptual: neuronas, sistema nervioso central, sistema nervioso periférico, actos reflejos y coordinación.
 
 En cada equipo, un alumno prepara la parte sobre neuronas, otro la del sistema nervioso central, otro la del periférico y otro la de actos reflejos. Después, ponen en común sus partes y construyen un único mapa conceptual con conectores claros: “transmite”, “coordina”, “recibe información”, “responde a estímulos”. Antes de finalizarlo, revisan si las relaciones son correctas y si falta algún concepto importante.
+
+_Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC ("cooperar para aprender/aprender a cooperar") para enseñar a aprender en equipo._
 
 **Recursos:** [BoardLive: Pizarra colaborativa](https://boardlive.github.io/)
 
@@ -5282,9 +5240,7 @@ A veces al ApS se le denomina también **Aprendizaje basado en servicio** o ABS 
 
 El Centro Promotor de Aprendizaje Servicio lo define de la siguiente forma:
 
-
 > El aprendizaje servicio es una propuesta educativa que combina procesos de aprendizaje y de servicio a la comunidad en un solo proyecto bien articulado en el cual los participantes se forman trabajando sobre necesidades reales del entorno con el objetivo de mejorarlo.
-
 
 Los Proyectos de Aprendizaje Servicio (ApS) tienen dos componentes bien definidos que tienen que estar presentes en la misma proporción: nos referimos al aprendizaje que tiene que estar presente como motor del ApS, pero también al servicio a la sociedad que esto implica. Un proyecto solidario, por ejemplo, recogida de alimentos o juguetes, no es un auténtico ApS, ya que tienen una componente social, de servicio, pero no se ha desarrollado la componente del aprendizaje. Los ApS tienen que llevar siempre una parte educativa, que no viene solo por el hecho de desarrollar la actividad, sino que requiere una base docente.
 
@@ -5293,7 +5249,6 @@ Por ejemplo, si realizamos recogida de alimentos para entregar a una ONG o campa
 Si realizamos un proyecto de recogida de basura en el barrio, se tiene que dar un conocimiento que podría ser conocimientos de estadística para realizar un estudio de lo que la gente tira y relacionarlo con el consumo responsable, por ejemplo.
 
 Resumiendo, podemos decir que **un ApS es una propuesta educativa que combina procesos de aprendizaje y de servicio a la comunidad en un solo proyecto bien articulado. Un proyecto en el cual los participantes se forman trabajando sobre necesidades reales de su entorno con el objetivo de mejorarlo** (Proyectos ApS del PFI).
-
 
 #### Principios del ApS
 Los principios que rigen el Servicio comunitario son:
@@ -5313,7 +5268,6 @@ Indicadores que permitan realizar un seguimiento y elaborar propuestas de mejora
 
 #### Fases del proyecto
 
-
 Para llevar a cabo el aprendizaje servicio hay cuatro grandes momentos que a la vez se dividen en tareas:
 
 - **Fase 1: Aprendizaje**.
@@ -5327,9 +5281,8 @@ Es el momento de analizar los resultados del servicio y reflexionar con el fin d
 
 (Wikipedia)
 
----
+**Ejemplo:**
 
-#### Ejemplo
 Creación de un huerto comunitario en un barrio con pocos espacios verdes y alta concentración de personas con dificultades económicas. El proyecto se dividiría en las siguientes fases:
 
 1. Planificación:
@@ -5392,7 +5345,8 @@ Puede aplicarse en ciencias, matemáticas, lengua, historia, economía o cualqui
 5. Propone no ejemplos y explica por qué no pertenecen al concepto.
 6. Se revisa colectivamente para ajustar precisión y comprensión.
 
-#### Ejemplo
+**Ejemplo:**
+
 En matemáticas, para el concepto “función”, el alumnado escribe una definición, indica características como que a cada valor de entrada le corresponde un único valor de salida, añade ejemplos de funciones mediante tablas o gráficas y no ejemplos donde un mismo valor de entrada tiene dos salidas distintas.
 
 **Técnicas relacionadas:** Analiza y sintetiza, Contrasta y compara, Mapa conceptual a cuatro bandas, Palabra, idea, frase, Visual Thinking (pensamiento visual), Profundidad del conocimiento (Depth of Knowledge, DOK), Generar, ordenar, conectar, elaborar, Ejemplos concretos, Diagrama de Venn
@@ -5425,7 +5379,8 @@ Puede realizarse en pequeños grupos, con roles rotatorios, o mediante modelado 
 5. Los roles rotan para que todos practiquen las distintas estrategias.
 6. Se cierra con una síntesis común del texto.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, el grupo lee un texto sobre vacunas. Un alumno resume el primer párrafo, otro formula una pregunta sobre la respuesta inmunitaria, otro aclara el significado de “anticuerpo” y otro predice qué se explicará después sobre memoria inmunológica. La lectura se convierte en un proceso activo y compartido.
 
 **Técnicas relacionadas:** Lectura compartida, Palabra, idea, frase, Pregunta el porqué, Pregunta y responde, Seminario socrático, Tertulia dialógica, Pensamiento en voz alta, Apuntes Cornell
@@ -5468,7 +5423,8 @@ La dinámica se basa en una regla sencilla: cada persona añade “una cosa más
 - Fomentar cooperación breve y centrada en la mejora.
 - Desarrollar precisión, síntesis y feedback útil.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología, después de explicar la mitosis, cada alumno escribe durante 4 minutos un resumen con las fases principales. Los resúmenes circulan por la mesa y cada compañero dispone de 2 minutos para añadir una sola mejora con otro color: un detalle, una corrección o una pregunta.
 
 Tras tres rondas, el resumen vuelve a su autor. Cada alumno dedica 3 minutos a revisar las aportaciones y escribe una versión final de cinco líneas. La actividad completa puede hacerse en unos 15 minutos.
@@ -5510,7 +5466,8 @@ Los apuntes Cornell son un sistema de toma de apuntes que divide la página en t
 - Favorecer síntesis y estudio autónomo.
 - Ayudar a detectar qué se comprende y qué falta repasar.
 
-#### Ejemplo
+**Ejemplo:**
+
 En historia, durante una explicación sobre la Segunda República, el alumnado toma notas durante 20 minutos. Al terminar, dedica 5 minutos a escribir preguntas en la columna lateral: causas, reformas, oposición y final. Después redacta una síntesis de cuatro líneas.
 
 **Técnicas relacionadas:** Minute Paper (Papel de un minuto), Palabra, idea, frase, Enseñanza recíproca, Práctica de recuperación, Práctica espaciada
@@ -5550,7 +5507,8 @@ El resumen en una frase es una técnica de síntesis en la que el alumnado conde
 - Comprobar comprensión de forma rápida.
 - Favorecer escritura clara.
 
-#### Ejemplo
+**Ejemplo:**
+
 Tras estudiar la Segunda República, el alumnado dedica 3 minutos a escribir una frase que incluya cronología, naturaleza política, reformas y final. Después compara su frase con la de un compañero y ambos revisan si falta algún elemento esencial.
 
 **Técnicas relacionadas:** Analiza y sintetiza, Minute Paper (Papel de un minuto), Palabra, idea, frase, Titulares
@@ -5586,7 +5544,7 @@ Es especialmente útil con contenidos formados por hechos que pueden parecer arb
 4. Contrasta las explicaciones: se valida la correcta, se matizan las incompletas y se corrigen las erróneas.
 5. Se repite el proceso con los siguientes hechos, encadenando explicaciones.
 
-#### Ejemplo
+**Ejemplo:**
 
 En ciencias naturales, ante la afirmación «los animales del desierto suelen ser de hábitos nocturnos», el alumnado no la memoriza sin más, sino que responde a «¿por qué?»: porque de día las temperaturas son extremas y salir de noche reduce la pérdida de agua y el riesgo de sobrecalentamiento. Al elaborar la causa, el dato deja de ser arbitrario y se recuerda con facilidad.
 
@@ -5624,7 +5582,7 @@ Su seña de identidad es una estructura fija de apartados que guía todo el proc
 5. Evaluación: muestra la rúbrica con la que se valorará el trabajo, conocida desde el inicio.
 6. Conclusión: cierra recordando lo aprendido e invitando a transferirlo o a seguir indagando.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una WebQuest sobre energías renovables, la tarea pide elaborar una propuesta de instalación para el centro. El alumnado, en grupos con roles (economista, ingeniero, ecólogo), consulta los recursos web facilitados, compara tecnologías y costes, y prepara una presentación. La rúbrica, conocida desde el principio, valora el rigor de los datos, la argumentación y la calidad del producto.
 
@@ -5661,7 +5619,7 @@ A diferencia del mapa conceptual (que une conceptos con enlaces etiquetados form
 4. Usa colores distintos por rama e incorpora dibujos o iconos que ayuden a recordar.
 5. Revisa y reorganiza: añade conexiones entre ramas si descubres relaciones nuevas.
 
-#### Ejemplo
+**Ejemplo:**
 
 Para repasar el tema del aparato digestivo, el alumnado dibuja en el centro un estómago y de ahí salen ramas de colores: «órganos», «proceso», «nutrientes», «enfermedades». Cada rama se ramifica con palabras clave e iconos. Al construirlo, el alumnado decide qué es principal y qué secundario y cómo se conecta todo, lo que le obliga a estructurar el contenido y le facilita recordarlo después de un vistazo.
 
@@ -5698,7 +5656,7 @@ Obliga a no quedarse en la primera explicación, sino a explorar de forma ordena
 4. Profundiza preguntando «¿por qué?» en cada causa, para llegar a las raíces más que a los síntomas.
 5. Analiza el diagrama completo e identifica las causas más probables o influyentes sobre las que actuar.
 
-#### Ejemplo
+**Ejemplo:**
 
 Ante el problema «en clase se pierde mucho tiempo al empezar las sesiones», el grupo dibuja la espina y agrupa causas: organización (no está el material listo), normas (entran tarde), espacio (mesas mal dispuestas), hábitos (tardan en sacar el cuaderno). Al verlo en conjunto, identifican que la causa raíz más influyente es la falta de una rutina de inicio, y deciden actuar sobre ella.
 
@@ -5735,7 +5693,7 @@ Es un organizador muy versátil: sirve tanto para historia como para el desarrol
 4. Marca duraciones (con barras o tramos) y señala simultaneidades o relaciones entre hechos.
 5. Interpreta la línea: analiza secuencias, ritmos, periodos de cambio y posibles causas y efectos.
 
-#### Ejemplo
+**Ejemplo:**
 
 Al estudiar la Edad Contemporánea, el alumnado construye una línea de tiempo a escala con las revoluciones, guerras y avances tecnológicos. Al verlos ordenados y proporcionados, descubren que ciertos inventos coinciden con cambios sociales y que algunos conflictos se encadenan, comprendiendo no solo qué pasó sino cuándo, en qué orden y cómo se relacionan los hechos entre sí.
 
@@ -5772,7 +5730,7 @@ Es una herramienta sencilla pero potente para entrenar la comparación rigurosa:
 4. Revisa el reparto y discute los casos dudosos (¿de verdad es común o solo se parece?).
 5. Extrae conclusiones a partir de lo que es exclusivo y lo que es compartido.
 
-#### Ejemplo
+**Ejemplo:**
 
 Para comparar mamíferos y aves, el alumnado dibuja dos círculos. En el de mamíferos: pelo, glándulas mamarias; en el de aves: plumas, pico, huevos con cáscara; en la intersección: vertebrados, respiración pulmonar, sangre caliente. Al situar cada rasgo, el alumnado comprende con precisión qué tienen en común ambos grupos y qué los distingue.
 
@@ -5810,18 +5768,17 @@ Se trata de una estructura apta para repasar el tema o temas trabajados hasta el
 
 - Si una pregunta ya ha sido planteada con anterioridad, no se puede repetir y salta el equipo que la había planteado.
 
-Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/apprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
+**Ejemplo:**
 
----
-
-#### Ejemplo
- El profesor de biología ha estado trabajando los conceptos de la circulación sanguínea con sus alumnos. Para comprobar los conocimientos de los estudiantes y prepararlos para el examen, decide utilizar la estructura de cadena de preguntas.
+El profesor de biología ha estado trabajando los conceptos de la circulación sanguínea con sus alumnos. Para comprobar los conocimientos de los estudiantes y prepararlos para el examen, decide utilizar la estructura de cadena de preguntas.
 
 1. El profesor divide la clase en cuatro equipos y explica las reglas de la actividad. Cada equipo tiene tres minutos para pensar una pregunta sobre la circulación sanguínea que planteará al siguiente equipo.
 1. Una vez pasados los tres minutos, el portavoz del equipo A plantea su pregunta al equipo B, que la responde y, a continuación, plantea una pregunta al equipo C. Así sucesivamente hasta que el último equipo, el equipo D, realiza la pregunta al equipo A.
 1. Una vez acabada la primera ronda, se dejan tres minutos más para pensar nuevas preguntas, y se empieza una segunda ronda en dirección contraria: el equipo D realiza la pregunta al equipo A, que la responde y plantea una pregunta al equipo B, y así sucesivamente hasta que el último equipo, el equipo C, realiza la pregunta al equipo D.
 
 1. Al final de la actividad, el profesor realiza un resumen de los conocimientos de los estudiantes y determina qué áreas necesitan más trabajo. También realiza una revisión de los conceptos clave de la circulación sanguínea para asegurar que todos los alumnos los han entendido de manera adecuada.
+
+_Fuente: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/apprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula._
 
 **Técnicas relacionadas:** Parada de tres minutos, Pregunta y responde, Quiz-Quiz-Trade (Intercambio de tarjetas), Inicios de preguntas (Question Starts)
 
@@ -5859,7 +5816,8 @@ Acuerdo explícito entre alumno y profesor sobre objetivos, tareas, tiempos, rec
 - Hacer visibles los compromisos de trabajo.
 - Mejorar la autorregulación y la evaluación formativa.
 
-#### Ejemplo
+**Ejemplo:**
+
 En un proyecto de investigación, cada alumno acuerda con el profesor la pregunta que trabajará, las fuentes que consultará, el producto final y las fechas de entrega parciales.
 
 **Técnicas relacionadas:** Diario de aprendizaje, Portfolio (dosier de aprendizaje), Aprendizaje visible (Visible Learning), Guías de orientación, Hora del genio (Genius Hour), Aprendizaje personalizado con itinerarios (playlists)
@@ -5898,7 +5856,8 @@ Instrumento visual de autoevaluación o coevaluación que permite valorar difere
 - Promover la reflexión sobre varios criterios a la vez.
 - Ayudar a formular propuestas de mejora.
 
-#### Ejemplo
+**Ejemplo:**
+
 Después de una exposición oral, cada alumno valora claridad, dominio del contenido, uso de apoyos visuales y participación del equipo. Después escribe una acción concreta para mejorar.
 
 **Recursos:** [Escala de valoración](https://jjdeharo.github.io/directo/escala.html)
@@ -5939,7 +5898,8 @@ Técnica de evaluación formativa muy breve que permite recoger información rá
 - ¿Qué ejemplo podrías poner de lo trabajado?
 - ¿Qué pregunta harías para comprobar si alguien lo ha entendido?
 
-#### Ejemplo
+**Ejemplo:**
+
 Después de trabajar la mitosis, los alumnos escriben en una tarjeta la diferencia más importante entre mitosis y meiosis y una duda que todavía tengan.
 
 **Recursos:** [Tickets de salida](https://jjdeharo.github.io/directo/ticket.html)
@@ -5979,7 +5939,8 @@ Técnica de evaluación formativa centrada en identificar el aspecto que ha resu
 - Favorecer la autorregulación del aprendizaje.
 - Ajustar la enseñanza a partir de evidencias rápidas.
 
-#### Ejemplo
+**Ejemplo:**
+
 Después de explicar las funciones exponenciales, varios alumnos indican que el punto más confuso ha sido interpretar el significado de la base. El profesor prepara una actividad corta con gráficas comparadas.
 
 **Recursos:** [Tickets de salida](https://jjdeharo.github.io/directo/ticket.html)
@@ -6021,13 +5982,13 @@ Se puede cambiar la elaboración de las tres preguntas por la escritura de tres 
 Podemos combinar esta estructura con la estructura 1 - 2 - 4, de manera que nos garanticemos la participación igualitaria de todos los miembros del equipo base.
 La resolución de la tarea por parte de los equipos puede ir acompañada de una recompensa del grupo y del profesor, en forma de elogio, buena nota, etc.
 
-Fuente: Pérez, M. (2015). Dinámicas cooperativas.
-
-#### Ejemplo
+**Ejemplo:**
 
 Durante una explicación sobre la respiración celular, el profesor se detiene después de explicar la glucosa, el oxígeno y la producción de energía. Cada equipo dispone de tres minutos para formular tres preguntas. Un equipo escribe: “¿Por qué se necesita oxígeno?”, “¿Qué diferencia hay entre respiración celular y respiración pulmonar?” y “¿Dónde ocurre este proceso?”.
 
 Después, cada equipo plantea una pregunta. El profesor detecta que varias dudas se centran en confundir intercambio de gases con respiración celular, así que aclara esa diferencia antes de continuar. La pausa permite ajustar la explicación mientras el aprendizaje todavía está en proceso.
+
+_Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Técnicas relacionadas:** Cadena de Preguntas, El Saco de Dudas, Equipos de oyentes, Minute Paper (Papel de un minuto), Tiempo de espera (wait time)
 
@@ -6065,7 +6026,8 @@ Técnica desarrollada por Eric Mazur en la que el alumnado responde primero de f
 - Promover la argumentación basada en razones.
 - Mejorar la comprensión conceptual mediante la explicación entre iguales.
 
-#### Ejemplo
+**Ejemplo:**
+
 En matemáticas, el profesor plantea una pregunta sobre probabilidad condicionada con cuatro opciones. Tras la primera respuesta individual, los alumnos comparan argumentos con un compañero y vuelven a votar antes de comentar la solución.
 
 **Recursos:** [Votación simple](https://jjdeharo.github.io/directo/vota.html)
@@ -6104,11 +6066,13 @@ La estructura del dosier de aprendizaje debe quedar bien definida por el profeso
 
 Adaptado de: Liarte, R. (2015). El portfolio como herramienta de evaluación.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una materia de lengua y literatura, el alumnado elabora un portfolio digital durante el trimestre. Incluye una primera versión de un relato, la versión corregida, una grabación de una lectura oral, una reseña de un libro y una reflexión final sobre su progreso.
 
 En cada evidencia, el alumno explica por qué la ha incluido, qué dificultad muestra, qué mejora se observa y qué objetivo se propone para la siguiente tarea. El docente no valora solo los productos finales, sino también la capacidad del alumno para seleccionar evidencias y reflexionar sobre su aprendizaje.
+
+_Adaptado de: Liarte, R. (2015). El portfolio como herramienta de evaluación._
 
 **Técnicas relacionadas:** Contrato de aprendizaje, Diario de aprendizaje, Evaluación auténtica, Rúbrica de evaluación, Revisión entre iguales (peer review)
 
@@ -6144,7 +6108,7 @@ Una estructura de Kagan muy dinámica para el repaso de contenidos.
 #### Objetivos
 Repasar contenidos de forma lúdica e interactiva.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de inglés, cada alumno recibe una tarjeta con una palabra de vocabulario por una cara y su definición o traducción por la otra. Un alumno pregunta a un compañero: “What does *borrow* mean?”. El compañero responde y recibe una pista si la necesita.
 
@@ -6175,11 +6139,17 @@ Esta es una técnica para la **evaluación con calificación** donde intervienen
 
 Cuando se pone una nota a un grupo, se le dan puntos que ellos mismos se reparten según el trabajo que han realizado. La norma es que todos tienen que tener notas diferentes.
 
-Por ejemplo, si en un grupo de 4 se les pone un 7,5, entonces les damos 7,5 x 4 = 30 puntos para que se los repartan como quieran y nosotros les pondremos la nota que ellos nos digan. 
-
 Esta técnica se utiliza con la Escala de valoración: Repartir puntos que tendrán que rellenar previamente a la corrección, de forma que las notas sean tan objetivas como sea posible.
 
-Fuente:  Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
+**Ejemplo:**
+
+Un grupo de cuatro estudiantes entrega un trabajo conjunto valorado por el docente con un 7,5. En lugar de asignar directamente esa nota a todos, el docente les da 7,5 × 4 = 30 puntos para que los repartan según la contribución de cada uno.
+
+El grupo debate y decide: alumna A recibe 8,5 (aportó el grueso del contenido), alumno B recibe 7,5 (coordinó el trabajo), alumna C recibe 7 (participó regularmente) y alumno D recibe 7 (con alguna ausencia en la fase de edición). La suma es 30 y la nota media es 7,5.
+
+El docente contrasta esta distribución con la Escala de valoración que el propio grupo rellenó antes de la corrección. Si coinciden, las notas quedan confirmadas; si hay discrepancias, se abre un espacio de reflexión sobre la co-responsabilidad en el trabajo en equipo.
+
+_Fuente: Pérez-Pueyo, A., Hortigüela, D. & Hernando, A. (2014)._
 
 **Técnicas relacionadas:** STAD (Student Teams Achievement Divisions), Rúbrica de evaluación, Roles cooperativos
 
@@ -6214,7 +6184,7 @@ Técnica desarrollada por Robert Slavin. Los estudiantes se dividen en equipos d
 #### Objetivos
 Mejorar el rendimiento académico individual a través de la responsabilidad compartida.
 
-#### Ejemplo
+**Ejemplo:**
 
 En geografía, el profesor presenta un tema sobre lectura de mapas: escala, orientación, curvas de nivel y leyenda. Después, cada equipo trabaja con varios mapas y se ayuda para que todos comprendan cómo interpretar distancias, símbolos y relieve.
 
@@ -6253,7 +6223,7 @@ Consiste en contestar unas preguntas de este estilo:
 
 Hay muchas variaciones posibles, podéis ver más ejemplos en formato editable en Orientacionandujar. (2019). EXIT TICKET editables PARA EVALUAR EL PROCESO.
 
-#### Ejemplo
+**Ejemplo:**
 
 Al finalizar una clase de historia sobre la Revolución Industrial, el profesor entrega un ticket de salida con tres preguntas: “Escribe una idea que hayas entendido bien”, “Anota una duda que todavía tengas” y “Relaciona el tema con una situación actual”.
 
@@ -6308,7 +6278,8 @@ Puede utilizarse con textos, informes de laboratorio, presentaciones, proyectos,
 - Enseñar al alumnado a formular sugerencias respetuosas y útiles.
 - Dar tiempo para revisar y mejorar después de recibir feedback.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una actividad de lengua, cada alumno escribe un texto argumentativo sobre el uso del móvil en el instituto. Antes de entregarlo, intercambia su borrador con un compañero. La revisión se centra en tres aspectos: claridad de la tesis, uso de evidencias y presencia de un contraargumento.
 
 El revisor señala una idea clara del texto, una parte que no se entiende bien y una mejora concreta. Después, el autor revisa su texto: reformula la tesis, añade un dato y mejora el contraargumento. La técnica convierte la evaluación en una oportunidad real de mejora antes de la versión final.
@@ -6346,7 +6317,8 @@ Resulta útil porque equilibra reconocimiento y mejora. Evita que la revisión s
 4. Escribe un deseo: una mejora concreta y realizable.
 5. El autor revisa el feedback recibido y decide qué cambio aplicará.
 
-#### Ejemplo
+**Ejemplo:**
+
 Tras una exposición oral sobre un problema ambiental, un compañero escribe: “Estrella 1: la explicación de las causas ha sido clara. Estrella 2: las imágenes ayudaban a entender el problema. Deseo: sería mejor añadir un dato que justifique la propuesta final”. El grupo revisa la presentación antes de entregarla de forma definitiva.
 
 **Técnicas relacionadas:** Diana de evaluación, Ticket de salida (exit ticket), Aprendizaje visible (Visible Learning), Rúbrica de evaluación, Revisión entre iguales (peer review), +1
@@ -6386,7 +6358,8 @@ La práctica de recuperación es una técnica en la que el alumnado recuerda act
 - Reducir la falsa sensación de dominio que puede producir la simple relectura.
 - Mejorar la autorregulación del estudio.
 
-#### Ejemplo
+**Ejemplo:**
+
 Al inicio de una clase de biología, los alumnos dedican 5 minutos a escribir todo lo que recuerdan sobre la respiración celular. Después comparan su respuesta con los apuntes durante 3 minutos y subrayan qué habían olvidado: glucosa, oxígeno, mitocondrias o producción de ATP.
 
 El profesor recoge las dudas más frecuentes y dedica los primeros minutos de la sesión a aclararlas.
@@ -6428,7 +6401,8 @@ La práctica espaciada consiste en distribuir el estudio y el repaso en varias s
 - Reforzar conexiones entre temas.
 - Favorecer hábitos de estudio más sostenibles.
 
-#### Ejemplo
+**Ejemplo:**
+
 En matemáticas, cada viernes se dedican 10 minutos a una hoja breve con contenidos mezclados de semanas anteriores: porcentajes, proporcionalidad, ecuaciones y lectura de gráficas. Los errores más repetidos se recuperan en el repaso de la semana siguiente.
 
 **Técnicas relacionadas:** Práctica de recuperación, Práctica intercalada, Aprendizaje de dominio, Apuntes Cornell, Teoría de la carga cognitiva
@@ -6468,7 +6442,8 @@ El aprendizaje de dominio es un enfoque en el que el alumnado avanza al siguient
 - Personalizar apoyos y ritmo de trabajo.
 - Usar la evaluación como guía de mejora.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una unidad de fracciones, cada subtema termina con una prueba breve de 5 preguntas. El alumnado que domina la suma de fracciones pasa a multiplicación; quien todavía tiene errores recibe una explicación alternativa y ejercicios específicos antes de volver a intentarlo.
 
 **Técnicas relacionadas:** Aprendizaje visible (Visible Learning), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Rúbrica de evaluación, Práctica espaciada, Aprendizaje personalizado con itinerarios (playlists)
@@ -6508,7 +6483,8 @@ Las guías de orientación son apoyos que ayudan al alumnado a realizar una tare
 - Favorecer autonomía y autorregulación.
 - Mejorar la planificación y revisión del trabajo.
 
-#### Ejemplo
+**Ejemplo:**
+
 Para escribir un texto argumentativo, la guía incluye preguntas como: “¿Cuál es tu tesis?”, “¿Qué evidencia la apoya?”, “¿Has incluido una objeción?” y “¿Has respondido a esa objeción?”. El alumnado la utiliza antes de entregar la versión final.
 
 **Técnicas relacionadas:** Contrato de aprendizaje, Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación, Ejemplos resueltos, Andamiaje y zona de desarrollo próximo (ZDP)
@@ -6544,7 +6520,7 @@ La clave está en el diseño: las opciones incorrectas deben corresponder a erro
 4. Lee el patrón de respuestas: si la mayoría acierta, avanzas; si predomina un error, lo abordas; si hay dispersión, reagrupas o reexplicas.
 5. Aprovecha los distractores elegidos para hacer aflorar y discutir el razonamiento equivocado.
 
-#### Ejemplo
+**Ejemplo:**
 
 Tras explicar el área del triángulo, el docente proyecta: «¿Cuál es el área de un triángulo de base 6 y altura 4? a) 24, b) 12, c) 10, d) 20». El distractor «24» revela a quien olvida dividir entre dos. Todos muestran su respuesta a la vez con una tarjeta. Si muchos eligen «24», el docente sabe al instante que debe reforzar el «entre dos» antes de continuar.
 
@@ -6581,7 +6557,7 @@ Los soportes habituales son las mini-pizarras individuales (escriben y muestran)
 4. Observa la distribución de respuestas y actúa en consecuencia: confirmar, corregir un error común o pedir que alguien justifique.
 5. Repite con frecuencia para mantener la participación universal y el pulso de la comprensión.
 
-#### Ejemplo
+**Ejemplo:**
 
 Durante una clase de lengua sobre tipos de oración, el docente dicta una frase y pide: «¿simple o compuesta? A la de tres, mostrad vuestra tarjeta». Todos los alumnos levantan a la vez su tarjeta A (simple) o B (compuesta). El docente ve al momento que un tercio se equivoca con un caso concreto y lo aclara antes de seguir, en lugar de descubrirlo en el examen.
 
@@ -6618,7 +6594,7 @@ No es un interrogatorio para pillar: se combina con tiempo de espera, un clima s
 4. Acoge la respuesta sin penalizar el error; si la persona se bloquea, ofrece apoyo, reformula o vuelve a ella tras escuchar a otra.
 5. Encadena varias respuestas para construir entre todos la idea completa.
 
-#### Ejemplo
+**Ejemplo:**
 
 En lugar de «¿quién sabe qué causó la Primera Guerra Mundial?» (responden siempre los mismos), el docente dice: «Pensad treinta segundos en una de las causas… María, empieza tú». Como nadie sabe a quién llamará, todos preparan una respuesta. Después encadena: «Gracias, María; Luis, ¿puedes añadir otra causa?». La participación se reparte y todos siguen implicados.
 
@@ -6655,7 +6631,7 @@ El silencio incomoda al principio, pero es precisamente lo que permite que el pe
 4. Acompaña la espera con señales de que pensar está bien («tómate tu tiempo», sin presión).
 5. Combínalo con preguntar sin manos levantadas para que todos usen ese tiempo.
 
-#### Ejemplo
+**Ejemplo:**
 
 Un docente de filosofía pregunta «¿qué diferencia hay entre saber y creer?» y, en lugar de aceptar la primera mano alzada al segundo, espera cinco segundos en silencio. En ese tiempo varios alumnos que no solían intervenir elaboran una idea. Tras la primera respuesta, espera de nuevo: el alumno, sin presión, añade un matiz que enriquece el debate.
 
@@ -6692,7 +6668,7 @@ Es un modelo emparentado con el aula invertida y el aprendizaje de dominio: se a
 4. El docente monitoriza el panel y dedica el tiempo de aula a atención individualizada y a pequeños grupos con dificultades comunes.
 5. Se comprueba el dominio en puntos de control antes de pasar a la siguiente etapa; quien lo necesita, refuerza; quien va avanzado, profundiza.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una unidad de matemáticas, cada alumno recibe una lista con vídeos, ejercicios autocorregibles y mini-retos, además de comprobaciones de dominio. Mientras la mayoría practica de forma autónoma, el docente reúne a los cuatro alumnos que fallan en un mismo concepto y se lo reexplica. Quien ya domina lo básico pasa a retos de ampliación. Nadie espera al resto ni se queda atrás sin apoyo.
 
@@ -6735,9 +6711,7 @@ La evaluación tiene lugar a tres niveles: coevaluación de la presentación en 
 
 Adaptado de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos de aprendizaje cooperativo y Orientación Andújar. (2015). Actividades para fomentar al aprendizaje cooperativo.
 
----
-
-#### Un ejemplo de aplicación de la actividad cooperativa CO-OP CO-OP
+**Ejemplo:**
 
 1. El profesor hace una introducción a los temas de la unidad de aprendizaje, como por ejemplo la historia del arte contemporáneo.
 
@@ -6752,6 +6726,8 @@ Adaptado de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos d
 - La evaluación tiene lugar a través de la coevaluación de la presentación en grupo, donde cada estudiante valora la participación y la contribución de los otros miembros del grupo. 
 - También se hace una coevaluación de las contribuciones individuales al grupo, donde cada estudiante valora su propia participación y aportación. 
 - Finalmente, se valora el material producido por el grupo, como las notas, las imágenes o los esquemas utilizados en la presentación.
+
+_Adaptado de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos de aprendizaje cooperativo y Orientación Andújar. (2015). Actividades para fomentar el aprendizaje cooperativo._
 
 **Recursos:** [GeCo - Generador de Equipos Cooperativos](https://jjdeharo.github.io/geco/)
 
@@ -6800,10 +6776,6 @@ He ayudado a los compañeros o me han ayudado ellos.
 
 Lo pueden escribir una vez por semana dedicándole unos 10-15 minutos.
 
-
-
-Fuente: De Haro, J.J. (2022). Eines per l’avaluació del diari d’aprenentatge individual i del treball en equip.
-
 #### Dificultades al realizar el diario de aprendizaje
 
 Hay diferentes obstáculos que el alumnado puede encontrar al realizar el diario de aprendizaje:
@@ -6814,7 +6786,7 @@ Hay diferentes obstáculos que el alumnado puede encontrar al realizar el diario
 
 - Dificultad para expresarse: quizás el alumnado tiene dificultades para expresar sus ideas y reflexiones de manera escrita. En este caso, se puede ofrecer ayuda para mejorar las habilidades de escritura, como realizar ejercicios de escritura o proporcionar ejemplos de entradas del diario de aprendizaje. También se puede considerar la opción de realizar el diario de aprendizaje de manera oral o con vídeo en lugar de manera escrita.
 
-#### Ejemplo de una entrada
+**Ejemplo:**
 
 ""Esta semana hemos estudiado la unidad sobre las fuerzas en Física. Al principio me costó un poco entender el concepto de fuerza, pero finalmente lo conseguí gracias a la explicación de mi profesor y a los ejercicios que hicimos en clase. También he tenido dificultades para resolver los problemas que nos han puesto como deberes, pero he pedido ayuda a mis compañeros y a la profesora y así lo he podido resolver.
 
@@ -6823,6 +6795,8 @@ De entre todos los conceptos de la unidad, los que más me han costado han sido 
 Una de las cosas que más me ha gustado de esta semana ha sido el trabajo en equipo con mis compañeros para resolver los problemas. También he ayudado a mis compañeros a entender los conceptos teóricos de la unidad.
 
 He hecho todos los deberes que nos han dado y he revisado los conceptos de la unidad cada día para estar preparado para las evaluaciones. Estoy al día con el trabajo.
+
+_Fuente: De Haro, J.J. (2022). Eines per l'avaluació del diari d'aprenentatge individual i del treball en equip._
 
 **Técnicas relacionadas:** Contrato de aprendizaje, Escalera de metacognición, Pensaba... ahora pienso, Portfolio (dosier de aprendizaje)
 
@@ -6860,7 +6834,8 @@ Técnica de diálogo estructurado en torno a un texto, una imagen, un problema o
 - Desarrollar argumentación y escucha activa.
 - Fomentar preguntas abiertas y pensamiento crítico.
 
-#### Ejemplo
+**Ejemplo:**
+
 En filosofía o biología, el grupo analiza un texto sobre bioética. Los alumnos preparan preguntas y durante el seminario discuten qué criterios deberían guiar una decisión científica con implicaciones sociales.
 
 **Técnicas relacionadas:** Controversia académica, Equipos de oyentes, Fishbowl (Pecera), La mesa redonda, Tertulia dialógica, Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Afirmación, apoyo y pregunta (Claim-Support-Question), Mapa de argumentos, Enseñanza recíproca, Controversia estructurada con evidencias, Tira y afloja, Filosofía para Niños (P4C), Debate académico, Comunidad de indagación (Community of Inquiry)
@@ -6908,7 +6883,8 @@ Es especialmente útil cuando no basta con dar una respuesta correcta, sino que 
 #### Relación con CER
 CER es más sencillo y directo: afirmación, evidencia y razonamiento. El modelo de Toulmin permite ir más allá cuando el argumento necesita matices, garantías explícitas o consideración de objeciones. Por eso puede utilizarse después de CER, como una ampliación para argumentos más complejos.
 
-#### Ejemplo
+**Ejemplo:**
+
 En economía, el alumnado analiza la afirmación: “Subir el precio de los productos con mucho azúcar puede reducir su consumo”.
 
 - **Afirmación**: Un impuesto sobre bebidas azucaradas puede reducir su consumo.
@@ -6954,7 +6930,8 @@ Ayuda al alumnado a ver si un argumento está bien sostenido, si faltan evidenci
 5. Se añaden respuestas o matices ante esas objeciones.
 6. Se revisa la solidez del conjunto y se mejora el argumento.
 
-#### Ejemplo
+**Ejemplo:**
+
 En ciudadanía, el alumnado construye un mapa sobre la pregunta: “¿Debe limitarse el uso del móvil en el instituto?”. En el centro coloca la tesis, alrededor añade razones a favor y en contra, evidencias de convivencia o aprendizaje y posibles condiciones, como usos permitidos para tareas concretas.
 
 **Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Las dos columnas, Tertulia dialógica, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin, Controversia estructurada con evidencias
@@ -6991,7 +6968,8 @@ Está muy relacionada con la controversia académica, pero aquí se subraya de f
 5. Los equipos revisan su postura tras escuchar argumentos contrarios.
 6. Se elabora una síntesis que incluya acuerdos, desacuerdos, evidencias fuertes y dudas abiertas.
 
-#### Ejemplo
+**Ejemplo:**
+
 En biología y ciudadanía, la clase debate si debe limitarse la venta de bebidas energéticas a menores. Cada equipo analiza datos sobre cafeína, hábitos de consumo, salud y libertad de elección. Después defiende una postura, escucha objeciones y redacta una síntesis final con condiciones, límites y evidencias.
 
 **Técnicas relacionadas:** Controversia académica, Fishbowl (Pecera), Seminario socrático, Afirmación, evidencia y razonamiento (CER), Modelo de argumentación de Toulmin, Revisión entre iguales (peer review), Mapa de argumentos, Tira y afloja, Debate académico
@@ -7031,7 +7009,8 @@ El pensamiento en voz alta es una técnica de modelado en la que el docente verb
 - Enseñar estrategias de autorregulación.
 - Mejorar la comprensión de procesos complejos.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una actividad de comprensión lectora, el profesor lee un párrafo y dice: “No conozco esta palabra, pero por la frase anterior parece que indica una causa. Voy a seguir leyendo para comprobarlo”. Después los alumnos practican la misma estrategia por parejas.
 
 **Técnicas relacionadas:** Tutoría entre iguales (Peer Tutoring), Enseñanza recíproca, Ejemplos resueltos, Liberación gradual de la responsabilidad, Autoexplicación, Andamiaje y zona de desarrollo próximo (ZDP)
@@ -7065,7 +7044,7 @@ A diferencia de releer (pasiva), la autoexplicación es una actividad generativa
 4. Cuando no logra explicar algo, ha localizado una laguna: vuelve al material para resolverla.
 5. El docente modela primero la autoexplicación en voz alta para que el alumnado vea cómo se hace.
 
-#### Ejemplo
+**Ejemplo:**
 
 Al estudiar un problema de física ya resuelto, el alumno no se limita a leer la solución: en cada línea se pregunta y se responde por qué se aplica esa fórmula y de dónde sale cada valor. Al llegar a un paso que no sabe justificar, se da cuenta de que no entendía la conservación de la energía y vuelve sobre ese concepto antes de seguir.
 
@@ -7103,7 +7082,7 @@ No busca llegar a una respuesta única ni que el docente transmita contenidos, s
 5. Se dialoga guiados por el facilitador, que no da respuestas pero pide razones, ejemplos, contraejemplos y conexiones («¿por qué?», «¿estás de acuerdo?», «¿en qué te basas?»).
 6. Se cierra con una metacognición: qué hemos pensado, cómo ha cambiado nuestra idea, qué queda abierto.
 
-#### Ejemplo
+**Ejemplo:**
 
 Tras leer un cuento en el que un personaje miente para proteger a un amigo, el alumnado formula preguntas y elige investigar «¿está bien mentir alguna vez?». En círculo, unos defienden que mentir siempre es malo y otros aportan casos en que parece justificado. El facilitador pide razones y contraejemplos. Al final, nadie ha «ganado», pero todos han afinado sus argumentos y han aprendido a escuchar y a matizar.
 
@@ -7146,7 +7125,8 @@ Técnica de discusión en la que un pequeño grupo dialoga en el centro mientras
 - Diferenciar participación, escucha y observación crítica.
 - Favorecer la coevaluación de la comunicación oral.
 
-#### Ejemplo
+**Ejemplo:**
+
 En ciencias sociales, el grupo central debate si una ciudad debería limitar el tráfico privado. Los observadores anotan argumentos basados en datos, preguntas relevantes y momentos en los que se escucha o no a los demás.
 
 **Técnicas relacionadas:** Controversia académica, La mesa redonda, Seminario socrático, Talking Chips (Fichas de conversación), Modelo de argumentación de Toulmin, Mapa de argumentos, Controversia estructurada con evidencias, Filosofía para Niños (P4C), Debate académico
@@ -7182,7 +7162,7 @@ Técnica para la exposición y revisión de trabajos en grupo.
 #### Objetivos
 Fomentar la evaluación entre iguales y la comunicación visual.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una unidad sobre ecosistemas, cada equipo elabora un póster sobre un bioma: bosque mediterráneo, desierto, tundra, selva tropical o ecosistema marino. El póster debe incluir clima, especies características, relaciones tróficas y amenazas principales.
 
@@ -7225,8 +7205,6 @@ Para utilizar el visual thinking en educación se puede partir de elementos simp
 
 Las posibilidades son enormes y los elementos utilizados pueden hacer que la idea se muestre de manera más sencilla.
 
-
-
 Licencia CC by-nc-nd Caudio
 
 Adaptado de Educo. (2021). ¿Cómo aplicar el visual thinking a la educación?
@@ -7240,9 +7218,7 @@ Aquí tenéis algunos pasos que podéis seguir para utilizar el visual thinking 
 1. Revisad y discutid las ideas y representaciones virtuales de los estudiantes como grupo. Esto les ayudará a comprender mejor el concepto y a ver cómo se relacionan con las ideas de los otros estudiantes.
 1. Repetid este proceso con diferentes temas y conceptos para ayudar a los estudiantes a desarrollar sus habilidades en visual thinking.
 
----
-
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de tecnología, el alumnado utiliza pensamiento visual para planificar una campaña de ahorro de energía en el centro. En una hoja grande dibuja el edificio escolar en el centro, alrededor coloca iconos de luces, ventanas, ordenadores, calefacción y carteles informativos, y une las ideas con flechas.
 
@@ -7288,7 +7264,8 @@ La ludificación debe estar al servicio de los objetivos de aprendizaje. Si los 
 - Favorecer perseverancia, toma de decisiones y autonomía.
 - Convertir una secuencia de aprendizaje en una experiencia más estructurada y motivadora.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una unidad de historia y ciudadanía, la clase recibe la misión de organizar una exposición titulada “Voces de una ciudad en cambio”. Cada equipo representa un grupo de especialistas: documentalistas, cronistas, diseñadores, entrevistadores y responsables de comunicación. Para avanzar, deben superar misiones relacionadas con el análisis de fuentes, la selección de información y la comunicación pública.
 
 1. **Misión inicial**: interpretar fotografías, titulares de prensa y testimonios sobre una transformación urbana relevante.
@@ -7339,7 +7316,8 @@ A diferencia de un debate competitivo, la tertulia dialógica busca construir co
 - Favorecer participación y diálogo respetuoso.
 - Relacionar experiencias personales con contenidos culturales, científicos o sociales.
 
-#### Ejemplo
+**Ejemplo:**
+
 En literatura, tras leer un fragmento de una novela sobre una decisión difícil de un personaje, cada alumno selecciona una frase que le haya parecido significativa. Durante la tertulia, algunos comentan los motivos del personaje, otros relacionan el fragmento con experiencias humanas generales y otros analizan el lenguaje utilizado.
 
 El profesor no busca una única interpretación correcta, sino que ayuda a que el grupo justifique sus aportaciones, escuche puntos de vista diferentes y construya una comprensión más rica del texto.
@@ -7378,7 +7356,7 @@ Un rasgo formativo importante es que el equipo no siempre defiende lo que piensa
 5. Un moderador controla los tiempos y un jurado (o el resto de la clase, con una rúbrica) valora la calidad argumentativa, no solo «quién convence más».
 6. Se cierra con una reflexión conjunta sobre los mejores argumentos de ambos lados.
 
-#### Ejemplo
+**Ejemplo:**
 
 En una clase de secundaria, la moción es «la inteligencia artificial debería corregir los exámenes». Un equipo defiende la postura a favor y otro la contraria, asignadas por sorteo. Cada uno aporta datos y ejemplos, refuta al contrario y concluye. La clase valora con una rúbrica la solidez de los argumentos y el respeto de los turnos, y después se discute qué razones han resultado más convincentes.
 
@@ -7415,7 +7393,7 @@ Al ser el alumnado quien decide el tema, la motivación es intrínseca: aprende 
 4. El alumnado investiga, crea y documenta su avance (bitácora), gestionando su tiempo de forma autónoma.
 5. Al terminar, comparte el resultado con la clase y reflexiona sobre el proceso, los obstáculos y lo aprendido.
 
-#### Ejemplo
+**Ejemplo:**
 
 Una alumna apasionada por los animales dedica su hora del genio a investigar por qué desaparecen las abejas y qué se puede hacer. Define la pregunta, busca información rigurosa, entrevista a un apicultor y elabora una campaña de sensibilización para el centro. El docente la orienta y le exige fuentes fiables; ella aprende biología, comunicación y gestión de proyectos movida por su propio interés.
 
@@ -7462,7 +7440,8 @@ Modelo de diseño curricular que propone planificar de atrás hacia delante. En 
 - Evitar que la planificación se centre solo en tareas sueltas.
 - Mejorar la claridad de lo que se espera que aprenda el alumnado.
 
-#### Ejemplo
+**Ejemplo:**
+
 Antes de diseñar una unidad sobre ecosistemas, el profesor define que el alumnado debe explicar relaciones tróficas y justificar desequilibrios. Después decide qué tarea servirá como evidencia y, finalmente, planifica prácticas, lecturas y debates.
 
 **Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Taxonomía de Bloom, Evaluación auténtica, Guías de orientación, Teoría de la carga cognitiva, Alineamiento constructivo
@@ -7506,7 +7485,8 @@ Marco que permite analizar la complejidad cognitiva de una tarea. No mide si una
 - Diseñar tareas con mayor profundidad de pensamiento.
 - Revisar si las actividades exigen el nivel de razonamiento esperado.
 
-#### Ejemplo
+**Ejemplo:**
+
 Memorizar una fórmula puede tener un nivel bajo de DOK, mientras que elegir qué modelo matemático aplicar a una situación real y justificar la decisión requiere un procesamiento más complejo.
 
 **Técnicas relacionadas:** Detecta patrones, Diseño para la comprensión (Understanding by Design, UbD), Taxonomía SOLO, Taxonomía de Bloom, Rúbrica de evaluación, Modelo Frayer, Hábitos mentales
@@ -7551,7 +7531,8 @@ Modelo que ayuda a valorar la calidad de la comprensión que muestra el alumnado
 - Dar feedback más preciso sobre la calidad de las respuestas.
 - Ayudar al alumnado a pasar de ideas aisladas a relaciones y transferencias.
 
-#### Ejemplo
+**Ejemplo:**
+
 Ante una pregunta sobre selección natural, un alumno puede mencionar solo un factor, relacionar varios factores o aplicar el concepto a una situación nueva. La taxonomía SOLO permite distinguir estos niveles.
 
 **Técnicas relacionadas:** Profundidad del conocimiento (Depth of Knowledge, DOK), Aprendizaje visible (Visible Learning), Rúbrica de evaluación, Alineamiento constructivo, Marco ICAP
@@ -7597,7 +7578,8 @@ Marco de clasificación de procesos cognitivos que ayuda a formular objetivos, a
 - Diseñar tareas variadas y progresivas.
 - Alinear objetivos, actividades y evaluación.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una unidad de biología, el alumnado puede recordar términos, explicar procesos, aplicar un modelo, analizar datos, evaluar una conclusión o crear una propuesta experimental.
 
 **Técnicas relacionadas:** Diseño para la comprensión (Understanding by Design, UbD), Profundidad del conocimiento (Depth of Knowledge, DOK), Rúbrica de evaluación, Alineamiento constructivo, Marco ICAP
@@ -7635,7 +7617,8 @@ Enfoque de evaluación que propone tareas significativas, contextualizadas y cer
 - Integrar conocimientos, habilidades y toma de decisiones.
 - Hacer que la evaluación tenga sentido formativo y contextualizado.
 
-#### Ejemplo
+**Ejemplo:**
+
 En lugar de responder solo preguntas sobre nutrición, el alumnado diseña una propuesta de menú saludable para una situación concreta y justifica sus decisiones con criterios científicos.
 
 **Técnicas relacionadas:** Aplica los conocimientos, Aprendizaje basado en proyectos (ABProyectos), Portfolio (dosier de aprendizaje), Diseño para la comprensión (Understanding by Design, UbD), Rúbrica de evaluación, Alineamiento constructivo
@@ -7674,7 +7657,8 @@ Enfoque que orienta la toma de decisiones docentes hacia prácticas con impacto 
 - Mejorar la claridad y el feedback.
 - Tomar decisiones a partir de evidencias.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una actividad de escritura, el profesor comparte criterios claros, revisa borradores, da feedback específico y pide al alumnado que indique qué mejora concreta aplicará en la siguiente versión.
 
 **Técnicas relacionadas:** Contrato de aprendizaje, Taxonomía SOLO, Rúbrica de evaluación, Dos estrellas y un deseo, Aprendizaje de dominio, Hábitos mentales, Marco ICAP
@@ -7721,7 +7705,8 @@ Modelo que ayuda a integrar de forma coherente el conocimiento del contenido, la
 - Conectar herramientas digitales con objetivos y metodología.
 - Diseñar experiencias de aprendizaje más coherentes.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una unidad de estadística, el alumnado analiza datos reales sobre hábitos de lectura, uso del transporte o tiempo dedicado a actividades de ocio. El profesor trabaja conceptos como tablas de frecuencia, porcentajes, media, mediana, gráficos y valores atípicos (**CK: conocimiento del contenido**). La actividad se organiza como una investigación guiada, en la que cada equipo formula una pregunta, analiza datos, interpreta resultados y justifica sus conclusiones (**PK: conocimiento pedagógico**). Para ello se utiliza una hoja de cálculo, que permite ordenar los datos, hacer cálculos, crear gráficos y modificar las representaciones (**TK: conocimiento tecnológico**).
 
 El profesor selecciona datos cercanos al alumnado para que los conceptos estadísticos no se aprendan de forma abstracta, sino vinculados a preguntas comprensibles (**PCK: conocimiento pedagógico del contenido**). La hoja de cálculo ayuda a trabajar mejor el contenido porque facilita el cálculo, la comparación de datos y la detección de patrones o valores atípicos (**TCK: conocimiento tecnológico del contenido**). Además, la tecnología favorece una dinámica de revisión y mejora, ya que los equipos pueden cambiar gráficos, comprobar resultados y discutir qué representación comunica mejor sus conclusiones (**TPK: conocimiento tecnológico pedagógico**). La integración completa se produce cuando contenido, metodología y tecnología se combinan de forma coherente: el alumnado aprende estadística mediante una investigación guiada y utiliza la hoja de cálculo como herramienta para analizar, interpretar y comunicar datos reales (**TPACK**).
@@ -7765,7 +7750,8 @@ Modelo que permite analizar el nivel de integración tecnológica en una tarea. 
 - Evitar usar herramientas digitales sin propósito pedagógico.
 - Rediseñar tareas para ampliar posibilidades de aprendizaje.
 
-#### Ejemplo
+**Ejemplo:**
+
 Escribir un texto en un procesador puede ser sustitución; colaborar en un documento compartido con comentarios y revisión entre iguales puede modificar la tarea.
 
 **Técnicas relacionadas:** Digital storytelling (relatos digitales), Conocimiento tecnológico, pedagógico y del contenido (TPACK), Ludificación (gamificación)
@@ -7808,7 +7794,8 @@ Marco de planificación que propone atender a la diversidad del alumnado desde e
 - Aumentar la participación del alumnado diverso.
 - Ofrecer alternativas para acceder, comprender y expresar el aprendizaje.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una tarea de investigación, el alumnado puede consultar textos, vídeos o esquemas, trabajar con apoyos graduados y presentar el resultado mediante informe, exposición, infografía o audio.
 
 **Técnicas relacionadas:** Estaciones de aprendizaje, Conocimiento tecnológico, pedagógico y del contenido (TPACK), Co-enseñanza (Co-teaching)
@@ -7852,7 +7839,8 @@ Marco competencial que destaca cuatro capacidades transversales necesarias para 
 - Diseñar tareas más completas y participativas.
 - Favorecer pensamiento crítico, creatividad, comunicación y cooperación.
 
-#### Ejemplo
+**Ejemplo:**
+
 En un proyecto sobre sostenibilidad, el alumnado analiza datos, diseña propuestas, las comunica mediante una presentación y trabaja en equipo para revisar y mejorar el producto final.
 
 **Técnicas relacionadas:** Aprendizaje basado en proyectos (ABProyectos), Pensamiento de diseño (Design Thinking), World Café, Hábitos mentales
@@ -7894,7 +7882,8 @@ Una buena rúbrica no es solo una tabla para calificar. Funciona como una guía 
 - Dar feedback más concreto y orientado a la mejora.
 - Alinear la tarea, los objetivos y la evaluación.
 
-#### Ejemplo
+**Ejemplo:**
+
 En una exposición oral sobre un problema ambiental, la rúbrica puede ayudar a preparar la presentación antes de realizarla y a valorar el resultado después. Un ejemplo sencillo sería:
 
 | Criterio | Nivel inicial | Nivel adecuado | Nivel avanzado |
@@ -7944,7 +7933,8 @@ Los hábitos mentales son un marco de Costa y Kallick que recoge disposiciones d
 - Mejorar autorregulación y perseverancia.
 - Favorecer reflexión sobre cómo se trabaja.
 
-#### Ejemplo
+**Ejemplo:**
+
 En un proyecto de investigación, cada equipo revisa durante 5 minutos tres hábitos: persistir ante dificultades, comprobar la precisión de los datos y escuchar con empatía. Después escribe una evidencia concreta de cada hábito y una mejora para la siguiente sesión.
 
 **Técnicas relacionadas:** Escalera de metacognición, Profundidad del conocimiento (Depth of Knowledge, DOK), Aprendizaje visible (Visible Learning), Las 4C del aprendizaje
@@ -7984,7 +7974,8 @@ La teoría de la carga cognitiva es un marco de John Sweller que analiza los lí
 - Facilitar la construcción de esquemas mentales.
 - Graduar la dificultad de forma coherente.
 
-#### Ejemplo
+**Ejemplo:**
+
 En física, los primeros problemas de movimiento se presentan con los datos ya identificados y la fórmula seleccionada. El alumnado se centra en interpretar el procedimiento. En problemas posteriores, debe identificar por sí mismo los datos, elegir la fórmula y justificar el resultado.
 
 **Técnicas relacionadas:** Doble codificación (dual coding), Diseño para la comprensión (Understanding by Design, UbD), Práctica espaciada, Práctica intercalada, Ejemplos resueltos, Liberación gradual de la responsabilidad, Ejemplos concretos
@@ -8018,7 +8009,7 @@ El andamiaje (scaffolding) es la metáfora de los apoyos que se proporcionan den
 4. Observa el progreso y retira los apoyos de forma gradual a medida que el alumnado demuestra dominio.
 5. Ajusta continuamente: si la tarea resulta inabordable, refuerza el andamiaje; si es trivial, eleva el reto.
 
-#### Ejemplo
+**Ejemplo:**
 
 Un alumno sabe resolver ecuaciones sencillas pero no las de dos pasos. El docente sitúa la tarea en su ZDP y le da andamios: primero resuelve una junto a él pensando en voz alta, luego le ofrece una plantilla con los pasos, después solo una pista («¿qué haces primero?») y, finalmente, le retira todo apoyo. El alumno acaba resolviéndolas de forma autónoma.
 
@@ -8055,7 +8046,7 @@ La clave es la coherencia: si un objetivo dice que el alumnado debe «analizar»
 4. Revisa la coherencia: comprueba que objetivo, actividad y evaluación comparten el mismo nivel y tipo de aprendizaje.
 5. Ajusta cualquier elemento desalineado (por ejemplo, un objetivo de «aplicar» evaluado con un examen de memorización).
 
-#### Ejemplo
+**Ejemplo:**
 
 Si el objetivo es «el alumnado será capaz de diseñar un experimento para responder una pregunta», las actividades no pueden limitarse a leer sobre el método científico: el alumnado debe diseñar experimentos en clase. Y la evaluación, en consecuencia, le pedirá diseñar uno (no responder un test sobre las fases). Objetivo, práctica y prueba quedan alineados.
 
@@ -8100,7 +8091,7 @@ La hipótesis ICAP sostiene que el aprendizaje aumenta al subir de nivel: Intera
 4. Asegúrate de que el modo «interactivo» lo sea de verdad: que ambos aporten y se respondan, no que uno solo trabaje.
 5. Usa el marco para equilibrar la sesión, reduciendo el tiempo en modo pasivo.
 
-#### Ejemplo
+**Ejemplo:**
 
 En lugar de que el alumnado solo escuche la explicación de un texto (pasivo) o lo subraye (activo), el docente le pide primero resumirlo con sus palabras y formular preguntas (constructivo) y después discutir esas preguntas en parejas elaborando juntos una respuesta (interactivo). La misma materia, abordada en un modo ICAP superior, produce un aprendizaje más profundo.
 
@@ -8143,7 +8134,7 @@ El aprendizaje significativo se da donde las tres presencias se solapan; si falt
 4. Facilita de forma activa: modera los debates, sintetiza, reorienta y da feedback, sin desaparecer ni acaparar.
 5. Evalúa observando las tres presencias (calidad del diálogo, participación, sentido de comunidad) y ajusta el diseño.
 
-#### Ejemplo
+**Ejemplo:**
 
 En un curso semipresencial, el docente lanza en un foro una pregunta detonante sobre un dilema real (presencia cognitiva), tras haber creado antes un clima de confianza con presentaciones y normas de participación (presencia social), y modera el hilo sintetizando aportaciones y repreguntando (presencia docente). El resultado no es un buzón de mensajes sueltos, sino una indagación colectiva que profundiza en el tema.
 

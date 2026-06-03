@@ -288,6 +288,7 @@ const S = {
   selectMode:   false,
   categories:   [],     // [{id, name, itemIds:[]}]
   search:       '',
+  searchMode:   'all',   // 'all' | 'title'
   block:        null,
   field:        null,
   modal:        null,
@@ -345,6 +346,8 @@ function fromJSON(items, lang = DEFAULT_LANG) {
       summary:  item.summary || '',
       related:  item.related || [],
       eval_ids: item.eval_ids || [],
+      example:  item.example || '',
+      source:   item.source  || '',
     };
   });
 }
@@ -497,6 +500,10 @@ function canonicalKey(value) {
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')
     .replace(/\s+/g, ' ');
+}
+
+function normSearch(s) {
+  return String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
 function taxonomyLabel(def, lang = S.lang) {
@@ -926,4 +933,14 @@ function updateSearchUI() {
   const clearBtn = document.getElementById('searchClearBtn');
   clearBtn.classList.toggle('visible', !!input.value);
   clearBtn.setAttribute('aria-label', i('clearSearch'));
+}
+
+function updateSearchModeUI() {
+  const btn = document.getElementById('searchModeBtn');
+  if (!btn) return;
+  const isTitleMode = S.searchMode === 'title';
+  btn.classList.toggle('active', isTitleMode);
+  btn.title = isTitleMode ? i('searchAll') : i('searchTitle');
+  document.getElementById('searchInput').placeholder =
+    isTitleMode ? i('searchTitlePlaceholder') : i('searchPlaceholder');
 }

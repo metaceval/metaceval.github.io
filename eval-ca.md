@@ -2225,6 +2225,37 @@ Com usar-la: es dissenya una taula on les files són els criteris (p. ex., 'estr
 
 **Limitacions:** Requereix temps de disseny i bons descriptors.
 
+**Exemple:**
+
+Rúbrica analítica per avaluar una exposició oral a 4t d'ESO. Cada criteri es valora de manera independent.
+|
+| Criteri
+| Excel·lent (4)
+| Satisfactori (3)
+| En procés (2)
+| Inicial (1)
+| Contingut
+| Idees clares, ben desenvolupades i recolzades amb evidències.
+| Idees correctes amb alguns detalls poc desenvolupats.
+| Idees bàsiques; manca profunditat o precisió.
+| Informació incompleta o incorrecta.
+| Estructura
+| Introducció, desenvolupament i conclusió molt ben diferenciats.
+| Estructura clara amb algun punt de transició millorable.
+| Estructura present però poc definida.
+| Sense estructura apreciable.
+| Expressió oral
+| Dicció, volum i ritme excel·lents; contacte visual constant.
+| Expressió fluida amb algun dubte puntual.
+| Expressió funcional però amb pauses freqüents o veu baixa.
+| Dificultats notables per comunicar-se oralment.
+| Ús del temps
+| S'ajusta perfectament al temps assignat.
+| Lleu desajust (±1 min).
+| Desajust de 2-3 minuts.
+| No gestiona el temps assignat.
+La nota final s'obté sumant la puntuació de cada criteri (màxim 16 punts) i convertint-la a l'escala 1-10.
+
 **Tècniques actives que l'utilitzen:** Taxonomia SOLO, Avaluació autèntica, Rúbrica d’avaluació, Revisió entre iguals (peer review), Pensament computacional, Diagrama d’espina de peix (Ishikawa), Diagrama de Venn
 
 ---

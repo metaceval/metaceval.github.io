@@ -30,7 +30,9 @@ LANGS = {
             "tags":     "Palabras clave",
             "programs": "Recursos",
             "related":  "Técnicas relacionadas",
-            "eval":     "Cómo evaluar",
+            "example":  "Ejemplo",
+        "source":   "Fuente",
+        "eval":     "Cómo evaluar",
             "eval_tec": "Técnicas de evaluación",
             "eval_ins": "Evidencias observables",
             "eval_her": "Instrumentos",
@@ -55,7 +57,9 @@ LANGS = {
             "tags":     "Paraules clau",
             "programs": "Recursos",
             "related":  "Tècniques relacionades",
-            "eval":     "Com avaluar",
+            "example":  "Exemple",
+        "source":   "Font",
+        "eval":     "Com avaluar",
             "eval_tec": "Tècniques d'avaluació",
             "eval_ins": "Evidències observables",
             "eval_her": "Instruments",
@@ -80,7 +84,9 @@ LANGS = {
             "tags":     "Keywords",
             "programs": "Resources",
             "related":  "Related techniques",
-            "eval":     "How to assess",
+            "example":  "Example",
+        "source":   "Source",
+        "eval":     "How to assess",
             "eval_tec": "Evaluation techniques",
             "eval_ins": "Observable evidence",
             "eval_her": "Instruments",
@@ -161,6 +167,15 @@ def technique_block(n, item, labels, by_id, eval_names):
     # Description
     if item.get("desc"):
         lines.append(fmt_desc(item["desc"]) + "\n")
+
+    # Example
+    if item.get("example"):
+        lines.append(f"**{labels['example']}:**\n")
+        lines.append(fmt_desc(item["example"]) + "\n")
+
+    # Source / attribution
+    if item.get("source"):
+        lines.append(f"_{item['source']}_\n")
 
     # Programs / resources
     if item.get("programs"):

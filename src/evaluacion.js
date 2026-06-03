@@ -2,6 +2,53 @@
 
 const dismissedEvalDescs = new Set();
 
+// ─── EVAL EXAMPLES (external HTML files) ─────────────────────────────────────
+
+const _exampleCache = {};   // key: "lang/id" → html string | null
+
+async function loadEvalExample(id, lang) {
+  const langs = lang === 'es' ? ['es'] : [lang, 'es'];
+  for (const l of langs) {
+    const key = `${l}/${id}`;
+    if (key in _exampleCache) return _exampleCache[key];
+    try {
+      const res = await fetch(`examples/${l}/${id}.html`);
+      if (res.ok) {
+        const html = await res.text();
+        _exampleCache[key] = html;
+        return html;
+      }
+    } catch (_) {}
+    _exampleCache[key] = null;
+  }
+  return null;
+}
+
+function getCachedEvalExample(id, lang) {
+  const langs = lang === 'es' ? ['es'] : [lang, 'es'];
+  for (const l of langs) {
+    const html = _exampleCache[`${l}/${id}`];
+    if (html) return html;
+  }
+  return null;
+}
+
+async function renderEvalExample(entity) {
+  const el = document.getElementById('modalEvalExample');
+  if (!el) return;
+  el.style.display = 'none';
+  el.innerHTML = '';
+
+  const html = await loadEvalExample(entity.id, S.lang);
+  if (!html) return;
+
+  // Guard: ensure the same modal is still open
+  if (S.evalModal !== entity.id) return;
+
+  el.innerHTML = `<div class="modal-example-label">${esc(i('example'))}</div>${html}`;
+  el.style.display = '';
+}
+
 const svgCards = '<svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>';
 const svgMap   = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="19" cy="6" r="2"/><circle cx="12" cy="19" r="2"/><line x1="7" y1="6" x2="17" y2="6"/><line x1="5.5" y1="8" x2="11" y2="17"/><line x1="18.5" y1="8" x2="13" y2="17"/></svg>';
 
@@ -120,11 +167,14 @@ function evalMatchesGlobalFilters(entity) {
 }
 
 function evalSearchMatches(entity) {
-  const q = (S.search || '').toLowerCase();
+  const q = normSearch(S.search || '');
   if (!q) return true;
-  return (entity.name || '').toLowerCase().includes(q) ||
-    (entity.summary || '').toLowerCase().includes(q) ||
-    (entity.tags || []).some(t => t.toLowerCase().includes(q));
+  if (S.searchMode === 'title') return normSearch(entity.name).includes(q);
+  return normSearch(entity.id).includes(q) ||
+    normSearch(entity.name).includes(q) ||
+    normSearch(entity.summary).includes(q) ||
+    normSearch(entity.desc).includes(q) ||
+    (entity.tags || []).some(t => normSearch(t).includes(q));
 }
 
 function filterEvalItems(items) {
@@ -949,6 +999,15 @@ function openEvalModal(evalId) {
   document.getElementById('modalBody').style.order    = '';
   document.getElementById('modalRelated').style.order = '';
 
+  // Hide technique-specific blocks
+  const exEl = document.getElementById('modalExample');
+  if (exEl) { exEl.style.display = 'none'; exEl.innerHTML = ''; }
+  const srcEl = document.getElementById('modalSource');
+  if (srcEl) { srcEl.style.display = 'none'; srcEl.textContent = ''; }
+
+  // Eval example (external HTML, loaded async)
+  renderEvalExample(entity);
+
   // Description
   document.getElementById('modalBody').innerHTML = formatDesc(entity.desc || '');
 
@@ -1036,8 +1095,10 @@ function openEvalModal(evalId) {
     copyBtn.onclick = () => {
       const eCat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(entity.id));
       const meta = [eCat ? i(eCat.i18n) : '', entity.phase, entity.participation, entity.complexity].filter(Boolean).join(' · ');
-      const plain = [entity.name, meta, entity.summary ? '\n' + entity.summary : '', entity.desc ? '\n' + entity.desc : ''].filter(Boolean).join('\n');
-      const html  = [`<h2>${esc(entity.name)}</h2>`, meta ? `<p><em>${esc(meta)}</em></p>` : '', entity.summary ? `<blockquote><p>${esc(entity.summary)}</p></blockquote>` : '', entity.desc ? formatDesc(entity.desc) : ''].filter(Boolean).join('\n');
+      const exHtml = getCachedEvalExample(entity.id, S.lang);
+      const exPlain = exHtml ? '\n' + i('example') + '\n' + exHtml.replace(/<[^>]+>/g, ' ').replace(/\s{2,}/g, ' ').trim() : '';
+      const plain = [entity.name, meta, entity.summary ? '\n' + entity.summary : '', entity.desc ? '\n' + entity.desc : '', exPlain].filter(Boolean).join('\n');
+      const html  = [`<h2>${esc(entity.name)}</h2>`, meta ? `<p><em>${esc(meta)}</em></p>` : '', entity.summary ? `<blockquote><p>${esc(entity.summary)}</p></blockquote>` : '', entity.desc ? formatDesc(entity.desc) : '', exHtml ? `<h3>${esc(i('example'))}</h3>${exHtml}` : ''].filter(Boolean).join('\n');
       copyRichContent({ plain, html, btn: copyBtn });
     };
   }
@@ -1051,8 +1112,13 @@ function openEvalModal(evalId) {
     printBtn.onclick = () => {
       const eCat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(entity.id));
       const meta = [eCat ? i(eCat.i18n) : '', entity.phase, entity.participation, entity.complexity].filter(Boolean).join(' · ');
+      const exHtml = getCachedEvalExample(entity.id, S.lang);
       const el = ensurePrintArea();
-      el.innerHTML = `<h1>${esc(entity.name)}</h1>${meta ? `<p class="print-meta">${esc(meta)}</p>` : ''}${entity.summary ? `<p class="print-summary">${esc(entity.summary)}</p>` : ''}<div class="print-body">${formatDesc(entity.desc || '')}</div>`;
+      el.innerHTML = `<h1>${esc(entity.name)}</h1>
+        ${meta ? `<p class="print-meta">${esc(meta)}</p>` : ''}
+        ${entity.summary ? `<p class="print-summary">${esc(entity.summary)}</p>` : ''}
+        <div class="print-body">${formatDesc(entity.desc || '')}</div>
+        ${exHtml ? `<div class="print-example-label">${esc(i('example'))}</div><div class="print-body print-example">${exHtml}</div>` : ''}`;
       window.print();
     };
   }
@@ -1124,6 +1190,12 @@ function buildEvalMarkdown(entity) {
   if (metacItems.length) {
     lines.push('', `## ${i('evalUsedBy')}`);
     metacItems.forEach(item => lines.push(`- ${item.name} (\`${item.id}\`)`));
+  }
+
+  const exHtml = getCachedEvalExample(entity.id, S.lang);
+  if (exHtml) {
+    const exText = exHtml.replace(/<\/tr>/gi, '\n').replace(/<\/th>|<\/td>/gi, '\t').replace(/<[^>]+>/g, '').replace(/\t\n/g, '\n').replace(/[ \t]{2,}/g, ' ').trim();
+    lines.push('', `## ${i('example')}`, '', exText);
   }
 
   lines.push('', `URL: ${shareURL([entity.id])}`);

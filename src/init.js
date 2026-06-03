@@ -198,6 +198,16 @@ async function init() {
     input.focus();
   };
 
+  // Search mode toggle (global ↔ title only)
+  document.getElementById('searchModeBtn').addEventListener('click', () => {
+    S.searchMode = S.searchMode === 'all' ? 'title' : 'all';
+    updateSearchModeUI();
+    if (S.search) {
+      if (S.view === 'evaluacion') { if (S.evalMapMode) renderEvalList(); else renderEvalCards(); }
+      else renderCards();
+    }
+  });
+
   ['themeBtn', 'homethemeBtn'].forEach(id => {
     const btn = document.getElementById(id);
     if (btn) btn.addEventListener('click', () => {
@@ -398,6 +408,8 @@ async function init() {
   const uSeed = new URL(location.href);
   applyViewParam(uSeed);
   history.replaceState(getNavState(), '', uSeed);
+
+  updateSearchModeUI();
 }
 
 init();

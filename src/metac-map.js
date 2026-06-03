@@ -983,30 +983,31 @@ function mapShowPanel(idx) {
   if (relItems.length) {
     relEl.style.display = '';
     relEl.innerHTML = `<span class="map-panel-rel-label">${esc(i('related'))}</span>`;
-    relItems.forEach(({ rid, relItem, nIdx }) => {
+    const line = document.createElement('span');
+    line.className = 'map-panel-rel-line';
+    relItems.forEach(({ rid, relItem, nIdx }, idx) => {
       const btn = document.createElement('button');
       btn.className = 'related-btn map-rel-chip';
       btn.textContent = relItem.name;
       btn.addEventListener('click', e => {
         e.stopPropagation();
         if (nIdx >= 0) {
-          // Node visible in current map → select it
           mapSelectNode(nIdx);
         } else {
-          // Node is in another block → switch to show it
           S.block = relItem.blockIds[0] || null;
           S.field = null; S.page = 0;
           renderBlockTabs(); renderTabs();
           initMapData();
-          // After reinit, select the node
           requestAnimationFrame(() => {
             const newIdx = MAP.nodes.findIndex(n => n.id === rid);
             if (newIdx >= 0) mapSelectNode(newIdx);
           });
         }
       });
-      relEl.appendChild(btn);
+      line.appendChild(btn);
+      if (idx < relItems.length - 1) line.appendChild(document.createTextNode(', '));
     });
+    relEl.appendChild(line);
   } else {
     relEl.style.display = 'none';
   }

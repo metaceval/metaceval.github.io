@@ -52,12 +52,6 @@ In most cases, the routine is presented to a whole class or discussion group, us
 
 There are many basic questions, and they can be varied in number and form depending on the context. Some examples include: What do you know? What do you see or know that makes you say that? It might also be helpful to work on the students' interpretations of the topic being studied. In this way, we can use questions like: What do you see? or What do you know? Over time, students can begin to automatically support their interpretations with evidence, and eventually, they will begin to internalize the routine.
 
-#### Example
-
-In a history lesson, the teacher shows a photograph of a factory during the Industrial Revolution and asks: “What do you think is happening in this image?”. A student answers: “It looks as if working conditions were harsh”. The teacher asks the student to justify the interpretation: “What makes you say that?”. The student points to the number of workers crowded together, the lack of natural light and the apparent age of some children.
-
-Based on these responses, the class distinguishes between observations, interpretations and evidence. The routine helps students move beyond simple opinions and support their ideas with specific clues.
-
 #### Relationship with CER
 
 This routine is related to **Claim, Evidence and Reasoning (CER)** because both ask students to justify ideas with evidence. In both cases, students need to avoid answers based only on opinion and learn to distinguish observation, interpretation and justification.
@@ -65,6 +59,12 @@ This routine is related to **Claim, Evidence and Reasoning (CER)** because both 
 The main difference is that “What makes you say that?” works as a short observation and interpretation routine: students say what they think about an image, text, object or situation and explain which clues lead them to think so. CER, by contrast, requires a more complete argumentative structure: an explicit claim, selected evidence and reasoning that explains why the evidence supports the claim.
 
 For this reason, “What makes you say that?” is especially useful for starting a conversation, activating observation or making students' interpretations visible. CER is more suitable when the aim is to produce a final response, a scientific explanation, a lab conclusion or an argued text.
+
+**Example:**
+
+In a history lesson, the teacher shows a photograph of a factory during the Industrial Revolution and asks: “What do you think is happening in this image?”. A student answers: “It looks as if working conditions were harsh”. The teacher asks the student to justify the interpretation: “What makes you say that?”. The student points to the number of workers crowded together, the lack of natural light and the apparent age of some children.
+
+Based on these responses, the class distinguishes between observations, interpretations and evidence. The routine helps students move beyond simple opinions and support their ideas with specific clues.
 
 **Related techniques:** Generate Hypotheses, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Concept Cartoon, Claim, Support, Question, The Explanation Game
 
@@ -97,7 +97,7 @@ This thinking routine involves students analyzing a text or image and attempting
 
 - Review the students' summary or outline and provide feedback. You can do this individually or with the whole group, depending on the students' needs.
 
-#### Example
+**Example:**
 
 In a biology lesson, the teacher gives students a short text about blood circulation and a diagram of the heart. First, students underline the main ideas: the function of the heart, the pathway of blood and the difference between oxygenated and deoxygenated blood. Then they organize these ideas in a diagram with arrows.
 
@@ -144,7 +144,7 @@ Student tasks:
 
 3. Review the work you have done to ensure that you have applied the knowledge appropriately and reached reasonable conclusions. If anything is unclear, do not hesitate to ask for help or ask questions.
 
-#### Example
+**Example:**
 
 After studying percentages and simple interest, the teacher presents a practical situation: “You want to buy a computer that costs 600 euros. One shop offers a 15% discount and another allows you to pay in six months with a 4% surcharge. Which option is better and why?”.
 
@@ -198,7 +198,7 @@ CIRCLE OF POINTS OF VIEW
 **CONCLUSIONS**
 What new ideas do you have about the topic that you didn't have before? What new questions do you have?
 
-#### Example
+**Example:**
 
 In a geography lesson, the teacher introduces the issue of building a new road near a natural area. First, the class identifies different viewpoints: residents who need to commute, local shopkeepers, environmental groups, municipal officials, and animals or plants affected by the construction.
 
@@ -255,7 +255,8 @@ The Contrast and Compare thinking routine is a technique that can be used to hel
 
 1. Listen to the teacher's feedback and use it to improve the comparisons and contrasts you have made.
 
-#### Example
+**Example:**
+
 Objective: To improve students' understanding of the French Revolution
 
 - Stage 1: Provide students with different sources of information about the French Revolution
@@ -332,9 +333,7 @@ What image would you choose to represent this idea? |
 
 COMMENTS
 
----
-
-#### Example of applying the CSI routine: Color, Symbol, Image
+**Example:**
 
 - Objective: To improve students' understanding of World War II
 - Step 1: Provide students with information about World War II through readings and videos
@@ -415,7 +414,7 @@ The "detect patterns" thinking routine involves searching for and identifying re
 
 2. Summarize the most important ideas that emerged from the discussion and reflect on what you have learned. What relationships or patterns have you identified? What new ideas have you learned? How can you apply these ideas to other situations or problems?
 
-#### Example
+**Example:**
 
 In an applied mathematics lesson, the teacher gives students a table showing the monthly income and expenses of several fictional families. Students examine the data and look for patterns: which types of expenses increase when income rises, which expenses remain stable and which situations create a higher risk of deficit.
 
@@ -452,7 +451,7 @@ This routine allows for critical reflection on what has been understood from an 
 
 You can use a template similar to this:
 
-#### Example
+**Example:**
 
 At the end of an explanation about photosynthesis, each student completes three columns. In green, they write: “I understand that plants make organic matter using light, water and carbon dioxide”. In yellow, they write: “I still have questions about the role of mineral salts”. In red, they may write: “I do not fully understand what happens in the chloroplasts”.
 
@@ -500,7 +499,8 @@ This routine guides students to reflect on their own learning through a sequence
 
 - To develop self-regulation and reflective thinking.
 
-#### Example
+**Example:**
+
 After completing a laboratory exercise, students fill in the ladder, indicating what they have learned about experimental design, how they controlled variables, and in what other experiments they could apply that procedure.
 
 **Related techniques:** Learning Journal, I Used to Think... Now I Think, 3-2-1 Bridge, Connect, extend, challenge, Habits of mind, Self-explanation
@@ -550,7 +550,7 @@ If done individually, students can use this routine to reflect on the concepts o
 
 If done in groups, they can use this routine to debate and discuss their ideas with their classmates. This can help them better understand different perspectives and develop communication and teamwork skills. It can also help them enrich their research with the ideas and information of others.
 
-#### Example
+**Example:**
 
 In a biology lesson, the teacher shows two plants of the same species: one with green leaves and another with yellowish leaves. The teacher asks: “Why is one of the plants showing chlorosis?”.
 
@@ -601,7 +601,7 @@ Students' role:
 
 4. Select the best solution from those you have evaluated.
 
-#### Example
+**Example:**
 
 In a digitalization class, the teacher presents a real problem in the group: many students forget deadlines and required materials. First, students generate possible solutions: a shared calendar, automatic reminders, a weekly board, a checklist for each subject or a rotating student responsible for reminders.
 
@@ -649,7 +649,8 @@ This routine organizes learning into three stages: what students know, what they
 
 - Promote metacognition and final synthesis.
 
-#### Example
+**Example:**
+
 Before studying ecosystems, students write what they know about food chains, what questions they have about the relationships between organisms, and, at the end, what they have learned about food webs and ecological balance.
 
 **Resources:** [Word cloud](https://jjdeharo.github.io/directo/nube.html)
@@ -685,9 +686,7 @@ This technique is used to introduce a topic, idea, or proposal. It involves usin
 
 - S: Suggestions or Stance for Moving Forward. What is your current suggestion, stance, or opinion regarding this idea or proposal? What should be the next step in evaluating this idea or proposal?
 
-Adapted from: Project Zero. (2020). Compass Points
-
-#### Example
+**Example:**
 
 The teacher presents the following idea or proposal: "The school is considering implementing a new waste collection system to reduce waste generation and improve resource management. What do you think?"
 
@@ -698,6 +697,8 @@ The teacher presents the following idea or proposal: "The school is considering 
 3. **Needs**. They explain what else they would need to know or discover about this idea or proposal to be able to evaluate it more accurately. Some may ask for more information about what types of waste can be recycled and how collection will be carried out, others may ask about the resources needed to implement this new system, or they may ask for examples from other schools that have already implemented a similar waste collection system.
 
 1. **Suggestions**. Students offer their suggestions or positions on how to move forward with this idea or proposal and explain what the next step should be to evaluate it. Some may say that a meeting with all students is necessary to explain the new waste collection system and ask for their commitment to following it. Others may say that a survey is needed to assess the level of knowledge about recycling and how it could be improved.
+
+_Adapted from: Project Zero. (2020). Compass Points_
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
@@ -742,7 +743,7 @@ To use the "5 Whys" technique, teachers can follow these steps:
 
 1. Once students have learned to use the technique, they may find it helpful to use this strategy to reflect on other topics or subjects of study to improve their understanding and learning.
 
-#### Example
+**Example:**
 
 In a biology lesson, the teacher presents the problem: “A plant in the classroom is wilting”. The group applies the 5 Whys:
 
@@ -836,9 +837,7 @@ What implications, interpretations, or predictions can you draw from the text?
 
 What aspects of the text were overlooked in the group discussion? What leads you to think this?*
 
----
-
-#### Example
+**Example:**
 
 After reading a short article about the use of artificial intelligence in education, each student selects a word, an idea and a sentence. A word might be “personalization”; an idea, “AI can help adapt activities, but it does not replace teacher judgment”; and a sentence, “technology expands possibilities when it is integrated with pedagogical intention”.
 
@@ -882,7 +881,7 @@ The routine can be organized with a simple table:
 
 Afterward, students can share their responses in pairs, in small groups or with the whole class. The responses can also be used to create a poster, start a discussion, or review collectively how the class’s understanding of the topic has evolved.
 
-#### Example
+**Example:**
 
 In a science lesson on photosynthesis, the teacher asks students to complete the first column before working on the topic. Initial responses might include: “I used to think that plants fed on soil” or “I used to think that light only helped plants grow”.
 
@@ -926,8 +925,8 @@ Often, students have misconceptions about a topic at this stage. These are added
 
 Routine in PDF
 
----
-#### Example
+**Example:**
+
 Teacher: Today we will study the topic of conservation of energy. Before we begin, I'd like you to take a few minutes to reflect on this topic and write down any ideas that come to mind about what you think conservation of energy is.
 
 After 5 minutes, the teacher asks the students to share their ideas on "I think." Some of the ideas the students shared were:
@@ -997,7 +996,7 @@ The "ask why" thinking routine can be used at any point in the learning process,
 
 - Present the answers found to the group or the teacher.
 
-#### Example
+**Example:**
 
 In a history lesson, the teacher introduces the topic of twentieth-century migrations with an image of a crowded railway station. Students are asked to formulate “why” questions: “Why did many people leave rural areas?”, “Why did some cities grow so quickly?” or “Why did working conditions influence migration?”.
 
@@ -1034,7 +1033,7 @@ This thinking routine involves students asking themselves a question and trying 
 
 4. Review the students' answers and provide feedback. You can do this individually or with the whole group, depending on the students' needs.
 
-#### Example
+**Example:**
 
 In mathematics, the teacher wants to check whether students understand the concept of arithmetic mean. The teacher proposes questions such as: “What does the mean represent?”, “How is it calculated?”, “Can a mean hide important differences in the data?” and “When is it useful to also look at the median?”.
 
@@ -1070,6 +1069,22 @@ This routine is performed twice, once at the beginning of a topic and once at th
 2. At the end, they repeat the process and compare their answers, reflecting on how their ideas have changed and why.
 
 3. Finally, each student shares their conclusions with the rest of the class.
+
+**Example:**
+
+In a Year 5 class beginning a unit on water and its states, the teacher asks each student to complete the bridge before starting.
+
+**Before the unit** (example student):
+- 3 ideas: water, steam, ice
+- 2 questions: How does water turn into steam? / What happens to water when it freezes?
+- 1 metaphor: Water is like an actor who changes costume
+
+**After the unit**, the same student completes the bridge again:
+- 3 ideas: evaporation, condensation, water cycle
+- 2 questions: Can it snow in the desert? / How much water is in the atmosphere?
+- 1 metaphor: Water is like a traveller who never stops moving
+
+In the class sharing session, the student explains what has changed in their thinking and why. The teacher uses the final metaphors to identify the level of understanding each student has reached.
 
 **Related techniques:** Metacognition Ladder, KWL (I know, I want to know, I have learned), I Used to Think... Now I Think, Think, Puzzle, Explore
 
@@ -1116,7 +1131,7 @@ Student's Role:
 
 This routine involves interaction between the teacher and students, with students reflecting on the consequences or implications of the concepts or facts they have learned and sharing their reflections with the group or the teacher. This routine can be used to encourage students to reflect on any type of concept or fact, and it is especially useful for promoting critical thinking and reflection on complex issues or relevant problems in daily life.
 
-#### Example
+**Example:**
 
 In a technology lesson, the teacher presents the proposal of using only a digital platform to submit assignments. Students review possible consequences: saving paper, easier storage of evidence, need for internet access, risk of forgotten passwords, differences in access to devices and changes in teachers’ organization.
 
@@ -1164,7 +1179,8 @@ A visual technique for analyzing a personified character, social group, organiza
 
 - To visually represent complex information.
 
-#### Example
+**Example:**
+
 In literature, students analyze a character from a novel. Inside the silhouette, they write the character's fears and desires; outside, they write the character's actions and how other characters perceive them.
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
@@ -1222,9 +1238,8 @@ Worksheet for practicing the technique:
 ---
 *How does it differ from the previous one? *
 
----
+**Example:**
 
-#### Example
 Topic: The use of single-use plastics
 
 Initial headline: "Single-use plastic is very convenient, but it has a huge environmental impact."
@@ -1268,9 +1283,7 @@ Share with the whole group using a virtual bulletin board. Working on the routin
 
 Templates for this routine.
 
----
-
-#### Example
+**Example:**
 
 In an art history lesson, the teacher shows a photograph of a crowded urban square during a demonstration. In the “I see” column, students write only observations: banners, many people, buildings, police, signs and a blocked street.
 
@@ -1310,7 +1323,8 @@ A simple routine for analyzing a proposal, alternative, or previous experience u
 - To distinguish advantages and disadvantages.
 - To support argumentation and decision-making.
 
-#### Example
+**Example:**
+
 Before deciding whether an activity will be done individually or in groups, the class creates two columns with pros and cons for each option and justifies which organization seems most appropriate.
 
 **Related techniques:** Compare and Contrast, Compass Points, Problem Matrix, Review the Consequences, Toulmin's Argumentation Model, Argument Map
@@ -1358,7 +1372,8 @@ It can be used in science, history, economics, philosophy, language arts or any 
 - CER is especially useful for scientific explanations, lab conclusions, argued answers or data analysis.
 - “What makes you say that?” works very well as a short observation routine; CER works better as a framework for more complete written or oral explanations.
 
-#### Example
+**Example:**
+
 In a biology lab, students observe that some seeds germinated better with water than without water. The question is: “Is water necessary for germination?”.
 
 - **Claim**: Water is necessary for seeds to germinate.
@@ -1405,7 +1420,8 @@ It is especially useful for making prior ideas visible, detecting alternative co
 - Promote conceptual change and revision of ideas.
 - Develop reasoned explanation from observations or data.
 
-#### Example
+**Example:**
+
 In biology, the teacher asks: “What will happen if we place a peeled potato in very salty water for one hour?”. Before observing the result, each student predicts whether the potato will gain water, lose water or remain unchanged, and justifies the answer.
 
 The experiment is then carried out. Students observe that the potato loses firmness and mass. They then compare the result with their prediction and explain the process through osmosis: water leaves the cells and moves into the medium with a higher salt concentration. The technique helps students revise intuitive ideas about water movement and build an evidence-based explanation.
@@ -1443,7 +1459,8 @@ It is lighter than CER. It does not require a full explanation, but it does requ
 4. They formulate a question that helps continue thinking or investigating.
 5. Responses are shared and the quality of the claims, supports and questions is reviewed.
 
-#### Example
+**Example:**
+
 In history, after analysing a graph on urban population, a student writes: “Claim: cities grew significantly during industrialisation. Support: the graph shows a steady increase in urban population between 1850 and 1900. Question: was this growth the same across all social groups or did it affect some more than others?”.
 
 **Related techniques:** What makes you say that?, Think, Puzzle, Explore, Socratic Seminar, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model
@@ -1481,7 +1498,8 @@ Connect, extend, challenge is a Project Zero thinking routine that helps student
 - Formulate meaningful doubts.
 - Foster metacognition and critical thinking.
 
-#### Example
+**Example:**
+
 After reading a text on climate change, students spend 8 minutes completing three sections. They connect CO2 with combustion studied in chemistry, extend their understanding with the role of methane, and identify as a challenge why effects are not the same in all regions.
 
 **Related techniques:** Metacognition Ladder, KWL (I know, I want to know, I have learned), I Used to Think... Now I Think, Think, Puzzle, Explore
@@ -1519,7 +1537,8 @@ Generate, sort, connect, elaborate is a Project Zero thinking routine for progre
 - Organise information graphically.
 - Build a conceptual synthesis.
 
-#### Example
+**Example:**
+
 At the start of the circulatory system, students spend 3 minutes generating terms such as heart, arteries, veins, blood, oxygen and capillaries. They then sort them, connect them with arrows and elaborate the map by adding blood pressure, gas exchange and nutrient transport.
 
 **Related techniques:** Analyze and Synthesize, Four-Part Concept Map, Visual Thinking, Frayer Model
@@ -1558,7 +1577,8 @@ Tug of war is a Project Zero thinking routine for analysing dilemmas through an 
 - Recognise nuances and conditions.
 - Develop critical thinking and argumentation.
 
-#### Example
+**Example:**
+
 In biology, the class analyses whether the use of animals in biomedical research should be allowed. For 10 minutes, groups place arguments for and against: development of treatments, animal suffering, ethical regulation and experimental alternatives. At the end, they formulate a nuanced position.
 
 **Related techniques:** Structured Academic Controversy, Socratic Seminar, Toulmin's Argumentation Model, Structured Controversy with Evidence
@@ -1592,7 +1612,7 @@ The routine rests on three questions that learners answer “from inside” the 
 4. The different perspectives are shared and compared: where they agree, where they clash and why.
 5. They reflect on how understanding of the situation changes after looking at it “from inside” someone else.
 
-#### Example
+**Example:**
 
 Faced with a painting of an everyday 19th-century scene, different students step into the girl who appears, the merchant in the background and even the dog. Each describes what they perceive, think and care about from that position. Sharing them, the class discovers tensions and nuances in the scene that were invisible from a single viewpoint.
 
@@ -1629,7 +1649,7 @@ It is especially useful for activating curiosity and for moving from mere observ
 4. Go deeper: “What makes you think that? What other explanation could there be?”.
 5. Alternative explanations are compared and judged against the available evidence.
 
-#### Example
+**Example:**
 
 In science, the teacher shows a leaf with curled edges and asks what detail stands out. A student points to the dry edges. “Why do you think they curled like that?” Explanations emerge: lack of water, too much sun, a pest. The group compares them and decides what evidence would confirm each, turning a simple observation into a small inquiry.
 
@@ -1666,7 +1686,7 @@ The silence equalises participation (those who rarely speak also take part), giv
 4. The teacher can also take part in writing, posing questions that push deeper.
 5. At the end the silence is broken: the mural is viewed as a whole, patterns, agreements and tensions are identified, and it is discussed aloud.
 
-#### Example
+**Example:**
 
 In a tutorial, the centre of a large sheet reads “What makes a group work well?”. Without speaking, learners write ideas (respect, listening, sharing tasks), react to others’ and join them with arrows. When finished, the mural shows at a glance the dominant ideas and the disagreements, which form the basis for a later discussion.
 
@@ -1703,7 +1723,7 @@ Formulating questions activates interest, surfaces what is already known and wha
 4. The questions are reviewed: the most interesting or powerful are identified and closed vs. open questions are distinguished.
 5. Some questions are chosen to be investigated or used to guide the study of the topic.
 
-#### Example
+**Example:**
 
 Before starting a topic on water, learners use the starters to generate questions: “Why is sea water salty?”, “What would happen if it didn’t rain for a year?”, “How does water reach the tap?”. They then select the ones that intrigue them most, which become the thread of the unit, giving them ownership of what they will learn.
 
@@ -1739,13 +1759,13 @@ This activity aims to help students define themselves, not physically, but by fo
 
 3. The letters are read aloud one by one, and the students try to guess who wrote it.
 
-#### Example
+**Example:**
 
 At the beginning of the school year, the teacher asks students to write a short letter to introduce themselves to someone who does not know them yet. In the letter, they can write about their hobbies, how they like to work, what they find difficult, what kind of activities motivate them or one aspect of their personality, but they cannot mention physical details.
 
 Then the teacher reads the letters aloud without saying the names. The group tries to guess who wrote each letter and must justify the answer with a clue from the text. The activity helps students get to know one another better and creates an initial climate of trust.
 
-Source: Romero, G.A. (2009). Techniques for working on classroom cohesion.
+_Source: Romero, G.A. (2009). Techniques for working on classroom cohesion._
 
 **Related techniques:** Getting to Know Each Other, The Box, Interview, I like it / I don't like it
 
@@ -1793,13 +1813,13 @@ Conclusions
 
 It's interesting to get to know the people we live with every day because it allows us to understand them better and cooperate in achieving common goals.
 
-Source: ECO. (2007). Group Dynamics.
-
-#### Example
+**Example:**
 
 During the first week of class, the teacher gives students a worksheet with prompts such as: “Find someone who has a pet at home”, “Find someone who plays a sport”, “Find someone who can cook something simple” or “Find someone who read a book this summer”.
 
 For a few minutes, students move around the classroom, ask their classmates questions and write names on the worksheet. Then the class shares what they found: each student mentions something they discovered about another person. The activity helps break the ice, encourages initial interaction and allows the group to find connections beyond the usual friendship groups.
+
+_Source: ECO. (2007). Group Dynamics._
 
 **Related techniques:** Who's who?, Interview, Follow the trail, Yellow Pages
 
@@ -1839,20 +1859,15 @@ Formation of groups with 3 members each:
 
 Pressing the button will create the “expert groups,” with one member from each of the previous groups.
 
----
-Source: Pérez, M. (2015). Cooperative Dynamics.
-
----
-
-**Explanation of the technique:**
-
-#### Example
+**Example:**
 
 In a unit on the digestive system, the teacher divides the content into four sections: mouth and esophagus, stomach, small intestine and large intestine. In each home team, each student receives a different section and prepares it using a text, a diagram and an image.
 
 Then all students with the same section meet in expert groups to resolve questions, agree on the essential ideas and prepare a clear explanation. After that, they return to their home team and explain their part to the others.
 
 The team completes a general diagram of the digestive process, linking the phases to one another and explaining what happens to food in each one. The task can only be finished if all members contribute their piece correctly.
+
+_Source: Pérez, M. (2015). Cooperative Dynamics._
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
@@ -1897,13 +1912,13 @@ Conclusions
 
 Sharing aspects of our personality fosters mutual trust and develops empathy.
 
-Source: ECO. (2007). Group Dynamics.
-
-#### Example
+**Example:**
 
 At the beginning of the school year, the teacher brings a box with four objects: a notebook, a small plant, a USB drive and a bicycle part. The teacher explains that the notebook represents a liking for writing and organizing ideas, the plant an interest in biology, the USB drive a connection with technology and the bicycle part a personal hobby.
 
 Then each student prepares their own box with three objects that explain something about their personality, interests or skills. In the following session, they present the objects to the group and answer a question from their classmates. The activity allows students to get to know one another personally without focusing on physical appearance.
+
+_Source: ECO. (2007). Group Dynamics._
 
 **Related techniques:** Who's who?, Follow the trail, Yellow Pages
 
@@ -1945,7 +1960,7 @@ Sources:
 - Dipsalut. (2016). Dynamics of group cohesion and acceptance.
 - Group dynamics. (2021). Dynamic Likes and Dislikes.
 
-#### Example
+**Example:**
 
 In a tutoring session, the teacher draws an imaginary line in the classroom. The teacher says statements such as: “I like working in groups”, “I like speaking in public”, “I find it hard to ask for help”, “I like creative activities” or “I prefer tasks with very clear instructions”.
 
@@ -1978,25 +1993,27 @@ To share significant aspects of our lives with the other members of the group in
 
 - The teacher writes numbers, words, symbols, etc., on the board—clues about personal aspects to share with the group. For example:
 
-- Barcelona, ​​two, 1950, waiter, eleven, read, 2, sincerity, Saint Petersburg...
-
-- The students follow the clues and ask closed questions to guess their meaning. For example:
-
-- Are you from Barcelona?
-
-- Is your favorite soccer team Barcelona?
-
-- Did you study in Barcelona?
-
-- Do you have family living in Barcelona?, etc.
-
 - Each student prepares six clues about themselves and, in pairs, tries to discover their meaning.
 
 Conclusions
 
 There are significant elements in our lives. Sharing them allows us to recognize and value other people and ourselves.
 
-Source: ECO. (2007). Group building activities.
+**Example:**
+
+The teacher writes their own clues on the board: _Barcelona, two, 1950, waiter, eleven, reading, 2, sincerity, St Petersburg_.
+
+Students ask yes/no questions to decipher them:
+- "Are you from Barcelona?" → No
+- "Did you study in Barcelona?" → Yes ✓
+- "Does the number two relate to your children?" → Yes ✓
+- "Is 1950 the year you were born?" → No
+- "Is it the year someone in your family was born?" → Yes ✓
+- "Is St Petersburg a city you have visited?" → Yes ✓
+
+Once the teacher's clues are decoded, each student prepares their own six clues and, in pairs, their partner tries to discover their meaning with yes/no questions. The session ends with the whole class sharing the most intriguing or tricky clues.
+
+_Source: ECO. (2007). Group building activities._
 
 **Related techniques:** Getting to Know Each Other, The Box, Interview, I like it / I don't like it, Timeline
 
@@ -2032,7 +2049,7 @@ A technique to ensure equitable participation in group discussions.
 #### Objectives
 To regulate participation, prevent one student from dominating the conversation, and encourage more reserved students to participate.
 
-#### Example
+**Example:**
 
 In a tutoring session on classroom coexistence, each student receives three chips to discuss the question: “What rules help a group work better?”. Each time someone speaks, they must place one chip in the center.
 
@@ -2074,7 +2091,8 @@ A structured technique for generating and prioritizing ideas that supports balan
 - To gather ideas in an orderly and equitable way.
 - To support more balanced group decision-making.
 
-#### Example
+**Example:**
+
 Before choosing a project topic, each student proposes several options. All ideas are then collected, clarified, and voted on to select the proposal that best represents the group.
 
 **Related techniques:** Cooperative Graffiti, Compass Points, RallyRobin, RoundRobin, Talking Chips, World Café
@@ -2113,7 +2131,8 @@ A cooperative learning structure in pairs in which one student acts as a tutor f
 - To improve understanding through explanation and guidance.
 - To develop responsibility, listening, and communication.
 
-#### Example
+**Example:**
+
 In mathematics, a student tutor supports a partner in solving a problem. The tutor asks what data are available, what operation may be needed, and why, but does not write the final answer.
 
 **Related techniques:** Team-Pair-Solo, Four Wise Students, Team Assisted Individualization (TAI), Yellow Pages, Co-teaching, Worked examples, Gradual release of responsibility, Think-aloud, Scaffolding and zone of proximal development (ZPD)
@@ -2152,7 +2171,8 @@ A cooperative structure that combines heterogeneous team work with individualize
 - To promote mutual assistance and individual responsibility.
 - To address different paces and levels of competence.
 
-#### Example
+**Example:**
+
 In arithmetic, each student works through a sequence of exercises adapted to their level. Before asking the teacher for help, the student checks with the team, which provides guidance and reviews the procedure.
 
 **Related techniques:** Team-Pair-Solo, STAD (Student Teams Achievement Divisions), Peer Tutoring, Mastery learning
@@ -2191,7 +2211,8 @@ A cooperative structure in which different groups specialize in different practi
 - To encourage peer tutoring.
 - To share complementary learning cooperatively.
 
-#### Example
+**Example:**
+
 In biology, half the class carries out a practical task observing plant cells and the other half observes animal cells. Mixed teams are then formed to compare results and produce a joint conclusion.
 
 **Related techniques:** Jigsaw, Learning Stations, Four Wise Students
@@ -2228,7 +2249,8 @@ A decision-making activity that demonstrates the effectiveness of cooperative wo
 - To develop argumentation, listening, and consensus.
 - To analyze how decision-making improves when ideas are compared.
 
-#### Example
+**Example:**
+
 The group must rank the most important objects for survival after a moon landing. Each student decides first, then the team, and finally the result is compared with the expert solution.
 
 **Related techniques:** Round Table, Problem Matrix, Placemat consensus
@@ -2267,7 +2289,8 @@ A group-cohesion activity in which each student creates a personal advertisement
 - To make each student's strengths visible.
 - To encourage peer support and group cohesion.
 
-#### Example
+**Example:**
+
 One student offers help with spreadsheets, another with drawing diagrams, and another with explaining the rules of a game. The class creates a directory to consult when support is needed.
 
 **Related techniques:** Getting to Know Each Other, The Box, Peer Tutoring
@@ -2303,7 +2326,8 @@ A shared teaching model in which two teachers work together in planning, deliver
 - To enrich teaching strategies.
 - To promote mentoring, observation, and support inside the classroom.
 
-#### Example
+**Example:**
+
 In an inclusive classroom, one teacher leads the explanation while another observes difficulties, provides targeted support, and later both reorganize the activity according to the needs detected.
 
 **Related techniques:** Learning Stations, TPACK, Universal Design for Learning (UDL), Peer Tutoring
@@ -2353,7 +2377,8 @@ Cooperative roles help avoid situations where some students take on all the work
 - Organize cooperation more effectively.
 - Help students learn how to work in groups.
 
-#### Example
+**Example:**
+
 In a project to create a classroom podcast, one student coordinates the distribution of tasks, another writes the script, another controls the recording time and another acts as team spokesperson. There may also be a sound manager or a final review manager.
 
 At the end, the team reviews whether each role helped organize the work better: whether the script was clear, whether everyone participated, whether timing was respected and whether the final product communicates the message well. The technique makes cooperative work more organized and responsibilities more visible.
@@ -2392,7 +2417,7 @@ It guarantees simultaneous interaction and individual accountability, two key pr
 5. Student 4 evaluates the answer: if correct, praises; if not, helps correct it or re-teaches.
 6. Roles rotate one position and it repeats with the next card, until the deck is finished.
 
-#### Example
+**Example:**
 
 To review English vocabulary, each team uses cards with a word on one side and its translation on the other. The one holding the fan offers the cards; another picks and reads; a third translates; the fourth checks against the back and, if needed, corrects kindly. After each question roles rotate, so within minutes everyone has questioned, answered and evaluated.
 
@@ -2430,7 +2455,7 @@ The key is that no one can hide behind the group: each student produces their ow
 5. They compare: if they match and are correct, they celebrate; if they differ, they discuss and help one another until it is clarified.
 6. The captain role rotates and they move to the next card.
 
-#### Example
+**Example:**
 
 In maths, the captain reads “solve 3/4 + 1/8”. Each member works it out on their whiteboard without looking at the others. On the call of “Showdown!”, everyone shows their result. Two wrote 7/8 and two a different value: the team compares procedures, spots where the error in adding fractions lies and corrects it before moving to the next card.
 
@@ -2467,7 +2492,7 @@ It is ideal for energising the group, breaking the routine of sitting, mixing th
 4. In turn, each shares their answer or idea and listens to the other’s.
 5. On the teacher’s signal, they raise their hand again, say goodbye and look for a new, different partner, repeating the exchange.
 
-#### Example
+**Example:**
 
 After reading a text, the teacher asks: “think of an idea that surprised you.” Everyone stands with a hand up, pairs with the first person they meet and tells each other their idea. On the signal, they swap partners two or three more times. In five minutes each student has verbalised their idea several times and heard diverse viewpoints, arriving better prepared at the whole-class sharing.
 
@@ -2504,7 +2529,7 @@ That third step is key: it forces attentive listening (because there is later ac
 4. Step 3: in the team of four, each member shares in turn what their partner said (not their own), in a round-robin structure.
 5. The team gathers the shared ideas and the differences.
 
-#### Example
+**Example:**
 
 When starting a project, the topic is “what would you like to research and why?”. In pairs, A interviews B and then B interviews A. Then, in the team of four, each presents their partner’s interest: “David is interested in climate change because…”. This way everyone practises active listening and synthesis, and the team learns all its members’ interests in order to decide the project.
 
@@ -2558,9 +2583,7 @@ We must carefully consider the time needed for each student to ensure equal part
 
 The completion of the task by the teams can be accompanied by a reward from the group and the teacher, in the form of praise, applause, etc.
 
-Source: Pérez, M. (2015). Cooperative Dynamics.
-
-#### Example of applying the Cooperative Technique: 1-2-4:
+**Example:**
 
 1. The science teacher poses a question about the solar system to their students: "What are the main characteristics of the planet Mars?"
 
@@ -2571,6 +2594,8 @@ Source: Pérez, M. (2015). Cooperative Dynamics.
 1. The two pairs share their writing and discuss the differences and similarities between them. They develop a final answer that includes the contributions of all team members.
 
 1. The teacher reviews the group's final answer and makes any necessary comments or corrections.
+
+_Source: Pérez, M. (2015). Cooperative Dynamics._
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
@@ -2623,15 +2648,15 @@ The idea is that, as the activity progresses, students will become aware of the 
 
 - It is recommended to create a final summary of the ideas presented by each team to facilitate understanding of the different points of view and further exploration of the topic.
 
-Source: *Structuring Academic Controversy*, Johnson and Johnson, 1994 in Grup de recerca sobre aprenentatge entre iguals. (2016).
-
-#### Example
+**Example:**
 
 In a biology lesson, the teacher poses the question: “Should genetically modified organisms be allowed in agriculture?”. In each team of four, one pair prepares arguments in favor and the other pair prepares arguments against, using sources provided by the teacher.
 
 First, each pair presents its position. Then the pairs switch sides and must defend the opposite position using the strongest arguments they have heard. At the end, the team produces a synthesis that includes benefits, risks, conditions for use and remaining questions.
 
 The activity helps students understand the complexity of the issue and learn to argue without reducing the debate to a simple opposition between being for or against.
+
+_Source: *Structuring Academic Controversy*, Johnson and Johnson, 1994 in Grup de recerca sobre aprenentatge entre iguals. (2016)._
 
 **Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Fishbowl (Aquarium), Socratic Seminar, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Tug of war, Academic debate
 
@@ -2679,17 +2704,13 @@ A small whiteboard can be used instead of a sheet of paper. Introduce materials 
 
 Observe the contributions of each team member.
 
-Source: Pérez, M. (2015). Cooperative Dynamics.
-
----
-
-**Explanation of the technique:**
-
-#### Example
+**Example:**
 
 In a language lesson, the teacher asks each team to write a short story based on an image. The first student writes the beginning of the story for one minute and passes the sheet to the classmate on the right. The second student continues the narration, the third introduces a conflict and the fourth proposes an ending.
 
 In a second round, each student revises or improves one aspect of the text: vocabulary, coherence, connectors or spelling. At the end, the team reads the story and comments on each member’s contribution. The technique ensures that everyone participates and makes it possible to build a shared product through successive contributions.
+
+_Source: Pérez, M. (2015). Cooperative Dynamics._
 
 **Related techniques:** Word Game, Cooperative Graffiti, RoundRobin, +1, Chalk Talk
 
@@ -2734,7 +2755,8 @@ An instructional model that organizes an active learning sequence into five phas
 - Activate prior knowledge and promote inquiry.
 - Support application, transfer and formative assessment.
 
-#### Complete example
+**Example:**
+
 Topic: **What do seeds need to germinate?**
 
 1. **Engage**: the teacher shows two pots, one with germinated seeds and another with seeds that have not germinated. The teacher asks: “If both pots had seeds, why did they germinate in one pot but not in the other?”. Students write their initial ideas about the role of water, light, temperature and soil type.
@@ -2800,13 +2822,13 @@ Tips:
 
 - Distribute the different roles among the members of each team. Reach a consensus within the group on the final proposal.
 
-Source: Varas, M. & Zariquiey, F. (2011). Formal and informal techniques of cooperative learning.
-
-#### Example
+**Example:**
 
 During an explanation about climate change, the teacher divides the class into four listener teams. One team must prepare questions, another must identify ideas they agree with, another must point out possible objections or doubts, and the last one must provide examples from everyday life.
 
 At the end of the presentation, the questioning team asks about causes and consequences, the approval team highlights the usefulness of distinguishing weather from climate, the disagreement team asks about the reliability of some data, and the examples team links the topic to droughts, heat waves or changes in energy consumption. The activity turns a teacher explanation into active and structured listening.
+
+_Source: Varas, M. & Zariquiey, F. (2011). Formal and informal techniques of cooperative learning._
 
 **Related techniques:** Three-Minute Pause, Ask and Answer, Socratic Seminar
 
@@ -2851,17 +2873,13 @@ Author's own work
 
 #### Technological Model for *Flipped Classroom*
 
-Source: Basso-Aránguiz et al. (2018). Proposal of a technological model for Flipped Classroom (T-FliC) in higher education.
-
-The following video, although a bit long, explains in considerable detail what it consists of, both in its pedagogical foundations and its development.
-
-Software Selection for the Flipped Classroom.
-
-#### Example
+**Example:**
 
 In a mathematics unit on linear functions, the teacher prepares a short 8-minute video with the initial explanation: the concept of function, slope, y-intercept and how to read a graph. Along with the video, students complete a short form with three comprehension questions.
 
 Before class, the teacher reviews the answers and notices that many students confuse slope with initial value. In class, the first few minutes are used to clarify this difficulty, and then students work on a practical activity: interpreting graphs of phone tariffs, journeys and electricity consumption. Face-to-face time is used to answer questions, compare strategies and apply the content to specific situations.
+
+_Source: Basso-Aránguiz et al. (2018). Proposal for a technological model for Flipped Classroom (T-FliC) in higher education._
 
 **Related techniques:** Learning Stations, Peer Instruction, Exit Ticket, WebQuest, Personalised learning playlists, Community of Inquiry
 
@@ -2902,13 +2920,13 @@ TIPS
 
 - Utilize student contributions when developing the topic.
 
-Source: CRA Los Olivos. (2017). Cooperative learning techniques.
-
-#### Example
+**Example:**
 
 Before starting a unit on ecosystems, the teacher gives students a worksheet with two sections: “What I know” and “What we know”. Individually, each student writes ideas such as “there are producers and consumers”, “plants carry out photosynthesis” or “animals depend on one another”.
 
 Then students form pairs and build a shared text using both contributions, correcting errors and adding new relationships. In the whole-class discussion, the teacher collects the most repeated contributions and uses them to start the unit, identify prior ideas and formulate working questions.
+
+_Source: CRA Los Olivos. (2017). Cooperative learning techniques._
 
 **Related techniques:** 1 - 2 - 4, KWL (I know, I want to know, I have learned), Think-Pair-Share
 
@@ -2947,17 +2965,15 @@ _Keywords: individual responsibility, cooperation, formative assessment, review,
 
 The task can be completed orally or in writing. Unlike the "number" structure, in this one all teams have the opportunity to earn a reward.
 
-Source: Pérez, M. (2015). Cooperative Dynamics.
-
----
-
 **Explanation of the technique:**
 
-#### Example
+**Example:**
 
 In mathematics, the teacher gives each team four proportionality exercises. Each student has a number from 1 to 4. The team solves the exercises and makes sure everyone understands the procedure: identifying quantities, checking whether the relationship is direct or inverse, and justifying the calculation.
 
 When time is up, the teacher calls a random number, for example 3. All students with that number answer on behalf of their teams. Since they do not know who will be chosen, the team must help all members understand the task, not just get a quick answer.
+
+_Source: Pérez, M. (2015). Cooperative Dynamics._
 
 **Related techniques:** Pencils in the Middle, Peer Instruction, STAD (Student Teams Achievement Divisions), One for All, Cold calling, Fan-N-Pick, Showdown
 
@@ -2996,13 +3012,13 @@ Development
 
 3. The teacher randomly asks for some answers from the pairs.
 
-Source: CRA Los Olivos. (2017). Cooperative Learning Techniques.
-
-#### Example
+**Example:**
 
 In a digital education lesson, the teacher poses several questions about social media use: “What are the advantages of sharing content online?”, “What risks can there be when publishing personal information?” and “What basic rules should we follow to communicate respectfully?”.
 
 Each pair discusses the questions for a few minutes and writes down two agreed ideas. Then the teacher randomly asks some pairs for their answers and builds a shared list of recommendations on the board. The technique activates prior experiences and turns them into shared criteria for responsible use.
+
+_Source: CRA Los Olivos. (2017). Cooperative Learning Techniques._
 
 **Related techniques:** Timed Pair Share, Appointment Clock, Think-Pair-Share, Three-Step Interview
 
@@ -3043,7 +3059,7 @@ Adapted from Orientacionandujar. (2017). Cooperative Learning: The Appointment C
 
 **Explanation of the technique:**
 
-#### Example
+**Example:**
 
 In a reading comprehension unit, each student completes their appointment clock with twelve classmates. The teacher announces the three o’clock appointment and asks: “What is the main idea of the text we have read?”. The pairs meet, compare their answers and write a shared sentence.
 
@@ -3093,7 +3109,8 @@ A brief cooperative learning technique that combines individual reflection, pair
 
 - To improve the quality of responses through peer review.
 
-#### Example
+**Example:**
+
 In biology, before explaining natural selection, the teacher asks: **Why do some bacteria become resistant to antibiotics?** Each student proposes an explanation, then compares it with their partner, and finally, several answers are gathered to begin the explanation.
 
 **Related techniques:** 1 - 2 - 4, Timed Pair Share, What I know and what we know, Detective Pairs, Discussion Pairs, Peer Instruction, Wait time, Stand Up–Hand Up–Pair Up, Three-Step Interview
@@ -3123,13 +3140,13 @@ _Keywords: group responsibility, cooperation, evaluation, problem-solving, conse
 
 3. The teacher randomly selects one solution from each group, and that solution becomes the grade for the entire team.
 
-Source: Educational Innovation Laboratory of the José Ramón Otero Cooperative. (2016). Cooperative Learning.
-
-#### Example
+**Example:**
 
 In mathematics, the teacher proposes four proportionality problems to be solved in teams. Each group discusses the procedures, checks the calculations and makes sure any member can explain the solution.
 
 At the end, the teacher randomly collects one notebook from each group. The correction of that exercise counts for the whole team. This encourages the group to review everyone’s work and not allow just one person to solve the task without the others understanding it.
+
+_Source: Educational Innovation Laboratory of the José Ramón Otero Cooperative. (2016). Cooperative learning._
 
 **Related techniques:** Pencils in the Middle, Numbered Heads Together, STAD (Student Teams Achievement Divisions)
 
@@ -3190,7 +3207,7 @@ Sources:
 
 - López, A. (2008). The Case Method
 
-#### Example
+**Example:**
 
 Secondary school students are studying economics and have to work on the case of a local company experiencing financial difficulties. The professor can provide students with information about the company, such as its finances, products or services, competition, etc., and ask them to analyze the situation and propose solutions to the problems the company is experiencing.
 
@@ -3274,7 +3291,8 @@ An active methodology focused on solving problems through a people-centered crea
 
 - Learn to improve a solution based on testing and feedback.
 
-#### Example
+**Example:**
+
 In a digitalization class, students design a solution to improve the organization of tasks within the class group. They interview classmates, define needs, propose ideas, create a prototype of a digital template, and test it for a week.
 
 **Resources:** [Brainstorming and voting](https://jjdeharo.github.io/directo/ideas.html)
@@ -3308,13 +3326,13 @@ _Keywords: questions, mutual help, formative assessment, cooperation, feedback_
 
 This structure is especially useful for highlighting the interaction (in this case, in the form of solidarity or mutual support) that must exist throughout the entire class, not just within a single team, since different teams help each other resolve doubts that a particular team has been unable to answer.
 
-Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to learn/learn to cooperate”) for teaching team learning: Implementing cooperative learning in the classroom.
-
-#### Example
+**Example:**
 
 After a lesson on linear equations, each student writes down a specific question: “Why does a term change sign when it moves to the other side?”, “What should I do if there are parentheses?” or “How can I check whether the solution is correct?”.
 
 First, the team tries to answer its members’ questions. Questions they cannot answer are placed in the class question bank. The teacher draws some of them and asks whether another team can explain them. At the end, the most repeated doubts are solved collectively, and the teacher identifies which aspects need further explanation.
+
+_Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to learn/learn to cooperate”) for teaching team learning: Implementing cooperative learning in the classroom._
 
 **Resources:** [Interactive wall](https://jjdeharo.github.io/directo/muro.html)
 
@@ -3353,13 +3371,13 @@ This technique is based on the gradual withdrawal of support.
 
 If necessary in steps 3 and 4, students can ask for help from the other pair or their partner, respectively.
 
-Source: *Team-Pair-Solo, Cuseu*, 2002 in Grup de recerca sobre aprenentatge entre iguals. (2016).
-
-#### Example
+**Example:**
 
 In a mathematics lesson, the teacher proposes three similar problems about percentages. The first is solved in teams of four: calculating the final price of a product with a discount and VAT. The second is solved in pairs: comparing two offers with different discounts. The third is solved individually: deciding which purchase option is cheaper and justifying the answer.
 
 At the end, the team compares the procedures used and reviews mistakes. The structure allows students to practise first with broad support, then with reduced support and finally independently.
+
+_Source: Team-Pair-Solo, Cuseu (2002) in Grup de recerca sobre aprenentatge entre iguals. (2016)._
 
 **Related techniques:** 1 - 2 - 4, Peer Tutoring, Team Assisted Individualization (TAI), Worked examples, Gradual release of responsibility
 
@@ -3393,9 +3411,8 @@ After an explanation or a topic previously covered in class, the teacher asks th
 
 5. If they find a correct answer, they move on to the next one; if not, they review the process to make the necessary corrections.
 
-Source: CRA Los Olivos. (2017). Cooperative Learning Techniques.
+**Example:**
 
-#### Example
 For example, imagine that you want to carry out an activity about the water cycle using the question-and-answer technique. After the presentation of the topic, the teacher would ask the students to think of a question or problem related to the water cycle and write it on a card. Some examples of difficulties or questions that students could formulate include:
 
 - How does transpiration occur?
@@ -3409,6 +3426,8 @@ For example, imagine that you want to carry out an activity about the water cycl
 Then, the students would work in teams to find the answers to the questions or problems they formulated. Once they found the answers, they would write them on the back of the card. Finally, the teams would exchange the cards with another team and try to solve the problems or questions written on them. If they found a correct answer, they would move on to the next one; if not, they would review their process to make the necessary corrections.
 
 In this way, with this technique, all students would have had the opportunity to reflect on the topic of the water cycle and to work as a team to find the answers to their difficulties. Furthermore, they would have been able to review and correct their problem-solving processes related to this topic.
+
+_Source: CRA Los Olivos. (2017). Cooperative Learning Techniques._
 
 **Related techniques:** The Sack of Doubts, Muddiest Point, Peer Instruction
 
@@ -3455,13 +3474,13 @@ It is very useful for promoting the equal participation of each and every member
 
 It will be very important to keep in mind and apply here one of the basic principles governing cooperative teamwork: the economy of resources. This concept refers to the fact that we don't give each student a sheet with the questions; instead, we provide only one sheet per base team. This significantly improves the active listening process, as students must pay attention to the coordinator's answer for each question; otherwise, they won't be able to successfully complete the task. Furthermore, it prevents some students from rushing ahead of the rest of the team in completing tasks.
 
-Source: Pérez, M. (2015). Cooperative Dynamics.
-
-#### Example
+**Example:**
 
 In biology, each team receives a sheet with four questions about nutrition: the function of carbohydrates, the difference between food and nutrient, the role of vitamins and the consequences of an unbalanced diet. The pencils remain in the middle while each question is discussed.
 
 The student responsible for the first question reads it and coordinates the contributions. Everyone must contribute an idea before writing. When the team reaches a shared answer, everyone takes their pencil and writes it in their notebook. Then the turn passes to the next classmate. This prevents one student from solving the whole task alone and promotes peer explanation.
+
+_Source: Pérez, M. (2015). Cooperative Dynamics._
 
 **Related techniques:** Numbered Heads Together, Placemat consensus, One for All, Cooperative Roles
 
@@ -3486,7 +3505,7 @@ _Keywords: research, problem-solving, cooperation, teamwork_
 
 See the section Problem-based learning (PBL).
 
-#### Example
+**Example:**
 
 In a unit on water pollution, the teacher presents a problematic situation: “Dead fish have appeared in a nearby river, and the local council wants to know what may be happening”. The class is organized into investigation groups, and each group takes on a line of inquiry: possible pollutants, land use near the river, effects on living organisms, environmental regulations and intervention proposals.
 
@@ -3530,27 +3549,20 @@ The following steps can be followed:
 
 7. Track how the chosen solution has been implemented and evaluate the results obtained.
 
-Example
+**Example:**
 
-This table summarizes ideas related to "how to improve academic performance":
+In a Year 9 class on study habits, the teacher poses the problem: "How can we improve academic performance?" Each team proposes solutions and anticipates their consequences in a table:
 
 | Solution | Effect or consequence |
+|---|---|
+| Organise time better | Improves time management and concentration |
+| Study in groups | Improves comprehension and problem-solving |
+| Get enough rest | Improves concentration and memory |
+| Eat healthily | Improves concentration and memory |
+| Set goals | Improves motivation and concentration |
+| Eliminate distractions | Improves concentration |
 
----|---|
-
-|Organize time better |Improves time management and concentration|
-
-|Study in groups |Improves comprehension and problem-solving skills|
-
-|Get enough rest |Improves concentration and memory|
-
-|Eat healthily |Improves concentration and memory|
-
-|Set goals |Improves motivation and concentration|
-
-|Eliminate distractions |Improves concentration|
-
-This matrix allows you to compare different solutions and assess which are the best options based on their potential effects or consequences.
+Once the matrix is complete, teams compare the options and justify which they consider most feasible for their specific situation.
 
 **Related techniques:** Design Thinking, Detect Patterns, Generate Solutions, Review the Consequences, Two-Column Method, NASA Game, Computational thinking, Fishbone diagram (Ishikawa)
 
@@ -3579,13 +3591,13 @@ This technique is very easy to apply. With this technique, students can be encou
 
 3. The teacher asks the spokesperson how they reached this consensus, what it is, and if they made any mistakes.
 
-Adapted from: Ártica School. (2018). We build our own learning.
-
-#### Example
+**Example:**
 
 In an economics lesson, the teacher asks: “How could we organize an exchange fair at school with a limited budget?”. Each student first writes their proposals in an individual area of the placemat: exchanging used books, a crafts workshop, a small concert, a publicity campaign or collecting reusable materials.
 
 Then the team shares the ideas and writes in the center only those on which everyone agrees. Finally, the spokesperson explains which proposals they reached consensus on and what criteria they used: cost, ease of organization, student participation and expected impact. The technique helps move from individual ideas to a reasoned collective decision.
+
+_Adapted from: Ártica School. (2018). We build our own learning._
 
 **Related techniques:** 1 - 2 - 4, Pencils in the Middle, Problem Situation, NASA Game
 
@@ -3626,14 +3638,15 @@ Tips:
 
 - Ensure they sometimes have the opportunity to practice this technique with more advanced classmates.
 
-Source: CRA Los Olivos. (2017). Cooperative Learning Techniques.
+**Example:**
 
-#### Example
 The teacher presents the following problem situation: "Your school is located in a neighborhood with a high concentration of traffic and pollution." Many students living in this neighborhood have started complaining of headaches and difficulty concentrating. How could you improve the air quality in your neighborhood?
 
 Each student spends a few minutes thinking about a possible solution to this problem and then divides into small groups. In these groups, they discuss the different solutions and work towards a consensus.
 
 Finally, the teacher randomly selects one member from each group to explain the solution(s) they have come up with. Some of the solutions that might emerge from this technique include: promoting the use of public transportation or bicycles instead of private vehicles, improving the quality of vehicle filters, promoting awareness campaigns about pollution, planting trees in the neighborhood to improve air quality, etc.
+
+_Source: CRA Los Olivos. (2017). Cooperative Learning Techniques._
 
 **Related techniques:** Apply Knowledge, Case-Based Learning (CBL), Problem-Based Learning (PBL), Generate Solutions, Placemat consensus
 
@@ -3669,7 +3682,7 @@ Similar to STAD, but replaces individual tests with weekly tournaments.
 #### Objectives
 Increase motivation and ensure that all students (high or low skill level) have an equal opportunity to succeed.
 
-#### Example
+**Example:**
 
 In language class, base teams prepare a set of cards during the week on grammatical categories: nouns, adjectives, verbs, adverbs and prepositions. They practise together with examples and make sure everyone can justify each answer.
 
@@ -3714,7 +3727,8 @@ Interleaved practice mixes problems or tasks of different types within the same 
 - Avoid the apparent mastery produced by homogeneous blocks.
 - Develop flexible understanding.
 
-#### Example
+**Example:**
+
 In a 20-minute mathematics session, the teacher mixes equations, systems, percentages and proportionality problems. Before calculating, each student writes: “This problem is about...” and justifies which procedure they will apply.
 
 **Related techniques:** Peer Instruction, Retrieval practice, Spaced practice, Cognitive load theory
@@ -3752,7 +3766,8 @@ Worked examples are problems that have already been solved step by step, with ex
 - Support the gradual move towards autonomy.
 - Improve understanding of complex tasks.
 
-#### Example
+**Example:**
+
 In physics, before solving kinematics problems, the teacher shows an example where data are identified, the formula is chosen, units are substituted and the reasonableness of the result is checked. Students then complete a similar problem with some steps left blank.
 
 **Related techniques:** Team-Pair-Solo, Peer Tutoring, Gradual release of responsibility, Think-aloud, Orientation guides, Cognitive load theory, Concrete examples
@@ -3786,7 +3801,7 @@ Its formative value lies in the design cycle: prototype, test, fail, adjust and 
 4. They test the prototype, detect what fails and improve it over successive iterations.
 5. They share the final product and reflect on the process, the errors and what was learned.
 
-#### Example
+**Example:**
 
 Faced with the challenge “design a device that warns when a plant needs water”, learners combine science (soil moisture), technology and coding (a sensor and a programmable board) and design (the casing). They build a first prototype that does not work well, adjust the code and sensor, and after several tests achieve a working alert, documenting each iteration in a project report.
 
@@ -3823,7 +3838,7 @@ Its four pillars are: decomposition (dividing the problem), pattern recognition 
 4. Abstraction: they identify the essential data and rules and leave out the incidental.
 5. Algorithm: they design a precise sequence of steps to solve it, test it and debug it if it fails.
 
-#### Example
+**Example:**
 
 To organise the schedule for using a single computer among several groups, learners decompose the problem (how many groups, how much time, what priorities), recognise the pattern of rotating turns, abstract the key rules (everyone must use it for the same time) and design a step-by-step allocation algorithm. They test it with cases and adjust it: they have solved a real problem applying computational thinking without coding anything.
 
@@ -3873,7 +3888,7 @@ The purpose is to play|The game is the driving force|The game is the reward|
 
 Adapted from Wikipedia.
 
-#### Example
+**Example:**
 
 An example of game-based learning (GBL) in secondary education could be the following:
 
@@ -3925,7 +3940,8 @@ A methodology in which learning is organized around questions, observations, or 
 
 - To connect data, explanations, and conclusions.
 
-#### Example
+**Example:**
+
 In biology, students investigate why some seeds germinate better than others. They design a small test with different light or humidity conditions, collect data, and justify their conclusions.
 
 **Related techniques:** Research-Based Learning (RBL), Laboratory-Based Learning, Discovery Learning, 5E Instructional Model, Generate Hypotheses, Detective Pairs, Think, Puzzle, Explore, Centers of Interest (Decroly Approach), Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Concept Cartoon, WebQuest
@@ -3963,13 +3979,13 @@ Just as PBL (Problem-Based Learning) allows overcoming the limitation of "silenc
 
 - Phase 3. Presentation of the experience. Finally, students reflect on, share, and evaluate the experience.
 
-Adapted from: Esteban, M. (2011). From “Problem-Based Learning” (PBL) to “Action-Based Learning” (ABL). Keys to their complementarity and implementation.
-
-#### Example
+**Example:**
 
 An example of action-based learning (ABL) in secondary education could be the following:
 
 Imagine that secondary school students are studying the environment and the teacher wants to use ABL to help them better understand the importance of protecting natural resources. The teacher can plan an activity in which students work collaboratively to research a specific environmental problem, such as water degradation or air pollution, in their community. They then design an awareness campaign to promote the preservation of natural resources and present it to the rest of the class. This activity includes both contextualized tasks, such as conducting interviews or making field observations, and decontextualized tasks, such as using digital resources or creating promotional materials. At the end of the activity, the students reflect on the process they followed and share the results of their campaign with the class. This example shows how ABL can use a combination of contextualized and decontextualized situations to help students connect with their environment and develop skills and knowledge in a meaningful way.
+
+_Adapted from: Esteban, M. (2011). From “Problem-Based Learning” (PBL) to “Action-Based Learning” (ABL). Keys to their complementarity and implementation._
 
 **Related techniques:** Challenge-Based Learning (ChBL), Experiential Learning, Service-Learning, Centers of Interest (Decroly Approach)
 
@@ -4013,7 +4029,7 @@ Sources:
 
 - Wikipedia.
 
-#### Example
+**Example:**
 
 Imagine a group of high school students are interested in learning about **energy conservation and climate change**. Their teachers decide to use project-based learning to help them explore this topic more deeply.
 
@@ -4070,9 +4086,7 @@ When referring to Challenge-Based Learning, the following phases are usually dis
 
 3. **Evaluation**. Self-assessment and learning from mistakes will be fundamental parts of the natural evolution of the work. There will also be ongoing evaluation by the teacher(s) involved, as well as possible external evaluations from other stakeholders participating in achieving the established objectives. Both formal and informal assessment tools will be used.
 
-Source: Mosquera, I. (2019). Challenge-Based Learning: Accept the Challenge!
-
-#### Example
+**Example:**
 
 An example of a problem that a school or the neighborhood where it is located might have is the lack of outdoor benches. This lack of street furniture can affect the community's quality of life, since the presence of places to rest or socialize is important for the well-being of residents.
 
@@ -4089,6 +4103,8 @@ Example of applying Challenge-Based Learning to solve this problem:
 - Dissemination of the Work: Students can create a video or presentation to explain the proposed solutions and the results obtained. They can also write an article for a local magazine or give a presentation to the community.
 
 - Evaluation: Students will conduct a self-evaluation to reflect on the process followed and the results obtained. An evaluation will also be carried out by the teacher(s) involved. If deemed necessary, external evaluations can be requested from other stakeholders in the neighborhood to obtain a broader perspective on the work undertaken.
+
+_Source: Mosquera, I. (2019). Challenge-Based Learning: Accept the Challenge!_
 
 **Related techniques:** Action-Based Learning (ABL), Problem-Based Learning (PBL), Design Thinking, Service-Learning, Maker learning / STEAM, Genius Hour
 
@@ -4119,7 +4135,7 @@ The activities that can be used in this methodology can be very diverse, such as
 
 This type of learning can be included in the category of discovery learning.
 
-#### Example
+**Example:**
 
 An example of experiential learning could be an activity in which biology students visit a nature reserve to observe different species of animals and plants firsthand, as well as their habitat and behavior. This activity will allow them to experience firsthand the concepts they are studying in class, such as biodiversity, ecosystems, and the life cycles of living things.
 
@@ -4165,7 +4181,7 @@ Sources:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Cooperative Learning at the University
 
-#### Example
+**Example:**
 
 1. The professor proposes the topic "The Importance of the Oceans in the Planet's Climate."
 
@@ -4204,15 +4220,13 @@ The planning and development of multimedia projects in the form of a story (digi
 
 Digital stories can be created by teachers, but with appropriate guidance, students can also create them (for more details, see 8 Steps to Implement Storytelling in the Classroom).
 
----
-
-Source: Digital Storytelling in De Haro, J.J. (2022). Open ICT Tools and Services for Education.
-
-#### Example
+**Example:**
 
 In a biology unit on infectious diseases, students create a three-minute digital story titled “The Journey of a Virus”. Each team chooses a point of view: an infected cell, a sick person, the immune system or a medical team.
 
 The final product combines a short narration, images, simple diagrams, music or sound effects and a scientific conclusion. The teacher asks the story to include concepts such as transmission, immune response, prevention and treatment. When presenting it, each group explains the narrative choices they made and the scientific content they wanted to communicate.
+
+_Source: Digital Storytelling in De Haro, J.J. (2022). Open ICT Tools and Services for Education._
 
 **Related techniques:** Project-Based Learning (PjBL), Headlines, Visual Thinking, SAMR Model
 
@@ -4256,7 +4270,8 @@ Classroom organization into different stations or workspaces. At each station, s
 
 - To gather varied evidence of learning.
 
-#### Example
+**Example:**
+
 In biology, one station involves observing samples, another image analysis, another answering questions, and another creating a diagram. All groups rotate through all the stations.
 
 **Related techniques:** Flipped Classroom, Universal Design for Learning (UDL), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching, Personalised learning playlists
@@ -4295,7 +4310,7 @@ Rotating written brainstorming.
 #### Objectives
 To generate a large number of ideas collaboratively and quickly.
 
-#### Example
+**Example:**
 
 Before starting a project on improving the school playground, the teacher places four large posters with different questions: “What problems does the playground have?”, “What uses should it allow?”, “What rules would be necessary?” and “What improvements would be easy to implement?”.
 
@@ -4332,10 +4347,11 @@ This is a simplified version of the jigsaw puzzle technique.
 
 1. Then, in the second phase of the session, each student returns to their original team, and each one will have to explain or teach the rest of their teammates what their respective "experts" have taught them. In this way, within each base team, they exchange what each individual has learned from their corresponding "expert."
 
-Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to learn/learn to cooperate”) for teaching team learning: Implementing cooperative learning in the classroom.
+**Example:**
 
-#### Example
 For example, imagine that you want to carry out an activity on the use of weak pronouns in Catalan. You could select four students who consider themselves to have already mastered this topic and ask them to prepare to explain it to the others. Next, the group would be divided into teams of four students, and one student from each team would visit one of the "wise men" to receive instruction on the use of weak pronouns. After this initial phase, each student would return to their team and explain to their classmates what they had learned from the "wise man" they visited. In this way, all students would have learned about the use of weak pronouns thanks to the explanations provided by the different "wise men."
+
+_Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to learn/learn to cooperate”) for teaching team learning: Implementing cooperative learning in the classroom._
 
 **Related techniques:** CO-OP CO-OP, Jigsaw, Peer Tutoring, Parallel Teams
 
@@ -4382,7 +4398,15 @@ _Keywords: hypotheses, prior knowledge, pairs, problem-solving, curiosity_
 
 1. Finally, the teacher begins explaining the unit, starting with the initial question and the chosen solutions.
 
-Source: CRA Los Olivos. (2017). Cooperative Learning Techniques
+**Example:**
+
+In a Year 8 class beginning a unit on the Industrial Revolution, the teacher asks: "Why do you think factory workers in the 19th century started to organise collectively?"
+
+Each student reflects silently and writes down two possible hypotheses — for example, "because working conditions were terrible" and "because they wanted more power against the owners." Students then pair up and ask each other about their hypotheses, writing them down without debating or correcting.
+
+The teacher collects all the hypotheses on the board: ideas about wages, working hours, solidarity, economic pressure… The teacher then comments on the range of explanations — without yet saying which is correct — and launches the unit's explanation starting from those very hypotheses.
+
+_Source: CRA Los Olivos. (2017). Cooperative learning techniques._
 
 **Related techniques:** Inquiry-Based Learning, Generate Hypotheses, Think-Pair-Share
 
@@ -4419,7 +4443,7 @@ Sources:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Cooperative Learning at the University
 
-#### Example
+**Example:**
 
 In a literature lesson, the teacher asks: “What traits can a main character have?”. Each student thinks for a few seconds and, in pairs, they alternate answers: “has a goal”, “changes throughout the story”, “faces a conflict”, “makes decisions”, “has allies or rivals”.
 
@@ -4462,7 +4486,7 @@ Sources:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Cooperative learning in the university
 
-#### Example
+**Example:**
 
 In a tutoring session, the teacher asks the group: “What could we do to make the school library used more often?”. In teams of four, each student contributes one idea during their turn: extending opening hours, creating reading recommendations, reserving a quiet study area, organizing reading clubs, displaying new books or allowing student suggestions.
 
@@ -4510,7 +4534,8 @@ A collaborative dialogue activity in small groups that rotate through several ta
 
 - Build a collective synthesis on a broad topic.
 
-#### Example
+**Example:**
+
 In a unit on sustainability, each table addresses one question: water consumption, energy, waste, mobility, and food. The groups rotate, complete the ideas, and finally develop proposals for the center.
 
 **Related techniques:** Gallery Walk, Cooperative Graffiti, The 4Cs of Learning, Nominal Group Technique, Chalk Talk
@@ -4549,7 +4574,8 @@ A globalizing approach that organizes learning around students' needs, interests
 - To globalize content from several subject areas.
 - To start from direct experience and students' needs.
 
-#### Example
+**Example:**
+
 Starting from the center of interest “food”, students observe daily habits, analyze labels, calculate proportions, study nutrients, and develop improvement proposals.
 
 **Related techniques:** Inquiry-Based Learning, Action-Based Learning (ABL), Experiential Learning, Learning Stations
@@ -4597,7 +4623,8 @@ Its distinctive feature is that the investigation does not end when data are obt
 - In general inquiry, producing an explanation or conclusion may be enough; in ADI the argument must be defended, revised and transformed into a final report.
 - ADI follows a more structured sequence, especially useful when the aim is to teach students how to argue scientifically.
 
-#### Example
+**Example:**
+
 In biology, the teacher asks: “Does light affect seed germination?”. Each group designs a small investigation with seeds in light and dark conditions, controls variables such as water and temperature, and records results over several days.
 
 Then each group prepares a tentative argument. For example: “Light is not necessary for initial germination, because a similar number of seeds germinated in both groups”. During the argumentation session, other groups ask whether humidity was properly controlled, whether the number of seeds was sufficient, or whether the group measured only germination or also growth.
@@ -4641,7 +4668,8 @@ Gradual release of responsibility is a scaffolding model in which responsibility
 - Withdraw support progressively.
 - Foster autonomy and confidence.
 
-#### Example
+**Example:**
+
 To solve geometry problems, the teacher solves one problem while thinking aloud for 5 minutes. Then they solve another with the class. Next, pairs work on a third problem and, finally, each student solves a similar one individually.
 
 **Related techniques:** Team-Pair-Solo, Peer Tutoring, Worked examples, Think-aloud, Cognitive load theory, Scaffolding and zone of proximal development (ZPD)
@@ -4677,7 +4705,7 @@ Using varied examples (not just one) helps abstract the essence of the concept a
 4. Ask learners to contribute their own examples from their experience.
 5. Check the quality of those examples: if they are correct, the concept is understood; if not, clarify it.
 
-#### Example
+**Example:**
 
 When teaching the concept of “inflation”, instead of stopping at the definition, the teacher shows concrete examples: the price of bread rising every year, the cinema ticket that cost less a decade ago, the bus fare. Then each student is asked for an example from their own daily life. Comparing several cases helps capture the shared idea of loss of purchasing power.
 
@@ -4755,8 +4783,8 @@ Sources:
 
 - Lamelo, O.S. (2015). Critical Thinking Toolbox
 
----
-#### Example
+**Example:**
+
 An example of research-based learning could be a group of students who want to investigate the effect of different types of fertilizers on plant growth.
 
 1. Identify problems or problematic situations that require investigation. The students have identified the effect of different types of fertilizers on plant growth as a problem or problematic situation to investigate.
@@ -4842,7 +4870,7 @@ This method provides students with skills such as research and information manag
 
 1. How will I present my findings?
 
-#### Example
+**Example:**
 
 In a biology lab activity, the teacher asks the question: “Does light affect seed germination?”. Students formulate a hypothesis, for example: “Seeds will germinate better with light than without light”.
 
@@ -4899,9 +4927,8 @@ Developing a unit through structured and prioritized questions to achieve meanin
 
 The questions should always be prioritized (from factual to creative).
 
-Source: IPCHILE. (2019). Worksheet for Implementing and Evaluating Question-Based Learning Methodology for Understanding
+**Example:**
 
-#### Example
 In a unit on the history of Western music, the teacher has decided to use question-based learning methodology to encourage and reinforce students' understanding of the course's core content. Therefore, they have developed a guide of hierarchically structured questions with the following categories:
 
 1. Factual Questions: What are the three most important periods in Western music? What are the most characteristic instruments of each period? Who are the most prominent composers of each period?
@@ -4911,6 +4938,8 @@ In a unit on the history of Western music, the teacher has decided to use questi
 3. Problem-Solving or Creative Questions: If we could create a new musical era, what would its characteristic elements be? What would be the most important influences for this new era? How would music adapt to new technologies?
 
 The teacher has divided the students into groups of three and assigned each group one of the periods of Western music. The students must work in teams to develop a set of questions using the three categories mentioned above for their assigned period. Then, each group will present their questions to the rest of the class, who will answer them. In this way, learning will develop collaboratively and metacognitively, as students must use their prior knowledge, synthesize the information they have acquired, organize and prioritize it, and apply their knowledge to new situations.
+
+_Source: IPCHILE. (2019). Worksheet for Implementing and Evaluating Question-Based Learning Methodology for Understanding_
 
 **Related techniques:** Think, Puzzle, Explore, Ask Why, Ask and Answer, Question Formulation Technique (QFT), Question Starts
 
@@ -4961,7 +4990,7 @@ _Keywords: problem-solving, research, autonomy, cooperation, presentation, refle
 
 **OBSERVATIONS AND PRACTICAL ADVICE:** The problem does not have to have a single "correct" solution, but rather it must allow for different approaches and discussions. The teacher's role shifts from being a transmitter of knowledge to being a tutor or facilitator who guides the process without directly providing the answers. It is essential that the problem is well-designed and motivating for the students. It is important to ensure that the groups have access to varied and reliable sources of information.
 
-#### Example of Problem-Based Learning (PBL) Application:
+**Example:**
 
 In the Technology subject, the challenge is to design an automatic irrigation system for the school garden that is sustainable and low-cost.
 
@@ -5010,7 +5039,7 @@ Discovery learning can be divided into two main categories: **guided discovery l
 
 - **Free discovery learning**, on the other hand, involves students having considerable freedom to explore and discover concepts or skills on their own, without any external guidance or assistance. This methodology is based on the idea that students learn best when they have the opportunity to discover concepts independently, as this allows them to make their own connections and relationships with what they already know.
 
-#### Examples
+**Example:**
 
 ### Examples of Guided Discovery Learning
 - A group of science students are studying nutrition and have to design a balanced menu for a week. The teacher provides students with a list of the different food categories that must be included in the menu (proteins, legumes, vegetables, etc.), as well as the recommended amounts for each category. Students must use this information to select the foods they want to include in their menu and justify their choices.
@@ -5062,7 +5091,8 @@ Criteria to promote participation and interaction:
 
 Adapted from Pujolàs, P. & Lago, J. R. (2011). The CA/AC program for learning cooperatively.
 
-#### Example
+**Example:**
+
 The teacher writes key words such as “communication”, “leadership”, “team” and “conflict resolution”. Each student writes a sentence with one word, the team revises it, and finally they organize the sentences into a shared outline or concept map.
 
 **Resources:** [Word cloud](https://jjdeharo.github.io/directo/nube.html)
@@ -5100,7 +5130,7 @@ It is not about adding decorative pictures, but about using visual representatio
 4. Avoid overload: image and text should refer to the same thing and sit close together, not compete for attention.
 5. When reviewing, have them retrieve the mental image first and then verbalise it, or the other way around.
 
-#### Example
+**Example:**
 
 When studying the water cycle, instead of only reading a paragraph, learners draw a diagram with arrows (evaporation, condensation, precipitation) and label each phase in their own words. Then they cover the text and explain the cycle looking only at the drawing, and next cover the drawing and describe it in words. The two channels reinforce each other.
 
@@ -5127,9 +5157,13 @@ _Keywords: role, perspective, decision-making, communication, problem-solving_
 
 This technique involves having participants take on the role of a specific character and engage in an activity or situation where they must make decisions and solve problems. This technique promotes collaboration and communication among group members, as they must work together to resolve the role-playing challenges. Furthermore, it can also foster reflection and understanding of different topics or concepts, because participants must empathize with a character and understand their motivations and decisions.
 
-An example of the role-playing technique could be the following:
+**Example:**
 
-Imagine that the group is studying World War II. Participants can divide themselves into different roles, such as political leaders, military personnel, or ordinary citizens from the various countries involved in the war. The group will then have to resolve a series of problems or dilemmas related to the war, such as what decisions each role would make in certain situations or what the consequences of those decisions would be. Thus, participants will have to work together to solve the role-playing challenges while simultaneously reflecting on the different perspectives and motivations of the various characters.
+In a Year 10 class studying World War I, the teacher divides the group into three sides: representatives of the Austro-Hungarian Empire, the British Empire, and Serbia. Each team receives a role card with their country's historical position, alliances, and interests.
+
+The challenge: respond to the assassination of Archduke Franz Ferdinand. Each side deliberates internally for five minutes and formulates their official response. Then, in a plenary session, the representatives negotiate, try to prevent military escalation, and must argue their position using real historical data.
+
+At the end, the teacher presents what actually happened and the group reflects on which decisions could have changed the course of history and why none of the sides took them.
 
 **Related techniques:** Case-Based Learning (CBL), Circle of Viewpoints, Role on the Wall (Character Silhouette), Step Inside
 
@@ -5166,7 +5200,7 @@ This technique allows for a deeper understanding among classmates.
 
 Adapted from Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to learn/learn to cooperate”) for teaching team learning: Implementing cooperative learning in the classroom.
 
-#### Example
+**Example:**
 
 During the first week of cooperative teamwork, the teacher forms random pairs and gives them a short interview guide: “What are you good at?”, “What is harder for you in class?”, “How do you prefer to work?”, “What can you contribute to a team?” and “What do you need from your classmates to work better?”.
 
@@ -5215,7 +5249,7 @@ To carry it out, we can do the following:
 
 1. Finally, summarize the agreements and solutions reached in the roundtable discussion, and assign responsibilities for their implementation.
 
-#### Example
+**Example:**
 
 In a tutoring session, the group holds a round table on the question: “How can we improve mobile phone use during lessons and breaks?”. Each student has a short turn to express an opinion, share an experience or propose a rule.
 
@@ -5266,7 +5300,7 @@ The activity consists of four rounds of three steps each.
 
 Explanation of the technique (simplified version):
 
-#### Example
+**Example:**
 
 In a social sciences lesson, the group reads a short text about the causes of the French Revolution. In teams of four, the first student reads the first paragraph; the second summarizes it in their own words; the third and fourth check whether the summary includes the essential ideas and add clarifications.
 
@@ -5303,7 +5337,7 @@ It involves reading a text together; when one person finishes, another begins vo
 
 This technique is worth practicing more than once, as skills improve significantly over time.
 
-#### Example
+**Example:**
 
 In a language lesson, the teacher begins reading a short story aloud. After a few lines, the teacher stops at a natural point in the reading. A student continues voluntarily and, when they think it is appropriate, stops so that another classmate can continue.
 
@@ -5338,17 +5372,13 @@ At the end of a topic, as a final synthesis, each team can create a concept map 
 
 3. Then, they will share the parts they have prepared, review the coherence of the resulting map or diagram, and, if necessary, refine it before finalizing it and making a copy for each student, which will serve as study material.
 
-Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC (“cooperate to learn/learn to cooperate”) program for teaching teamwork and implementing cooperative learning in the classroom.
-
----
-
-**Explanation of the technique:**
-
-#### Example
+**Example:**
 
 At the end of a unit on the nervous system, the teacher agrees with the class on the main sections of the concept map: neurons, central nervous system, peripheral nervous system, reflex actions and coordination.
 
 In each team, one student prepares the part on neurons, another the central nervous system, another the peripheral nervous system and another reflex actions. Then they share their parts and build a single concept map with clear connectors: “transmits”, “coordinates”, “receives information”, “responds to stimuli”. Before finishing it, they check whether the relationships are correct and whether any important concept is missing.
+
+_Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC programme ("cooperating to learn/learning to cooperate") for teaching team learning._
 
 **Resources:** [BoardLive: Collaborative whiteboard](https://boardlive.github.io/)
 
@@ -5428,9 +5458,8 @@ This is the time to analyze the results of the service and reflect in order to i
 
 (Wikipedia)
 
----
+**Example:**
 
-#### Example
 Creation of a community garden in a neighborhood with few green spaces and a high concentration of people with economic difficulties. The project would be divided into the following phases:
 
 1. Planning:
@@ -5501,7 +5530,8 @@ It can be used in science, mathematics, language arts, history, economics or any
 5. They propose non-examples and explain why they do not belong to the concept.
 6. The class reviews the organiser to improve precision and understanding.
 
-#### Example
+**Example:**
+
 In mathematics, for the concept “function”, students write a definition, identify characteristics such as each input value having a single output value, add examples of functions using tables or graphs, and include non-examples where the same input has two different outputs.
 
 **Related techniques:** Analyze and Synthesize, Compare and Contrast, Four-Part Concept Map, Word-Phrase-Sentence, Visual Thinking, Depth of Knowledge (DOK), Generate, sort, connect, elaborate, Concrete examples, Venn diagram
@@ -5534,7 +5564,8 @@ It can be carried out in small groups, with rotating roles, or through initial m
 5. Roles rotate so that everyone practises the different strategies.
 6. The activity closes with a shared synthesis of the text.
 
-#### Example
+**Example:**
+
 In biology, the group reads a text about vaccines. One student summarises the first paragraph, another asks a question about the immune response, another clarifies the meaning of “antibody”, and another predicts what will be explained next about immune memory. Reading becomes an active and shared process.
 
 **Related techniques:** Shared Reading, Word-Phrase-Sentence, Ask Why, Ask and Answer, Socratic Seminar, Dialogic Gathering, Think-aloud, Cornell notes
@@ -5577,7 +5608,8 @@ The routine is based on a simple rule: each person adds “one more thing” tha
 - Encourage brief cooperation focused on improvement.
 - Develop precision, synthesis and useful feedback.
 
-#### Example
+**Example:**
+
 In biology, after explaining mitosis, each student spends 4 minutes writing a summary of the main phases. The summaries circulate around the table and each peer has 2 minutes to add one improvement in a different colour: a detail, a correction or a question.
 
 After three rounds, the summary returns to its author. Each student spends 3 minutes reviewing the contributions and writes a final five-line version. The whole activity can be completed in about 15 minutes.
@@ -5619,7 +5651,8 @@ Cornell notes are a note-taking system that divides the page into three areas: m
 - Foster synthesis and autonomous study.
 - Help detect what is understood and what needs review.
 
-#### Example
+**Example:**
+
 In history, during an explanation of the Second Republic, students take notes for 20 minutes. At the end, they spend 5 minutes writing questions in the side column: causes, reforms, opposition and ending. They then write a four-line synthesis.
 
 **Related techniques:** Minute Paper, Word-Phrase-Sentence, Reciprocal Teaching, Retrieval practice, Spaced practice
@@ -5659,7 +5692,8 @@ The one-sentence summary is a synthesis technique in which students condense wha
 - Check understanding quickly.
 - Encourage clear writing.
 
-#### Example
+**Example:**
+
 After studying the Second Republic, students spend 3 minutes writing a sentence that includes chronology, political nature, reforms and ending. They then compare their sentence with a peer and both check whether any essential element is missing.
 
 **Related techniques:** Analyze and Synthesize, Minute Paper, Word-Phrase-Sentence, Headlines
@@ -5695,7 +5729,7 @@ It is especially useful with content made up of facts that may seem arbitrary bu
 4. Compare the explanations: the correct one is validated, incomplete ones are refined and wrong ones are corrected.
 5. Repeat the process with the following facts, chaining explanations together.
 
-#### Example
+**Example:**
 
 In science, faced with the statement “desert animals tend to be nocturnal”, learners do not just memorise it but answer “why?”: because daytime temperatures are extreme and coming out at night reduces water loss and the risk of overheating. By elaborating the cause, the fact stops being arbitrary and is easily remembered.
 
@@ -5733,7 +5767,7 @@ Its hallmark is a fixed structure of sections that guides the whole process and 
 5. Evaluation: shows the rubric the work will be judged with, known from the start.
 6. Conclusion: closes by recalling what was learned and inviting transfer or further inquiry.
 
-#### Example
+**Example:**
 
 In a WebQuest on renewable energy, the task asks for a proposal to install a system at the school. Learners, in groups with roles (economist, engineer, ecologist), consult the provided web resources, compare technologies and costs, and prepare a presentation. The rubric, known from the start, assesses the rigour of the data, the argumentation and the quality of the product.
 
@@ -5770,7 +5804,7 @@ Unlike the concept map (which links concepts with labelled connectors forming pr
 4. Use different colours per branch and add drawings or icons that aid recall.
 5. Review and reorganise: add connections between branches if you discover new relationships.
 
-#### Example
+**Example:**
 
 To review the digestive system, learners draw a stomach in the centre and colourful branches radiate out: “organs”, “process”, “nutrients”, “diseases”. Each branch ramifies with keywords and icons. In building it, learners decide what is main and what is secondary and how everything connects, which forces them to structure the content and makes it easier to recall at a glance.
 
@@ -5807,7 +5841,7 @@ It forces you not to settle for the first explanation, but to explore different 
 4. Go deeper by asking “why?” at each cause, to reach the roots rather than the symptoms.
 5. Analyse the complete diagram and identify the most likely or influential causes to act on.
 
-#### Example
+**Example:**
 
 Faced with the problem “a lot of time is lost at the start of lessons”, the group draws the fishbone and groups causes: organisation (materials not ready), rules (they arrive late), space (badly arranged desks), habits (slow to get out their notebook). Seeing it all together, they identify that the most influential root cause is the lack of a start-of-class routine, and decide to act on it.
 
@@ -5844,7 +5878,7 @@ It is a very versatile organiser: it works for history as well as for the develo
 4. Mark durations (with bars or spans) and indicate simultaneity or relationships between events.
 5. Interpret the timeline: analyse sequences, rhythms, periods of change and possible causes and effects.
 
-#### Example
+**Example:**
 
 When studying the contemporary era, learners build a to-scale timeline with revolutions, wars and technological advances. Seeing them ordered and proportioned, they discover that certain inventions coincide with social changes and that some conflicts chain together, understanding not only what happened but when, in what order and how events relate to one another.
 
@@ -5881,7 +5915,7 @@ It is a simple but powerful tool for training rigorous comparison: it forces you
 4. Review the distribution and discuss the doubtful cases (is it really common or just similar?).
 5. Draw conclusions from what is exclusive and what is shared.
 
-#### Example
+**Example:**
 
 To compare mammals and birds, learners draw two circles. In the mammals one: hair, mammary glands; in the birds one: feathers, beak, shelled eggs; in the overlap: vertebrates, lung breathing, warm blood. By placing each feature, learners understand precisely what both groups have in common and what distinguishes them.
 
@@ -5919,11 +5953,8 @@ This structure is suitable for reviewing the topic(s) covered so far and prepari
 
 - If a question has already been asked, it cannot be repeated, and the team that asked it is skipped.
 
-Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to learn/learn to cooperate”) for teaching team learning: Implementing cooperative learning in the classroom.
+**Example:**
 
---
-
-#### Example
 The biology teacher has been working on the concepts of blood circulation with his students. To check the students' knowledge and prepare them for the exam, he decides to use the question chain structure.
 
 1. The teacher divides the class into four teams and explains the rules of the activity. Each team has three minutes to think of a question about blood circulation to ask the next team.
@@ -5933,6 +5964,10 @@ The biology teacher has been working on the concepts of blood circulation with h
 1. Once the first round is over, three more minutes are given to think of new questions, and a second round begins in reverse: Team D asks a question to Team A, who answers it and asks a question to Team B, and so on until the last team, Team C, asks a question to Team D.
 
 1. At the end of the activity, the teacher summarizes the students' understanding and identifies areas that need further work. The teacher also reviews the key concepts of blood circulation to ensure that all students have grasped them.
+
+_Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to learn/learn to cooperate”) for teaching team learning: Implementing cooperative learning in the classroom.
+
+--_
 
 **Related techniques:** Three-Minute Pause, Ask and Answer, Quiz-Quiz-Trade, Question Starts
 
@@ -5976,7 +6011,8 @@ An explicit agreement between student and teacher regarding objectives, tasks, t
 
 - To improve self-regulation and formative assessment.
 
-#### Example
+**Example:**
+
 In a research project, each student agrees with the teacher on the research question, the sources to be consulted, the final product, and the deadlines for partial submissions.
 
 **Related techniques:** Learning Journal, Portfolio (learning dossier), Visible Learning, Orientation guides, Genius Hour, Personalised learning playlists
@@ -6021,7 +6057,8 @@ A visual self-assessment or peer-assessment tool that allows for the evaluation 
 
 - To help formulate proposals for improvement.
 
-#### Example
+**Example:**
+
 After an oral presentation, each student evaluates clarity, mastery of the content, use of visual aids, and team participation. They then write a specific action for improvement.
 
 **Resources:** [Rating scale](https://jjdeharo.github.io/directo/escala.html)
@@ -6068,7 +6105,8 @@ A very brief formative assessment technique that allows for the quick collection
 
 - What question would you ask to check if someone has understood?
 
-#### Example
+**Example:**
+
 After studying mitosis, students write on a card the most important difference between mitosis and meiosis and one question they still have.
 
 **Resources:** [Exit tickets](https://jjdeharo.github.io/directo/ticket.html)
@@ -6112,7 +6150,8 @@ Formative assessment technique focused on identifying the aspect that students f
 
 - To adjust teaching based on quick observations.
 
-#### Example
+**Example:**
+
 After explaining exponential functions, several students indicate that the most confusing point was interpreting the meaning of the base. The teacher prepares a short activity with comparative graphs.
 
 **Resources:** [Exit tickets](https://jjdeharo.github.io/directo/ticket.html)
@@ -6155,13 +6194,13 @@ It is very useful for assessing what students have understood from the explanati
 The three questions can be replaced with writing three sentences that reflect the most important points of what has been explained previously.
 We can combine this structure with the 1-2-4 structure to ensure equal participation from all members of the base team. The completion of the task by the teams can be accompanied by a reward from the group and the teacher, such as praise, a good grade, etc.
 
-Source: Pérez, M. (2015). Cooperative Dynamics.
-
-#### Example
+**Example:**
 
 During an explanation about cellular respiration, the teacher pauses after explaining glucose, oxygen and energy production. Each team has three minutes to formulate three questions. One team writes: “Why is oxygen needed?”, “What is the difference between cellular respiration and breathing?” and “Where does this process take place?”.
 
 Then each team asks one question. The teacher notices that several doubts are focused on confusing gas exchange with cellular respiration, so this difference is clarified before continuing. The pause allows the teacher to adjust the explanation while learning is still in progress.
+
+_Source: Pérez, M. (2015). Cooperative Dynamics._
 
 **Related techniques:** Chain of Questions, The Sack of Doubts, Listener Teams, Minute Paper, Wait time
 
@@ -6205,7 +6244,8 @@ A technique developed by Eric Mazur in which students first answer a conceptual 
 
 - To improve conceptual understanding through peer explanation.
 
-#### Example
+**Example:**
+
 In mathematics, the teacher poses a question about conditional probability with four options. After the first individual answer, students compare arguments with a partner and vote again before discussing the solution.
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
@@ -6245,13 +6285,13 @@ The structure of the learning portfolio should be clearly defined by the instruc
 
 4. Self-assessment: reflection on the process.
 
-Adapted from: Liarte, R. (2015). The portfolio as an assessment tool.
-
-#### Example
+**Example:**
 
 In a language and literature subject, students create a digital portfolio throughout the term. It includes a first draft of a short story, the corrected version, a recording of an oral reading, a book review and a final reflection on their progress.
 
 For each piece of evidence, the student explains why it has been included, what difficulty it shows, what improvement can be seen and what goal they set for the next task. The teacher assesses not only final products, but also the student’s ability to select evidence and reflect on learning.
+
+_Adapted from: Liarte, R. (2015). The portfolio as an assessment tool._
 
 **Related techniques:** Learning Contract, Learning Journal, Authentic Assessment, Assessment Rubric, Peer Review
 
@@ -6291,7 +6331,7 @@ A very dynamic Kagan structure for reviewing content.
 #### Objectives
 To review content in a fun and interactive way.
 
-#### Example
+**Example:**
 
 In an English lesson, each student receives a card with a vocabulary word on one side and its definition or translation on the other. One student asks a classmate: “What does *borrow* mean?”. The classmate answers and receives a hint if needed.
 
@@ -6322,11 +6362,17 @@ This is a technique for **graded assessment** involving teachers and class group
 
 When a grade is assigned to a group, they are given points that they distribute among themselves based on the work they have done. The rule is that everyone must have a different grade.
 
-For example, if a group of 4 receives a 7.5, then they are given 7.5 x 4 = 30 points to divide as they wish, and we will assign them the grade they indicate.
-
 This technique is used with the rating scale: Distribute points, which they will have to fill out before grading, so that the grades are as objective as possible.
 
-Source: Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
+**Example:**
+
+A group of four students submits a joint project that the teacher grades 7.5 out of 10. Instead of giving everyone the same mark, the teacher gives them 7.5 × 4 = 30 points to distribute among themselves according to each member's contribution.
+
+The group discusses and decides: Student A gets 8.5 (provided the bulk of the content), Student B gets 7.5 (coordinated the work), Student C gets 7 (participated regularly), and Student D gets 7 (missed some of the editing phase). The total is 30 and the average is 7.5.
+
+The teacher compares this distribution with the rating scale the group filled in before the correction. If they match, the marks are confirmed; if there are discrepancies, a conversation opens about shared responsibility in teamwork.
+
+_Source: Pérez-Pueyo, A., Hortigüela, D. & Hernando, A. (2014)._
 
 **Related techniques:** STAD (Student Teams Achievement Divisions), Assessment Rubric, Cooperative Roles
 
@@ -6364,7 +6410,7 @@ Technique developed by Robert Slavin. Students are divided into heterogeneous te
 #### Objectives
 To improve individual academic performance through shared responsibility.
 
-#### Example
+**Example:**
 
 In geography, the teacher presents a topic on map reading: scale, orientation, contour lines and legend. Then each team works with several maps and helps one another so that everyone understands how to interpret distances, symbols and relief.
 
@@ -6405,7 +6451,7 @@ It consists of answering questions like these:
 
 There are many possible variations; you can see more examples in editable format at Orientacionandujar. (2019). Editable Exit Tickets to Evaluate the Process.
 
-#### Example
+**Example:**
 
 At the end of a history lesson on the Industrial Revolution, the teacher gives students an exit ticket with three questions: “Write one idea you understood well”, “Write one question you still have” and “Connect the topic with a present-day situation”.
 
@@ -6460,7 +6506,8 @@ It can be used with texts, lab reports, presentations, projects, concept maps, d
 - Teach students to make respectful and useful suggestions.
 - Give time to revise and improve after receiving feedback.
 
-#### Example
+**Example:**
+
 In a language arts activity, each student writes an argumentative text about mobile phone use at school. Before submitting it, students exchange drafts with a classmate. The review focuses on three aspects: clarity of the thesis, use of evidence and presence of a counterargument.
 
 The reviewer identifies one clear idea in the text, one part that is not easy to understand and one specific improvement. The author then revises the text: reformulates the thesis, adds a piece of evidence and improves the counterargument. The technique turns assessment into a real opportunity for improvement before the final version.
@@ -6498,7 +6545,8 @@ It is useful because it balances recognition and improvement. It prevents review
 4. They write one wish: a specific and achievable improvement.
 5. The author reviews the feedback received and decides which change to apply.
 
-#### Example
+**Example:**
+
 After an oral presentation on an environmental problem, a classmate writes: “Star 1: the explanation of the causes was clear. Star 2: the images helped explain the problem. Wish: it would be better to add one piece of data to justify the final proposal”. The group revises the presentation before submitting the final version.
 
 **Related techniques:** Assessment Target, Exit Ticket, Visible Learning, Assessment Rubric, Peer Review, +1
@@ -6538,7 +6586,8 @@ Retrieval practice is a technique in which students actively recall what they ha
 - Reduce the false sense of mastery produced by simple rereading.
 - Improve self-regulated study.
 
-#### Example
+**Example:**
+
 At the start of a biology lesson, students spend 5 minutes writing everything they remember about cellular respiration. They then compare their answer with their notes for 3 minutes and underline what they had forgotten: glucose, oxygen, mitochondria or ATP production.
 
 The teacher collects the most frequent doubts and uses the first minutes of the lesson to clarify them.
@@ -6580,7 +6629,8 @@ Spaced practice consists of distributing study and review across several session
 - Strengthen connections between topics.
 - Support more sustainable study habits.
 
-#### Example
+**Example:**
+
 In mathematics, every Friday 10 minutes are devoted to a short worksheet with mixed content from previous weeks: percentages, proportionality, equations and graph reading. The most repeated errors are revisited in the following week's review.
 
 **Related techniques:** Retrieval practice, Interleaved practice, Mastery learning, Cornell notes, Cognitive load theory
@@ -6620,7 +6670,8 @@ Mastery learning is an approach in which students move on to the next content on
 - Personalise support and pace.
 - Use assessment as a guide for improvement.
 
-#### Example
+**Example:**
+
 In a fractions unit, each subtopic ends with a short 5-question check. Students who master addition of fractions move on to multiplication; those who still make errors receive an alternative explanation and specific practice before trying again.
 
 **Related techniques:** Visible Learning, Team Assisted Individualization (TAI), Assessment Rubric, Spaced practice, Personalised learning playlists
@@ -6660,7 +6711,8 @@ Orientation guides are supports that help students complete a complex task throu
 - Foster autonomy and self-regulation.
 - Improve planning and revision of work.
 
-#### Example
+**Example:**
+
 For argumentative writing, the guide includes questions such as: “What is your thesis?”, “What evidence supports it?”, “Have you included an objection?” and “Have you answered that objection?”. Students use it before submitting the final version.
 
 **Related techniques:** Learning Contract, Understanding by Design (UbD), Assessment Rubric, Worked examples, Scaffolding and zone of proximal development (ZPD)
@@ -6696,7 +6748,7 @@ The key lies in the design: the incorrect options should correspond to common er
 4. Read the response pattern: if most are right, move on; if one error dominates, address it; if answers are scattered, regroup or re-explain.
 5. Use the chosen distractors to surface and discuss the faulty reasoning.
 
-#### Example
+**Example:**
 
 After explaining the area of a triangle, the teacher projects: “What is the area of a triangle with base 6 and height 4? a) 24, b) 12, c) 10, d) 20.” The distractor “24” reveals who forgets to divide by two. Everyone shows their answer at once with a card. If many choose “24”, the teacher instantly knows they must reinforce the “divide by two” before continuing.
 
@@ -6733,7 +6785,7 @@ Common supports are individual mini-whiteboards (write and show), A/B/C/D cards,
 4. Observe the distribution of answers and act accordingly: confirm, correct a common error or ask someone to justify.
 5. Repeat often to maintain universal participation and a pulse on understanding.
 
-#### Example
+**Example:**
 
 During a language lesson on sentence types, the teacher reads out a sentence and asks: “simple or compound? On three, show your card.” All students raise their A (simple) or B (compound) card at once. The teacher immediately sees that a third get a particular case wrong and clarifies it before moving on, instead of discovering it in the exam.
 
@@ -6770,7 +6822,7 @@ It is not a gotcha interrogation: it is combined with wait time, a safe climate 
 4. Welcome the answer without penalising error; if the person freezes, offer support, rephrase or return to them after hearing someone else.
 5. Chain several answers to build the full idea together.
 
-#### Example
+**Example:**
 
 Instead of “who knows what caused the First World War?” (the same few always answer), the teacher says: “Think for thirty seconds about one of the causes… María, you start.” Since no one knows who will be called, everyone prepares an answer. Then it chains: “Thanks, María; Luis, can you add another cause?” Participation is shared and everyone stays involved.
 
@@ -6807,7 +6859,7 @@ The silence feels uncomfortable at first, but it is precisely what allows thinki
 4. Accompany the wait with signals that thinking is fine (“take your time”, no pressure).
 5. Combine it with cold calling so everyone uses that time.
 
-#### Example
+**Example:**
 
 A philosophy teacher asks “what is the difference between knowing and believing?” and, instead of taking the first raised hand within a second, waits five seconds in silence. In that time several students who rarely spoke up develop an idea. After the first answer, the teacher waits again: the student, under no pressure, adds a nuance that enriches the discussion.
 
@@ -6844,7 +6896,7 @@ It is related to the flipped classroom and mastery learning: you move to the nex
 4. The teacher monitors the dashboard and devotes class time to individualised attention and to small groups with common difficulties.
 5. Mastery is checked at checkpoints before moving to the next stage; those who need it reinforce, those ahead go deeper.
 
-#### Example
+**Example:**
 
 In a maths unit, each student receives a list with videos, self-correcting exercises and mini-challenges, plus mastery checks. While most practise independently, the teacher gathers the four students struggling with the same concept and re-explains it. Those who already master the basics move on to extension challenges. No one waits for the rest or falls behind without support.
 
@@ -6886,11 +6938,7 @@ This method involves structuring the class so that students work in teams with t
 
 Evaluation takes place at three levels: peer evaluation of the group presentation, peer evaluation of individual contributions to the group, and evaluation of the material produced by the group.
 
-Adapted from: Research Group on Peer Learning. (2019). Cooperative Learning Methods and Orientación Andújar. (2015). Activities to Promote Cooperative Learning.
-
----
-
-#### An Example of Applying the Cooperative Activity CO-OP CO-OP
+**Example:**
 
 1. The teacher introduces the topics of the learning unit, such as the history of contemporary art.
 
@@ -6907,6 +6955,8 @@ Adapted from: Research Group on Peer Learning. (2019). Cooperative Learning Meth
 - Individual contributions to the group are also peer-assessed, where each student evaluates their own participation and input.
 
 - Finally, the materials produced by the group, such as notes, images, or diagrams used in the presentation, are evaluated.
+
+_Adapted from: Research Group on Peer Learning. (2019). Cooperative Learning Methods and Orientación Andújar. (2015). Activities to Promote Cooperative Learning._
 
 **Resources:** [GeCo - Cooperative Team Generator](https://jjdeharo.github.io/geco/)
 
@@ -6965,8 +7015,6 @@ Am I keeping up with my work?
 
 They can write it once a week, dedicating about 10-15 minutes to it.
 
-Source: De Haro, J.J. (2022). Tools for the evaluation of individual learning logs and teamwork.
-
 #### Difficulties in completing the learning log
 
 There are different obstacles that students may encounter when completing the learning log:
@@ -6977,7 +7025,7 @@ There are different obstacles that students may encounter when completing the le
 
 - Difficulty expressing themselves: Perhaps students have difficulty expressing their ideas and reflections in writing. In this case, you can offer support to improve their writing skills, such as writing exercises or providing examples of learning journal entries. You can also consider the option of completing the learning journal orally or via video instead of in writing.
 
-#### Example of an entry
+**Example:**
 
 "This week we studied the unit on forces in Physics. At first, I found it a little difficult to understand the concept of force, but I finally grasped it thanks to my teacher's explanation and the exercises we did in class." I also had difficulty solving the homework problems, but I asked my classmates and the teacher for help, and that's how I was able to solve them.
 
@@ -6986,6 +7034,8 @@ Of all the concepts in the unit, the practical problems were the most challengin
 One of the things I enjoyed most this week was working as a team with my classmates to solve the problems. I also helped my classmates understand the unit's theoretical concepts.
 
 I completed all the homework and reviewed the unit's concepts every day to be prepared for the assessments. I'm keeping up with my work.
+
+_Source: De Haro, J.J. (2022). Eines per l'avaluació del diari d'aprenentatge individual i del treball en equip._
 
 **Related techniques:** Learning Contract, Metacognition Ladder, I Used to Think... Now I Think, Portfolio (learning dossier)
 
@@ -7029,7 +7079,8 @@ A structured dialogue technique centered around a text, image, problem, or open 
 
 - Encourage open-ended questions and critical thinking.
 
-#### Example
+**Example:**
+
 In philosophy or biology, the group analyzes a text on bioethics. Students prepare questions and during the seminar they discuss what criteria should guide a scientific decision with social implications.
 
 **Related techniques:** Structured Academic Controversy, Listener Teams, Fishbowl (Aquarium), Round Table, Dialogic Gathering, Toulmin's Argumentation Model, Peer Review, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Tug of war, Philosophy for Children (P4C), Academic debate, Community of Inquiry
@@ -7077,7 +7128,8 @@ It is especially useful when giving a correct answer is not enough and students 
 #### Relationship with CER
 CER is simpler and more direct: claim, evidence and reasoning. Toulmin's model goes further when an argument needs nuance, explicit warrants or consideration of objections. It can therefore be used after CER as an extension for more complex arguments.
 
-#### Example
+**Example:**
+
 In economics, students analyse the claim: “Raising the price of high-sugar products can reduce their consumption”.
 
 - **Claim**: A tax on sugary drinks can reduce their consumption.
@@ -7123,7 +7175,8 @@ It helps students see whether an argument is well supported, whether evidence is
 5. Responses or qualifications are added to address those objections.
 6. The strength of the whole argument is reviewed and improved.
 
-#### Example
+**Example:**
+
 In citizenship education, students build a map around the question: “Should mobile phone use be limited at school?”. They place the thesis in the centre, add reasons for and against, evidence related to coexistence or learning, and possible conditions, such as permitted use for specific tasks.
 
 **Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Two-Column Method, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model, Structured Controversy with Evidence
@@ -7160,7 +7213,8 @@ It is closely related to academic controversy, but here the quality of evidence,
 5. Teams revise their stance after hearing opposing arguments.
 6. A synthesis is produced, including agreements, disagreements, strong evidence and open questions.
 
-#### Example
+**Example:**
+
 In biology and citizenship education, the class debates whether the sale of energy drinks to minors should be limited. Each team analyses data on caffeine, consumption habits, health and freedom of choice. They then defend a stance, listen to objections and write a final synthesis with conditions, limits and evidence.
 
 **Related techniques:** Structured Academic Controversy, Fishbowl (Aquarium), Socratic Seminar, Claim, Evidence and Reasoning (CER), Toulmin's Argumentation Model, Peer Review, Argument Map, Tug of war, Academic debate
@@ -7200,7 +7254,8 @@ Think-aloud is a modelling technique in which the teacher verbalises decisions, 
 - Teach self-regulation strategies.
 - Improve understanding of complex processes.
 
-#### Example
+**Example:**
+
 In a reading comprehension activity, the teacher reads a paragraph and says: “I do not know this word, but from the previous sentence it seems to indicate a cause. I will keep reading to check.” Students then practise the same strategy in pairs.
 
 **Related techniques:** Peer Tutoring, Reciprocal Teaching, Worked examples, Gradual release of responsibility, Self-explanation, Scaffolding and zone of proximal development (ZPD)
@@ -7234,7 +7289,7 @@ Unlike rereading (passive), self-explanation is a generative activity: learners 
 4. When they cannot explain something, they have located a gap: they return to the material to resolve it.
 5. The teacher first models self-explanation aloud so learners see how it is done.
 
-#### Example
+**Example:**
 
 When studying an already-solved physics problem, the student does not just read the solution: at each line they ask and answer why that formula applies and where each value comes from. On reaching a step they cannot justify, they realise they did not understand conservation of energy and revisit that concept before continuing.
 
@@ -7272,7 +7327,7 @@ It does not seek a single answer nor for the teacher to transmit content, but to
 5. They dialogue guided by the facilitator, who gives no answers but asks for reasons, examples, counterexamples and connections (“why?”, “do you agree?”, “what is that based on?”).
 6. It closes with metacognition: what we thought, how our idea changed, what remains open.
 
-#### Example
+**Example:**
 
 After reading a story in which a character lies to protect a friend, learners formulate questions and choose to investigate “is it ever right to lie?”. In a circle, some argue that lying is always wrong and others bring cases where it seems justified. The facilitator asks for reasons and counterexamples. In the end no one has “won”, but everyone has refined their arguments and learned to listen and qualify.
 
@@ -7321,7 +7376,8 @@ A discussion technique in which a small group engages in dialogue in the center 
 
 - Encourage peer evaluation of oral communication.
 
-#### Example
+**Example:**
+
 In social sciences, the central group debates whether a city should limit private vehicle traffic. The observers note arguments based on data, relevant questions, and moments when others are or are not being listened to.
 
 **Related techniques:** Structured Academic Controversy, Round Table, Socratic Seminar, Talking Chips, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Philosophy for Children (P4C), Academic debate
@@ -7360,7 +7416,7 @@ Technique for the presentation and review of group work.
 #### Objectives
 To promote peer assessment and visual communication.
 
-#### Example
+**Example:**
 
 In a unit on ecosystems, each team creates a poster about a biome: Mediterranean forest, desert, tundra, tropical rainforest or marine ecosystem. The poster must include climate, characteristic species, food relationships and main threats.
 
@@ -7428,7 +7484,7 @@ Here are some steps you can follow to use visual thinking in education:
 
 --
 
-#### Example
+**Example:**
 
 In a technology lesson, students use visual thinking to plan an energy-saving campaign for the school. On a large sheet of paper, they draw the school building in the center, place icons around it for lights, windows, computers, heating and information posters, and connect the ideas with arrows.
 
@@ -7474,7 +7530,8 @@ Gamification must serve the learning objectives. If game elements are added only
 - Support perseverance, decision-making and autonomy.
 - Turn a learning sequence into a more structured and motivating experience.
 
-#### Example
+**Example:**
+
 In a history and citizenship unit, the class receives the mission of organizing an exhibition titled “Voices of a Changing City”. Each team represents a group of specialists: document researchers, chroniclers, designers, interviewers and communication managers. To move forward, they must complete missions related to source analysis, information selection and public communication.
 
 1. **Initial mission**: interpret photographs, newspaper headlines and testimonies about a significant urban transformation.
@@ -7525,7 +7582,8 @@ Unlike a competitive debate, a dialogic gathering aims to build shared understan
 - Promote participation and respectful dialogue.
 - Connect personal experiences with cultural, scientific or social content.
 
-#### Example
+**Example:**
+
 In literature, after reading an excerpt from a novel about a character facing a difficult decision, each student selects a sentence they find meaningful. During the gathering, some students comment on the character’s motives, others connect the excerpt with general human experiences and others analyze the language used.
 
 The teacher does not look for a single correct interpretation, but helps the group justify contributions, listen to different points of view and build a richer understanding of the text.
@@ -7564,7 +7622,7 @@ An important formative feature is that a team does not always defend what it thi
 5. A moderator keeps time and a jury (or the rest of the class, with a rubric) judges argumentative quality, not just “who is most persuasive”.
 6. It closes with a joint reflection on the best arguments from both sides.
 
-#### Example
+**Example:**
 
 In a secondary class, the motion is “artificial intelligence should grade exams”. One team defends the for position and another the against, assigned by lot. Each brings data and examples, rebuts the other and concludes. The class uses a rubric to assess the soundness of arguments and respect for turns, and then discusses which reasons proved most convincing.
 
@@ -7601,7 +7659,7 @@ Because learners decide the topic, motivation is intrinsic: they learn because t
 4. Learners research, create and document their progress (a log), managing their time autonomously.
 5. When finished, they share the result with the class and reflect on the process, the obstacles and what was learned.
 
-#### Example
+**Example:**
 
 A student passionate about animals devotes her Genius Hour to investigating why bees are disappearing and what can be done. She defines the question, seeks rigorous information, interviews a beekeeper and creates an awareness campaign for the school. The teacher guides her and requires reliable sources; she learns biology, communication and project management driven by her own interest.
 
@@ -7648,7 +7706,8 @@ A curriculum design model that proposes planning backward. Instead of starting w
 - Avoid planning that focuses only on isolated tasks.
 - Improve clarity about what students are expected to learn.
 
-#### Example
+**Example:**
+
 Before designing a unit on ecosystems, the teacher defines that students should explain food-web relationships and justify ecological imbalances. Then the teacher decides which task will serve as evidence and finally plans labs, readings and debates.
 
 **Related techniques:** Depth of Knowledge (DOK), Bloom's Taxonomy, Authentic Assessment, Orientation guides, Cognitive load theory, Constructive alignment
@@ -7692,7 +7751,8 @@ A framework for analyzing the cognitive complexity of a task. It does not measur
 - Design tasks with greater depth of thinking.
 - Check whether activities require the expected level of reasoning.
 
-#### Example
+**Example:**
+
 Memorizing a formula may have a low DOK level, while choosing which mathematical model to apply to a real situation and justifying the decision requires more complex processing.
 
 **Related techniques:** Detect Patterns, Understanding by Design (UbD), SOLO Taxonomy, Bloom's Taxonomy, Assessment Rubric, Frayer Model, Habits of mind
@@ -7737,7 +7797,8 @@ A model for assessing the quality of understanding shown by students in their re
 - Give more precise feedback on the quality of responses.
 - Help students move from isolated ideas to relationships and transfer.
 
-#### Example
+**Example:**
+
 In response to a question about natural selection, a student may mention only one factor, relate several factors or apply the concept to a new situation. The SOLO taxonomy helps distinguish these levels.
 
 **Related techniques:** Depth of Knowledge (DOK), Visible Learning, Assessment Rubric, Constructive alignment, ICAP framework
@@ -7783,7 +7844,8 @@ A framework for classifying cognitive processes that helps formulate objectives,
 - Design varied and progressive tasks.
 - Align objectives, activities and assessment.
 
-#### Example
+**Example:**
+
 In a biology unit, students may remember terms, explain processes, apply a model, analyze data, evaluate a conclusion or create an experimental proposal.
 
 **Related techniques:** Understanding by Design (UbD), Depth of Knowledge (DOK), Assessment Rubric, Constructive alignment, ICAP framework
@@ -7821,7 +7883,8 @@ An assessment approach based on meaningful, contextualized tasks close to real o
 - To integrate knowledge, skills, and decision-making.
 - To make assessment formative and contextualized.
 
-#### Example
+**Example:**
+
 Instead of only answering questions about nutrition, students design a healthy menu proposal for a specific situation and justify their decisions using scientific criteria.
 
 **Related techniques:** Apply Knowledge, Project-Based Learning (PjBL), Portfolio (learning dossier), Understanding by Design (UbD), Assessment Rubric, Constructive alignment
@@ -7860,7 +7923,8 @@ An approach that guides teaching decisions toward practices with visible impact 
 - To improve clarity and feedback.
 - To make decisions based on evidence.
 
-#### Example
+**Example:**
+
 In a writing activity, the teacher shares clear criteria, reviews drafts, gives specific feedback, and asks students to state one concrete improvement they will apply in the next version.
 
 **Related techniques:** Learning Contract, SOLO Taxonomy, Assessment Rubric, Two Stars and a Wish, Mastery learning, Habits of mind, ICAP framework
@@ -7907,7 +7971,8 @@ A model that helps integrate content knowledge, pedagogy and technology in a coh
 - Connect digital tools with objectives and methodology.
 - Design more coherent learning experiences.
 
-#### Example
+**Example:**
+
 In a statistics unit, students analyze real data about reading habits, transport use or time spent on leisure activities. The teacher works on concepts such as frequency tables, percentages, mean, median, graphs and outliers (**CK: content knowledge**). The activity is organized as a guided investigation, in which each team formulates a question, analyzes data, interprets results and justifies its conclusions (**PK: pedagogical knowledge**). To do this, students use a spreadsheet, which allows them to sort data, perform calculations, create graphs and modify representations (**TK: technological knowledge**).
 
 The teacher selects data close to students’ experience so that statistical concepts are not learned in an abstract way, but linked to understandable questions (**PCK: pedagogical content knowledge**). The spreadsheet helps students work better with the content because it facilitates calculation, data comparison and the detection of patterns or outliers (**TCK: technological content knowledge**). In addition, technology supports a process of revision and improvement, as teams can change graphs, check results and discuss which representation best communicates their conclusions (**TPK: technological pedagogical knowledge**). Full integration occurs when content, methodology and technology are combined coherently: students learn statistics through guided investigation and use the spreadsheet as a tool to analyze, interpret and communicate real data (**TPACK**).
@@ -7951,7 +8016,8 @@ A model for analyzing the level of technology integration in a task. It distingu
 - Avoid using digital tools without a pedagogical purpose.
 - Redesign tasks to expand learning possibilities.
 
-#### Example
+**Example:**
+
 Writing a text in a word processor may be substitution; collaborating in a shared document with comments and peer revision may modify the task.
 
 **Related techniques:** Digital Storytelling, TPACK, Gamification
@@ -7994,7 +8060,8 @@ A planning framework that addresses learner diversity from the beginning of inst
 - Increase participation among diverse learners.
 - Offer alternatives for accessing, understanding and expressing learning.
 
-#### Example
+**Example:**
+
 In a research task, students may consult texts, videos or diagrams, work with graded supports and present the result as a report, presentation, infographic or audio.
 
 **Related techniques:** Learning Stations, TPACK, Co-teaching
@@ -8038,7 +8105,8 @@ A competency framework highlighting four cross-curricular capacities needed to l
 - Design more complete and participatory tasks.
 - Support critical thinking, creativity, communication and cooperation.
 
-#### Example
+**Example:**
+
 In a sustainability project, students analyze data, design proposals, communicate them through a presentation and work as a team to review and improve the final product.
 
 **Related techniques:** Project-Based Learning (PjBL), Design Thinking, World Café, Habits of mind
@@ -8080,7 +8148,8 @@ A good rubric is not just a table for grading. It works as a learning guide: it 
 - Provide more specific feedback focused on improvement.
 - Align the task, objectives and assessment.
 
-#### Example
+**Example:**
+
 In an oral presentation about an environmental problem, the rubric can help students prepare the presentation before giving it and assess the result afterwards. A simple example would be:
 
 | Criterion | Initial level | Adequate level | Advanced level |
@@ -8130,7 +8199,8 @@ Habits of mind are a Costa and Kallick framework describing thinking disposition
 - Improve self-regulation and perseverance.
 - Encourage reflection on how work is carried out.
 
-#### Example
+**Example:**
+
 In a research project, each team spends 5 minutes reviewing three habits: persisting when facing difficulties, checking data accuracy and listening with empathy. They then write one concrete piece of evidence for each habit and one improvement for the next session.
 
 **Related techniques:** Metacognition Ladder, Depth of Knowledge (DOK), Visible Learning, The 4Cs of Learning
@@ -8170,7 +8240,8 @@ Cognitive load theory is John Sweller's framework for analysing the limits of wo
 - Facilitate the construction of mental schemas.
 - Graduate difficulty coherently.
 
-#### Example
+**Example:**
+
 In physics, early motion problems are presented with the data already identified and the formula selected. Students focus on interpreting the procedure. In later problems, they must identify the data, choose the formula and justify the result themselves.
 
 **Related techniques:** Dual coding, Understanding by Design (UbD), Spaced practice, Interleaved practice, Worked examples, Gradual release of responsibility, Concrete examples
@@ -8204,7 +8275,7 @@ Scaffolding is the metaphor for the supports provided within that zone: hints, m
 4. Observe progress and remove the supports gradually as the learner demonstrates mastery.
 5. Adjust continuously: if the task proves unmanageable, reinforce the scaffolding; if trivial, raise the challenge.
 
-#### Example
+**Example:**
 
 A student can solve simple equations but not two-step ones. The teacher places the task in their ZPD and gives scaffolds: first they solve one together thinking aloud, then offers a template with the steps, then only a hint (“what do you do first?”) and, finally, removes all support. The student ends up solving them independently.
 
@@ -8241,7 +8312,7 @@ The key is coherence: if an outcome says learners must “analyse”, the activi
 4. Check the coherence: confirm that outcome, activity and assessment share the same level and type of learning.
 5. Adjust any misaligned element (for example, an “apply” outcome assessed with a memorisation test).
 
-#### Example
+**Example:**
 
 If the outcome is “learners will be able to design an experiment to answer a question”, the activities cannot just be reading about the scientific method: learners must design experiments in class. And the assessment, accordingly, will ask them to design one (not answer a test about the phases). Outcome, practice and test are aligned.
 
@@ -8286,7 +8357,7 @@ The ICAP hypothesis holds that learning increases as you move up: Interactive > 
 4. Make sure the “interactive” mode truly is: that both contribute and respond, not that only one works.
 5. Use the framework to balance the session, reducing time in passive mode.
 
-#### Example
+**Example:**
 
 Instead of learners only listening to the explanation of a text (passive) or underlining it (active), the teacher first asks them to summarise it in their own words and pose questions (constructive) and then discuss those questions in pairs, jointly building an answer (interactive). The same content, tackled in a higher ICAP mode, produces deeper learning.
 
@@ -8329,7 +8400,7 @@ Meaningful learning happens where the three presences overlap; if one is missing
 4. Facilitate actively: moderate discussions, synthesise, redirect and give feedback, without disappearing or monopolising.
 5. Evaluate by observing the three presences (quality of dialogue, participation, sense of community) and adjust the design.
 
-#### Example
+**Example:**
 
 In a blended course, the teacher posts a triggering question about a real dilemma in a forum (cognitive presence), having first created a climate of trust through introductions and participation norms (social presence), and moderates the thread by synthesising contributions and following up (teaching presence). The result is not an inbox of scattered messages, but a collective inquiry that goes deep into the topic.
 
@@ -8370,7 +8441,8 @@ It is especially useful for detecting alternative conceptions, starting an inqui
 5. The ideas are compared with an observation, experiment, reading or guided discussion.
 6. Students revise their initial explanation.
 
-#### Example
+**Example:**
+
 In physics, a cartoon shows three students talking about a falling ball. One says that heavy objects always fall first, another says that all objects fall the same without air resistance, and another says it depends on shape. The class discusses the ideas, carries out a small experiment or analyses a video and revises its explanations about falling bodies.
 
 **Related techniques:** What makes you say that?, Inquiry-Based Learning, Generate Hypotheses, See-Think-Wonder, Claim, Evidence and Reasoning (CER), Predict, Observe, Explain (POE)
@@ -8409,7 +8481,8 @@ The Question Formulation Technique, or QFT, is an approach from the Right Questi
 - Distinguish types of questions.
 - Improve the quality of inquiry.
 
-#### Example
+**Example:**
+
 In biology, the teacher shows the sentence: “There are more and more antibiotic-resistant bacteria”. For 5 minutes, teams generate questions. They then choose three: a factual question, a causal question and an inquiry question. These questions guide the information search in the next lesson.
 
 **Related techniques:** Question-Based Learning (QBL), Think, Puzzle, Explore, Ask Why, Ask and Answer, Question Starts

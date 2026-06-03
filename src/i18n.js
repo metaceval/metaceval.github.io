@@ -33,7 +33,13 @@ const I18N = {
     sharedMany:   '📎 Colección compartida contigo',
     exitShared:   'Salir de la selección',
     programs:     'Recursos:',
-    related:      'Relacionadas:',
+    related:          'Relacionadas:',
+    example:          'Ejemplo',
+    source:           'Fuente',
+    searchAll:        'Búsqueda global',
+    searchTitle:      'Solo título',
+    searchPlaceholder:'Buscar…',
+    searchTitlePlaceholder: 'Buscar por título…',
     tags:         'Tags:',
     fields:       'Ámbitos:',
     favorite:     'Favorito',
@@ -231,7 +237,13 @@ const I18N = {
     sharedMany:   '📎 Col·lecció compartida amb tu',
     exitShared:   'Sortir de la selecció',
     programs:     'Recursos:',
-    related:      'Relacionades:',
+    related:          'Relacionades:',
+    example:          'Exemple',
+    source:           'Font',
+    searchAll:        'Cerca global',
+    searchTitle:      'Només títol',
+    searchPlaceholder:'Cercar…',
+    searchTitlePlaceholder: 'Cercar per títol…',
     tags:         'Tags:',
     fields:       'Àmbits:',
     favorite:     'Preferit',
@@ -429,7 +441,13 @@ const I18N = {
     sharedMany:   '📎 Collection shared with you',
     exitShared:   'Exit selection',
     programs:     'Resources:',
-    related:      'Related:',
+    related:          'Related:',
+    example:          'Example',
+    source:           'Source',
+    searchAll:        'Global search',
+    searchTitle:      'Title only',
+    searchPlaceholder:'Search…',
+    searchTitlePlaceholder: 'Search by title…',
     tags:         'Tags:',
     fields:       'Fields:',
     favorite:     'Favorite',
@@ -706,6 +724,7 @@ function applyI18N() {
   document.querySelectorAll('.lang-btn').forEach(b =>
     b.classList.toggle('active', b.dataset.lang === S.lang));
   updateSearchUI();
+  updateSearchModeUI();
 
   // Home page strings
   setText('homeEyebrow',          i('homeEyebrow'));

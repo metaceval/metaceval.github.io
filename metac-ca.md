@@ -52,12 +52,6 @@ En la majoria dels casos, la rutina pren la forma presentant-la a tota una class
 
 Les preguntes bàsiques poden ser moltes i es poden variar en un nombre i maneres, depenent del context, alguns exemples poden ser: Què sap vostè? Què és el que veus o saps que et fa dir això?, encara que també és possible que ens vinguin bé treballar les interpretacions que els alumnes fan del tema que s'està treballant i d'aquesta manera podem fer servir preguntes com: Què veus? o Què sap vostè? Amb el temps els estudiants poden començar a donar suport automàticament a les seves interpretacions amb evidències i, finalment, els estudiants començaran a interioritzar la rutina.
 
-#### Exemple
-
-En una classe d’història, el professor mostra una fotografia d’una fàbrica durant la Revolució Industrial i pregunta: “Què creieu que està passant en aquesta imatge?”. Un alumne respon: “Sembla que les condicions de treball eren dures”. El professor li demana que justifiqui la interpretació: “Què et fa dir això?”. L’alumne assenyala la presència de molts treballadors junts, la manca de llum natural i l’edat aparent d’alguns infants.
-
-A partir d’aquestes respostes, la classe diferencia entre observacions, interpretacions i evidències. La rutina ajuda que l’alumnat no es limiti a opinar, sinó que doni suport a les seves idees amb indicis concrets.
-
 #### Relació amb CER
 
 Aquesta rutina es relaciona amb **Afirmació, evidència i raonament (CER)** perquè ambdues demanen justificar les idees amb evidències. En tots dos casos l'alumnat ha d'evitar respostes basades només en opinions i aprendre a distingir entre observació, interpretació i justificació.
@@ -65,6 +59,12 @@ Aquesta rutina es relaciona amb **Afirmació, evidència i raonament (CER)** per
 La diferència principal és que «Què et fa dir això?» funciona com una rutina breu d'observació i interpretació: l'alumnat diu què pensa sobre una imatge, text, objecte o situació i explica quins indicis el porten a pensar-ho. CER, en canvi, exigeix una estructura argumentativa més completa: una afirmació explícita, evidències seleccionades i un raonament que expliqui per què aquestes evidències sostenen l'afirmació.
 
 Per això, «Què et fa dir això?» és especialment útil per iniciar una conversa, activar l'observació o fer visibles les interpretacions de l'alumnat. CER és més adequat quan es vol elaborar una resposta final, una explicació científica, una conclusió de laboratori o un text argumentat.
+
+**Exemple:**
+
+En una classe d’història, el professor mostra una fotografia d’una fàbrica durant la Revolució Industrial i pregunta: “Què creieu que està passant en aquesta imatge?”. Un alumne respon: “Sembla que les condicions de treball eren dures”. El professor li demana que justifiqui la interpretació: “Què et fa dir això?”. L’alumne assenyala la presència de molts treballadors junts, la manca de llum natural i l’edat aparent d’alguns infants.
+
+A partir d’aquestes respostes, la classe diferencia entre observacions, interpretacions i evidències. La rutina ajuda que l’alumnat no es limiti a opinar, sinó que doni suport a les seves idees amb indicis concrets.
 
 **Tècniques relacionades:** Genera hipòtesis, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), El joc de l’explicació (The Explanation Game)
 
@@ -93,7 +93,7 @@ Aquesta rutina de pensament implica que els alumnes analitzin un text o una imat
 - Demana als alumnes que sintetitzin els punts clau en un resum o en un esquema.
 - Revisa el resum o l'esquema dels alumnes i proporciona feedback. Pots fer-ho de manera individual o amb tot l'equip, depenent de les necessitats dels alumnes.
 
-#### Exemple
+**Exemple:**
 
 En una classe de biologia, el professor entrega un text breu sobre la circulació sanguínia i un esquema del cor. Primer, l’alumnat subratlla les idees principals: funció del cor, recorregut de la sang i diferència entre sang oxigenada i desoxigenada. Després, organitza aquestes idees en un esquema amb fletxes.
 
@@ -122,8 +122,6 @@ _Paraules clau: aplicació de coneixements, resolució de problemes, pensament c
 
 La rutina de pensament "Aplica els coneixements" és una eina molt útil per ajudar als estudiants a fer servir els coneixements que han adquirit de manera activa i reflexiva. Això implica aplicar els coneixements a situacions o problemes noves, per tal de comprendre millor els conceptes i fer servir el pensament crític per resoldre problemes.
 
-
-
     Part del professor:
 
 1. Estableix l'objectiu de la rutina: abans de començar-la, és important que expliquis als alumnes quin és l'objectiu de la rutina i com es relaciona amb el material que esteu estudiant.
@@ -142,7 +140,7 @@ Part dels alumnes:
 
 1. Reviseu el treball que heu fet per assegurar-vos que heu aplicat els coneixements de manera adequada i que heu arribat a conclusions raonables. Si hi ha alguna cosa que no us quedi clar, no dubteu a demanar ajuda o en fer preguntes.
 
-#### Exemple
+**Exemple:**
 
 Després d’estudiar percentatges i interès simple, el professor planteja una situació pràctica: “Voleu comprar un ordinador de 600 euros. Una botiga ofereix un descompte del 15 % i una altra permet pagar-lo en sis mesos amb un recàrrec del 4 %. Quina opció convé més i per què?”.
 
@@ -180,9 +178,6 @@ Aquesta rutina es pot utilitzar al principi d'una unitat per ajudar els alumnes 
 Després d'identificar un tema, els alumnes fan una pluja d'idees sobre diferents perspectives que hi pot haver. Es pot ajudar els alumnes amb aquestes preguntes:
 Com es veu des de diferents punts a l'espai i des de diferents punts en el temps? Qui i què en queda afectat? Qui hi està involucrat? A qui el pot preocupar? Després de la pluja d'idees, cada alumne escull un punt de vista. Cal donar-los temps per preparar què poden dir sobre el tema des d'aquesta perspectiva, per encarnar el punt de vista utilitzant aquestes preguntes i per estructurar allò que diu el personatge.
 
-
-
-
 CERCLE DE PUNTS DE VISTA
 
 ---
@@ -192,17 +187,12 @@ CERCLE DE PUNTS DE VISTA
 ---
 **PENSO** ... 
 
-
-
-
-
-
 ---
 
 **CONCLUSIONS**
  Quines noves idees tens sobre el tema que abans no tenies? Quines noves preguntes tens?
 
-#### Exemple
+**Exemple:**
 
 En una classe de geografia, el professor planteja el tema de la construcció d’una nova carretera prop d’una zona natural. Primer, la classe identifica diferents punts de vista: veïns que necessiten desplaçar-se, comerciants locals, ecologistes, responsables municipals i animals o plantes afectats per l’obra.
 
@@ -259,7 +249,8 @@ La rutina de pensament "Contrasta i compara" és una tècnica que es pot fer ser
 
 1. Escolteu el *feedback* del professor i utilitzeu-lo per millorar les comparacions i contrastos que heu fet.
 
-#### Exemple
+**Exemple:**
+
 Objectiu: Millorar la comprensió dels alumnes sobre la Revolució Francesa
 
 - Etapa 1: Proporcionar als alumnes diferents fonts d'informació sobre la Revolució Francesa
@@ -327,21 +318,9 @@ Quin símbol triaries per representar aquesta idea?|**Imatge**
 Quina imatge triaries per representar aquesta idea? |
  
 
-
 COMENTARIS
 
-
-
-
-
-
-
-
-
-
----
-
-#### Exemple d'aplicació de la rutina CSI: Color, Símbol, Imatge
+**Exemple:**
 
 - Objectiu: Millorar la comprensió dels alumnes sobre la Segona Guerra Mundial
 - Etapa 1: Proporcionar als alumnes informació sobre la Segona Guerra Mundial a través de lectures i vídeos
@@ -410,7 +389,7 @@ La rutina de pensament "detecta patrons" consisteix en buscar i identificar rela
 
 1. Fes un resum de les idees més importants que han sorgit de la discussió i reflexiona sobre el que has après. Quines relacions o patrons has identificat? Quines idees noves has après? Com pots aplicar aquestes idees a altres situacions o problemes?
 
-#### Exemple
+**Exemple:**
 
 En una classe de matemàtiques aplicades, el professor entrega una taula amb els ingressos i les despeses mensuals de diverses famílies fictícies. L’alumnat observa les dades i busca patrons: quins tipus de despeses augmenten quan pugen els ingressos, quines despeses es mantenen estables i quines situacions generen més risc de dèficit.
 
@@ -445,7 +424,7 @@ Aquesta rutina permet fer una reflexió crítica sobre el que s'ha entès en una
 
 Es pot fer servir una plantilla similar a aquesta:
 
-#### Exemple
+**Exemple:**
 
 En acabar una explicació sobre la fotosíntesi, cada alumne completa tres columnes. En verd escriu: “Entenc que les plantes fabriquen matèria orgànica utilitzant llum, aigua i diòxid de carboni”. En groc anota: “Tinc dubtes sobre el paper de les sals minerals”. En vermell pot escriure: “No entenc bé què passa als cloroplasts”.
 
@@ -488,7 +467,8 @@ Rutina que guia l'alumnat per pensar sobre el seu propi aprenentatge mitjançant
 - Millorar la transferència de coneixements.
 - Desenvolupar autoregulació i pensament reflexiu.
 
-#### Exemple
+**Exemple:**
+
 En acabar una pràctica de laboratori, els alumnes completen l'escala indicant què han après sobre el disseny experimental, com han controlat variables i en quins altres experiments podrien aplicar aquest procediment.
 
 **Tècniques relacionades:** Diari d'aprenentatge, Pensava... ara penso, Pont 3 - 2 - 1, Connecta, amplia, desafia, Hàbits mentals, Autoexplicació
@@ -535,7 +515,7 @@ Si es fa de forma individual, els alumnes poden fer servir aquesta rutina per re
 
 Si es fa en grup, poden fer servir aquesta rutina per debatre i discutir les seves idees amb els companys. Això els pot ajudar a comprendre millor les diferents perspectives i a desenvolupar habilitats de comunicació i treball en equip. També els pot ajudar a enriquir les seves investigacions amb les idees i la informació dels altres.
 
-#### Exemple
+**Exemple:**
 
 En una classe de biologia, el professor mostra dues plantes de la mateixa espècie: una amb fulles verdes i una altra amb fulles groguenques. Planteja la pregunta: “Per què una de les plantes presenta clorosi?”.
 
@@ -586,7 +566,7 @@ Aquí tenim els passos per fer servir aquesta rutina de forma efectiva:
 
 1. Selecciona la millor solució entre les que has valorat.
 
-#### Exemple
+**Exemple:**
 
 En digitalització, el professor planteja un problema real del grup: molts alumnes obliden dates de lliurament i materials necessaris. Primer, l’alumnat genera possibles solucions: calendari compartit, recordatoris automàtics, tauler setmanal, checklist per assignatura o responsable rotatiu.
 
@@ -629,7 +609,8 @@ Rutina que organitza l'aprenentatge en tres moments: allò que l'alumnat sap, al
 - Transformar la curiositat en preguntes de treball.
 - Afavorir la metacognició i la síntesi final.
 
-#### Exemple
+**Exemple:**
+
 Abans d'estudiar els ecosistemes, els alumnes escriuen què saben sobre cadenes tròfiques, quines preguntes tenen sobre les relacions entre organismes i, al final, què han après sobre xarxes alimentàries i equilibri ecològic.
 
 **Recursos:** [Núvol de paraules](https://jjdeharo.github.io/directo/nube.html)
@@ -662,12 +643,7 @@ Aquesta tècnica es fa servir per introduir un tema, una idea o una proposta. Es
 - N: Necessitat de Saber. Què més necessites saber o descobrir sobre aquesta idea o proposta? Quina informació addicional us ajudaria a avaluar aquestes idees o propostes?
 - S: Suggeriments o Postura per Avançar. Quin és el teu suggeriment, postura o opinió actual pel que fa a aquesta idea o proposta? Quin ha de ser el pas següent per avaluar aquesta idea o proposta?
 
-
-
-
-Adaptat de: Project Zero. (2020). Puntos de la Brújula
-
-#### Exemple
+**Exemple:**
 
 El professor planteja la següent idea o proposta: "L'escola està pensant en implementar un nou sistema de recollida de residus per reduir la generació de brossa i millorar la gestió dels recursos. Què en penseu?"
 
@@ -675,6 +651,8 @@ El professor planteja la següent idea o proposta: "L'escola està pensant en im
 1. **Objeccions**. Exposen els obstacles o preocupacions que han trobat amb aquesta idea o proposta. Alguns poden dir que és una molt bona idea, però que és necessari fer una campanya de conscienciació perquè tots sàpiguen com funciona el nou sistema de recollida de residus i es comprometin a seguir-lo.
 1. **Necessitats**. Exposen què més necessitarien saber o descobrir sobre aquesta idea o proposta per poder avaluar-la de forma més precisa. Alguns poden demanar més informació sobre quins tipus de residus es poden reciclar i com es farà la recollida, altres poden demanar informació sobre quins recursos es necessitarien per implementar aquest nou sistema, o bé poden demanar exemples d'altres escoles que ja hagin implementat un sistema de recollida de residus similar.
 1. **Suggeriments**. Els     Els estudiants donen els seus suggeriments o posicions per avançar amb aquesta idea o proposta i exposen quin ha de ser el pas següent per avaluar-la. Alguns poden dir que és necessari fer una reunió amb tots els estudiants per explicar-los el nou sistema de recollida de residus i demanar-los el seu compromís per seguir-lo. Altres poden dir que és necessari fer una enquesta per veure quin grau de coneixement hi ha sobre reciclatge i com es podria millorar.
+
+_Adaptat de: Project Zero. (2020). Puntos de la Brújula_
 
 **Recursos:** [Votació simple](https://jjdeharo.github.io/directo/vota.html)
 
@@ -719,7 +697,7 @@ Per utilitzar la tècnica de les "5 per què", el professorat pot seguir els seg
 
 1. Una vegada que els alumnes hagin après a fer servir la tècnica, els pot ser útil fer servir aquesta estratègia per a reflexionar sobre altres temes o matèries d'estudi per a millorar la seva comprensió i el seu aprenentatge.
 
-#### Exemple
+**Exemple:**
 
 En una classe de biologia, el professor planteja el problema: “Una planta de l’aula s’està marcint”. El grup aplica els 5 per què:
 
@@ -781,10 +759,6 @@ Se'ls donen als alumnes les següents instruccions:
 1. Cada membre del grup reflexiona breument sobre la seva nova comprensió i com la rutina hi ha contribuït.
 (5 minuts).
 
-
-
-
-
 | ***PARAULA*** | ***IDEA*** | ***FRASE*** |
 |*Quina paraula t'ha captat l'atenció?* |*Quina idea és significativa per a tu?* |*Quin flaix t'ha ajudat a entendre millor l'exposició / text?* |
 ---
@@ -792,29 +766,19 @@ Se'ls donen als alumnes les següents instruccions:
 
 Quins temes hi ha en comú? 
 
-
-
 *
 
 ---
 ***IMPLICACIONS**:
  Quines implicacions, interpretacions o prediccions podeu treure del text? 
 
-
-
 *
 
 ---
 ***ASPECTES OBLIDATS**: 
-Quins aspectes del text s'han oblidat en la discussió del grup? Què us porta a pensar això? * 
+Quins aspectes del text s'han oblidat en la discussió del grup? Què us porta a pensar això? *
 
-
-
-
-
----
-
-#### Exemple
+**Exemple:**
 
 Després de llegir un article breu sobre l’ús de la intel·ligència artificial en educació, cada alumne selecciona una paraula, una idea i una frase. Una paraula podria ser “personalització”; una idea, “la IA pot ajudar a adaptar activitats, però no substitueix el criteri docent”; i una frase, “la tecnologia amplia possibilitats quan s’integra amb intenció pedagògica”.
 
@@ -858,7 +822,7 @@ La rutina es pot organitzar amb una taula senzilla:
 
 Després, les respostes es poden compartir en parelles, en petit grup o amb tota la classe. També es poden utilitzar per elaborar un mural, iniciar un debat o revisar de manera col·lectiva com ha evolucionat la comprensió del tema.
 
-#### Exemple
+**Exemple:**
 
 En una classe de ciències sobre la fotosíntesi, el professor demana a l’alumnat que completi la primera columna abans de treballar el tema. Algunes respostes inicials poden ser: “Pensava que les plantes s’alimentaven de la terra” o “Pensava que la llum només servia perquè creixessin”.
 
@@ -902,8 +866,8 @@ Molts cops els alumnes tenen concepcions errònies sobre un tema en aquest momen
 
 Rutina en PDF
 
----
-#### Exemple
+**Exemple:**
+
 Professor: Avui estudiarem el tema de la conservació de l'energia. Abans de començar, vull que prengueu uns minuts per reflexionar sobre aquest tema i escriviu les idees que us vinguin al cap sobre què penseu que és la conservació de l'energia.
 
 Després de 5 minuts, el professor demana als alumnes que comparteixin les seves idees sobre "Penso". Algunes de les idees que els alumnes comparteixen són:
@@ -973,7 +937,7 @@ La rutina de pensament "pregunta el perquè" es pot fer servir en qualsevol mome
 
 - Presentar les respostes trobades al grup o al professor.
 
-#### Exemple
+**Exemple:**
 
 En una classe d’història, el professor introdueix el tema de les migracions del segle XX amb una imatge d’una estació plena de viatgers. Demana a l’alumnat que formuli preguntes amb “per què”: “Per què moltes persones van abandonar el camp?”, “Per què algunes ciutats van créixer tan ràpid?” o “Per què les condicions laborals van influir en els desplaçaments?”.
 
@@ -1007,7 +971,7 @@ Aquesta rutina de pensament implica que els alumnes es facin una pregunta i inte
 1. Dona als alumnes el temps suficient per respondre a les preguntes de manera individual o en grups.
 1. Revisa les respostes dels alumnes i proporciona *feedback*. Pots fer-ho de manera individual o amb tot l'equip, depenent de les necessitats dels alumnes.
 
-#### Exemple
+**Exemple:**
 
 En matemàtiques, el professor vol comprovar si l’alumnat comprèn el concepte de mitjana aritmètica. Proposa preguntes com: “Què representa la mitjana?”, “Com es calcula?”, “Pot una mitjana amagar diferències importants entre les dades?” i “En quins casos convé mirar també la mediana?”.
 
@@ -1044,6 +1008,22 @@ Aquesta rutina es fa dues vegades, una en començar un tema i altre en acabar-lo
 
 1. Després es comparteixen les conclusions de cada un amb la resta de la classe.
 
+**Exemple:**
+
+En una classe de 5è de Primària que inicia una unitat sobre l'aigua i els seus estats, el docent demana que cada alumne completi el pont abans de començar.
+
+**Abans de la unitat** (alumna d'exemple):
+- 3 idees: aigua, vapor, gel
+- 2 preguntes: Com es converteix l'aigua en vapor? / Què li passa a l'aigua quan es congela?
+- 1 metàfora: l'aigua és com un actor que canvia de disfressa
+
+**En acabar la unitat**, la mateixa alumna completa el pont de nou:
+- 3 idees: evaporació, condensació, cicle de l'aigua
+- 2 preguntes: Pot nevar al desert? / Quanta aigua hi ha a l'atmosfera?
+- 1 metàfora: l'aigua és com un viatger que no para mai de moure's
+
+En la posada en comú, explica què ha canviat en la seva manera de pensar i per què. El docent utilitza les metàfores finals per identificar el nivell de comprensió assolit per cada estudiant.
+
 **Tècniques relacionades:** Escala de metacognició, KWL (Sé, Vull saber, He après), Pensava... ara penso, Penso, m'interessa, investigo
 
 **Com avaluar:**
@@ -1064,7 +1044,6 @@ _Rutina en què l'alumnat analitza conseqüències o implicacions d'una situaci�
 _Paraules clau: conseqüències, pensament crític, reflexió, evidències, perspectiva_
 
 La rutina de pensament "revisa les conseqüències" és una tècnica que es pot fer servir per fer reflexionar els alumnes sobre les implicacions o les conseqüències dels conceptes o fets que estan estudiant. Aquesta rutina es pot fer servir tant al principi d'un tema, com a mitjans o al final, depenent de les necessitats i els objectius de l'aprenentatge.
-
 
 Part del professor:
 
@@ -1090,7 +1069,7 @@ Part de l'alumne:
 
 Així doncs, aquesta rutina implica una interacció entre el professor i els alumnes, amb els alumnes reflexionant sobre les conseqüències o les implicacions dels conceptes o fets que han après i compartint les seves reflexions amb el grup o amb el professor.  Es pot fer servir aquesta rutina per fer reflexionar els alumnes sobre qualsevol tipus de conceptes o fets, i és especialment útil per promoure el pensament crític i la reflexió sobre qüestions complexes o problemes rellevants de la vida diària.
 
-#### Exemple
+**Exemple:**
 
 En una classe de tecnologia, el professor presenta la proposta d’implantar un sistema de lliurament de treballs només mitjançant una plataforma digital. L’alumnat revisa possibles conseqüències: estalvi de paper, facilitat per conservar evidències, necessitat de connexió, risc d’oblidar contrasenyes, diferències d’accés a dispositius i canvis en l’organització del professorat.
 
@@ -1132,7 +1111,8 @@ Tècnica visual per analitzar un personatge, grup social, organisme, institució
 - Relacionar evidències amb interpretacions.
 - Representar visualment informació complexa.
 
-#### Exemple
+**Exemple:**
+
 En literatura, els alumnes analitzen un personatge d'una novel·la. Dins de la silueta escriuen les seves pors i desitjos; fora, els seus actes i com el veuen els altres personatges.
 
 **Recursos:** [BoardLive: Pissarra col·laborativa](https://boardlive.github.io/)
@@ -1169,19 +1149,13 @@ Es poden seguir els passos següents:
 
 1. El professor diu als alumnes; Pensa sobretot el que hem estat parlant avui a classe. Si haguessis d'escriure un titular que captés l'essència del que hem estat parlant i que pugui ser recordat, quin titular triaries? 
 
-
 1. Compartir el titular amb algú de la classe. 
-
 
 1. El professor pregunta: Qui ha sentit un titular que sigui particularment bo i que realment arribi al fons de la qüestió? 
 
-
 1. Es crea una llista de "headlines". Aquesta llista es pot revisar i ampliar a mesura que els alumnes aprenen més sobre el tema. 
 
-
 1. Al final del tema, el professor pregunta: com ha canviat el teu “headline”? En què difereix del que ja havies dit tu? (aquestes preguntes poden ajudar els alumnes a fer canvis en el pensament).
-
-
 
 Fitxa per treballar la tècnica:
 
@@ -1190,33 +1164,14 @@ Fitxa per treballar la tècnica:
 
 *Si volguessis escriure un titular per a aquest tema, ara que has captat l'aspecte més important i que vols que sigui recordat, quin titular triaries? *
 
-
-
-
-
-
-
 ---
 *Com ha canviat el teu titular a partir de la discussió d'avui? *
-
-
-
-
-
-
 
 ---
 *En què difereix respecte a l'anterior? *
 
+**Exemple:**
 
-
-
-
-
-
----
-
-#### Exemple
 Tema: l'ús dels plàstics d'un sol ús
 
 Titular inicial: "El plàstic d'un sol ús és molt còmode, però té un gran impacte ambiental"
@@ -1258,7 +1213,7 @@ Plantilles per a aquesta rutina.
 
 ----
 
-#### Exemple
+**Exemple:**
 
 En una classe d’història de l’art, el professor mostra una fotografia d’una plaça urbana plena de gent durant una manifestació. A la columna “Veig”, l’alumnat anota només observacions: pancartes, moltes persones, edificis, policia, cartells i un carrer tallat.
 
@@ -1298,7 +1253,8 @@ Rutina senzilla per analitzar una proposta, alternativa o experiència prèvia m
 - Distingir avantatges i inconvenients.
 - Afavorir l'argumentació i la presa de decisions.
 
-#### Exemple
+**Exemple:**
+
 Abans de decidir si una activitat es farà individualment o en grup, la classe elabora dues columnes amb pros i contres de cada opció i justifica quina organització sembla més adequada.
 
 **Tècniques relacionades:** Contrasta i compara, La brúixola (punts cardinals), Matriu de problemes, Revisa les conseqüències, Model d'argumentació de Toulmin, Mapa d'arguments
@@ -1346,7 +1302,8 @@ Es pot utilitzar en ciències, història, economia, filosofia, llengua o qualsev
 - CER és especialment útil per escriure explicacions científiques, conclusions de pràctiques, respostes argumentades o anàlisis de dades.
 - «Què et fa dir això?» funciona molt bé com a rutina breu d'observació; CER funciona millor com a marc per elaborar respostes més completes.
 
-#### Exemple
+**Exemple:**
+
 En una pràctica de biologia, l'alumnat observa que unes llavors han germinat millor amb presència d'aigua que sense aigua. La pregunta és: “L'aigua és necessària per a la germinació?”.
 
 - **Afirmació**: L'aigua és necessària perquè les llavors germinin.
@@ -1393,7 +1350,8 @@ Prediu, observa, explica (POE) és una tècnica en què l'alumnat anticipa què 
 - Afavorir el canvi conceptual i la revisió d'idees.
 - Desenvolupar explicació raonada a partir d'observacions o dades.
 
-#### Exemple
+**Exemple:**
+
 En biologia, el professor pregunta: “Què passarà si col·loquem una patata pelada en aigua molt salada durant una hora?”. Abans d'observar el resultat, cada alumne prediu si la patata guanyarà aigua, perdrà aigua o no canviarà, i justifica la seva resposta.
 
 Després es realitza l'experiència. L'alumnat observa que la patata perd fermesa i massa. A continuació, compara el resultat amb la seva predicció i explica el procés mitjançant l'osmosi: l'aigua surt de les cèl·lules cap al medi més concentrat en sal. La tècnica ajuda a revisar idees intuïtives sobre el moviment de l'aigua i a construir una explicació basada en evidències.
@@ -1431,7 +1389,8 @@ Afirmació, suport i pregunta, o *Claim-Support-Question*, és una rutina de pen
 4. Formula una pregunta que ajudi a continuar pensant o investigant.
 5. Es comparteixen respostes i es revisa la qualitat de les afirmacions, suports i preguntes.
 
-#### Exemple
+**Exemple:**
+
 En història, després d'analitzar un gràfic sobre població urbana, un alumne escriu: “Afirmació: les ciutats van créixer molt durant la industrialització. Suport: el gràfic mostra un augment sostingut de població urbana entre 1850 i 1900. Pregunta: aquest creixement va ser igual en tots els grups socials o va afectar més uns que altres?”.
 
 **Tècniques relacionades:** Què et fa dir això?, Penso, m'interessa, investigo, Seminari socràtic, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), Model d'argumentació de Toulmin
@@ -1469,7 +1428,8 @@ Connecta, amplia, desafia és una rutina de pensament de Project Zero que ajuda 
 - Formular dubtes significatius.
 - Afavorir metacognició i pensament crític.
 
-#### Exemple
+**Exemple:**
+
 Després de llegir un text sobre canvi climàtic, l’alumnat dedica 8 minuts a completar tres apartats. Connecta el CO2 amb la combustió estudiada en química, amplia la comprensió amb el paper del metà i planteja com a desafiament entendre per què els efectes no són iguals a totes les regions.
 
 **Tècniques relacionades:** Escala de metacognició, KWL (Sé, Vull saber, He après), Pensava... ara penso, Penso, m'interessa, investigo
@@ -1507,7 +1467,8 @@ Genera, ordena, connecta, elabora és una rutina de pensament de Project Zero pe
 - Organitzar informació de manera gràfica.
 - Construir una síntesi conceptual.
 
-#### Exemple
+**Exemple:**
+
 En iniciar el sistema circulatori, els alumnes generen durant 3 minuts termes com cor, artèries, venes, sang, oxigen i capil·lars. Després els ordenen, els connecten amb fletxes i elaboren el mapa afegint pressió sanguínia, intercanvi de gasos i transport de nutrients.
 
 **Tècniques relacionades:** Analitza i sintetitza, Mapa conceptual a quatre bandes, Visual Thinking (pensament visual), Model Frayer
@@ -1546,7 +1507,8 @@ Estira-i-arronsa és una rutina de pensament de Project Zero per analitzar dilem
 - Reconèixer matisos i condicions.
 - Desenvolupar pensament crític i argumentació.
 
-#### Exemple
+**Exemple:**
+
 En biologia, la classe analitza si s’ha de permetre l’ús d’animals en investigació biomèdica. Durant 10 minuts, els grups col·loquen arguments a favor i en contra: desenvolupament de tractaments, patiment animal, regulació ètica i alternatives experimentals. Al final, formulen una postura matisada.
 
 **Tècniques relacionades:** Controvèrsia acadèmica, Seminari socràtic, Model d'argumentació de Toulmin, Controvèrsia estructurada amb evidències
@@ -1580,7 +1542,7 @@ La rutina es recolza en tres preguntes que l’alumnat respon «des de dins» de
 4. Es comparteixen les diferents perspectives i es contrasten: on coincideixen, on xoquen i per què.
 5. Es reflexiona sobre com canvia la comprensió de la situació en haver-la mirat «des de dins» d’un altre.
 
-#### Exemple
+**Exemple:**
 
 Davant d’un quadre que representa una escena quotidiana del segle XIX, diferents alumnes es posen al lloc de la nena que hi apareix, del comerciant del fons i fins i tot del gos. Cadascun descriu què percep, què pensa i què li importa des d’aquesta posició. En posar-les en comú, la classe descobreix tensions i matisos de l’escena que no es veien des d’una única mirada.
 
@@ -1617,7 +1579,7 @@ _Paraules clau: rutina de pensament, explicació, causalitat, Project Zero, curi
 4. S’aprofundeix: «Què et fa pensar això? Quina altra explicació hi podria haver?».
 5. Es contrasten explicacions alternatives i es valoren segons les evidències disponibles.
 
-#### Exemple
+**Exemple:**
 
 En ciències, el docent mostra una fulla amb les vores enrotllades i pregunta quin detall crida l’atenció. Un alumne assenyala les vores seques. «Per què creus que s’han enrotllat així?» Sorgeixen explicacions: falta d’aigua, excés de sol, una plaga. El grup les contrasta i decideix quines evidències servirien per confirmar-les, convertint una simple observació en una petita indagació.
 
@@ -1654,7 +1616,7 @@ El silenci iguala la participació (també intervenen els qui no solen parlar), 
 4. El docent pot participar també per escrit, llançant preguntes que facin aprofundir.
 5. Al final es trenca el silenci: s’observa el mural en conjunt, s’identifiquen patrons, acords i tensions, i es comenta en veu alta.
 
-#### Exemple
+**Exemple:**
 
 A tutoria, al centre d’un paper continu s’escriu «Què fa que un grup funcioni bé?». Sense parlar, l’alumnat va escrivint idees (respecte, escolta, repartir tasques), reaccionant a les dels altres i unint-les amb fletxes. En acabar, el mural mostra d’un cop d’ull les idees dominants i les discrepàncies, que serveixen de base per a un debat posterior.
 
@@ -1691,7 +1653,7 @@ Formular preguntes activa l’interès, fa aflorar el que ja se sap i el que es 
 4. Es revisen les preguntes: s’identifiquen les més interessants o potents i es distingeix entre preguntes tancades i obertes.
 5. Es trien algunes preguntes per investigar-les o s’utilitzen per guiar l’estudi del tema.
 
-#### Exemple
+**Exemple:**
 
 Abans de començar un tema sobre l’aigua, l’alumnat usa les arrencades per generar preguntes: «Per què l’aigua del mar és salada?», «Què passaria si no plogués durant un any?», «Com arriba l’aigua fins a l’aixeta?». Després seleccionen les que més els intriguen i es converteixen en el fil conductor de la unitat, donant-los protagonisme en el que aprendran.
 
@@ -1725,13 +1687,13 @@ En aquesta dinàmica es tracta que els alumnes es defineixin a si mateixos, per�
 1. Els alumnes escriuen una carta on parlin dels seus gustos, aficions, el seu caràcter, etc., però no sobre el seu aspecte físic ni com van vestits. És bo que el professorat s'impliqui i escrigui també la seva pròpia descripció.
 1. Es van llegint les cartes una a una i els alumnes intenten esbrinar qui l'ha escrit.
 
-#### Exemple
+**Exemple:**
 
 A l’inici de curs, el professor proposa al grup que escrigui una breu carta per presentar-se a una persona que encara no els coneix. A la carta poden parlar de les seves aficions, de com els agrada treballar, de què els costa més, de quin tipus d’activitats els motiven o d’algun tret del seu caràcter, però no poden mencionar dades físiques.
 
 Després, el professor llegeix les cartes sense dir-ne el nom. El grup intenta endevinar qui l’ha escrita i ha de justificar la resposta amb alguna pista del text. L’activitat facilita que els alumnes es coneguin millor i genera un clima inicial de confiança.
 
-Font: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase.
+_Font: Romero, G.A. (2009). Técnicas para trabajar la cohesión de una clase._
 
 **Tècniques relacionades:** Coneguem-nos, La caixa, L'entrevista, M'agrada, no m'agrada
 
@@ -1779,13 +1741,13 @@ Conclusions
 
 És interessant conèixer les persones amb qui convivim dia a dia perquè així les podem comprendre millor i cooperar en la consecució d'objectius comuns.
 
-Font: ECO. (2007). Dinámicas para hacer grupo.
-
-#### Exemple
+**Exemple:**
 
 Durant la primera setmana de classe, el professor entrega una fitxa amb frases com: “Busca algú que tingui un animal a casa”, “Busca algú que practiqui algun esport”, “Busca algú que sàpiga cuinar alguna cosa senzilla” o “Busca algú que hagi llegit un llibre aquest estiu”.
 
 Durant uns minuts, l’alumnat es mou per l’aula, pregunta als companys i anota noms a la fitxa. Després, es fa una posada en comú: cada estudiant comenta alguna cosa que ha descobert d’una altra persona. L’activitat ajuda a trencar el gel, afavoreix la interacció inicial i permet que el grup trobi afinitats més enllà dels grups habituals.
+
+_Font: ECO. (2007). Dinámicas para hacer grupo._
 
 **Tècniques relacionades:** Qui és qui?, L'entrevista, Seguir la pista, Les pàgines grogues
 
@@ -1820,29 +1782,17 @@ Així doncs, tots els alumnes es necessiten els uns als altres i es veuen "oblig
 Flippity té una funció especial per aquesta tècnica. A l’opció *Random Name Picker*, una vegada formats els grups, veurem una peça de trencaclosques. Això farà que ens apareguin grups formats per un membre de cada un dels equips inicials (els grups d’experts). Si tornem a prémer el mateix botó, apareixeran els grups del principi.
 Formació de grups amb 3 membres cadascun:
 
-
-
 En prémer el botó  apareixeran els “grups d’experts”, amb un membre de cada un dels grups anteriors.
 
-
-
-
----
-Font: Pérez, M. (2015). Dinámicas cooperativas.
-
----
-
-**Explicació de la tècnica:**
-
-
-
-#### Exemple
+**Exemple:**
 
 En una unitat sobre l’aparell digestiu, el professor divideix el contingut en quatre seccions: boca i esòfag, estómac, intestí prim i intestí gros. En cada equip base, cada alumne rep una secció diferent i la prepara amb un text, un esquema i una imatge.
 
 Després, tots els alumnes que tenen la mateixa secció es reuneixen en grups d’experts per resoldre dubtes, acordar les idees essencials i preparar una explicació clara. A continuació, tornen al seu equip base i expliquen la seva part a la resta.
 
 L’equip completa un esquema general del procés digestiu, relacionant les fases entre si i explicant què passa amb els aliments en cadascuna. La tasca només es pot acabar si tots els membres aporten correctament la seva peça.
+
+_Font: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Recursos:** [GeCo - Generador d'Equips Cooperatius](https://jjdeharo.github.io/geco/)
 
@@ -1881,18 +1831,17 @@ Conèixer trets de personalitat característics de l'alumnat que forma part del 
 
 - A continuació convida el grup a fer el mateix, indicant-los que un dia hauran de portar a classe la seva pròpia caixa amb “els seus objectes” (tres o quatre, els que es determinin). Aquest dia mostraran els objectes als seus companys i companyes i els explicaran què significa, en l'àmbit personal, cadascun.
 
-
 Conclusions
 
 El fet de donar a conèixer alguns trets de la nostra personalitat genera confiança mútua i desenvolupa la empatia.
 
-Font: ECO. (2007). Dinámicas para hacer grupo.
-
-#### Exemple
+**Exemple:**
 
 A l’inici de curs, el professor porta una caixa amb quatre objectes: una llibreta, una petita planta, una memòria USB i una peça de bicicleta. Explica que la llibreta representa el seu gust per escriure i organitzar idees, la planta el seu interès per la biologia, la memòria USB la seva relació amb la tecnologia i la peça de bicicleta una afició personal.
 
 Després, cada alumne prepara la seva pròpia caixa amb tres objectes que expliquin alguna cosa de la seva personalitat, interessos o habilitats. En la sessió següent, els presenta al grup i respon alguna pregunta dels companys. L’activitat permet conèixer-se de manera personal sense centrar-se en l’aspecte físic.
+
+_Font: ECO. (2007). Dinámicas para hacer grupo._
 
 **Tècniques relacionades:** Qui és qui?, Seguir la pista, Les pàgines grogues
 
@@ -1933,7 +1882,7 @@ Fonts:
 - Dipsalut. (2016). Dinàmiques curtes de cohesió de grup i acceptació.
 - Dinámicas grupales. (2021). Dinámica Me Gusta y No Me Gusta.
 
-#### Exemple
+**Exemple:**
 
 En una sessió de tutoria, el professor traça una línia imaginària a l’aula. Diu frases com: “M’agrada treballar en grup”, “M’agrada parlar en públic”, “Em costa demanar ajuda”, “M’agraden les activitats creatives” o “Prefereixo tasques amb instruccions molt clares”.
 
@@ -1965,13 +1914,6 @@ Donar a conèixer a les altres persones del grup aspectes significatius de la no
 #### Desenvolupament
 
 - El professor o professora escriu a la pissarra dades numèriques, paraules, símbols..., és dir, pistes sobre aspectes personals que compartirà amb el grup. Per exemple:
-  - Barcelona, dos, 1950, cambrer, onze, llegir, 2, sinceritat, Sant Petesburg...
-
-- Els alumnes segueixen les pistes i fan preguntes tancades per endevinar quin significat tenen. Per exemple:
-  - Ets de Barcelona?
-  - El teu equip de futbol preferit és el Barcelona?
-  - Vas estudiar a Barcelona?
-  - Tens família vivint a Barcelona?, etc.
 
 - Cada estudiant prepara sis pistes sobre si mateix i, en parelles, intenten descobrir-ne el significat.
 
@@ -1979,7 +1921,21 @@ Conclusions
 
 A la nostra vida hi ha elements significatius. Si es comparteixen s'està reconeixent i valorant a les altres persones i també a nosaltres mateixos.
 
-Font: ECO. (2007). Dinámicas para hacer grupo.
+**Exemple:**
+
+El docent escriu a la pissarra les seves pròpies pistes: _Barcelona, dos, 1950, cambrer, onze, llegir, 2, sinceritat, Sant Petersburg_.
+
+Els alumnes fan preguntes tancades (sí/no) per desxifrar-les:
+- "Ets de Barcelona?" → No
+- "Vas estudiar a Barcelona?" → Sí ✓
+- "El número dos té a veure amb els teus fills?" → Sí ✓
+- "1950 és l'any en què vas néixer?" → No
+- "És l'any en què va néixer algú de la teva família?" → Sí ✓
+- "Sant Petersburg és una ciutat que has visitat?" → Sí ✓
+
+Un cop desxifrades les pistes del docent, cada estudiant prepara les seves sis pistes i, en parelles, el company intenta descobrir-les amb preguntes de sí/no. La sessió acaba compartint en gran grup les pistes més curioses o difícils de desxifrar.
+
+_Font: ECO. (2007). Dinámicas para hacer grupo._
 
 **Tècniques relacionades:** Coneguem-nos, La caixa, L'entrevista, M'agrada, no m'agrada, Línia de temps
 
@@ -2012,7 +1968,7 @@ Tècnica per assegurar una participació equitativa en els debats en grup.
 #### Objectius
 Regular la participació, evitar que un alumne domini la conversa i animar els més reservats a participar.
 
-#### Exemple
+**Exemple:**
 
 En una tutoria sobre convivència, cada alumne rep tres fitxes per debatre la pregunta: “Quines normes ajuden que un grup treballi millor?”. Cada vegada que algú intervé ha de deixar una fitxa al centre.
 
@@ -2054,7 +2010,8 @@ Tècnica estructurada de generació i priorització d'idees que facilita la part
 - Recollir idees de forma ordenada i equitativa.
 - Prendre decisions grupals amb més equilibri.
 
-#### Exemple
+**Exemple:**
+
 Abans d'escollir el tema d'un projecte, cada alumne proposa diverses opcions. Després es recullen totes, s'aclareixen i es voten per seleccionar la proposta que representi millor el grup.
 
 **Tècniques relacionades:** Graffiti Cooperatiu, La brúixola (punts cardinals), RallyRobin, RoundRobin, Talking Chips (Fitxes de conversa), World Café
@@ -2093,7 +2050,8 @@ Estructura d'aprenentatge cooperatiu en parelles en què un alumne actua com a t
 - Millorar la comprensió mitjançant explicació i acompanyament.
 - Desenvolupar responsabilitat, escolta i comunicació.
 
-#### Exemple
+**Exemple:**
+
 En matemàtiques, un alumne tutor acompanya el seu company en la resolució d'un problema. Li pregunta quines dades té, quina operació creu necessària i per què, però no li escriu la resposta final.
 
 **Tècniques relacionades:** Equip-parella-individual, Els quatre savis, Equips d'ajuda mútua / TAI (Team Assisted Individualization), Les pàgines grogues, Co-docència (Co-teaching), Exemples resolts, Alliberament gradual de la responsabilitat, Pensament en veu alta, Bastida i zona de desenvolupament proper (ZDP)
@@ -2132,7 +2090,8 @@ Estructura cooperativa que combina el treball en equips heterogenis amb la instr
 - Afavorir ajuda mútua i responsabilitat individual.
 - Atendre diferents ritmes i nivells de competència.
 
-#### Exemple
+**Exemple:**
+
 En càlcul, cada alumne treballa una seqüència d'exercicis ajustada al seu nivell. Abans de demanar ajuda al professor, consulta amb el seu equip, que l'orienta i revisa el procediment.
 
 **Tècniques relacionades:** Equip-parella-individual, STAD (Student Teams Achievement Divisions), Tutoria entre iguals (Peer Tutoring), Aprenentatge de domini
@@ -2171,7 +2130,8 @@ Estructura cooperativa en què diferents grups s'especialitzen en pràctiques, t
 - Afavorir la tutoria entre iguals.
 - Compartir aprenentatges complementaris de forma cooperativa.
 
-#### Exemple
+**Exemple:**
+
 En biologia, mitja classe fa una pràctica d'observació de cèl·lules vegetals i l'altra mitja una de cèl·lules animals. Després es formen equips mixtos per comparar resultats i elaborar una conclusió conjunta.
 
 **Tècniques relacionades:** El Trencaclosques ("Jigsaw"), Estacions d'aprenentatge, Els quatre savis
@@ -2208,7 +2168,8 @@ Dinàmica de presa de decisions que mostra de forma pràctica l'eficàcia del tr
 - Desenvolupar argumentació, escolta i consens.
 - Analitzar com millora la presa de decisions quan es contrasten idees.
 
-#### Exemple
+**Exemple:**
+
 El grup ha d'ordenar els objectes més importants per sobreviure després d'un allunatge. Primer decideix cada alumne, després l'equip i finalment es compara amb la solució experta.
 
 **Tècniques relacionades:** La taula rodona, Matriu de problemes, Placemat consensus
@@ -2247,7 +2208,8 @@ Dinàmica de cohesió en què cada estudiant crea un anunci personal oferint alg
 - Visibilitzar les fortaleses de cada alumne.
 - Promoure ajuda entre iguals i cohesió de grup.
 
-#### Exemple
+**Exemple:**
+
 Un alumne ofereix ajuda per utilitzar un full de càlcul, un altre per dibuixar esquemes i un altre per explicar regles d'un joc. La classe crea un directori al qual pot acudir quan necessiti suport.
 
 **Tècniques relacionades:** Coneguem-nos, La caixa, Tutoria entre iguals (Peer Tutoring)
@@ -2283,7 +2245,8 @@ Model de docència compartida en què dos docents treballen conjuntament en la p
 - Enriquir les estratègies d'ensenyament.
 - Afavorir mentoria, observació i suport dins l'aula.
 
-#### Exemple
+**Exemple:**
+
 En una classe inclusiva, un docent condueix l'explicació mentre un altre observa dificultats, ofereix suports puntuals i després tots dos reorganitzen l'activitat segons les necessitats detectades.
 
 **Tècniques relacionades:** Estacions d'aprenentatge, Coneixement tecnològic, pedagògic i del contingut (TPACK), Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring)
@@ -2333,7 +2296,8 @@ Els rols cooperatius ajuden a evitar que uns alumnes assumeixin tota la feina i 
 - Organitzar millor la cooperació.
 - Ajudar l’alumnat a aprendre com es treballa en grup.
 
-#### Exemple
+**Exemple:**
+
 En un projecte per crear un pòdcast d’aula, un alumne coordina el repartiment de tasques, un altre escriu el guió, un altre controla el temps de gravació i un altre actua com a portaveu de l’equip. També hi pot haver un responsable de so o de revisió final.
 
 En acabar, l’equip revisa si cada rol ha ajudat a organitzar millor la feina: si el guió era clar, si tothom hi ha participat, si s’han respectat els temps i si el producte final comunica bé el missatge. La tècnica permet que el treball cooperatiu sigui més ordenat i que les responsabilitats siguin visibles.
@@ -2372,7 +2336,7 @@ Garanteix la interacció simultània i la responsabilitat individual, dos princi
 5. L’alumne 4 valora la resposta: si és correcta, felicita; si no, ajuda a corregir-la o la reensenya.
 6. Els rols giren una posició i es repeteix amb la targeta següent, fins a esgotar el joc.
 
-#### Exemple
+**Exemple:**
 
 Per repassar vocabulari d’anglès, cada equip usa targetes amb una paraula per una cara i la traducció per l’altra. Qui sosté el ventall ofereix les targetes; un altre tria i llegeix; un tercer tradueix; el quart comprova amb el dors i, si cal, corregeix amb amabilitat. Després de cada pregunta els rols giren, així que en pocs minuts tothom ha preguntat, respost i avaluat.
 
@@ -2410,7 +2374,7 @@ La clau és que ningú no es pot amagar darrere del grup: cada alumne produeix l
 5. Comparen: si coincideixen i és correcta, ho celebren; si hi ha diferències, discuteixen i s’ajuden fins a aclarir-la.
 6. El rol de capità gira i es passa a la targeta següent.
 
-#### Exemple
+**Exemple:**
 
 En matemàtiques, el capità llegeix «resol 3/4 + 1/8». Cada membre ho calcula a la seva pissarra sense mirar els altres. Al crit de «Showdown!», tots mostren el resultat. Dos han posat 7/8 i dos un valor diferent: l’equip compara procediments, detecta on és l’error en sumar fraccions i el corregeix abans de passar a la targeta següent.
 
@@ -2447,7 +2411,7 @@ _Paraules clau: aprenentatge cooperatiu, Kagan, moviment, interacció oral, pare
 4. Per torns, cadascú comparteix la seva resposta o idea i escolta la de l’altre.
 5. A un senyal del docent, tornen a aixecar la mà, s’acomiaden i busquen una nova parella diferent, repetint l’intercanvi.
 
-#### Exemple
+**Exemple:**
 
 Després de llegir un text, el docent demana: «penseu una idea que us hagi sorprès». Tothom s’aixeca amb la mà amunt, s’aparella amb el primer que troba i s’expliquen la idea. Al senyal, canvien de parella dues o tres vegades més. En cinc minuts cada alumne ha verbalitzat la seva idea diverses vegades i ha escoltat punts de vista diversos, arribant amb més bagatge a la posada en comú.
 
@@ -2484,7 +2448,7 @@ Aquest tercer pas és clau: obliga a escoltar amb atenció (perquè després cal
 4. Pas 3: en l’equip de quatre, cada membre comparteix per torns el que ha dit la seva parella (no el propi), en estructura «round robin».
 5. L’equip recull les idees comunes i les diferències.
 
-#### Exemple
+**Exemple:**
 
 En iniciar un projecte, el tema és «quin tema t’agradaria investigar i per què?». En parelles, A entrevista B i després B a A. Després, en l’equip de quatre, cadascú presenta l’interès del seu company: «A en David li interessa el canvi climàtic perquè…». Així tothom practica l’escolta activa i la síntesi, i l’equip coneix els interessos de tots els seus membres per decidir el projecte.
 
@@ -2533,17 +2497,16 @@ Hem de tenir molt en compte els temps necessaris per a cada un dels alumnes, a l
 
 La resolució de la tasca per part dels equips pot anar acompanyada d'una recompensa del grup i del professor, en forma d'elogi, aplaudiment, etc.
 
-
-Font: Pérez, M. (2015). Dinámicas cooperativas.
-
-#### Exemple d'aplicació de la Tècnica cooperativa: 1-2-4:
+**Exemple:**
 
 1. El professor de ciències planteja una pregunta sobre el sistema solar als seus alumnes: "Quines són les principals característiques del planeta Mart?"
 
-1. Cada alumne pensa individualment la seva resposta i l'escriu en una fulla de paper.
+1. Cada alumne pensa individualment la seva resposta i l'escriu en un full de paper.
 1. Els alumnes es col·loquen en parelles i intercanvien les seves respostes. Discuteixen i comenten les respostes de l'altre membre de la parella i decideixen quines són les més adequades. Cada parella escriu la resposta final en comú.
 1. Les dues parelles posen en comú els seus escrits i discuteixen les diferències i similituds entre elles. Elaboren una resposta final que inclogui les aportacions de tots els membres de l'equip.
 1. El professor revisa la resposta final del grup i fa els comentaris o correccions necessaris.
+
+_Font: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Recursos:** [GeCo - Generador d'Equips Cooperatius](https://jjdeharo.github.io/geco/)
 
@@ -2580,7 +2543,6 @@ MÈTODE
 
 La idea és que, a mesura que avança l'activitat, els estudiants es vagin adonant de la complexitat del tema i puguin veure les diferents perspectives que hi ha al voltant d'ell. Així, en lloc de defensar una posició de manera aferrissada, aprenen a argumentar de manera més oberta i a tenir en compte les diferents perspectives.
 
-
 OBSERVACIONS I CONSELLS PRÀCTICS:
 
 - Es pot fer servir en qualsevol moment del procés d'aprenentatge, tant per resoldre dubtes o problemes com per repassar o aprofundir en un tema determinat.
@@ -2593,15 +2555,15 @@ OBSERVACIONS I CONSELLS PRÀCTICS:
 
 - Es recomana fer una síntesi final de les idees exposades per cada equip, per tal de facilitar la comprensió dels diferents punts de vista i l'aprofundiment en el tema.
 
-Font: *Structuring Academic Controversy*, Johnson i Johnson, 1994 en Grup de recerca sobre aprenentatge entre iguals. (2016).
-
-#### Exemple
+**Exemple:**
 
 En una classe de biologia, el professor planteja la qüestió: “S’ha de permetre l’ús d’organismes modificats genèticament en l’agricultura?”. En cada equip de quatre, una parella prepara arguments a favor i l’altra arguments en contra, utilitzant fonts proporcionades pel docent.
 
 Primer, cada parella exposa la seva posició. Després, les parelles canvien de postura i han de defensar la posició contrària amb els millors arguments que han escoltat. Al final, l’equip elabora una síntesi que inclogui beneficis, riscos, condicions d’ús i dubtes pendents.
 
 L’activitat permet que l’alumnat comprengui la complexitat del tema i aprengui a argumentar sense reduir el debat a una oposició simple entre estar a favor o en contra.
+
+_Font: *Structuring Academic Controversy*, Johnson i Johnson, 1994 en Grup de recerca sobre aprenentatge entre iguals. (2016)._
 
 **Tècniques relacionades:** Aprenentatge basat en casos (ABC), Cercle de punts de vista, Fishbowl (Peixera), Seminari socràtic, Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències, Estira-i-arronsa, Debat acadèmic
 
@@ -2644,22 +2606,15 @@ Perquè l'activitat sigui dinàmica, establir una rotació ràpida, fins i tot c
 Demanar als alumnes que cada un escrigui amb un color diferent, d'aquesta manera podrem diferenciar bé les seves aportacions. 
 Es pot utilitzar una petita pissarra en comptes d'un foli. Introduir materials que aportin novetat a l'activitat. 
 
-Observar les aportacions de cada un dels membres de l'equip. 
+Observar les aportacions de cada un dels membres de l'equip.
 
-
-Font:  Pérez, M. (2015). Dinámicas cooperativas.
-
----
-
-**Explicació de la tècnica:**
-
-
-
-#### Exemple
+**Exemple:**
 
 En una classe de llengua, el professor demana a cada equip que escrigui un conte breu a partir d’una imatge. El primer alumne escriu l’inici de la història durant un minut i passa el foli al company de la dreta. El segon continua la narració, el tercer introdueix un conflicte i el quart proposa un desenllaç.
 
 En una segona volta, cada estudiant revisa o millora una part del text: vocabulari, coherència, connectors o correcció ortogràfica. Al final, l’equip llegeix el conte i comenta quina aportació ha fet cada membre. La tècnica garanteix que tothom participi i permet construir un producte comú a partir d’intervencions successives.
+
+_Font: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Tècniques relacionades:** El joc de les paraules, Graffiti Cooperatiu, RoundRobin, +1, Conversa escrita en silenci (Chalk Talk)
 
@@ -2704,7 +2659,8 @@ Model didàctic que organitza una seqüència d’aprenentatge actiu en cinc fas
 - Activar coneixements previs i promoure la indagació.
 - Afavorir l’aplicació, la transferència i l’avaluació formativa.
 
-#### Exemple complet
+**Exemple:**
+
 Tema: **Què necessiten les llavors per germinar?**
 
 1. **Enganxar / Engage**: el professor mostra dos testos, un amb llavors germinades i un altre sense germinar. Pregunta: “Si tots dos tenien llavors, per què en un han germinat i en l’altre no?”. L’alumnat escriu les seves idees inicials sobre el paper de l’aigua, la llum, la temperatura i el tipus de sòl.
@@ -2761,13 +2717,13 @@ Consells:
 - Abans de començar la classe, feu preguntes que seran respostes durant l'exposició. Demaneu als alumnes que estiguin alertes per trobar aquestes respostes.
 - Distribuir els diferents rols entre els integrants de cada equip. Consensuar dins del grup la proposta final.
 
-Font: Varas, M. & Zariquiey, F. (2011). Técnicas formales e informales de aprendizaje cooperativo.
-
-#### Exemple
+**Exemple:**
 
 Durant una explicació sobre el canvi climàtic, el professor divideix la classe en quatre equips d’oients. Un equip ha de preparar preguntes, un altre ha d’identificar idees amb les quals està d’acord, un altre ha d’assenyalar possibles objeccions o dubtes i l’últim ha d’aportar exemples de la vida quotidiana.
 
 En acabar l’exposició, l’equip de preguntes planteja qüestions sobre causes i conseqüències, l’equip d’aprovació destaca la utilitat de diferenciar temps atmosfèric i clima, l’equip de desacord pregunta per la fiabilitat d’algunes dades i l’equip d’exemples relaciona el tema amb sequeres, onades de calor o canvis en el consum energètic. L’activitat transforma una explicació del professor en una escolta activa i estructurada.
+
+_Font: Varas, M. & Zariquiey, F. (2011). Técnicas formales e informales de aprendizaje cooperativo._
 
 **Tècniques relacionades:** Parada de tres minuts, Pregunta i respon, Seminari socràtic
 
@@ -2804,10 +2760,7 @@ De vegades es revisen aquests qüestionaris abans de la classe presencial per po
 
 Atès que les explicacions es fan fora de l'horari escolar, aquest temps ara s'aprofita per a la resolució de dubtes i realització de feines, cosa que abans es feia moltes vegades a casa.
 
-
-
 #### Metodologia de l'aula invertida
-
 
 #### Model gràfic
 
@@ -2815,20 +2768,13 @@ Elaboració pròpia
 
 #### Model tecnològic per *Flipped Classroom*
 
-
-Font: Basso-Aránguiz  et al. (2018). Propuesta de modelo tecnológico para Flipped Classroom (T-FliC) en educación superior.
-
-El següent vídeo, encara que una mica llarg, explica amb força detall en què consisteix, tant en els fonaments pedagògics com en el desenvolupament.
-
-
-
-Selecció de programari pel Flipped classroom.
-
-#### Exemple
+**Exemple:**
 
 En una unitat de matemàtiques sobre funcions lineals, el professor prepara un vídeo breu de 8 minuts amb l’explicació inicial: concepte de funció, pendent, ordenada a l’origen i lectura d’una gràfica. Juntament amb el vídeo, l’alumnat completa un petit formulari amb tres preguntes de comprovació.
 
 Abans de la classe, el professor revisa les respostes i detecta que molts alumnes confonen pendent amb altura inicial. A l’aula, dedica els primers minuts a aclarir aquesta dificultat i després organitza una activitat pràctica: interpretar gràfiques de tarifes de telefonia, trajectes i consum elèctric. El temps presencial s’utilitza per resoldre dubtes, comparar estratègies i aplicar el contingut a situacions concretes.
+
+_Font: Basso-Aránguiz et al. (2018). Proposta de model tecnològic per a Flipped Classroom (T-FliC) en educació superior._
 
 **Tècniques relacionades:** Estacions d'aprenentatge, Peer Instruction (Instrucció entre iguals), Tiquet de sortida (exit ticket), WebQuest, Aprenentatge personalitzat amb itineraris (playlists), Comunitat d’indagació (Community of Inquiry)
 
@@ -2859,7 +2805,6 @@ Aquesta activitat té com a objectius orientar cap als continguts i desenvolupar
 
 1. Un cop recollides les idees de tots dos, els alumnes formen parelles amb el company que tenen més a prop i construeixen un text que reculli les aportacions de tots dos. Tots dos escriuen el text al segon apartat i signen les dues fitxes. Lliuren una al professor i es queden amb l'altra per a la posada en comú.
 
-
 1. Es fa una posada en comú en gran grup. En acabar, lliuren la segona fitxa.
 
 CONSELLS
@@ -2868,13 +2813,13 @@ CONSELLS
 - Valorar la generació de respostes per sobre fins i tot de la correcció d'aquestes.
 - Utilitzar les aportacions dels alumnes a l'hora de desenvolupar el tema.
 
-Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
-
-#### Exemple
+**Exemple:**
 
 Abans de començar una unitat sobre ecosistemes, el professor entrega una fitxa amb dos apartats: “El que sé” i “El que sabem”. Individualment, cada alumne escriu idees com “hi ha productors i consumidors”, “les plantes fan fotosíntesi” o “els animals depenen els uns dels altres”.
 
 Després, es formen parelles i construeixen un text comú amb les idees de tots dos, corregint errors i afegint relacions noves. En la posada en comú, el professor recull les aportacions més repetides i les utilitza per iniciar la unitat, detectar idees prèvies i formular preguntes de treball.
+
+_Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Tècniques relacionades:** 1 - 2 - 4, KWL (Sé, Vull saber, He après), Think-Pair-Share (Pensa-Parella-Comparteix)
 
@@ -2917,13 +2862,13 @@ Font Pérez, M. (2015). Dinámicas cooperativas.
 
 **Explicació de la tècnica:**
 
-
-
-#### Exemple
+**Exemple:**
 
 En matemàtiques, el professor entrega a cada equip quatre exercicis de proporcionalitat. Cada alumne té un número de l’1 al 4. L’equip resol els exercicis i s’assegura que tothom entén el procediment: identificar magnituds, comprovar si la relació és directa o inversa i justificar el càlcul.
 
 Quan s’acaba el temps, el professor diu un número a l’atzar, per exemple el 3. Tots els alumnes amb aquest número surten o responen en nom del seu equip. Com que no saben qui serà escollit, l’equip ha d’ajudar tots els seus membres a comprendre la tasca, no només a obtenir una resposta ràpida.
+
+_Font: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Tècniques relacionades:** Llapis al centre, Peer Instruction (Instrucció entre iguals), STAD (Student Teams Achievement Divisions), Un per a tots, Preguntar sense mans aixecades (cold calling), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown)
 
@@ -2952,20 +2897,19 @@ Objectius:
 - Generar diverses respostes.
 - Fomentar el diàleg, la controvèrsia i el consens.
 
-
 Desenvolupament
 
 1. El professor planteja una sèrie de preguntes que es respondran al llarg de la sessió.
 1. Els alumnes s'agrupen en parelles.
 1. El professor demana a l'atzar algunes respostes de les parelles.
 
-Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
-
-#### Exemple
+**Exemple:**
 
 En una classe d’educació digital, el professor planteja diverses preguntes sobre l’ús de les xarxes socials: “Quins avantatges té compartir continguts en línia?”, “Quins riscos pot tenir publicar informació personal?” i “Quines normes bàsiques hauríem de seguir per comunicar-nos amb respecte?”.
 
 Cada parella comenta les preguntes durant uns minuts i anota dues idees consensuades. Després, el professor demana a l’atzar la resposta d’algunes parelles i construeix a la pissarra una llista comuna de recomanacions. La tècnica permet activar experiències prèvies i convertir-les en criteris compartits d’ús responsable.
+
+_Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Tècniques relacionades:** Cronometrat, Parella, Comparteix (Timed, Pair, Share), Rellotge de cites, Think-Pair-Share (Pensa-Parella-Comparteix), Entrevista en tres passos (Three-Step Interview)
 
@@ -3006,9 +2950,7 @@ Adaptat d'Orientacionandujar. (2017). Aprendizaje cooperativo el reloj de las ci
 
 **Explicació de la tècnica:**
 
-
-
-#### Exemple
+**Exemple:**
 
 En una unitat de comprensió lectora, cada alumne completa el seu rellotge amb dotze cites. El professor anuncia la cita de les tres i planteja la pregunta: “Quina és la idea principal del text que hem llegit?”. Les parelles es reuneixen, comparen les seves respostes i redacten una frase comuna.
 
@@ -3052,7 +2994,8 @@ Tècnica cooperativa breu que combina reflexió individual, contrast per parelle
 - Donar temps per pensar abans de parlar.
 - Millorar la qualitat de les respostes mitjançant el contrast entre iguals.
 
-#### Exemple
+**Exemple:**
+
 En biologia, abans d'explicar la selecció natural, el professor pregunta: **per què alguns bacteris es tornen resistents als antibiòtics?** Cada alumne proposa una explicació, després la compara amb la seva parella i finalment es recullen diverses respostes per iniciar l'explicació.
 
 **Tècniques relacionades:** 1 - 2 - 4, Cronometrat, Parella, Comparteix (Timed, Pair, Share), El que sé i el que sabem, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals), Temps d’espera (wait time), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview)
@@ -3080,13 +3023,13 @@ _Paraules clau: responsabilitat grupal, cooperació, avaluació, resolució de p
 1. Els equips s'asseguren d'haver respost els exercicis correctament dins el grup.
 1. El professor agafa una solució a l'atzar de cada grup i la seva nota serà la de tot l'equip.
 
-Font: Laboratorio de innovación educativa de la cooperativa José Ramón Otero. (2016). Aprendizaje cooperativo.
-
-#### Exemple
+**Exemple:**
 
 En matemàtiques, el professor planteja quatre problemes de proporcionalitat per resoldre en equip. Cada grup discuteix els procediments, comprova els càlculs i s’assegura que qualsevol membre pugui explicar la solució.
 
 En acabar, el professor recull a l’atzar el quadern d’un alumne de cada grup. La correcció d’aquell exercici compta per a tot l’equip. Això anima el grup a revisar la feina de tothom i a no deixar que una sola persona resolgui la tasca sense que els altres la comprenguin.
+
+_Font: Laboratori d'innovació educativa de la cooperativa José Ramón Otero. (2016). Aprenentatge cooperatiu._
 
 **Tècniques relacionades:** Llapis al centre, Nombres iguals junts (Caps junts numerats), STAD (Student Teams Achievement Divisions)
 
@@ -3122,7 +3065,8 @@ Concept Cartoon és una tècnica que presenta una situació mitjançant una viny
 5. Es contrasta amb una observació, experiment, lectura o discussió guiada.
 6. L'alumnat revisa la seva explicació inicial.
 
-#### Exemple
+**Exemple:**
+
 En física, una vinyeta mostra tres alumnes parlant sobre una pilota que cau. Un diu que els objectes pesants sempre cauen abans, un altre que tots cauen igual si no hi ha aire i un altre que depèn de la forma. La classe discuteix les idees, fa una petita experiència o analitza un vídeo i revisa les explicacions sobre la caiguda dels cossos.
 
 **Tècniques relacionades:** Què et fa dir això?, Aprenentatge basat en indagació, Genera hipòtesis, Veig, penso, em pregunto, Afirmació, evidència i raonament (CER), Prediu, observa, explica (POE)
@@ -3161,7 +3105,8 @@ La tècnica de formulació de preguntes, o QFT, és una proposta del Right Quest
 - Distingir tipus de preguntes.
 - Millorar la qualitat de la indagació.
 
-#### Exemple
+**Exemple:**
+
 En biologia, el professor mostra la frase: “Cada vegada hi ha més bacteris resistents als antibiòtics”. Durant 5 minuts, els equips generen preguntes. Després en trien tres: una factual, una causal i una d’investigació. Aquestes preguntes orienten la cerca d’informació de la sessió següent.
 
 **Tècniques relacionades:** Aprenentatge basat en preguntes  (ABPC), Penso, m'interessa, investigo, Pregunta el perquè, Pregunta i respon, Inicis de preguntes (Question Starts)
@@ -3189,8 +3134,6 @@ _Paraules clau: casos, anàlisi, presa de decisions, argumentació, treball en e
 És un model flexible, en el qual el professor planteja un cas que els estudiants poden llegir, explorar o debatre, permetent que cada un desenvolupi la seva pròpia opinió. 
 
 Els casos són situacions o esdeveniments concrets de la vida real o simulat, però realistes. Els alumnes l'han d'analitzar o proporcionar respostes de solució.
-
-
 
 #### Aplicació de l'ABC
 
@@ -3222,7 +3165,7 @@ Fonts:
 - AQU. (2009). Metodologies actives i formatives.
 - López, A. (2008). El método de casos
 
-#### Exemple
+**Exemple:**
 
 Els aumnes de l'ESO estan estudiant l'economia i han de treballar amb el cas d'una empresa local que està tenint dificultats financers. El professor pot proporcionar als estudiants informació sobre l'empresa, com ara les seves finances, els seus productes o serveis, la seva competència, etc., i demanar-los que analitzin la situació i proposin solucions als problemes que l'empresa està experimentant.
 
@@ -3283,7 +3226,8 @@ Metodologia activa orientada a resoldre problemes mitjançant un procés creatiu
 - Fomentar la col·laboració i la presa de decisions.
 - Aprendre a millorar una solució a partir de proves i retroalimentació.
 
-#### Exemple
+**Exemple:**
+
 En digitalització, els alumnes dissenyen una solució per millorar l'organització de tasques del grup classe. Entrevisten companys, defineixen necessitats, proposen idees, creen un prototip de plantilla digital i el proven durant una setmana.
 
 **Recursos:** [Pluja d'idees i vots](https://jjdeharo.github.io/directo/ideas.html)
@@ -3315,14 +3259,13 @@ _Paraules clau: dubtes, ajuda mútua, avaluació formativa, cooperació, feedbac
 
 Aquesta estructura és especialment útil per posar en relleu la interacció (en aquest cas, en forma de solidaritat o ajuda mútua) que hi ha d'haver a tot el grup de classe, no només dins d'un mateix equip, ja que els diferents equips s'ajuden a l'hora de resoldre els dubtes que un equip concret no ha sabut resoldre.
 
-
-Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
-
-#### Exemple
+**Exemple:**
 
 Després d’una sessió sobre equacions de primer grau, cada alumne escriu un dubte concret: “Per què es canvia de signe quan es passa un terme a l’altre costat?”, “Què faig si hi ha parèntesis?” o “Com comprovo si la solució és correcta?”.
 
 Primer, l’equip intenta resoldre els dubtes dels seus membres. Els que no poden respondre es dipositen al sac de dubtes de la classe. El professor n’extreu alguns i demana si un altre equip pot explicar-los. Al final, es resolen col·lectivament els dubtes més repetits i el docent detecta quins aspectes necessiten una nova explicació.
+
+_Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula._
 
 **Recursos:** [Mur interactiu](https://jjdeharo.github.io/directo/muro.html)
 
@@ -3357,13 +3300,13 @@ Aquesta tècnica es basa en la retirada progressiva de suport.
 
 Si es considera necessari en les passes 3 i 4, poden demanar ajuda a l'altra parella o la seva parella, respectivament.
 
-Font:  *Team-Pair-Solo, Cuseu*, 2002  en Grup de recerca sobre aprenentatge entre iguals. (2016).
-
-#### Exemple
+**Exemple:**
 
 En matemàtiques, el professor proposa tres problemes semblants sobre percentatges. El primer es resol en equips de quatre: calcular el preu final d’un producte amb descompte i IVA. El segon es resol per parelles: comparar dues ofertes amb descomptes diferents. El tercer es resol individualment: decidir quina opció de compra resulta més econòmica i justificar-ho.
 
 Al final, l’equip compara els procediments utilitzats i revisa els errors. L’estructura permet que l’alumnat practiqui primer amb suport ampli, després amb suport reduït i finalment de manera autònoma.
+
+_Font: Team-Pair-Solo, Cuseu (2002) en Grup de recerca sobre aprenentatge entre iguals. (2016)._
 
 **Tècniques relacionades:** 1 - 2 - 4, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Exemples resolts, Alliberament gradual de la responsabilitat
 
@@ -3394,12 +3337,8 @@ Després d'una explicació o d'un tema tractat prèviament a classe, El docent d
 1. Els equips intenten resoldre els problemes o preguntes que hi ha escrits en les targetes rebudes.
 1. Si han aconseguit una resposta correcta, passen a la següent; si no, revisen el procés per introduir les correccions necessàries.
 
+**Exemple:**
 
-
-
-Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
-
-#### Exemple
 Per exemple, imagineu que es vol fer una activitat sobre el cicle de l'aigua amb la tècnica de l'intercanvi de dificultats. Després de l'exposició del tema, el docent demanaria als alumnes que pensessin en una dificultat o pregunta relacionada amb el cicle de l'aigua i la formulessin en una targeta. Alguns exemples de dificultats o preguntes que els alumnes podrien formular podrien ser:
 
 - Com es produeix la transpiració?
@@ -3410,6 +3349,8 @@ Per exemple, imagineu que es vol fer una activitat sobre el cicle de l'aigua amb
 Després, els alumnes treballarien en equips per a trobar les respostes a les preguntes o problemes que han formulat. Una vegada han trobat les respostes, les escriurien al revers de la targeta. Finalment, els equips intercanviarien les targetes amb un altre equip i intentarien resoldre els problemes o preguntes que hi ha escrits. Si han aconseguit una resposta correcta, passarien a la següent; si no, revisarien el procés per introduir les correccions necessàries.
 
 Així, amb aquesta tècnica, tots els estudiants haurien tingut l'oportunitat de reflexionar sobre el tema del cicle de l'aigua i de treballar en equip per a trobar les respostes a les seves dificultats. A més, haurien pogut revisar i corregir els seus processos de resolució dels problemes relacionats amb aquest tema.
+
+_Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Tècniques relacionades:** El Sac de Dubtes, Muddiest Point (El punt més confús), Peer Instruction (Instrucció entre iguals)
 
@@ -3452,14 +3393,13 @@ Es pot combinar amb l'estructura Nombres iguals junts.
 
 Serà molt important tenir en compte i aplicar aquí un dels principis bàsics reguladors de la feina en equip cooperatiu: l'economia de recursos. Aquest concepte fa referència al fet que no li donem una fitxa amb les preguntes a cada un dels alumnes, sinó que vam lliurar només un full per equip de base. Aquest fet provoca una millora considerable en el procés d'escolta activa, ja que els alumnes han d'estar pendents de coordinador de cada qüestió, perquè en cas contrari no podran dur a feliç terme la tasca. A més, evita que hi hagi alumnes que per motiu de velocitat d'execució s'anticipin a la resta de l'equip en la realització de tasques.
 
-
-Font: Pérez, M. (2015). Dinámicas cooperativas.
-
-#### Exemple
+**Exemple:**
 
 En biologia, cada equip rep un full amb quatre preguntes sobre nutrició: funció dels glúcids, diferència entre aliment i nutrient, paper de les vitamines i conseqüències d’una dieta desequilibrada. Els llapis queden al centre mentre es debat cada pregunta.
 
 L’alumne responsable de la primera qüestió la llegeix i coordina les intervencions. Tothom ha d’aportar una idea abans d’escriure. Quan l’equip arriba a una resposta consensuada, tots agafen el llapis i l’anoten al quadern. Després, el torn passa al company següent. Així s’evita que només una persona resolgui tota la tasca i s’afavoreix l’explicació entre iguals.
+
+_Font: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Tècniques relacionades:** Nombres iguals junts (Caps junts numerats), Placemat consensus, Un per a tots, Rols cooperatius
 
@@ -3484,7 +3424,7 @@ _Paraules clau: investigació, resolució de problemes, cooperació, treball en 
 
 Veieu la secció Aprenentatge basat en situacions problematitzades (ABP).
 
-#### Exemple
+**Exemple:**
 
 En una unitat sobre contaminació de l’aigua, el professor planteja una situació problemàtica: “En un riu proper han aparegut peixos morts i l’ajuntament vol saber què pot estar passant”. La classe s’organitza en grups de recerca, i cada grup assumeix una línia de treball: anàlisi de possibles contaminants, usos del sòl propers al riu, efectes sobre els éssers vius, normativa ambiental i propostes d’intervenció.
 
@@ -3528,20 +3468,20 @@ Es poden seguir els següents passos:
 
 1. Fer un seguiment de com s'ha implementat la solució escollida i avaluar els resultats obtinguts.
 
-Exemple
+**Exemple:**
 
-Aquesta taula recull les idees referent a "com millorar el rendiment escolar":
+En una classe de 3r d'ESO sobre hàbits d'estudi, el docent planteja el problema: "Com podem millorar el rendiment escolar?". Cada equip proposa solucions i n'anticipa les conseqüències en una taula:
 
 | Solució | Efecte o conseqüència |
 |---|---|
-|Organitzar millor el temps	|Millora la gestió del temps i la capacitat de concentració|
-|Estudiar en grups	|Millora la comprensió i la resolució de dubtes|
-|Descansar prou	|Millora la concentració i la memòria|
-|Alimentar-se saludablement	|Millora la concentració i la memòria|
-|Fixar objectius	|Millora la motivació i la concentració|
-|Eliminar distraccions	|Millora la concentració|
+| Organitzar millor el temps | Millora la gestió del temps i la concentració |
+| Estudiar en grups | Millora la comprensió i la resolució de dubtes |
+| Descansar prou | Millora la concentració i la memòria |
+| Alimentar-se saludablement | Millora la concentració i la memòria |
+| Fixar objectius | Millora la motivació i la concentració |
+| Eliminar distraccions | Millora la concentració |
 
-Amb aquesta matriu, es poden comparar les diferents solucions i valorar quines són les millors opcions en funció dels seus possibles efectes o conseqüències.
+Un cop completada la matriu, els equips comparen les opcions i justifiquen quina consideren més viable per a la seva situació concreta.
 
 **Tècniques relacionades:** Pensament de disseny (Design Thinking), Detecta patrons, Genera solucions, Revisa les conseqüències, Les dues columnes, El joc de la NASA, Pensament computacional, Diagrama d’espina de peix (Ishikawa)
 
@@ -3568,13 +3508,13 @@ Aquesta tècnica és molt senzilla d'aplicar. Amb aquesta tècnica es pot encora
 1. Llavors els membres de l'equip posen les seves respostes en comú i apunten només aquelles a les que han arribat a un consens.
 1. El professor pregunta al portaveu com han arribat a aquest consens i quin és, també si han comès errors.
 
-Adaptat de: Colegio Ártica. (2018). Construimos nuestro propio aprendizaje.
-
-#### Exemple
+**Exemple:**
 
 En una assignatura d’economia, el professor planteja la pregunta: “Com podríem organitzar una fira d’intercanvi al centre amb un pressupost limitat?”. Cada alumne escriu primer les seves propostes en una zona individual del mantel: intercanvi de llibres usats, taller de manualitats, petit concert, campanya de difusió o recollida de materials reutilitzables.
 
 Després, l’equip comparteix les idees i només escriu al centre aquelles en què tothom està d’acord. Finalment, el portaveu explica quines propostes han consensuat i quins criteris han fet servir: cost, facilitat d’organització, participació de l’alumnat i impacte esperat. La tècnica ajuda a passar d’idees individuals a una decisió col·lectiva raonada.
+
+_Adaptat de: Colegio Ártica. (2018). Construimos nuestro propio aprendizaje._
 
 **Tècniques relacionades:** 1 - 2 - 4, Llapis al centre, Situació problema, El joc de la NASA
 
@@ -3609,14 +3549,15 @@ Consells:
 - Demaneu-li que generi almenys dues respostes diferents.
 - Assegurar que de vegades tingui l'oportunitat de fer aquesta tècnica amb companys de nivell alt.
 
-Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo.
+**Exemple:**
 
-#### Exemple
 El professor planteja la següent situació problemàtica: "La vostra escola està situada en un barri amb una alta concentració de tràfic i contaminació. Molts alumnes que viuen en aquest barri han començat a queixar-se de mals de cap i problemes de concentració. Com podríeu millorar la qualitat de l'aire al vostre barri?"
 
 Cada estudiant dedica uns minuts a pensar en una possible solució a aquest problema i, després, es divideixen en grups petits. En aquests grups, discuteixen les diferents solucions i busquen una resposta consensuada.
 
 Finalment, el professor tria a l'atzar un membre de cada grup perquè expliqui la o les solucions que han manejat. Algunes de les solucions que poden sortir en aquesta tècnica poden ser: promoure l'ús del transport públic o bicicletes en comptes de vehicles privats, millorar la qualitat dels filtres dels vehicles, promoure campanyes de conscienciació sobre la contaminació, plantar arbres al barri per millorar la qualitat de l'aire, etc.
+
+_Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Tècniques relacionades:** Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en problemes (ABP), Genera solucions, Placemat consensus
 
@@ -3650,7 +3591,7 @@ Similar a STAD, però substitueix les proves individuals per tornejos setmanals.
 #### Objectius
 Augmentar la motivació i assegurar que tots els alumnes (de nivell alt o baix) tinguin la mateixa oportunitat d'èxit.
 
-#### Exemple
+**Exemple:**
 
 En llengua, els equips base preparen durant la setmana un conjunt de targetes sobre categories gramaticals: substantius, adjectius, verbs, adverbis i preposicions. Practiquen junts amb exemples i s’asseguren que tothom sàpiga justificar cada resposta.
 
@@ -3695,7 +3636,8 @@ La pràctica intercalada barreja problemes o tasques de tipus diferents dins d�
 - Evitar el domini aparent que produeixen els blocs homogenis.
 - Desenvolupar comprensió flexible.
 
-#### Exemple
+**Exemple:**
+
 En una sessió de matemàtiques de 20 minuts, el professor barreja equacions, sistemes, percentatges i problemes de proporcionalitat. Abans de calcular, cada alumne ha d’escriure: “Aquest problema és de...” i justificar quin procediment aplicarà.
 
 **Tècniques relacionades:** Peer Instruction (Instrucció entre iguals), Pràctica de recuperació, Pràctica espaiada, Teoria de la càrrega cognitiva
@@ -3733,7 +3675,8 @@ Els exemples resolts són problemes ja solucionats pas a pas, amb explicació de
 - Facilitar el pas progressiu cap a l’autonomia.
 - Millorar la comprensió de tasques complexes.
 
-#### Exemple
+**Exemple:**
+
 En física, abans de resoldre problemes de cinemàtica, el professor mostra un exemple on s’identifiquen les dades, s’escull la fórmula, se substitueixen unitats i es comprova si el resultat té sentit. Després, l’alumnat completa un problema semblant amb alguns passos en blanc.
 
 **Tècniques relacionades:** Equip-parella-individual, Tutoria entre iguals (Peer Tutoring), Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Teoria de la càrrega cognitiva, Exemples concrets
@@ -3767,7 +3710,7 @@ El seu valor formatiu és el cicle de disseny: prototipar, provar, fallar, ajust
 4. Prova el prototip, detecta què falla i el millora en successives iteracions.
 5. Comparteix el producte final i reflexiona sobre el procés, els errors i el que ha après.
 
-#### Exemple
+**Exemple:**
 
 Davant el repte «dissenyeu un dispositiu que avisi quan una planta necessita aigua», l’alumnat combina ciència (humitat del sòl), tecnologia i programació (un sensor i una placa programable) i disseny (la carcassa). Construeixen un primer prototip que no funciona bé, ajusten el codi i el sensor, i després de diverses proves aconsegueixen un avisador funcional, documentant cada iteració en una memòria del projecte.
 
@@ -3804,7 +3747,7 @@ Els seus quatre pilars són: descomposició (dividir el problema), reconeixement
 4. Abstracció: identifica les dades i regles essencials i deixa fora l’accessori.
 5. Algorisme: dissenya una seqüència de passos precisa per resoldre’l, la prova i la depura si falla.
 
-#### Exemple
+**Exemple:**
 
 Per organitzar l’horari d’ús d’un únic ordinador entre diversos grups, l’alumnat descompon el problema (quants grups, quant temps, quines prioritats), reconeix el patró de torns rotatius, abstreu les regles clau (tothom l’ha d’usar el mateix temps) i dissenya un algorisme d’assignació pas a pas. El proven amb casos i l’ajusten: han resolt un problema real aplicant pensament computacional sense programar res.
 
@@ -3849,7 +3792,7 @@ Comparació d'ABJ amb altres metodologies:
 
 Adaptat de Viquipèdia.
 
-#### Exemple
+**Exemple:**
 
 Un exemple d'aprenentatge basat en el joc (ABJ) en educació secundària podria ser el següent:
 
@@ -3894,7 +3837,8 @@ Metodologia en què l'aprenentatge s'organitza a partir de preguntes, observacio
 - Millorar la capacitat per formular preguntes investigables.
 - Relacionar dades, explicacions i conclusions.
 
-#### Exemple
+**Exemple:**
+
 En biologia, els alumnes investiguen per què algunes llavors germinen millor que altres. Dissenyen una petita prova amb diferents condicions de llum o humitat, recullen dades i justifiquen les seves conclusions.
 
 **Tècniques relacionades:** Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge per descobriment, El model 5E, Genera hipòtesis, Parelles de detectius, Penso, m'interessa, investigo, Centres d'interès (enfocament de Decroly), Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Concept Cartoon, WebQuest
@@ -3932,14 +3876,13 @@ Així com l'ABP permet superar la limitació del “silenci a les aules” a tra
 
 - 3a fase. Presentació de l'experiència. Finalment, reflexiona, comparteix i valora l'experiència.
 
-
-Adaptat de: Esteban, M. (2011). Del “Aprendizaje Basado En Problemas” (ABP) al “Aprendizaje Basado En La Acción” (ABA). Claves para su complementariedad e implementación.
-
-#### Exemple
+**Exemple:**
 
 Un exemple d'aprenentatge basat en l'acció (ABA) en educació secundària podria ser el següent:
 
 Imagineu que els estudiants de l'ESO estan estudiant el medi ambient i el professor vol utilitzar l'ABA per ajudar-los a comprendre millor la importància de protegir els recursos naturals. El professor pot planificar una activitat en la qual els estudiants han de treballar col·laborativament per investigar sobre un problema ambiental específic, com ara la degradació de les aigües o la contaminació de l'aire, a la seva localitat. Després, han de dissenyar una campanya de conscienciació per promoure la preservació dels recursos naturals i presentar-la a la resta de la classe. Aquesta activitat inclou tant treballs contextualitzats, com ara fer entrevistes o fer observacions de camp, com treballs descontextualitzats, com ara fer servir recursos digitals o elaborar materials de promoció. A la fi de l'activitat, els estudiants reflexionen sobre el procés que han seguit i comparteixen els resultats de la seva campanya amb la resta de la classe. Aquest exemple mostra com l'ABA pot utilitzar la combinació de situacions contextualitzades i descontextualitzades per ajudar els estudiants a connectar amb el seu entorn i desenvolupar habilitats i coneixements de manera significativa.
+
+_Adaptat de: Esteban, M. (2011). Del “Aprendizaje Basado En Problemas” (ABP) al “Aprendizaje Basado En La Acción” (ABA). Claves para su complementariedad e implementación._
 
 **Tècniques relacionades:** Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Projectes d'aprenentatge servei (APS o ABS), Centres d'interès (enfocament de Decroly)
 
@@ -3982,7 +3925,7 @@ Fonts:
 - Área de Tecnología Educativa. (2017). Aprendizaje basado en proyectos.
 - Viquipèdia.
 
-#### Exemple
+**Exemple:**
 
 Imaginem que un grup d'estudiants de l'institut estan interessats a aprendre sobre **conservació de l'energia i el canvi climàtic**. Els seus professors decideixen utilitzar l'aprenentatge basat en projectes per ajudar-los a explorar aquest tema de manera més profunda.
 
@@ -4047,9 +3990,7 @@ En fer referència a l'ABR, solen distingir-se les fases següents:
 
 1. **Avaluació**. L'autoavaluació i l'aprenentatge a través de l'error seran part fonamental de l'evolució natural del treball. Igualment, hi haurà avaluació contínua per part del docent o docents implicats, a més de poder existir avaluacions externes d'altres agents socials partícips en la consecució dels objectius marcats. Es comptarà amb instruments d'avaluació formal i informal.
 
-Font: Mosquera, I. (2019). Aprendizaje basado en retos: ¡acepta el desafío!
-
-#### Exemple
+**Exemple:**
 
 Un exemple de problema que pot tenir un institut o el barri on es troba és la falta de bancs o banquets per seure a l'exterior. Aquesta falta de mobiliari urbà pot afectar la qualitat de vida de la comunitat, ja que la presència de llocs on descansar o fer vida social és important per al benestar dels veïns.
 
@@ -4061,6 +4002,8 @@ Exemple d'aplicació d'ABR per a resoldre aquest problema:
 - Comprovació en context: Els alumnes posaran en pràctica les solucions que hagin proposat, com ara organitzant una campanya de neteja de bancs o parlant amb els comerços del barri per aconseguir que posin tamborets o banquets a la vora dels establiments.
 - Difusió de la feina: Els alumnes poden crear un vídeo o una exposició per explicar les solucions proposades i els resultats obtinguts. També poden escriure un article per a una revista del barri o fer una presentació a la comunitat.
 - Avaluació: Els alumnes es faran una autoavaluació per reflexionar sobre el procés seguit i els resultats obtinguts, i també es farà una avaluació per part del docent o docents implicats. Si es considera necessari, es poden demanar avaluacions externes a altres agents del barri per obtenir una visió més àmplia del treball realitzat.
+
+_Font: Mosquera, I. (2019). Aprendizaje basado en retos: ¡acepta el desafío!_
 
 **Tècniques relacionades:** Aprenentatge basat en l'acció (ABA), Aprenentatge basat en problemes (ABP), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS), Aprenentatge maker / STEAM, Hora del geni (Genius Hour)
 
@@ -4091,7 +4034,7 @@ Les activitats que es poden utilitzar en aquesta metodologia poden ser molt dive
 
 Aquest tipus d'aprenentatge es pot incloure en la categoria d'aprenentatge per descobriment.
 
-#### Exemple
+**Exemple:**
 
 Un exemple d'aprenentatge experiencial podria ser una activitat en què els estudiants de biologia visitin una reserva natural per observar de primera mà diferents espècies d'animals i plantes, així com el seu hàbitat i comportament. Aquesta activitat els permetrà experimentar de primera mà els conceptes que estan estudiant a classe, com ara la biodiversitat, els ecosistemes o els cicles de vida dels éssers vius.
 
@@ -4131,7 +4074,7 @@ Fonts:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Aprendizaje cooperativo en la universidad
 
-#### Exemple
+**Exemple:**
 
 1. El professor proposa el tema "La importància dels oceans en el clima del planeta".
 1. Marquem un temps de 5 minuts per a cada intervenció.
@@ -4165,15 +4108,14 @@ Els relats o narracions digitals consisteixen a combinar narratives i contingut 
 La planificació i l'elaboració de projectes multimèdia en forma de relat (*digital storytelling*, DST) intenta aprofitar les noves tecnologies digitals per potenciar aquest recurs didàctic. Originàriament, els DST se centraven sobretot en narracions d'experiències personals en format de vídeo, amb veu o entrevistes, de menys de 5 minuts. Actualment, el relat digital també pot integrar recursos argumentals i informatius, propis d'un gènere més documental.
 
 Els relats digitals poden ser fer pel professorat, però amb les orientacions adequades els poden fer també l'alumnat (per més detalls veieu 8 pasos para implementar storytelling en el aula).
----
 
-Font: Relatos digitales (digital storytelling) a De Haro, J.J. (2022). Herramientas y Servicios TIC Abiertos Para Educación.
-
-#### Exemple
+**Exemple:**
 
 En una unitat de biologia sobre malalties infeccioses, l’alumnat crea un relat digital de tres minuts titulat “El viatge d’un virus”. Cada equip tria un punt de vista: una cèl·lula infectada, una persona malalta, el sistema immunitari o un equip mèdic.
 
 El producte final combina una narració breu, imatges, esquemes senzills, música o efectes de so i una conclusió científica. El docent demana que el relat inclogui conceptes com transmissió, resposta immunitària, prevenció i tractament. En presentar-lo, cada grup explica quines decisions narratives ha pres i quins continguts científics ha volgut comunicar.
+
+_Font: Relatos digitales (digital storytelling) a De Haro, J.J. (2022). Herramientas y Servicios TIC Abiertos Para Educación._
 
 **Tècniques relacionades:** Aprenentatge basat en projectes (ABProjectes), Titulars, Visual Thinking (pensament visual), Model SAMR
 
@@ -4211,7 +4153,8 @@ Organització de l'aula en diferents estacions o espais de treball. A cada estac
 - Afavorir l'autonomia i la cooperació.
 - Recollir evidències variades d'aprenentatge.
 
-#### Exemple
+**Exemple:**
+
 En biologia, una estació conté observació de mostres, una altra anàlisi d'imatges, una altra resolució de preguntes i una altra elaboració d'un esquema. Tots els grups passen per totes les estacions.
 
 **Tècniques relacionades:** Flipped Classroom (Aula invertida), Disseny Universal per a l'Aprenentatge (DUA / UDL), Equips paral·lels, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Aprenentatge personalitzat amb itineraris (playlists)
@@ -4247,7 +4190,7 @@ Pluja d'idees rotativa per escrit.
 #### Objectius
 Generar una gran quantitat d'idees de forma col·laborativa i ràpida.
 
-#### Exemple
+**Exemple:**
 
 Abans d’iniciar un projecte sobre millora del pati escolar, el professor col·loca quatre cartells grans amb preguntes diferents: “Quins problemes té el pati?”, “Quins usos hauria de permetre?”, “Quines normes serien necessàries?” i “Quines millores serien fàcils d’aplicar?”.
 
@@ -4281,10 +4224,11 @@ Es tracta d'una simplificació de la tècnica del trencaclosques.
 1. A la primera fase de la sessió cada membre de cada equip haurà d'acudir a un dels “4 savis” perquè, juntament amb els components dels altres equips que han acudit al mateix “savi”, aquest els expliqui o els ensenyi el que sap.
 1. Després, a la segona fase de la sessió, cada alumne torna al seu equip d'origen, i cadascú haurà d'explicar o ensenyar a la resta dels seus companys o companyes de l'equip allò que els respectius “savis” els han ensenyat. D'aquesta manera, a cada equip de base s'intercanvien allò que cadascú, per separat, ha après del “savi” corresponent.
 
-Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
+**Exemple:**
 
-#### Exemple
 Per exemple, imagineu que es vol fer una activitat sobre l'ús dels pronoms febles en català. Es podrien seleccionar quatre estudiants que considerin que ja dominen aquest tema i se'ls demana que es preparin per explicar-ho als altres. Després, es dividiria el grup en equips de quatre estudiants i un alumne de cada grup aniria a veure un dels "savis" per a rebre instruccions sobre l'ús dels pronoms febles. Després de la primera fase, cada estudiant tornaria al seu equip i explicaria als seus companys el que ha après del "savi" que ha visitat. Així, tots els estudiants haurien après sobre l'ús dels pronoms febles gràcies a les explicacions dels diferents "savis".
+
+_Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula._
 
 **Tècniques relacionades:** CO-OP CO-OP, El Trencaclosques ("Jigsaw"), Tutoria entre iguals (Peer Tutoring), Equips paral·lels
 
@@ -4331,7 +4275,15 @@ _Paraules clau: hipòtesis, coneixements previs, parelles, resolució de problem
 
 1. Finalment, el docent comença a explicar la unitat didàctica partint de la pregunta plantejada i de les solucions triades.
 
-Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo
+**Exemple:**
+
+En una classe de 2n d'ESO que inicia la unitat de la Revolució Industrial, el docent planteja: "Per què creus que els treballadors de les fàbriques del segle XIX van començar a organitzar-se col·lectivament?"
+
+Cada alumne reflexiona en silenci i anota dues hipòtesis possibles: per exemple, "perquè les condicions de treball eren pèssimes" i "perquè volien tenir més poder davant dels propietaris". Després, en parelles, es pregunten mútuament quines són les seves hipòtesis i les anoten sense debatre ni corregir.
+
+El docent recull totes les hipòtesis a la pissarra: apareixen idees sobre salaris, jornades laborals, solidaritat, pressió econòmica... A continuació valora en veu alta la varietat de vies explicatives —sense dir encara quina és la correcta— i comença l'explicació de la unitat partint precisament d'aquestes hipòtesis.
+
+_Font: CRA Los Olivos. (2017). Técnicas de aprendizaje cooperativo._
 
 **Tècniques relacionades:** Aprenentatge basat en indagació, Genera hipòtesis, Think-Pair-Share (Pensa-Parella-Comparteix)
 
@@ -4367,7 +4319,7 @@ Fonts:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Aprendizaje cooperativo en la universidad
 
-#### Exemple
+**Exemple:**
 
 En una classe de literatura, el professor pregunta: “Quins trets pot tenir un personatge protagonista?”. Cada alumne pensa uns segons i, per parelles, van alternant respostes: “té un objectiu”, “canvia al llarg de la història”, “s’enfronta a un conflicte”, “pren decisions”, “té aliats o rivals”.
 
@@ -4409,7 +4361,7 @@ Fonts:
 - Clowes, G. (2011). The Essential 5: A Starting Point for Kagan Cooperative Learning
 - Carolina, H. L. K., Tamara, O. L. M., & Wendy, S. (2016). Aprendizaje cooperativo en la universidad
 
-#### Exemple
+**Exemple:**
 
 En tutoria, el professor planteja al grup: “Què podríem fer perquè la biblioteca escolar s’utilitzi més?”. En equips de quatre, cada alumne aporta una idea durant el seu torn: ampliar horaris, crear recomanacions de lectura, reservar un espai tranquil d’estudi, organitzar clubs de lectura, exposar novetats o permetre suggeriments de l’alumnat.
 
@@ -4451,7 +4403,8 @@ Dinàmica de diàleg col·laboratiu en petits grups que roten per diverses taule
 - Connectar perspectives diferents.
 - Construir una síntesi col·lectiva sobre un tema ampli.
 
-#### Exemple
+**Exemple:**
+
 En una unitat sobre sostenibilitat, cada taula aborda una pregunta: consum d'aigua, energia, residus, mobilitat i alimentació. Els grups roten, completen les idees i finalment elaboren propostes per al centre.
 
 **Tècniques relacionades:** Gallery Walk (Passejada per la galeria), Graffiti Cooperatiu, Les 4C de l'aprenentatge, Grup nominal, Conversa escrita en silenci (Chalk Talk)
@@ -4490,7 +4443,8 @@ Enfocament globalitzador que organitza l'aprenentatge a partir de necessitats, i
 - Globalitzar continguts de diverses àrees.
 - Partir de l'experiència directa i de les necessitats de l'alumnat.
 
-#### Exemple
+**Exemple:**
+
 A partir del centre d'interès “l'alimentació”, l'alumnat observa hàbits quotidians, analitza etiquetes, calcula proporcions, estudia nutrients i elabora propostes de millora.
 
 **Tècniques relacionades:** Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge experiencial, Estacions d'aprenentatge
@@ -4538,7 +4492,8 @@ El seu tret distintiu és que la investigació no acaba quan s'obtenen dades. L'
 - En la indagació general pot ser suficient elaborar una explicació o conclusió; en ADI l'argument s'ha de defensar, revisar i transformar en un informe final.
 - ADI té una seqüència més pautada, especialment útil quan es vol ensenyar l'alumnat a argumentar científicament.
 
-#### Exemple
+**Exemple:**
+
 En biologia, el professor planteja la pregunta: “Influeix la llum en la germinació de les llavors?”. Cada grup dissenya una petita investigació amb llavors en condicions de llum i foscor, controla variables com l'aigua i la temperatura, i registra els resultats durant diversos dies.
 
 Després, cada grup prepara un argument temptatiu. Per exemple: “La llum no és necessària per a la germinació inicial, perquè en ambdós grups va germinar un nombre semblant de llavors”. Durant la sessió d'argumentació, altres grups pregunten si es va controlar bé la humitat, si el nombre de llavors era suficient o si es va mesurar només la germinació o també el creixement.
@@ -4582,7 +4537,8 @@ L’alliberament gradual de la responsabilitat és un model de bastida en què l
 - Retirar ajudes de manera progressiva.
 - Afavorir autonomia i seguretat.
 
-#### Exemple
+**Exemple:**
+
 Per resoldre problemes de geometria, el professor en resol un pensant en veu alta durant 5 minuts. Després en resol un altre amb la classe. A continuació, les parelles treballen un tercer problema i, al final, cada alumne en resol individualment un de semblant.
 
 **Tècniques relacionades:** Equip-parella-individual, Tutoria entre iguals (Peer Tutoring), Exemples resolts, Pensament en veu alta, Teoria de la càrrega cognitiva, Bastida i zona de desenvolupament proper (ZDP)
@@ -4618,7 +4574,7 @@ Utilitzar exemples variats (no només un) ajuda a abstreure l’essencial del co
 4. Demana a l’alumnat que aporti els seus propis exemples a partir de la seva experiència.
 5. Comprova la qualitat d’aquests exemples: si són correctes, el concepte s’ha comprès; si no, s’aclareix.
 
-#### Exemple
+**Exemple:**
 
 En ensenyar el concepte d’«inflació», en lloc de quedar-se en la definició, el docent mostra exemples concrets: el preu del pa que puja cada any, l’entrada de cinema que costava menys fa una dècada, el bitllet d’autobús. Després demana a cada alumne un exemple propi de la seva vida quotidiana. Comparar diversos casos ajuda a captar la idea comuna de pèrdua de poder adquisitiu.
 
@@ -4660,8 +4616,6 @@ Hi ha 5 possibles objectius de l'ABI:
 1. Explicar o predir
 1. Dissenyar o desenvolupar
 
-
-
 #### Implementació a l'aula
 
 1. **Identificar problemes o situacions problemàtiques que requereixen investigació**. Són els mateixos estudiants els encarregats de buscar problemàtiques que vulguin solucionar o investigar, sent el docent un facilitador i orientador perquè obtinguin els resultats esperats.
@@ -4693,8 +4647,8 @@ Fonts:
 - Servicio de Innovación Educativa de la UPM (Julio 2020). Aprendizaje basado en la investigación.
 - Lamelo, O.S. (2015). Caja de Herramientas Pensamiento Crítico
 
----
-#### Exemple
+**Exemple:**
+
 Un exemple d'aprenentatge basat en la investigació podria ser un grup d'estudiants que volen investigar l'efecte dels diferents tipus de fertilitzants en el creixement de plantes. 
 
 1. Identificar problemes o situacions problemàtiques que requereixen investigació. Els estudiants han identificat com a problema o situació problemàtica a investigar l'efecte dels diferents tipus de fertilitzants en el creixement de les plantes.
@@ -4758,7 +4712,7 @@ Aquest mètode proporciona a l’alumne habilitats com la investigació i la ges
 1. Comunicació:
    1. Com presentaré les meves troballes?
 
-#### Exemple
+**Exemple:**
 
 En una pràctica de biologia, el professor planteja la pregunta: “La llum influeix en la germinació de les llavors?”. L’alumnat formula una hipòtesi, per exemple: “Les llavors germinaran millor amb llum que sense llum”.
 
@@ -4809,12 +4763,10 @@ Desenvolupar una unitat a través de preguntes estructurades i jerarquitzades pe
 
    1. **Problemàtiques o creatives**: Fomenten la creació de solucions o respostes originals amb la informació processada (Quines altres alternatives se us acudeixen per a…?, com ho imagineu al futur?, què passaria si…?, quins canvis o millores li faríeu?, quins projectes se t'acudeixen al voltant d'això?).
 
-
 Les preguntes sempre han d'estar jerarquitzades (de fàctiques a creatives)
 
-Font: IPCHILE. (2019). Ficha para implementar y evaluar metodología y aprendizaje basado en preguntas para la comprensión.
+**Exemple:**
 
-#### Exemple
 En una unitat sobre la història de la música occidental, el professor ha decidit utilitzar la metodologia de l'aprenentatge basat en preguntes per incentivar i corroborar la comprensió dels estudiants sobre els continguts centrals del curs. Per això, ha elaborat una guia de preguntes jerarquitzades amb les següents categories:
 
 1. Preguntes fàctiques: Quines són les tres èpoques més importants de la música occidental? Quins són els instruments més característics de cada època? Quins són els compositors més destacats de cada època?
@@ -4824,6 +4776,8 @@ En una unitat sobre la història de la música occidental, el professor ha decid
 1. Preguntes problemàtiques o creatives: Si poguéssim crear una nova època de música, quins serien els seus elements característics? Quines serien les influències més importants per a aquesta nova època? Com s'adaptaria la música a les noves tecnologies?
 
 El professor ha dividit els estudiants en grups de 3 i ha assignat a cada grup una de les èpoques de la música occidental. Els estudiants han de treballar en equip per elaborar una guia de preguntes amb les tres categories anteriors per a la seva època assignada. Després, cada grup presentarà les seves preguntes al resta de la classe, que s'encarregaran de respondre-les. Així, l'aprenentatge es desenvoluparà de forma col·laborativa i metacognitiva, ja que els estudiants han de fer servir les seves idees prèvies, sintetitzar la informació adquirida, organitzar-la i jerarquitzar-la, i aplicar el seu coneixement a noves situacions.
+
+_Font: IPCHILE. (2019). Ficha para implementar y evaluar metodología y aprendizaje basado en preguntas para la comprensión._
 
 **Tècniques relacionades:** Penso, m'interessa, investigo, Pregunta el perquè, Pregunta i respon, Tècnica de formulació de preguntes (QFT), Inicis de preguntes (Question Starts)
 
@@ -4867,7 +4821,7 @@ Mida de L'EQUIP: Grups petits (normalment de 3 a 5 alumnes).
 OBSERVACIONS I CONSELLS PRÀCTICS: 
 El problema no ha de tenir una única solució "correcta", sinó que ha de permetre diferents enfocaments i debats. El paper del docent passa de ser un transmissor de coneixements a ser un tutor o facilitador que guia el procés sense donar les respostes directament. És fonamental que el problema estigui ben dissenyat i sigui motivador per a l'alumnat. Cal assegurar-se que els grups tinguin accés a fonts d'informació variades i fiables.
 
-#### Exemple d'aplicació de l'Aprenentatge basat en problemes (ABP):
+**Exemple:**
 
 En l'assignatura de Tecnologia, es planteja el repte de dissenyar un sistema de reg automàtic per a l'hort escolar que sigui sostenible i de baix cost.
 
@@ -4902,8 +4856,6 @@ L'aprenentatge per descobriment es desenvolupa mitjançant un procés de recerca
 
 Es tracta que l'alumnat trobi la solució als problemes per si mateix i amb l'ajut del professorat, però sense tenir la solució definitiva. 
 
-
-
 Es basa en l'aprenentatge a través de l'exploració i el descobriment dels estudiants. En aquesta metodologia, els alumnes tenen l'oportunitat de fer preguntes, investigar i experimentar per tal de descobrir els conceptes o les habilitats que es volen aprendre. Això els permet fer les seves pròpies connexions i relacions amb el que ja saben, cosa que pot promoure l'aprenentatge més profund i significatiu. L'aprenentatge per descobriment pot incloure diverses activitats, com ara l'ús de materials manipulatius o de jocs, l'exploració de diferents entorns o l'ús de tecnologies de la informació i la comunicació. Aquesta metodologia es basa en la idea que els estudiants aprenen millor quan tenen l'oportunitat de descobrir els conceptes per ells mateixos.
 
 #### Tipus d'aprenentatge per descobriment
@@ -4914,7 +4866,7 @@ L'aprenentatge per descobriment es pot dividir en dues categories principals: l*
 
 - L**'aprenentatge per descobriment lliure**, per la seva banda, implica que els alumnes tenen una gran llibertat per explorar i descobrir els conceptes o les habilitats per ells mateixos, sense cap tipus de guia o ajuda externa. Aquesta metodologia es basa en la idea que els alumnes aprenen millor quan tenen l'oportunitat de descobrir els conceptes per ells mateixos, ja que això els permet fer les seves pròpies connexions i relacions amb el que ja saben.
 
-#### Exemples
+**Exemple:**
 
 ### Exemples d'aprenentatge per descobriment guiat
 - Un grup d'alumnes de ciència estan estudiant la nutrició i han de dissenyar un menú equilibrat per a una setmana. L'ensenyant proporciona als alumnes una llista de les diferents categories d'aliments que s'han d'incloure en el menú (proteïnes, llegums, verdures, etc.), així com les quantitats recomanades de cada categoria. Els alumnes han de fer servir aquesta informació per seleccionar els aliments que volen incloure en el seu menú, i han de justificar les seves decisions.
@@ -4969,7 +4921,8 @@ Criteris per potenciar la participació i la interacció:
 
 Adaptat de Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC per ensenyar a aprendre en equip.
 
-#### Exemple
+**Exemple:**
+
 El mestre escriu a la pissarra paraules clau com “comunicació”, “lideratge”, “equip” o “resolució de conflictes”. Cada alumne escriu una frase amb una paraula, el grup la revisa i, finalment, ordenen les frases per construir un esquema o mapa conceptual compartit.
 
 **Recursos:** [Núvol de paraules](https://jjdeharo.github.io/directo/nube.html)
@@ -5007,7 +4960,7 @@ No es tracta d’afegir imatges decoratives, sinó d’utilitzar representacions
 4. Evita la sobrecàrrega: la imatge i el text s’han de referir al mateix i estar pròxims, no competir per l’atenció.
 5. En el repàs, fes que recuperin primer la imatge mental i després la verbalitzin, o a l’inrevés.
 
-#### Exemple
+**Exemple:**
 
 En estudiar el cicle de l’aigua, en lloc de llegir només un paràgraf, l’alumnat dibuixa un diagrama amb fletxes (evaporació, condensació, precipitació) i etiqueta cada fase amb una frase pròpia. Després tapa el text i explica el cicle mirant només el dibuix, i tot seguit tapa el dibuix i el descriu amb paraules. Les dues vies es reforcen mútuament.
 
@@ -5034,9 +4987,13 @@ _Paraules clau: rol, perspectiva, presa de decisions, comunicació, resolució d
 
 Aquesta tècnica consisteix a fer que els participants es posin en el lloc d'un personatge o rol específic, i desenvolupin una activitat o situació en què hagin de prendre decisions i resoldre problemes. Aquesta tècnica promou la col·laboració i la comunicació entre els membres del grup, ja que han de treballar junts per a resoldre els problemes del joc de rol. A més, també pot fomentar la reflexió i la comprensió sobre diferents temes o conceptes, perquè els participants han de posar-se en el lloc d'un personatge i entendre les seves motivacions i decisions.
 
-Un exemple de la tècnica del joc de rol podria ser el següent:
+**Exemple:**
 
-Imaginarem que el grup està estudiant la Segona Guerra Mundial. Els participants poden dividir-se en diferents rols, com ara líders polítics, militars o ciutadans comuns dels diferents països implicats en la guerra. Després, el grup haurà de resoldre una sèrie de problemes o dilemes relacionats amb la guerra, com ara quines decisions prendria cada rol en determinades situacions o quines conseqüències tindrien aquestes decisions. Així, els participants hauran de treballar junts per a resoldre els problemes del joc de rol i alhora reflexionar sobre els diferents punts de vista i les motivacions dels diferents personatges.
+En una classe de 4t d'ESO que estudia la Primera Guerra Mundial, el docent divideix el grup en tres bàndols: representants de l'Imperi austrohongarès, de l'Imperi Britànic i de Sèrbia. Cada equip rep una targeta de rol amb la posició històrica del seu país, les seves aliances i els seus interessos.
+
+El repte: respondre a l'assassinat de l'arxiduc Francesc Ferran. Cada bàndol delibera internament durant cinc minuts i formula la seva resposta oficial. Després, en plenari, els representants negocien, intenten evitar l'escalada bèl·lica i han d'argumentar la seva posició amb dades històriques reals.
+
+En acabar, el docent presenta el que va ocórrer realment i el grup reflexiona sobre quines decisions podrien haver canviat el curs de la història i per què cap bàndol les va prendre.
 
 **Tècniques relacionades:** Aprenentatge basat en casos (ABC), Cercle de punts de vista, Role on the Wall (Silueta del personatge), Posar-se al lloc (Step Inside)
 
@@ -5073,7 +5030,7 @@ Aquesta tècnica permet un coneixement més profund entre els companys i company
 
 Adaptat de Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
 
-#### Exemple
+**Exemple:**
 
 Durant la primera setmana de treball en equips cooperatius, el professor forma parelles aleatòries i els dona una breu guia d’entrevista: “Què se’t dona bé?”, “Què et costa més a classe?”, “Com prefereixes treballar?”, “Què pots aportar a un equip?” i “Què necessites dels companys per treballar millor?”.
 
@@ -5122,7 +5079,7 @@ Per portar-la a terme podem fer el següent:
 
 1. Finalment, resumiu els acords i les solucions acordades en la taula rodona, i assigneu les responsabilitats per a portar-les a terme.
 
-#### Exemple
+**Exemple:**
 
 En tutoria, el grup fa una taula rodona sobre la pregunta: “Com podem millorar l’ús del mòbil durant les classes i els descansos?”. Cada alumne disposa d’un torn breu per exposar la seva opinió, aportar una experiència o proposar una norma.
 
@@ -5173,9 +5130,7 @@ L'activitat consta de quatre rondes de tres passes cadascuna.
 
 Explicació de la tècnica (versió simplificada):
 
-
-
-#### Exemple
+**Exemple:**
 
 En una classe de ciències socials, el grup llegeix un text breu sobre les causes de la Revolució Francesa. En equips de quatre, el primer alumne llegeix el primer paràgraf; el segon el resumeix amb les seves paraules; el tercer i el quart comproven si el resum recull les idees essencials i hi afegeixen matisos.
 
@@ -5210,7 +5165,7 @@ Es tracta de llegir un text entre varis, quan un acaba comença un altre de form
 
 És una tècnica que convé fer més d'una vegada, ja que milloren notablement amb el temps.
 
-#### Exemple
+**Exemple:**
 
 En una classe de llengua, el professor comença a llegir en veu alta un relat breu. Després d’unes línies, s’atura en un punt natural de la lectura. Un alumne continua de manera voluntària i, quan ho considera oportú, s’atura perquè un altre company segueixi.
 
@@ -5243,19 +5198,13 @@ En acabar un tema, com a síntesi final, cada equip pot elaborar un mapa concept
 1. Dins de cada equip de base es repartiran les diferents parts del mapa o esquema entre els components de l'equip, de manera que cada estudiant haurà de portar pensat de casa seva (o farà a classe de forma individual o per parelles) la part que li ha tocat.
 1. Després posaran en comú la part que ha preparat cadascun, repassaran la coherència del mapa o de l'esquema que resulti i, si cal, el retocaran abans de donar-ho per bo i fer-ne una còpia per a cadascú, que us servirà com a material d'estudi.
 
-Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
-
----
-
-**Explicació de la tècnica:**
-
-
-
-#### Exemple
+**Exemple:**
 
 En acabar una unitat sobre el sistema nerviós, el professor acorda amb la classe els apartats principals del mapa conceptual: neurones, sistema nerviós central, sistema nerviós perifèric, actes reflexos i coordinació.
 
 En cada equip, un alumne prepara la part sobre neurones, un altre la del sistema nerviós central, un altre la del perifèric i un altre la d’actes reflexos. Després, posen en comú les seves parts i construeixen un únic mapa conceptual amb connectors clars: “transmet”, “coordina”, “rep informació”, “respon a estímuls”. Abans d’acabar-lo, revisen si les relacions són correctes i si falta algun concepte important.
+
+_Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC ("cooperar para aprender/aprender a cooperar") para enseñar a aprender en equipo._
 
 **Recursos:** [BoardLive: Pissarra col·laborativa](https://boardlive.github.io/)
 
@@ -5286,9 +5235,7 @@ De vegades a l'APS se'l denomina també **Aprenentatge basat en servei** o ABS i
 
 El Centre Promotor d'Aprenentatge Servei el defineix de la següent forma:
 
-
 > L’aprenentatge servei és una proposta educativa que combina processos d’aprenentatge i de servei a la comunitat en un sol projecte ben articulat en el qual els participants es formen tot treballant sobre necessitats reals de l’entorn amb l’objectiu de millorar-lo.
-
 
 Els Projectes d'Aprenentatge Servei (APS) tenen dues components ben definides que han d'estar presents en la mateixa proporció, ens referim a l'aprenentatge que ha d'estar present com a motor de l'APS, però també al servei a la societat que això implica. Un projecte solidari, per exemple, recollida d'aliments o joguines, no és un autèntic APS, ja que tenen una component social, de servei, però no s'ha desenvolupat la component de l'aprenentatge. Els APS han de portar sempre una part educativa, que no ve només pel fet de desenvolupar l'activitat, sinó que requereix una base docent.
 
@@ -5297,7 +5244,6 @@ Per exemple, si fem recollida d'aliments, per lliurar a una ONG o campanya contr
 Si fem un projecte de recollida d'escombraries en el barri, s'ha de donar un coneixement que podria ser coneixements d'estadística per fer un estudi d'allò que la gent llença i relacionar-lo amb el consum responsable, per exemple.
 
 Resumint, podem dir que **un APS és una proposta educativa que combina processos d’aprenentatge i de servei a la comunitat en un sol projecte ben articulat. Un projecte en el qual els participants es formen treballant sobre necessitats reals del seu entorn amb l’objectiu de millorar-lo** (Projectes APS del PFI).
-
 
 #### Principis de l'APS
 Els principis que regeixen el Servei comunitari són:
@@ -5317,7 +5263,6 @@ Indicadors que permetin fer un seguiment i elaborar propostes de millora.
 
 #### Fases del projecte
 
-
 Per a dur a terme l'aprenentatge servei hi ha quatre grans moments que a la vegada es divideixen en tasques:
 
 - **Fase 1: Aprenentatge**.
@@ -5331,9 +5276,8 @@ Per a dur a terme l'aprenentatge servei hi ha quatre grans moments que a la vega
 
 (Viquipèdia)
 
----
+**Exemple:**
 
-#### Exemple
 Creació d'un hort comunitari en un barri amb pocs espais verds i alta concentració de persones amb dificultats econòmiques. El projecte es dividiria en les següents fases:
 
 1. Planificació:
@@ -5396,7 +5340,8 @@ Es pot aplicar en ciències, matemàtiques, llengua, història, economia o quals
 5. Proposa no exemples i explica per què no pertanyen al concepte.
 6. Es revisa col·lectivament per ajustar precisió i comprensió.
 
-#### Exemple
+**Exemple:**
+
 En matemàtiques, per al concepte “funció”, l'alumnat escriu una definició, indica característiques com que a cada valor d'entrada li correspon un únic valor de sortida, afegeix exemples de funcions mitjançant taules o gràfiques i no exemples on un mateix valor d'entrada té dues sortides diferents.
 
 **Tècniques relacionades:** Analitza i sintetitza, Contrasta i compara, Mapa conceptual a quatre bandes, Paraula, idea, frase, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Genera, ordena, connecta, elabora, Exemples concrets, Diagrama de Venn
@@ -5429,7 +5374,8 @@ Es pot realitzar en petits grups, amb rols rotatoris, o mitjançant modelatge in
 5. Els rols roten perquè tothom practiqui les diferents estratègies.
 6. Es tanca amb una síntesi comuna del text.
 
-#### Exemple
+**Exemple:**
+
 En biologia, el grup llegeix un text sobre vacunes. Un alumne resumeix el primer paràgraf, un altre formula una pregunta sobre la resposta immunitària, un altre aclareix el significat d'“anticòs” i un altre prediu què s'explicarà després sobre memòria immunològica. La lectura es converteix en un procés actiu i compartit.
 
 **Tècniques relacionades:** Lectura compartida, Paraula, idea, frase, Pregunta el perquè, Pregunta i respon, Seminari socràtic, Tertúlia dialògica, Pensament en veu alta, Apunts Cornell
@@ -5472,7 +5418,8 @@ La dinàmica es basa en una regla senzilla: cada persona afegeix “una cosa mé
 - Fomentar cooperació breu i centrada en la millora.
 - Desenvolupar precisió, síntesi i feedback útil.
 
-#### Exemple
+**Exemple:**
+
 En biologia, després d’explicar la mitosi, cada alumne escriu durant 4 minuts un resum amb les fases principals. Els resums circulen per la taula i cada company disposa de 2 minuts per afegir una sola millora amb un altre color: un detall, una correcció o una pregunta.
 
 Després de tres rondes, el resum torna al seu autor. Cada alumne dedica 3 minuts a revisar les aportacions i escriu una versió final de cinc línies. L’activitat completa es pot fer en uns 15 minuts.
@@ -5514,7 +5461,8 @@ Els apunts Cornell són un sistema de presa d’apunts que divideix la pàgina e
 - Afavorir síntesi i estudi autònom.
 - Ajudar a detectar què es comprèn i què cal repassar.
 
-#### Exemple
+**Exemple:**
+
 En història, durant una explicació sobre la Segona República, l’alumnat pren notes durant 20 minuts. En acabar, dedica 5 minuts a escriure preguntes a la columna lateral: causes, reformes, oposició i final. Després redacta una síntesi de quatre línies.
 
 **Tècniques relacionades:** Minute Paper (Paper d'un minut), Paraula, idea, frase, Ensenyament recíproc, Pràctica de recuperació, Pràctica espaiada
@@ -5554,7 +5502,8 @@ El resum en una frase és una tècnica de síntesi en què l’alumnat condensa 
 - Comprovar comprensió de manera ràpida.
 - Afavorir escriptura clara.
 
-#### Exemple
+**Exemple:**
+
 Després d’estudiar la Segona República, l’alumnat dedica 3 minuts a escriure una frase que inclogui cronologia, naturalesa política, reformes i final. Després compara la frase amb la d’un company i tots dos revisen si hi falta algun element essencial.
 
 **Tècniques relacionades:** Analitza i sintetitza, Minute Paper (Paper d'un minut), Paraula, idea, frase, Titulars
@@ -5590,7 +5539,7 @@ La interrogació elaborativa consisteix a generar i respondre preguntes del tipu
 4. Contrasta les explicacions: es valida la correcta, es matisen les incompletes i es corregeixen les errònies.
 5. Es repeteix el procés amb els fets següents, encadenant explicacions.
 
-#### Exemple
+**Exemple:**
 
 En ciències naturals, davant l’afirmació «els animals del desert solen ser d’hàbits nocturns», l’alumnat no la memoritza sense més, sinó que respon a «per què?»: perquè de dia les temperatures són extremes i sortir de nit redueix la pèrdua d’aigua i el risc de sobreescalfament. En elaborar la causa, la dada deixa de ser arbitrària i es recorda amb facilitat.
 
@@ -5628,7 +5577,7 @@ El seu tret distintiu és una estructura fixa d’apartats que guia tot el proc�
 5. Avaluació: mostra la rúbrica amb què es valorarà el treball, coneguda des de l’inici.
 6. Conclusió: tanca recordant el que s’ha après i convidant a transferir-ho o a continuar indagant.
 
-#### Exemple
+**Exemple:**
 
 En una WebQuest sobre energies renovables, la tasca demana elaborar una proposta d’instal·lació per al centre. L’alumnat, en grups amb rols (economista, enginyer, ecòleg), consulta els recursos web facilitats, compara tecnologies i costos, i prepara una presentació. La rúbrica, coneguda des del principi, valora el rigor de les dades, l’argumentació i la qualitat del producte.
 
@@ -5665,7 +5614,7 @@ A diferència del mapa conceptual (que uneix conceptes amb enllaços etiquetats 
 4. Usa colors diferents per branca i incorpora dibuixos o icones que ajudin a recordar.
 5. Revisa i reorganitza: afegeix connexions entre branques si descobreixes relacions noves.
 
-#### Exemple
+**Exemple:**
 
 Per repassar el tema de l’aparell digestiu, l’alumnat dibuixa al centre un estómac i d’allà surten branques de colors: «òrgans», «procés», «nutrients», «malalties». Cada branca es ramifica amb paraules clau i icones. En construir-lo, l’alumnat decideix què és principal i què secundari i com es connecta tot, cosa que l’obliga a estructurar el contingut i li facilita recordar-lo després d’un cop d’ull.
 
@@ -5702,7 +5651,7 @@ Obliga a no quedar-se en la primera explicació, sinó a explorar de manera orde
 4. Aprofundeix preguntant «per què?» en cada causa, per arribar a les arrels més que als símptomes.
 5. Analitza el diagrama complet i identifica les causes més probables o influents sobre les quals actuar.
 
-#### Exemple
+**Exemple:**
 
 Davant el problema «a classe es perd molt temps en començar les sessions», el grup dibuixa l’espina i agrupa causes: organització (no està el material a punt), normes (entren tard), espai (taules mal disposades), hàbits (triguen a treure el quadern). En veure-ho en conjunt, identifiquen que la causa arrel més influent és la falta d’una rutina d’inici, i decideixen actuar-hi.
 
@@ -5739,7 +5688,7 @@ La línia de temps és una representació visual en què els esdeveniments, etap
 4. Marca durades (amb barres o trams) i assenyala simultaneïtats o relacions entre fets.
 5. Interpreta la línia: analitza seqüències, ritmes, períodes de canvi i possibles causes i efectes.
 
-#### Exemple
+**Exemple:**
 
 En estudiar l’Edat Contemporània, l’alumnat construeix una línia de temps a escala amb les revolucions, guerres i avenços tecnològics. En veure’ls ordenats i proporcionats, descobreixen que certs invents coincideixen amb canvis socials i que alguns conflictes s’encadenen, comprenent no només què va passar sinó quan, en quin ordre i com es relacionen els fets entre si.
 
@@ -5776,7 +5725,7 @@ El diagrama de Venn utilitza cercles superposats per comparar i contrastar dos o
 4. Revisa el repartiment i discuteix els casos dubtosos (de debò és comú o només s’assembla?).
 5. Extreu conclusions a partir del que és exclusiu i el que és compartit.
 
-#### Exemple
+**Exemple:**
 
 Per comparar mamífers i ocells, l’alumnat dibuixa dos cercles. En el de mamífers: pèl, glàndules mamàries; en el d’ocells: plomes, bec, ous amb closca; a la intersecció: vertebrats, respiració pulmonar, sang calenta. En situar cada tret, l’alumnat comprèn amb precisió què tenen en comú tots dos grups i què els distingeix.
 
@@ -5814,18 +5763,17 @@ Es tracta d'una estructura apta per repassar el tema o temes treballats fins al 
 
 - Si una pregunta ja ha estat plantejada amb anterioritat, no es pot repetir i salta l'equip que l'havia plantejada.
 
-Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula.
+**Exemple:**
 
----
-
-#### Exemple
- El professor de biologia ha estat treballant els conceptes de la circulació sanguínia amb els seus alumnes. Per comprovar els coneixements dels estudiants i preparar-los per a l'examen, decideix fer servir l'estructura de cadena de preguntes.
+El professor de biologia ha estat treballant els conceptes de la circulació sanguínia amb els seus alumnes. Per comprovar els coneixements dels estudiants i preparar-los per a l'examen, decideix fer servir l'estructura de cadena de preguntes.
 
 1. El professor divideix la classe en quatre equips i explica les regles de l'activitat. Cada equip té tres minuts per pensar una pregunta sobre la circulació sanguínia que plantejarà al següent equip.
 1. Una vegada passats els tres minuts, el portaveu de l'equip A planteja la seva pregunta a l'equip B, que la respon i, a continuació, planteja una pregunta a l'equip C. Així successivament fins que l'últim equip, l'equip D, fa la pregunta a l'equip A.
 1. Un cop acabada la primera ronda, es deixen tres minuts més per  pensar noves preguntes, i es comença una segona ronda en direcció contrària: l'equip D fa la pregunta a l'equip A, que la respon i planteja una pregunta a l'equip B, i així successivament fins que l'últim equip, l'equip C, fa la pregunta a l'equip D.
 
 1. Al final de l'activitat, el professor fa un resum dels coneixements dels estudiants i determina quines àrees necessiten més treball. També fa una revisió dels conceptes clau de la circulació sanguínia per assegurar que tots els alumnes els han entès de manera adequada.
+
+_Font: Pujolàs, P. & Lago, J. R. (2011). El programa CA/AC (“cooperar para aprender/aprender a cooperar”) para enseñar a aprender en equipo Implementación del aprendizaje cooperativo en el aula._
 
 **Tècniques relacionades:** Parada de tres minuts, Pregunta i respon, Quiz-Quiz-Trade (Intercanvi de targetes), Inicis de preguntes (Question Starts)
 
@@ -5863,7 +5811,8 @@ Acord explícit entre alumne i professor sobre objectius, tasques, temps, recurs
 - Fer visibles els compromisos de treball.
 - Millorar l'autoregulació i l'avaluació formativa.
 
-#### Exemple
+**Exemple:**
+
 En un projecte d'investigació, cada alumne acorda amb el professor la pregunta que treballarà, les fonts que consultarà, el producte final i les dates de lliurament parcials.
 
 **Tècniques relacionades:** Diari d'aprenentatge, Portfolio (dossier d'aprenentatge), Aprenentatge visible (Visible Learning), Guies d’orientació, Hora del geni (Genius Hour), Aprenentatge personalitzat amb itineraris (playlists)
@@ -5902,7 +5851,8 @@ Instrument visual d'autoavaluació o coavaluació que permet valorar diferents c
 - Promoure la reflexió sobre diversos criteris alhora.
 - Ajudar a formular propostes de millora.
 
-#### Exemple
+**Exemple:**
+
 Després d'una exposició oral, cada alumne valora claredat, domini del contingut, ús de suports visuals i participació de l'equip. Després escriu una acció concreta per millorar.
 
 **Recursos:** [Escala de valoració](https://jjdeharo.github.io/directo/escala.html)
@@ -5943,7 +5893,8 @@ Tècnica d'avaluació formativa molt breu que permet recollir informació ràpid
 - Quin exemple podries posar del que s'ha treballat?
 - Quina pregunta faries per comprovar si algú ho ha entès?
 
-#### Exemple
+**Exemple:**
+
 Després de treballar la mitosi, els alumnes escriuen en una targeta la diferència més important entre mitosi i meiosi i un dubte que encara tinguin.
 
 **Recursos:** [Tiquets de sortida](https://jjdeharo.github.io/directo/ticket.html)
@@ -5983,7 +5934,8 @@ Tècnica d'avaluació formativa centrada a identificar l'aspecte que ha resultat
 - Afavorir l'autoregulació de l'aprenentatge.
 - Ajustar l'ensenyament a partir d'evidències ràpides.
 
-#### Exemple
+**Exemple:**
+
 Després d'explicar les funcions exponencials, diversos alumnes indiquen que el punt més confús ha estat interpretar el significat de la base. El professor prepara una activitat curta amb gràfiques comparades.
 
 **Recursos:** [Tiquets de sortida](https://jjdeharo.github.io/directo/ticket.html)
@@ -6025,13 +5977,13 @@ Es pot canviar l'elaboració de les tres preguntes per l'escriptura de tres orac
 Podem combinar aquesta estructura amb l'estructura 1 - 2- 4, de manera que ens garantim la participació igualitària de tots els membres de l'equip base.
 La resolució de la tasca per part dels equips pot anar acompanyada d'una recompensa del grup i del professor, en forma d'elogi, bona nota, etc.
 
-Font: Pérez, M. (2015). Dinámicas cooperativas.
-
-#### Exemple
+**Exemple:**
 
 Durant una explicació sobre la respiració cel·lular, el professor s’atura després d’explicar la glucosa, l’oxigen i la producció d’energia. Cada equip disposa de tres minuts per formular tres preguntes. Un equip escriu: “Per què es necessita oxigen?”, “Quina diferència hi ha entre respiració cel·lular i respiració pulmonar?” i “On passa aquest procés?”.
 
 Després, cada equip planteja una pregunta. El professor detecta que diversos dubtes se centren a confondre intercanvi de gasos amb respiració cel·lular, així que aclareix aquesta diferència abans de continuar. La pausa permet ajustar l’explicació mentre l’aprenentatge encara està en procés.
+
+_Font: Pérez, M. (2015). Dinámicas cooperativas._
 
 **Tècniques relacionades:** Cadena de Preguntes, El Sac de Dubtes, Equips d'oients, Minute Paper (Paper d'un minut), Temps d’espera (wait time)
 
@@ -6069,7 +6021,8 @@ Tècnica desenvolupada per Eric Mazur en què l'alumnat respon primer de forma i
 - Promoure l'argumentació basada en raons.
 - Millorar la comprensió conceptual mitjançant l'explicació entre iguals.
 
-#### Exemple
+**Exemple:**
+
 En matemàtiques, el professor planteja una pregunta sobre probabilitat condicionada amb quatre opcions. Després de la primera resposta individual, els alumnes comparen arguments amb un company i tornen a votar abans de comentar la solució.
 
 **Recursos:** [Votació simple](https://jjdeharo.github.io/directo/vota.html)
@@ -6106,15 +6059,15 @@ L'estructura del dossier d'aprenentatge ha de quedar ben definida pel professora
 1. **Documents**: evidències del treball amb comentaris.
 1. **Autoavaluació**: reflexió sobre el procés.
 
-Adaptat de: Liarte, R. (2015). El portfolio como herramienta de evaluación.
-
-#### Exemple
+**Exemple:**
 
 En una matèria de llengua i literatura, l’alumnat elabora un portfolio digital durant el trimestre. Inclou una primera versió d’un relat, la versió corregida, una gravació d’una lectura oral, una ressenya d’un llibre i una reflexió final sobre el seu progrés.
 
 En cada evidència, l’alumne explica per què l’ha inclosa, quina dificultat mostra, quina millora s’observa i quin objectiu es proposa per a la tasca següent. El docent no valora només els productes finals, sinó també la capacitat de l’alumne per seleccionar evidències i reflexionar sobre el seu aprenentatge.
 
 ---
+
+_Adaptat de: Liarte, R. (2015). El portfolio como herramienta de evaluación._
 
 **Tècniques relacionades:** Contracte d'aprenentatge, Diari d'aprenentatge, Avaluació autèntica, Rúbrica d’avaluació, Revisió entre iguals (peer review)
 
@@ -6150,7 +6103,7 @@ Una estructura de Kagan molt dinàmica per al repàs de continguts.
 #### Objectius
 Repassar continguts de forma lúdica i interactiva.
 
-#### Exemple
+**Exemple:**
 
 En una classe d’anglès, cada alumne rep una targeta amb una paraula de vocabulari per una cara i la seva definició o traducció per l’altra. Un alumne pregunta a un company: “What does *borrow* mean?”. El company respon i rep una pista si la necessita.
 
@@ -6181,11 +6134,17 @@ Aquesta és una tècnica per l’**avaluació amb qualificació** on intervenen 
 
 Quan es posa una nota a un grup, se li dona punts que ells mateixos es reparteixen segons el treball que han fet. La norma és que tots han de tenir notes diferents.
 
-Per exemple, si en un grup de 4 se’ls hi posa un 7,5, llavors els hi donem 7,5 x 4 = 30 punts perquè se'ls reparteixin com vulguin i nosaltres els hi posarem la nota que ells ens diguin. 
-
 Aquesta tècnica s'utilitza amb l’Escala de valoració: Repartir punts que hauran d'emplenar prèviament a la correcció, de forma que les notes siguin tan objectives com sigui possible.
 
-Font:  Pérez-Pueyo, A. & Hortigüela, D. & Hernando, A. (2014)
+**Exemple:**
+
+Un grup de quatre estudiants entrega un treball conjunt valorat pel docent amb un 7,5. En lloc d'assignar directament aquesta nota a tots, el docent els dona 7,5 × 4 = 30 punts perquè els reparteixin segons la contribució de cada un.
+
+El grup debat i decideix: l'alumna A rep 8,5 (va aportar el gruix del contingut), l'alumne B rep 7,5 (va coordinar el treball), l'alumna C rep 7 (va participar regularment) i l'alumne D rep 7 (amb alguna absència en la fase d'edició). La suma és 30 i la nota mitjana és 7,5.
+
+El docent contrasta aquesta distribució amb l'Escala de valoració que el propi grup va emplenar abans de la correcció. Si coincideixen, les notes queden confirmades; si hi ha discrepàncies, s'obre un espai de reflexió sobre la co-responsabilitat en el treball en equip.
+
+_Font: Pérez-Pueyo, A., Hortigüela, D. & Hernando, A. (2014)._
 
 **Tècniques relacionades:** STAD (Student Teams Achievement Divisions), Rúbrica d’avaluació, Rols cooperatius
 
@@ -6220,7 +6179,7 @@ Tècnica desenvolupada per Robert Slavin. Els estudiants es divideixen en equips
 #### Objectius
 Millorar el rendiment acadèmic individual a través de la responsabilitat compartida.
 
-#### Exemple
+**Exemple:**
 
 En geografia, el professor presenta un tema sobre lectura de mapes: escala, orientació, corbes de nivell i llegenda. Després, cada equip treballa amb diversos mapes i s’ajuda perquè tothom comprengui com interpretar distàncies, símbols i relleu.
 
@@ -6259,7 +6218,7 @@ Consisteix a contestar unes preguntes d'aquest estil:
 
 Hi ha moltes variacions possibles, podeu veure més exemples en format editable a Orientacionandujar. (2019). EXIT TICKET editables PARA EVALUAR EL PROCESO.
 
-#### Exemple
+**Exemple:**
 
 En acabar una classe d’història sobre la Revolució Industrial, el professor entrega un tiquet de sortida amb tres preguntes: “Escriu una idea que hagis entès bé”, “Anota un dubte que encara tinguis” i “Relaciona el tema amb una situació actual”.
 
@@ -6314,7 +6273,8 @@ Es pot utilitzar amb textos, informes de laboratori, presentacions, projectes, m
 - Ensenyar l'alumnat a formular suggeriments respectuosos i útils.
 - Donar temps per revisar i millorar després de rebre feedback.
 
-#### Exemple
+**Exemple:**
+
 En una activitat de llengua, cada alumne escriu un text argumentatiu sobre l'ús del mòbil a l'institut. Abans de lliurar-lo, intercanvia l'esborrany amb un company. La revisió se centra en tres aspectes: claredat de la tesi, ús d'evidències i presència d'un contraargument.
 
 El revisor assenyala una idea clara del text, una part que no s'entén bé i una millora concreta. Després, l'autor revisa el text: reformula la tesi, afegeix una dada i millora el contraargument. La tècnica converteix l'avaluació en una oportunitat real de millora abans de la versió final.
@@ -6352,7 +6312,8 @@ Resulta útil perquè equilibra reconeixement i millora. Evita que la revisió e
 4. Escriu un desig: una millora concreta i realitzable.
 5. L'autor revisa el feedback rebut i decideix quin canvi aplicarà.
 
-#### Exemple
+**Exemple:**
+
 Després d'una exposició oral sobre un problema ambiental, un company escriu: “Estrella 1: l'explicació de les causes ha estat clara. Estrella 2: les imatges ajudaven a entendre el problema. Desig: seria millor afegir una dada que justifiqui la proposta final”. El grup revisa la presentació abans de lliurar-la de forma definitiva.
 
 **Tècniques relacionades:** Diana d'avaluació, Tiquet de sortida (exit ticket), Aprenentatge visible (Visible Learning), Rúbrica d’avaluació, Revisió entre iguals (peer review), +1
@@ -6392,7 +6353,8 @@ La pràctica de recuperació és una tècnica en què l’alumnat recorda activa
 - Reduir la falsa sensació de domini que pot produir la simple relectura.
 - Millorar l’autoregulació de l’estudi.
 
-#### Exemple
+**Exemple:**
+
 A l’inici d’una classe de biologia, els alumnes dediquen 5 minuts a escriure tot el que recorden sobre la respiració cel·lular. Després comparen la resposta amb els apunts durant 3 minuts i subratllen què havien oblidat: glucosa, oxigen, mitocondris o producció d’ATP.
 
 El professor recull els dubtes més freqüents i dedica els primers minuts de la sessió a aclarir-los.
@@ -6434,7 +6396,8 @@ La pràctica espaiada consisteix a distribuir l’estudi i el repàs en diverses
 - Reforçar connexions entre temes.
 - Afavorir hàbits d’estudi més sostenibles.
 
-#### Exemple
+**Exemple:**
+
 En matemàtiques, cada divendres es dediquen 10 minuts a una fitxa breu amb continguts barrejats de setmanes anteriors: percentatges, proporcionalitat, equacions i lectura de gràfiques. Els errors més repetits es recuperen en el repàs de la setmana següent.
 
 **Tècniques relacionades:** Pràctica de recuperació, Pràctica intercalada, Aprenentatge de domini, Apunts Cornell, Teoria de la càrrega cognitiva
@@ -6474,7 +6437,8 @@ L’aprenentatge de domini és un enfocament en què l’alumnat avança al cont
 - Personalitzar suports i ritme de treball.
 - Utilitzar l’avaluació com a guia de millora.
 
-#### Exemple
+**Exemple:**
+
 En una unitat de fraccions, cada subtema acaba amb una prova breu de 5 preguntes. L’alumnat que domina la suma de fraccions passa a la multiplicació; qui encara té errors rep una explicació alternativa i exercicis específics abans de tornar-ho a intentar.
 
 **Tècniques relacionades:** Aprenentatge visible (Visible Learning), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Rúbrica d’avaluació, Pràctica espaiada, Aprenentatge personalitzat amb itineraris (playlists)
@@ -6514,7 +6478,8 @@ Les guies d’orientació són suports que ajuden l’alumnat a fer una tasca co
 - Afavorir autonomia i autoregulació.
 - Millorar la planificació i revisió del treball.
 
-#### Exemple
+**Exemple:**
+
 Per escriure un text argumentatiu, la guia inclou preguntes com: “Quina és la teva tesi?”, “Quina evidència la sosté?”, “Has inclòs una objecció?” i “Has respost aquesta objecció?”. L’alumnat la utilitza abans d’entregar la versió final.
 
 **Tècniques relacionades:** Contracte d'aprenentatge, Disseny per a la comprensió (Understanding by Design, UbD), Rúbrica d’avaluació, Exemples resolts, Bastida i zona de desenvolupament proper (ZDP)
@@ -6550,7 +6515,7 @@ La clau és el disseny: les opcions incorrectes han de correspondre a errors o c
 4. Llegeix el patró de respostes: si la majoria encerta, avances; si predomina un error, l’abordes; si hi ha dispersió, reagrupes o reexpliques.
 5. Aprofita els distractors triats per fer aflorar i discutir el raonament equivocat.
 
-#### Exemple
+**Exemple:**
 
 Després d’explicar l’àrea del triangle, el docent projecta: «Quina és l’àrea d’un triangle de base 6 i altura 4? a) 24, b) 12, c) 10, d) 20». El distractor «24» revela qui oblida dividir entre dos. Tothom mostra la seva resposta alhora amb una targeta. Si molts trien «24», el docent sap a l’instant que ha de reforçar el «entre dos» abans de continuar.
 
@@ -6587,7 +6552,7 @@ Els suports habituals són les mini-pissarres individuals (escriuen i mostren), 
 4. Observa la distribució de respostes i actua en conseqüència: confirmar, corregir un error comú o demanar que algú ho justifiqui.
 5. Repeteix sovint per mantenir la participació universal i el pols de la comprensió.
 
-#### Exemple
+**Exemple:**
 
 Durant una classe de llengua sobre tipus d’oració, el docent dicta una frase i demana: «simple o composta? A la de tres, mostreu la targeta». Tots els alumnes aixequen alhora la seva targeta A (simple) o B (composta). El docent veu de seguida que un terç s’equivoca amb un cas concret i l’aclareix abans de continuar, en lloc de descobrir-ho a l’examen.
 
@@ -6624,7 +6589,7 @@ No és un interrogatori per enxampar: es combina amb temps d’espera, un clima 
 4. Acull la resposta sense penalitzar l’error; si la persona es bloqueja, ofereix suport, reformula o hi tornes després d’escoltar-ne una altra.
 5. Encadena diverses respostes per construir entre tots la idea completa.
 
-#### Exemple
+**Exemple:**
 
 En lloc de «qui sap què va causar la Primera Guerra Mundial?» (responen sempre els mateixos), el docent diu: «Penseu trenta segons en una de les causes… Maria, comença tu». Com que ningú no sap qui cridarà, tothom prepara una resposta. Després encadena: «Gràcies, Maria; Lluís, pots afegir una altra causa?». La participació es reparteix i tothom continua implicat.
 
@@ -6661,7 +6626,7 @@ El silenci incomoda al principi, però és precisament el que permet que el pens
 4. Acompanya l’espera amb senyals que pensar està bé («pren-te el teu temps», sense pressió).
 5. Combina’l amb preguntar sense mans aixecades perquè tothom faci servir aquest temps.
 
-#### Exemple
+**Exemple:**
 
 Un docent de filosofia pregunta «quina diferència hi ha entre saber i creure?» i, en lloc d’acceptar la primera mà alçada al segon, espera cinc segons en silenci. En aquest temps diversos alumnes que no solien intervenir elaboren una idea. Després de la primera resposta, espera de nou: l’alumne, sense pressió, afegeix un matís que enriqueix el debat.
 
@@ -6698,7 +6663,7 @@ L’aprenentatge personalitzat mitjançant itineraris o «playlists» organitza 
 4. El docent monitora el tauler i dedica el temps d’aula a atenció individualitzada i a petits grups amb dificultats comunes.
 5. Es comprova el domini en punts de control abans de passar a l’etapa següent; qui ho necessita, reforça; qui va avançat, aprofundeix.
 
-#### Exemple
+**Exemple:**
 
 En una unitat de matemàtiques, cada alumne rep una llista amb vídeos, exercicis autocorregibles i mini-reptes, a més de comprovacions de domini. Mentre la majoria practica de manera autònoma, el docent reuneix els quatre alumnes que fallen en un mateix concepte i els el reexplica. Qui ja domina el bàsic passa a reptes d’ampliació. Ningú no espera la resta ni es queda enrere sense suport.
 
@@ -6739,11 +6704,7 @@ Aquest mètode consisteix a estructurar la classe perquè els estudiants treball
 
 L'avaluació té lloc a tres nivells: coavaluació de la presentació en grup, coavaluació de les contribucions individuals al grup i avaluació del material produït pel grup.
 
-Adaptat de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos de aprendizaje cooperativo i Orientación Andújar. (2015). Actividades para fomentar al aprendizaje cooperativo.
-
----
-
-#### Un exemple d'aplicació de l'activitat cooperativa CO-OP CO-OP
+**Exemple:**
 
 1. El professor fa una introducció als temes de l'unitat d'aprenentatge, com per exemple la història de l'art contemporani.
 
@@ -6758,6 +6719,8 @@ Adaptat de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos de
 - L'avaluació té lloc a través de la coavaluació de la presentació en grup, on cada estudiant valora la participació i la contribució dels altres membres del grup. 
 - També es fa una coavaluació de les contribucions individuals al grup, on cada estudiant valora la seva pròpia participació i aportació. 
 - Finalment, es valora el material produït pel grup, com ara les notes, les imatges o els esquemes utilitzats en la presentació.
+
+_Adaptat de: Grup de recerca sobre aprenentatge entre iguals. (2019). Métodos de aprendizaje cooperativo i Orientación Andújar. (2015). Actividades para fomentar al aprendizaje cooperativo._
 
 **Recursos:** [GeCo - Generador d'Equips Cooperatius](https://jjdeharo.github.io/geco/)
 
@@ -6806,10 +6769,6 @@ Porto el meu treball al dia?
 
 El poden escriure una vegada per setmana dedicant-li uns 10-15 minuts.
 
-
-
-Font: De Haro, J.J. (2022). Eines per l’avaluació del diari d’aprenentatge individual i del treball en equip.
-
 #### Dificultats en fer el diari d'aprenentatge
 
 Hi ha diferents obstacles que l'alumnat pot trobar en fer el diari d'aprenentatge:
@@ -6820,7 +6779,7 @@ Hi ha diferents obstacles que l'alumnat pot trobar en fer el diari d'aprenentatg
 
 - Dificultat per expressar-se: potser l'alumnat té dificultats per expressar les seves idees i reflexions de manera escrita. En aquest cas, es pot oferir ajuda per millorar les habilitats d'escriptura, com ara fer exercicis d'escriptura o proporcionar exemples d'entrades del diari d'aprenentatge. També es pot considerar l'opció de fer el diari d'aprenentatge de manera oral o amb vídeo en lloc de manera escrita.
 
-#### Exemple d'una entrada
+**Exemple:**
 
 "Aquesta setmana hem estudiat la unitat sobre les forces en Física. Al principi em va costar una mica entendre el concepte de força, però finalment ho vaig aconseguir gràcies a l'explicació del meu professor i als exercicis que vam fer en classe. També he tingut dificultats per resoldre els problemes que ens han posat com a deures, però he demanat ajuda als meus companys i a la professora i així ho he pogut resoldre.
 
@@ -6829,6 +6788,8 @@ D'entre tots els conceptes de la unitat, els que més m'han costat han estat els
 Una de les coses que més m'ha agradat d'aquesta setmana ha estat el treball en equip amb els meus companys per resoldre els problemes. També he ajudat als meus companys a entendre els conceptes teòrics de la unitat.
 
 He fet tots els deures que ens han donat i he revisat els conceptes de la unitat cada dia per estar preparat per a les avaluacions. Estic al dia amb el treball."
+
+_Font: De Haro, J.J. (2022). Eines per l'avaluació del diari d'aprenentatge individual i del treball en equip._
 
 **Tècniques relacionades:** Contracte d'aprenentatge, Escala de metacognició, Pensava... ara penso, Portfolio (dossier d'aprenentatge)
 
@@ -6866,7 +6827,8 @@ Tècnica de diàleg estructurat al voltant d'un text, una imatge, un problema o 
 - Desenvolupar argumentació i escolta activa.
 - Fomentar preguntes obertes i pensament crític.
 
-#### Exemple
+**Exemple:**
+
 En filosofia o biologia, el grup analitza un text sobre bioètica. Els alumnes preparen preguntes i durant el seminari discuteixen quins criteris haurien de guiar una decisió científica amb implicacions socials.
 
 **Tècniques relacionades:** Controvèrsia acadèmica, Equips d'oients, Fishbowl (Peixera), La taula rodona, Tertúlia dialògica, Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Estira-i-arronsa, Filosofia per a Infants (P4C), Debat acadèmic, Comunitat d’indagació (Community of Inquiry)
@@ -6914,7 +6876,8 @@ El model d'argumentació de Toulmin és una eina per analitzar i construir argum
 #### Relació amb CER
 CER és més senzill i directe: afirmació, evidència i raonament. El model de Toulmin permet anar més enllà quan l'argument necessita matisos, garanties explícites o consideració d'objeccions. Per això es pot utilitzar després de CER, com una ampliació per a arguments més complexos.
 
-#### Exemple
+**Exemple:**
+
 En economia, l'alumnat analitza l'afirmació: “Pujar el preu dels productes amb molt sucre pot reduir-ne el consum”.
 
 - **Afirmació**: Un impost sobre begudes ensucrades pot reduir-ne el consum.
@@ -6960,7 +6923,8 @@ Ajuda l'alumnat a veure si un argument està ben sostingut, si falten evidèncie
 5. S'afegeixen respostes o matisos davant d'aquestes objeccions.
 6. Es revisa la solidesa del conjunt i es millora l'argument.
 
-#### Exemple
+**Exemple:**
+
 En ciutadania, l'alumnat construeix un mapa sobre la pregunta: “S'ha de limitar l'ús del mòbil a l'institut?”. Al centre col·loca la tesi, al voltant afegeix raons a favor i en contra, evidències de convivència o aprenentatge i possibles condicions, com usos permesos per a tasques concretes.
 
 **Tècniques relacionades:** Controvèrsia acadèmica, Fishbowl (Peixera), Seminari socràtic, Les dues columnes, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Model d'argumentació de Toulmin, Controvèrsia estructurada amb evidències
@@ -6997,7 +6961,8 @@ Està molt relacionada amb la controvèrsia acadèmica, però aquí se subratlla
 5. Els equips revisen la seva postura després d'escoltar arguments contraris.
 6. S'elabora una síntesi que inclogui acords, desacords, evidències fortes i dubtes oberts.
 
-#### Exemple
+**Exemple:**
+
 En biologia i ciutadania, la classe debat si s'ha de limitar la venda de begudes energètiques a menors. Cada equip analitza dades sobre cafeïna, hàbits de consum, salut i llibertat d'elecció. Després defensa una postura, escolta objeccions i redacta una síntesi final amb condicions, límits i evidències.
 
 **Tècniques relacionades:** Controvèrsia acadèmica, Fishbowl (Peixera), Seminari socràtic, Afirmació, evidència i raonament (CER), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Mapa d'arguments, Estira-i-arronsa, Debat acadèmic
@@ -7037,7 +7002,8 @@ El pensament en veu alta és una tècnica de modelatge en què el docent verbali
 - Ensenyar estratègies d’autoregulació.
 - Millorar la comprensió de processos complexos.
 
-#### Exemple
+**Exemple:**
+
 En una activitat de comprensió lectora, el professor llegeix un paràgraf i diu: “No conec aquesta paraula, però per la frase anterior sembla que indica una causa. Continuaré llegint per comprovar-ho”. Després els alumnes practiquen la mateixa estratègia per parelles.
 
 **Tècniques relacionades:** Tutoria entre iguals (Peer Tutoring), Ensenyament recíproc, Exemples resolts, Alliberament gradual de la responsabilitat, Autoexplicació, Bastida i zona de desenvolupament proper (ZDP)
@@ -7071,7 +7037,7 @@ A diferència de rellegir (passiva), l’autoexplicació és una activitat gener
 4. Quan no aconsegueix explicar alguna cosa, ha localitzat una llacuna: torna al material per resoldre-la.
 5. El docent modela primer l’autoexplicació en veu alta perquè l’alumnat vegi com es fa.
 
-#### Exemple
+**Exemple:**
 
 En estudiar un problema de física ja resolt, l’alumne no es limita a llegir la solució: en cada línia es pregunta i es respon per què s’aplica aquesta fórmula i d’on surt cada valor. En arribar a un pas que no sap justificar, s’adona que no entenia la conservació de l’energia i torna sobre aquest concepte abans de continuar.
 
@@ -7109,7 +7075,7 @@ No busca arribar a una resposta única ni que el docent transmeti continguts, si
 5. Es dialoga guiats pel facilitador, que no dóna respostes però demana raons, exemples, contraexemples i connexions («per què?», «hi estàs d’acord?», «en què et bases?»).
 6. Es tanca amb una metacognició: què hem pensat, com ha canviat la nostra idea, què queda obert.
 
-#### Exemple
+**Exemple:**
 
 Després de llegir un conte en què un personatge menteix per protegir un amic, l’alumnat formula preguntes i tria investigar «està bé mentir alguna vegada?». En cercle, uns defensen que mentir sempre és dolent i altres aporten casos en què sembla justificat. El facilitador demana raons i contraexemples. Al final, ningú no ha «guanyat», però tothom ha afinat els seus arguments i ha après a escoltar i a matisar.
 
@@ -7152,7 +7118,8 @@ Tècnica de discussió en què un petit grup dialoga al centre mentre la resta o
 - Diferenciar participació, escolta i observació crítica.
 - Afavorir la coavaluació de la comunicació oral.
 
-#### Exemple
+**Exemple:**
+
 En ciències socials, el grup central debat si una ciutat hauria de limitar el trànsit privat. Els observadors anoten arguments basats en dades, preguntes rellevants i moments en què s'escolta o no els altres.
 
 **Tècniques relacionades:** Controvèrsia acadèmica, La taula rodona, Seminari socràtic, Talking Chips (Fitxes de conversa), Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències, Filosofia per a Infants (P4C), Debat acadèmic
@@ -7188,7 +7155,7 @@ Tècnica per a l'exposició i revisió de treballs en grup.
 #### Objectius
 Fomentar l'avaluació entre iguals i la comunicació visual.
 
-#### Exemple
+**Exemple:**
 
 En una unitat sobre ecosistemes, cada equip elabora un pòster sobre un bioma: bosc mediterrani, desert, tundra, selva tropical o ecosistema marí. El pòster ha d’incloure clima, espècies característiques, relacions tròfiques i amenaces principals.
 
@@ -7231,8 +7198,6 @@ Per utilitzar el visual thinking en educació es pot partir d'elements simples, 
 
 Les possibilitats són enormes i els elements utilitzats poden fer que la idea es mostri de manera més senzilla.
 
-
-
 Llicència CC by-nc-nd Caudio
 
 Adaptat de Educo. (2021). ¿Cómo aplicar el visual thinking a la educación?
@@ -7246,9 +7211,7 @@ Aquí teniu alguns passos que podeu seguir per utilitzar el visual thinking en l
 1. Reviseu i discutiu les idees i representacions visuals dels estudiants com a grup. Això els ajudarà a comprendre millor el concepte i a veure com es relacionen amb les idees dels altres estudiants.
 1. Repetiu aquest procés amb diferents temes i conceptes per ajudar als estudiants a desenvolupar les seves habilitats en visual thinking.
 
----
-
-#### Exemple
+**Exemple:**
 
 En una classe de tecnologia, l’alumnat utilitza pensament visual per planificar una campanya d’estalvi d’energia al centre. En un full gran dibuixa l’edifici escolar al centre, al voltant hi col·loca icones de llums, finestres, ordinadors, calefacció i cartells informatius, i uneix les idees amb fletxes.
 
@@ -7294,7 +7257,8 @@ La ludificació ha d’estar al servei dels objectius d’aprenentatge. Si els e
 - Afavorir perseverança, presa de decisions i autonomia.
 - Convertir una seqüència d’aprenentatge en una experiència més estructurada i motivadora.
 
-#### Exemple
+**Exemple:**
+
 En una unitat d’història i ciutadania, la classe rep la missió d’organitzar una exposició titulada “Veus d’una ciutat en canvi”. Cada equip representa un grup d’especialistes: documentalistes, cronistes, dissenyadors, entrevistadors i responsables de comunicació. Per avançar, han de superar missions relacionades amb l’anàlisi de fonts, la selecció d’informació i la comunicació pública.
 
 1. **Missió inicial**: interpretar fotografies, titulars de premsa i testimonis sobre una transformació urbana rellevant.
@@ -7345,7 +7309,8 @@ A diferència d’un debat competitiu, la tertúlia dialògica busca construir c
 - Afavorir participació i diàleg respectuós.
 - Relacionar experiències personals amb continguts culturals, científics o socials.
 
-#### Exemple
+**Exemple:**
+
 En literatura, després de llegir un fragment d’una novel·la sobre una decisió difícil d’un personatge, cada alumne selecciona una frase que li hagi semblat significativa. Durant la tertúlia, alguns comenten els motius del personatge, altres relacionen el fragment amb experiències humanes generals i altres analitzen el llenguatge utilitzat.
 
 El professor no busca una única interpretació correcta, sinó que ajuda el grup a justificar les seves aportacions, escoltar punts de vista diferents i construir una comprensió més rica del text.
@@ -7384,7 +7349,7 @@ Un tret formatiu important és que l’equip no sempre defensa el que pensa: en 
 5. Un moderador controla els temps i un jurat (o la resta de la classe, amb una rúbrica) valora la qualitat argumentativa, no només «qui convenç més».
 6. Es tanca amb una reflexió conjunta sobre els millors arguments de tots dos costats.
 
-#### Exemple
+**Exemple:**
 
 En una classe de secundària, la moció és «la intel·ligència artificial hauria de corregir els exàmens». Un equip defensa la postura a favor i un altre la contrària, assignades per sorteig. Cadascun aporta dades i exemples, refuta el contrari i conclou. La classe valora amb una rúbrica la solidesa dels arguments i el respecte dels torns, i després es discuteix quines raons han resultat més convincents.
 
@@ -7421,7 +7386,7 @@ En ser l’alumnat qui decideix el tema, la motivació és intrínseca: aprèn p
 4. L’alumnat investiga, crea i documenta el seu avenç (bitàcola), gestionant el seu temps de manera autònoma.
 5. En acabar, comparteix el resultat amb la classe i reflexiona sobre el procés, els obstacles i el que ha après.
 
-#### Exemple
+**Exemple:**
 
 Una alumna apassionada pels animals dedica la seva hora del geni a investigar per què desapareixen les abelles i què s’hi pot fer. Defineix la pregunta, busca informació rigorosa, entrevista un apicultor i elabora una campanya de sensibilització per al centre. El docent l’orienta i li exigeix fonts fiables; ella aprèn biologia, comunicació i gestió de projectes moguda pel seu propi interès.
 
@@ -7468,7 +7433,8 @@ Model de disseny curricular que proposa planificar de darrere cap endavant. En l
 - Evitar que la planificació se centri només en tasques soltes.
 - Millorar la claredat del que s’espera que aprengui l’alumnat.
 
-#### Exemple
+**Exemple:**
+
 Abans de dissenyar una unitat sobre ecosistemes, el professor defineix que l’alumnat ha d’explicar relacions tròfiques i justificar desequilibris. Després decideix quina tasca servirà com a evidència i, finalment, planifica pràctiques, lectures i debats.
 
 **Tècniques relacionades:** Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia de Bloom, Avaluació autèntica, Guies d’orientació, Teoria de la càrrega cognitiva, Alineament constructiu
@@ -7512,7 +7478,8 @@ Marc que permet analitzar la complexitat cognitiva d’una tasca. No mesura si u
 - Dissenyar tasques amb més profunditat de pensament.
 - Revisar si les activitats exigeixen el nivell de raonament esperat.
 
-#### Exemple
+**Exemple:**
+
 Memoritzar una fórmula pot tenir un nivell baix de DOK, mentre que triar quin model matemàtic cal aplicar a una situació real i justificar la decisió requereix un processament més complex.
 
 **Tècniques relacionades:** Detecta patrons, Disseny per a la comprensió (Understanding by Design, UbD), Taxonomia SOLO, Taxonomia de Bloom, Rúbrica d’avaluació, Model Frayer, Hàbits mentals
@@ -7557,7 +7524,8 @@ Model que ajuda a valorar la qualitat de la comprensió que mostra l’alumnat e
 - Donar feedback més precís sobre la qualitat de les respostes.
 - Ajudar l’alumnat a passar d’idees aïllades a relacions i transferències.
 
-#### Exemple
+**Exemple:**
+
 Davant una pregunta sobre selecció natural, un alumne pot mencionar només un factor, relacionar diversos factors o aplicar el concepte a una situació nova. La taxonomia SOLO permet distingir aquests nivells.
 
 **Tècniques relacionades:** Profunditat del coneixement (Depth of Knowledge, DOK), Aprenentatge visible (Visible Learning), Rúbrica d’avaluació, Alineament constructiu, Marc ICAP
@@ -7603,7 +7571,8 @@ Marc de classificació de processos cognitius que ajuda a formular objectius, ac
 - Dissenyar tasques variades i progressives.
 - Alinear objectius, activitats i avaluació.
 
-#### Exemple
+**Exemple:**
+
 En una unitat de biologia, l’alumnat pot recordar termes, explicar processos, aplicar un model, analitzar dades, avaluar una conclusió o crear una proposta experimental.
 
 **Tècniques relacionades:** Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Rúbrica d’avaluació, Alineament constructiu, Marc ICAP
@@ -7641,7 +7610,8 @@ Enfocament d'avaluació que proposa tasques significatives, contextualitzades i 
 - Integrar coneixements, habilitats i presa de decisions.
 - Fer que l'avaluació tingui sentit formatiu i contextualitzat.
 
-#### Exemple
+**Exemple:**
+
 En lloc de respondre només preguntes sobre nutrició, l'alumnat dissenya una proposta de menú saludable per a una situació concreta i justifica les decisions amb criteris científics.
 
 **Tècniques relacionades:** Aplica els coneixements, Aprenentatge basat en projectes (ABProjectes), Portfolio (dossier d'aprenentatge), Disseny per a la comprensió (Understanding by Design, UbD), Rúbrica d’avaluació, Alineament constructiu
@@ -7680,7 +7650,8 @@ Enfocament que orienta la presa de decisions docents cap a pràctiques amb impac
 - Millorar la claredat i el feedback.
 - Prendre decisions a partir d'evidències.
 
-#### Exemple
+**Exemple:**
+
 En una activitat d'escriptura, el professor comparteix criteris clars, revisa esborranys, dona feedback específic i demana a l'alumnat que indiqui quina millora concreta aplicarà en la versió següent.
 
 **Tècniques relacionades:** Contracte d'aprenentatge, Taxonomia SOLO, Rúbrica d’avaluació, Dues estrelles i un desig, Aprenentatge de domini, Hàbits mentals, Marc ICAP
@@ -7727,7 +7698,8 @@ Model que ajuda a integrar de manera coherent el coneixement del contingut, la p
 - Connectar eines digitals amb objectius i metodologia.
 - Dissenyar experiències d’aprenentatge més coherents.
 
-#### Exemple
+**Exemple:**
+
 En una unitat d’estadística, l’alumnat analitza dades reals sobre hàbits de lectura, ús del transport o temps dedicat a activitats d’oci. El professor treballa conceptes com taules de freqüència, percentatges, mitjana, mediana, gràfics i valors atípics (**CK: coneixement del contingut**). L’activitat s’organitza com una investigació guiada, en què cada equip formula una pregunta, analitza dades, interpreta resultats i justifica les seves conclusions (**PK: coneixement pedagògic**). Per fer-ho s’utilitza un full de càlcul, que permet ordenar les dades, fer càlculs, crear gràfics i modificar les representacions (**TK: coneixement tecnològic**).
 
 El professor selecciona dades properes a l’alumnat perquè els conceptes estadístics no s’aprenguin de manera abstracta, sinó vinculats a preguntes comprensibles (**PCK: coneixement pedagògic del contingut**). El full de càlcul ajuda a treballar millor el contingut perquè facilita el càlcul, la comparació de dades i la detecció de patrons o valors atípics (**TCK: coneixement tecnològic del contingut**). A més, la tecnologia afavoreix una dinàmica de revisió i millora, ja que els equips poden canviar gràfics, comprovar resultats i discutir quina representació comunica millor les seves conclusions (**TPK: coneixement tecnològic pedagògic**). La integració completa es produeix quan contingut, metodologia i tecnologia es combinen de manera coherent: l’alumnat aprèn estadística mitjançant una investigació guiada i utilitza el full de càlcul com a eina per analitzar, interpretar i comunicar dades reals (**TPACK**).
@@ -7771,7 +7743,8 @@ Model que permet analitzar el nivell d’integració tecnològica en una tasca. 
 - Evitar utilitzar eines digitals sense propòsit pedagògic.
 - Redissenyar tasques per ampliar possibilitats d’aprenentatge.
 
-#### Exemple
+**Exemple:**
+
 Escriure un text en un processador pot ser substitució; col·laborar en un document compartit amb comentaris i revisió entre iguals pot modificar la tasca.
 
 **Tècniques relacionades:** Digital storytelling (relats digitals), Coneixement tecnològic, pedagògic i del contingut (TPACK), Ludificació (gamificació)
@@ -7814,7 +7787,8 @@ Marc de planificació que proposa atendre la diversitat de l’alumnat des de l�
 - Augmentar la participació de l’alumnat divers.
 - Oferir alternatives per accedir, comprendre i expressar l’aprenentatge.
 
-#### Exemple
+**Exemple:**
+
 En una tasca d’investigació, l’alumnat pot consultar textos, vídeos o esquemes, treballar amb suports graduats i presentar el resultat mitjançant informe, exposició, infografia o àudio.
 
 **Tècniques relacionades:** Estacions d'aprenentatge, Coneixement tecnològic, pedagògic i del contingut (TPACK), Co-docència (Co-teaching)
@@ -7858,7 +7832,8 @@ Marc competencial que destaca quatre capacitats transversals necessàries per ap
 - Dissenyar tasques més completes i participatives.
 - Afavorir pensament crític, creativitat, comunicació i cooperació.
 
-#### Exemple
+**Exemple:**
+
 En un projecte sobre sostenibilitat, l’alumnat analitza dades, dissenya propostes, les comunica mitjançant una presentació i treballa en equip per revisar i millorar el producte final.
 
 **Tècniques relacionades:** Aprenentatge basat en projectes (ABProjectes), Pensament de disseny (Design Thinking), World Café, Hàbits mentals
@@ -7900,7 +7875,8 @@ Una bona rúbrica no és només una taula per qualificar. Funciona com una guia 
 - Donar feedback més concret i orientat a la millora.
 - Alinear la tasca, els objectius i l’avaluació.
 
-#### Exemple
+**Exemple:**
+
 En una exposició oral sobre un problema ambiental, la rúbrica pot ajudar a preparar la presentació abans de fer-la i a valorar el resultat després. Un exemple senzill seria:
 
 | Criteri | Nivell inicial | Nivell adequat | Nivell avançat |
@@ -7946,7 +7922,7 @@ La bastida (scaffolding) és la metàfora dels suports que es proporcionen dins 
 4. Observa el progrés i retira els suports de manera gradual a mesura que l’alumnat demostra domini.
 5. Ajusta contínuament: si la tasca resulta inabordable, reforça la bastida; si és trivial, eleva el repte.
 
-#### Exemple
+**Exemple:**
 
 Un alumne sap resoldre equacions senzilles però no les de dos passos. El docent situa la tasca en la seva ZDP i li dóna bastides: primer en resol una al seu costat pensant en veu alta, després li ofereix una plantilla amb els passos, després només una pista («què fas primer?») i, finalment, li retira tot suport. L’alumne acaba resolent-les de manera autònoma.
 
@@ -7983,7 +7959,7 @@ La clau és la coherència: si un objectiu diu que l’alumnat ha d’«analitza
 4. Revisa la coherència: comprova que objectiu, activitat i avaluació comparteixen el mateix nivell i tipus d’aprenentatge.
 5. Ajusta qualsevol element desalineat (per exemple, un objectiu d’«aplicar» avaluat amb un examen de memorització).
 
-#### Exemple
+**Exemple:**
 
 Si l’objectiu és «l’alumnat serà capaç de dissenyar un experiment per respondre una pregunta», les activitats no es poden limitar a llegir sobre el mètode científic: l’alumnat ha de dissenyar experiments a classe. I l’avaluació, en conseqüència, li demanarà dissenyar-ne un (no respondre un test sobre les fases). Objectiu, pràctica i prova queden alineats.
 
@@ -8028,7 +8004,7 @@ La hipòtesi ICAP sosté que l’aprenentatge augmenta en pujar de nivell: Inter
 4. Assegura’t que el mode «interactiu» ho sigui de debò: que tots dos aportin i es responguin, no que només un treballi.
 5. Usa el marc per equilibrar la sessió, reduint el temps en mode passiu.
 
-#### Exemple
+**Exemple:**
 
 En lloc que l’alumnat només escolti l’explicació d’un text (passiu) o el subratlli (actiu), el docent li demana primer resumir-lo amb les seves paraules i formular preguntes (constructiu) i després discutir aquestes preguntes en parelles elaborant junts una resposta (interactiu). La mateixa matèria, abordada en un mode ICAP superior, produeix un aprenentatge més profund.
 
@@ -8071,7 +8047,7 @@ L’aprenentatge significatiu es dóna on les tres presències se solapen; si en
 4. Facilita de manera activa: modera els debats, sintetitza, reorienta i dóna feedback, sense desaparèixer ni acaparar.
 5. Avalua observant les tres presències (qualitat del diàleg, participació, sentit de comunitat) i ajusta el disseny.
 
-#### Exemple
+**Exemple:**
 
 En un curs semipresencial, el docent llança en un fòrum una pregunta detonant sobre un dilema real (presència cognitiva), després d’haver creat abans un clima de confiança amb presentacions i normes de participació (presència social), i modera el fil sintetitzant aportacions i repreguntant (presència docent). El resultat no és una bústia de missatges solts, sinó una indagació col·lectiva que aprofundeix en el tema.
 
@@ -8115,7 +8091,8 @@ Els hàbits mentals són un marc de Costa i Kallick que recull disposicions de p
 - Millorar autoregulació i perseverança.
 - Afavorir reflexió sobre com es treballa.
 
-#### Exemple
+**Exemple:**
+
 En un projecte d’investigació, cada equip revisa durant 5 minuts tres hàbits: persistir davant dificultats, comprovar la precisió de les dades i escoltar amb empatia. Després escriu una evidència concreta de cada hàbit i una millora per a la sessió següent.
 
 **Tècniques relacionades:** Escala de metacognició, Profunditat del coneixement (Depth of Knowledge, DOK), Aprenentatge visible (Visible Learning), Les 4C de l'aprenentatge
@@ -8155,7 +8132,8 @@ La teoria de la càrrega cognitiva és un marc de John Sweller que analitza els 
 - Facilitar la construcció d’esquemes mentals.
 - Graduar la dificultat de manera coherent.
 
-#### Exemple
+**Exemple:**
+
 En física, els primers problemes de moviment es presenten amb les dades ja identificades i la fórmula seleccionada. L’alumnat se centra a interpretar el procediment. En problemes posteriors, ha d’identificar per si mateix les dades, escollir la fórmula i justificar el resultat.
 
 **Tècniques relacionades:** Doble codificació (dual coding), Disseny per a la comprensió (Understanding by Design, UbD), Pràctica espaiada, Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Exemples concrets

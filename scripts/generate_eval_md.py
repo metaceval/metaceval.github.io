@@ -11,6 +11,25 @@ import re
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+
+def load_eval_example(entity_id, lang):
+    """Lee examples/{lang}/{id}.html con fallback a 'es'. Devuelve texto plano."""
+    for l in ([lang, 'es'] if lang != 'es' else ['es']):
+        path = os.path.join(BASE_DIR, 'examples', l, f'{entity_id}.html')
+        if os.path.exists(path):
+            html = open(path, encoding='utf-8').read()
+            # Convertir tabla HTML a texto plano tabular
+            html = re.sub(r'<tr[^>]*>', '', html)
+            html = re.sub(r'</tr>', '\n', html)
+            html = re.sub(r'<th[^>]*>', '| ', html)
+            html = re.sub(r'<td[^>]*>', '| ', html)
+            html = re.sub(r'</th>|</td>', ' ', html)
+            html = re.sub(r'<[^>]+>', '', html)   # resto de tags
+            html = re.sub(r' {2,}', ' ', html)
+            html = '\n'.join(l.strip() for l in html.splitlines() if l.strip())
+            return html
+    return None
+
 # ── Category metadata per language ────────────────────────────────────────────
 
 CATS = {
@@ -63,6 +82,7 @@ LANGS = {
             "limitations":  "Limitaciones",
             "ped_function": "Función pedagógica",
             "tags":         "Palabras clave",
+            "example":      "Ejemplo",
             "metac":        "Técnicas activas que la usan",
         },
         "cats": CATS["es"],
@@ -95,6 +115,7 @@ LANGS = {
             "limitations":  "Limitacions",
             "ped_function": "Funció pedagògica",
             "tags":         "Paraules clau",
+            "example":      "Exemple",
             "metac":        "Tècniques actives que l'utilitzen",
         },
         "cats": CATS["ca"],
@@ -127,6 +148,7 @@ LANGS = {
             "limitations":  "Limitations",
             "ped_function": "Pedagogic function",
             "tags":         "Keywords",
+            "example":      "Example",
             "metac":        "Active techniques using this",
         },
         "cats": CATS["en"],
@@ -174,7 +196,7 @@ def meta_line(label, value):
 
 # ── Entity block ───────────────────────────────────────────────────────────────
 
-def entity_block(n, item, labels, metac_by_id):
+def entity_block(n, item, labels, metac_by_id, lang='es'):
     lines = []
     lines.append(f"### {n}. {item['name']} `{item['id']}`\n")
 
@@ -223,6 +245,12 @@ def entity_block(n, item, labels, metac_by_id):
                 lines.append(f"**{labels[label_key]}:** {', '.join(v)}\n")
             else:
                 lines.append(f"**{labels[label_key]}:** {v}\n")
+
+    # Example (external HTML file)
+    example_text = load_eval_example(item['id'], lang)
+    if example_text:
+        lines.append(f"**{labels['example']}:**\n")
+        lines.append(example_text + "\n")
 
     # Related técnicas activas
     metac_ids = item.get("metac_ids") or []
@@ -282,7 +310,7 @@ def generate(lang, cfg):
     for heading, items in cat_data:
         out.append(f"## {heading}\n\n")
         for n, item in enumerate(items, 1):
-            out.append(entity_block(n, item, labels, metac_by_id))
+            out.append(entity_block(n, item, labels, metac_by_id, lang))
 
     content = "\n".join(out).rstrip() + "\n"
     output_path = os.path.join(BASE_DIR, cfg["output"])

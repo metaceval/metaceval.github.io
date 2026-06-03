@@ -2225,6 +2225,37 @@ Es el instrumento de evaluación más adecuado para tareas complejas donde impor
 
 **Limitaciones:** Requiere tiempo de diseño y buenos descriptores.
 
+**Ejemplo:**
+
+Rúbrica analítica para evaluar una exposición oral en 4.º de ESO. Cada criterio se valora de forma independiente.
+|
+| Criterio
+| Excelente (4)
+| Satisfactorio (3)
+| En proceso (2)
+| Inicial (1)
+| Contenido
+| Ideas claras, bien desarrolladas y respaldadas con evidencias.
+| Ideas correctas con algunos detalles poco desarrollados.
+| Ideas básicas; falta profundidad o precisión.
+| Información incompleta o incorrecta.
+| Estructura
+| Introducción, desarrollo y conclusión muy bien diferenciados.
+| Estructura clara con algún punto de transición mejorable.
+| Estructura presente pero poco definida.
+| Sin estructura apreciable.
+| Expresión oral
+| Dicción, volumen y ritmo excelentes; contacto visual constante.
+| Expresión fluida con alguna duda puntual.
+| Expresión funcional pero con pausas frecuentes o voz baja.
+| Dificultades notables para comunicarse oralmente.
+| Uso del tiempo
+| Ajusta perfectamente al tiempo asignado.
+| Leve desajuste (±1 min).
+| Desajuste de 2-3 minutos.
+| No gestiona el tiempo asignado.
+La nota final se obtiene sumando la puntuación de cada criterio (máximo 16 puntos) y convirtiéndola a la escala 1-10.
+
 **Técnicas activas que la usan:** Taxonomía SOLO, Evaluación auténtica, Rúbrica de evaluación, Revisión entre iguales (peer review), Pensamiento computacional, Diagrama de espina de pescado (Ishikawa), Diagrama de Venn
 
 ---

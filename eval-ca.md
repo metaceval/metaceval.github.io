@@ -44,27 +44,12 @@ Com aplicar-la: abans de la sessió es defineixen quins indicadors s'observaran 
 **Exemple:**
 
 Observació sistemàtica durant una pràctica de laboratori de Ciències a 2n d'ESO. El docent planifica de bestreta què observar, en quins moments i amb quin instrument, i registra evidències mentre els grups treballen.
-|
-| Moment
-| Acció del docent
-| Instrument de registre
-| Què revela / Decisió
-| Abans: preparació
-| Defineix 3 focus: planificació inicial, registre de dades i anàlisi oral al tancament. Prepara una guia d'observació amb indicadors per a cada focus.
-| Guia d'observació
-| Fixa el focus abans d'entrar a l'aula; evita observar-ho tot i no veure res.
-| Inici (0–5 min)
-| Observa quins grups llegeixen el guió abans d'actuar i quins comencen sense planificar. Anota a la casella «Planificació inicial» de la guia.
-| Guia d'observació
-| Grup 3 no llegeix el guió → intervenir abans que muntin el material incorrectament.
-| Desenvolupament (5–30 min)
-| Rota pels grups cada 7 minuts. A cada ronda registra si anoten dades en temps real i amb les unitats correctes.
-| Guia d'observació + notes de camp
-| Grup 2: només un membre anota → indicar a la resta que tenen fitxes individuals.
-| Tancament (últims 10 min)
-| Escolta la posada en comú de cada grup i registra si relacionen els resultats amb la hipòtesi o si només descriuen el que ha passat.
-| Guia d'observació
-| Grups 2 i 3 descriuen sense interpretar → preparar andamiatge per a la propera pràctica.
+| Moment | Acció del docent | Instrument de registre | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Abans: preparació | Defineix 3 focus: planificació inicial, registre de dades i anàlisi oral al tancament. Prepara una guia d'observació amb indicadors per a cada focus. | Guia d'observació | Fixa el focus abans d'entrar a l'aula; evita observar-ho tot i no veure res. |
+| Inici (0–5 min) | Observa quins grups llegeixen el guió abans d'actuar i quins comencen sense planificar. Anota a la casella «Planificació inicial» de la guia. | Guia d'observació | Grup 3 no llegeix el guió → intervenir abans que muntin el material incorrectament. |
+| Desenvolupament (5–30 min) | Rota pels grups cada 7 minuts. A cada ronda registra si anoten dades en temps real i amb les unitats correctes. | Guia d'observació + notes de camp | Grup 2: només un membre anota → indicar a la resta que tenen fitxes individuals. |
+| Tancament (últims 10 min) | Escolta la posada en comú de cada grup i registra si relacionen els resultats amb la hipòtesi o si només descriuen el que ha passat. | Guia d'observació | Grups 2 i 3 descriuen sense interpretar → preparar andamiatge per a la propera pràctica. |
 Activitat: Experiment de densitat de líquids &nbsp;|&nbsp; Classe: 2n ESO B &nbsp;|&nbsp; Data: 19/02
 La clau de l'observació sistemàtica és la planificació prèvia: definir què es mira (no tot) i quan, perquè les dades recollides siguin comparables entre grups i sessions.
 
@@ -100,27 +85,12 @@ No substitueix l'observació sistemàtica, sinó que la complementa aportant evi
 **Exemple:**
 
 Observació incidental durant una sessió de treball cooperatiu a Matemàtiques a 3r d'ESO. El docent no busca res concret: registra el que emergeix de forma espontània i significativa mentre circula per l'aula.
-|
-| Hora
-| Fet observat (espontani)
-| Instrument
-| Decisió o seguiment
-| 9:08
-| La Nadia resol el problema 3 per un mètode diferent del que s'ha ensenyat (proporcions en lloc d'equacions). Resultat correcte.
-| Nota de camp
-| Demanar-li que expliqui el seu mètode a la resta a la posada en comú. Anotar per valorar pensament flexible.
-| 9:22
-| L'Iván porta 14 minuts sense escriure. Quan se li pregunta diu «no sé per on començar». No és actitud: és un bloqueig real.
-| Registre anecdòtic
-| Asseure'm amb ell 3 minuts i donar-li el primer pas. Revisar si necessita suport individualitzat.
-| 9:35
-| El Grup 1 discuteix en veu alta si el resultat és correcte. Sense arribar a un acord, un membre decideix per tothom sense consens.
-| Nota de camp
-| Parlar amb el grup sobre presa de decisions a la sessió següent de cooperatiu.
-| 9:41
-| A la posada en comú només 3 alumnes aixequen la mà voluntàriament. La resta espera que se'ls cridi.
-| Nota de camp
-| Provar la setmana vinent amb pissarres individuals perquè tots responguin alhora.
+| Hora | Fet observat (espontani) | Instrument | Decisió o seguiment |
+| --- | --- | --- | --- |
+| 9:08 | La Nadia resol el problema 3 per un mètode diferent del que s'ha ensenyat (proporcions en lloc d'equacions). Resultat correcte. | Nota de camp | Demanar-li que expliqui el seu mètode a la resta a la posada en comú. Anotar per valorar pensament flexible. |
+| 9:22 | L'Iván porta 14 minuts sense escriure. Quan se li pregunta diu «no sé per on començar». No és actitud: és un bloqueig real. | Registre anecdòtic | Asseure'm amb ell 3 minuts i donar-li el primer pas. Revisar si necessita suport individualitzat. |
+| 9:35 | El Grup 1 discuteix en veu alta si el resultat és correcte. Sense arribar a un acord, un membre decideix per tothom sense consens. | Nota de camp | Parlar amb el grup sobre presa de decisions a la sessió següent de cooperatiu. |
+| 9:41 | A la posada en comú només 3 alumnes aixequen la mà voluntàriament. La resta espera que se'ls cridi. | Nota de camp | Provar la setmana vinent amb pissarres individuals perquè tots responguin alhora. |
 Classe: 3r ESO A &nbsp;|&nbsp; Sessió: Resolució d'equacions de 2n grau &nbsp;|&nbsp; Data: 28/01
 L'observació incidental no es planifica: requereix que el docent circuli, estigui present i tingui un suport ràpid de registre. El seu valor és capturar el que cap instrument formal hauria recollit.
 
@@ -156,27 +126,12 @@ Quan el producte final no reflecteix tot l'aprenentatge (perquè el procés va s
 **Exemple:**
 
 Anàlisi de produccions aplicada a la revisió dels informes de laboratori d'un grup de 1r d'ESO. El docent avalua el producte lliurat amb instruments de correcció i anota observacions per a la retroalimentació.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Abans: disseny de l'anàlisi
-| Decideix quins criteris avaluarà a l'informe (procediment, dades, anàlisi, conclusió) i prepara la plantilla de correcció amb puntuacions màximes.
-| Plantilla de correcció
-| Clarifica què es valora abans de llegir els treballs; evita criteris improvisats.
-| Lectura global
-| Llegeix l'informe complet sense puntuar per fer-se una impressió de conjunt i detectar si la conclusió respon a la hipòtesi.
-| —
-| En 6 de 8 informes la conclusió no respon la pregunta inicial → tendència de grup a treballar.
-| Correcció criteri per criteri
-| Anota la puntuació obtinguda a cada criteri i escriu un comentari específic als punts amb menys puntuació.
-| Plantilla de correcció + fitxa de retroalimentació
-| Patró detectat: recollida de dades excel·lent, anàlisi i interpretació molt febles.
-| Devolució
-| Retorna l'informe amb la fitxa de retroalimentació adjunta i demana que l'alumne escrigui un compromís de millora abans de la propera pràctica.
-| Fitxa de retroalimentació + registre de compromisos
-| Tanca el cicle formatiu: l'avaluació es converteix en acció de millora.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Abans: disseny de l'anàlisi | Decideix quins criteris avaluarà a l'informe (procediment, dades, anàlisi, conclusió) i prepara la plantilla de correcció amb puntuacions màximes. | Plantilla de correcció | Clarifica què es valora abans de llegir els treballs; evita criteris improvisats. |
+| Lectura global | Llegeix l'informe complet sense puntuar per fer-se una impressió de conjunt i detectar si la conclusió respon a la hipòtesi. | — | En 6 de 8 informes la conclusió no respon la pregunta inicial → tendència de grup a treballar. |
+| Correcció criteri per criteri | Anota la puntuació obtinguda a cada criteri i escriu un comentari específic als punts amb menys puntuació. | Plantilla de correcció + fitxa de retroalimentació | Patró detectat: recollida de dades excel·lent, anàlisi i interpretació molt febles. |
+| Devolució | Retorna l'informe amb la fitxa de retroalimentació adjunta i demana que l'alumne escrigui un compromís de millora abans de la propera pràctica. | Fitxa de retroalimentació + registre de compromisos | Tanca el cicle formatiu: l'avaluació es converteix en acció de millora. |
 Producció: Informe de laboratori — Pràctica de cromatografia &nbsp;|&nbsp; Classe: 1r ESO B &nbsp;|&nbsp; Data: 12/11
 L'anàlisi de produccions és la tècnica més habitual, però el seu valor formatiu depèn de com s'usa: puntuar sense explicar què falla és només qualificació; puntuar i assenyalar el patró és avaluació.
 
@@ -212,27 +167,12 @@ Són útils per acreditar assoliments i per comparar resultats, però no haurien
 **Exemple:**
 
 Prova específica dissenyada per avaluar els aprenentatges d'una unitat d'Història a 3r d'ESO. Inclou els moments d'abans, durant i després de la prova, amb les decisions docents a cada fase.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Disseny (abans)
-| Elabora la taula d'especificacions: creua els continguts de la unitat amb els nivells cognitius de Bloom (recordar, comprendre, aplicar, analitzar) i assigna ítems i punts a cada cel·la.
-| Taula d'especificacions
-| Garanteix que la prova sigui representativa i que no s'avaluï només memorització.
-| Comunicació (abans)
-| Comparteix la taula d'especificacions i el barem amb l'alumnat una setmana abans. Respon dubtes sobre què es demanarà a cada tipus de pregunta.
-| Barem
-| L'alumnat pot preparar-se amb criteri; redueix l'ansietat i les reclamacions posteriors.
-| Realització (durant)
-| Observa qui acaba molt aviat (possible superficialitat) i qui no arriba al temps (possible dificultat). Anota a notes de camp sense interrompre.
-| Notes de camp
-| 4 alumnes no arriben a l'última pregunta → revisar si la prova és massa llarga.
-| Correcció (després)
-| Corregeix amb la guia de correcció. Anota els errors més freqüents per pregunta per identificar quins conceptes no s'han consolidat al grup.
-| Guia de correcció + plantilla de correcció
-| El 70% falla la pregunta d'anàlisi → dedicar 20 min de la sessió següent a treballar aquest nivell cognitiu.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Disseny (abans) | Elabora la taula d'especificacions: creua els continguts de la unitat amb els nivells cognitius de Bloom (recordar, comprendre, aplicar, analitzar) i assigna ítems i punts a cada cel·la. | Taula d'especificacions | Garanteix que la prova sigui representativa i que no s'avaluï només memorització. |
+| Comunicació (abans) | Comparteix la taula d'especificacions i el barem amb l'alumnat una setmana abans. Respon dubtes sobre què es demanarà a cada tipus de pregunta. | Barem | L'alumnat pot preparar-se amb criteri; redueix l'ansietat i les reclamacions posteriors. |
+| Realització (durant) | Observa qui acaba molt aviat (possible superficialitat) i qui no arriba al temps (possible dificultat). Anota a notes de camp sense interrompre. | Notes de camp | 4 alumnes no arriben a l'última pregunta → revisar si la prova és massa llarga. |
+| Correcció (després) | Corregeix amb la guia de correcció. Anota els errors més freqüents per pregunta per identificar quins conceptes no s'han consolidat al grup. | Guia de correcció + plantilla de correcció | El 70% falla la pregunta d'anàlisi → dedicar 20 min de la sessió següent a treballar aquest nivell cognitiu. |
 Prova: Examen de la Revolució Industrial &nbsp;|&nbsp; Classe: 3r ESO A &nbsp;|&nbsp; Data: 15/03
 La prova específica no comença quan l'alumne agafa el bolígraf: el seu valor formatiu es construeix des del disseny i s'estén fins a l'anàlisi dels errors col·lectius.
 
@@ -268,27 +208,12 @@ Permeten valorar comprensió profunda, argumentació, capacitat de síntesi, flu
 **Exemple:**
 
 Intercanvis orals durant un debat dirigit de Filosofia a 1r de Batxillerat. El docent obté evidències de raonament i comprensió mitjançant preguntes i la gestió del debat, sense necessitar una prova escrita.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Obertura
-| Llança una pregunta provocadora: «És possible actuar de forma completament lliure?» Demana 2 min de reflexió individual escrita abans d'obrir el debat.
-| Notes de camp
-| L'escriptura prèvia activa el pensament de tothom, no només dels més segurs.
-| Debat (15 min)
-| Assigna el rol d'«advocat del diable» a tres alumnes que normalment no participen. Registra qui intervé, tipus d'aportació (argument, pregunta, contraargument) i qualitat.
-| Registre de participació
-| Els alumnes amb rol assignat argumenten millor del previst → ampliar la pràctica de rols.
-| Pregunta de sondeig
-| Interromp el debat i fa una pregunta de verificació: «Carla, pots reformular el que ha dit en Pablo amb les teves pròpies paraules?» Avalua l'escolta activa.
-| Observació directa
-| La Carla reformula correctament → evidència de comprensió oral real, no només del qui parla.
-| Tancament
-| Demana a cada alumne que escrigui en 3 min «quin és l'argument més sòlid que s'ha donat avui i per què». Recull les fitxes.
-| Bitllet de sortida escrit
-| Evidència individual escrita de la capacitat de síntesi; complementa l'observació del debat.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Obertura | Llança una pregunta provocadora: «És possible actuar de forma completament lliure?» Demana 2 min de reflexió individual escrita abans d'obrir el debat. | Notes de camp | L'escriptura prèvia activa el pensament de tothom, no només dels més segurs. |
+| Debat (15 min) | Assigna el rol d'«advocat del diable» a tres alumnes que normalment no participen. Registra qui intervé, tipus d'aportació (argument, pregunta, contraargument) i qualitat. | Registre de participació | Els alumnes amb rol assignat argumenten millor del previst → ampliar la pràctica de rols. |
+| Pregunta de sondeig | Interromp el debat i fa una pregunta de verificació: «Carla, pots reformular el que ha dit en Pablo amb les teves pròpies paraules?» Avalua l'escolta activa. | Observació directa | La Carla reformula correctament → evidència de comprensió oral real, no només del qui parla. |
+| Tancament | Demana a cada alumne que escrigui en 3 min «quin és l'argument més sòlid que s'ha donat avui i per què». Recull les fitxes. | Bitllet de sortida escrit | Evidència individual escrita de la capacitat de síntesi; complementa l'observació del debat. |
 Debat: «És possible la llibertat?» (Kant i el determinisme) &nbsp;|&nbsp; Classe: 1r Batx. B &nbsp;|&nbsp; Data: 15/05
 Els intercanvis orals revelen raonaments que els treballs escrits no sempre mostren; combinar-los amb un tancament escrit dona al docent evidències individuals de tots els alumnes, no només dels qui parlen més.
 
@@ -322,23 +247,11 @@ Com aplicar-la: el docent planteja una pregunta, un KPSI, un bitllet de sortida,
 **Exemple:**
 
 Sondeig i qüestionament durant una classe de Ciències Naturals a 2n d'ESO. El docent llança preguntes breus durant l'explicació per comprovar la comprensió en temps real i ajustar el ritme.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Inici (5 min)
-| Pregunta a l'atzar a tres alumnes: «Quina diferència hi ha entre cèl·lula procariota i eucariota?» Escolta les respostes sense corregir immediatament.
-| Qüestionament oral
-| Només un de tres respon correctament → el concepte no està assentat; cal revisar-lo abans d'avançar.
-| Durant l'explicació
-| Llança «polze amunt/avall/horitzontal» per verificar si l'alumnat segueix el raonament en els passos clau. Para si detecta més d'un terç en horitzontal.
-| Sondeig gestual ràpid
-| El 40 % indica dubte en el pas de la mitosi → reformula amb un diagrama a la pissarra.
-| Tancament (3 min)
-| Planteja un minitest oral de dues preguntes (pissarreta individual o resposta en veu alta per fila). Anota a la seva llista qui respon i amb quin nivell de detall.
-| Llista de seguiment
-| Identifica quatre alumnes que necessiten reforç abans de la pràctica de laboratori de l'endemà.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Inici (5 min) | Pregunta a l'atzar a tres alumnes: «Quina diferència hi ha entre cèl·lula procariota i eucariota?» Escolta les respostes sense corregir immediatament. | Qüestionament oral | Només un de tres respon correctament → el concepte no està assentat; cal revisar-lo abans d'avançar. |
+| Durant l'explicació | Llança «polze amunt/avall/horitzontal» per verificar si l'alumnat segueix el raonament en els passos clau. Para si detecta més d'un terç en horitzontal. | Sondeig gestual ràpid | El 40 % indica dubte en el pas de la mitosi → reformula amb un diagrama a la pissarra. |
+| Tancament (3 min) | Planteja un minitest oral de dues preguntes (pissarreta individual o resposta en veu alta per fila). Anota a la seva llista qui respon i amb quin nivell de detall. | Llista de seguiment | Identifica quatre alumnes que necessiten reforç abans de la pràctica de laboratori de l'endemà. |
 Unitat: La cèl·lula — divisió cel·lular &nbsp;|&nbsp; Classe: 2n ESO C &nbsp;|&nbsp; Data: 21/03
 El sondeig sistemàtic converteix cada pregunta oral en una microevidència formativa; acumulades al llarg de diverses sessions permeten detectar llacunes conceptuals abans que es converteixin en errors a la prova.
 
@@ -372,23 +285,11 @@ Com aplicar-la: es seleccionen moments de recollida durant la tasca i es revisen
 **Exemple:**
 
 Anàlisi de processos i reflexions en un projecte de Llengua Catalana a 3r d'ESO. El docent revisa els esborranys, anotacions i reflexions de l'alumnat per avaluar el procés d'escriptura, no només el producte final.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Setmana 1 — planificació
-| Recull el mapa d'idees inicial i l'esquema previ de cada alumne. Anota si l'estructura respon al gènere textual demanat (article d'opinió).
-| Revisió d'esborranys
-| Diversos alumnes no diferencien tesi d'argument → sessió de modelatge abans de l'esborrany 1.
-| Setmana 2 — esborrany
-| Llegeix l'esborrany amb una guia d'observació (estructura, cohesió, argument) i deixa comentaris escrits. No posa nota.
-| Guia d'observació + comentaris
-| La cohesió és el punt feble generalitzat → proporciona una llista de connectors per a la revisió.
-| Setmana 3 — reflexió
-| Demana una fitxa de reflexió: «Què vaig canviar de l'esborrany al text final i per què?» Revisa les fitxes juntament amb el text definitiu.
-| Fitxa de reflexió
-| Els alumnes que reflexionen amb detall mostren una millora textual més gran → factor metacognitiu real.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Setmana 1 — planificació | Recull el mapa d'idees inicial i l'esquema previ de cada alumne. Anota si l'estructura respon al gènere textual demanat (article d'opinió). | Revisió d'esborranys | Diversos alumnes no diferencien tesi d'argument → sessió de modelatge abans de l'esborrany 1. |
+| Setmana 2 — esborrany | Llegeix l'esborrany amb una guia d'observació (estructura, cohesió, argument) i deixa comentaris escrits. No posa nota. | Guia d'observació + comentaris | La cohesió és el punt feble generalitzat → proporciona una llista de connectors per a la revisió. |
+| Setmana 3 — reflexió | Demana una fitxa de reflexió: «Què vaig canviar de l'esborrany al text final i per què?» Revisa les fitxes juntament amb el text definitiu. | Fitxa de reflexió | Els alumnes que reflexionen amb detall mostren una millora textual més gran → factor metacognitiu real. |
 Projecte: Article d'opinió sobre l'ús de les xarxes socials &nbsp;|&nbsp; Classe: 3r ESO A &nbsp;|&nbsp; Dates: mar.–abr.
 Analitzar el procés (mapes, esborranys, reflexions) en lloc de només el producte final permet valorar l'aprenentatge real i proporcionar retroalimentació quan encara pot modificar el resultat.
 
@@ -422,23 +323,11 @@ Com aplicar-la: es defineix un guió breu, es registren les respostes amb una gu
 **Exemple:**
 
 Entrevista avaluativa individual en Matemàtiques de 4t d'ESO. El docent conversa 5-7 minuts amb cada alumne després del lliurament d'un problema resolt per identificar el raonament darrere de la solució escrita.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Obertura
-| «Explica'm com has arribat a aquest resultat. Quina estratègia has fet servir?» Deixa parlar sense interrompre; pren notes dels termes que usa i dels que evita.
-| Guia d'entrevista
-| L'alumne usa el procediment correcte però no sap per què funciona → comprensió superficial detectada.
-| Aprofundiment
-| Planteja una variació del problema: «I si l'angle fos obtús? Canviaries l'estratègia?» Observa si transfereix el coneixement a un cas nou.
-| Pregunta de transferència
-| No transfereix → aprèn procediments de forma mecànica; necessita exemples variats en el reforç.
-| Tancament
-| Resumeix oralment el que ha observat i demana a l'alumne que valori el seu propi nivell de comprensió (1-4). Anota la valoració al quadern de seguiment.
-| Quadern de seguiment
-| La autovaloració coincideix amb l'observació del docent → calibratge metacognitiu positiu.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Obertura | «Explica'm com has arribat a aquest resultat. Quina estratègia has fet servir?» Deixa parlar sense interrompre; pren notes dels termes que usa i dels que evita. | Guia d'entrevista | L'alumne usa el procediment correcte però no sap per què funciona → comprensió superficial detectada. |
+| Aprofundiment | Planteja una variació del problema: «I si l'angle fos obtús? Canviaries l'estratègia?» Observa si transfereix el coneixement a un cas nou. | Pregunta de transferència | No transfereix → aprèn procediments de forma mecànica; necessita exemples variats en el reforç. |
+| Tancament | Resumeix oralment el que ha observat i demana a l'alumne que valori el seu propi nivell de comprensió (1-4). Anota la valoració al quadern de seguiment. | Quadern de seguiment | La autovaloració coincideix amb l'observació del docent → calibratge metacognitiu positiu. |
 Alumne: Marc G. &nbsp;|&nbsp; Tasca: Resolució de triangles (trigonometria) &nbsp;|&nbsp; Data: 10/04
 L'entrevista avaluativa detecta la diferència entre saber fer i comprendre per què, cosa que la prova escrita rarament revela; és especialment valuosa abans d'una unitat que requereix aplicar aquest coneixement en nous contextos.
 
@@ -472,23 +361,11 @@ Són útils per la seva rapidesa i comparabilitat, però no han de substituir ev
 **Exemple:**
 
 Enquesta i qüestionari aplicats en Ciències Socials de 1r de Batxillerat. El docent utilitza un qüestionari diagnòstic a l'inici de la unitat i un de satisfacció al final per orientar l'ensenyament i millorar el disseny futur.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Inici d'unitat
-| Distribueix un qüestionari de 8 ítems d'opció múltiple sobre conceptes previs (economia globalitzada, blocs comercials). Els resultats s'analitzen de forma agregada, sense nota.
-| Qüestionari diagnòstic
-| El 65 % confon balança comercial amb balança de pagaments → dedica una sessió extra a aquest punt abans de continuar.
-| Meitat d'unitat
-| Formulari de 3 preguntes obertes: què entenc bé?, què em costa?, quin tipus d'activitat m'ajudaria més? Anònim i en 5 min.
-| Enquesta de procés
-| La majoria demana més exemples amb dades reals → incorpora notícies econòmiques actuals a les sessions següents.
-| Fi d'unitat
-| Qüestionari de satisfacció (escala Likert 1-4) sobre claredat, utilitat i ritme. Inclou ítem d'autoavaluació: «He assolit els objectius de la unitat».
-| Enquesta de satisfacció
-| El ritme puntua baix (mitjana 1,9/4) → reajusta la temporització a la programació del curs següent.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Inici d'unitat | Distribueix un qüestionari de 8 ítems d'opció múltiple sobre conceptes previs (economia globalitzada, blocs comercials). Els resultats s'analitzen de forma agregada, sense nota. | Qüestionari diagnòstic | El 65 % confon balança comercial amb balança de pagaments → dedica una sessió extra a aquest punt abans de continuar. |
+| Meitat d'unitat | Formulari de 3 preguntes obertes: què entenc bé?, què em costa?, quin tipus d'activitat m'ajudaria més? Anònim i en 5 min. | Enquesta de procés | La majoria demana més exemples amb dades reals → incorpora notícies econòmiques actuals a les sessions següents. |
+| Fi d'unitat | Qüestionari de satisfacció (escala Likert 1-4) sobre claredat, utilitat i ritme. Inclou ítem d'autoavaluació: «He assolit els objectius de la unitat». | Enquesta de satisfacció | El ritme puntua baix (mitjana 1,9/4) → reajusta la temporització a la programació del curs següent. |
 Unitat: Economia i globalització &nbsp;|&nbsp; Classe: 1r Batx. A &nbsp;|&nbsp; Trimestre: 2n
 Combinar qüestionari diagnòstic, enquesta de procés i enquesta de satisfacció tanca el cicle d'avaluació formativa: s'ajusta l'ensenyament abans, durant i després de la unitat.
 
@@ -522,23 +399,11 @@ Com aplicar-la: es seleccionen documents rellevants, es contrasten amb criteris 
 **Exemple:**
 
 Anàlisi documental en un projecte d'Història de 2n de Batxillerat. El docent revisa portfolis, quaderns i registres acumulats al llarg del trimestre per emetre una valoració global fonamentada en evidències.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Recollida de documents
-| Sol·licita el portfolio del trimestre: quadern de classe, tres treballs escrits i la fitxa de reflexió final. Verifica que hi ha tots els documents abans d'avaluar-los.
-| Llista de verificació
-| Dos alumnes lliuren el portfolio incomplet → cita individual per revisar el que falta i acordar terminis.
-| Anàlisi del progrés
-| Compara el primer i l'últim treball escrit fent servir la mateixa rúbrica analítica. Anota els criteris en què hi ha una millora clara i els que es mantenen igual.
-| Rúbrica analítica
-| L'anàlisi de fonts millora significativament; l'argumentació escrita es manté feble → objectiu per al trimestre següent.
-| Valoració global
-| Creua les evidències del portfolio amb les notes de camp preses a classe. Redacta un comentari de dues línies per alumne que reflecteix el progrés observat en ambdues fonts.
-| Informe narratiu
-| La triangulació portfolio + observació directa és més fiable que qualsevol de les dues fonts per separat.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Recollida de documents | Sol·licita el portfolio del trimestre: quadern de classe, tres treballs escrits i la fitxa de reflexió final. Verifica que hi ha tots els documents abans d'avaluar-los. | Llista de verificació | Dos alumnes lliuren el portfolio incomplet → cita individual per revisar el que falta i acordar terminis. |
+| Anàlisi del progrés | Compara el primer i l'últim treball escrit fent servir la mateixa rúbrica analítica. Anota els criteris en què hi ha una millora clara i els que es mantenen igual. | Rúbrica analítica | L'anàlisi de fonts millora significativament; l'argumentació escrita es manté feble → objectiu per al trimestre següent. |
+| Valoració global | Creua les evidències del portfolio amb les notes de camp preses a classe. Redacta un comentari de dues línies per alumne que reflecteix el progrés observat en ambdues fonts. | Informe narratiu | La triangulació portfolio + observació directa és més fiable que qualsevol de les dues fonts per separat. |
 Projecte: Portfolio d'Història Contemporània &nbsp;|&nbsp; Classe: 2n Batx. B &nbsp;|&nbsp; Data: fi del 1r trimestre
 L'anàlisi documental permet avaluar l'aprenentatge al llarg del temps, no en un únic moment; creuar diversos documents d'un mateix alumne dona una imatge molt més completa que un examen aïllat.
 
@@ -572,23 +437,11 @@ Com aplicar-la: es decideix quines traces són rellevants per als criteris, es r
 **Exemple:**
 
 Anàlisi d'interaccions digitals en un projecte col·laboratiu de Tecnologia i Informàtica a 4t d'ESO. El docent examina l'historial d'edició del document compartit i els comentaris del fòrum per avaluar la participació real de cada integrant.
-|
-| Moment
-| Acció del docent
-| Instrument
-| Què revela / Decisió
-| Durant el projecte
-| Accedeix a l'historial d'edició del Google Doc compartit. Comprova qui ha editat, quan i quines seccions, per detectar si la càrrega de treball està repartida.
-| Historial de revisió
-| Un alumne concentra el 80 % de les edicions → parla amb el grup per redistribuir responsabilitats abans del tancament.
-| Revisió del fòrum
-| Llegeix els missatges del fòrum de classe (Classroom o Moodle). Avalua la qualitat de les aportacions: aporten idees noves, qüestionen arguments o només confirmen el que s'ha dit?
-| Rúbrica de participació digital
-| La majoria només respon «d'acord» → introdueix la norma que cada missatge ha d'afegir un argument nou.
-| Tancament del projecte
-| Exporta el resum d'activitat de la plataforma (nombre d'accessos, aportacions, comentaris). El creua amb l'autoavaluació de cada alumne sobre la seva participació.
-| Dades d'analítica + autoavaluació
-| Dos alumnes es sobrevalorien respecte a les dades → retroalimentació concreta amb evidències numèriques.
+| Moment | Acció del docent | Instrument | Què revela / Decisió |
+| --- | --- | --- | --- |
+| Durant el projecte | Accedeix a l'historial d'edició del Google Doc compartit. Comprova qui ha editat, quan i quines seccions, per detectar si la càrrega de treball està repartida. | Historial de revisió | Un alumne concentra el 80 % de les edicions → parla amb el grup per redistribuir responsabilitats abans del tancament. |
+| Revisió del fòrum | Llegeix els missatges del fòrum de classe (Classroom o Moodle). Avalua la qualitat de les aportacions: aporten idees noves, qüestionen arguments o només confirmen el que s'ha dit? | Rúbrica de participació digital | La majoria només respon «d'acord» → introdueix la norma que cada missatge ha d'afegir un argument nou. |
+| Tancament del projecte | Exporta el resum d'activitat de la plataforma (nombre d'accessos, aportacions, comentaris). El creua amb l'autoavaluació de cada alumne sobre la seva participació. | Dades d'analítica + autoavaluació | Dos alumnes es sobrevalorien respecte a les dades → retroalimentació concreta amb evidències numèriques. |
 Projecte: Disseny d'una app de gestió escolar &nbsp;|&nbsp; Classe: 4t ESO B &nbsp;|&nbsp; Durada: 3 setmanes
 Les plataformes digitals generen un rastre d'aprenentatge que permet avaluar la participació individual en treballs grupals de forma objectiva; combinar-ho amb l'autoavaluació potencia la metacognició de l'alumnat.
 
@@ -622,23 +475,11 @@ Com aplicar-la: s'identifica quin criteri es vol valorar, quines evidències el 
 **Exemple:**
 
 Triangulació d'evidències al final d'un trimestre en Anglès de 3r d'ESO. El docent combina tres fonts abans d'emetre la qualificació: una prova escrita, l'observació sistemàtica a classe i el portfolio de l'alumne.
-|
-| Font d'evidència
-| Què avalua
-| Instrument usat
-| Resultat / Dada clau
-| Prova escrita
-| Comprensió lectora i expressió escrita en anglès. Condicions controlades, sense materials de suport.
-| Examen amb criteris de correcció
-| Nota: 6,5/10. Expressió escrita correcta; comprensió lectora de textos llargs, feble.
-| Observació sistemàtica
-| Participació oral, fluïdesa i disposició a comunicar-se en anglès durant les activitats de classe.
-| Registre de participació (escala 1-4)
-| Nivell 3-4 sostingut: participa activament, comet pocs errors de comunicació tot i alguns de gramaticals.
-| Portfolio
-| Procés d'escriptura, reflexió sobre els errors i autonomia en la gestió de l'aprenentatge.
-| Rúbrica analítica de portfolio
-| Les reflexions mostren consciència dels seus errors i estratègies de millora concretes.
+| Font d'evidència | Què avalua | Instrument usat | Resultat / Dada clau |
+| --- | --- | --- | --- |
+| Prova escrita | Comprensió lectora i expressió escrita en anglès. Condicions controlades, sense materials de suport. | Examen amb criteris de correcció | Nota: 6,5/10. Expressió escrita correcta; comprensió lectora de textos llargs, feble. |
+| Observació sistemàtica | Participació oral, fluïdesa i disposició a comunicar-se en anglès durant les activitats de classe. | Registre de participació (escala 1-4) | Nivell 3-4 sostingut: participa activament, comet pocs errors de comunicació tot i alguns de gramaticals. |
+| Portfolio | Procés d'escriptura, reflexió sobre els errors i autonomia en la gestió de l'aprenentatge. | Rúbrica analítica de portfolio | Les reflexions mostren consciència dels seus errors i estratègies de millora concretes. |
 Conclusió de triangulació: L'alumne domina la comunicació oral i la reflexió, però necessita reforç en comprensió lectora de textos extensos. La qualificació integra les tres fonts i reflecteix millor la seva competència real que l'examen sol.
 La triangulació evita la distorsió que produeix dependre d'una sola evidència: un alumne pot tenir un mal dia a l'examen però mostrar un domini real en la resta de fonts, o al revés.
 
@@ -2524,32 +2365,12 @@ Com usar-la: es dissenya una taula on les files són els criteris (p. ex., 'estr
 **Exemple:**
 
 Rúbrica analítica per avaluar una exposició oral a 4t d'ESO. Cada criteri es valora de manera independent.
-|
-| Criteri
-| Excel·lent (4)
-| Satisfactori (3)
-| En procés (2)
-| Inicial (1)
-| Contingut
-| Idees clares, ben desenvolupades i recolzades amb evidències.
-| Idees correctes amb alguns detalls poc desenvolupats.
-| Idees bàsiques; manca profunditat o precisió.
-| Informació incompleta o incorrecta.
-| Estructura
-| Introducció, desenvolupament i conclusió molt ben diferenciats.
-| Estructura clara amb algun punt de transició millorable.
-| Estructura present però poc definida.
-| Sense estructura apreciable.
-| Expressió oral
-| Dicció, volum i ritme excel·lents; contacte visual constant.
-| Expressió fluida amb algun dubte puntual.
-| Expressió funcional però amb pauses freqüents o veu baixa.
-| Dificultats notables per comunicar-se oralment.
-| Ús del temps
-| S'ajusta perfectament al temps assignat.
-| Lleu desajust (±1 min).
-| Desajust de 2-3 minuts.
-| No gestiona el temps assignat.
+| Criteri | Excel·lent (4) | Satisfactori (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Contingut | Idees clares, ben desenvolupades i recolzades amb evidències. | Idees correctes amb alguns detalls poc desenvolupats. | Idees bàsiques; manca profunditat o precisió. | Informació incompleta o incorrecta. |
+| Estructura | Introducció, desenvolupament i conclusió molt ben diferenciats. | Estructura clara amb algun punt de transició millorable. | Estructura present però poc definida. | Sense estructura apreciable. |
+| Expressió oral | Dicció, volum i ritme excel·lents; contacte visual constant. | Expressió fluida amb algun dubte puntual. | Expressió funcional però amb pauses freqüents o veu baixa. | Dificultats notables per comunicar-se oralment. |
+| Ús del temps | S'ajusta perfectament al temps assignat. | Lleu desajust (±1 min). | Desajust de 2-3 minuts. | No gestiona el temps assignat. |
 La nota final s'obté sumant la puntuació de cada criteri (màxim 16 punts) i convertint-la a l'escala 1-10.
 Alumne: Marta P. &nbsp;|&nbsp; Activitat: Exposició sobre el Renaixement (4t ESO) &nbsp;|&nbsp; Data: 12/03Puntuació: 12/16 → 7,5. Estructura i contingut sòlids; ha de treballar la fluïdesa oral.
 
@@ -2581,22 +2402,12 @@ Adequada quan el temps és limitat, quan la tasca és curta o quan es vol donar 
 **Exemple:**
 
 Rúbrica holística per avaluar un relat curt a 2n d'ESO. A diferència de l'analítica, el docent assigna un únic nivell global després de llegir el text en el seu conjunt.
-|
-| Nivell
-| Descriptor global
-| Qualificació
-| 4 — Excel·lent
-| El relat presenta una estructura clara (plantejament, nus i desenllaç) i una veu narrativa coherent. La descripció de personatges i ambients és vívida. El llenguatge és variat, precís i lliure d'errors. El conjunt resulta original i manté l'atenció del lector de principi a fi.
-| 9–10
-| 3 — Competent
-| El relat té una estructura reconeixible i els personatges estan prou definits. El llenguatge és adequat, tot i que amb alguna repetició o error puntual. La narració es llegeix amb facilitat, tot i que pot perdre intensitat en algun moment.
-| 7–8
-| 2 — En procés
-| El relat presenta una estructura bàsica però amb llacunes (el nus o el desenllaç són febles). Els personatges i ambients estan poc desenvolupats. El llenguatge és funcional però limitat, amb errors que dificulten ocasionalment la lectura.
-| 5–6
-| 1 — Inicial
-| El relat manca d'estructura narrativa reconeixible o està incomplet. Els personatges i ambients no estan definits. El llenguatge és molt limitat i els errors dificulten la comprensió.
-| 1–4
+| Nivell | Descriptor global | Qualificació |
+| --- | --- | --- |
+| 4 — Excel·lent | El relat presenta una estructura clara (plantejament, nus i desenllaç) i una veu narrativa coherent. La descripció de personatges i ambients és vívida. El llenguatge és variat, precís i lliure d'errors. El conjunt resulta original i manté l'atenció del lector de principi a fi. | 9–10 |
+| 3 — Competent | El relat té una estructura reconeixible i els personatges estan prou definits. El llenguatge és adequat, tot i que amb alguna repetició o error puntual. La narració es llegeix amb facilitat, tot i que pot perdre intensitat en algun moment. | 7–8 |
+| 2 — En procés | El relat presenta una estructura bàsica però amb llacunes (el nus o el desenllaç són febles). Els personatges i ambients estan poc desenvolupats. El llenguatge és funcional però limitat, amb errors que dificulten ocasionalment la lectura. | 5–6 |
+| 1 — Inicial | El relat manca d'estructura narrativa reconeixible o està incomplet. Els personatges i ambients no estan definits. El llenguatge és molt limitat i els errors dificulten la comprensió. | 1–4 |
 Alumne: Alex G. &nbsp;|&nbsp; Activitat: Relat curt «L'últim viatge» (2n ESO) &nbsp;|&nbsp; Data: 25/01Nivell global: 3 — Competent → 7,5. Narració fluida amb alguna repetició lèxica.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS)
@@ -2627,37 +2438,13 @@ Com usar-la: els criteris inclouen aspectes com 'defineix objectius clars a l'in
 **Exemple:**
 
 Rúbrica de procés per avaluar com treballa l'alumne durant una investigació científica a 3r d'ESO. S'aplica mitjançant observació durant les sessions, no sobre el producte final.
-|
-| Criteri de procés
-| Excel·lent (4)
-| Competent (3)
-| En procés (2)
-| Inicial (1)
-| Planificació
-| Defineix la hipòtesi, el procediment i el material abans de començar, de manera autònoma.
-| Planifica amb alguna orientació del docent.
-| Comença sense planificar i rectifica sobre la marxa.
-| No planifica; actua de manera improvisada durant tota la sessió.
-| Registre de dades
-| Anota dades de forma sistemàtica, organitzada i amb les unitats correctes.
-| Registra la majoria de les dades amb alguna omissió.
-| El registre és incomplet o desordenat.
-| No registra les dades o ho fa de manera il·legible.
-| Ajust i resolució
-| Detecta errors, proposa solucions i modifica el procediment de forma reflexiva.
-| Detecta errors i demana ajuda per resoldre'ls.
-| Detecta que alguna cosa no funciona però no sap com actuar.
-| No detecta els errors o els ignora.
-| Treball en equip
-| Distribueix tasques, escolta activament i gestiona els desacords de forma constructiva.
-| Col·labora bé, tot i que amb algun moment de descoordinació.
-| Participa de forma irregular; tendeix a treballar en solitari.
-| No col·labora o genera conflictes al grup.
-| Reflexió sobre el procés
-| En acabar, identifica què ha funcionat, què canviaria i per què.
-| Reflexiona sobre el procés amb preguntes guia del docent.
-| La reflexió és superficial o es limita al resultat.
-| No reflexiona sobre el procés.
+| Criteri de procés | Excel·lent (4) | Competent (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Planificació | Defineix la hipòtesi, el procediment i el material abans de començar, de manera autònoma. | Planifica amb alguna orientació del docent. | Comença sense planificar i rectifica sobre la marxa. | No planifica; actua de manera improvisada durant tota la sessió. |
+| Registre de dades | Anota dades de forma sistemàtica, organitzada i amb les unitats correctes. | Registra la majoria de les dades amb alguna omissió. | El registre és incomplet o desordenat. | No registra les dades o ho fa de manera il·legible. |
+| Ajust i resolució | Detecta errors, proposa solucions i modifica el procediment de forma reflexiva. | Detecta errors i demana ajuda per resoldre'ls. | Detecta que alguna cosa no funciona però no sap com actuar. | No detecta els errors o els ignora. |
+| Treball en equip | Distribueix tasques, escolta activament i gestiona els desacords de forma constructiva. | Col·labora bé, tot i que amb algun moment de descoordinació. | Participa de forma irregular; tendeix a treballar en solitari. | No col·labora o genera conflictes al grup. |
+| Reflexió sobre el procés | En acabar, identifica què ha funcionat, què canviaria i per què. | Reflexiona sobre el procés amb preguntes guia del docent. | La reflexió és superficial o es limita al resultat. | No reflexiona sobre el procés. |
 Alumne: Jorge L. &nbsp;|&nbsp; Activitat: Experiment de densitat de líquids (3r ESO) &nbsp;|&nbsp; Data: 08/02Puntuació: 14/20 → 7. Destaca el registre sistemàtic de dades; ha de millorar la reflexió sobre el procés.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Projectes d'aprenentatge servei (APS o ABS), Aprenentatge maker / STEAM, Hora del geni (Genius Hour), Marc ICAP
@@ -2688,37 +2475,13 @@ Es complementa amb la rúbrica de procés en projectes extensos. Usada sola, pot
 **Exemple:**
 
 Rúbrica de producte per avaluar una infografia sobre el canvi climàtic a 1r d'ESO. Avalua les característiques del producte lliurat, no el procés d'elaboració.
-|
-| Criteri
-| Excel·lent (4)
-| Competent (3)
-| En procés (2)
-| Inicial (1)
-| Contingut
-| La informació és correcta, completa i rellevant. Inclou dades, causes i conseqüències ben seleccionades.
-| La informació és correcta en la seva major part, amb alguna dada imprecisa o incompleta.
-| La informació és bàsica o conté alguns errors.
-| La informació és incorrecta, molt escassa o no té relació amb el tema.
-| Organització visual
-| El disseny guia la lectura de forma intuïtiva. Jerarquia clara, ús coherent de l'espai i els elements.
-| L'organització és adequada, tot i que algun element visual dificulta la lectura.
-| La disposició és confusa o sobrecarregada en alguna secció.
-| No hi ha una organització visual reconeixible.
-| Llegibilitat
-| Tipografia adequada, mida de text llegible i contrast de color suficient en tot el document.
-| Generalment llegible, amb algun text massa petit o color amb poc contrast.
-| Hi ha seccions difícils de llegir per tipografia o contrast inadequats.
-| El document és difícil de llegir en el seu conjunt.
-| Ús d'imatges i gràfics
-| Les imatges i gràfics reforcen el missatge, són pertinents i estan correctament etiquetats.
-| Les imatges són adequades però alguna no aporta o falta una etiqueta.
-| Les imatges són decoratives o no guarden relació directa amb el contingut.
-| No hi ha imatges o són inadequades per al tema.
-| Fonts citades
-| Totes les fonts estan citades correctament al peu de la infografia.
-| La majoria de fonts estan citades, amb alguna omissió menor.
-| Només se citen algunes fonts o el format és incorrecte.
-| No se cita cap font.
+| Criteri | Excel·lent (4) | Competent (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Contingut | La informació és correcta, completa i rellevant. Inclou dades, causes i conseqüències ben seleccionades. | La informació és correcta en la seva major part, amb alguna dada imprecisa o incompleta. | La informació és bàsica o conté alguns errors. | La informació és incorrecta, molt escassa o no té relació amb el tema. |
+| Organització visual | El disseny guia la lectura de forma intuïtiva. Jerarquia clara, ús coherent de l'espai i els elements. | L'organització és adequada, tot i que algun element visual dificulta la lectura. | La disposició és confusa o sobrecarregada en alguna secció. | No hi ha una organització visual reconeixible. |
+| Llegibilitat | Tipografia adequada, mida de text llegible i contrast de color suficient en tot el document. | Generalment llegible, amb algun text massa petit o color amb poc contrast. | Hi ha seccions difícils de llegir per tipografia o contrast inadequats. | El document és difícil de llegir en el seu conjunt. |
+| Ús d'imatges i gràfics | Les imatges i gràfics reforcen el missatge, són pertinents i estan correctament etiquetats. | Les imatges són adequades però alguna no aporta o falta una etiqueta. | Les imatges són decoratives o no guarden relació directa amb el contingut. | No hi ha imatges o són inadequades per al tema. |
+| Fonts citades | Totes les fonts estan citades correctament al peu de la infografia. | La majoria de fonts estan citades, amb alguna omissió menor. | Només se citen algunes fonts o el format és incorrecte. | No se cita cap font. |
 Alumne: Sofía M. &nbsp;|&nbsp; Activitat: Infografia sobre el canvi climàtic (1r ESO) &nbsp;|&nbsp; Data: 15/04Puntuació: 16/20 → 8. Disseny visual excel·lent; ha de citar correctament totes les fonts.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Doble codificació (dual coding), Projectes d'aprenentatge servei (APS o ABS), WebQuest, Aprenentatge maker / STEAM, Mapa mental, Línia de temps
@@ -2749,37 +2512,13 @@ Compartir-la abans de l'actuació permet a l'alumnat preparar-se amb més orient
 **Exemple:**
 
 Rúbrica per avaluar una exposició oral individual a 2n d'ESO. S'aplica en temps real mentre l'alumne parla; el docent marca el nivell observat a cada criteri.
-|
-| Criteri
-| Excel·lent (4)
-| Competent (3)
-| En procés (2)
-| Inicial (1)
-| Contingut i estructura
-| Idees clares, ben ordenades i desenvolupades. Introducció, desenvolupament i conclusió diferenciats.
-| Idees correctes amb algun salt lògic. Estructura reconeixible.
-| Idees bàsiques o desordenades. L'estructura és difusa.
-| Sense estructura apreciable o amb informació incorrecta.
-| Dicció i volum
-| Vocalitza amb claredat i a volum adequat. S'entén perfectament sense esforç.
-| Generalment clar, tot i que amb algun moment de veu baixa o pronunciació descurada.
-| Hi ha parts difícils d'entendre per volum insuficient o dicció deficient.
-| S'entén molt poc; el volum és insuficient de forma sistemàtica.
-| Fluïdesa i ritme
-| Parla amb naturalitat, a un ritme adequat, sense llegir i amb pauses ben col·locades.
-| Ritme generalment bo, amb algunes pauses llargues o moments de lectura.
-| Ritme irregular; llegeix amb freqüència o fa pauses excessives.
-| Llegeix de forma contínua o el discurs s'atura repetidament.
-| Llenguatge no verbal
-| Manté contacte visual amb el públic, postura segura i gestos que reforcen el missatge.
-| Contacte visual freqüent tot i que tendeix a mirar les notes. Postura adequada.
-| Contacte visual escàs; postura tensa o que distreu.
-| No hi ha contacte visual; postura que dificulta la comunicació.
-| Gestió del temps
-| S'ajusta al temps assignat (±30 s). Distribueix bé el temps entre les parts.
-| Lleu desajust (±1 min) o distribució irregular entre parts.
-| Desajust d'1–2 min o una part molt desproporcionada respecte a les altres.
-| Excedeix o no arriba al temps assignat en més de 2 min.
+| Criteri | Excel·lent (4) | Competent (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Contingut i estructura | Idees clares, ben ordenades i desenvolupades. Introducció, desenvolupament i conclusió diferenciats. | Idees correctes amb algun salt lògic. Estructura reconeixible. | Idees bàsiques o desordenades. L'estructura és difusa. | Sense estructura apreciable o amb informació incorrecta. |
+| Dicció i volum | Vocalitza amb claredat i a volum adequat. S'entén perfectament sense esforç. | Generalment clar, tot i que amb algun moment de veu baixa o pronunciació descurada. | Hi ha parts difícils d'entendre per volum insuficient o dicció deficient. | S'entén molt poc; el volum és insuficient de forma sistemàtica. |
+| Fluïdesa i ritme | Parla amb naturalitat, a un ritme adequat, sense llegir i amb pauses ben col·locades. | Ritme generalment bo, amb algunes pauses llargues o moments de lectura. | Ritme irregular; llegeix amb freqüència o fa pauses excessives. | Llegeix de forma contínua o el discurs s'atura repetidament. |
+| Llenguatge no verbal | Manté contacte visual amb el públic, postura segura i gestos que reforcen el missatge. | Contacte visual freqüent tot i que tendeix a mirar les notes. Postura adequada. | Contacte visual escàs; postura tensa o que distreu. | No hi ha contacte visual; postura que dificulta la comunicació. |
+| Gestió del temps | S'ajusta al temps assignat (±30 s). Distribueix bé el temps entre les parts. | Lleu desajust (±1 min) o distribució irregular entre parts. | Desajust d'1–2 min o una part molt desproporcionada respecte a les altres. | Excedeix o no arriba al temps assignat en més de 2 min. |
 Alumne: Elena R. &nbsp;|&nbsp; Activitat: Exposició oral sobre l'escalfament global (2n ESO) &nbsp;|&nbsp; Data: 22/04Puntuació: 14/20 → 7. El contingut és excel·lent; el llenguatge no verbal i la fluïdesa són els aspectes a practicar abans de la propera exposició.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals), Filosofia per a Infants (P4C), Debat acadèmic, Posar-se al lloc (Step Inside), Entrevista en tres passos (Three-Step Interview)
@@ -2810,37 +2549,13 @@ Com usar-la: la pot aplicar el docent mitjançant l'observació, el propi alumne
 **Exemple:**
 
 Rúbrica per avaluar el treball cooperatiu en un projecte grupal a 3r d'ESO. Es pot aplicar pel docent, en coavaluació entre grups o en autoavaluació del propi grup.
-|
-| Criteri
-| Excel·lent (4)
-| Competent (3)
-| En procés (2)
-| Inicial (1)
-| Distribució de tasques
-| Les tasques estan repartides de forma equitativa i ajustada a les capacitats de cada membre. Tots assumeixen responsabilitats clares.
-| La distribució és majoritàriament equitativa, amb algun desequilibri puntual.
-| Hi ha membres que assumeixen més càrrega que d'altres de forma sistemàtica.
-| No hi ha distribució de tasques reconeixible; un o dos membres porten tot el pes.
-| Comunicació interna
-| El grup es comunica amb freqüència, escolta activament i resol dubtes abans d'actuar.
-| La comunicació és bona en general, amb algun malentès puntual.
-| La comunicació és irregular; alguns membres prenen decisions sense informar el grup.
-| Hi ha poca o cap comunicació interna; els membres treballen de forma descoordinada.
-| Gestió del conflicte
-| Els desacords es resolen mitjançant el diàleg i el consens, sense que ningú imposi el seu criteri.
-| Els conflictes es resolen, tot i que amb alguna tensió o amb la intervenció del docent.
-| Els conflictes es resolen parcialment; queden tensions sense resoldre.
-| Els conflictes no es gestionen o escalen; el grup no arriba a acords.
-| Ajuda mútua
-| Els membres es donen suport de forma proactiva: expliquen, pregunten i comparteixen recursos sense que se'ls demani.
-| S'ajuden quan se'ls sol·licita, però no de forma espontània.
-| L'ajuda és escassa; cada membre treballa de forma independent.
-| No hi ha ajuda mútua; els membres competeixen o s'ignoren.
-| Qualitat del resultat conjunt
-| El producte final reflecteix l'aportació integrada de tots els membres i és millor que la suma de les parts individuals.
-| El producte reflecteix el treball conjunt, tot i que amb aportacions desiguals.
-| El producte és una juxtaposició de parts individuals poc integrades.
-| El producte l'ha elaborat principalment un o dos membres.
+| Criteri | Excel·lent (4) | Competent (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Distribució de tasques | Les tasques estan repartides de forma equitativa i ajustada a les capacitats de cada membre. Tots assumeixen responsabilitats clares. | La distribució és majoritàriament equitativa, amb algun desequilibri puntual. | Hi ha membres que assumeixen més càrrega que d'altres de forma sistemàtica. | No hi ha distribució de tasques reconeixible; un o dos membres porten tot el pes. |
+| Comunicació interna | El grup es comunica amb freqüència, escolta activament i resol dubtes abans d'actuar. | La comunicació és bona en general, amb algun malentès puntual. | La comunicació és irregular; alguns membres prenen decisions sense informar el grup. | Hi ha poca o cap comunicació interna; els membres treballen de forma descoordinada. |
+| Gestió del conflicte | Els desacords es resolen mitjançant el diàleg i el consens, sense que ningú imposi el seu criteri. | Els conflictes es resolen, tot i que amb alguna tensió o amb la intervenció del docent. | Els conflictes es resolen parcialment; queden tensions sense resoldre. | Els conflictes no es gestionen o escalen; el grup no arriba a acords. |
+| Ajuda mútua | Els membres es donen suport de forma proactiva: expliquen, pregunten i comparteixen recursos sense que se'ls demani. | S'ajuden quan se'ls sol·licita, però no de forma espontània. | L'ajuda és escassa; cada membre treballa de forma independent. | No hi ha ajuda mútua; els membres competeixen o s'ignoren. |
+| Qualitat del resultat conjunt | El producte final reflecteix l'aportació integrada de tots els membres i és millor que la suma de les parts individuals. | El producte reflecteix el treball conjunt, tot i que amb aportacions desiguals. | El producte és una juxtaposició de parts individuals poc integrades. | El producte l'ha elaborat principalment un o dos membres. |
 Grup: Equip 3 &nbsp;|&nbsp; Projecte: Campanya de sensibilització sobre l'aigua (3r ESO) &nbsp;|&nbsp; Data: 10/05Puntuació: 15/20 → 7,5. La comunicació interna és el punt fort del grup; gestionar millor els conflictes els permetria guanyar eficiència.
 
 **Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals, Ventall i tria (Fan-N-Pick)
@@ -2871,37 +2586,13 @@ Com usar-la: els criteris reflecteixen els elements clau de la competència (p. 
 **Exemple:**
 
 Rúbrica competencial per avaluar la competència digital en un projecte de creació de contingut a 4t d'ESO. Els criteris estan vinculats a descriptors competencials, no als continguts d'una matèria concreta.
-|
-| Competència / Descriptor
-| Avançat (4)
-| Mitjà (3)
-| Bàsic (2)
-| Inicial (1)
-| Cerca i selecció d'informació
-| Localitza informació en fonts variades i fiables, la contrasta i la selecciona de forma crítica i autònoma.
-| Localitza informació en fonts adequades i distingeix les més fiables amb orientació ocasional.
-| Localitza informació però no sempre n'avalua la fiabilitat ni diversifica les fonts.
-| Utilitza una única font sense qüestionar-ne la fiabilitat.
-| Creació i edició digital
-| Crea contingut digital original, combinant formats de forma creativa i amb domini tècnic de l'eina.
-| Crea contingut adequat usant les funcions principals de l'eina.
-| Crea contingut bàsic amb ajuda; el domini tècnic és limitat.
-| No aconsegueix crear contingut de forma autònoma o el resultat és inutilitzable.
-| Comunicació i col·laboració en xarxa
-| Comparteix i comenta el treball de forma constructiva en l'entorn digital, respectant les normes de convivència.
-| Comparteix el treball i comenta el dels seus companys de forma adequada.
-| Comparteix el treball però els comentaris són superficials o no sempre respectuosos.
-| No comparteix el treball o els comentaris són inadequats.
-| Seguretat i privacitat
-| Gestiona la seva identitat digital de forma responsable: protegeix dades personals i cuida la petjada digital.
-| Coneix els aspectes bàsics de privacitat i els aplica amb alguna orientació.
-| Té consciència parcial dels riscos digitals però no els gestiona de forma consistent.
-| No mostra consciència sobre la privacitat o la seguretat en entorns digitals.
-| Resolució de problemes tècnics
-| Identifica i resol problemes tècnics de forma autònoma, buscant solucions alternatives si cal.
-| Resol problemes habituals amb ajuda mínima o mitjançant cerca en línia.
-| Necessita ajuda freqüent per resoldre problemes tècnics bàsics.
-| No pot resoldre problemes tècnics sense suport constant.
+| Competència / Descriptor | Avançat (4) | Mitjà (3) | Bàsic (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Cerca i selecció d'informació | Localitza informació en fonts variades i fiables, la contrasta i la selecciona de forma crítica i autònoma. | Localitza informació en fonts adequades i distingeix les més fiables amb orientació ocasional. | Localitza informació però no sempre n'avalua la fiabilitat ni diversifica les fonts. | Utilitza una única font sense qüestionar-ne la fiabilitat. |
+| Creació i edició digital | Crea contingut digital original, combinant formats de forma creativa i amb domini tècnic de l'eina. | Crea contingut adequat usant les funcions principals de l'eina. | Crea contingut bàsic amb ajuda; el domini tècnic és limitat. | No aconsegueix crear contingut de forma autònoma o el resultat és inutilitzable. |
+| Comunicació i col·laboració en xarxa | Comparteix i comenta el treball de forma constructiva en l'entorn digital, respectant les normes de convivència. | Comparteix el treball i comenta el dels seus companys de forma adequada. | Comparteix el treball però els comentaris són superficials o no sempre respectuosos. | No comparteix el treball o els comentaris són inadequats. |
+| Seguretat i privacitat | Gestiona la seva identitat digital de forma responsable: protegeix dades personals i cuida la petjada digital. | Coneix els aspectes bàsics de privacitat i els aplica amb alguna orientació. | Té consciència parcial dels riscos digitals però no els gestiona de forma consistent. | No mostra consciència sobre la privacitat o la seguretat en entorns digitals. |
+| Resolució de problemes tècnics | Identifica i resol problemes tècnics de forma autònoma, buscant solucions alternatives si cal. | Resol problemes habituals amb ajuda mínima o mitjançant cerca en línia. | Necessita ajuda freqüent per resoldre problemes tècnics bàsics. | No pot resoldre problemes tècnics sense suport constant. |
 Alumne: Pau N. &nbsp;|&nbsp; Activitat: Càpsula de vídeo sobre hàbits digitals (4t ESO) &nbsp;|&nbsp; Data: 20/03Puntuació: 11/20 → 5,5. Mostra criteri en la cerca i la comunicació; seguretat digital i resolució tècnica són els punts a reforçar.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), La brúixola (punts cardinals), Alineament constructiu
@@ -2932,18 +2623,15 @@ Com usar-la: s'elabora una llista d'indicadors concrets i observables (p. ex., '
 **Exemple:**
 
 Llista de control per avaluar un informe de laboratori de biologia a 3r d'ESO. El docent marca cada indicador durant la revisió.
-|
-| Indicador
-| Sí
-| No
-| Observacions
-| Inclou l'objectiu de la pràctica | ✓ | |
-| Descriu el material i el procediment | ✓ | |
-| Recull les dades en una taula o gràfica | ✓ | |
-| Interpreta els resultats amb rigor | | ✗ | Descriu dades però no les explica
-| Relaciona els resultats amb la hipòtesi | | ✗ | No hi ha hipòtesi prèvia
-| Redacció clara i amb vocabulari científic | ✓ | |
-| Presentació ordenada i neta | ✓ | |
+| Indicador | Sí | No | Observacions |
+| --- | --- | --- | --- |
+| Inclou l'objectiu de la pràctica | ✓ | | |
+| Descriu el material i el procediment | ✓ | | |
+| Recull les dades en una taula o gràfica | ✓ | | |
+| Interpreta els resultats amb rigor | | ✗ | Descriu dades però no les explica |
+| Relaciona els resultats amb la hipòtesi | | ✗ | No hi ha hipòtesi prèvia |
+| Redacció clara i amb vocabulari científic | ✓ | | |
+| Presentació ordenada i neta | ✓ | | |
 Resultat: 5 de 7 indicadors complerts. Es proposa revisar la hipòtesi i la interpretació dels resultats abans del lliurament final.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Pensament de disseny (Design Thinking), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera solucions, Projectes d'aprenentatge servei (APS o ABS), Un per a tots, Revisió entre iguals (peer review), Inicis de preguntes (Question Starts)
@@ -2974,24 +2662,14 @@ Com usar-la: es defineixen els indicadors que s'observaran i s'escull una escala
 **Exemple:**
 
 Escala d'observació per valorar el treball cooperatiu durant una activitat en grup a 2n d'ESO. El docent l'omple mentre observa la sessió.
-|
-| Indicador observable
-| Sempre
-| De vegades
-| Poques vegades
-| Mai
-| Escolta activament els seus companys
-| ✓ | | |
-| Aporta idees al grup
-| | ✓ | |
-| Accepta les decisions consensuades
-| ✓ | | |
-| Ajuda qui té dificultats
-| | ✓ | |
-| Respecta el torn de paraula
-| | | ✓ |
-| Compleix amb la tasca assignada
-| ✓ | | |
+| Indicador observable | Sempre | De vegades | Poques vegades | Mai |
+| --- | --- | --- | --- | --- |
+| Escolta activament els seus companys | ✓ | | | |
+| Aporta idees al grup | | ✓ | | |
+| Accepta les decisions consensuades | ✓ | | | |
+| Ajuda qui té dificultats | | ✓ | | |
+| Respecta el torn de paraula | | | ✓ | |
+| Compleix amb la tasca assignada | ✓ | | | |
 Alumne: Marc G. &nbsp;|&nbsp; Activitat: Debat sobre canvi climàtic &nbsp;|&nbsp; Data: 14/03
 Observació: Participa activament en l'escolta i el consens; ha de millorar el respecte del torn de paraula.
 
@@ -3023,22 +2701,13 @@ Adequada quan el docent té prou experiència per aplicar criteris implícitamen
 **Exemple:**
 
 Escala de valoració per avaluar una presentació oral de Ciències Socials a 4t d'ESO. El docent puntua cada criteri durant l'exposició.
-|
-| Criteri
-| 1Insuficient
-| 2Regular
-| 3Bé
-| 4Excel·lent
-| Organització i estructura del contingut
-| | | ✓ |
-| Domini del tema i ús de dades
-| | | | ✓
-| Claredat i fluïdesa en l'expressió oral
-| | ✓ | |
-| Suport visual (diapositives o mural)
-| | | ✓ |
-| Resposta a les preguntes del grup
-| | | | ✓
+| Criteri | 1Insuficient | 2Regular | 3Bé | 4Excel·lent |
+| --- | --- | --- | --- | --- |
+| Organització i estructura del contingut | | | ✓ | |
+| Domini del tema i ús de dades | | | | ✓ |
+| Claredat i fluïdesa en l'expressió oral | | ✓ | | |
+| Suport visual (diapositives o mural) | | | ✓ | |
+| Resposta a les preguntes del grup | | | | ✓ |
 Alumne: Sara M. &nbsp;|&nbsp; Activitat: Causes de la Primera Guerra Mundial &nbsp;|&nbsp; Data: 05/11
 Puntuació total: 15/20. Destaca el domini del tema i la resposta a les preguntes; ha de millorar la fluïdesa oral.
 
@@ -3070,27 +2739,12 @@ Com usar-la: per a cada criteri es redacten 3-4 descripcions ordenades de major 
 **Exemple:**
 
 Escala descriptiva per avaluar un assaig argumentatiu de Llengua Catalana i Literatura a 2n de Batxillerat. Cada nivell porta una descripció del rendiment esperat; el docent marca el nivell que millor descriu el treball.
-|
-| Criteri
-| Nivell 1 — Inicial
-| Nivell 2 — En desenvolupament
-| Nivell 3 — Consolidat
-| Tesi i argumentació
-| La tesi no és clara o els arguments són irrellevants.
-| ✓ La tesi és recognoscible i els arguments la sostenen parcialment.
-| La tesi és precisa i els arguments són sòlids i ben articulats.
-| Ús de fonts i evidències
-| No cita fonts o les cites són incorrectes.
-| Cita algunes fonts, però sense integrar-les en el discurs.
-| ✓ Integra fonts variades de forma fluida i les cita correctament.
-| Cohesió i coherència
-| El text presenta salts temàtics i escassa connexió entre paràgrafs.
-| ✓ El text és coherent en general; alguns connectors són mecànics.
-| La progressió temàtica és fluida i els connectors, variats i precisos.
-| Correcció lingüística
-| Errors freqüents que dificulten la comprensió.
-| Errors ocasionals que no interrompen la lectura.
-| ✓ Pocs errors; vocabulari precís i registre adequat.
+| Criteri | Nivell 1 — Inicial | Nivell 2 — En desenvolupament | Nivell 3 — Consolidat |
+| --- | --- | --- | --- |
+| Tesi i argumentació | La tesi no és clara o els arguments són irrellevants. | ✓ La tesi és recognoscible i els arguments la sostenen parcialment. | La tesi és precisa i els arguments són sòlids i ben articulats. |
+| Ús de fonts i evidències | No cita fonts o les cites són incorrectes. | Cita algunes fonts, però sense integrar-les en el discurs. | ✓ Integra fonts variades de forma fluida i les cita correctament. |
+| Cohesió i coherència | El text presenta salts temàtics i escassa connexió entre paràgrafs. | ✓ El text és coherent en general; alguns connectors són mecànics. | La progressió temàtica és fluida i els connectors, variats i precisos. |
+| Correcció lingüística | Errors freqüents que dificulten la comprensió. | Errors ocasionals que no interrompen la lectura. | ✓ Pocs errors; vocabulari precís i registre adequat. |
 Alumne: Carla V. &nbsp;|&nbsp; Treball: «Cal limitar l'accés a les xarxes socials per a menors?» &nbsp;|&nbsp; Data: 18/02
 La cel·la ressaltada indica el nivell assignat a cada criteri. El treball guanya en rigor lingüístic i ús de fonts; l'argumentació és el punt a reforçar.
 
@@ -3122,34 +2776,13 @@ Augmenta la consistència de la correcció entre diverses correccions del mateix
 **Exemple:**
 
 Guia de correcció per a un examen d'Història de Catalunya i Espanya a 2n de Batxillerat. El docent l'elabora abans de corregir i la fa servir com a referència per assignar punts a cada resposta.
-|
-| Pregunta
-| Elements esperats a la resposta
-| Punts
-| 1. Defineix el concepte de «torn pacífic» i explica com funcionava.
-|
-Definició correcta: alternança pactada entre liberals i conservadors (0,5 p.)
-Esmenta Cánovas i Sagasta com a líders dels dos partits (0,5 p.)
-Explica el paper del caciquisme i l'encasellat en el mecanisme d'alternança (1 p.)
-| 2
-| 2. Analitza les causes de la crisi del 1898 i les seves conseqüències per a Espanya.
-|
-Almenys dues causes internes (problema colonial, exèrcit, finances) (1 p.)
-Intervenció dels EUA i les seves motivacions (0,5 p.)
-Conseqüències: pèrdua de colònies, crisi moral, sorgiment del regeneracionisme (1 p.)
-Ús de vocabulari històric precís: «Desastre del 98», «regeneracionisme» (0,5 p.)
-| 3
-| 3. Comentari de text: fragment del discurs de Cánovas (1876).
-|
-Identifica autor, data, context i tipologia del text (1 p.)
-Resumeix la tesi principal del fragment (0,5 p.)
-Relaciona el text amb el procés de la Restauració (1 p.)
-Valora críticament les idees del text amb arguments històrics (0,5 p.)
-| 3
-| Puntuació total de l'examen
-| 8
-| Presentació i expressió escrita
-| 2
+| Pregunta | Elements esperats a la resposta | Punts |
+| --- | --- | --- |
+| 1. Defineix el concepte de «torn pacífic» i explica com funcionava. | Definició correcta: alternança pactada entre liberals i conservadors (0,5 p.) Esmenta Cánovas i Sagasta com a líders dels dos partits (0,5 p.) Explica el paper del caciquisme i l'encasellat en el mecanisme d'alternança (1 p.) | 2 |
+| 2. Analitza les causes de la crisi del 1898 i les seves conseqüències per a Espanya. | Almenys dues causes internes (problema colonial, exèrcit, finances) (1 p.) Intervenció dels EUA i les seves motivacions (0,5 p.) Conseqüències: pèrdua de colònies, crisi moral, sorgiment del regeneracionisme (1 p.) Ús de vocabulari històric precís: «Desastre del 98», «regeneracionisme» (0,5 p.) | 3 |
+| 3. Comentari de text: fragment del discurs de Cánovas (1876). | Identifica autor, data, context i tipologia del text (1 p.) Resumeix la tesi principal del fragment (0,5 p.) Relaciona el text amb el procés de la Restauració (1 p.) Valora críticament les idees del text amb arguments històrics (0,5 p.) | 3 |
+| Puntuació total de l'examen | 8 |
+| Presentació i expressió escrita | 2 |
 Examen: Història — La Restauració &nbsp;|&nbsp; Grup: 2n Batx. A &nbsp;|&nbsp; Data: 08/03
 Nota del docent: a la pregunta 2, acceptar també l'esment del problema de Cuba com a causa interna vàlida. Al comentari, puntuar amb 0,5 la identificació correcta encara que l'anàlisi sigui bàsica.
 La guia de correcció garanteix coherència entre correctors i fa explícits els criteris abans de començar, no després de trobar respostes imprevistes.
@@ -3182,35 +2815,14 @@ Com usar-la: es prepara abans de la correcció i s'usa com a full de registre du
 **Exemple:**
 
 Plantilla de correcció per a un examen de Llengua Catalana i Literatura a 4t d'ESO. El docent la fa servir durant la correcció per registrar la puntuació obtinguda a cada pregunta i anotar observacions per a la retroalimentació.
-|
-| Pregunta / Tasca
-| Punts màx.
-| Obtinguts
-| Observacions per a la retroalimentació
-| 1. Comprensió lectora — preguntes literals (×3)
-| 1,5
-| 1,5
-| Respostes correctes i completes.
-| 2. Comprensió lectora — pregunta inferencial
-| 1,5
-| 0,5
-| Identifica el tema superficial però no l'implícit. Treballar la lectura entre línies.
-| 3. Anàlisi morfosintàctica de dues oracions
-| 2
-| 1,5
-| Oració 1 perfecta. Oració 2: confon el complement directe amb l'atribut.
-| 4. Comentari de text argumentatiu
-| 3
-| 2
-| Estructura ben identificada. L'anàlisi dels recursos retòrics és superficial; la conclusió és sòlida.
-| 5. Redacció: text argumentatiu propi
-| 2
-| 1,5
-| Tesi clara i ben defensada. Falta varietat de connectors; hi ha tres errors de concordança.
-| Total
-| 10
-| 7
-|
+| Pregunta / Tasca | Punts màx. | Obtinguts | Observacions per a la retroalimentació |
+| --- | --- | --- | --- |
+| 1. Comprensió lectora — preguntes literals (×3) | 1,5 | 1,5 | Respostes correctes i completes. |
+| 2. Comprensió lectora — pregunta inferencial | 1,5 | 0,5 | Identifica el tema superficial però no l'implícit. Treballar la lectura entre línies. |
+| 3. Anàlisi morfosintàctica de dues oracions | 2 | 1,5 | Oració 1 perfecta. Oració 2: confon el complement directe amb l'atribut. |
+| 4. Comentari de text argumentatiu | 3 | 2 | Estructura ben identificada. L'anàlisi dels recursos retòrics és superficial; la conclusió és sòlida. |
+| 5. Redacció: text argumentatiu propi | 2 | 1,5 | Tesi clara i ben defensada. Falta varietat de connectors; hi ha tres errors de concordança. |
+| Total | 10 | 7 | |
 Alumne: Ignasi P. &nbsp;|&nbsp; Examen: Llengua Catalana T2 &nbsp;|&nbsp; Data de correcció: 14/04 &nbsp;|&nbsp; Nota: 7 (Notable)
 Retornar amb les observacions destacades perquè serveixin de base per a la tutoria de revisió de l'examen.
 La plantilla de correcció separa la tasca de puntuar de la de donar retroalimentació, i garanteix que el docent anota els motius de la puntuació en el moment en què els té frescos.
@@ -3243,42 +2855,14 @@ Un barem ben dissenyat reflecteix la importància relativa de cada contingut o c
 **Exemple:**
 
 Barem per qualificar un projecte de recerca de Biologia a 1r de Batxillerat. Estableix el pes de cada part, la puntuació màxima i la fórmula de càlcul de la nota final.
-|
-| Part / Criteri
-| Pes (%)
-| Punts màx.
-| Obtinguts
-| Nota pond.
-| Introducció i plantejament de la hipòtesi
-| 15
-| 10
-| 8
-| 1,2
-| Metodologia i disseny experimental
-| 20
-| 10
-| 7
-| 1,4
-| Resultats (taules, gràfiques, anàlisi)
-| 25
-| 10
-| 9
-| 2,25
-| Discussió i conclusions
-| 25
-| 10
-| 6
-| 1,5
-| Presentació oral i defensa
-| 15
-| 10
-| 8
-| 1,2
-| Total
-| 100
-| —
-| —
-| 7,55 → 7,5
+| Part / Criteri | Pes (%) | Punts màx. | Obtinguts | Nota pond. |
+| --- | --- | --- | --- | --- |
+| Introducció i plantejament de la hipòtesi | 15 | 10 | 8 | 1,2 |
+| Metodologia i disseny experimental | 20 | 10 | 7 | 1,4 |
+| Resultats (taules, gràfiques, anàlisi) | 25 | 10 | 9 | 2,25 |
+| Discussió i conclusions | 25 | 10 | 6 | 1,5 |
+| Presentació oral i defensa | 15 | 10 | 8 | 1,2 |
+| Total | 100 | — | — | 7,55 → 7,5 |
 Alumne: Berta L. &nbsp;|&nbsp; Treball: «Efecte de la llum en el creixement de Phaseolus vulgaris» &nbsp;|&nbsp; Nota final: 7,5 (Notable)
 Fórmula: Nota pond. = (puntuació obtinguda / 10) × (pes / 10). Suma de notes ponderades = nota sobre 10. Arrodoniment a 0,5 més proper.
 Publicar el barem abans de la tasca permet a l'alumnat entendre on ha de posar l'esforç i redueix les reclamacions en retornar la nota.
@@ -3311,27 +2895,12 @@ Com usar-lo: pot ser una llibreta, una fitxa per alumne, una aplicació o un ful
 **Exemple:**
 
 Registre anecdòtic del docent de Ciències Naturals a 3r d'ESO durant un projecte de recerca grupal. Cada entrada recull un fet significatiu observat en un alumne concret.
-|
-| Data
-| Alumne
-| Fet observat
-| Seguiment previst
-| 04/03
-| Rafa M.
-| Per primera vegada pren la iniciativa de repartir tasques sense que ho demani el docent. Proposa un esquema de treball al grup.
-| Felicitar en privat. Observar si manté el rol en sessions successives.
-| 07/03
-| Laia F.
-| Es bloqueja en presentar els resultats. No llegeix les seves notes i queda en silenci durant gairebé un minut. El grup la recolza amb gestos.
-| Parlar a la tutoria. Proposar pràctica d'exposició en petit grup abans de la presentació final.
-| 07/03
-| Andreu P.
-| Connecta els resultats de l'experiment amb un documental que va veure el cap de setmana. Estableix una relació que no apareix a l'enunciat.
-| Proposar com a ampliació que desenvolupi aquesta connexió a l'informe final.
-| 11/03
-| Laia F.
-| A la segona sessió de presentació parla amb més fluïdesa i manté el contacte visual. Millora notable respecte al dia 07/03.
-| Registrar el progrés. Reflectir-lo en la valoració de la competència comunicativa.
+| Data | Alumne | Fet observat | Seguiment previst |
+| --- | --- | --- | --- |
+| 04/03 | Rafa M. | Per primera vegada pren la iniciativa de repartir tasques sense que ho demani el docent. Proposa un esquema de treball al grup. | Felicitar en privat. Observar si manté el rol en sessions successives. |
+| 07/03 | Laia F. | Es bloqueja en presentar els resultats. No llegeix les seves notes i queda en silenci durant gairebé un minut. El grup la recolza amb gestos. | Parlar a la tutoria. Proposar pràctica d'exposició en petit grup abans de la presentació final. |
+| 07/03 | Andreu P. | Connecta els resultats de l'experiment amb un documental que va veure el cap de setmana. Estableix una relació que no apareix a l'enunciat. | Proposar com a ampliació que desenvolupi aquesta connexió a l'informe final. |
+| 11/03 | Laia F. | A la segona sessió de presentació parla amb més fluïdesa i manté el contacte visual. Millora notable respecte al dia 07/03. | Registrar el progrés. Reflectir-lo en la valoració de la competència comunicativa. |
 Grup-classe: 3r ESO A &nbsp;|&nbsp; Docent: Sra. García &nbsp;|&nbsp; Activitat: Projecte «Els ecosistemes en perill»
 El registre anecdòtic permet detectar patrons de progrés o dificultat que no apareixen als instruments formals d'avaluació.
 
@@ -3363,17 +2932,12 @@ Permetre comunicar a les famílies i al propi alumne una imatge rica i matisada 
 **Exemple:**
 
 Registre descriptiu elaborat pel docent de Llengua Catalana després d'observar la presentació oral d'un treball de recerca a 2n d'ESO. Descriu qualitativament el rendiment observat, estructurat per criteris.
-|
-| Aspecte observat
-| Descripció qualitativa
-| Organització i estructura
-| La presentació segueix un ordre clar: introdueix el tema, desenvolupa tres punts ben diferenciats i conclou resumint les idees principals. El fil conductor és recognoscible en tot moment.
-| Expressió oral
-| L'alumne parla amb fluïdesa durant la major part de l'exposició. Puntualment consulta les seves notes, però no les llegeix. El volum és adequat i la vocalització és clara. Quan s'enerva, el ritme s'accelera lleugerament.
-| Domini del contingut
-| Demostra haver comprès el tema i no es limita a reproduir el que havia escrit. Respon amb comoditat a dues de les tres preguntes del públic; a la tercera, reconeix que no ho ha investigat prou.
-| Interacció amb l'audiència
-| Manté contacte visual amb diferents parts de l'aula. Introdueix una pregunta retòrica a l'inici que capta l'atenció. No utilitza el suport visual de forma proactiva; les diapositives il·lustren però no reforcen el discurs.
+| Aspecte observat | Descripció qualitativa |
+| --- | --- |
+| Organització i estructura | La presentació segueix un ordre clar: introdueix el tema, desenvolupa tres punts ben diferenciats i conclou resumint les idees principals. El fil conductor és recognoscible en tot moment. |
+| Expressió oral | L'alumne parla amb fluïdesa durant la major part de l'exposició. Puntualment consulta les seves notes, però no les llegeix. El volum és adequat i la vocalització és clara. Quan s'enerva, el ritme s'accelera lleugerament. |
+| Domini del contingut | Demostra haver comprès el tema i no es limita a reproduir el que havia escrit. Respon amb comoditat a dues de les tres preguntes del públic; a la tercera, reconeix que no ho ha investigat prou. |
+| Interacció amb l'audiència | Manté contacte visual amb diferents parts de l'aula. Introdueix una pregunta retòrica a l'inici que capta l'atenció. No utilitza el suport visual de forma proactiva; les diapositives il·lustren però no reforcen el discurs. |
 Alumne: Daniel S. &nbsp;|&nbsp; Activitat: Presentació «L'impacte de les xarxes socials en l'adolescència» &nbsp;|&nbsp; Data: 21/04
 Valoració global: bona exposició amb base sòlida de contingut; l'ús del suport visual és l'aspecte a treballar.
 El registre descriptiu és especialment útil quan es vol documentar el procés o justificar una valoració qualitativa davant l'alumne o les famílies.
@@ -3406,23 +2970,11 @@ No és només un registre del que ha passat, sinó un instrument de millora de l
 **Exemple:**
 
 Diari del professor d'Història a 1r de Batxillerat. Tres entrades de la mateixa setmana. El docent reflexiona sobre el que va passar a classe, el que va aprendre l'alumnat i el que canviarà a la sessió següent.
-|
-| Data
-| Sessió
-| Què vaig observar / què va aprendre el grup
-| Decisió per a la propera sessió
-| Dilluns12/05
-| Exposició magistral: causes de la Segona Guerra Mundial
-| La classe va estar receptiva els primers 20 minuts, després es va dispersar. Crec que el ritme va ser massa uniforme. Quan vaig parar i vaig preguntar «Què us sorprèn d'això?», tres alumnes van donar respostes molt perspicaces que no esperava.
-| Introduir almenys dues pauses de reflexió curta de 2 min. a la propera sessió magistral. Anotar les preguntes de la Carla i l'Arnau per reprendre-les al debat.
-| Dimecres14/05
-| Anàlisi de fonts primàries per parelles
-| La majoria va poder identificar la intenció de l'autor, però gairebé ningú va contextualitzar el document històricament. El problema no és de comprensió lectora, és de procediment: no saben com situar una font en la seva època.
-| Crear una fitxa guia d'anàlisi de fonts amb preguntes andamiades. Usar-la la propera vegada abans que llegeixin el document.
-| Divendres16/05
-| Debat: era inevitable la guerra?
-| El debat va arrencar lent però els últims 15 minuts va ser molt ric. Els alumnes més callats van participar quan els vaig assignar un rol explícit («advocat del diable»). L'error va ser deixar els primers 10 minuts sense estructura.
-| Començar els debats directament amb rols assignats i una pregunta d'escalfament individual escrita de 3 min. Provar-ho al proper debat de la unitat.
+| Data | Sessió | Què vaig observar / què va aprendre el grup | Decisió per a la propera sessió |
+| --- | --- | --- | --- |
+| Dilluns12/05 | Exposició magistral: causes de la Segona Guerra Mundial | La classe va estar receptiva els primers 20 minuts, després es va dispersar. Crec que el ritme va ser massa uniforme. Quan vaig parar i vaig preguntar «Què us sorprèn d'això?», tres alumnes van donar respostes molt perspicaces que no esperava. | Introduir almenys dues pauses de reflexió curta de 2 min. a la propera sessió magistral. Anotar les preguntes de la Carla i l'Arnau per reprendre-les al debat. |
+| Dimecres14/05 | Anàlisi de fonts primàries per parelles | La majoria va poder identificar la intenció de l'autor, però gairebé ningú va contextualitzar el document històricament. El problema no és de comprensió lectora, és de procediment: no saben com situar una font en la seva època. | Crear una fitxa guia d'anàlisi de fonts amb preguntes andamiades. Usar-la la propera vegada abans que llegeixin el document. |
+| Divendres16/05 | Debat: era inevitable la guerra? | El debat va arrencar lent però els últims 15 minuts va ser molt ric. Els alumnes més callats van participar quan els vaig assignar un rol explícit («advocat del diable»). L'error va ser deixar els primers 10 minuts sense estructura. | Començar els debats directament amb rols assignats i una pregunta d'escalfament individual escrita de 3 min. Provar-ho al proper debat de la unitat. |
 Docent: Sr. Martínez &nbsp;|&nbsp; Grup: 1r Batxillerat A &nbsp;|&nbsp; Unitat: La Segona Guerra Mundial &nbsp;|&nbsp; Setmana: 12–16/05
 El diari del professor és una eina de desenvolupament professional: la reflexió escrita obliga a concretar què canviar, no només a sentir que alguna cosa «no ha funcionat».
 
@@ -3454,37 +3006,13 @@ Com usar-lo: es dissenya una fitxa per alumne amb els criteris o indicadors que 
 **Exemple:**
 
 Full de seguiment individual de Ciències Socials a 2n d'ESO, primer trimestre. El docent l'actualitza periòdicament amb dades de diferents fonts per tenir una visió de conjunt de l'evolució de l'alumne.
-|
-| Indicador
-| Oct.
-| Nov.
-| Des.
-| Observacions
-| Lliurament de tasques a temps
-| 4/5
-| 5/5
-| 5/5
-| Millora constant des d'octubre. Al novembre va assumir el compromís de revisar el calendari setmanal.
-| Participació activa a classe
-| Baixa
-| Mitjana
-| Mitjana
-| Intervé quan se li pregunta directament. Rarament aixeca la mà. Veure si el debat en petit grup l'anima.
-| Resultat prova escrita
-| 6,2
-| 7,0
-| 7,5
-| Tendència ascendent. El treball de comprensió de textos ha millorat notablement.
-| Assistència a tutoria
-| —
-| 1 sessió
-| —
-| Va venir voluntàriament al novembre per revisar la prova. Va mostrar interès per millorar.
-| Compromís de millora vigent
-| —
-| Planificació setmanal
-| Participar més
-| Acordat a la tutoria. Revisar a l'avaluació de gener.
+| Indicador | Oct. | Nov. | Des. | Observacions |
+| --- | --- | --- | --- | --- |
+| Lliurament de tasques a temps | 4/5 | 5/5 | 5/5 | Millora constant des d'octubre. Al novembre va assumir el compromís de revisar el calendari setmanal. |
+| Participació activa a classe | Baixa | Mitjana | Mitjana | Intervé quan se li pregunta directament. Rarament aixeca la mà. Veure si el debat en petit grup l'anima. |
+| Resultat prova escrita | 6,2 | 7,0 | 7,5 | Tendència ascendent. El treball de comprensió de textos ha millorat notablement. |
+| Assistència a tutoria | — | 1 sessió | — | Va venir voluntàriament al novembre per revisar la prova. Va mostrar interès per millorar. |
+| Compromís de millora vigent | — | Planificació setmanal | Participar més | Acordat a la tutoria. Revisar a l'avaluació de gener. |
 Alumne: Marta G. &nbsp;|&nbsp; Classe: 2n ESO B &nbsp;|&nbsp; Assignatura: Ciències Socials &nbsp;|&nbsp; Trimestre: 1r
 El full de seguiment individual és la base per preparar l'entrevista de tutoria: permet veure la trajectòria completa de l'alumne d'una ullada abans de la conversa.
 
@@ -3516,49 +3044,14 @@ Com usar-lo: cada fila és un alumne i cada columna és un criteri, una tasca o 
 **Exemple:**
 
 Full de seguiment grupal d'Anglès a 3r d'ESO, segon trimestre. Cada fila és un alumne; les columnes recullen les qualificacions de les tasques i una observació global. Permet detectar tendències del grup d'una ullada.
-|
-| Alumne
-| Expressió escrita(T1)
-| Comprensió oral(T2)
-| Speaking(T3)
-| Mitjana
-| Observació
-| Alícia B.
-| 8,5
-| 7,0
-| 9,0
-| 8,2
-| Molt sòlida en oral. La comprensió escrita és el punt a reforçar.
-| Bruno M.
-| 5,0
-| 6,5
-| 4,5
-| 5,3
-| Dificultats en producció oral. Parlar-hi sobre suport fora de l'aula.
-| Clara T.
-| 7,5
-| 8,0
-| 7,0
-| 7,5
-| Rendiment uniforme i consistent en totes les destreses.
-| Diego F.
-| 9,0
-| 9,5
-| 8,5
-| 9,0
-| Nivell avançat en tot. Proposar tasca d'ampliació.
-| Elena R.
-| 6,0
-| 5,5
-| 6,0
-| 5,8
-| Rendiment per sota del seu potencial. Manca de treball autònom a casa.
-| Fran P.
-| 7,0
-| —
-| 6,5
-| 6,8*
-| Absent T2 per malaltia. Prova de recuperació pendent.
+| Alumne | Expressió escrita(T1) | Comprensió oral(T2) | Speaking(T3) | Mitjana | Observació |
+| --- | --- | --- | --- | --- | --- |
+| Alícia B. | 8,5 | 7,0 | 9,0 | 8,2 | Molt sòlida en oral. La comprensió escrita és el punt a reforçar. |
+| Bruno M. | 5,0 | 6,5 | 4,5 | 5,3 | Dificultats en producció oral. Parlar-hi sobre suport fora de l'aula. |
+| Clara T. | 7,5 | 8,0 | 7,0 | 7,5 | Rendiment uniforme i consistent en totes les destreses. |
+| Diego F. | 9,0 | 9,5 | 8,5 | 9,0 | Nivell avançat en tot. Proposar tasca d'ampliació. |
+| Elena R. | 6,0 | 5,5 | 6,0 | 5,8 | Rendiment per sota del seu potencial. Manca de treball autònom a casa. |
+| Fran P. | 7,0 | — | 6,5 | 6,8* | Absent T2 per malaltia. Prova de recuperació pendent. |
 Classe: 3r ESO A &nbsp;|&nbsp; Assignatura: Anglès &nbsp;|&nbsp; Trimestre: 2n &nbsp;|&nbsp; Docent: Sr. Williams
 * Mitjana provisional sense T2. El grup mostra una dispersió alta: cal atendre tant l'extrem inferior (Bruno, Elena) com el superior (Diego).
 El full grupal permet identificar patrons de classe (p. ex., la comprensió oral és més feble en tot el grup) que no es veuen quan es revisa alumne per alumne.
@@ -3591,42 +3084,14 @@ Permetre donar retroalimentació objectiva sobre la participació, detectar qui 
 **Exemple:**
 
 Registre de participació del docent de Filosofia durant un debat a 1r de Batxillerat. S'anota qui intervé, amb quina freqüència i quin tipus i qualitat té l'aportació.
-|
-| Alumne
-| Interv.
-| Tipus predominant
-| Qualitat1–4
-| Observacions
-| Alba R.
-| 7
-| Argument raonat
-| 4
-| Introdueix evidències externes; connecta amb el tema anterior.
-| Bernat M.
-| 2
-| Opinió sense argument
-| 2
-| Només intervé quan se li pregunta directament.
-| Cèlia F.
-| 5
-| Pregunta crítica
-| 4
-| Les seves preguntes reorienten el debat. Escolta activament abans de parlar.
-| Dani G.
-| 4
-| Contraargument
-| 3
-| Rebat amb fonament, però de vegades interromp abans que l'altre acabi.
-| Elena P.
-| 0
-| —
-| —
-| No intervé. Pren notes. Parlar-hi a la tutoria.
-| Fran T.
-| 3
-| Síntesi / resum
-| 3
-| Recapitula bé els punts clau. Útil per al grup al final de cada ronda.
+| Alumne | Interv. | Tipus predominant | Qualitat1–4 | Observacions |
+| --- | --- | --- | --- | --- |
+| Alba R. | 7 | Argument raonat | 4 | Introdueix evidències externes; connecta amb el tema anterior. |
+| Bernat M. | 2 | Opinió sense argument | 2 | Només intervé quan se li pregunta directament. |
+| Cèlia F. | 5 | Pregunta crítica | 4 | Les seves preguntes reorienten el debat. Escolta activament abans de parlar. |
+| Dani G. | 4 | Contraargument | 3 | Rebat amb fonament, però de vegades interromp abans que l'altre acabi. |
+| Elena P. | 0 | — | — | No intervé. Pren notes. Parlar-hi a la tutoria. |
+| Fran T. | 3 | Síntesi / resum | 3 | Recapitula bé els punts clau. Útil per al grup al final de cada ronda. |
 Debat: «És ètic delegar decisions morals a la intel·ligència artificial?» &nbsp;|&nbsp; Classe: 1r Batxillerat B &nbsp;|&nbsp; Data: 15/05
 Qualitat: 1 aportació irrellevant · 2 opinió sense fonament · 3 argument sòlid · 4 argument amb evidència o pregunta que fa avançar el debat.
 El registre de participació permet identificar qui no intervé mai i qui monopolitza el debat, i ajustar les dinàmiques a la sessió següent.
@@ -3659,32 +3124,12 @@ Com usar-lo: es pot combinar amb l'observació directa del docent, l'autoavaluac
 **Exemple:**
 
 Registre de treball cooperatiu elaborat pel docent de Ciències Naturals durant una sessió de projecte a 3r d'ESO. Documenta el funcionament intern d'un grup al llarg de la sessió.
-|
-| Membre
-| Rol assignat
-| Tasca complerta
-| Comunicació
-| Incidències / observacions
-| Mireia T.
-| Coordinadora
-| ✓
-| Proactiva, escolta bé
-| Gestiona el temps del grup. Avisa quan es desvien de l'objectiu.
-| Omar B.
-| Investigador
-| ✓
-| Aporta dades, poc diàleg
-| Porta molta informació però no la comparteix activament; cal preguntar-li.
-| Júlia K.
-| Secretària
-| ✓
-| Escolta, poques propostes
-| Recull bé els acords del grup. No proposa idees pròpies.
-| Kevin L.
-| Portaveu
-| ✗
-| Domina la conversa
-| No prepara l'exposició assignada. Interromp la Mireia en dues ocasions. Parlar-hi.
+| Membre | Rol assignat | Tasca complerta | Comunicació | Incidències / observacions |
+| --- | --- | --- | --- | --- |
+| Mireia T. | Coordinadora | ✓ | Proactiva, escolta bé | Gestiona el temps del grup. Avisa quan es desvien de l'objectiu. |
+| Omar B. | Investigador | ✓ | Aporta dades, poc diàleg | Porta molta informació però no la comparteix activament; cal preguntar-li. |
+| Júlia K. | Secretària | ✓ | Escolta, poques propostes | Recull bé els acords del grup. No proposa idees pròpies. |
+| Kevin L. | Portaveu | ✗ | Domina la conversa | No prepara l'exposició assignada. Interromp la Mireia en dues ocasions. Parlar-hi. |
 Grup: Equip 2 &nbsp;|&nbsp; Projecte: «Els ecosistemes en perill» &nbsp;|&nbsp; Sessió: 3/5 &nbsp;|&nbsp; Data: 09/04
 El grup funciona bé en conjunt; el punt crític és el Kevin: el seu rol de portaveu requereix preparació prèvia que encara no assumeix.
 Combinar aquest registre amb l'autoavaluació del grup permet detectar si els membres perceben el mateix problema que el docent.
@@ -3717,31 +3162,13 @@ Són la base de l'observació incidental i del registre anecdòtic. Amb el temps
 **Exemple:**
 
 Notes de camp preses pel docent de Matemàtiques durant una sessió de resolució de problemes a 2n d'ESO. Anotacions ràpides i immediates preses durant la classe; s'elaboraran després en registres més formals si cal.
-|
-| Hora
-| Alumne / grup
-| Observació
-| Acció presa
-| 9:08
-| Grup 1
-| Interpreten malament l'enunciat: confonen «almenys» amb «exactament». Calculen bé però responen una altra cosa.
-| Assenyalo l'error sense donar la solució. Els demano que rellegeixin l'enunciat subratllant les paraules clau.
-| 9:15
-| Nadia R.
-| Resol el problema 3 amb un mètode diferent de l'explicat (usa proporcions en lloc d'equacions). El resultat és correcte.
-| Li demano que ho expliqui a la resta a la posada en comú. Anotar per avaluar pensament flexible.
-| 9:22
-| Iván M.
-| Porta 14 minuts sense escriure res. Quan li pregunto, diu «no sé per on començar». No és actitud, és un bloqueig real.
-| M'assec amb ell 3 minuts, li dono un primer pas. Revisar si necessita suport individualitzat.
-| 9:31
-| Grup 3
-| Acaben tots els problemes abans que els altres. Comencen a distreure's i a parlar d'una altra cosa.
-| Els proposo el problema d'ampliació del final de la fitxa. Revisar el ritme del grup per a properes sessions.
-| 9:40
-| Classe
-| A la posada en comú, només 3 alumnes aixequen la mà voluntàriament. La resta espera que se'ls cridi.
-| Provar la setmana vinent amb pissarres individuals perquè tots responguin alhora.
+| Hora | Alumne / grup | Observació | Acció presa |
+| --- | --- | --- | --- |
+| 9:08 | Grup 1 | Interpreten malament l'enunciat: confonen «almenys» amb «exactament». Calculen bé però responen una altra cosa. | Assenyalo l'error sense donar la solució. Els demano que rellegeixin l'enunciat subratllant les paraules clau. |
+| 9:15 | Nadia R. | Resol el problema 3 amb un mètode diferent de l'explicat (usa proporcions en lloc d'equacions). El resultat és correcte. | Li demano que ho expliqui a la resta a la posada en comú. Anotar per avaluar pensament flexible. |
+| 9:22 | Iván M. | Porta 14 minuts sense escriure res. Quan li pregunto, diu «no sé per on començar». No és actitud, és un bloqueig real. | M'assec amb ell 3 minuts, li dono un primer pas. Revisar si necessita suport individualitzat. |
+| 9:31 | Grup 3 | Acaben tots els problemes abans que els altres. Comencen a distreure's i a parlar d'una altra cosa. | Els proposo el problema d'ampliació del final de la fitxa. Revisar el ritme del grup per a properes sessions. |
+| 9:40 | Classe | A la posada en comú, només 3 alumnes aixequen la mà voluntàriament. La resta espera que se'ls cridi. | Provar la setmana vinent amb pissarres individuals perquè tots responguin alhora. |
 Classe: 2n ESO B &nbsp;|&nbsp; Sessió: Resolució de problemes — equacions de primer grau &nbsp;|&nbsp; Data: 28/01
 Les notes de camp són el material en brut: es prenen en el moment, sense polir. El seu valor és la immediatesa; l'elaboració formal ve després.
 
@@ -3773,35 +3200,14 @@ Com usar-la: es dissenya amb els criteris rellevants per a la tasca, l'escala de
 **Exemple:**
 
 Fitxa de valoració del docent de Ciències Naturals sobre un informe de laboratori a 1r d'ESO. Combina una puntuació per criteri amb un comentari qualitatiu i es retorna a l'alumne com a document de retroalimentació.
-|
-| Criteri
-| Nivell1–4
-| Punts(màx. 2)
-| Observació
-| Descripció del procediment
-| 3 — Assolit
-| 1,5
-| Els passos estan ben ordenats. Falta indicar les unitats de mesura en dos d'ells.
-| Recollida i presentació de dades
-| 4 — Excel·lent
-| 2
-| Taula organitzada, amb encapçalaments clars i unitats correctes. La gràfica està ben etiquetada.
-| Anàlisi i interpretació
-| 2 — En procés
-| 1
-| Describes els resultats però no els relaciones amb la hipòtesi inicial. Intenta respondre: «s'ha confirmat la hipòtesi? per què?»
-| Conclusió
-| 2 — En procés
-| 1
-| La conclusió repeteix la descripció de l'experiment. Ha de respondre la pregunta inicial del laboratori, no resumir el que has fet.
-| Presentació i ortografia
-| 3 — Assolit
-| 1,5
-| Net i ordenat. Tres errors ortogràfics menors subratllats al text.
-| Total
-| —
-| 7
-| L'anàlisi i la conclusió són els aspectes a treballar al proper informe.
+| Criteri | Nivell1–4 | Punts(màx. 2) | Observació |
+| --- | --- | --- | --- |
+| Descripció del procediment | 3 — Assolit | 1,5 | Els passos estan ben ordenats. Falta indicar les unitats de mesura en dos d'ells. |
+| Recollida i presentació de dades | 4 — Excel·lent | 2 | Taula organitzada, amb encapçalaments clars i unitats correctes. La gràfica està ben etiquetada. |
+| Anàlisi i interpretació | 2 — En procés | 1 | Describes els resultats però no els relaciones amb la hipòtesi inicial. Intenta respondre: «s'ha confirmat la hipòtesi? per què?» |
+| Conclusió | 2 — En procés | 1 | La conclusió repeteix la descripció de l'experiment. Ha de respondre la pregunta inicial del laboratori, no resumir el que has fet. |
+| Presentació i ortografia | 3 — Assolit | 1,5 | Net i ordenat. Tres errors ortogràfics menors subratllats al text. |
+| Total | — | 7 | L'anàlisi i la conclusió són els aspectes a treballar al proper informe. |
 Alumne: Nico R. &nbsp;|&nbsp; Pràctica: Estudi de la germinació de llavors &nbsp;|&nbsp; Nota: 7/10 (Notable) &nbsp;|&nbsp; Data: 12/11
 La fitxa de valoració és més informativa que una nota sola: l'alumne veu en quins criteris ha destacat i en quins necessita millorar, i rep una orientació concreta per al proper informe.
 
@@ -3833,15 +3239,11 @@ La retroalimentació és més efectiva quan és específica, oportuna i orientad
 **Exemple:**
 
 Fitxa de retroalimentació escrita pel docent de Llengua Catalana després de corregir un assaig argumentatiu a 3r d'ESO. Es lliura a l'alumne juntament amb el treball per orientar la revisió.
-|
-| Secció
-| Comentari del docent
-| ✓ El que has fet bé
-| La teva tesi és clara des del primer paràgraf i la defenses amb tres arguments ben diferenciats. L'ús de connectors de contrast («tanmateix», «malgrat això») dóna solidesa al discurs. La conclusió recull bé les idees principals sense repetir-les literalment.
-| △ El que pots millorar
-| Les evidències que fas servir són generals («se sap que…», «la gent opina…»). No cites cap font concreta, cosa que debilita els arguments. A més, el segon paràgraf del desenvolupament introdueix un tema nou sense haver-lo anunciat a la introducció.
-| → Com fer-ho
-| Per al segon esborrany: (1) tria almenys una estadística o estudi real que doni suport al teu argument més important i cita'l; (2) afegeix a la introducció una frase que anticipi el punt del segon paràgraf. Amb aquests dos canvis l'assaig quedarà rodó.
+| Secció | Comentari del docent |
+| --- | --- |
+| ✓ El que has fet bé | La teva tesi és clara des del primer paràgraf i la defenses amb tres arguments ben diferenciats. L'ús de connectors de contrast («tanmateix», «malgrat això») dóna solidesa al discurs. La conclusió recull bé les idees principals sense repetir-les literalment. |
+| △ El que pots millorar | Les evidències que fas servir són generals («se sap que…», «la gent opina…»). No cites cap font concreta, cosa que debilita els arguments. A més, el segon paràgraf del desenvolupament introdueix un tema nou sense haver-lo anunciat a la introducció. |
+| → Com fer-ho | Per al segon esborrany: (1) tria almenys una estadística o estudi real que doni suport al teu argument més important i cita'l; (2) afegeix a la introducció una frase que anticipi el punt del segon paràgraf. Amb aquests dos canvis l'assaig quedarà rodó. |
 Alumne: Sergi B. &nbsp;|&nbsp; Treball: Assaig «Hauria de ser obligatòria l'assignatura de programació?» &nbsp;|&nbsp; Data: 03/03
 Valoració provisional: 6,5/10. Amb les millores indicades pot arribar a un 8.
 La fitxa de retroalimentació és més útil que la nota sola: l'alumne sap exactament què canviar i té un objectiu concret per a la segona entrega.
@@ -3874,34 +3276,13 @@ Com usar-la: es dissenya amb els criteris en files i els nivells en columnes. Ca
 **Exemple:**
 
 Matriu de valoració per avaluar un projecte de Geografia a 3r d'ESO. Cada cel·la combina una descripció sintètica del nivell i la seva puntuació; el docent marca la cel·la que correspon al que ha observat en cada criteri.
-|
-| Criteri
-| Excel·lent4 pts
-| Competent3 pts
-| En procés2 pts
-| Inicial1 pt
-| Informació i fonts
-| Dades precises, variades i citades correctament.
-| ✓ Dades correctes; alguna font sense citar.
-| Informació bàsica; poques fonts.
-| Informació escassa o incorrecta.
-| Anàlisi geogràfica
-| Relaciona factors físics, humans i econòmics amb profunditat.
-| Relaciona factors però sense profunditat.
-| ✓ Descriu sense relacionar causes i conseqüències.
-| No hi ha anàlisi; només dades soltes.
-| Cartografia i recursos visuals
-| Mapes i gràfiques propis, ben etiquetats i rellevants.
-| ✓ Recursos adequats, algun sense etiquetar o poc rellevant.
-| Fa servir recursos aliens sense adaptar-los.
-| Sense mapes ni gràfiques, o irrellevants.
-| Presentació escrita
-| Estructura clara, redacció fluida i sense errors.
-| ✓ Ben estructurat; errors menors que no dificulten la lectura.
-| Estructura parcial; errors freqüents.
-| Sense estructura; text difícil de seguir.
-| Puntuació total
-| 3 + 2 + 3 + 3 = 11 / 16 → 6,9
+| Criteri | Excel·lent4 pts | Competent3 pts | En procés2 pts | Inicial1 pt |
+| --- | --- | --- | --- | --- |
+| Informació i fonts | Dades precises, variades i citades correctament. | ✓ Dades correctes; alguna font sense citar. | Informació bàsica; poques fonts. | Informació escassa o incorrecta. |
+| Anàlisi geogràfica | Relaciona factors físics, humans i econòmics amb profunditat. | Relaciona factors però sense profunditat. | ✓ Descriu sense relacionar causes i conseqüències. | No hi ha anàlisi; només dades soltes. |
+| Cartografia i recursos visuals | Mapes i gràfiques propis, ben etiquetats i rellevants. | ✓ Recursos adequats, algun sense etiquetar o poc rellevant. | Fa servir recursos aliens sense adaptar-los. | Sense mapes ni gràfiques, o irrellevants. |
+| Presentació escrita | Estructura clara, redacció fluida i sense errors. | ✓ Ben estructurat; errors menors que no dificulten la lectura. | Estructura parcial; errors freqüents. | Sense estructura; text difícil de seguir. |
+| Puntuació total | 3 + 2 + 3 + 3 = 11 / 16 → 6,9 |
 Alumne: Víctor S. &nbsp;|&nbsp; Projecte: La conca mediterrània: recursos hídrics &nbsp;|&nbsp; Data: 03/06
 La matriu de valoració és més àgil que una rúbrica completa quan els descriptors es poden resumir en una sola frase per cel·la; és especialment útil per a correccions ràpides o coavaluació.
 
@@ -3933,32 +3314,12 @@ Com usar-lo: s'organitza per criteris, competències o àrees, amb descriptors p
 **Exemple:**
 
 Banc de descriptors per a la competència de comunicació oral. El docent selecciona i adapta els descriptors d'aquest banc en dissenyar rúbriques, fitxes de valoració o informes. Les cel·les ressaltades són els descriptors escollits per a una rúbrica concreta d'exposició oral a 4t d'ESO.
-|
-| Criteri
-| Nivell 1 — Inicial
-| Nivell 2 — En procés
-| Nivell 3 — Assolit
-| Nivell 4 — Excel·lent
-| Contingut i estructura
-| Sense estructura recognoscible; informació incompleta o incorrecta.
-| ✓ Seleccionat: Idees bàsiques presents però desordenades; estructura difusa.
-| Idees correctes amb estructura recognoscible tot i que millorable.
-| Idees clares i ben desenvolupades; estructura impecable amb introducció, desenvolupament i conclusió.
-| Expressió oral
-| Volum insuficient o dicció molt deficient; no s'entén.
-| Expressió funcional amb pauses excessives o veu baixa en moments.
-| ✓ Seleccionat: Dicció clara i volum adequat; algun dubte puntual no interromp el discurs.
-| Dicció excel·lent, ritme natural i volum perfecte durant tota l'exposició.
-| Llenguatge no verbal
-| Sense contacte visual; postura que dificulta la comunicació.
-| ✓ Seleccionat: Contacte visual escàs; postura tensa o que distreu el públic.
-| Contacte visual freqüent; postura adequada tot i no gesticular.
-| Contacte visual constant; gesticulació que reforça el missatge.
-| Gestió del temps
-| Excedeix o no arriba al temps assignat en més de 2 min.
-| Desajust d'1–2 min o distribució molt irregular entre les parts.
-| ✓ Seleccionat: Lleu desajust (±1 min); distribució lleugerament irregular.
-| Ajust perfecte al temps assignat; parts ben distribuïdes.
+| Criteri | Nivell 1 — Inicial | Nivell 2 — En procés | Nivell 3 — Assolit | Nivell 4 — Excel·lent |
+| --- | --- | --- | --- | --- |
+| Contingut i estructura | Sense estructura recognoscible; informació incompleta o incorrecta. | ✓ Seleccionat: Idees bàsiques presents però desordenades; estructura difusa. | Idees correctes amb estructura recognoscible tot i que millorable. | Idees clares i ben desenvolupades; estructura impecable amb introducció, desenvolupament i conclusió. |
+| Expressió oral | Volum insuficient o dicció molt deficient; no s'entén. | Expressió funcional amb pauses excessives o veu baixa en moments. | ✓ Seleccionat: Dicció clara i volum adequat; algun dubte puntual no interromp el discurs. | Dicció excel·lent, ritme natural i volum perfecte durant tota l'exposició. |
+| Llenguatge no verbal | Sense contacte visual; postura que dificulta la comunicació. | ✓ Seleccionat: Contacte visual escàs; postura tensa o que distreu el públic. | Contacte visual freqüent; postura adequada tot i no gesticular. | Contacte visual constant; gesticulació que reforça el missatge. |
+| Gestió del temps | Excedeix o no arriba al temps assignat en més de 2 min. | Desajust d'1–2 min o distribució molt irregular entre les parts. | ✓ Seleccionat: Lleu desajust (±1 min); distribució lleugerament irregular. | Ajust perfecte al temps assignat; parts ben distribuïdes. |
 Banc: Comunicació oral — nivells 1–4 &nbsp;|&nbsp; Ús: Rúbrica d'exposició oral, 4t ESO &nbsp;|&nbsp; Docent: Sra. Puig
 Els descriptors ressaltats són els que millor s'ajusten al nivell del grup. Els dels nivells adjacents es guarden al banc per a rúbriques d'altres cursos.
 Un banc de descriptors ben construït redueix el temps de disseny de noves rúbriques a minuts: seleccionar i adaptar és molt més ràpid que redactar des de zero.
@@ -4024,12 +3385,12 @@ Participació
 Argumentació
 Col·laboració
 Reflexió
-|
-| Criteri | Nivell | Valoració
-| Participació | 3 | Competent
-| Argumentació | 2 | En procés
-| Col·laboració | 4 | Excel·lent
-| Reflexió | 3 | Competent
+| Criteri | Nivell | Valoració |
+| --- | --- | --- |
+| Participació | 3 | Competent |
+| Argumentació | 2 | En procés |
+| Col·laboració | 4 | Excel·lent |
+| Reflexió | 3 | Competent |
 Nivell mitjà: 3
 Àrea de millora: argumentació (nivell 2).
 Punt fort: col·laboració (nivell 4).
@@ -4066,31 +3427,13 @@ Adequat per al seguiment formatiu ràpid, la comunicació a les famílies i l'au
 **Exemple:**
 
 Semàfor d'autoavaluació en acabar una unitat sobre fraccions a 5è de Primària. Cada alumne assenyala el seu nivell de comprensió per a cada contingut.
-|
-| Contingut
-|
-No ho entenc
-|
-Ho entenc a mitges
-|
-Ho entenc bé
-| Què és una fracció
-| |
-| ✓
-| Fraccions equivalents
-|
-| ✓
-|
-| Comparar fraccions
-|
-| ✓
-|
-| Sumar i restar fraccions
-| ✓
-| |
-| Problemes amb fraccions
-| ✓
-| |
+| Contingut | No ho entenc | Ho entenc a mitges | Ho entenc bé |
+| --- | --- | --- | --- |
+| Què és una fracció | | | ✓ |
+| Fraccions equivalents | | ✓ | |
+| Comparar fraccions | | ✓ | |
+| Sumar i restar fraccions | ✓ | | |
+| Problemes amb fraccions | ✓ | | |
 L'alumne domina el concepte bàsic però té dificultats amb les operacions. El docent reagrupa els alumnes amb vermell i groc en operacions per a una sessió de reforç.
 
 **Tècniques actives que l'utilitzen:** Aprenentatge basat en indagació, Aprenentatge experiencial, Aprenentatge per descobriment, Flipped Classroom (Aula invertida), La caixa, Preguntes frontissa (hinge questions), Resposta de tothom alhora
@@ -4121,24 +3464,14 @@ El seu valor és principalment metacognitiu: obliga l'alumne a reflexionar sobre
 **Exemple:**
 
 Escala d'autoavaluació per valorar una exposició oral de Biologia a 1r de Batxillerat. L'alumne la completa immediatament després de la seva presentació.
-|
-| Indicador (primera persona)
-| 1Gens
-| 2Poc
-| 3Bastant
-| 4Molt
-| He preparat el contingut amb prou profunditat
-| | | ✓ |
-| He estructurat l'exposició amb introducció, desenvolupament i conclusió
-| | | | ✓
-| M'he expressat amb claredat sense llegir les diapositives
-| | ✓ | |
-| He mantingut el contacte visual amb l'audiència
-| | ✓ | |
-| He respost les preguntes amb seguretat
-| | | ✓ |
-| El suport visual ha complementat el meu discurs
-| | | | ✓
+| Indicador (primera persona) | 1Gens | 2Poc | 3Bastant | 4Molt |
+| --- | --- | --- | --- | --- |
+| He preparat el contingut amb prou profunditat | | | ✓ | |
+| He estructurat l'exposició amb introducció, desenvolupament i conclusió | | | | ✓ |
+| M'he expressat amb claredat sense llegir les diapositives | | ✓ | | |
+| He mantingut el contacte visual amb l'audiència | | ✓ | | |
+| He respost les preguntes amb seguretat | | | ✓ | |
+| El suport visual ha complementat el meu discurs | | | | ✓ |
 Alumne: Marc D. &nbsp;|&nbsp; Tema: Genètica mendeliana: experiments i aplicacions &nbsp;|&nbsp; Data: 10/03
 Reflexió personal: «He de practicar més parlar sense mirar les diapositives i mantenir la mirada al públic. El contingut el tenia ben preparat.»
 
@@ -4170,32 +3503,12 @@ Com usar-la: l'alumne llegeix els descriptors de cada criteri i selecciona el ni
 **Exemple:**
 
 Rúbrica d'autoavaluació que l'alumne de Llengua Catalana completa sobre el seu propi relat curt a 3r d'ESO. Els descriptors estan en primera persona; l'alumne selecciona el nivell i justifica breument la seva elecció.
-|
-| Criteri
-| Excel·lent (4)
-| Competent (3)
-| En procés (2)
-| Inicial (1)
-| Estructura narrativa
-| El meu relat té plantejament, nus i desenllaç molt ben diferenciats i el lector els pot seguir sense esforç.
-| ✓ El meu relat té els tres moments, tot i que alguna transició podria estar més marcada.
-| El meu relat té els tres moments però un d'ells és molt curt o poc desenvolupat.
-| El meu relat no té una estructura narrativa recognoscible.
-| Personatges i ambient
-| Descrisc els personatges i el lloc de forma vívida; el lector se'ls pot imaginar sense dificultat.
-| Descrisc els personatges i el lloc, tot i que amb alguns detalls que podria millorar.
-| ✓ Esmento els personatges i el lloc, però les descripcions són escasses o repetitives.
-| Gairebé no hi ha descripció de personatges ni d'ambient.
-| Llenguatge i vocabulari
-| Faig servir un vocabulari variat i precís; evito repeticions i empro recursos literaris de forma natural.
-| ✓ El meu vocabulari és adequat, tot i que de vegades repeteixo paraules o faig servir termes molt generals.
-| El meu vocabulari és limitat i hi ha repeticions freqüents que dificulten la lectura.
-| El vocabulari és molt bàsic i l'expressió és imprecisa a la major part del text.
-| Revisió i correcció
-| He revisat el text almenys dues vegades; no hi ha errors ortogràfics ni de puntuació.
-| He revisat el text; hi ha algun error menor que no dificulta la comprensió.
-| He revisat el text una vegada; hi ha errors que indiquen una revisió superficial.
-| ✓ No he revisat en profunditat; hi ha errors freqüents d'ortografia o puntuació.
+| Criteri | Excel·lent (4) | Competent (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Estructura narrativa | El meu relat té plantejament, nus i desenllaç molt ben diferenciats i el lector els pot seguir sense esforç. | ✓ El meu relat té els tres moments, tot i que alguna transició podria estar més marcada. | El meu relat té els tres moments però un d'ells és molt curt o poc desenvolupat. | El meu relat no té una estructura narrativa recognoscible. |
+| Personatges i ambient | Descrisc els personatges i el lloc de forma vívida; el lector se'ls pot imaginar sense dificultat. | Descrisc els personatges i el lloc, tot i que amb alguns detalls que podria millorar. | ✓ Esmento els personatges i el lloc, però les descripcions són escasses o repetitives. | Gairebé no hi ha descripció de personatges ni d'ambient. |
+| Llenguatge i vocabulari | Faig servir un vocabulari variat i precís; evito repeticions i empro recursos literaris de forma natural. | ✓ El meu vocabulari és adequat, tot i que de vegades repeteixo paraules o faig servir termes molt generals. | El meu vocabulari és limitat i hi ha repeticions freqüents que dificulten la lectura. | El vocabulari és molt bàsic i l'expressió és imprecisa a la major part del text. |
+| Revisió i correcció | He revisat el text almenys dues vegades; no hi ha errors ortogràfics ni de puntuació. | He revisat el text; hi ha algun error menor que no dificulta la comprensió. | He revisat el text una vegada; hi ha errors que indiquen una revisió superficial. | ✓ No he revisat en profunditat; hi ha errors freqüents d'ortografia o puntuació. |
 Alumne: Carla V. &nbsp;|&nbsp; Relat: «L'últim tren» &nbsp;|&nbsp; Data: 10/04
 Justificació de l'alumne: «He triat En procés en personatges perquè només descrisc com és el protagonista físicament, però no com pensa. En revisió m'he posat Inicial perquè sé que no el vaig tornar a llegir abans de lliurar-lo.»
 Demanar a l'alumne que justifiqui cada nivell seleccionat és tan important com la selecció en si: la reflexió escrita converteix l'autoavaluació en aprenentatge.
@@ -4228,32 +3541,12 @@ Perquè sigui efectiva, els alumnes han d'haver practicat l'aplicació dels crit
 **Exemple:**
 
 Rúbrica de coavaluació que un alumne de Biologia aplica al treball de recerca d'un company a 1r de Batxillerat. Els descriptors estan en segona persona; l'avaluador assenyala el nivell observat i afegeix un comentari.
-|
-| Criteri
-| Excel·lent (4)
-| Competent (3)
-| En procés (2)
-| Inicial (1)
-| Hipòtesi i plantejament
-| La teva pregunta de recerca és clara, acotada i científicament rellevant. La hipòtesi és comprovable i ben justificada.
-| ✓ La teva pregunta és recognoscible i la hipòtesi és correcta, tot i que podria estar millor justificada.
-| La teva pregunta és massa àmplia o la hipòtesi és difícil de comprovar experimentalment.
-| No hi ha una pregunta ni una hipòtesi clares.
-| Metodologia
-| El teu disseny experimental és rigorós: controles les variables, describes el procediment amb detall i és reproduïble.
-| El teu disseny és correcte però algun pas del procediment està descrit de forma ambigua.
-| ✓ El teu disseny té els elements bàsics, però no controles clarament les variables o el procediment és difícil de reproduir.
-| No hi ha un disseny experimental recognoscible.
-| Resultats i anàlisi
-| Presentes les dades de forma clara (taules, gràfiques) i les analitzes relacionant-les amb la hipòtesi.
-| ✓ Les teves dades estan ben presentades, però l'anàlisi no aprofundeix en les causes dels resultats obtinguts.
-| Les dades hi són però la presentació és confusa o l'anàlisi és descriptiva i no interpretativa.
-| Les dades són incompletes o no hi ha anàlisi.
-| Conclusions
-| Les teves conclusions responen directament a la hipòtesi, reconeixen les limitacions del treball i proposen passos següents.
-| Les teves conclusions responen a la hipòtesi però no reconeixen les limitacions ni proposen millores.
-| Les teves conclusions són parcials o no estan connectades amb la hipòtesi inicial.
-| ✓ Les conclusions no responen a la hipòtesi o repeteixen la descripció de l'experiment sense interpretar-la.
+| Criteri | Excel·lent (4) | Competent (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Hipòtesi i plantejament | La teva pregunta de recerca és clara, acotada i científicament rellevant. La hipòtesi és comprovable i ben justificada. | ✓ La teva pregunta és recognoscible i la hipòtesi és correcta, tot i que podria estar millor justificada. | La teva pregunta és massa àmplia o la hipòtesi és difícil de comprovar experimentalment. | No hi ha una pregunta ni una hipòtesi clares. |
+| Metodologia | El teu disseny experimental és rigorós: controles les variables, describes el procediment amb detall i és reproduïble. | El teu disseny és correcte però algun pas del procediment està descrit de forma ambigua. | ✓ El teu disseny té els elements bàsics, però no controles clarament les variables o el procediment és difícil de reproduir. | No hi ha un disseny experimental recognoscible. |
+| Resultats i anàlisi | Presentes les dades de forma clara (taules, gràfiques) i les analitzes relacionant-les amb la hipòtesi. | ✓ Les teves dades estan ben presentades, però l'anàlisi no aprofundeix en les causes dels resultats obtinguts. | Les dades hi són però la presentació és confusa o l'anàlisi és descriptiva i no interpretativa. | Les dades són incompletes o no hi ha anàlisi. |
+| Conclusions | Les teves conclusions responen directament a la hipòtesi, reconeixen les limitacions del treball i proposen passos següents. | Les teves conclusions responen a la hipòtesi però no reconeixen les limitacions ni proposen millores. | Les teves conclusions són parcials o no estan connectades amb la hipòtesi inicial. | ✓ Les conclusions no responen a la hipòtesi o repeteixen la descripció de l'experiment sense interpretar-la. |
 Treball avaluat de: Pol R. &nbsp;|&nbsp; Avaluat per: Noa F. &nbsp;|&nbsp; Treball: «Efecte del pH en l'activitat enzimàtica» &nbsp;|&nbsp; Data: 22/05
 Comentari de l'avaluador: «El disseny experimental i les dades són el punt més feble. La gràfica està ben feta però a les conclusions no explica per què els resultats difereixen de l'esperat. La hipòtesi i la metodologia estan ben plantejades.»
 La coavaluació amb rúbrica obliga l'avaluador a justificar cada puntuació amb els descriptors, cosa que redueix la valoració subjectiva i millora la qualitat del feedback entre iguals.
@@ -4286,17 +3579,12 @@ Com usar-la: inclou preguntes com «Què ha fet bé el teu company?», «Què po
 **Exemple:**
 
 Fitxa de coavaluació completada per un alumne per valorar la presentació oral d'un company en un projecte de 4t d'ESO. L'avaluador és un igual; el llenguatge és directe i accessible.
-|
-| Pregunta
-| Resposta de l'avaluador
-| Què ha fet bé?Assenyala almenys dues coses concretes
-| Ha explicat el tema sense llegir les diapositives i s'entenia bé. També ha respost bé les preguntes que li van fer al final, especialment quan li van preguntar sobre l'impacte mediambiental.
-| Què podria millorar?Sigues específic, no només «parlar més»
-| Al principi parlava molt ràpid i costava seguir-lo. Crec que si posés més pauses entre els punts principals seria més fàcil entendre'l. Les diapositives tenien massa text en dues d'elles.
-| Valoració per criteri1 inici · 2 en procés · 3 assolit · 4 excel·lent
-| Contingut: 3 &nbsp;·&nbsp; Estructura: 3 &nbsp;·&nbsp; Expressió oral: 2 &nbsp;·&nbsp; Suport visual: 2
-| Una cosa que has après tuReflexió de l'avaluador sobre el procés
-| He après que quan fas bones preguntes al públic al final, la presentació sembla més completa. Ho intentaré jo també.
+| Pregunta | Resposta de l'avaluador |
+| --- | --- |
+| Què ha fet bé?Assenyala almenys dues coses concretes | Ha explicat el tema sense llegir les diapositives i s'entenia bé. També ha respost bé les preguntes que li van fer al final, especialment quan li van preguntar sobre l'impacte mediambiental. |
+| Què podria millorar?Sigues específic, no només «parlar més» | Al principi parlava molt ràpid i costava seguir-lo. Crec que si posés més pauses entre els punts principals seria més fàcil entendre'l. Les diapositives tenien massa text en dues d'elles. |
+| Valoració per criteri1 inici · 2 en procés · 3 assolit · 4 excel·lent | Contingut: 3 &nbsp;·&nbsp; Estructura: 3 &nbsp;·&nbsp; Expressió oral: 2 &nbsp;·&nbsp; Suport visual: 2 |
+| Una cosa que has après tuReflexió de l'avaluador sobre el procés | He après que quan fas bones preguntes al públic al final, la presentació sembla més completa. Ho intentaré jo també. |
 Alumne avaluat: Tomàs V. &nbsp;|&nbsp; Avaluat per: Júlia K. &nbsp;|&nbsp; Projecte: Energies renovables a Espanya &nbsp;|&nbsp; Data: 28/05
 L'última pregunta («una cosa que has après tu») transforma la coavaluació en una experiència d'aprenentatge doble: l'avaluat rep retroalimentació i l'avaluador reflexiona sobre el seu propi procés.
 
@@ -4328,35 +3616,16 @@ Com usar-la: abans de lliurar un treball, l'alumne revisa la llista per assegura
 **Exemple:**
 
 Llista de verificació d'autoavaluació que l'alumne de Llengua Catalana completa abans de lliurar un text argumentatiu a 2n d'ESO. Li permet detectar omissions i decidir si el treball està llest per lliurar.
-|
-| Indicador (primera persona)
-| Sí
-| No
-| Observació pròpia
-| He escrit la meva tesi de forma clara al primer paràgraf
-| ✓ |
-| La primera frase del text l'expressa bé.
-| He desenvolupat almenys tres arguments diferents
-| ✓ |
-| Tinc quatre arguments, tot i que el tercer és el més feble.
-| He inclòs evidències o exemples concrets per a cada argument
-| | ✗
-| El segon i el quart argument no tenen exemple. Els he d'afegir.
-| He esmentat i rebatut almenys un contraargument
-| ✓ |
-| És al tercer paràgraf; crec que el rebato bé.
-| La meva conclusió reprèn la tesi sense copiar-la literalment
-| | ✗
-| La conclusió és gairebé igual que la introducció. L'he de reescriure.
-| He fet servir connectors variats (no només «però» i «també»)
-| ✓ |
-| He usat «tanmateix», «per tant» i «malgrat això».
-| He revisat l'ortografia i la puntuació almenys una vegada
-| ✓ |
-| Sí, però només una vegada. Podria tornar-lo a llegir.
-| L'extensió és dins del rang demanat (250–350 paraules)
-| ✓ |
-| 310 paraules segons el comptador del processador.
+| Indicador (primera persona) | Sí | No | Observació pròpia |
+| --- | --- | --- | --- |
+| He escrit la meva tesi de forma clara al primer paràgraf | ✓ | | La primera frase del text l'expressa bé. |
+| He desenvolupat almenys tres arguments diferents | ✓ | | Tinc quatre arguments, tot i que el tercer és el més feble. |
+| He inclòs evidències o exemples concrets per a cada argument | | ✗ | El segon i el quart argument no tenen exemple. Els he d'afegir. |
+| He esmentat i rebatut almenys un contraargument | ✓ | | És al tercer paràgraf; crec que el rebato bé. |
+| La meva conclusió reprèn la tesi sense copiar-la literalment | | ✗ | La conclusió és gairebé igual que la introducció. L'he de reescriure. |
+| He fet servir connectors variats (no només «però» i «també») | ✓ | | He usat «tanmateix», «per tant» i «malgrat això». |
+| He revisat l'ortografia i la puntuació almenys una vegada | ✓ | | Sí, però només una vegada. Podria tornar-lo a llegir. |
+| L'extensió és dins del rang demanat (250–350 paraules) | ✓ | | 310 paraules segons el comptador del processador. |
 Alumne: Marc D. &nbsp;|&nbsp; Tasca: Text argumentatiu «Hauria de ser obligatòria l'activitat física a l'institut?» &nbsp;|&nbsp; Data: 06/03
 Decisió de l'alumne: «Abans de lliurar-lo he d'afegir exemples a l'argument 2 i reescriure la conclusió. Quan ho tingui fet, sí que estarà llest.»
 La columna d'observació pròpia és clau: obliga l'alumne a ser específic sobre el que falta, no només a marcar sí o no.
@@ -4389,27 +3658,12 @@ Tanca el cicle de l'avaluació formativa: recollida d'evidències → retroalime
 **Exemple:**
 
 Registre de compromisos de millora completat per un alumne de 2n d'ESO després de rebre la retroalimentació del docent sobre la seva redacció. Converteix l'avaluació formativa en un pla d'acció concret.
-|
-| Aspecte a millorar
-| Compromís concret
-| Termini
-| Complert?
-| Conclusió
-| Reescriure la conclusió perquè respongui directament la pregunta inicial sense copiar la introducció. Afegir una frase d'obertura cap a noves preguntes.
-| Abans del lliurament final (divendres 14)
-| ✓ Fet
-| Evidències de l'argument 2
-| Buscar almenys una dada o estudi concret que doni suport al segon argument i citar-lo correctament amb autor i any.
-| Abans del lliurament final (divendres 14)
-| ✓ Fet
-| Revisió ortogràfica
-| Llegir el text en veu alta un cop complet per detectar errors que no es veuen llegint en silenci. Després usar el corrector del processador de text.
-| Abans de lliurar
-| ✓ Fet
-| Connectors variats
-| Substituir almenys tres «però» del text per altres connectors de contrast (tanmateix, tot i que, malgrat això).
-| Abans de lliurar
-| En procés
+| Aspecte a millorar | Compromís concret | Termini | Complert? |
+| --- | --- | --- | --- |
+| Conclusió | Reescriure la conclusió perquè respongui directament la pregunta inicial sense copiar la introducció. Afegir una frase d'obertura cap a noves preguntes. | Abans del lliurament final (divendres 14) | ✓ Fet |
+| Evidències de l'argument 2 | Buscar almenys una dada o estudi concret que doni suport al segon argument i citar-lo correctament amb autor i any. | Abans del lliurament final (divendres 14) | ✓ Fet |
+| Revisió ortogràfica | Llegir el text en veu alta un cop complet per detectar errors que no es veuen llegint en silenci. Després usar el corrector del processador de text. | Abans de lliurar | ✓ Fet |
+| Connectors variats | Substituir almenys tres «però» del text per altres connectors de contrast (tanmateix, tot i que, malgrat això). | Abans de lliurar | En procés |
 Alumne: Marc D. &nbsp;|&nbsp; Tasca: Redacció argumentativa 2a entrega &nbsp;|&nbsp; Data del registre: 10/03 &nbsp;|&nbsp; Revisat el: 14/03
 El registre de compromisos és la peça que tanca el cicle formatiu: sense ell, l'alumne rep el feedback però no necessàriament hi actua. El seguiment del docent a la següent entrega verifica si el compromís s'ha complert.
 
@@ -4441,49 +3695,14 @@ Més enllà de ser un registre administratiu, es pot usar per detectar tendènci
 **Exemple:**
 
 Fragment del quadern de qualificacions de Ciències Socials a 3r d'ESO, segon trimestre. El docent registra la nota de cada tasca i calcula la mitjana parcial per fer el seguiment del grup.
-|
-| Alumne
-| T1Assaig
-| T2Prova
-| T3Presentació
-| T4Projecte
-| MitjanaT2
-| Alícia B.
-| 7,5
-| 8,0
-| 8,5
-| 7,0
-| 7,8
-| Bruno M.
-| 5,0
-| 4,5
-| 6,0
-| 5,5
-| 5,3
-| Clara T.
-| 8,0
-| 7,5
-| 7,0
-| 8,0
-| 7,6
-| Diego F.
-| 9,5
-| 9,0
-| 9,5
-| 9,0
-| 9,3
-| Elena R.
-| 6,0
-| —
-| 6,5
-| 7,0
-| 6,5*
-| Fran P.
-| 7,0
-| 6,5
-| 7,5
-| 6,0
-| 6,8
+| Alumne | T1Assaig | T2Prova | T3Presentació | T4Projecte | MitjanaT2 |
+| --- | --- | --- | --- | --- | --- |
+| Alícia B. | 7,5 | 8,0 | 8,5 | 7,0 | 7,8 |
+| Bruno M. | 5,0 | 4,5 | 6,0 | 5,5 | 5,3 |
+| Clara T. | 8,0 | 7,5 | 7,0 | 8,0 | 7,6 |
+| Diego F. | 9,5 | 9,0 | 9,5 | 9,0 | 9,3 |
+| Elena R. | 6,0 | — | 6,5 | 7,0 | 6,5* |
+| Fran P. | 7,0 | 6,5 | 7,5 | 6,0 | 6,8 |
 Classe: 3r ESO B &nbsp;|&nbsp; Assignatura: Ciències Socials &nbsp;|&nbsp; Trimestre: 2n
 * Mitjana provisional sense T2 (Elena, absent per malaltia). Prova de recuperació pendent. Les mitjanes són sense ponderar; la nota final aplica els pesos del barem.
 El quadern de qualificacions és el punt de partida per calcular la nota trimestral; combinar-lo amb el barem de ponderació dona la nota final segons els criteris definits.
@@ -4516,42 +3735,13 @@ Permete l'alumnat i les famílies conèixer exactament en quins criteris l'alumn
 **Exemple:**
 
 Taula de qualificació per criteris d'avaluació de Llengua Catalana i Literatura a 4t d'ESO (format LOMLOE). La nota final resulta de ponderar la qualificació obtinguda en cada criteri segons el seu pes a la programació.
-|
-| Criteri d'avaluació
-| Competència específica
-| Pes (%)
-| Nivell1–4
-| Nota/10
-| Aportació
-| Producció de textos escrits argumentatius amb adequació, coherència i cohesió
-| CE 3 — Producció escrita
-| 30
-| 3
-| 7,0
-| 2,1
-| Comprensió de textos orals i anàlisi de recursos discursius i no verbals
-| CE 1 — Comprensió oral
-| 20
-| 4
-| 9,0
-| 1,8
-| Lectura i interpretació de textos literaris del segle XX amb valoració crítica
-| CE 5 — Educació literària
-| 25
-| 3
-| 7,5
-| 1,88
-| Reflexió sobre el funcionament del sistema lingüístic aplicada a la revisió de textos propis
-| CE 4 — Reflexió lingüística
-| 25
-| 2
-| 5,5
-| 1,38
-| Nota final del trimestre
-| 100
-| —
-| —
-| 7,16 → 7
+| Criteri d'avaluació | Competència específica | Pes (%) | Nivell1–4 | Nota/10 | Aportació |
+| --- | --- | --- | --- | --- | --- |
+| Producció de textos escrits argumentatius amb adequació, coherència i cohesió | CE 3 — Producció escrita | 30 | 3 | 7,0 | 2,1 |
+| Comprensió de textos orals i anàlisi de recursos discursius i no verbals | CE 1 — Comprensió oral | 20 | 4 | 9,0 | 1,8 |
+| Lectura i interpretació de textos literaris del segle XX amb valoració crítica | CE 5 — Educació literària | 25 | 3 | 7,5 | 1,88 |
+| Reflexió sobre el funcionament del sistema lingüístic aplicada a la revisió de textos propis | CE 4 — Reflexió lingüística | 25 | 2 | 5,5 | 1,38 |
+| Nota final del trimestre | 100 | — | — | 7,16 → 7 |
 Alumne: Marta G. &nbsp;|&nbsp; Assignatura: Llengua Catalana i Literatura &nbsp;|&nbsp; Trimestre: 2n &nbsp;|&nbsp; Nota final: 7 (Bé)
 Nivell 2 = Suficient (5–5,9) · Nivell 3 = Bé/Notable (6–8,9) · Nivell 4 = Excel·lent (9–10).
 La taula per criteris mostra exactament en quines competències l'alumne està per sobre o per sota de la mitjana, cosa que orienta el pla de reforç o d'ampliació de forma molt més precisa que una nota única.
@@ -4584,35 +3774,14 @@ Una bona matriu de ponderació reflecteix les prioritats pedagògiques: si el pr
 **Exemple:**
 
 Matriu de ponderació del sistema d'avaluació de Física i Química a 2n de Batxillerat, primer trimestre. Defineix el pes de cada element avaluable i com s'obté la nota final, comunicada a l'alumnat a l'inici del curs.
-|
-| Element avaluable
-| Pes (%)
-| Nota obtinguda(sobre 10)
-| Aportacióa la nota
-| Prova escrita (examen parcial)
-| 40
-| 7,5
-| 3,0
-| Pràctiques de laboratori (informes × 3)
-| 25
-| 8,0
-| 2,0
-| Resolució de problemes (lliurament setmanal)
-| 20
-| 6,5
-| 1,3
-| Participació i actitud a classe
-| 10
-| 9,0
-| 0,9
-| Treball de recerca breu
-| 5
-| 8,5
-| 0,43
-| Nota final del trimestre
-| 100
-| —
-| 7,63 → 7,5
+| Element avaluable | Pes (%) | Nota obtinguda(sobre 10) | Aportacióa la nota |
+| --- | --- | --- | --- |
+| Prova escrita (examen parcial) | 40 | 7,5 | 3,0 |
+| Pràctiques de laboratori (informes × 3) | 25 | 8,0 | 2,0 |
+| Resolució de problemes (lliurament setmanal) | 20 | 6,5 | 1,3 |
+| Participació i actitud a classe | 10 | 9,0 | 0,9 |
+| Treball de recerca breu | 5 | 8,5 | 0,43 |
+| Nota final del trimestre | 100 | — | 7,63 → 7,5 |
 Alumne: Sara L. &nbsp;|&nbsp; Classe: 2n Batx. A &nbsp;|&nbsp; Trimestre: 1r
 Fórmula: Aportació = (nota obtinguda × pes) / 100. Nota final = suma d'aportacions. Arrodoniment a 0,5 més proper.
 Publicar la matriu de ponderació a l'inici del curs permet a l'alumnat entendre l'impacte real de cada element: en aquest cas, millorar una dècima a l'examen té més efecte que millorar tres dècimes en participació.
@@ -4645,28 +3814,14 @@ El seu avantatge és la facilitat de comunicació i càlcul. La seva limitació 
 **Exemple:**
 
 Escala numèrica per qualificar un projecte de recerca històrica a 1r de Batxillerat. Cada criteri té una puntuació màxima assignada i el docent anota l'obtinguda.
-|
-| Criteri
-| Màx.
-| Obtinguda
-| Plantejament clar del problema o hipòtesi
-| 1,5
-| 1,5
-| Ús i citació de fonts primàries i secundàries
-| 2
-| 2
-| Anàlisi crítica i contextualització històrica
-| 3
-| 2
-| Estructura i coherència del treball escrit
-| 2
-| 1,5
-| Presentació oral i resposta a preguntes
-| 1,5
-| 1
-| Total
-| 10
-| 8
+| Criteri | Màx. | Obtinguda |
+| --- | --- | --- |
+| Plantejament clar del problema o hipòtesi | 1,5 | 1,5 |
+| Ús i citació de fonts primàries i secundàries | 2 | 2 |
+| Anàlisi crítica i contextualització històrica | 3 | 2 |
+| Estructura i coherència del treball escrit | 2 | 1,5 |
+| Presentació oral i resposta a preguntes | 1,5 | 1 |
+| Total | 10 | 8 |
 Alumne: Pol R. &nbsp;|&nbsp; Treball: La crisi del 1929 i les seves conseqüències a Europa &nbsp;|&nbsp; Qualificació: 8/10 (Notable)
 L'anàlisi crítica és l'àrea a reforçar; el plantejament i l'ús de fonts són el punt més sòlid del treball.
 
@@ -4698,24 +3853,14 @@ Té l'avantatge de ser més descriptiva que una nota numèrica i de comunicar mi
 **Exemple:**
 
 Escala verbal per valorar la participació i el treball cooperatiu en un projecte de Ciències Naturals a 3r d'ESO. El docent marca el nivell que millor descriu la conducta observada.
-|
-| Indicador observable
-| Iniciat
-| En procés
-| Assolit
-| Excel·lent
-| Assumeix el seu rol dins del grup i el compleix
-| | | ✓ |
-| Contribueix amb idees i propostes pròpies
-| | | | ✓
-| Escolta i respecta les aportacions de la resta
-| | ✓ | |
-| Gestiona els conflictes de forma constructiva
-| | ✓ | |
-| Lliura les tasques assignades en el termini acordat
-| | | ✓ |
-| Proposa millores al treball del grup
-| | | | ✓
+| Indicador observable | Iniciat | En procés | Assolit | Excel·lent |
+| --- | --- | --- | --- | --- |
+| Assumeix el seu rol dins del grup i el compleix | | | ✓ | |
+| Contribueix amb idees i propostes pròpies | | | | ✓ |
+| Escolta i respecta les aportacions de la resta | | ✓ | | |
+| Gestiona els conflictes de forma constructiva | | ✓ | | |
+| Lliura les tasques assignades en el termini acordat | | | ✓ | |
+| Proposa millores al treball del grup | | | | ✓ |
 Alumne: Noa F. &nbsp;|&nbsp; Projecte: Ecosistemes de la Mediterrània &nbsp;|&nbsp; Data: 22/04
 Destaquen la iniciativa i les propostes de millora; la gestió de conflictes i l'escolta activa són els aspectes a treballar en el proper projecte.
 
@@ -4747,45 +3892,21 @@ Permete combinar una avaluació qualitativa i orientada a l'aprenentatge amb l'o
 **Exemple:**
 
 Conversor de nivells a qualificació per a una rúbrica de Biologia a 3r d'ESO. Primer s'estableix l'equivalència entre nivells i rangs numèrics; després s'aplica criteri per criteri i es calcula la nota final ponderada.
-|
-| Taula d'equivalències (plantilla)
-| Nivell descriptor
-| Rang numèric
-| Valor central usat
-| 4 — Excel·lent | 9,0 – 10 | 9,5
-| 3 — Competent | 7,0 – 8,9 | 8,0
-| 2 — En procés | 5,0 – 6,9 | 6,0
-| 1 — Inicial | 1,0 – 4,9 | 3,0
-|
-| Aplicació a un alumne — Informe de laboratori
-| Criteri
-| Nivell assignat
-| Valor numèric
-| Pes (%)
-| Aportació
-| Plantejament i hipòtesi
-| 3
-| 8,0
-| 20
-| 1,6
-| Recollida i presentació de dades
-| 4
-| 9,5
-| 30
-| 2,85
-| Anàlisi i interpretació
-| 2
-| 6,0
-| 30
-| 1,8
-| Conclusions
-| 2
-| 6,0
-| 20
-| 1,2
-| Nota final
-| 100
-| 7,45 → 7,5
+| Taula d'equivalències (plantilla) |
+| --- |
+| Nivell descriptor | Rang numèric | Valor central usat |
+| 4 — Excel·lent | 9,0 – 10 | 9,5 |
+| 3 — Competent | 7,0 – 8,9 | 8,0 |
+| 2 — En procés | 5,0 – 6,9 | 6,0 |
+| 1 — Inicial | 1,0 – 4,9 | 3,0 |
+| Aplicació a un alumne — Informe de laboratori |
+| --- |
+| Criteri | Nivell assignat | Valor numèric | Pes (%) | Aportació |
+| Plantejament i hipòtesi | 3 | 8,0 | 20 | 1,6 |
+| Recollida i presentació de dades | 4 | 9,5 | 30 | 2,85 |
+| Anàlisi i interpretació | 2 | 6,0 | 30 | 1,8 |
+| Conclusions | 2 | 6,0 | 20 | 1,2 |
+| Nota final | 100 | 7,45 → 7,5 |
 Alumne: Nico R. &nbsp;|&nbsp; Pràctica: Cromatografia de pigments vegetals &nbsp;|&nbsp; Nota: 7,5 (Notable)
 El conversor permet mantenir la rúbrica qualitativa (més rica per al feedback) i transformar-la en nota numèrica només quan la normativa ho exigeix, sense perdre precisió en la retroalimentació.
 
@@ -4817,49 +3938,14 @@ Com usar-lo: s'organitza amb alumnes en files i tasques o criteris en columnes. 
 **Exemple:**
 
 Fragment d'un full de càlcul d'avaluació d'Anglès a 2n d'ESO (Google Sheets). Les columnes de nota final i mitjana del grup es calculen automàticament amb fórmules; el docent només introdueix les qualificacions a les columnes de tasques.
-|
-| Alumne
-| T1 Writing25%
-| T2 Listening25%
-| T3 Speaking30%
-| T4 Reading20%
-| Nota final=SUMA POND.
-| Alícia B.
-| 8,0
-| 7,5
-| 9,0
-| 7,0
-| 8,1
-| Bruno M.
-| 5,0
-| 6,0
-| 4,5
-| 5,5
-| 5,2
-| Clara T.
-| 7,5
-| 8,0
-| 7,0
-| 8,5
-| 7,6
-| Diego F.
-| 9,0
-| 9,5
-| 8,5
-| 9,0
-| 9,0
-| Elena R.
-| 6,0
-| 5,5
-| 6,5
-| 6,0
-| 6,1
-| Mitjana del grup
-| 7,1
-| 7,3
-| 7,1
-| 7,2
-| 7,2
+| Alumne | T1 Writing25% | T2 Listening25% | T3 Speaking30% | T4 Reading20% | Nota final=SUMA POND. |
+| --- | --- | --- | --- | --- | --- |
+| Alícia B. | 8,0 | 7,5 | 9,0 | 7,0 | 8,1 |
+| Bruno M. | 5,0 | 6,0 | 4,5 | 5,5 | 5,2 |
+| Clara T. | 7,5 | 8,0 | 7,0 | 8,5 | 7,6 |
+| Diego F. | 9,0 | 9,5 | 8,5 | 9,0 | 9,0 |
+| Elena R. | 6,0 | 5,5 | 6,5 | 6,0 | 6,1 |
+| Mitjana del grup | 7,1 | 7,3 | 7,1 | 7,2 | 7,2 |
 Classe: 2n ESO A &nbsp;|&nbsp; Assignatura: Anglès &nbsp;|&nbsp; Trimestre: 2n
 Fórmula nota final (fila Alícia): =B2*0,25 + C2*0,25 + D2*0,30 + E2*0,20. La fila de mitjanes fa servir =PROMIG(B2:B6) per columna.
 L'avantatge del full de càlcul sobre el quadern físic és l'automatització: canviar un pes o afegir una tasca recalcula totes les notes a l'instant, sense risc d'errors aritmètics.
@@ -4892,36 +3978,17 @@ Com elaborar-lo: integra informació de diverses fonts (qualificacions, observac
 **Exemple:**
 
 Informe individual d'avaluació del primer trimestre per a un alumne de 1r d'ESO. Combina un resum quantitatiu per competències amb una valoració qualitativa i recomanacions concretes per a les famílies.
-|
-| Competència específica
-| Nivell (1–4)
-| Nota
-| Tendència
-| Comprensió lectora i anàlisi de textos
-| 3
-| 7,5
-| Estable. Millora progressiva en la identificació d'idees implícites.
-| Producció escrita (narració i descripció)
-| 2
-| 5,5
-| En desenvolupament. Li costa mantenir la cohesió entre paràgrafs.
-| Comunicació oral (exposicions)
-| 3
-| 7,0
-| Millorant. Més seguretat a les últimes exposicions respecte a l'inici de curs.
-| Reflexió sobre la llengua
-| 2
-| 5,0
-| Dificultats persistents en anàlisi morfosintàctica. Necessita pràctica sistemàtica.
-|
-| Secció
-| Observació del docent
-| Punts forts
-| El Pol mostra una actitud molt positiva cap a la lectura i participa activament en els debats orals. La seva capacitat de síntesi oral és notable per al seu nivell; pot resumir un text complex amb les seves pròpies paraules amb fluïdesa.
-| Àrees de millora prioritàries
-| L'escriptura és l'àrea on hi ha més marge de creixement: els seus textos tenen idees interessants però la cohesió entre paràgrafs és feble. L'anàlisi morfosintàctica requereix treball sistemàtic.
-| Recomanacions per a casa
-| Llegir en veu alta 10 minuts diaris i escriure una entrada de diari setmanal (sense pressió de qualificació) ajudaran a consolidar la fluïdesa escrita. Per a la morfosintaxi, repassar l'esquema de classes de paraules abans de cada prova.
+| Competència específica | Nivell (1–4) | Nota | Tendència |
+| --- | --- | --- | --- |
+| Comprensió lectora i anàlisi de textos | 3 | 7,5 | Estable. Millora progressiva en la identificació d'idees implícites. |
+| Producció escrita (narració i descripció) | 2 | 5,5 | En desenvolupament. Li costa mantenir la cohesió entre paràgrafs. |
+| Comunicació oral (exposicions) | 3 | 7,0 | Millorant. Més seguretat a les últimes exposicions respecte a l'inici de curs. |
+| Reflexió sobre la llengua | 2 | 5,0 | Dificultats persistents en anàlisi morfosintàctica. Necessita pràctica sistemàtica. |
+| Secció | Observació del docent |
+| --- | --- |
+| Punts forts | El Pol mostra una actitud molt positiva cap a la lectura i participa activament en els debats orals. La seva capacitat de síntesi oral és notable per al seu nivell; pot resumir un text complex amb les seves pròpies paraules amb fluïdesa. |
+| Àrees de millora prioritàries | L'escriptura és l'àrea on hi ha més marge de creixement: els seus textos tenen idees interessants però la cohesió entre paràgrafs és feble. L'anàlisi morfosintàctica requereix treball sistemàtic. |
+| Recomanacions per a casa | Llegir en veu alta 10 minuts diaris i escriure una entrada de diari setmanal (sense pressió de qualificació) ajudaran a consolidar la fluïdesa escrita. Per a la morfosintaxi, repassar l'esquema de classes de paraules abans de cada prova. |
 Alumne: Pol G. &nbsp;|&nbsp; Curs: 1r ESO B &nbsp;|&nbsp; Assignatura: Llengua Catalana i Literatura &nbsp;|&nbsp; Trimestre: 1r &nbsp;|&nbsp; Docent: Sra. García
 L'informe individual va més enllà del butlletí de notes: dóna context a les qualificacions i converteix l'entrevista amb les famílies en una conversa orientada a l'acció.
 
@@ -4953,56 +4020,14 @@ Com usar-la: es complimenta a les sessions d'avaluació, recull les qualificacio
 **Exemple:**
 
 Acta d'avaluació de final de trimestre per a 2n ESO B. Document oficial que recull les qualificacions de cada alumne en totes les matèries i la decisió de promoció o reforç. Ha de ser signada per tots els docents de l'equip educatiu.
-|
-| Alumne
-| Llengua Cat.
-| Matemàtiques
-| CC.SS.
-| CC.NN.
-| Anglès
-| Decisió
-| Alícia B.
-| 8
-| 7
-| 8
-| 9
-| 8
-| Promociona
-| Bruno M.
-| 5
-| 4
-| 5
-| 5
-| 4
-| Reforç Mat./Ang.
-| Clara T.
-| 7
-| 8
-| 7
-| 7
-| 8
-| Promociona
-| Diego F.
-| 9
-| 10
-| 9
-| 10
-| 9
-| Promociona
-| Elena R.
-| 6
-| 3
-| 6
-| 5
-| 5
-| Reforç Mat.
-| Fran P.
-| 7
-| 6
-| 7
-| 6
-| 7
-| Promociona
+| Alumne | Llengua Cat. | Matemàtiques | CC.SS. | CC.NN. | Anglès | Decisió |
+| --- | --- | --- | --- | --- | --- | --- |
+| Alícia B. | 8 | 7 | 8 | 9 | 8 | Promociona |
+| Bruno M. | 5 | 4 | 5 | 5 | 4 | Reforç Mat./Ang. |
+| Clara T. | 7 | 8 | 7 | 7 | 8 | Promociona |
+| Diego F. | 9 | 10 | 9 | 10 | 9 | Promociona |
+| Elena R. | 6 | 3 | 6 | 5 | 5 | Reforç Mat. |
+| Fran P. | 7 | 6 | 7 | 6 | 7 | Promociona |
 Grup: 2n ESO B &nbsp;|&nbsp; Sessió d'avaluació: 1r trimestre &nbsp;|&nbsp; Data: 19/12
 Signatures de l'equip docent: Sra. García (tutora), Sr. Martínez, Sra. Puig, Sr. López, Sra. Williams.
 L'acta té valor legal i administratiu: s'ha d'arxivar segons la normativa del centre. Les decisions de reforç es traslladen al pla de treball individual de l'alumne per al trimestre següent.
@@ -5035,25 +4060,13 @@ Estalvia temps de correcció en avaluacions tancades, facilita l'anàlisi de res
 **Exemple:**
 
 Tiquet de sortida digital implementat amb Google Forms al final d'una sessió de Biologia a 2n d'ESO. El docent rep les respostes automàticament i ajusta la sessió següent segons els resultats.
-|
-| Pregunta del formulari
-| Tipus
-| Resposta de l'alumne
-| Quant entens ja el concepte de fotosíntesi?
-| Escala 1–5
-| ⭐⭐⭐ (3) — Ho entenc més o menys
-| Quina part de la sessió t'ha resultat més difícil?
-| Selecció múltiple
-| ✓ La diferència entre la fase lluminosa i la fase fosca
-| Escriu amb les teves paraules què passa al cloroplast durant la fotosíntesi (1–2 frases)
-| Text lliure
-| «El cloroplast capta la llum solar i l'utilitza per transformar l'aigua i el CO₂ en glucosa. També allibera oxigen com a residu.»
-| Què necessites per sentir-te més segur amb aquest tema?
-| Selecció múltiple
-| ✓ Veure un esquema visual de les dues fases &nbsp; ✓ Practicar amb més exercicis
-| Amb quina nota valoraries el teu propi treball a la sessió d'avui?
-| Escala 1–5
-| ⭐⭐⭐⭐ (4) — He treballat bé tot i que m'he perdut a la fase fosca
+| Pregunta del formulari | Tipus | Resposta de l'alumne |
+| --- | --- | --- |
+| Quant entens ja el concepte de fotosíntesi? | Escala 1–5 | ⭐⭐⭐ (3) — Ho entenc més o menys |
+| Quina part de la sessió t'ha resultat més difícil? | Selecció múltiple | ✓ La diferència entre la fase lluminosa i la fase fosca |
+| Escriu amb les teves paraules què passa al cloroplast durant la fotosíntesi (1–2 frases) | Text lliure | «El cloroplast capta la llum solar i l'utilitza per transformar l'aigua i el CO₂ en glucosa. També allibera oxigen com a residu.» |
+| Què necessites per sentir-te més segur amb aquest tema? | Selecció múltiple | ✓ Veure un esquema visual de les dues fases &nbsp; ✓ Practicar amb més exercicis |
+| Amb quina nota valoraries el teu propi treball a la sessió d'avui? | Escala 1–5 | ⭐⭐⭐⭐ (4) — He treballat bé tot i que m'he perdut a la fase fosca |
 Alumne: Rafa M. &nbsp;|&nbsp; Formulari: Tiquet de sortida — Fotosíntesi &nbsp;|&nbsp; Plataforma: Google Forms &nbsp;|&nbsp; Data: 03/02
 Nota del docent en revisar les respostes del grup: el 68% marca «fase lluminosa vs. fosca» com el punt més difícil → començar la propera classe amb un esquema comparatiu abans d'avançar.
 El formulari digital centralitza les respostes de tot el grup en segons; el full de càlcul associat permet filtrar per pregunta i detectar els patrons de dificultat sense revisar fitxa per fitxa.
@@ -5086,34 +4099,13 @@ Reduceix el temps de correcció, facilita la coherència entre correccions i per
 **Exemple:**
 
 Rúbrica digital aplicada a Google Classroom per avaluar una redacció argumentativa a 3r d'ESO. El docent marca els nivells directament a la plataforma; l'alumne rep la qualificació i els comentaris al seu compte automàticament.
-|
-| Criteri
-| Excel·lent (4)
-| Competent (3)
-| En procés (2)
-| Inicial (1)
-| Tesi i argumentació
-| Tesi precisa; arguments sòlids i ben evidenciats.
-| ✓ Tesi clara; arguments correctes amb alguna evidència feble.
-| Tesi recognoscible; arguments sense evidències o superficials.
-| Sense tesi clara ni arguments recognoscibles.
-| Estructura i cohesió
-| Estructura perfecta amb connectors variats i precisos.
-| ✓ Estructura correcta; algun connector mecànic o transició millorable.
-| Estructura bàsica; connectors repetitius o absents.
-| Sense estructura recognoscible.
-| Correcció lingüística
-| Sense errors; vocabulari precís i variat.
-| Errors menors que no interrompen la lectura.
-| ✓ Errors freqüents; vocabulari limitat però comprensible.
-| Errors que dificulten la comprensió.
-| Fonts i cites
-| Fonts variades citades correctament.
-| ✓ Fa servir fonts; alguna cita incorrecta o font no contrastada.
-| Poques fonts o sense citar.
-| Sense fonts.
-| Puntuació total (plataforma)
-| 3 + 3 + 2 + 3 = 11 / 16 → 6,9 / 10
+| Criteri | Excel·lent (4) | Competent (3) | En procés (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Tesi i argumentació | Tesi precisa; arguments sòlids i ben evidenciats. | ✓ Tesi clara; arguments correctes amb alguna evidència feble. | Tesi recognoscible; arguments sense evidències o superficials. | Sense tesi clara ni arguments recognoscibles. |
+| Estructura i cohesió | Estructura perfecta amb connectors variats i precisos. | ✓ Estructura correcta; algun connector mecànic o transició millorable. | Estructura bàsica; connectors repetitius o absents. | Sense estructura recognoscible. |
+| Correcció lingüística | Sense errors; vocabulari precís i variat. | Errors menors que no interrompen la lectura. | ✓ Errors freqüents; vocabulari limitat però comprensible. | Errors que dificulten la comprensió. |
+| Fonts i cites | Fonts variades citades correctament. | ✓ Fa servir fonts; alguna cita incorrecta o font no contrastada. | Poques fonts o sense citar. | Sense fonts. |
+| Puntuació total (plataforma) | 3 + 3 + 2 + 3 = 11 / 16 → 6,9 / 10 |
 Alumne: Víctor S. &nbsp;|&nbsp; Tasca: «Han de regular els governs l'ús de les xarxes socials?» &nbsp;|&nbsp; Plataforma: Google Classroom &nbsp;|&nbsp; Data: 18/03
 Comentari digital del docent: «L'estructura i la tesi estan bé. El punt a treballar és la correcció lingüística: hi ha cinc errors de concordança. Et proposo fer l'activitat de repàs abans de la segona entrega.»
 La rúbrica digital té la mateixa validesa avaluativa que l'analítica en paper, amb l'avantatge que l'alumne rep feedback instantani al seu dispositiu i el docent no ha de distribuir documents físics.
@@ -5146,31 +4138,13 @@ Com usar-lo: en obrir l'historial de versions d'un document compartit, el docent
 **Exemple:**
 
 Historial de revisió d'un Google Doc col·laboratiu usat per un grup de 4t d'ESO per redactar un informe de recerca. El docent consulta l'historial per avaluar la contribució real de cada membre i detectar si el treball s'ha fet de forma distribuïda o concentrada.
-|
-| Data / hora
-| Autor
-| Canvis realitzats
-| Valoració del docent
-| 12/04 10:22
-| Mireia T.
-| Crea el document. Afegeix l'índex i la introducció (280 paraules). Insereix dues fonts a la bibliografia.
-| Pren la iniciativa. Introducció sòlida.
-| 13/04 16:05
-| Omar B.
-| Afegeix la secció de metodologia (190 paraules) i una taula de dades de l'experiment. Corregeix dos errors ortogràfics de la introducció.
-| Aportació rellevant. Dades ben presentades.
-| 14/04 09:47
-| Júlia K.
-| Afegeix els resultats i la discussió (320 paraules). Incorpora una gràfica d'elaboració pròpia.
-| La secció més extensa. Gràfica adequada.
-| 14/04 22:31
-| Kevin L.
-| Afegeix les conclusions (85 paraules) la nit abans del lliurament. Sense canvis previs en tot el document.
-| Contribució tardana i escassa. Parlar amb el grup.
-| 15/04 08:15
-| Mireia T.
-| Revisió final: unifica el format, corregeix la bibliografia i afegeix el resum executiu.
-| Assumeix més càrrega de la que li correspon.
+| Data / hora | Autor | Canvis realitzats | Valoració del docent |
+| --- | --- | --- | --- |
+| 12/04 10:22 | Mireia T. | Crea el document. Afegeix l'índex i la introducció (280 paraules). Insereix dues fonts a la bibliografia. | Pren la iniciativa. Introducció sòlida. |
+| 13/04 16:05 | Omar B. | Afegeix la secció de metodologia (190 paraules) i una taula de dades de l'experiment. Corregeix dos errors ortogràfics de la introducció. | Aportació rellevant. Dades ben presentades. |
+| 14/04 09:47 | Júlia K. | Afegeix els resultats i la discussió (320 paraules). Incorpora una gràfica d'elaboració pròpia. | La secció més extensa. Gràfica adequada. |
+| 14/04 22:31 | Kevin L. | Afegeix les conclusions (85 paraules) la nit abans del lliurament. Sense canvis previs en tot el document. | Contribució tardana i escassa. Parlar amb el grup. |
+| 15/04 08:15 | Mireia T. | Revisió final: unifica el format, corregeix la bibliografia i afegeix el resum executiu. | Assumeix més càrrega de la que li correspon. |
 Grup: Equip 2 (Mireia, Omar, Júlia, Kevin) &nbsp;|&nbsp; Treball: Informe sobre l'efecte del pH en enzims &nbsp;|&nbsp; Plataforma: Google Docs &nbsp;|&nbsp; Lliurament: 15/04
 L'historial de revisió converteix l'avaluació del treball cooperatiu en un procés basat en evidències objectives: mostra qui va escriure què i quan, amb independència del que declari cada membre.
 
@@ -5252,43 +4226,13 @@ Com usar-lo: cada alumne té el seu propi espai on guarda els seus treballs, esb
 **Exemple:**
 
 Banc digital d'evidències d'un alumne de 1r de Batxillerat emmagatzemat a Google Drive. Recull les produccions del trimestre amb metadades que permeten al docent fer un seguiment del progrés longitudinal.
-|
-| Evidència / arxiu
-| Tipus
-| Data
-| Criteri avaluat
-| Nivell
-| Nota del docent
-| Assaig argumentatiu — esborrany 1
-| Text escrit
-| 08/10
-| Producció escrita CE3
-| 2
-| Tesi present però arguments sense evidències.
-| Assaig argumentatiu — versió final
-| Text escrit
-| 22/10
-| Producció escrita CE3
-| 3
-| Millora notable respecte a l'esborrany. Cites incorporades.
-| Gravació exposició oral — debat IA
-| Vídeo (3 min)
-| 05/11
-| Comunicació oral CE1
-| 3
-| Bon domini del tema. Millorar el contacte visual.
-| Autoavaluació trimestral (Google Form)
-| Formulari
-| 28/11
-| Reflexió metacognitiva
-| —
-| Reflexió honesta; identifica els mateixos punts febles que el docent.
-| Prova escrita T1 (escanejada)
-| PDF
-| 05/12
-| Reflexió lingüística CE4
-| 2
-| Morfosintaxi: necessita consolidació en oracions subordinades.
+| Evidència / arxiu | Tipus | Data | Criteri avaluat | Nivell | Nota del docent |
+| --- | --- | --- | --- | --- | --- |
+| Assaig argumentatiu — esborrany 1 | Text escrit | 08/10 | Producció escrita CE3 | 2 | Tesi present però arguments sense evidències. |
+| Assaig argumentatiu — versió final | Text escrit | 22/10 | Producció escrita CE3 | 3 | Millora notable respecte a l'esborrany. Cites incorporades. |
+| Gravació exposició oral — debat IA | Vídeo (3 min) | 05/11 | Comunicació oral CE1 | 3 | Bon domini del tema. Millorar el contacte visual. |
+| Autoavaluació trimestral (Google Form) | Formulari | 28/11 | Reflexió metacognitiva | — | Reflexió honesta; identifica els mateixos punts febles que el docent. |
+| Prova escrita T1 (escanejada) | PDF | 05/12 | Reflexió lingüística CE4 | 2 | Morfosintaxi: necessita consolidació en oracions subordinades. |
 Alumne: Marta G. &nbsp;|&nbsp; Carpeta Drive: Evidències_1Batx_T1_MartaG &nbsp;|&nbsp; Trimestre: 1r &nbsp;|&nbsp; Accés: compartida amb docent i alumna
 El banc d'evidències mostra la trajectòria de l'alumne, no només el seu nivell puntual: la comparació de l'esborrany i la versió final de l'assaig evidencia una millora real en CE3 que la nota final sola no reflecteix.
 
@@ -5320,31 +4264,12 @@ Com usar-la: es redacten indicadors clars, es vinculen a evidències concretes i
 **Exemple:**
 
 Llista d'indicadors per criteri per avaluar la competència de recerca en un projecte de 1r de Batxillerat. Cada criteri ampli es descompon en comportaments i productes observables que el docent pot verificar directament.
-|
-| Criteri
-| Indicadors observables
-| Plantejament del problema
-|
-Formula una pregunta de recerca concreta i acotada (no «Què és X?» sinó «Com afecta X a Y?»).
-Enuncia una hipòtesi comprovable a partir de les dades disponibles.
-Justifica la rellevància del problema amb almenys una font.
-| Cerca i selecció d'informació
-|
-Fa servir almenys tres fonts de naturalesa diferent (article, llibre, dada estadística…).
-Avalua la fiabilitat de cada font (autor, data, institució).
-Cita totes les fonts en el format acordat (APA, Vancouver…).
-Descarta fonts irrellevants o no verificades.
-| Anàlisi i interpretació
-|
-Relaciona les dades amb la hipòtesi inicial (confirma, refuta o matisa).
-Identifica almenys una limitació metodològica del treball.
-Distingeix entre fets provats i interpretacions pròpies.
-| Comunicació de resultats
-|
-Presenta els resultats amb una estructura lògica (context → dades → anàlisi → conclusió).
-Fa servir taules, gràfiques o figures quan aporten claredat, no com a decoració.
-Adapta el registre al destinatari (acadèmic, divulgatiu…).
-La conclusió respon directament la pregunta de recerca inicial.
+| Criteri | Indicadors observables |
+| --- | --- |
+| Plantejament del problema | Formula una pregunta de recerca concreta i acotada (no «Què és X?» sinó «Com afecta X a Y?»). Enuncia una hipòtesi comprovable a partir de les dades disponibles. Justifica la rellevància del problema amb almenys una font. |
+| Cerca i selecció d'informació | Fa servir almenys tres fonts de naturalesa diferent (article, llibre, dada estadística…). Avalua la fiabilitat de cada font (autor, data, institució). Cita totes les fonts en el format acordat (APA, Vancouver…). Descarta fonts irrellevants o no verificades. |
+| Anàlisi i interpretació | Relaciona les dades amb la hipòtesi inicial (confirma, refuta o matisa). Identifica almenys una limitació metodològica del treball. Distingeix entre fets provats i interpretacions pròpies. |
+| Comunicació de resultats | Presenta els resultats amb una estructura lògica (context → dades → anàlisi → conclusió). Fa servir taules, gràfiques o figures quan aporten claredat, no com a decoració. Adapta el registre al destinatari (acadèmic, divulgatiu…). La conclusió respon directament la pregunta de recerca inicial. |
 Context: Projecte de recerca, 1r Batxillerat &nbsp;|&nbsp; Docent: Sr. Fernández &nbsp;|&nbsp; Ús: Guia d'avaluació i rúbrica de procés
 Aquesta llista és el pas previ a construir la rúbrica: assegura que els criteris estan ben operativitzats abans d'afegir els nivells de rendiment. Si un indicador no és observable directament, cal reformular-lo.
 
@@ -5376,32 +4301,12 @@ Com usar-la: es defineixen nivells clars i es revisa periòdicament on es troba 
 **Exemple:**
 
 Escala de progrés per al seguiment de l'expressió escrita a 2n d'ESO al llarg del curs. El docent registra el nivell assolit en tres moments i anota l'evidència que el sustenta.
-|
-| Indicador de progrés
-| Oct.
-| Gen.
-| Abr.
-| Evidència més recent
-| Planifica el text abans d'escriure
-| Inicial
-| En desenvolupament
-| Autònom
-| Esquema lliurat abans de la redacció d'abril
-| Organitza el text en paràgrafs amb idea principal
-| Inicial
-| En desenvolupament
-| En desenvolupament
-| Redacció de gener: paràgrafs presents però sense idea clau clara
-| Usa connectors variats per enllaçar idees
-| Inicial
-| Inicial
-| En desenvolupament
-| Apareixen connectors de causa i contrast en l'última entrega
-| Revisa i corregeix errors ortogràfics abans de lliurar
-| En desenvolupament
-| Autònom
-| Autònom
-| Esborranys amb correccions pròpies visibles des de gener
+| Indicador de progrés | Oct. | Gen. | Abr. | Evidència més recent |
+| --- | --- | --- | --- | --- |
+| Planifica el text abans d'escriure | Inicial | En desenvolupament | Autònom | Esquema lliurat abans de la redacció d'abril |
+| Organitza el text en paràgrafs amb idea principal | Inicial | En desenvolupament | En desenvolupament | Redacció de gener: paràgrafs presents però sense idea clau clara |
+| Usa connectors variats per enllaçar idees | Inicial | Inicial | En desenvolupament | Apareixen connectors de causa i contrast en l'última entrega |
+| Revisa i corregeix errors ortogràfics abans de lliurar | En desenvolupament | Autònom | Autònom | Esborranys amb correccions pròpies visibles des de gener |
 Alumne: Laia P. &nbsp;|&nbsp; Nivells: Inicial → En desenvolupament → Autònom → Expert
 L'escala de progrés permet veure la trajectòria de cada alumne i acordar el pas següent d'aprenentatge a la tutoria.
 
@@ -5433,27 +4338,12 @@ Com usar-la: abans de l'activitat es seleccionen pocs focus importants. Durant l
 **Exemple:**
 
 Guia d'observació preparada per seguir el treball en grup durant un experiment de Física a 3r d'ESO. El docent la completa durant la sessió amb evidències concretes del que ha observat.
-|
-| Focus d'observació
-| Indicadors concrets a buscar
-| Quan
-| Evidències observades
-| Planificació abans de començar
-| Llegeixen el guió abans d'actuar? Reparteixen tasques? Identifiquen el material necessari?
-| Primers 5 min.
-| Grup 1: llegeixen junts i reparteixen rols (bé). Grup 3: un alumne comença a muntar sense llegir; la resta el segueix.
-| Maneig del material i seguretat
-| Fan servir el material correctament? Segueixen les normes de seguretat (ulleres, ordre)?
-| Durant l'experiment
-| Tots porten ulleres. Grup 2: vessen líquid i no netegen fins que ho indico. Grup 4: molt ordenats, mesuren dues vegades abans d'abocar.
-| Registre de dades
-| Anoten mentre observen o esperen al final? Les dades són precises (unitats, decimals)?
-| Durant l'experiment
-| Grups 1, 3, 4: anoten en temps real. Grup 2: només un membre anota; els altres tres no tenen la fitxa de dades a la mà.
-| Anàlisi i conclusió oral
-| Relacionen els resultats amb la hipòtesi? Expliquen les discrepàncies?
-| Últims 10 min.
-| Grup 1: expliquen bé la diferència entre el seu resultat i l'esperat. Grups 2 i 3: conclouen que «ha sortit malament» sense analitzar per què.
+| Focus d'observació | Indicadors concrets a buscar | Quan | Evidències observades |
+| --- | --- | --- | --- |
+| Planificació abans de començar | Llegeixen el guió abans d'actuar? Reparteixen tasques? Identifiquen el material necessari? | Primers 5 min. | Grup 1: llegeixen junts i reparteixen rols (bé). Grup 3: un alumne comença a muntar sense llegir; la resta el segueix. |
+| Maneig del material i seguretat | Fan servir el material correctament? Segueixen les normes de seguretat (ulleres, ordre)? | Durant l'experiment | Tots porten ulleres. Grup 2: vessen líquid i no netegen fins que ho indico. Grup 4: molt ordenats, mesuren dues vegades abans d'abocar. |
+| Registre de dades | Anoten mentre observen o esperen al final? Les dades són precises (unitats, decimals)? | Durant l'experiment | Grups 1, 3, 4: anoten en temps real. Grup 2: només un membre anota; els altres tres no tenen la fitxa de dades a la mà. |
+| Anàlisi i conclusió oral | Relacionen els resultats amb la hipòtesi? Expliquen les discrepàncies? | Últims 10 min. | Grup 1: expliquen bé la diferència entre el seu resultat i l'esperat. Grups 2 i 3: conclouen que «ha sortit malament» sense analitzar per què. |
 Activitat: Experiment de densitat — líquids immiscibles &nbsp;|&nbsp; Classe: 3r ESO B &nbsp;|&nbsp; Data: 19/02
 Focus prioritari per a la propera pràctica: treballar l'anàlisi de discrepàncies amb tots els grups (els grups 2 i 3 necessiten un andamiatge específic).
 La guia d'observació permet mirar menys coses però veure-les millor: reduir els focus a 3–4 indicadors clau és més efectiu que intentar registrar-ho tot.
@@ -5486,22 +4376,12 @@ La seva força rau en el fet que desplaça la correcció des del judici final ca
 **Exemple:**
 
 Plantilla de feedback/feedforward del docent de Ciències Socials sobre una exposició oral a 2n d'ESO. La columna esquerra valora el que ja s'ha assolit; la dreta orienta el pas següent concret.
-|
-| Criteri
-| Feedback — el que ja has assolit
-| Feedforward — el teu proper pas
-| Contingut
-| Has seleccionat els tres fets clau del tema i els has explicat amb les teves pròpies paraules, sense llegir les diapositives.
-| A la propera exposició, afegeix una connexió explícita entre els fets: «això va passar perquè…» o «això va tenir com a conseqüència…».
-| Estructura
-| La introducció anuncia clarament de què parlaràs. La conclusió tanca bé el tema.
-| El desenvolupament necessita més senyals de transició entre els punts. Practica frases com «passem ara a…» o «el segon aspecte és…».
-| Expressió oral
-| La teva veu se sent amb claredat i el ritme és adequat durant la primera meitat de l'exposició.
-| A la segona meitat el ritme s'ha accelerat. Practica fent una pausa de 2 segons després de cada idea important abans de continuar.
-| Suport visual
-| Les diapositives tenen text reduït i imatges rellevants: exactament el que es demana.
-| Les imatges no apareixen en el moment en què en parles. Assaja una vegada més sincronitzant el que dius amb el que projector.
+| Criteri | Feedback — el que ja has assolit | Feedforward — el teu proper pas |
+| --- | --- | --- |
+| Contingut | Has seleccionat els tres fets clau del tema i els has explicat amb les teves pròpies paraules, sense llegir les diapositives. | A la propera exposició, afegeix una connexió explícita entre els fets: «això va passar perquè…» o «això va tenir com a conseqüència…». |
+| Estructura | La introducció anuncia clarament de què parlaràs. La conclusió tanca bé el tema. | El desenvolupament necessita més senyals de transició entre els punts. Practica frases com «passem ara a…» o «el segon aspecte és…». |
+| Expressió oral | La teva veu se sent amb claredat i el ritme és adequat durant la primera meitat de l'exposició. | A la segona meitat el ritme s'ha accelerat. Practica fent una pausa de 2 segons després de cada idea important abans de continuar. |
+| Suport visual | Les diapositives tenen text reduït i imatges rellevants: exactament el que es demana. | Les imatges no apareixen en el moment en què en parles. Assaja una vegada més sincronitzant el que dius amb el que projector. |
 Alumne: Mireia C. &nbsp;|&nbsp; Exposició: Les civilitzacions fluvials de Mesopotàmia &nbsp;|&nbsp; Data: 17/01
 La columna de feedforward és la més valuosa: desplaça l'atenció del «què ha sortit malament» al «què fer la propera vegada», cosa que fa la retroalimentació accionable.
 
@@ -5533,40 +4413,20 @@ Com usar-lo: s'acorda a l'inici del treball i es revisa en fites intermèdies. E
 **Exemple:**
 
 Contracte de grup signat a l'inici d'un projecte de recerca a 4t d'ESO. Recull rols, normes, calendari i compromisos; es revisa als hites intermedis per regular el procés cooperatiu.
-|
-| Rols i responsabilitats
-| Membre
-| Rol
-| Responsabilitats principals
-| Mireia T.
-| Coordinadora
-| Organitzar reunions, repartir tasques, assegurar que es compleixen els terminis i ser portaveu davant del docent.
-| Omar B.
-| Investigador
-| Cercar i seleccionar fonts, redactar la secció de metodologia i resultats.
-| Júlia K.
-| Secretària
-| Prendre notes a les reunions, gestionar el document compartit i cuidar la bibliografia.
-| Kevin L.
-| Portaveu
-| Preparar i fer l'exposició oral final; coordinar el suport visual.
-|
-| Calendari de fites
-| Fita
-| Data
-| Responsable
-| Elecció del tema i pregunta de recerca
-| 07/04
-| Grup
-| Lliurament de l'esborrany (introducció + metodologia)
-| 21/04
-| Omar + Júlia
-| Lliurament de l'informe complet
-| 05/05
-| Mireia (revisió final)
-| Exposició oral
-| 12/05
-| Kevin
+| Rols i responsabilitats |
+| --- |
+| Membre | Rol | Responsabilitats principals |
+| Mireia T. | Coordinadora | Organitzar reunions, repartir tasques, assegurar que es compleixen els terminis i ser portaveu davant del docent. |
+| Omar B. | Investigador | Cercar i seleccionar fonts, redactar la secció de metodologia i resultats. |
+| Júlia K. | Secretària | Prendre notes a les reunions, gestionar el document compartit i cuidar la bibliografia. |
+| Kevin L. | Portaveu | Preparar i fer l'exposició oral final; coordinar el suport visual. |
+| Calendari de fites |
+| --- |
+| Fita | Data | Responsable |
+| Elecció del tema i pregunta de recerca | 07/04 | Grup |
+| Lliurament de l'esborrany (introducció + metodologia) | 21/04 | Omar + Júlia |
+| Lliurament de l'informe complet | 05/05 | Mireia (revisió final) |
+| Exposició oral | 12/05 | Kevin |
 Normes acordades: Respondre als missatges del grup en menys de 24 h · Si algú no pot complir una tasca, avisar amb 48 h d'antelació · Les decisions importants es prenen per consens, no per majoria.
 Signatures: Mireia T. · Omar B. · Júlia K. · Kevin L. &nbsp;|&nbsp; Data: 05/04 &nbsp;|&nbsp; Revisat a la fita 2: 21/04
 El contracte no és un tràmit: revisar-lo a cada fita converteix els acords inicials en un instrument de regulació real del procés cooperatiu.
@@ -5624,49 +4484,14 @@ Com usar-lo: es construeix com a taula de planificació i seguiment. Permet dete
 **Exemple:**
 
 Mapa d'evidències per criteri dissenyat per a l'avaluació d'un projecte de Ciències Naturals a 3r d'ESO. Relaciona cada criteri amb les tasques que el sustenten i l'instrument aplicat; permet detectar criteris sense evidències o sobreaverts.
-|
-| Criteri
-| Informe escrit
-| Exposició oral
-| Pràctiques lab.
-| Autoavaluació
-| Instrument principal
-| Plantejament i hipòtesi
-| ✓
-| ✓
-|
-|
-| Rúbrica analítica
-| Metodologia i procediment
-| ✓
-|
-| ✓
-|
-| Guia d'observació
-| Anàlisi i interpretació
-| ✓
-| ✓
-|
-|
-| Rúbrica analítica
-| Comunicació de resultats
-| ✓
-| ✓
-|
-|
-| Rúbrica exposició oral
-| Treball cooperatiu
-|
-|
-| ✓
-| ✓
-| Registre cooperatiu + autoav.
-| Reflexió metacognitiva
-|
-|
-|
-| ✓
-| Escala d'autoavaluació
+| Criteri | Informe escrit | Exposició oral | Pràctiques lab. | Autoavaluació | Instrument principal |
+| --- | --- | --- | --- | --- | --- |
+| Plantejament i hipòtesi | ✓ | ✓ | | | Rúbrica analítica |
+| Metodologia i procediment | ✓ | | ✓ | | Guia d'observació |
+| Anàlisi i interpretació | ✓ | ✓ | | | Rúbrica analítica |
+| Comunicació de resultats | ✓ | ✓ | | | Rúbrica exposició oral |
+| Treball cooperatiu | | | ✓ | ✓ | Registre cooperatiu + autoav. |
+| Reflexió metacognitiva | | | | ✓ | Escala d'autoavaluació |
 Projecte: «Contaminació de l'aigua: causes i solucions» &nbsp;|&nbsp; Grup: 3r ESO B &nbsp;|&nbsp; Docent: Sra. García
 Observació de disseny: el criteri «Reflexió metacognitiva» només té una evidència. Si és prioritari, cal afegir un segon moment d'autoavaluació a mig projecte.
 El mapa d'evidències es construeix durant la planificació, no al final: dissenyar-lo abans permet redistribuir criteris amb poques evidències abans de començar a avaluar.
@@ -5699,31 +4524,17 @@ No substitueix una rúbrica ni demostra per si sola l'aprenentatge, però ajuda 
 **Exemple:**
 
 Declaració d'ús d'IA i fonts que acompanya un assaig d'Història a 1r de Batxillerat. L'alumne explica quins suports externs ha utilitzat, amb quina finalitat i quina part del treball és decisió pròpia.
-|
-| Fonts consultades
-| Font
-| Tipus
-| Ús al treball
-| Judt, T. (2006). Postguerra: una història d'Europa des de 1945. Taurus.
-| Llibre acadèmic
-| Base dels arguments del segon i tercer paràgraf. Cita directa a la p. 3.
-| Wikipedia — «Pla Marshall»
-| Enciclopèdia digital
-| Només per orientar-me a l'inici. No cito dades de la Wikipedia a l'assaig.
-| Documental: The Cold War, CNN (1998)
-| Audiovisual
-| Em va donar el context per a la introducció. No el cito directament.
-|
-| Eines d'IA utilitzades
-| Eina
-| Per a què la vaig usar
-| Què vaig canviar o decidir jo
-| ChatGPT (GPT-4)
-| Vaig demanar que m'expliqués la diferència entre el Pla Marshall i la Doctrina Truman per entendre-ho millor.
-| No vaig copiar cap frase. Vaig usar l'explicació per entendre el tema i després vaig escriure amb les meves pròpies paraules.
-| Corrector ortogràfic del Word
-| Corregir errors tipogràfics.
-| Vaig acceptar o rebutjar cada suggeriment manualment.
+| Fonts consultades |
+| --- |
+| Font | Tipus | Ús al treball |
+| Judt, T. (2006). Postguerra: una història d'Europa des de 1945. Taurus. | Llibre acadèmic | Base dels arguments del segon i tercer paràgraf. Cita directa a la p. 3. |
+| Wikipedia — «Pla Marshall» | Enciclopèdia digital | Només per orientar-me a l'inici. No cito dades de la Wikipedia a l'assaig. |
+| Documental: The Cold War, CNN (1998) | Audiovisual | Em va donar el context per a la introducció. No el cito directament. |
+| Eines d'IA utilitzades |
+| --- |
+| Eina | Per a què la vaig usar | Què vaig canviar o decidir jo |
+| ChatGPT (GPT-4) | Vaig demanar que m'expliqués la diferència entre el Pla Marshall i la Doctrina Truman per entendre-ho millor. | No vaig copiar cap frase. Vaig usar l'explicació per entendre el tema i després vaig escriure amb les meves pròpies paraules. |
+| Corrector ortogràfic del Word | Corregir errors tipogràfics. | Vaig acceptar o rebutjar cada suggeriment manualment. |
 Declaració de l'alumne: «L'anàlisi, l'estructura de l'argument i les conclusions són decisions meves. La IA em va ajudar a comprendre el tema, no a escriure l'assaig. Les fonts utilitzades estan citades correctament.»
 Alumne: Pol G. &nbsp;|&nbsp; Treball: «El Pla Marshall i la reconstrucció d'Europa» &nbsp;|&nbsp; Data: 18/04
 La declaració no penalitza l'ús de la IA: reconeix que hi ha usos legítims (comprensió, correcció) i d'altres que comprometen l'autoria. El seu valor formatiu és en la reflexió que exigeix a l'alumne sobre el que ha estat realment seu.
@@ -5756,37 +4567,12 @@ El seu valor és assegurar la validesa de contingut i l’equilibri de la prova:
 **Exemple:**
 
 Taula d'especificacions dissenyada abans de redactar un examen d'Història a 3r d'ESO. Creua els continguts amb els nivells cognitius de la taxonomia de Bloom i assigna el nombre d'ítems i el pes a cada cel·la, garantint que la prova sigui equilibrada i representativa.
-|
-| Contingut / Unitat
-| Recordarítems / pts
-| Comprendreítems / pts
-| Aplicarítems / pts
-| Analitzarítems / pts
-| Totalítems / pts
-| La Revolució Industrial: causes i fases
-| 2 / 1
-| 1 / 1
-| —
-| 1 / 2
-| 4 / 4
-| Canvis socials: classes socials i condicions laborals
-| 1 / 0,5
-| 2 / 1
-| 1 / 1,5
-| —
-| 4 / 3
-| Imperialisme i repartiment colonial d'Àfrica
-| 1 / 0,5
-| 1 / 1
-| —
-| 1 / 2
-| 3 / 3,5
-| Total
-| 4 / 2
-| 4 / 3
-| 1 / 1,5
-| 2 / 4
-| 11 / 10,5*
+| Contingut / Unitat | Recordarítems / pts | Comprendreítems / pts | Aplicarítems / pts | Analitzarítems / pts | Totalítems / pts |
+| --- | --- | --- | --- | --- | --- |
+| La Revolució Industrial: causes i fases | 2 / 1 | 1 / 1 | — | 1 / 2 | 4 / 4 |
+| Canvis socials: classes socials i condicions laborals | 1 / 0,5 | 2 / 1 | 1 / 1,5 | — | 4 / 3 |
+| Imperialisme i repartiment colonial d'Àfrica | 1 / 0,5 | 1 / 1 | — | 1 / 2 | 3 / 3,5 |
+| Total | 4 / 2 | 4 / 3 | 1 / 1,5 | 2 / 4 | 11 / 10,5* |
 Examen: Història del món contemporani — Bloc 2 &nbsp;|&nbsp; Grup: 3r ESO A &nbsp;|&nbsp; Docent: Sr. Martínez &nbsp;|&nbsp; Data prevista: 15/03
 * Total 10,5 pts; s'arrodoneix a 10 descartant la pregunta de menor pes si l'alumne supera el màxim.
 La taula d'especificacions s'elabora abans d'escriure els ítems: garanteix que l'examen sigui representatiu dels continguts i que els nivells cognitius estiguin equilibrats segons els objectius de la unitat.
@@ -5819,19 +4605,11 @@ El seu valor és que és ràpida de dissenyar, no encasella l’alumnat en nivel
 **Exemple:**
 
 Rúbrica de punt únic per avaluar un assaig argumentatiu a 4t d'ESO. La columna central descriu el nivell esperat (plantilla); el docent escriu a les columnes laterals quins aspectes concrets del treball estan per sota o per sobre d'aquest estàndard.
-|
-| ▼ Per sota de l'estàndardQuins aspectes no arriben
-| Estàndard esperat
-| ▲ Per sobre de l'estàndardQuins aspectes superen
-| L'evidència del segon argument és molt genèrica: «alguns estudis diuen que…» sense citar cap font concreta.
-| Argumentació: la tesi està clarament formulada i cada argument es sosté amb almenys una evidència concreta i citada.
-| El primer argument cita un informe de l'OMS amb any i dada específica: evidència d'alta qualitat.
-| La conclusió repeteix la introducció gairebé literalment sense afegir síntesi ni obertura.
-| Estructura: el text té introducció, desenvolupament i conclusió diferenciats, amb una conclusió que sintetitza i obre a noves reflexions.
-|
-|
-| Correcció lingüística: el text no presenta errors ortogràfics ni de puntuació que dificultin la comprensió, i el vocabulari és apropiat al registre acadèmic.
-| Fa servir vocabulari especialitzat amb precisió («fal·làcia ad hominem», «argument deductiu»). Va més enllà del nivell del curs.
+| ▼ Per sota de l'estàndardQuins aspectes no arriben | Estàndard esperat | ▲ Per sobre de l'estàndardQuins aspectes superen |
+| --- | --- | --- |
+| L'evidència del segon argument és molt genèrica: «alguns estudis diuen que…» sense citar cap font concreta. | Argumentació: la tesi està clarament formulada i cada argument es sosté amb almenys una evidència concreta i citada. | El primer argument cita un informe de l'OMS amb any i dada específica: evidència d'alta qualitat. |
+| La conclusió repeteix la introducció gairebé literalment sense afegir síntesi ni obertura. | Estructura: el text té introducció, desenvolupament i conclusió diferenciats, amb una conclusió que sintetitza i obre a noves reflexions. | |
+| | Correcció lingüística: el text no presenta errors ortogràfics ni de puntuació que dificultin la comprensió, i el vocabulari és apropiat al registre acadèmic. | Fa servir vocabulari especialitzat amb precisió («fal·làcia ad hominem», «argument deductiu»). Va més enllà del nivell del curs. |
 Alumne: Aina F. &nbsp;|&nbsp; Assaig: «Ha de ser gratuïta l'educació universitària?» &nbsp;|&nbsp; Data: 11/05
 La rúbrica de punt únic força una retroalimentació específica: el docent no pot limitar-se a marcar un nivell, sinó que ha d'escriure què fa que el treball estigui per sobre o per sota de l'estàndard en cada criteri.
 
@@ -5863,25 +4641,12 @@ Com usar-la: abans d’una sessió de revisió entre iguals o de comentari d’u
 **Exemple:**
 
 Escala de retroalimentació aplicada a la revisió d'un assaig sobre el canvi climàtic a 4t d'ESO. El docent segueix els quatre graons en ordre.
-|
-| Graó
-| Comentari del docent
-|
-1. Aclarir
-Preguntar abans de valorar
-| «Quan dius que "els països rics en tenen la culpa", et refereixes a la seva petjada històrica d'emissions o a la política actual?»
-|
-2. Valorar
-Assenyalar el que funciona bé
-| «L'estructura és sòlida i la tesi s'entén des del primer paràgraf. Les dades sobre emissions estan ben seleccionades i donen pes al teu argument.»
-|
-3. Plantejar inquietuds
-Identificar el que genera dubtes
-| «Em preocupa que la conclusió no respongui als contraarguments que presentes al cos. El lector pot quedar amb la sensació que hi ha preguntes sense resoldre.»
-|
-4. Suggerir
-Proposar millores concretes
-| «Et proposo afegir un paràgraf abans de la conclusió on refutis específicament l'argument que els països en desenvolupament també han de reduir emissions ja. Així el text queda tancat.»
+| Graó | Comentari del docent |
+| --- | --- |
+| 1. Aclarir Preguntar abans de valorar | «Quan dius que "els països rics en tenen la culpa", et refereixes a la seva petjada històrica d'emissions o a la política actual?» |
+| 2. Valorar Assenyalar el que funciona bé | «L'estructura és sòlida i la tesi s'entén des del primer paràgraf. Les dades sobre emissions estan ben seleccionades i donen pes al teu argument.» |
+| 3. Plantejar inquietuds Identificar el que genera dubtes | «Em preocupa que la conclusió no respongui als contraarguments que presentes al cos. El lector pot quedar amb la sensació que hi ha preguntes sense resoldre.» |
+| 4. Suggerir Proposar millores concretes | «Et proposo afegir un paràgraf abans de la conclusió on refutis específicament l'argument que els països en desenvolupament també han de reduir emissions ja. Així el text queda tancat.» |
 L'escala assegura que el docent comprèn el text abans de valorar-lo, reconeix el positiu, identifica el problema amb precisió i ofereix una proposta d'acció concreta.
 
 **Tècniques actives que l'utilitzen:** Pensament de disseny (Design Thinking), Revisió entre iguals (peer review), Dues estrelles i un desig
@@ -5912,34 +4677,16 @@ El seu valor és desenvolupar l’autonomia i l’autoregulació: trasllada a l�
 **Exemple:**
 
 Base d'orientació per guiar l'alumnat en l'elaboració d'un text argumentatiu a 4t d'ESO. L'alumne marca cada pas a mesura que el completa.
-|
-| ✓
-| Pas
-| Què he de fer?
-| ✓
-| 1. Definir la posició
-| Escric clarament la meva opinió sobre el tema en una frase.
-| ✓
-| 2. Buscar arguments
-| Anoto almenys tres raons que donen suport a la meva posició.
-| ✓
-| 3. Buscar contraarguments
-| Identifico les raons contràries i penso com rebatre-les.
-| ✓
-| 4. Redactar la introducció
-| Presento el tema i exposo la meva tesi de manera atractiva.
-| ✓
-| 5. Desenvolupar els arguments
-| Explico cada argument amb dades, exemples o citacions.
-|
-| 6. Rebatre els contraarguments
-| Esmento la postura contrària i explico per què no la comparteixo.
-|
-| 7. Escriure la conclusió
-| Resumeixo la meva posició i faig una crida a la reflexió o a l'acció.
-|
-| 8. Revisar el text
-| Comprovo ortografia, coherència, connectors i extensió.
+| ✓ | Pas | Què he de fer? |
+| --- | --- | --- |
+| ✓ | 1. Definir la posició | Escric clarament la meva opinió sobre el tema en una frase. |
+| ✓ | 2. Buscar arguments | Anoto almenys tres raons que donen suport a la meva posició. |
+| ✓ | 3. Buscar contraarguments | Identifico les raons contràries i penso com rebatre-les. |
+| ✓ | 4. Redactar la introducció | Presento el tema i exposo la meva tesi de manera atractiva. |
+| ✓ | 5. Desenvolupar els arguments | Explico cada argument amb dades, exemples o citacions. |
+| | 6. Rebatre els contraarguments | Esmento la postura contrària i explico per què no la comparteixo. |
+| | 7. Escriure la conclusió | Resumeixo la meva posició i faig una crida a la reflexió o a l'acció. |
+| | 8. Revisar el text | Comprovo ortografia, coherència, connectors i extensió. |
 L'alumne ha completat els passos 1–5 i encara li falten la refutació, la conclusió i la revisió.
 La base li permet saber exactament en quin punt del procés es troba.
 

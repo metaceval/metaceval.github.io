@@ -44,27 +44,12 @@ Es especialmente útil en actividades prácticas, debates, exposiciones, tallere
 **Ejemplo:**
 
 Observación sistemática durante una práctica de laboratorio de Ciencias en 2.º de ESO. El docente planifica de antemano qué observar, en qué momentos y con qué instrumento, y registra evidencias mientras los grupos trabajan.
-|
-| Momento
-| Acción del docente
-| Instrumento de registro
-| Qué revela / Decisión
-| Antes: preparación
-| Define 3 focos: planificación inicial, registro de datos y análisis oral al cierre. Prepara una guía de observación con indicadores para cada foco.
-| Guía de observación
-| Fija el foco antes de entrar al aula; evita observar todo y no ver nada.
-| Inicio (0–5 min)
-| Observa qué grupos leen el guion antes de actuar y cuáles empiezan sin planificar. Anota en la casilla «Planificación inicial» de la guía.
-| Guía de observación
-| Grupo 3 no lee el guion → intervenir antes de que monten el material incorrectamente.
-| Desarrollo (5–30 min)
-| Rota por los grupos cada 7 minutos. En cada ronda registra si anotan datos en tiempo real y con las unidades correctas.
-| Guía de observación + notas de campo
-| Grupo 2: solo un miembro anota → señalar al resto que tienen fichas individuales.
-| Cierre (últimos 10 min)
-| Escucha la puesta en común de cada grupo y registra si relacionan los resultados con la hipótesis o si solo describen lo ocurrido.
-| Guía de observación
-| Grupos 2 y 3 describen sin interpretar → preparar andamiaje para la próxima práctica.
+| Momento | Acción del docente | Instrumento de registro | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Antes: preparación | Define 3 focos: planificación inicial, registro de datos y análisis oral al cierre. Prepara una guía de observación con indicadores para cada foco. | Guía de observación | Fija el foco antes de entrar al aula; evita observar todo y no ver nada. |
+| Inicio (0–5 min) | Observa qué grupos leen el guion antes de actuar y cuáles empiezan sin planificar. Anota en la casilla «Planificación inicial» de la guía. | Guía de observación | Grupo 3 no lee el guion → intervenir antes de que monten el material incorrectamente. |
+| Desarrollo (5–30 min) | Rota por los grupos cada 7 minutos. En cada ronda registra si anotan datos en tiempo real y con las unidades correctas. | Guía de observación + notas de campo | Grupo 2: solo un miembro anota → señalar al resto que tienen fichas individuales. |
+| Cierre (últimos 10 min) | Escucha la puesta en común de cada grupo y registra si relacionan los resultados con la hipótesis o si solo describen lo ocurrido. | Guía de observación | Grupos 2 y 3 describen sin interpretar → preparar andamiaje para la próxima práctica. |
 Actividad: Experimento de densidad de líquidos &nbsp;|&nbsp; Clase: 2.º ESO B &nbsp;|&nbsp; Fecha: 19/02
 La clave de la observación sistemática es la planificación previa: definir qué se mira (no todo) y cuándo, para que los datos recogidos sean comparables entre grupos y sesiones.
 
@@ -100,27 +85,12 @@ No sustituye a la observación sistemática, sino que la complementa aportando e
 **Ejemplo:**
 
 Observación incidental durante una sesión de trabajo cooperativo en Matemáticas en 3.º de ESO. El docente no busca nada concreto: registra lo que emerge de forma espontánea y significativa mientras circula por el aula.
-|
-| Hora
-| Hecho observado (espontáneo)
-| Instrumento
-| Decisión o seguimiento
-| 9:08
-| Nadia resuelve el problema 3 por un método distinto al enseñado (proporciones en lugar de ecuaciones). Resultado correcto.
-| Nota de campo
-| Pedirle que explique su método al resto en la puesta en común. Anotar para valorar pensamiento flexible.
-| 9:22
-| Iván lleva 14 minutos sin escribir. Al preguntarle dice «no sé por dónde empezar». No es actitud: es bloqueo real.
-| Registro anecdótico
-| Sentarme con él 3 minutos y darle el primer paso. Revisar si necesita apoyo individualizado.
-| 9:35
-| Grupo 1 discute en voz alta si el resultado es correcto. Sin llegar a un acuerdo, uno decide por los demás sin consenso.
-| Nota de campo
-| Hablar con el grupo sobre toma de decisiones en la siguiente sesión de cooperativo.
-| 9:41
-| En la puesta en común solo 3 alumnos levantan la mano voluntariamente. El resto espera a ser llamado.
-| Nota de campo
-| Probar la semana que viene con pizarras individuales para que todos respondan a la vez.
+| Hora | Hecho observado (espontáneo) | Instrumento | Decisión o seguimiento |
+| --- | --- | --- | --- |
+| 9:08 | Nadia resuelve el problema 3 por un método distinto al enseñado (proporciones en lugar de ecuaciones). Resultado correcto. | Nota de campo | Pedirle que explique su método al resto en la puesta en común. Anotar para valorar pensamiento flexible. |
+| 9:22 | Iván lleva 14 minutos sin escribir. Al preguntarle dice «no sé por dónde empezar». No es actitud: es bloqueo real. | Registro anecdótico | Sentarme con él 3 minutos y darle el primer paso. Revisar si necesita apoyo individualizado. |
+| 9:35 | Grupo 1 discute en voz alta si el resultado es correcto. Sin llegar a un acuerdo, uno decide por los demás sin consenso. | Nota de campo | Hablar con el grupo sobre toma de decisiones en la siguiente sesión de cooperativo. |
+| 9:41 | En la puesta en común solo 3 alumnos levantan la mano voluntariamente. El resto espera a ser llamado. | Nota de campo | Probar la semana que viene con pizarras individuales para que todos respondan a la vez. |
 Clase: 3.º ESO A &nbsp;|&nbsp; Sesión: Resolución de ecuaciones de 2.º grado &nbsp;|&nbsp; Fecha: 28/01
 La observación incidental no se planifica: requiere que el docente circule, esté presente y tenga un soporte rápido de registro. Su valor está en capturar lo que ningún instrumento formal habría recogido.
 
@@ -156,27 +126,12 @@ Cuando el producto final no refleja todo el aprendizaje (porque el proceso fue c
 **Ejemplo:**
 
 Análisis de producciones aplicado a la revisión de los informes de laboratorio de un grupo de 1.º de ESO. El docente evalúa el producto entregado usando instrumentos de corrección y anota observaciones para la retroalimentación.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Antes: diseño del análisis
-| Decide qué criterios evaluará en el informe (procedimiento, datos, análisis, conclusión) y prepara la plantilla de corrección con puntuaciones máximas.
-| Plantilla de corrección
-| Clarifica qué se valora antes de leer los trabajos; evita criterios improvisados.
-| Lectura global
-| Lee el informe completo sin puntuar para hacerse una impresión de conjunto y detectar si la conclusión responde a la hipótesis.
-| —
-| En 6 de 8 informes la conclusión no responde a la pregunta inicial → tendencia de grupo que habrá que trabajar.
-| Corrección criterio a criterio
-| Anota la puntuación obtenida en cada criterio y escribe un comentario específico en los puntos con menor puntuación.
-| Plantilla de corrección + ficha de retroalimentación
-| Patrón detectado: recogida de datos excelente, análisis e interpretación muy débil.
-| Devolución
-| Devuelve el informe con la ficha de retroalimentación adjunta y pide que el alumno escriba un compromiso de mejora antes de la siguiente práctica.
-| Ficha de retroalimentación + registro de compromisos
-| Cierra el ciclo formativo: la evaluación se convierte en acción de mejora.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Antes: diseño del análisis | Decide qué criterios evaluará en el informe (procedimiento, datos, análisis, conclusión) y prepara la plantilla de corrección con puntuaciones máximas. | Plantilla de corrección | Clarifica qué se valora antes de leer los trabajos; evita criterios improvisados. |
+| Lectura global | Lee el informe completo sin puntuar para hacerse una impresión de conjunto y detectar si la conclusión responde a la hipótesis. | — | En 6 de 8 informes la conclusión no responde a la pregunta inicial → tendencia de grupo que habrá que trabajar. |
+| Corrección criterio a criterio | Anota la puntuación obtenida en cada criterio y escribe un comentario específico en los puntos con menor puntuación. | Plantilla de corrección + ficha de retroalimentación | Patrón detectado: recogida de datos excelente, análisis e interpretación muy débil. |
+| Devolución | Devuelve el informe con la ficha de retroalimentación adjunta y pide que el alumno escriba un compromiso de mejora antes de la siguiente práctica. | Ficha de retroalimentación + registro de compromisos | Cierra el ciclo formativo: la evaluación se convierte en acción de mejora. |
 Producción: Informe de laboratorio — Práctica de cromatografía &nbsp;|&nbsp; Clase: 1.º ESO B &nbsp;|&nbsp; Fecha: 12/11
 El análisis de producciones es la técnica más habitual, pero su valor formativo depende de cómo se usa: puntuar sin explicar qué falla es solo calificación; puntuar y señalar el patrón es evaluación.
 
@@ -212,27 +167,12 @@ Son útiles para acreditar logros y para comparar resultados, pero no deben ser 
 **Ejemplo:**
 
 Prueba específica diseñada para evaluar los aprendizajes de una unidad de Historia en 3.º de ESO. Incluye los momentos antes, durante y después de la prueba, con las decisiones docentes en cada fase.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Diseño (antes)
-| Elabora la tabla de especificaciones: cruza los contenidos de la unidad con los niveles cognitivos de Bloom (recordar, comprender, aplicar, analizar) y asigna ítems y puntos a cada celda.
-| Tabla de especificaciones
-| Garantiza que la prueba sea representativa y que no se evalúe solo memorización.
-| Comunicación (antes)
-| Comparte la tabla de especificaciones y el baremo con el alumnado una semana antes. Responde dudas sobre qué se pedirá en cada tipo de pregunta.
-| Baremo
-| El alumnado puede preparar con criterio; reduce la ansiedad y las reclamaciones posteriores.
-| Realización (durante)
-| Observa quién termina muy pronto (posible superficialidad) y quién no llega al tiempo (posible dificultad). Anota en notas de campo sin interrumpir.
-| Notas de campo
-| 4 alumnos no llegan a la última pregunta → revisar si la prueba es demasiado larga.
-| Corrección (después)
-| Corrige con la guía de corrección. Anota los errores más frecuentes por pregunta para identificar qué conceptos no se han consolidado en el grupo.
-| Guía de corrección + plantilla de corrección
-| El 70% falla la pregunta de análisis → dedicar 20 min de la siguiente sesión a trabajar ese nivel cognitivo.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Diseño (antes) | Elabora la tabla de especificaciones: cruza los contenidos de la unidad con los niveles cognitivos de Bloom (recordar, comprender, aplicar, analizar) y asigna ítems y puntos a cada celda. | Tabla de especificaciones | Garantiza que la prueba sea representativa y que no se evalúe solo memorización. |
+| Comunicación (antes) | Comparte la tabla de especificaciones y el baremo con el alumnado una semana antes. Responde dudas sobre qué se pedirá en cada tipo de pregunta. | Baremo | El alumnado puede preparar con criterio; reduce la ansiedad y las reclamaciones posteriores. |
+| Realización (durante) | Observa quién termina muy pronto (posible superficialidad) y quién no llega al tiempo (posible dificultad). Anota en notas de campo sin interrumpir. | Notas de campo | 4 alumnos no llegan a la última pregunta → revisar si la prueba es demasiado larga. |
+| Corrección (después) | Corrige con la guía de corrección. Anota los errores más frecuentes por pregunta para identificar qué conceptos no se han consolidado en el grupo. | Guía de corrección + plantilla de corrección | El 70% falla la pregunta de análisis → dedicar 20 min de la siguiente sesión a trabajar ese nivel cognitivo. |
 Prueba: Examen de la Revolución Industrial &nbsp;|&nbsp; Clase: 3.º ESO A &nbsp;|&nbsp; Fecha: 15/03
 La prueba específica no empieza cuando el alumno coge el bolígrafo: su valor formativo se construye desde el diseño y se extiende hasta el análisis de los errores colectivos.
 
@@ -268,27 +208,12 @@ Permiten valorar comprensión profunda, argumentación, capacidad de síntesis, 
 **Ejemplo:**
 
 Intercambios orales durante un debate dirigido de Filosofía en 1.º de Bachillerato. El docente obtiene evidencias de razonamiento y comprensión mediante preguntas y la gestión del debate, sin necesitar una prueba escrita.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Apertura
-| Lanza una pregunta provocadora: «¿Es posible actuar de forma completamente libre?» Pide 2 min de reflexión individual escrita antes de abrir el debate.
-| Notas de campo
-| La escritura previa activa el pensamiento de todos, no solo de los más seguros.
-| Debate (15 min)
-| Asigna el rol de «abogado del diablo» a tres alumnos que normalmente no participan. Registra quién interviene, tipo de aportación (argumento, pregunta, contraargumento) y calidad.
-| Registro de participación
-| Los alumnos con rol asignado argumentan mejor de lo esperado → ampliar la práctica de roles.
-| Pregunta de sondeo
-| Interrumpe el debate y hace una pregunta de verificación: «Carla, ¿puedes reformular lo que ha dicho Pablo con tus propias palabras?» Evalúa la escucha activa.
-| Observación directa
-| Carla reformula correctamente → evidencia de comprensión oral real, no solo del que habla.
-| Cierre
-| Pide a cada alumno escribir en 3 min «cuál es el argumento más sólido que se ha dado hoy y por qué». Recoge las fichas.
-| Billete de salida escrito
-| Evidencia individual escrita de la capacidad de síntesis; complementa la observación del debate.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Apertura | Lanza una pregunta provocadora: «¿Es posible actuar de forma completamente libre?» Pide 2 min de reflexión individual escrita antes de abrir el debate. | Notas de campo | La escritura previa activa el pensamiento de todos, no solo de los más seguros. |
+| Debate (15 min) | Asigna el rol de «abogado del diablo» a tres alumnos que normalmente no participan. Registra quién interviene, tipo de aportación (argumento, pregunta, contraargumento) y calidad. | Registro de participación | Los alumnos con rol asignado argumentan mejor de lo esperado → ampliar la práctica de roles. |
+| Pregunta de sondeo | Interrumpe el debate y hace una pregunta de verificación: «Carla, ¿puedes reformular lo que ha dicho Pablo con tus propias palabras?» Evalúa la escucha activa. | Observación directa | Carla reformula correctamente → evidencia de comprensión oral real, no solo del que habla. |
+| Cierre | Pide a cada alumno escribir en 3 min «cuál es el argumento más sólido que se ha dado hoy y por qué». Recoge las fichas. | Billete de salida escrito | Evidencia individual escrita de la capacidad de síntesis; complementa la observación del debate. |
 Debate: «¿Es posible la libertad?» (Kant y el determinismo) &nbsp;|&nbsp; Clase: 1.º Bach. B &nbsp;|&nbsp; Fecha: 15/05
 Los intercambios orales revelan razonamientos que los trabajos escritos no siempre muestran; combinarlos con un cierre escrito da al docente evidencias individuales de todos los alumnos, no solo de quienes hablan más.
 
@@ -322,23 +247,11 @@ Es especialmente útil en evaluación diagnóstica y formativa, porque proporcio
 **Ejemplo:**
 
 Sondeo y cuestionamiento durante una clase de Ciencias Naturales en 2.º de ESO. El docente lanza preguntas breves durante la explicación para comprobar la comprensión en tiempo real y ajustar el ritmo.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Inicio (5 min)
-| Pregunta al azar a tres alumnos: «¿Qué diferencia hay entre célula procariota y eucariota?» Escucha las respuestas sin corrección inmediata.
-| Cuestionamiento oral
-| Solo uno de tres responde correctamente → el concepto no está asentado; revisar antes de avanzar.
-| Durante explicación
-| Lanza «pulgar arriba/abajo/horizontal» para verificar si el alumnado sigue el razonamiento en los pasos clave. Pausa si detecta más de un tercio en horizontal.
-| Sondeo gestual rápido
-| El 40 % indica duda en el paso de la mitosis → reformula con un diagrama en la pizarra.
-| Cierre (3 min)
-| Plantea un minitest oral de dos preguntas (pizarrita individual o respuesta en voz alta por fila). Anota en su lista quién responde y con qué nivel de detalle.
-| Lista de seguimiento
-| Identifica cuatro alumnos que necesitan refuerzo antes de la práctica de laboratorio del día siguiente.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Inicio (5 min) | Pregunta al azar a tres alumnos: «¿Qué diferencia hay entre célula procariota y eucariota?» Escucha las respuestas sin corrección inmediata. | Cuestionamiento oral | Solo uno de tres responde correctamente → el concepto no está asentado; revisar antes de avanzar. |
+| Durante explicación | Lanza «pulgar arriba/abajo/horizontal» para verificar si el alumnado sigue el razonamiento en los pasos clave. Pausa si detecta más de un tercio en horizontal. | Sondeo gestual rápido | El 40 % indica duda en el paso de la mitosis → reformula con un diagrama en la pizarra. |
+| Cierre (3 min) | Plantea un minitest oral de dos preguntas (pizarrita individual o respuesta en voz alta por fila). Anota en su lista quién responde y con qué nivel de detalle. | Lista de seguimiento | Identifica cuatro alumnos que necesitan refuerzo antes de la práctica de laboratorio del día siguiente. |
 Unidad: La célula — división celular &nbsp;|&nbsp; Clase: 2.º ESO C &nbsp;|&nbsp; Fecha: 21/03
 El sondeo sistemático convierte cada pregunta oral en una micro-evidencia formativa; acumuladas a lo largo de varias sesiones permiten detectar lagunas conceptuales antes de que se conviertan en errores en la prueba.
 
@@ -372,23 +285,11 @@ Es especialmente útil en proyectos, portfolios, trabajos cooperativos y tareas 
 **Ejemplo:**
 
 Análisis de procesos y reflexiones en un proyecto de Lengua Castellana en 3.º de ESO. El docente revisa los borradores, anotaciones y reflexiones del alumnado para evaluar el proceso de escritura, no solo el producto final.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Semana 1 — planificación
-| Recoge el mapa de ideas inicial y el esquema previo de cada alumno. Anota si la estructura responde al género textual pedido (artículo de opinión).
-| Revisión de borradores
-| Varios alumnos no diferencian tesis de argumento → sesión de modelado antes del borrador 1.
-| Semana 2 — borrador
-| Lee el borrador con una guía de observación (estructura, cohesión, argumento) y deja comentarios escritos. No pone nota.
-| Guía de observación + comentarios
-| La cohesión es el punto débil generalizado → proporciona una lista de conectores para la revisión.
-| Semana 3 — reflexión
-| Pide una ficha de reflexión: «¿Qué cambié del borrador al texto final y por qué?» Revisa las fichas junto al texto definitivo.
-| Ficha de reflexión
-| Alumnos que reflexionan con detalle muestran mayor mejora textual → factor metacognitivo real.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Semana 1 — planificación | Recoge el mapa de ideas inicial y el esquema previo de cada alumno. Anota si la estructura responde al género textual pedido (artículo de opinión). | Revisión de borradores | Varios alumnos no diferencian tesis de argumento → sesión de modelado antes del borrador 1. |
+| Semana 2 — borrador | Lee el borrador con una guía de observación (estructura, cohesión, argumento) y deja comentarios escritos. No pone nota. | Guía de observación + comentarios | La cohesión es el punto débil generalizado → proporciona una lista de conectores para la revisión. |
+| Semana 3 — reflexión | Pide una ficha de reflexión: «¿Qué cambié del borrador al texto final y por qué?» Revisa las fichas junto al texto definitivo. | Ficha de reflexión | Alumnos que reflexionan con detalle muestran mayor mejora textual → factor metacognitivo real. |
 Proyecto: Artículo de opinión sobre el uso de redes sociales &nbsp;|&nbsp; Clase: 3.º ESO A &nbsp;|&nbsp; Fecha: mar.–abr.
 Analizar el proceso (mapas, borradores, reflexiones) en lugar de solo el producto final permite valorar el aprendizaje real y proporcionar retroalimentación cuando todavía puede modificar el resultado.
 
@@ -422,23 +323,11 @@ Es útil para obtener evidencias profundas, pero debe planificarse para evitar i
 **Ejemplo:**
 
 Entrevista evaluativa individual en Matemáticas de 4.º de ESO. El docente conversa 5-7 minutos con cada alumno tras la entrega de un problema resuelto para identificar el razonamiento detrás de la solución escrita.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Apertura
-| «Explícame cómo llegaste a este resultado. ¿Qué estrategia usaste?» Deja hablar sin interrumpir; toma notas de los términos que usa y los que evita.
-| Guía de entrevista
-| El alumno usa procedimiento correcto pero no sabe por qué funciona → comprensión superficial detectada.
-| Profundización
-| Plantea una variación del problema: «¿Y si el ángulo fuera obtuso? ¿Cambiaría tu estrategia?» Observa si transfiere el conocimiento a un caso nuevo.
-| Pregunta de transferencia
-| No transfiere → aprende procedimientos de forma mecánica; necesita ejemplos variados en el refuerzo.
-| Cierre
-| Resume oralmente lo que ha observado y pide al alumno que valore su propio nivel de comprensión (1-4). Anota la valoración en su cuaderno de seguimiento.
-| Cuaderno de seguimiento
-| La autovaloración coincide con la observación del docente → calibración metacognitiva positiva.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Apertura | «Explícame cómo llegaste a este resultado. ¿Qué estrategia usaste?» Deja hablar sin interrumpir; toma notas de los términos que usa y los que evita. | Guía de entrevista | El alumno usa procedimiento correcto pero no sabe por qué funciona → comprensión superficial detectada. |
+| Profundización | Plantea una variación del problema: «¿Y si el ángulo fuera obtuso? ¿Cambiaría tu estrategia?» Observa si transfiere el conocimiento a un caso nuevo. | Pregunta de transferencia | No transfiere → aprende procedimientos de forma mecánica; necesita ejemplos variados en el refuerzo. |
+| Cierre | Resume oralmente lo que ha observado y pide al alumno que valore su propio nivel de comprensión (1-4). Anota la valoración en su cuaderno de seguimiento. | Cuaderno de seguimiento | La autovaloración coincide con la observación del docente → calibración metacognitiva positiva. |
 Alumno: Marc G. &nbsp;|&nbsp; Tarea: Resolución de triángulos (trigonometría) &nbsp;|&nbsp; Fecha: 10/04
 La entrevista evaluativa detecta la diferencia entre saber hacer y comprender por qué, algo que la prueba escrita raramente revela; es especialmente valiosa antes de una unidad que requiere aplicar ese conocimiento en nuevos contextos.
 
@@ -472,23 +361,11 @@ Son útiles por su rapidez y comparabilidad, pero no deben sustituir a evidencia
 **Ejemplo:**
 
 Encuesta y cuestionario aplicados en Ciencias Sociales de 1.º de Bachillerato. El docente usa un cuestionario diagnóstico al inicio de la unidad y uno de satisfacción al final para orientar la enseñanza y mejorar el diseño futuro.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Inicio de unidad
-| Distribuye un cuestionario de 8 ítems de opción múltiple sobre conceptos previos (economía globalizada, bloques comerciales). Los resultados se analizan de forma agregada, sin nota.
-| Cuestionario diagnóstico
-| El 65 % confunde balanza comercial con balanza de pagos → dedica una sesión extra a este punto antes de continuar.
-| Mitad de unidad
-| Formulario de 3 preguntas abiertas: ¿qué entiendo bien?, ¿qué me cuesta?, ¿qué tipo de actividad me ayudaría más? Anónimo y en 5 min.
-| Encuesta de proceso
-| Mayoría pide más ejemplos con datos reales → incorpora noticias económicas actuales en las siguientes sesiones.
-| Fin de unidad
-| Cuestionario de satisfacción (escala Likert 1-4) sobre claridad, utilidad y ritmo. Incluye ítem de autoevaluación: «He alcanzado los objetivos de la unidad».
-| Encuesta de satisfacción
-| El ritmo puntúa bajo (media 1,9/4) → reajusta la temporalización en la programación del curso siguiente.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Inicio de unidad | Distribuye un cuestionario de 8 ítems de opción múltiple sobre conceptos previos (economía globalizada, bloques comerciales). Los resultados se analizan de forma agregada, sin nota. | Cuestionario diagnóstico | El 65 % confunde balanza comercial con balanza de pagos → dedica una sesión extra a este punto antes de continuar. |
+| Mitad de unidad | Formulario de 3 preguntas abiertas: ¿qué entiendo bien?, ¿qué me cuesta?, ¿qué tipo de actividad me ayudaría más? Anónimo y en 5 min. | Encuesta de proceso | Mayoría pide más ejemplos con datos reales → incorpora noticias económicas actuales en las siguientes sesiones. |
+| Fin de unidad | Cuestionario de satisfacción (escala Likert 1-4) sobre claridad, utilidad y ritmo. Incluye ítem de autoevaluación: «He alcanzado los objetivos de la unidad». | Encuesta de satisfacción | El ritmo puntúa bajo (media 1,9/4) → reajusta la temporalización en la programación del curso siguiente. |
 Unidad: Economía y globalización &nbsp;|&nbsp; Clase: 1.º Bach. A &nbsp;|&nbsp; Trimestre: 2.º
 Combinar cuestionario diagnóstico, encuesta de proceso y encuesta de satisfacción cierra el ciclo de evaluación formativa: se ajusta la enseñanza antes, durante y después de la unidad.
 
@@ -522,23 +399,11 @@ Es una técnica útil para evaluación continua y criterial, especialmente cuand
 **Ejemplo:**
 
 Análisis documental en un proyecto de Historia de 2.º de Bachillerato. El docente revisa portfolios, cuadernos y registros acumulados a lo largo del trimestre para emitir una valoración global fundamentada en evidencias.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Recogida de documentos
-| Solicita el portfolio del trimestre: cuaderno de clase, tres trabajos escritos y la ficha de reflexión final. Verifica que están todos los documentos antes de evaluarlos.
-| Lista de verificación
-| Dos alumnos entregan el portfolio incompleto → cita individual para revisar qué falta y acordar plazos.
-| Análisis de progreso
-| Compara el primer y el último trabajo escrito usando la misma rúbrica analítica. Anota los criterios en los que hay mejora clara y los que se mantienen igual.
-| Rúbrica analítica
-| El análisis de fuentes mejora significativamente; la argumentación escrita se mantiene débil → objetivo para el siguiente trimestre.
-| Valoración global
-| Cruza las evidencias del portfolio con las notas de campo tomadas en clase. Redacta un comentario de dos líneas por alumno que refleja el progreso observado en ambas fuentes.
-| Informe narrativo
-| La triangulación portfolio + observación directa es más fiable que cualquiera de las dos fuentes por separado.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Recogida de documentos | Solicita el portfolio del trimestre: cuaderno de clase, tres trabajos escritos y la ficha de reflexión final. Verifica que están todos los documentos antes de evaluarlos. | Lista de verificación | Dos alumnos entregan el portfolio incompleto → cita individual para revisar qué falta y acordar plazos. |
+| Análisis de progreso | Compara el primer y el último trabajo escrito usando la misma rúbrica analítica. Anota los criterios en los que hay mejora clara y los que se mantienen igual. | Rúbrica analítica | El análisis de fuentes mejora significativamente; la argumentación escrita se mantiene débil → objetivo para el siguiente trimestre. |
+| Valoración global | Cruza las evidencias del portfolio con las notas de campo tomadas en clase. Redacta un comentario de dos líneas por alumno que refleja el progreso observado en ambas fuentes. | Informe narrativo | La triangulación portfolio + observación directa es más fiable que cualquiera de las dos fuentes por separado. |
 Proyecto: Portfolio de Historia Contemporánea &nbsp;|&nbsp; Clase: 2.º Bach. B &nbsp;|&nbsp; Fecha: fin de 1.er trimestre
 El análisis documental permite evaluar el aprendizaje a lo largo del tiempo, no en un único momento; cruzar varios documentos de un mismo alumno da una imagen mucho más completa que un examen aislado.
 
@@ -572,23 +437,11 @@ Es especialmente útil en proyectos colaborativos y portfolios digitales.
 **Ejemplo:**
 
 Análisis de interacciones digitales en un proyecto colaborativo de Tecnología e Informática en 4.º de ESO. El docente examina el historial de edición del documento compartido y los comentarios del foro para evaluar la participación real de cada integrante.
-|
-| Momento
-| Acción del docente
-| Instrumento
-| Qué revela / Decisión
-| Durante el proyecto
-| Accede al historial de edición del Google Doc compartido. Comprueba quién ha editado, cuándo y qué secciones, para detectar si la carga de trabajo está repartida.
-| Historial de revisión
-| Un alumno concentra el 80 % de las ediciones → habla con el grupo para redistribuir responsabilidades antes del cierre.
-| Revisión de foro
-| Lee los mensajes del foro de clase (Classroom o Moodle). Evalúa la calidad de las aportaciones: ¿aportan ideas nuevas, cuestionan argumentos o solo confirman lo dicho?
-| Rúbrica de participación digital
-| La mayoría solo responde «de acuerdo» → introduce la norma de que cada mensaje debe añadir un argumento nuevo.
-| Cierre del proyecto
-| Exporta el resumen de actividad de la plataforma (número de accesos, aportes, comentarios). Lo cruza con la autoevaluación de cada alumno sobre su participación.
-| Datos de analítica + autoevaluación
-| Dos alumnos se sobrevaloran respecto a los datos → retroalimentación concreta con evidencias numéricas.
+| Momento | Acción del docente | Instrumento | Qué revela / Decisión |
+| --- | --- | --- | --- |
+| Durante el proyecto | Accede al historial de edición del Google Doc compartido. Comprueba quién ha editado, cuándo y qué secciones, para detectar si la carga de trabajo está repartida. | Historial de revisión | Un alumno concentra el 80 % de las ediciones → habla con el grupo para redistribuir responsabilidades antes del cierre. |
+| Revisión de foro | Lee los mensajes del foro de clase (Classroom o Moodle). Evalúa la calidad de las aportaciones: ¿aportan ideas nuevas, cuestionan argumentos o solo confirman lo dicho? | Rúbrica de participación digital | La mayoría solo responde «de acuerdo» → introduce la norma de que cada mensaje debe añadir un argumento nuevo. |
+| Cierre del proyecto | Exporta el resumen de actividad de la plataforma (número de accesos, aportes, comentarios). Lo cruza con la autoevaluación de cada alumno sobre su participación. | Datos de analítica + autoevaluación | Dos alumnos se sobrevaloran respecto a los datos → retroalimentación concreta con evidencias numéricas. |
 Proyecto: Diseño de una app de gestión escolar &nbsp;|&nbsp; Clase: 4.º ESO B &nbsp;|&nbsp; Duración: 3 semanas
 Las plataformas digitales generan un rastro de aprendizaje que permite evaluar la participación individual en trabajos grupales de forma objetiva; combinarlo con la autoevaluación potencia la metacognición del alumnado.
 
@@ -622,23 +475,11 @@ Es clave en evaluación competencial y criterial, porque evita decidir a partir 
 **Ejemplo:**
 
 Triangulación de evidencias al final de un trimestre en Inglés de 3.º de ESO. El docente combina tres fuentes antes de emitir la calificación: una prueba escrita, la observación sistemática en clase y el portfolio del alumno.
-|
-| Fuente de evidencia
-| Qué evalúa
-| Instrumento usado
-| Resultado / Dato clave
-| Prueba escrita
-| Comprensión lectora y expresión escrita en inglés. Condiciones controladas, sin materiales de apoyo.
-| Examen con criterios de corrección
-| Nota: 6,5/10. Expresión escrita correcta; comprensión lectora de textos largos, débil.
-| Observación sistemática
-| Participación oral, fluidez y disposición a comunicarse en inglés durante las actividades de clase.
-| Registro de participación (escala 1-4)
-| Nivel 3-4 sostenido: participa activamente, comete pocos errores de comunicación aunque algunos gramaticales.
-| Portfolio
-| Proceso de escritura, reflexión sobre los errores y autonomía en la gestión del aprendizaje.
-| Rúbrica analítica de portfolio
-| Las reflexiones muestran consciencia de sus errores y estrategias de mejora concretas.
+| Fuente de evidencia | Qué evalúa | Instrumento usado | Resultado / Dato clave |
+| --- | --- | --- | --- |
+| Prueba escrita | Comprensión lectora y expresión escrita en inglés. Condiciones controladas, sin materiales de apoyo. | Examen con criterios de corrección | Nota: 6,5/10. Expresión escrita correcta; comprensión lectora de textos largos, débil. |
+| Observación sistemática | Participación oral, fluidez y disposición a comunicarse en inglés durante las actividades de clase. | Registro de participación (escala 1-4) | Nivel 3-4 sostenido: participa activamente, comete pocos errores de comunicación aunque algunos gramaticales. |
+| Portfolio | Proceso de escritura, reflexión sobre los errores y autonomía en la gestión del aprendizaje. | Rúbrica analítica de portfolio | Las reflexiones muestran consciencia de sus errores y estrategias de mejora concretas. |
 Conclusión de triangulación: El alumno domina la comunicación oral y la reflexión, pero necesita refuerzo en comprensión lectora de textos extensos. La calificación integra las tres fuentes y refleja mejor su competencia real que el examen solo.
 La triangulación evita la distorsión que produce depender de una sola evidencia: un alumno puede tener un mal día en el examen pero mostrar dominio real en el resto de fuentes, o viceversa.
 
@@ -2524,32 +2365,12 @@ Es el instrumento de evaluación más adecuado para tareas complejas donde impor
 **Ejemplo:**
 
 Rúbrica analítica para evaluar una exposición oral en 4.º de ESO. Cada criterio se valora de forma independiente.
-|
-| Criterio
-| Excelente (4)
-| Satisfactorio (3)
-| En proceso (2)
-| Inicial (1)
-| Contenido
-| Ideas claras, bien desarrolladas y respaldadas con evidencias.
-| Ideas correctas con algunos detalles poco desarrollados.
-| Ideas básicas; falta profundidad o precisión.
-| Información incompleta o incorrecta.
-| Estructura
-| Introducción, desarrollo y conclusión muy bien diferenciados.
-| Estructura clara con algún punto de transición mejorable.
-| Estructura presente pero poco definida.
-| Sin estructura apreciable.
-| Expresión oral
-| Dicción, volumen y ritmo excelentes; contacto visual constante.
-| Expresión fluida con alguna duda puntual.
-| Expresión funcional pero con pausas frecuentes o voz baja.
-| Dificultades notables para comunicarse oralmente.
-| Uso del tiempo
-| Ajusta perfectamente al tiempo asignado.
-| Leve desajuste (±1 min).
-| Desajuste de 2-3 minutos.
-| No gestiona el tiempo asignado.
+| Criterio | Excelente (4) | Satisfactorio (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Contenido | Ideas claras, bien desarrolladas y respaldadas con evidencias. | Ideas correctas con algunos detalles poco desarrollados. | Ideas básicas; falta profundidad o precisión. | Información incompleta o incorrecta. |
+| Estructura | Introducción, desarrollo y conclusión muy bien diferenciados. | Estructura clara con algún punto de transición mejorable. | Estructura presente pero poco definida. | Sin estructura apreciable. |
+| Expresión oral | Dicción, volumen y ritmo excelentes; contacto visual constante. | Expresión fluida con alguna duda puntual. | Expresión funcional pero con pausas frecuentes o voz baja. | Dificultades notables para comunicarse oralmente. |
+| Uso del tiempo | Ajusta perfectamente al tiempo asignado. | Leve desajuste (±1 min). | Desajuste de 2-3 minutos. | No gestiona el tiempo asignado. |
 La nota final se obtiene sumando la puntuación de cada criterio (máximo 16 puntos) y convirtiéndola a la escala 1-10.
 Alumno: Marta P. &nbsp;|&nbsp; Actividad: Exposición sobre el Renacimiento (4.º ESO) &nbsp;|&nbsp; Fecha: 12/03Puntuación: 12/16 → 7,5. Estructura y contenido sólidos; debe trabajar la fluidez oral.
 
@@ -2581,22 +2402,12 @@ Adecuada cuando el tiempo es limitado, cuando la tarea es corta o cuando se quie
 **Ejemplo:**
 
 Rúbrica holística para evaluar un relato corto en 2.º de ESO. A diferencia de la analítica, el docente asigna un único nivel global después de leer el texto en su conjunto.
-|
-| Nivel
-| Descriptor global
-| Calificación
-| 4 — Excelente
-| El relato presenta una estructura clara (planteamiento, nudo y desenlace) y una voz narrativa coherente. La descripción de personajes y ambientes es vívida. El lenguaje es variado, preciso y libre de errores. El conjunto resulta original y mantiene la atención del lector de principio a fin.
-| 9–10
-| 3 — Competente
-| El relato tiene una estructura reconocible y los personajes están suficientemente definidos. El lenguaje es adecuado, aunque con alguna repetición o error puntual. La narración se sigue con facilidad, aunque puede perder intensidad en algún momento.
-| 7–8
-| 2 — En proceso
-| El relato presenta una estructura básica pero con lagunas (el nudo o el desenlace son débiles). Los personajes y ambientes están poco desarrollados. El lenguaje es funcional pero limitado, con errores que dificultan ocasionalmente la lectura.
-| 5–6
-| 1 — Inicial
-| El relato carece de estructura narrativa reconocible o está incompleto. Los personajes y ambientes no están definidos. El lenguaje es muy limitado y los errores dificultan la comprensión.
-| 1–4
+| Nivel | Descriptor global | Calificación |
+| --- | --- | --- |
+| 4 — Excelente | El relato presenta una estructura clara (planteamiento, nudo y desenlace) y una voz narrativa coherente. La descripción de personajes y ambientes es vívida. El lenguaje es variado, preciso y libre de errores. El conjunto resulta original y mantiene la atención del lector de principio a fin. | 9–10 |
+| 3 — Competente | El relato tiene una estructura reconocible y los personajes están suficientemente definidos. El lenguaje es adecuado, aunque con alguna repetición o error puntual. La narración se sigue con facilidad, aunque puede perder intensidad en algún momento. | 7–8 |
+| 2 — En proceso | El relato presenta una estructura básica pero con lagunas (el nudo o el desenlace son débiles). Los personajes y ambientes están poco desarrollados. El lenguaje es funcional pero limitado, con errores que dificultan ocasionalmente la lectura. | 5–6 |
+| 1 — Inicial | El relato carece de estructura narrativa reconocible o está incompleto. Los personajes y ambientes no están definidos. El lenguaje es muy limitado y los errores dificultan la comprensión. | 1–4 |
 Alumno: Alex G. &nbsp;|&nbsp; Actividad: Relato corto «El último viaje» (2.º ESO) &nbsp;|&nbsp; Fecha: 25/01Nivel global: 3 — Competente → 7,5. Narración fluida con alguna repetición léxica.
 
 **Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS)
@@ -2627,37 +2438,13 @@ Es fundamental en proyectos de larga duración, investigaciones y portfolios, do
 **Ejemplo:**
 
 Rúbrica de proceso para evaluar cómo trabaja el alumno durante una investigación científica en 3.º de ESO. Se aplica mediante observación durante las sesiones, no sobre el producto final.
-|
-| Criterio de proceso
-| Excelente (4)
-| Competente (3)
-| En proceso (2)
-| Inicial (1)
-| Planificación
-| Define la hipótesis, el procedimiento y el material antes de empezar, de forma autónoma.
-| Planifica con alguna orientación del docente.
-| Empieza sin planificar y rectifica sobre la marcha.
-| No planifica; actúa de forma improvisada durante toda la sesión.
-| Registro de datos
-| Anota datos de forma sistemática, organizada y con las unidades correctas.
-| Registra la mayoría de los datos con alguna omisión.
-| El registro es incompleto o desordenado.
-| No registra los datos o lo hace de manera ilegible.
-| Ajuste y resolución
-| Detecta errores, propone soluciones y modifica el procedimiento de forma reflexiva.
-| Detecta errores y pide ayuda para resolverlos.
-| Detecta que algo no funciona pero no sabe cómo actuar.
-| No detecta los errores o los ignora.
-| Trabajo en equipo
-| Distribuye tareas, escucha activamente y gestiona los desacuerdos de forma constructiva.
-| Colabora bien, aunque con algún momento de descoordinación.
-| Participa de forma irregular; tiende a trabajar en solitario.
-| No colabora o genera conflictos en el grupo.
-| Reflexión sobre el proceso
-| Al finalizar, identifica qué ha funcionado, qué cambiaría y por qué.
-| Reflexiona sobre el proceso con preguntas guía del docente.
-| La reflexión es superficial o se limita al resultado.
-| No reflexiona sobre el proceso.
+| Criterio de proceso | Excelente (4) | Competente (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Planificación | Define la hipótesis, el procedimiento y el material antes de empezar, de forma autónoma. | Planifica con alguna orientación del docente. | Empieza sin planificar y rectifica sobre la marcha. | No planifica; actúa de forma improvisada durante toda la sesión. |
+| Registro de datos | Anota datos de forma sistemática, organizada y con las unidades correctas. | Registra la mayoría de los datos con alguna omisión. | El registro es incompleto o desordenado. | No registra los datos o lo hace de manera ilegible. |
+| Ajuste y resolución | Detecta errores, propone soluciones y modifica el procedimiento de forma reflexiva. | Detecta errores y pide ayuda para resolverlos. | Detecta que algo no funciona pero no sabe cómo actuar. | No detecta los errores o los ignora. |
+| Trabajo en equipo | Distribuye tareas, escucha activamente y gestiona los desacuerdos de forma constructiva. | Colabora bien, aunque con algún momento de descoordinación. | Participa de forma irregular; tiende a trabajar en solitario. | No colabora o genera conflictos en el grupo. |
+| Reflexión sobre el proceso | Al finalizar, identifica qué ha funcionado, qué cambiaría y por qué. | Reflexiona sobre el proceso con preguntas guía del docente. | La reflexión es superficial o se limita al resultado. | No reflexiona sobre el proceso. |
 Alumno: Jorge L. &nbsp;|&nbsp; Actividad: Experimento de densidad de líquidos (3.º ESO) &nbsp;|&nbsp; Fecha: 08/02Puntuación: 14/20 → 7. Destaca el registro sistemático de datos; debe mejorar la reflexión sobre el proceso.
 
 **Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Proyectos de Aprendizaje-Servicio (ApS o ABS), Aprendizaje maker / STEAM, Hora del genio (Genius Hour), Marco ICAP
@@ -2688,37 +2475,13 @@ Se complementa con la rúbrica de proceso en proyectos extensos. Usada sola, pue
 **Ejemplo:**
 
 Rúbrica de producto para evaluar una infografía sobre el cambio climático en 1.º de ESO. Evalúa las características del producto entregado, no el proceso de elaboración.
-|
-| Criterio
-| Excelente (4)
-| Competente (3)
-| En proceso (2)
-| Inicial (1)
-| Contenido
-| La información es correcta, completa y relevante. Incluye datos, causas y consecuencias bien seleccionados.
-| La información es correcta en su mayor parte, con algún dato impreciso o incompleto.
-| La información es básica o contiene algunos errores.
-| La información es incorrecta, muy escasa o no tiene relación con el tema.
-| Organización visual
-| El diseño guía la lectura de forma intuitiva. Jerarquía clara, uso coherente del espacio y los elementos.
-| La organización es adecuada aunque algún elemento visual dificulta la lectura.
-| La disposición es confusa o recargada en alguna sección.
-| No hay una organización visual reconocible.
-| Legibilidad
-| Tipografía adecuada, tamaño de texto legible y contraste de color suficiente en todo el documento.
-| Generalmente legible, con algún texto demasiado pequeño o color con poco contraste.
-| Hay secciones difíciles de leer por tipografía o contraste inadecuados.
-| El documento es difícil de leer en su conjunto.
-| Uso de imágenes y gráficos
-| Las imágenes y gráficos refuerzan el mensaje, son pertinentes y están correctamente etiquetados.
-| Las imágenes son adecuadas pero alguna no aporta o falta una etiqueta.
-| Las imágenes son decorativas o no guardan relación directa con el contenido.
-| No hay imágenes o son inadecuadas para el tema.
-| Fuentes citadas
-| Todas las fuentes están citadas correctamente al pie de la infografía.
-| La mayoría de fuentes están citadas, con alguna omisión menor.
-| Solo se citan algunas fuentes o el formato es incorrecto.
-| No se cita ninguna fuente.
+| Criterio | Excelente (4) | Competente (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Contenido | La información es correcta, completa y relevante. Incluye datos, causas y consecuencias bien seleccionados. | La información es correcta en su mayor parte, con algún dato impreciso o incompleto. | La información es básica o contiene algunos errores. | La información es incorrecta, muy escasa o no tiene relación con el tema. |
+| Organización visual | El diseño guía la lectura de forma intuitiva. Jerarquía clara, uso coherente del espacio y los elementos. | La organización es adecuada aunque algún elemento visual dificulta la lectura. | La disposición es confusa o recargada en alguna sección. | No hay una organización visual reconocible. |
+| Legibilidad | Tipografía adecuada, tamaño de texto legible y contraste de color suficiente en todo el documento. | Generalmente legible, con algún texto demasiado pequeño o color con poco contraste. | Hay secciones difíciles de leer por tipografía o contraste inadecuados. | El documento es difícil de leer en su conjunto. |
+| Uso de imágenes y gráficos | Las imágenes y gráficos refuerzan el mensaje, son pertinentes y están correctamente etiquetados. | Las imágenes son adecuadas pero alguna no aporta o falta una etiqueta. | Las imágenes son decorativas o no guardan relación directa con el contenido. | No hay imágenes o son inadecuadas para el tema. |
+| Fuentes citadas | Todas las fuentes están citadas correctamente al pie de la infografía. | La mayoría de fuentes están citadas, con alguna omisión menor. | Solo se citan algunas fuentes o el formato es incorrecto. | No se cita ninguna fuente. |
 Alumno: Sofía M. &nbsp;|&nbsp; Actividad: Infografía sobre el cambio climático (1.º ESO) &nbsp;|&nbsp; Fecha: 15/04Puntuación: 16/20 → 8. Diseño visual excelente; debe citar correctamente todas las fuentes.
 
 **Técnicas activas que la usan:** Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Doble codificación (dual coding), Proyectos de Aprendizaje-Servicio (ApS o ABS), WebQuest, Aprendizaje maker / STEAM, Mapa mental, Línea de tiempo
@@ -2749,37 +2512,13 @@ Compartirla antes de la actuación permite al alumnado prepararse con mayor orie
 **Ejemplo:**
 
 Rúbrica para evaluar una exposición oral individual en 2.º de ESO. Se aplica en tiempo real mientras el alumno habla; el docente marca el nivel observado en cada criterio.
-|
-| Criterio
-| Excelente (4)
-| Competente (3)
-| En proceso (2)
-| Inicial (1)
-| Contenido y estructura
-| Ideas claras, bien ordenadas y desarrolladas. Introducción, desarrollo y conclusión diferenciados.
-| Ideas correctas con algún salto lógico. Estructura reconocible.
-| Ideas básicas o desordenadas. La estructura es difusa.
-| Sin estructura apreciable o con información incorrecta.
-| Dicción y volumen
-| Vocaliza con claridad y a volumen adecuado. Se entiende perfectamente sin esfuerzo.
-| Generalmente claro, aunque con algún momento de voz baja o pronunciación descuidada.
-| Hay partes difíciles de entender por volumen insuficiente o dicción deficiente.
-| Se entiende muy poco; el volumen es insuficiente de forma sistemática.
-| Fluidez y ritmo
-| Habla con naturalidad, a un ritmo adecuado, sin leer y con pausas bien colocadas.
-| Ritmo generalmente bueno, con algunas pausas largas o momentos de lectura.
-| Ritmo irregular; lee con frecuencia o hace pausas excesivas.
-| Lee de forma continua o el discurso se detiene repetidamente.
-| Lenguaje no verbal
-| Mantiene contacto visual con el público, postura segura y gestos que refuerzan el mensaje.
-| Contacto visual frecuente aunque tiende a mirar las notas. Postura adecuada.
-| Contacto visual escaso; postura tensa o que distrae.
-| No hay contacto visual; postura que dificulta la comunicación.
-| Gestión del tiempo
-| Se ajusta al tiempo asignado (±30 s). Distribuye bien el tiempo entre las partes.
-| Leve desajuste (±1 min) o distribución irregular entre partes.
-| Desajuste de 1–2 min o una parte muy desproporcionada respecto a las otras.
-| Excede o no llega al tiempo asignado en más de 2 min.
+| Criterio | Excelente (4) | Competente (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Contenido y estructura | Ideas claras, bien ordenadas y desarrolladas. Introducción, desarrollo y conclusión diferenciados. | Ideas correctas con algún salto lógico. Estructura reconocible. | Ideas básicas o desordenadas. La estructura es difusa. | Sin estructura apreciable o con información incorrecta. |
+| Dicción y volumen | Vocaliza con claridad y a volumen adecuado. Se entiende perfectamente sin esfuerzo. | Generalmente claro, aunque con algún momento de voz baja o pronunciación descuidada. | Hay partes difíciles de entender por volumen insuficiente o dicción deficiente. | Se entiende muy poco; el volumen es insuficiente de forma sistemática. |
+| Fluidez y ritmo | Habla con naturalidad, a un ritmo adecuado, sin leer y con pausas bien colocadas. | Ritmo generalmente bueno, con algunas pausas largas o momentos de lectura. | Ritmo irregular; lee con frecuencia o hace pausas excesivas. | Lee de forma continua o el discurso se detiene repetidamente. |
+| Lenguaje no verbal | Mantiene contacto visual con el público, postura segura y gestos que refuerzan el mensaje. | Contacto visual frecuente aunque tiende a mirar las notas. Postura adecuada. | Contacto visual escaso; postura tensa o que distrae. | No hay contacto visual; postura que dificulta la comunicación. |
+| Gestión del tiempo | Se ajusta al tiempo asignado (±30 s). Distribuye bien el tiempo entre las partes. | Leve desajuste (±1 min) o distribución irregular entre partes. | Desajuste de 1–2 min o una parte muy desproporcionada respecto a las otras. | Excede o no llega al tiempo asignado en más de 2 min. |
 Alumno: Elena R. &nbsp;|&nbsp; Actividad: Exposición oral sobre el calentamiento global (2.º ESO) &nbsp;|&nbsp; Fecha: 22/04Puntuación: 14/20 → 7. El contenido es excelente; el lenguaje no verbal y la fluidez son los aspectos a practicar antes de la próxima exposición.
 
 **Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales), Filosofía para Niños (P4C), Debate académico, Ponerse en el lugar (Step Inside), Entrevista en tres pasos (Three-Step Interview)
@@ -2810,37 +2549,13 @@ Es especialmente útil para evitar que el trabajo grupal diluya la responsabilid
 **Ejemplo:**
 
 Rúbrica para evaluar el trabajo cooperativo en un proyecto grupal de 3.º de ESO. Puede aplicarse por el docente, en coevaluación entre grupos o en autoevaluación del propio grupo.
-|
-| Criterio
-| Excelente (4)
-| Competente (3)
-| En proceso (2)
-| Inicial (1)
-| Distribución de tareas
-| Las tareas están repartidas de forma equitativa y ajustada a las capacidades de cada miembro. Todos asumen responsabilidades claras.
-| La distribución es mayoritariamente equitativa, con algún desequilibrio puntual.
-| Hay miembros que asumen más carga que otros de forma sistemática.
-| No hay distribución de tareas reconocible; uno o dos miembros llevan todo el peso.
-| Comunicación interna
-| El grupo se comunica con frecuencia, escucha activamente y resuelve dudas antes de actuar.
-| La comunicación es buena en general, con algún malentendido puntual.
-| La comunicación es irregular; algunos miembros toman decisiones sin informar al grupo.
-| Hay poca o ninguna comunicación interna; los miembros trabajan de forma descoordinada.
-| Gestión del conflicto
-| Los desacuerdos se resuelven mediante el diálogo y el consenso, sin que nadie imponga su criterio.
-| Los conflictos se resuelven, aunque con alguna tensión o con la intervención del docente.
-| Los conflictos se resuelven parcialmente; quedan tensiones sin resolver.
-| Los conflictos no se gestionan o escalan; el grupo no llega a acuerdos.
-| Ayuda mutua
-| Los miembros se apoyan entre sí de forma proactiva: explican, preguntan y comparten recursos sin que se les pida.
-| Se ayudan cuando se les solicita, pero no de forma espontánea.
-| La ayuda es escasa; cada miembro trabaja de forma independiente.
-| No hay ayuda mutua; los miembros compiten o se ignoran.
-| Calidad del resultado conjunto
-| El producto final refleja la aportación integrada de todos los miembros y es mejor que la suma de las partes individuales.
-| El producto refleja el trabajo conjunto, aunque con aportaciones desiguales.
-| El producto es una yuxtaposición de partes individuales poco integradas.
-| El producto lo ha elaborado principalmente uno o dos miembros.
+| Criterio | Excelente (4) | Competente (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Distribución de tareas | Las tareas están repartidas de forma equitativa y ajustada a las capacidades de cada miembro. Todos asumen responsabilidades claras. | La distribución es mayoritariamente equitativa, con algún desequilibrio puntual. | Hay miembros que asumen más carga que otros de forma sistemática. | No hay distribución de tareas reconocible; uno o dos miembros llevan todo el peso. |
+| Comunicación interna | El grupo se comunica con frecuencia, escucha activamente y resuelve dudas antes de actuar. | La comunicación es buena en general, con algún malentendido puntual. | La comunicación es irregular; algunos miembros toman decisiones sin informar al grupo. | Hay poca o ninguna comunicación interna; los miembros trabajan de forma descoordinada. |
+| Gestión del conflicto | Los desacuerdos se resuelven mediante el diálogo y el consenso, sin que nadie imponga su criterio. | Los conflictos se resuelven, aunque con alguna tensión o con la intervención del docente. | Los conflictos se resuelven parcialmente; quedan tensiones sin resolver. | Los conflictos no se gestionan o escalan; el grupo no llega a acuerdos. |
+| Ayuda mutua | Los miembros se apoyan entre sí de forma proactiva: explican, preguntan y comparten recursos sin que se les pida. | Se ayudan cuando se les solicita, pero no de forma espontánea. | La ayuda es escasa; cada miembro trabaja de forma independiente. | No hay ayuda mutua; los miembros compiten o se ignoran. |
+| Calidad del resultado conjunto | El producto final refleja la aportación integrada de todos los miembros y es mejor que la suma de las partes individuales. | El producto refleja el trabajo conjunto, aunque con aportaciones desiguales. | El producto es una yuxtaposición de partes individuales poco integradas. | El producto lo ha elaborado principalmente uno o dos miembros. |
 Grupo: Equipo 3 &nbsp;|&nbsp; Proyecto: Campaña de sensibilización sobre el agua (3.º ESO) &nbsp;|&nbsp; Fecha: 10/05Puntuación: 15/20 → 7,5. La comunicación interna es el punto fuerte del grupo; gestionar mejor los conflictos les permitiría ganar eficiencia.
 
 **Técnicas activas que la usan:** ¿Qué te hace decir eso?, ¿Quién es quién?, 1 - 2 - 4, Aprendizaje basado en el juego (ABJ), Aprendizaje basado en la acción (ABA), Aprendizaje basado en la investigación (ABI), Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en preguntas (ABPC), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Cadena de Preguntas, Círculo de puntos de vista, CO-OP CO-OP, Conozcámonos, Controversia académica, Cronometrado, Pareja, Comparte (Timed, Pair, Share), Pensamiento de diseño (Design Thinking), El folio giratorio, El juego de las palabras, El modelo 5E, El Rompecabezas ("Jigsaw"), El Saco de Dudas, Equipo-pareja-individual, Equipos de oyentes, Estaciones de aprendizaje, Genera hipótesis, Genera soluciones, Intercambiar dificultades, Juego de rol, La caja, La entrevista, La mesa redonda, Lápiz al centro, Lectura compartida, Lectura fantasma, Lo que sé y lo que sabemos, Los cuatro sabios, Los Grupos de Investigación, Mapa conceptual a cuatro bandas, Me gusta / No me gusta, Números iguales juntos (Cabezas juntas numeradas), Palabra, idea, frase, Parejas de detectives, Parejas de discusión, Pienso, me interesa, investigo, Placemat consensus, Pregunta el porqué, Pregunta y responde, Proyectos de Aprendizaje-Servicio (ApS o ABS), RallyRobin, Reloj de citas, Revisa las consecuencias, RoundRobin, Seguir la pista, Situación problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fichas de conversación), TGT (Torneo de Juegos por Equipos), Think-Pair-Share (Piensa-Pareja-Comparte), Uno para todos, World Café, Diseño Universal para el Aprendizaje (DUA / UDL), Las 4C del aprendizaje, Grupo nominal, Tutoría entre iguales (Peer Tutoring), Equipos de ayuda mutua / TAI (Team Assisted Individualization), Equipos paralelos, El juego de la NASA, Las páginas amarillas, Co-enseñanza (Co-teaching), Ludificación (gamificación), Roles cooperativos, Tertulia dialógica, Indagación guiada por la argumentación (ADI), Revisión entre iguales (peer review), Dos estrellas y un deseo, Enseñanza recíproca, Controversia estructurada con evidencias, +1, Hábitos mentales, Abanico y elige (Fan-N-Pick)
@@ -2871,37 +2586,13 @@ Es el instrumento de evaluación más adecuado para la evaluación por competenc
 **Ejemplo:**
 
 Rúbrica competencial para evaluar la competencia digital en un proyecto de creación de contenido en 4.º de ESO. Los criterios están vinculados a descriptores competenciales, no a los contenidos de una materia concreta.
-|
-| Competencia / Descriptor
-| Avanzado (4)
-| Medio (3)
-| Básico (2)
-| Inicial (1)
-| Búsqueda y selección de información
-| Localiza información en fuentes variadas y fiables, la contrasta y la selecciona de forma crítica y autónoma.
-| Localiza información en fuentes adecuadas y distingue las más fiables con orientación ocasional.
-| Localiza información pero no siempre evalúa su fiabilidad ni diversifica las fuentes.
-| Utiliza una única fuente sin cuestionar su fiabilidad.
-| Creación y edición digital
-| Crea contenido digital original, combinando formatos de forma creativa y con dominio técnico de la herramienta.
-| Crea contenido adecuado usando las funciones principales de la herramienta.
-| Crea contenido básico con ayuda; el dominio técnico es limitado.
-| No logra crear contenido de forma autónoma o el resultado es inusable.
-| Comunicación y colaboración en red
-| Comparte y comenta el trabajo de forma constructiva en el entorno digital, respetando las normas de convivencia.
-| Comparte el trabajo y comenta el de sus compañeros de forma adecuada.
-| Comparte el trabajo pero los comentarios son superficiales o no siempre respetuosos.
-| No comparte el trabajo o los comentarios son inadecuados.
-| Seguridad y privacidad
-| Gestiona su identidad digital de forma responsable: protege datos personales y cuida la huella digital.
-| Conoce los aspectos básicos de privacidad y los aplica con alguna orientación.
-| Tiene conciencia parcial de los riesgos digitales pero no los gestiona de forma consistente.
-| No muestra conciencia sobre la privacidad o la seguridad en entornos digitales.
-| Resolución de problemas técnicos
-| Identifica y resuelve problemas técnicos de forma autónoma, buscando soluciones alternativas si es necesario.
-| Resuelve problemas habituales con ayuda mínima o mediante búsqueda en línea.
-| Necesita ayuda frecuente para resolver problemas técnicos básicos.
-| No puede resolver problemas técnicos sin apoyo constante.
+| Competencia / Descriptor | Avanzado (4) | Medio (3) | Básico (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Búsqueda y selección de información | Localiza información en fuentes variadas y fiables, la contrasta y la selecciona de forma crítica y autónoma. | Localiza información en fuentes adecuadas y distingue las más fiables con orientación ocasional. | Localiza información pero no siempre evalúa su fiabilidad ni diversifica las fuentes. | Utiliza una única fuente sin cuestionar su fiabilidad. |
+| Creación y edición digital | Crea contenido digital original, combinando formatos de forma creativa y con dominio técnico de la herramienta. | Crea contenido adecuado usando las funciones principales de la herramienta. | Crea contenido básico con ayuda; el dominio técnico es limitado. | No logra crear contenido de forma autónoma o el resultado es inusable. |
+| Comunicación y colaboración en red | Comparte y comenta el trabajo de forma constructiva en el entorno digital, respetando las normas de convivencia. | Comparte el trabajo y comenta el de sus compañeros de forma adecuada. | Comparte el trabajo pero los comentarios son superficiales o no siempre respetuosos. | No comparte el trabajo o los comentarios son inadecuados. |
+| Seguridad y privacidad | Gestiona su identidad digital de forma responsable: protege datos personales y cuida la huella digital. | Conoce los aspectos básicos de privacidad y los aplica con alguna orientación. | Tiene conciencia parcial de los riesgos digitales pero no los gestiona de forma consistente. | No muestra conciencia sobre la privacidad o la seguridad en entornos digitales. |
+| Resolución de problemas técnicos | Identifica y resuelve problemas técnicos de forma autónoma, buscando soluciones alternativas si es necesario. | Resuelve problemas habituales con ayuda mínima o mediante búsqueda en línea. | Necesita ayuda frecuente para resolver problemas técnicos básicos. | No puede resolver problemas técnicos sin apoyo constante. |
 Alumno: Pau N. &nbsp;|&nbsp; Actividad: Cápsula de vídeo sobre hábitos digitales (4.º ESO) &nbsp;|&nbsp; Fecha: 20/03Puntuación: 11/20 → 5,5. Muestra criterio en la búsqueda y comunicación; seguridad digital y resolución técnica son los puntos a reforzar.
 
 **Técnicas activas que la usan:** Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), La brújula (puntos cardinales), Alineamiento constructivo
@@ -2932,18 +2623,15 @@ Es rápida de aplicar y muy útil para actividades con requisitos claros y cerra
 **Ejemplo:**
 
 Lista de cotejo para evaluar un informe de laboratorio de biología en 3.º de ESO. El docente marca cada indicador durante la revisión.
-|
-| Indicador
-| Sí
-| No
-| Observaciones
-| Incluye el objetivo de la práctica | ✓ | |
-| Describe el material y el procedimiento | ✓ | |
-| Recoge los datos en una tabla o gráfica | ✓ | |
-| Interpreta los resultados con rigor | | ✗ | Describe datos pero no los explica
-| Relaciona los resultados con la hipótesis | | ✗ | No hay hipótesis previa
-| Redacción clara y con vocabulario científico | ✓ | |
-| Presentación ordenada y limpia | ✓ | |
+| Indicador | Sí | No | Observaciones |
+| --- | --- | --- | --- |
+| Incluye el objetivo de la práctica | ✓ | | |
+| Describe el material y el procedimiento | ✓ | | |
+| Recoge los datos en una tabla o gráfica | ✓ | | |
+| Interpreta los resultados con rigor | | ✗ | Describe datos pero no los explica |
+| Relaciona los resultados con la hipótesis | | ✗ | No hay hipótesis previa |
+| Redacción clara y con vocabulario científico | ✓ | | |
+| Presentación ordenada y limpia | ✓ | | |
 Resultado: 5 de 7 indicadores cumplidos. Se propone revisar la hipótesis y la interpretación de resultados antes de la entrega final.
 
 **Técnicas activas que la usan:** Aprendizaje basado en laboratorio (ABL), Aprendizaje basado en problemas (ABP), Aprendizaje basado en proyectos (ABProyectos), Aprendizaje basado en retos (ABR), Pensamiento de diseño (Design Thinking), Flipped Classroom (Aula invertida), Gallery Walk (Paseo por la galería), Genera soluciones, Proyectos de Aprendizaje-Servicio (ApS o ABS), Uno para todos, Revisión entre iguales (peer review), Inicios de preguntas (Question Starts)
@@ -2974,24 +2662,14 @@ Cómo usarla: se definen los indicadores que se van a observar y se elige una es
 **Ejemplo:**
 
 Escala de observación para valorar el trabajo cooperativo durante una actividad en grupo en 2.º de ESO. El docente la cumplimenta mientras observa la sesión.
-|
-| Indicador observable
-| Siempre
-| A veces
-| Pocas veces
-| Nunca
-| Escucha activamente a sus compañeros
-| ✓ | | |
-| Aporta ideas al grupo
-| | ✓ | |
-| Acepta las decisiones consensuadas
-| ✓ | | |
-| Ayuda a quien tiene dificultades
-| | ✓ | |
-| Mantiene el turno de palabra
-| | | ✓ |
-| Cumple con la tarea asignada
-| ✓ | | |
+| Indicador observable | Siempre | A veces | Pocas veces | Nunca |
+| --- | --- | --- | --- | --- |
+| Escucha activamente a sus compañeros | ✓ | | | |
+| Aporta ideas al grupo | | ✓ | | |
+| Acepta las decisiones consensuadas | ✓ | | | |
+| Ayuda a quien tiene dificultades | | ✓ | | |
+| Mantiene el turno de palabra | | | ✓ | |
+| Cumple con la tarea asignada | ✓ | | | |
 Alumno: Marc G. &nbsp;|&nbsp; Actividad: Debate sobre cambio climático &nbsp;|&nbsp; Fecha: 14/03
 Observación: Participa activamente en la escucha y el consenso; debe mejorar el respeto del turno de palabra.
 
@@ -3023,22 +2701,13 @@ Adecuada cuando el docente tiene suficiente experiencia para aplicar criterios i
 **Ejemplo:**
 
 Escala de valoración para evaluar una presentación oral de Ciencias Sociales en 4.º de ESO. El docente puntúa cada criterio durante la exposición.
-|
-| Criterio
-| 1Insuficiente
-| 2Regular
-| 3Bien
-| 4Excelente
-| Organización y estructura del contenido
-| | | ✓ |
-| Dominio del tema y uso de datos
-| | | | ✓
-| Claridad y fluidez en la expresión oral
-| | ✓ | |
-| Soporte visual (diapositivas o mural)
-| | | ✓ |
-| Respuesta a preguntas del grupo
-| | | | ✓
+| Criterio | 1Insuficiente | 2Regular | 3Bien | 4Excelente |
+| --- | --- | --- | --- | --- |
+| Organización y estructura del contenido | | | ✓ | |
+| Dominio del tema y uso de datos | | | | ✓ |
+| Claridad y fluidez en la expresión oral | | ✓ | | |
+| Soporte visual (diapositivas o mural) | | | ✓ | |
+| Respuesta a preguntas del grupo | | | | ✓ |
 Alumno: Sara M. &nbsp;|&nbsp; Actividad: Causas de la Primera Guerra Mundial &nbsp;|&nbsp; Fecha: 05/11
 Puntuación total: 15/20. Destaca el dominio del tema y la respuesta a preguntas; debe mejorar la fluidez oral.
 
@@ -3070,27 +2739,12 @@ Es un buen punto de partida para docentes que quieren introducir criterios más 
 **Ejemplo:**
 
 Escala descriptiva para evaluar un ensayo argumentativo en Lengua Castellana y Literatura en 2.º de Bachillerato. Cada nivel lleva una descripción del desempeño esperado; el docente marca el nivel que mejor describe el trabajo.
-|
-| Criterio
-| Nivel 1 — Inicial
-| Nivel 2 — En desarrollo
-| Nivel 3 — Consolidado
-| Tesis y argumentación
-| La tesis no está clara o los argumentos son irrelevantes.
-| ✓ La tesis es reconocible y los argumentos la sostienen parcialmente.
-| La tesis es precisa y los argumentos son sólidos y bien articulados.
-| Uso de fuentes y evidencias
-| No cita fuentes o las citas son incorrectas.
-| Cita algunas fuentes, aunque sin integrarlas en el discurso.
-| ✓ Integra fuentes variadas de forma fluida y las cita correctamente.
-| Cohesión y coherencia
-| El texto presenta saltos temáticos y escasa conexión entre párrafos.
-| ✓ El texto es coherente en general; algunos conectores son mecánicos.
-| La progresión temática es fluida y los conectores son variados y precisos.
-| Corrección lingüística
-| Errores frecuentes que dificultan la comprensión.
-| Errores ocasionales que no interrumpen la lectura.
-| ✓ Escasos errores; vocabulario preciso y registro adecuado.
+| Criterio | Nivel 1 — Inicial | Nivel 2 — En desarrollo | Nivel 3 — Consolidado |
+| --- | --- | --- | --- |
+| Tesis y argumentación | La tesis no está clara o los argumentos son irrelevantes. | ✓ La tesis es reconocible y los argumentos la sostienen parcialmente. | La tesis es precisa y los argumentos son sólidos y bien articulados. |
+| Uso de fuentes y evidencias | No cita fuentes o las citas son incorrectas. | Cita algunas fuentes, aunque sin integrarlas en el discurso. | ✓ Integra fuentes variadas de forma fluida y las cita correctamente. |
+| Cohesión y coherencia | El texto presenta saltos temáticos y escasa conexión entre párrafos. | ✓ El texto es coherente en general; algunos conectores son mecánicos. | La progresión temática es fluida y los conectores son variados y precisos. |
+| Corrección lingüística | Errores frecuentes que dificultan la comprensión. | Errores ocasionales que no interrumpen la lectura. | ✓ Escasos errores; vocabulario preciso y registro adecuado. |
 Alumno: Carla V. &nbsp;|&nbsp; Trabajo: «¿Debe limitarse el acceso a las redes sociales para menores?» &nbsp;|&nbsp; Fecha: 18/02
 La celda resaltada indica el nivel asignado en cada criterio. El ensayo gana en rigor lingüístico y uso de fuentes; la argumentación es el punto a reforzar.
 
@@ -3122,34 +2776,13 @@ Aumenta la consistencia de la corrección entre distintas correcciones del mismo
 **Ejemplo:**
 
 Guía de corrección para un examen de Historia de España en 2.º de Bachillerato. El docente la elabora antes de corregir y la usa como referencia para asignar puntos a cada respuesta.
-|
-| Pregunta
-| Elementos esperados en la respuesta
-| Puntos
-| 1. Define el concepto de «turno pacífico» y explica cómo funcionaba.
-|
-Definición correcta: alternancia pactada entre liberales y conservadores (0,5 p.)
-Menciona a Cánovas y Sagasta como líderes de los dos partidos (0,5 p.)
-Explica el papel del caciquismo y el encasillado en el mecanismo de alternancia (1 p.)
-| 2
-| 2. Analiza las causas de la crisis de 1898 y sus consecuencias para España.
-|
-Al menos dos causas internas (problema colonial, ejército, finanzas) (1 p.)
-Intervención de EE.UU. y sus motivaciones (0,5 p.)
-Consecuencias: pérdida de colonias, crisis moral, surgimiento del regeneracionismo (1 p.)
-Uso de vocabulario histórico preciso: «Desastre del 98», «regeneracionismo» (0,5 p.)
-| 3
-| 3. Comentario de texto: fragmento del discurso de Cánovas (1876).
-|
-Identifica autor, fecha, contexto y tipología del texto (1 p.)
-Resume la tesis principal del fragmento (0,5 p.)
-Relaciona el texto con el proceso de la Restauración (1 p.)
-Valora críticamente las ideas del texto con argumentos históricos (0,5 p.)
-| 3
-| Puntuación total del examen
-| 8
-| Presentación y expresión escrita
-| 2
+| Pregunta | Elementos esperados en la respuesta | Puntos |
+| --- | --- | --- |
+| 1. Define el concepto de «turno pacífico» y explica cómo funcionaba. | Definición correcta: alternancia pactada entre liberales y conservadores (0,5 p.) Menciona a Cánovas y Sagasta como líderes de los dos partidos (0,5 p.) Explica el papel del caciquismo y el encasillado en el mecanismo de alternancia (1 p.) | 2 |
+| 2. Analiza las causas de la crisis de 1898 y sus consecuencias para España. | Al menos dos causas internas (problema colonial, ejército, finanzas) (1 p.) Intervención de EE.UU. y sus motivaciones (0,5 p.) Consecuencias: pérdida de colonias, crisis moral, surgimiento del regeneracionismo (1 p.) Uso de vocabulario histórico preciso: «Desastre del 98», «regeneracionismo» (0,5 p.) | 3 |
+| 3. Comentario de texto: fragmento del discurso de Cánovas (1876). | Identifica autor, fecha, contexto y tipología del texto (1 p.) Resume la tesis principal del fragmento (0,5 p.) Relaciona el texto con el proceso de la Restauración (1 p.) Valora críticamente las ideas del texto con argumentos históricos (0,5 p.) | 3 |
+| Puntuación total del examen | 8 |
+| Presentación y expresión escrita | 2 |
 Examen: Historia de España — La Restauración &nbsp;|&nbsp; Grupo: 2.º Bach. A &nbsp;|&nbsp; Fecha: 08/03
 Nota del docente: en la pregunta 2, aceptar también la mención al problema de Cuba como causa interna válida. En el comentario, puntuar con 0,5 la identificación correcta aunque el análisis sea básico.
 La guía de corrección garantiza coherencia entre correctores y hace explícitos los criterios antes de empezar, no después de descubrir respuestas imprevistas.
@@ -3182,35 +2815,14 @@ Es especialmente útil cuando hay muchas pruebas que corregir o cuando varios do
 **Ejemplo:**
 
 Plantilla de corrección para un examen de Lengua Castellana y Literatura en 4.º de ESO. El docente la usa durante la corrección para registrar la puntuación obtenida en cada pregunta y anotar observaciones para la retroalimentación.
-|
-| Pregunta / Tarea
-| Puntos máx.
-| Obtenidos
-| Observaciones para la retroalimentación
-| 1. Comprensión lectora — preguntas literales (×3)
-| 1,5
-| 1,5
-| Respuestas correctas y completas.
-| 2. Comprensión lectora — pregunta inferencial
-| 1,5
-| 0,5
-| Identifica el tema superficial pero no el implícito. Trabajar la lectura entre líneas.
-| 3. Análisis morfosintáctico de dos oraciones
-| 2
-| 1,5
-| Oración 1 perfecta. Oración 2: confunde el complemento directo con el atributo.
-| 4. Comentario de texto argumentativo
-| 3
-| 2
-| Estructura bien identificada. El análisis de los recursos retóricos es superficial; la conclusión es sólida.
-| 5. Redacción: texto argumentativo propio
-| 2
-| 1,5
-| Tesis clara y bien defendida. Falta variedad de conectores; hay tres errores de concordancia.
-| Total
-| 10
-| 7
-|
+| Pregunta / Tarea | Puntos máx. | Obtenidos | Observaciones para la retroalimentación |
+| --- | --- | --- | --- |
+| 1. Comprensión lectora — preguntas literales (×3) | 1,5 | 1,5 | Respuestas correctas y completas. |
+| 2. Comprensión lectora — pregunta inferencial | 1,5 | 0,5 | Identifica el tema superficial pero no el implícito. Trabajar la lectura entre líneas. |
+| 3. Análisis morfosintáctico de dos oraciones | 2 | 1,5 | Oración 1 perfecta. Oración 2: confunde el complemento directo con el atributo. |
+| 4. Comentario de texto argumentativo | 3 | 2 | Estructura bien identificada. El análisis de los recursos retóricos es superficial; la conclusión es sólida. |
+| 5. Redacción: texto argumentativo propio | 2 | 1,5 | Tesis clara y bien defendida. Falta variedad de conectores; hay tres errores de concordancia. |
+| Total | 10 | 7 | |
 Alumno: Ignasi P. &nbsp;|&nbsp; Examen: Lengua Castellana T2 &nbsp;|&nbsp; Fecha de corrección: 14/04 &nbsp;|&nbsp; Nota: 7 (Notable)
 Devolver con las observaciones destacadas para que sirvan de base para la tutoría de revisión del examen.
 La plantilla de corrección separa la tarea de puntuar de la de dar retroalimentación, y garantiza que el docente anota los motivos de la puntuación en el momento en que los tiene frescos.
@@ -3243,42 +2855,14 @@ Un baremo bien diseñado refleja la importancia relativa de cada contenido o com
 **Ejemplo:**
 
 Baremo para calificar un proyecto de investigación de Biología en 1.º de Bachillerato. Establece el peso de cada parte, la puntuación máxima y la fórmula de cálculo de la nota final.
-|
-| Parte / Criterio
-| Peso (%)
-| Puntos máx.
-| Obtenidos
-| Nota pond.
-| Introducción y planteamiento de la hipótesis
-| 15
-| 10
-| 8
-| 1,2
-| Metodología y diseño experimental
-| 20
-| 10
-| 7
-| 1,4
-| Resultados (tablas, gráficas, análisis)
-| 25
-| 10
-| 9
-| 2,25
-| Discusión y conclusiones
-| 25
-| 10
-| 6
-| 1,5
-| Presentación oral y defensa
-| 15
-| 10
-| 8
-| 1,2
-| Total
-| 100
-| —
-| —
-| 7,55 → 7,5
+| Parte / Criterio | Peso (%) | Puntos máx. | Obtenidos | Nota pond. |
+| --- | --- | --- | --- | --- |
+| Introducción y planteamiento de la hipótesis | 15 | 10 | 8 | 1,2 |
+| Metodología y diseño experimental | 20 | 10 | 7 | 1,4 |
+| Resultados (tablas, gráficas, análisis) | 25 | 10 | 9 | 2,25 |
+| Discusión y conclusiones | 25 | 10 | 6 | 1,5 |
+| Presentación oral y defensa | 15 | 10 | 8 | 1,2 |
+| Total | 100 | — | — | 7,55 → 7,5 |
 Alumno: Berta L. &nbsp;|&nbsp; Trabajo: «Efecto de la luz en el crecimiento de Phaseolus vulgaris» &nbsp;|&nbsp; Nota final: 7,5 (Notable)
 Fórmula: Nota pond. = (puntuación obtenida / 10) × (peso / 10). Suma de notas ponderadas = nota sobre 10. Redondeo a 0,5 más próximo.
 Publicar el baremo antes de la tarea permite al alumnado entender dónde debe poner el esfuerzo y reduce las reclamaciones al devolver la nota.
@@ -3311,27 +2895,12 @@ Es especialmente útil en etapas sin calificación numérica, para completar bol
 **Ejemplo:**
 
 Registro anecdótico del docente de Ciencias Naturales en 3.º de ESO durante un proyecto de investigación grupal. Cada entrada recoge un hecho significativo observado en un alumno concreto.
-|
-| Fecha
-| Alumno
-| Hecho observado
-| Seguimiento previsto
-| 04/03
-| Rafa M.
-| Por primera vez toma la iniciativa de repartir tareas sin que se lo pida el docente. Propone un esquema de trabajo al grupo.
-| Felicitar en privado. Observar si mantiene el rol en sesiones sucesivas.
-| 07/03
-| Laia F.
-| Se bloquea al presentar los resultados. No lee sus notas y se queda en silencio durante casi un minuto. El grupo la apoya con gestos.
-| Comentar en tutoría. Proponer práctica de exposición en pequeño grupo antes de la presentación final.
-| 07/03
-| Andreu P.
-| Conecta los resultados del experimento con un documental que vio el fin de semana. Establece una relación que no aparece en el enunciado.
-| Proponer como ampliación que desarrolle esa conexión en el informe final.
-| 11/03
-| Laia F.
-| En la segunda sesión de presentación habla con más fluidez y mantiene el contacto visual. Mejora notable respecto al día 07/03.
-| Registrar progreso. Reflejar en la valoración de la competencia comunicativa.
+| Fecha | Alumno | Hecho observado | Seguimiento previsto |
+| --- | --- | --- | --- |
+| 04/03 | Rafa M. | Por primera vez toma la iniciativa de repartir tareas sin que se lo pida el docente. Propone un esquema de trabajo al grupo. | Felicitar en privado. Observar si mantiene el rol en sesiones sucesivas. |
+| 07/03 | Laia F. | Se bloquea al presentar los resultados. No lee sus notas y se queda en silencio durante casi un minuto. El grupo la apoya con gestos. | Comentar en tutoría. Proponer práctica de exposición en pequeño grupo antes de la presentación final. |
+| 07/03 | Andreu P. | Conecta los resultados del experimento con un documental que vio el fin de semana. Establece una relación que no aparece en el enunciado. | Proponer como ampliación que desarrolle esa conexión en el informe final. |
+| 11/03 | Laia F. | En la segunda sesión de presentación habla con más fluidez y mantiene el contacto visual. Mejora notable respecto al día 07/03. | Registrar progreso. Reflejar en la valoración de la competencia comunicativa. |
 Grupo-clase: 3.º ESO A &nbsp;|&nbsp; Docente: Sra. García &nbsp;|&nbsp; Actividad: Proyecto «Los ecosistemas en peligro»
 El registro anecdótico permite detectar patrones de progreso o dificultad que no aparecen en los instrumentos formales de evaluación.
 
@@ -3363,17 +2932,12 @@ Permite comunicar a las familias y al propio alumno una imagen rica y matizada d
 **Ejemplo:**
 
 Registro descriptivo elaborado por el docente de Lengua Castellana tras observar la presentación oral de un trabajo de investigación en 2.º de ESO. Describe cualitativamente el desempeño observado, estructurado por criterios.
-|
-| Aspecto observado
-| Descripción cualitativa
-| Organización y estructura
-| La presentación sigue un orden claro: introduce el tema, desarrolla tres puntos bien diferenciados y concluye resumiendo las ideas principales. El hilo conductor es reconocible en todo momento.
-| Expresión oral
-| El alumno habla con fluidez en la mayor parte de la exposición. Puntualmente consulta sus notas, pero no las lee. El volumen es adecuado y la vocalización es clara. Cuando se pone nervioso, el ritmo se acelera ligeramente.
-| Dominio del contenido
-| Demuestra haber comprendido el tema y no se limita a reproducir lo que había escrito. Responde con soltura a dos de las tres preguntas del público; en la tercera, reconoce que no lo ha investigado suficientemente.
-| Interacción con la audiencia
-| Mantiene contacto visual con distintas partes del aula. Introduce una pregunta retórica al inicio que capta la atención. No utiliza el soporte visual de forma proactiva; las diapositivas ilustran pero no refuerzan el discurso.
+| Aspecto observado | Descripción cualitativa |
+| --- | --- |
+| Organización y estructura | La presentación sigue un orden claro: introduce el tema, desarrolla tres puntos bien diferenciados y concluye resumiendo las ideas principales. El hilo conductor es reconocible en todo momento. |
+| Expresión oral | El alumno habla con fluidez en la mayor parte de la exposición. Puntualmente consulta sus notas, pero no las lee. El volumen es adecuado y la vocalización es clara. Cuando se pone nervioso, el ritmo se acelera ligeramente. |
+| Dominio del contenido | Demuestra haber comprendido el tema y no se limita a reproducir lo que había escrito. Responde con soltura a dos de las tres preguntas del público; en la tercera, reconoce que no lo ha investigado suficientemente. |
+| Interacción con la audiencia | Mantiene contacto visual con distintas partes del aula. Introduce una pregunta retórica al inicio que capta la atención. No utiliza el soporte visual de forma proactiva; las diapositivas ilustran pero no refuerzan el discurso. |
 Alumno: Daniel S. &nbsp;|&nbsp; Actividad: Presentación «El impacto de las redes sociales en la adolescencia» &nbsp;|&nbsp; Fecha: 21/04
 Valoración global: buena exposición con base sólida de contenido; el uso del soporte visual es el aspecto a trabajar.
 El registro descriptivo es especialmente útil cuando se quiere documentar el proceso o justificar una valoración cualitativa ante el alumno o las familias.
@@ -3406,23 +2970,11 @@ No es solo un registro de lo que ocurrió, sino un instrumento de mejora de la p
 **Ejemplo:**
 
 Diario del profesor de Historia en 1.º de Bachillerato. Tres entradas de la misma semana. El docente reflexiona sobre lo que ocurrió en clase, qué aprendió el alumnado y qué cambiará en la siguiente sesión.
-|
-| Fecha
-| Sesión
-| Qué observé / qué aprendió el grupo
-| Decisión para la próxima sesión
-| Lunes12/05
-| Exposición magistral: causas de la Segunda Guerra Mundial
-| La clase estuvo receptiva durante los primeros 20 minutos, luego se dispersó. Creo que el ritmo fue demasiado uniforme. Cuando paré y pregunté «¿qué os sorprende de esto?», tres alumnos dieron respuestas muy perspicaces que no esperaba.
-| Introducir al menos dos pausas de reflexión corta de 2 min. en la próxima sesión magistral. Anotar las preguntas de Carla y Arnau para retomar en el debate.
-| Miércoles14/05
-| Análisis de fuentes primarias en parejas
-| La mayoría pudo identificar la intención del autor, pero casi nadie contextualizó el documento históricamente. El fallo no es de comprensión lectora, es de procedimiento: no saben cómo situar una fuente en su época.
-| Crear una ficha guía de análisis de fuentes con preguntas andamiadas. Usarla la próxima vez antes de que lean el documento.
-| Viernes16/05
-| Debate: ¿era inevitable la guerra?
-| El debate arrancó lento pero en los últimos 15 minutos fue muy rico. Los alumnos más callados participaron cuando les asigné un rol explícito («abogado del diablo»). El error fue dejar los primeros 10 minutos sin estructura.
-| Empezar los debates directamente con roles asignados y una pregunta de calentamiento individual escrita de 3 min. Probar en el próximo debate de la unidad.
+| Fecha | Sesión | Qué observé / qué aprendió el grupo | Decisión para la próxima sesión |
+| --- | --- | --- | --- |
+| Lunes12/05 | Exposición magistral: causas de la Segunda Guerra Mundial | La clase estuvo receptiva durante los primeros 20 minutos, luego se dispersó. Creo que el ritmo fue demasiado uniforme. Cuando paré y pregunté «¿qué os sorprende de esto?», tres alumnos dieron respuestas muy perspicaces que no esperaba. | Introducir al menos dos pausas de reflexión corta de 2 min. en la próxima sesión magistral. Anotar las preguntas de Carla y Arnau para retomar en el debate. |
+| Miércoles14/05 | Análisis de fuentes primarias en parejas | La mayoría pudo identificar la intención del autor, pero casi nadie contextualizó el documento históricamente. El fallo no es de comprensión lectora, es de procedimiento: no saben cómo situar una fuente en su época. | Crear una ficha guía de análisis de fuentes con preguntas andamiadas. Usarla la próxima vez antes de que lean el documento. |
+| Viernes16/05 | Debate: ¿era inevitable la guerra? | El debate arrancó lento pero en los últimos 15 minutos fue muy rico. Los alumnos más callados participaron cuando les asigné un rol explícito («abogado del diablo»). El error fue dejar los primeros 10 minutos sin estructura. | Empezar los debates directamente con roles asignados y una pregunta de calentamiento individual escrita de 3 min. Probar en el próximo debate de la unidad. |
 Docente: Sr. Martínez &nbsp;|&nbsp; Grupo: 1.º Bachillerato A &nbsp;|&nbsp; Unidad: La Segunda Guerra Mundial &nbsp;|&nbsp; Semana: 12–16/05
 El diario del profesor es una herramienta de desarrollo profesional: la reflexión escrita obliga a concretar qué cambiar, no solo a sentir que algo «no funcionó».
 
@@ -3454,37 +3006,13 @@ Es especialmente útil para el seguimiento personalizado en grupos con necesidad
 **Ejemplo:**
 
 Hoja de seguimiento individual de Ciencias Sociales en 2.º de ESO, primer trimestre. El docente la actualiza periódicamente con datos de distintas fuentes para tener una visión de conjunto de la evolución del alumno.
-|
-| Indicador
-| Oct.
-| Nov.
-| Dic.
-| Observaciones
-| Entrega de tareas a tiempo
-| 4/5
-| 5/5
-| 5/5
-| Mejora constante desde octubre. En noviembre asumió el compromiso de revisar el calendario semanal.
-| Participación activa en clase
-| Baja
-| Media
-| Media
-| Interviene cuando se le pregunta directamente. Rara vez levanta la mano. Ver si el debate en pequeño grupo la anima.
-| Resultado prueba escrita
-| 6,2
-| 7,0
-| 7,5
-| Tendencia ascendente. El trabajo de comprensión de textos ha mejorado notablemente.
-| Asistencia a tutoría
-| —
-| 1 sesión
-| —
-| Vino voluntariamente en noviembre para revisar la prueba. Mostró interés por mejorar.
-| Compromiso de mejora vigente
-| —
-| Planificación semanal
-| Participar más
-| Acordado en tutoría. Revisar en la evaluación de enero.
+| Indicador | Oct. | Nov. | Dic. | Observaciones |
+| --- | --- | --- | --- | --- |
+| Entrega de tareas a tiempo | 4/5 | 5/5 | 5/5 | Mejora constante desde octubre. En noviembre asumió el compromiso de revisar el calendario semanal. |
+| Participación activa en clase | Baja | Media | Media | Interviene cuando se le pregunta directamente. Rara vez levanta la mano. Ver si el debate en pequeño grupo la anima. |
+| Resultado prueba escrita | 6,2 | 7,0 | 7,5 | Tendencia ascendente. El trabajo de comprensión de textos ha mejorado notablemente. |
+| Asistencia a tutoría | — | 1 sesión | — | Vino voluntariamente en noviembre para revisar la prueba. Mostró interés por mejorar. |
+| Compromiso de mejora vigente | — | Planificación semanal | Participar más | Acordado en tutoría. Revisar en la evaluación de enero. |
 Alumno: Marta G. &nbsp;|&nbsp; Clase: 2.º ESO B &nbsp;|&nbsp; Asignatura: Ciencias Sociales &nbsp;|&nbsp; Trimestre: 1.º
 La hoja de seguimiento individual es la base para preparar la entrevista de tutoría: permite ver la trayectoria completa del alumno de un vistazo antes de la conversación.
 
@@ -3516,49 +3044,14 @@ Es un instrumento de seguimiento de aula muy útil para docentes con varios grup
 **Ejemplo:**
 
 Hoja de seguimiento grupal de Inglés en 3.º de ESO, segundo trimestre. Cada fila es un alumno; las columnas recogen las calificaciones de las tareas y una observación global. Permite detectar tendencias del grupo de un vistazo.
-|
-| Alumno
-| Expresión escrita(T1)
-| Comprensión oral(T2)
-| Speaking(T3)
-| Media
-| Observación
-| Alicia B.
-| 8,5
-| 7,0
-| 9,0
-| 8,2
-| Muy sólida en oral. La comprensión escrita es el punto a reforzar.
-| Bruno M.
-| 5,0
-| 6,5
-| 4,5
-| 5,3
-| Dificultades en producción oral. Hablar con él sobre apoyo fuera del aula.
-| Clara T.
-| 7,5
-| 8,0
-| 7,0
-| 7,5
-| Rendimiento uniforme y consistente en todas las destrezas.
-| Diego F.
-| 9,0
-| 9,5
-| 8,5
-| 9,0
-| Nivel avanzado en todo. Proponer tarea de ampliación.
-| Elena R.
-| 6,0
-| 5,5
-| 6,0
-| 5,8
-| Rendimiento por debajo de su potencial. Falta de trabajo autónomo en casa.
-| Fran P.
-| 7,0
-| —
-| 6,5
-| 6,8*
-| Ausente T2 por enfermedad. Prueba de recuperación pendiente.
+| Alumno | Expresión escrita(T1) | Comprensión oral(T2) | Speaking(T3) | Media | Observación |
+| --- | --- | --- | --- | --- | --- |
+| Alicia B. | 8,5 | 7,0 | 9,0 | 8,2 | Muy sólida en oral. La comprensión escrita es el punto a reforzar. |
+| Bruno M. | 5,0 | 6,5 | 4,5 | 5,3 | Dificultades en producción oral. Hablar con él sobre apoyo fuera del aula. |
+| Clara T. | 7,5 | 8,0 | 7,0 | 7,5 | Rendimiento uniforme y consistente en todas las destrezas. |
+| Diego F. | 9,0 | 9,5 | 8,5 | 9,0 | Nivel avanzado en todo. Proponer tarea de ampliación. |
+| Elena R. | 6,0 | 5,5 | 6,0 | 5,8 | Rendimiento por debajo de su potencial. Falta de trabajo autónomo en casa. |
+| Fran P. | 7,0 | — | 6,5 | 6,8* | Ausente T2 por enfermedad. Prueba de recuperación pendiente. |
 Clase: 3.º ESO A &nbsp;|&nbsp; Asignatura: Inglés &nbsp;|&nbsp; Trimestre: 2.º &nbsp;|&nbsp; Docente: Sr. Williams
 * Media provisional sin T2. El grupo muestra dispersión alta: hay que atender tanto el extremo inferior (Bruno, Elena) como el superior (Diego).
 La hoja grupal permite identificar patrones de clase (p. ej., la comprensión oral es más débil en todo el grupo) que no se ven cuando se revisa alumno por alumno.
@@ -3591,42 +3084,14 @@ Permite dar retroalimentación objetiva sobre la participación, detectar quién
 **Ejemplo:**
 
 Registro de participación del docente de Filosofía durante un debate en 1.º de Bachillerato. Se anota quién interviene, con qué frecuencia y qué tipo y calidad tiene la aportación.
-|
-| Alumno
-| Interv.
-| Tipo predominante
-| Calidad1–4
-| Observaciones
-| Alba R.
-| 7
-| Argumento razonado
-| 4
-| Introduce evidencias externas; conecta con el tema anterior.
-| Bernat M.
-| 2
-| Opinión sin argumento
-| 2
-| Solo interviene cuando se le pregunta directamente.
-| Celia F.
-| 5
-| Pregunta crítica
-| 4
-| Sus preguntas reorientan el debate. Escucha activamente antes de hablar.
-| Dani G.
-| 4
-| Contraargumento
-| 3
-| Rebate con fundamento, aunque a veces interrumpe antes de que el otro termine.
-| Elena P.
-| 0
-| —
-| —
-| No interviene. Toma notas. Hablar con ella en tutoría.
-| Fran T.
-| 3
-| Síntesis / resumen
-| 3
-| Recapitula bien los puntos clave. Útil para el grupo al final de cada ronda.
+| Alumno | Interv. | Tipo predominante | Calidad1–4 | Observaciones |
+| --- | --- | --- | --- | --- |
+| Alba R. | 7 | Argumento razonado | 4 | Introduce evidencias externas; conecta con el tema anterior. |
+| Bernat M. | 2 | Opinión sin argumento | 2 | Solo interviene cuando se le pregunta directamente. |
+| Celia F. | 5 | Pregunta crítica | 4 | Sus preguntas reorientan el debate. Escucha activamente antes de hablar. |
+| Dani G. | 4 | Contraargumento | 3 | Rebate con fundamento, aunque a veces interrumpe antes de que el otro termine. |
+| Elena P. | 0 | — | — | No interviene. Toma notas. Hablar con ella en tutoría. |
+| Fran T. | 3 | Síntesis / resumen | 3 | Recapitula bien los puntos clave. Útil para el grupo al final de cada ronda. |
 Debate: «¿Es ético delegar decisiones morales a la inteligencia artificial?» &nbsp;|&nbsp; Clase: 1.º Bachillerato B &nbsp;|&nbsp; Fecha: 15/05
 Calidad: 1 aportación irrelevante · 2 opinión sin fundamento · 3 argumento sólido · 4 argumento con evidencia o pregunta que avanza el debate.
 El registro de participación permite identificar quién no interviene nunca y quién monopoliza, y ajustar las dinámicas en la siguiente sesión.
@@ -3659,32 +3124,12 @@ Es especialmente útil en proyectos y actividades grupales extensas, donde el fu
 **Ejemplo:**
 
 Registro de trabajo cooperativo elaborado por el docente de Ciencias Naturales durante una sesión de proyecto en 3.º de ESO. Documenta el funcionamiento interno de un grupo a lo largo de la sesión.
-|
-| Miembro
-| Rol asignado
-| Tarea cumplida
-| Comunicación
-| Incidencias / observaciones
-| Mireia T.
-| Coordinadora
-| ✓
-| Proactiva, escucha bien
-| Gestiona el tiempo del grupo. Avisa cuando se desvían del objetivo.
-| Omar B.
-| Investigador
-| ✓
-| Aporta datos, poco diálogo
-| Trae mucha información pero no la comparte activamente; hay que preguntarle.
-| Júlia K.
-| Secretaria
-| ✓
-| Escucha, pocas propuestas
-| Recoge bien los acuerdos del grupo. No propone ideas propias.
-| Kevin L.
-| Portavoz
-| ✗
-| Domina la conversación
-| No prepara la exposición asignada. Interrumpe a Mireia en dos ocasiones. Hablar con él.
+| Miembro | Rol asignado | Tarea cumplida | Comunicación | Incidencias / observaciones |
+| --- | --- | --- | --- | --- |
+| Mireia T. | Coordinadora | ✓ | Proactiva, escucha bien | Gestiona el tiempo del grupo. Avisa cuando se desvían del objetivo. |
+| Omar B. | Investigador | ✓ | Aporta datos, poco diálogo | Trae mucha información pero no la comparte activamente; hay que preguntarle. |
+| Júlia K. | Secretaria | ✓ | Escucha, pocas propuestas | Recoge bien los acuerdos del grupo. No propone ideas propias. |
+| Kevin L. | Portavoz | ✗ | Domina la conversación | No prepara la exposición asignada. Interrumpe a Mireia en dos ocasiones. Hablar con él. |
 Grupo: Equipo 2 &nbsp;|&nbsp; Proyecto: «Los ecosistemas en peligro» &nbsp;|&nbsp; Sesión: 3/5 &nbsp;|&nbsp; Fecha: 09/04
 El grupo funciona bien en conjunto; el punto crítico es Kevin: su rol de portavoz requiere preparación previa que aún no asume.
 Combinar este registro con la autoevaluación del grupo permite detectar si los miembros perciben el mismo problema que el docente.
@@ -3717,31 +3162,13 @@ Son la base de la observación incidental y del registro anecdótico. Con el tie
 **Ejemplo:**
 
 Notas de campo tomadas por el docente de Matemáticas durante una sesión de resolución de problemas en 2.º de ESO. Anotaciones rápidas e inmediatas tomadas durante la clase; se elaborarán después en registros más formales si es necesario.
-|
-| Hora
-| Alumno / grupo
-| Observación
-| Acción tomada
-| 9:08
-| Grupo 1
-| Interpretan mal el enunciado: confunden «al menos» con «exactamente». Calculan bien pero responden otra cosa.
-| Señalo el error sin dar la solución. Les pido que relean el enunciado subrayando las palabras clave.
-| 9:15
-| Nadia R.
-| Resuelve el problema 3 con un método distinto al explicado (usa proporciones en lugar de ecuaciones). El resultado es correcto.
-| Le pido que lo explique al resto en la puesta en común. Anotar para evaluar pensamiento flexible.
-| 9:22
-| Iván M.
-| Lleva 14 minutos sin escribir nada. Cuando le pregunto, dice «no sé por dónde empezar». No es actitud, es bloqueo real.
-| Me siento con él 3 minutos, le doy un primer paso. Revisar si necesita apoyo individualizado.
-| 9:31
-| Grupo 3
-| Acaban todos los problemas antes que los demás. Empiezan a distraerse y a hablar de otra cosa.
-| Les propongo el problema de ampliación del final de la ficha. Volver a revisar el ritmo del grupo para próximas sesiones.
-| 9:40
-| Clase
-| En la puesta en común, solo 3 alumnos levantan la mano voluntariamente. El resto espera a que se les llame.
-| Probar la semana que viene con pizarras individuales para que todos respondan a la vez.
+| Hora | Alumno / grupo | Observación | Acción tomada |
+| --- | --- | --- | --- |
+| 9:08 | Grupo 1 | Interpretan mal el enunciado: confunden «al menos» con «exactamente». Calculan bien pero responden otra cosa. | Señalo el error sin dar la solución. Les pido que relean el enunciado subrayando las palabras clave. |
+| 9:15 | Nadia R. | Resuelve el problema 3 con un método distinto al explicado (usa proporciones en lugar de ecuaciones). El resultado es correcto. | Le pido que lo explique al resto en la puesta en común. Anotar para evaluar pensamiento flexible. |
+| 9:22 | Iván M. | Lleva 14 minutos sin escribir nada. Cuando le pregunto, dice «no sé por dónde empezar». No es actitud, es bloqueo real. | Me siento con él 3 minutos, le doy un primer paso. Revisar si necesita apoyo individualizado. |
+| 9:31 | Grupo 3 | Acaban todos los problemas antes que los demás. Empiezan a distraerse y a hablar de otra cosa. | Les propongo el problema de ampliación del final de la ficha. Volver a revisar el ritmo del grupo para próximas sesiones. |
+| 9:40 | Clase | En la puesta en común, solo 3 alumnos levantan la mano voluntariamente. El resto espera a que se les llame. | Probar la semana que viene con pizarras individuales para que todos respondan a la vez. |
 Clase: 2.º ESO B &nbsp;|&nbsp; Sesión: Resolución de problemas — ecuaciones de primer grado &nbsp;|&nbsp; Fecha: 28/01
 Las notas de campo son el material en bruto: se toman en el momento, sin pulir. Su valor está en la inmediatez; la elaboración formal viene después.
 
@@ -3773,35 +3200,14 @@ Es más flexible que una rúbrica fija y más informativa que una nota sola. Ade
 **Ejemplo:**
 
 Ficha de valoración del docente de Ciencias Naturales sobre un informe de laboratorio en 1.º de ESO. Combina una puntuación por criterio con un comentario cualitativo y se devuelve al alumno como documento de retroalimentación.
-|
-| Criterio
-| Nivel1–4
-| Puntos(máx. 2)
-| Observación
-| Descripción del procedimiento
-| 3 — Logrado
-| 1,5
-| Los pasos están bien ordenados. Falta indicar las unidades de medida en dos de ellos.
-| Recogida y presentación de datos
-| 4 — Excelente
-| 2
-| Tabla organizada, con encabezados claros y unidades correctas. La gráfica está bien etiquetada.
-| Análisis e interpretación
-| 2 — En proceso
-| 1
-| Describes los resultados pero no los relacionas con la hipótesis inicial. Intenta responder: «¿se confirmó la hipótesis? ¿por qué?»
-| Conclusión
-| 2 — En proceso
-| 1
-| La conclusión repite la descripción del experimento. Debe responder a la pregunta inicial del laboratorio, no resumir lo que hiciste.
-| Presentación y ortografía
-| 3 — Logrado
-| 1,5
-| Limpio y ordenado. Tres errores ortográficos menores subrayados en el texto.
-| Total
-| —
-| 7
-| El análisis y la conclusión son los aspectos a trabajar en el próximo informe.
+| Criterio | Nivel1–4 | Puntos(máx. 2) | Observación |
+| --- | --- | --- | --- |
+| Descripción del procedimiento | 3 — Logrado | 1,5 | Los pasos están bien ordenados. Falta indicar las unidades de medida en dos de ellos. |
+| Recogida y presentación de datos | 4 — Excelente | 2 | Tabla organizada, con encabezados claros y unidades correctas. La gráfica está bien etiquetada. |
+| Análisis e interpretación | 2 — En proceso | 1 | Describes los resultados pero no los relacionas con la hipótesis inicial. Intenta responder: «¿se confirmó la hipótesis? ¿por qué?» |
+| Conclusión | 2 — En proceso | 1 | La conclusión repite la descripción del experimento. Debe responder a la pregunta inicial del laboratorio, no resumir lo que hiciste. |
+| Presentación y ortografía | 3 — Logrado | 1,5 | Limpio y ordenado. Tres errores ortográficos menores subrayados en el texto. |
+| Total | — | 7 | El análisis y la conclusión son los aspectos a trabajar en el próximo informe. |
 Alumno: Nico R. &nbsp;|&nbsp; Práctica: Estudio de la germinación de semillas &nbsp;|&nbsp; Nota: 7/10 (Notable) &nbsp;|&nbsp; Fecha: 12/11
 La ficha de valoración es más informativa que una nota sola: el alumno ve en qué criterios ha destacado y en cuáles necesita mejorar, y recibe una orientación concreta para el siguiente informe.
 
@@ -3833,15 +3239,11 @@ La retroalimentación es más efectiva cuando es específica, oportuna y orienta
 **Ejemplo:**
 
 Ficha de retroalimentación escrita por el docente de Lengua Castellana tras corregir un ensayo argumentativo en 3.º de ESO. Se entrega al alumno junto con el trabajo para orientar la revisión.
-|
-| Sección
-| Comentario del docente
-| ✓ Lo que has hecho bien
-| Tu tesis es clara desde el primer párrafo y la defiendes con tres argumentos bien diferenciados. El uso de conectores de contraste («sin embargo», «a pesar de») da solidez al discurso. La conclusión recoge bien las ideas principales sin repetirlas literalmente.
-| △ Lo que puedes mejorar
-| Las evidencias que usas son generales («se sabe que…», «la gente opina…»). No citas ninguna fuente concreta, lo que debilita los argumentos. Además, el segundo párrafo del desarrollo introduce un tema nuevo sin haberlo anunciado en la introducción.
-| → Cómo hacerlo
-| Para el segundo borrador: (1) elige al menos una estadística o estudio real que apoye tu argumento más importante y cítalo; (2) añade en la introducción una frase que anticipe el punto del segundo párrafo. Con esos dos cambios el ensayo quedará redondo.
+| Sección | Comentario del docente |
+| --- | --- |
+| ✓ Lo que has hecho bien | Tu tesis es clara desde el primer párrafo y la defiendes con tres argumentos bien diferenciados. El uso de conectores de contraste («sin embargo», «a pesar de») da solidez al discurso. La conclusión recoge bien las ideas principales sin repetirlas literalmente. |
+| △ Lo que puedes mejorar | Las evidencias que usas son generales («se sabe que…», «la gente opina…»). No citas ninguna fuente concreta, lo que debilita los argumentos. Además, el segundo párrafo del desarrollo introduce un tema nuevo sin haberlo anunciado en la introducción. |
+| → Cómo hacerlo | Para el segundo borrador: (1) elige al menos una estadística o estudio real que apoye tu argumento más importante y cítalo; (2) añade en la introducción una frase que anticipe el punto del segundo párrafo. Con esos dos cambios el ensayo quedará redondo. |
 Alumno: Sergi B. &nbsp;|&nbsp; Trabajo: Ensayo «¿Debería ser obligatoria la asignatura de programación?» &nbsp;|&nbsp; Fecha: 03/03
 Valoración provisional: 6,5/10. Con las mejoras indicadas puede llegar a un 8.
 La ficha de retroalimentación es más útil que la nota sola: el alumno sabe exactamente qué cambiar y tiene un objetivo concreto para la segunda entrega.
@@ -3874,34 +3276,13 @@ Es un término genérico que engloba las rúbricas analíticas. La diferencia pr
 **Ejemplo:**
 
 Matriz de valoración para evaluar un proyecto de Geografía en 3.º de ESO. Cada celda combina una descripción sintética del nivel y su puntuación; el docente marca la celda que corresponde a lo observado en cada criterio.
-|
-| Criterio
-| Excelente4 pts
-| Competente3 pts
-| En proceso2 pts
-| Inicial1 pt
-| Información y fuentes
-| Datos precisos, variados y citados correctamente.
-| ✓ Datos correctos; alguna fuente sin citar.
-| Información básica; pocas fuentes.
-| Información escasa o incorrecta.
-| Análisis geográfico
-| Relaciona factores físicos, humanos y económicos con profundidad.
-| Relaciona factores pero sin profundidad.
-| ✓ Describe sin relacionar causas y consecuencias.
-| No hay análisis; solo datos sueltos.
-| Cartografía y recursos visuales
-| Mapas y gráficas propios, bien etiquetados y relevantes.
-| ✓ Recursos adecuados, alguno sin etiquetar o poco relevante.
-| Usa recursos ajenos sin adaptarlos.
-| Sin mapas ni gráficas, o irrelevantes.
-| Presentación escrita
-| Estructura clara, redacción fluida y sin errores.
-| ✓ Bien estructurado; errores menores que no dificultan la lectura.
-| Estructura parcial; errores frecuentes.
-| Sin estructura; texto difícil de seguir.
-| Puntuación total
-| 3 + 2 + 3 + 3 = 11 / 16 → 6,9
+| Criterio | Excelente4 pts | Competente3 pts | En proceso2 pts | Inicial1 pt |
+| --- | --- | --- | --- | --- |
+| Información y fuentes | Datos precisos, variados y citados correctamente. | ✓ Datos correctos; alguna fuente sin citar. | Información básica; pocas fuentes. | Información escasa o incorrecta. |
+| Análisis geográfico | Relaciona factores físicos, humanos y económicos con profundidad. | Relaciona factores pero sin profundidad. | ✓ Describe sin relacionar causas y consecuencias. | No hay análisis; solo datos sueltos. |
+| Cartografía y recursos visuales | Mapas y gráficas propios, bien etiquetados y relevantes. | ✓ Recursos adecuados, alguno sin etiquetar o poco relevante. | Usa recursos ajenos sin adaptarlos. | Sin mapas ni gráficas, o irrelevantes. |
+| Presentación escrita | Estructura clara, redacción fluida y sin errores. | ✓ Bien estructurado; errores menores que no dificultan la lectura. | Estructura parcial; errores frecuentes. | Sin estructura; texto difícil de seguir. |
+| Puntuación total | 3 + 2 + 3 + 3 = 11 / 16 → 6,9 |
 Alumno: Víctor S. &nbsp;|&nbsp; Proyecto: La cuenca mediterránea: recursos hídricos &nbsp;|&nbsp; Fecha: 03/06
 La matriz de valoración es más ágil que una rúbrica completa cuando los descriptores pueden resumirse en una sola frase por celda; es especialmente útil para correcciones rápidas o coevaluación.
 
@@ -3933,32 +3314,12 @@ Es un instrumento de eficiencia que reduce el tiempo de diseño de instrumentos 
 **Ejemplo:**
 
 Banco de descriptores para la competencia de comunicación oral. El docente selecciona y adapta los descriptores de este banco al diseñar rúbricas, fichas de valoración o informes. Las celdas resaltadas son los descriptores escogidos para una rúbrica concreta de exposición oral en 4.º de ESO.
-|
-| Criterio
-| Nivel 1 — Inicial
-| Nivel 2 — En proceso
-| Nivel 3 — Logrado
-| Nivel 4 — Excelente
-| Contenido y estructura
-| Sin estructura reconocible; información incompleta o incorrecta.
-| ✓ Seleccionado: Ideas básicas presentes pero desordenadas; estructura difusa.
-| Ideas correctas con estructura reconocible aunque mejorable.
-| Ideas claras y bien desarrolladas; estructura impecable con introducción, desarrollo y conclusión.
-| Expresión oral
-| Volumen insuficiente o dicción muy deficiente; no se entiende.
-| Expresión funcional con pausas excesivas o voz baja en momentos.
-| ✓ Seleccionado: Dicción clara y volumen adecuado; alguna duda puntual no interrumpe el discurso.
-| Dicción excelente, ritmo natural y volumen perfecto durante toda la exposición.
-| Lenguaje no verbal
-| Sin contacto visual; postura que dificulta la comunicación.
-| ✓ Seleccionado: Contacto visual escaso; postura tensa o que distrae al público.
-| Contacto visual frecuente; postura adecuada aunque sin gesticular.
-| Contacto visual constante; gesticulación que refuerza el mensaje.
-| Gestión del tiempo
-| Excede o no llega al tiempo asignado en más de 2 min.
-| Desajuste de 1–2 min o distribución muy irregular entre las partes.
-| ✓ Seleccionado: Leve desajuste (±1 min); distribución ligeramente irregular.
-| Ajuste perfecto al tiempo asignado; partes bien distribuidas.
+| Criterio | Nivel 1 — Inicial | Nivel 2 — En proceso | Nivel 3 — Logrado | Nivel 4 — Excelente |
+| --- | --- | --- | --- | --- |
+| Contenido y estructura | Sin estructura reconocible; información incompleta o incorrecta. | ✓ Seleccionado: Ideas básicas presentes pero desordenadas; estructura difusa. | Ideas correctas con estructura reconocible aunque mejorable. | Ideas claras y bien desarrolladas; estructura impecable con introducción, desarrollo y conclusión. |
+| Expresión oral | Volumen insuficiente o dicción muy deficiente; no se entiende. | Expresión funcional con pausas excesivas o voz baja en momentos. | ✓ Seleccionado: Dicción clara y volumen adecuado; alguna duda puntual no interrumpe el discurso. | Dicción excelente, ritmo natural y volumen perfecto durante toda la exposición. |
+| Lenguaje no verbal | Sin contacto visual; postura que dificulta la comunicación. | ✓ Seleccionado: Contacto visual escaso; postura tensa o que distrae al público. | Contacto visual frecuente; postura adecuada aunque sin gesticular. | Contacto visual constante; gesticulación que refuerza el mensaje. |
+| Gestión del tiempo | Excede o no llega al tiempo asignado en más de 2 min. | Desajuste de 1–2 min o distribución muy irregular entre las partes. | ✓ Seleccionado: Leve desajuste (±1 min); distribución ligeramente irregular. | Ajuste perfecto al tiempo asignado; partes bien distribuidas. |
 Banco: Comunicación oral — niveles 1–4 &nbsp;|&nbsp; Uso: Rúbrica de exposición oral, 4.º ESO &nbsp;|&nbsp; Docente: Sra. Puig
 Los descriptores resaltados son los que mejor se ajustan al nivel del grupo. Los de niveles adyacentes se guardan en el banco para rúbricas de otros cursos.
 Un banco de descriptores bien construido reduce el tiempo de diseño de nuevas rúbricas a minutos: seleccionar y adaptar es mucho más rápido que redactar desde cero.
@@ -4024,12 +3385,12 @@ Participación
 Argumentación
 Colaboración
 Reflexión
-|
-| Criterio | Nivel | Valoración
-| Participación | 3 | Competente
-| Argumentación | 2 | En proceso
-| Colaboración | 4 | Excelente
-| Reflexión | 3 | Competente
+| Criterio | Nivel | Valoración |
+| --- | --- | --- |
+| Participación | 3 | Competente |
+| Argumentación | 2 | En proceso |
+| Colaboración | 4 | Excelente |
+| Reflexión | 3 | Competente |
 Nivel medio: 3
 Área de mejora: argumentación (nivel 2).
 Punto fuerte: colaboración (nivel 4).
@@ -4066,31 +3427,13 @@ Adecuado para el seguimiento formativo rápido, la comunicación a familias y la
 **Ejemplo:**
 
 Semáforo de autoevaluación al finalizar una unidad sobre fracciones en 5.º de Primaria. Cada alumno señala su nivel de comprensión para cada contenido.
-|
-| Contenido
-|
-No lo entiendo
-|
-Lo entiendo a medias
-|
-Lo entiendo bien
-| Qué es una fracción
-| |
-| ✓
-| Fracciones equivalentes
-|
-| ✓
-|
-| Comparar fracciones
-|
-| ✓
-|
-| Sumar y restar fracciones
-| ✓
-| |
-| Problemas con fracciones
-| ✓
-| |
+| Contenido | No lo entiendo | Lo entiendo a medias | Lo entiendo bien |
+| --- | --- | --- | --- |
+| Qué es una fracción | | | ✓ |
+| Fracciones equivalentes | | ✓ | |
+| Comparar fracciones | | ✓ | |
+| Sumar y restar fracciones | ✓ | | |
+| Problemas con fracciones | ✓ | | |
 El alumno domina el concepto básico pero tiene dificultades con las operaciones. El docente reagrupa a los alumnos con rojo y amarillo en operaciones para una sesión de refuerzo.
 
 **Técnicas activas que la usan:** Aprendizaje basado en indagación, Aprendizaje experiencial, Aprendizaje por descubrimiento, Flipped Classroom (Aula invertida), La caja, Preguntas bisagra (hinge questions), Respuesta de todos a la vez
@@ -4121,24 +3464,14 @@ Su valor es principalmente metacognitivo: obliga al alumno a reflexionar sobre s
 **Ejemplo:**
 
 Escala de autoevaluación para valorar una exposición oral de Biología en 1.º de Bachillerato. El alumno la cumplimenta inmediatamente después de su presentación.
-|
-| Indicador (primera persona)
-| 1Nada
-| 2Poco
-| 3Bastante
-| 4Mucho
-| He preparado el contenido con profundidad suficiente
-| | | ✓ |
-| He estructurado la exposición con introducción, desarrollo y conclusión
-| | | | ✓
-| Me he expresado con claridad y sin leer las diapositivas
-| | ✓ | |
-| He mantenido contacto visual con la audiencia
-| | ✓ | |
-| He respondido las preguntas con seguridad
-| | | ✓ |
-| El soporte visual ha complementado mi discurso
-| | | | ✓
+| Indicador (primera persona) | 1Nada | 2Poco | 3Bastante | 4Mucho |
+| --- | --- | --- | --- | --- |
+| He preparado el contenido con profundidad suficiente | | | ✓ | |
+| He estructurado la exposición con introducción, desarrollo y conclusión | | | | ✓ |
+| Me he expresado con claridad y sin leer las diapositivas | | ✓ | | |
+| He mantenido contacto visual con la audiencia | | ✓ | | |
+| He respondido las preguntas con seguridad | | | ✓ | |
+| El soporte visual ha complementado mi discurso | | | | ✓ |
 Alumno: Marc D. &nbsp;|&nbsp; Tema: Genética mendeliana: experimentos y aplicaciones &nbsp;|&nbsp; Fecha: 10/03
 Reflexión personal: «Debo practicar más hablar sin mirar las diapositivas y mantener la mirada al público. El contenido lo tenía bien preparado.»
 
@@ -4170,32 +3503,12 @@ Es especialmente útil en portfolios, proyectos y tareas complejas donde el alum
 **Ejemplo:**
 
 Rúbrica de autoevaluación que el alumno de Lengua Castellana completa sobre su propio relato corto en 3.º de ESO. Los descriptores están en primera persona; el alumno selecciona el nivel y justifica brevemente su elección.
-|
-| Criterio
-| Excelente (4)
-| Competente (3)
-| En proceso (2)
-| Inicial (1)
-| Estructura narrativa
-| Mi relato tiene planteamiento, nudo y desenlace muy bien diferenciados y el lector puede seguirlos sin esfuerzo.
-| ✓ Mi relato tiene los tres momentos, aunque alguna transición podría estar más marcada.
-| Mi relato tiene los tres momentos pero uno de ellos es muy corto o está poco desarrollado.
-| Mi relato no tiene una estructura narrativa reconocible.
-| Personajes y ambiente
-| Describo los personajes y el lugar de forma vívida; el lector puede imaginárselos sin dificultad.
-| Describo los personajes y el lugar, aunque con algunos detalles que podría mejorar.
-| ✓ Menciono a los personajes y el lugar, pero las descripciones son escuetas o repetitivas.
-| No hay apenas descripción de personajes ni de ambiente.
-| Lenguaje y vocabulario
-| Uso un vocabulario variado y preciso; evito repeticiones y empleo recursos literarios de forma natural.
-| ✓ Mi vocabulario es adecuado, aunque en algunos momentos repito palabras o uso términos muy generales.
-| Mi vocabulario es limitado y hay repeticiones frecuentes que dificultan la lectura.
-| El vocabulario es muy básico y la expresión es imprecisa en la mayor parte del texto.
-| Revisión y corrección
-| He revisado el texto al menos dos veces; no hay errores ortográficos ni de puntuación.
-| He revisado el texto; hay algún error menor que no dificulta la comprensión.
-| He revisado el texto una vez; hay errores que indican una revisión superficial.
-| ✓ No he revisado en profundidad; hay errores frecuentes de ortografía o puntuación.
+| Criterio | Excelente (4) | Competente (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Estructura narrativa | Mi relato tiene planteamiento, nudo y desenlace muy bien diferenciados y el lector puede seguirlos sin esfuerzo. | ✓ Mi relato tiene los tres momentos, aunque alguna transición podría estar más marcada. | Mi relato tiene los tres momentos pero uno de ellos es muy corto o está poco desarrollado. | Mi relato no tiene una estructura narrativa reconocible. |
+| Personajes y ambiente | Describo los personajes y el lugar de forma vívida; el lector puede imaginárselos sin dificultad. | Describo los personajes y el lugar, aunque con algunos detalles que podría mejorar. | ✓ Menciono a los personajes y el lugar, pero las descripciones son escuetas o repetitivas. | No hay apenas descripción de personajes ni de ambiente. |
+| Lenguaje y vocabulario | Uso un vocabulario variado y preciso; evito repeticiones y empleo recursos literarios de forma natural. | ✓ Mi vocabulario es adecuado, aunque en algunos momentos repito palabras o uso términos muy generales. | Mi vocabulario es limitado y hay repeticiones frecuentes que dificultan la lectura. | El vocabulario es muy básico y la expresión es imprecisa en la mayor parte del texto. |
+| Revisión y corrección | He revisado el texto al menos dos veces; no hay errores ortográficos ni de puntuación. | He revisado el texto; hay algún error menor que no dificulta la comprensión. | He revisado el texto una vez; hay errores que indican una revisión superficial. | ✓ No he revisado en profundidad; hay errores frecuentes de ortografía o puntuación. |
 Alumno: Carla V. &nbsp;|&nbsp; Relato: «El último tren» &nbsp;|&nbsp; Fecha: 10/04
 Justificación del alumno: «He elegido En proceso en personajes porque solo describo cómo es el protagonista físicamente, pero no cómo piensa. En revisión me puse Inicial porque sé que no volví a leerlo antes de entregarlo.»
 Pedir al alumno que justifique cada nivel seleccionado es tan importante como la propia selección: la reflexión escrita convierte la autoevaluación en aprendizaje.
@@ -4228,32 +3541,12 @@ Para que sea efectiva, los alumnos deben haber practicado aplicar los criterios 
 **Ejemplo:**
 
 Rúbrica de coevaluación que un alumno de Biología aplica al trabajo de investigación de un compañero en 1.º de Bachillerato. Los descriptores están en segunda persona; el evaluador señala el nivel observado y añade un comentario.
-|
-| Criterio
-| Excelente (4)
-| Competente (3)
-| En proceso (2)
-| Inicial (1)
-| Hipótesis y planteamiento
-| Tu pregunta de investigación es clara, acotada y científicamente relevante. La hipótesis es comprobable y está bien justificada.
-| ✓ Tu pregunta es reconocible y la hipótesis es correcta, aunque podría estar mejor justificada.
-| Tu pregunta es demasiado amplia o la hipótesis es difícil de comprobar experimentalmente.
-| No hay una pregunta ni una hipótesis claras.
-| Metodología
-| Tu diseño experimental es riguroso: controlas las variables, describes el procedimiento con detalle y es reproducible.
-| Tu diseño es correcto pero algún paso del procedimiento está descrito de forma ambigua.
-| ✓ Tu diseño tiene los elementos básicos, pero no controlas claramente las variables o el procedimiento es difícil de reproducir.
-| No hay un diseño experimental reconocible.
-| Resultados y análisis
-| Presentas los datos de forma clara (tablas, gráficas) y los analizas relacionándolos con la hipótesis.
-| ✓ Tus datos están bien presentados, aunque el análisis no profundiza en las causas de los resultados obtenidos.
-| Los datos están presentes pero la presentación es confusa o el análisis es descriptivo y no interpretativo.
-| Los datos son incompletos o no hay análisis.
-| Conclusiones
-| Tus conclusiones responden directamente a la hipótesis, reconocen las limitaciones del trabajo y proponen pasos siguientes.
-| Tus conclusiones responden a la hipótesis pero no reconocen las limitaciones ni proponen mejoras.
-| Tus conclusiones son parciales o no están conectadas con la hipótesis inicial.
-| ✓ Las conclusiones no responden a la hipótesis o repiten la descripción del experimento sin interpretarla.
+| Criterio | Excelente (4) | Competente (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Hipótesis y planteamiento | Tu pregunta de investigación es clara, acotada y científicamente relevante. La hipótesis es comprobable y está bien justificada. | ✓ Tu pregunta es reconocible y la hipótesis es correcta, aunque podría estar mejor justificada. | Tu pregunta es demasiado amplia o la hipótesis es difícil de comprobar experimentalmente. | No hay una pregunta ni una hipótesis claras. |
+| Metodología | Tu diseño experimental es riguroso: controlas las variables, describes el procedimiento con detalle y es reproducible. | Tu diseño es correcto pero algún paso del procedimiento está descrito de forma ambigua. | ✓ Tu diseño tiene los elementos básicos, pero no controlas claramente las variables o el procedimiento es difícil de reproducir. | No hay un diseño experimental reconocible. |
+| Resultados y análisis | Presentas los datos de forma clara (tablas, gráficas) y los analizas relacionándolos con la hipótesis. | ✓ Tus datos están bien presentados, aunque el análisis no profundiza en las causas de los resultados obtenidos. | Los datos están presentes pero la presentación es confusa o el análisis es descriptivo y no interpretativo. | Los datos son incompletos o no hay análisis. |
+| Conclusiones | Tus conclusiones responden directamente a la hipótesis, reconocen las limitaciones del trabajo y proponen pasos siguientes. | Tus conclusiones responden a la hipótesis pero no reconocen las limitaciones ni proponen mejoras. | Tus conclusiones son parciales o no están conectadas con la hipótesis inicial. | ✓ Las conclusiones no responden a la hipótesis o repiten la descripción del experimento sin interpretarla. |
 Trabajo evaluado de: Pol R. &nbsp;|&nbsp; Evaluado por: Noa F. &nbsp;|&nbsp; Trabajo: «Efecto del pH en la actividad enzimática» &nbsp;|&nbsp; Fecha: 22/05
 Comentario del evaluador: «El diseño experimental y los datos son lo más flojo. La gráfica está bien hecha pero en las conclusiones no explica por qué los resultados difieren de lo esperado. La hipótesis y la metodología están bien planteadas.»
 La coevaluación con rúbrica obliga al evaluador a justificar cada puntuación con los descriptores, lo que reduce la valoración subjetiva y mejora la calidad del feedback entre pares.
@@ -4286,17 +3579,12 @@ Es una buena introducción a la coevaluación para grupos que no tienen práctic
 **Ejemplo:**
 
 Ficha de coevaluación completada por un alumno para valorar la presentación oral de un compañero en un proyecto de 4.º de ESO. El evaluador es un par; el lenguaje es directo y accesible.
-|
-| Pregunta
-| Respuesta del evaluador
-| ¿Qué ha hecho bien?Señala al menos dos cosas concretas
-| Ha explicado el tema sin leer las diapositivas y se le entendía bien. También ha respondido bien a las preguntas que le hicieron al final, especialmente cuando le preguntaron sobre el impacto medioambiental.
-| ¿Qué podría mejorar?Sé específico, no solo «hablar más»
-| Al principio hablaba muy rápido y costaba seguirle. Creo que si pusiera más pausas entre los puntos principales sería más fácil entenderle. Las diapositivas tenían demasiado texto en dos de ellas.
-| Valoración por criterio1 inicio · 2 en proceso · 3 logrado · 4 excelente
-| Contenido: 3 &nbsp;·&nbsp; Estructura: 3 &nbsp;·&nbsp; Expresión oral: 2 &nbsp;·&nbsp; Soporte visual: 2
-| Una cosa que aprendiste túReflexión del evaluador sobre el proceso
-| He aprendido que cuando haces buenas preguntas al público al final, la presentación parece más completa. Lo voy a intentar yo también.
+| Pregunta | Respuesta del evaluador |
+| --- | --- |
+| ¿Qué ha hecho bien?Señala al menos dos cosas concretas | Ha explicado el tema sin leer las diapositivas y se le entendía bien. También ha respondido bien a las preguntas que le hicieron al final, especialmente cuando le preguntaron sobre el impacto medioambiental. |
+| ¿Qué podría mejorar?Sé específico, no solo «hablar más» | Al principio hablaba muy rápido y costaba seguirle. Creo que si pusiera más pausas entre los puntos principales sería más fácil entenderle. Las diapositivas tenían demasiado texto en dos de ellas. |
+| Valoración por criterio1 inicio · 2 en proceso · 3 logrado · 4 excelente | Contenido: 3 &nbsp;·&nbsp; Estructura: 3 &nbsp;·&nbsp; Expresión oral: 2 &nbsp;·&nbsp; Soporte visual: 2 |
+| Una cosa que aprendiste túReflexión del evaluador sobre el proceso | He aprendido que cuando haces buenas preguntas al público al final, la presentación parece más completa. Lo voy a intentar yo también. |
 Alumno evaluado: Tomàs V. &nbsp;|&nbsp; Evaluado por: Júlia K. &nbsp;|&nbsp; Proyecto: Energías renovables en España &nbsp;|&nbsp; Fecha: 28/05
 La última pregunta («qué aprendiste tú») transforma la coevaluación en una experiencia de aprendizaje doble: el evaluado recibe retroalimentación y el evaluador reflexiona sobre su propio proceso.
 
@@ -4328,35 +3616,16 @@ Es especialmente útil para tareas con requisitos claros y cerrados (formato de 
 **Ejemplo:**
 
 Lista de cotejo de autoevaluación que el alumno de Lengua Castellana completa antes de entregar un texto argumentativo en 2.º de ESO. Le permite detectar omisiones y decidir si el trabajo está listo para entregar.
-|
-| Indicador (primera persona)
-| Sí
-| No
-| Observación propia
-| He escrito mi tesis de forma clara en el primer párrafo
-| ✓ |
-| La primera frase del texto la expresa bien.
-| He desarrollado al menos tres argumentos distintos
-| ✓ |
-| Tengo cuatro argumentos, aunque el tercero es el más débil.
-| He incluido evidencias o ejemplos concretos para cada argumento
-| | ✗
-| El segundo y cuarto argumento no tienen ejemplo. Debo añadirlos.
-| He mencionado y rebatido al menos un contraargumento
-| ✓ |
-| Está en el tercer párrafo; creo que lo rebato bien.
-| Mi conclusión retoma la tesis sin copiarla literalmente
-| | ✗
-| La conclusión es casi igual a la introducción. Tengo que reescribirla.
-| He usado conectores variados (no solo «pero» y «también»)
-| ✓ |
-| Usé «sin embargo», «por tanto» y «a pesar de».
-| He revisado la ortografía y la puntuación al menos una vez
-| ✓ |
-| Sí, pero solo una vez. Podría releerlo.
-| La extensión está dentro del rango pedido (250–350 palabras)
-| ✓ |
-| 310 palabras según el contador del procesador.
+| Indicador (primera persona) | Sí | No | Observación propia |
+| --- | --- | --- | --- |
+| He escrito mi tesis de forma clara en el primer párrafo | ✓ | | La primera frase del texto la expresa bien. |
+| He desarrollado al menos tres argumentos distintos | ✓ | | Tengo cuatro argumentos, aunque el tercero es el más débil. |
+| He incluido evidencias o ejemplos concretos para cada argumento | | ✗ | El segundo y cuarto argumento no tienen ejemplo. Debo añadirlos. |
+| He mencionado y rebatido al menos un contraargumento | ✓ | | Está en el tercer párrafo; creo que lo rebato bien. |
+| Mi conclusión retoma la tesis sin copiarla literalmente | | ✗ | La conclusión es casi igual a la introducción. Tengo que reescribirla. |
+| He usado conectores variados (no solo «pero» y «también») | ✓ | | Usé «sin embargo», «por tanto» y «a pesar de». |
+| He revisado la ortografía y la puntuación al menos una vez | ✓ | | Sí, pero solo una vez. Podría releerlo. |
+| La extensión está dentro del rango pedido (250–350 palabras) | ✓ | | 310 palabras según el contador del procesador. |
 Alumno: Marc D. &nbsp;|&nbsp; Tarea: Texto argumentativo «¿Debería ser obligatorio el deporte en el instituto?» &nbsp;|&nbsp; Fecha: 06/03
 Decisión del alumno: «Antes de entregar tengo que añadir ejemplos al argumento 2 y reescribir la conclusión. Cuando lo tenga hecho, sí está listo.»
 La columna de observación propia es clave: obliga al alumno a ser específico sobre lo que falta, no solo a marcar sí o no.
@@ -4389,27 +3658,12 @@ Cierra el ciclo de la evaluación formativa: recogida de evidencias → retroali
 **Ejemplo:**
 
 Registro de compromisos de mejora cumplimentado por un alumno de 2.º de ESO tras recibir la retroalimentación del docente sobre su redacción. Convierte la evaluación formativa en un plan de acción concreto.
-|
-| Aspecto a mejorar
-| Compromiso concreto
-| Plazo
-| ¿Cumplido?
-| Conclusión
-| Reescribir la conclusión para que responda directamente a la pregunta inicial sin copiar la introducción. Añadir una frase de apertura hacia nuevas preguntas.
-| Antes de la entrega final (viernes 14)
-| ✓ Hecho
-| Evidencias del argumento 2
-| Buscar al menos un dato o estudio concreto que apoye el segundo argumento y citarlo correctamente con autor y año.
-| Antes de la entrega final (viernes 14)
-| ✓ Hecho
-| Revisión ortográfica
-| Leer el texto en voz alta una vez completo para detectar errores que no se ven al leer en silencio. Después usar el corrector del procesador de texto.
-| Antes de entregar
-| ✓ Hecho
-| Conectores variados
-| Sustituir al menos tres «pero» del texto por otros conectores de contraste (sin embargo, a pesar de, aunque).
-| Antes de entregar
-| En proceso
+| Aspecto a mejorar | Compromiso concreto | Plazo | ¿Cumplido? |
+| --- | --- | --- | --- |
+| Conclusión | Reescribir la conclusión para que responda directamente a la pregunta inicial sin copiar la introducción. Añadir una frase de apertura hacia nuevas preguntas. | Antes de la entrega final (viernes 14) | ✓ Hecho |
+| Evidencias del argumento 2 | Buscar al menos un dato o estudio concreto que apoye el segundo argumento y citarlo correctamente con autor y año. | Antes de la entrega final (viernes 14) | ✓ Hecho |
+| Revisión ortográfica | Leer el texto en voz alta una vez completo para detectar errores que no se ven al leer en silencio. Después usar el corrector del procesador de texto. | Antes de entregar | ✓ Hecho |
+| Conectores variados | Sustituir al menos tres «pero» del texto por otros conectores de contraste (sin embargo, a pesar de, aunque). | Antes de entregar | En proceso |
 Alumno: Marc D. &nbsp;|&nbsp; Tarea: Redacción argumentativa 2.ª entrega &nbsp;|&nbsp; Fecha del registro: 10/03 &nbsp;|&nbsp; Revisado el: 14/03
 El registro de compromisos es la pieza que cierra el ciclo formativo: sin él, el alumno recibe el feedback pero no necesariamente actúa sobre él. El seguimiento del docente en la siguiente entrega verifica si el compromiso se cumplió.
 
@@ -4441,49 +3695,14 @@ Más allá de ser un registro administrativo, puede usarse para detectar tendenc
 **Ejemplo:**
 
 Fragmento del cuaderno de calificaciones de Ciencias Sociales en 3.º de ESO, segundo trimestre. El docente registra la nota de cada tarea y calcula la media parcial para hacer el seguimiento del grupo.
-|
-| Alumno
-| T1Ensayo
-| T2Prueba
-| T3Presentación
-| T4Proyecto
-| MediaT2
-| Alicia B.
-| 7,5
-| 8,0
-| 8,5
-| 7,0
-| 7,8
-| Bruno M.
-| 5,0
-| 4,5
-| 6,0
-| 5,5
-| 5,3
-| Clara T.
-| 8,0
-| 7,5
-| 7,0
-| 8,0
-| 7,6
-| Diego F.
-| 9,5
-| 9,0
-| 9,5
-| 9,0
-| 9,3
-| Elena R.
-| 6,0
-| —
-| 6,5
-| 7,0
-| 6,5*
-| Fran P.
-| 7,0
-| 6,5
-| 7,5
-| 6,0
-| 6,8
+| Alumno | T1Ensayo | T2Prueba | T3Presentación | T4Proyecto | MediaT2 |
+| --- | --- | --- | --- | --- | --- |
+| Alicia B. | 7,5 | 8,0 | 8,5 | 7,0 | 7,8 |
+| Bruno M. | 5,0 | 4,5 | 6,0 | 5,5 | 5,3 |
+| Clara T. | 8,0 | 7,5 | 7,0 | 8,0 | 7,6 |
+| Diego F. | 9,5 | 9,0 | 9,5 | 9,0 | 9,3 |
+| Elena R. | 6,0 | — | 6,5 | 7,0 | 6,5* |
+| Fran P. | 7,0 | 6,5 | 7,5 | 6,0 | 6,8 |
 Clase: 3.º ESO B &nbsp;|&nbsp; Asignatura: Ciencias Sociales &nbsp;|&nbsp; Trimestre: 2.º
 * Media provisional sin T2 (Elena, ausente por enfermedad). Prueba de recuperación pendiente. Las medias son sin ponderar; la nota final aplica los pesos del baremo.
 El cuaderno de calificaciones es el punto de partida para calcular la nota trimestral; combinarlo con el baremo de ponderación da la nota final según los criterios definidos.
@@ -4516,42 +3735,13 @@ Permite al alumnado y a las familias conocer exactamente en qué criterios está
 **Ejemplo:**
 
 Tabla de calificación por criterios de evaluación de Lengua Castellana y Literatura en 4.º de ESO (formato LOMLOE). La nota final resulta de ponderar la calificación obtenida en cada criterio según su peso en la programación.
-|
-| Criterio de evaluación
-| Competencia específica
-| Peso (%)
-| Nivel1–4
-| Nota/10
-| Aportación
-| Producción de textos escritos argumentativos con adecuación, coherencia y cohesión
-| CE 3 — Producción escrita
-| 30
-| 3
-| 7,0
-| 2,1
-| Comprensión de textos orales y análisis de recursos discursivos y no verbales
-| CE 1 — Comprensión oral
-| 20
-| 4
-| 9,0
-| 1,8
-| Lectura e interpretación de textos literarios del siglo XX con valoración crítica
-| CE 5 — Educación literaria
-| 25
-| 3
-| 7,5
-| 1,88
-| Reflexión sobre el funcionamiento del sistema lingüístico aplicada a la revisión de textos propios
-| CE 4 — Reflexión lingüística
-| 25
-| 2
-| 5,5
-| 1,38
-| Nota final del trimestre
-| 100
-| —
-| —
-| 7,16 → 7
+| Criterio de evaluación | Competencia específica | Peso (%) | Nivel1–4 | Nota/10 | Aportación |
+| --- | --- | --- | --- | --- | --- |
+| Producción de textos escritos argumentativos con adecuación, coherencia y cohesión | CE 3 — Producción escrita | 30 | 3 | 7,0 | 2,1 |
+| Comprensión de textos orales y análisis de recursos discursivos y no verbales | CE 1 — Comprensión oral | 20 | 4 | 9,0 | 1,8 |
+| Lectura e interpretación de textos literarios del siglo XX con valoración crítica | CE 5 — Educación literaria | 25 | 3 | 7,5 | 1,88 |
+| Reflexión sobre el funcionamiento del sistema lingüístico aplicada a la revisión de textos propios | CE 4 — Reflexión lingüística | 25 | 2 | 5,5 | 1,38 |
+| Nota final del trimestre | 100 | — | — | 7,16 → 7 |
 Alumno: Marta G. &nbsp;|&nbsp; Asignatura: Lengua Castellana y Literatura &nbsp;|&nbsp; Trimestre: 2.º &nbsp;|&nbsp; Nota final: 7 (Bien)
 Nivel 2 = Suficiente (5–5,9) · Nivel 3 = Bien/Notable (6–8,9) · Nivel 4 = Sobresaliente (9–10).
 La tabla por criterios muestra exactamente en qué competencias está el alumno por encima o por debajo de la media, lo que orienta el plan de refuerzo o ampliación de forma mucho más precisa que una nota única.
@@ -4584,35 +3774,14 @@ Una buena matriz de ponderación refleja las prioridades pedagógicas: si el pro
 **Ejemplo:**
 
 Matriz de ponderación del sistema de evaluación de Física y Química en 2.º de Bachillerato, primer trimestre. Define el peso de cada elemento evaluable y cómo se obtiene la nota final, comunicada al alumnado al inicio del curso.
-|
-| Elemento evaluable
-| Peso (%)
-| Nota obtenida(sobre 10)
-| Aportacióna la nota
-| Prueba escrita (examen parcial)
-| 40
-| 7,5
-| 3,0
-| Prácticas de laboratorio (informes × 3)
-| 25
-| 8,0
-| 2,0
-| Resolución de problemas (entrega semanal)
-| 20
-| 6,5
-| 1,3
-| Participación y actitud en clase
-| 10
-| 9,0
-| 0,9
-| Trabajo de investigación breve
-| 5
-| 8,5
-| 0,43
-| Nota final del trimestre
-| 100
-| —
-| 7,63 → 7,5
+| Elemento evaluable | Peso (%) | Nota obtenida(sobre 10) | Aportacióna la nota |
+| --- | --- | --- | --- |
+| Prueba escrita (examen parcial) | 40 | 7,5 | 3,0 |
+| Prácticas de laboratorio (informes × 3) | 25 | 8,0 | 2,0 |
+| Resolución de problemas (entrega semanal) | 20 | 6,5 | 1,3 |
+| Participación y actitud en clase | 10 | 9,0 | 0,9 |
+| Trabajo de investigación breve | 5 | 8,5 | 0,43 |
+| Nota final del trimestre | 100 | — | 7,63 → 7,5 |
 Alumno: Sara L. &nbsp;|&nbsp; Clase: 2.º Bach. A &nbsp;|&nbsp; Trimestre: 1.º
 Fórmula: Aportación = (nota obtenida × peso) / 100. Nota final = suma de aportaciones. Redondeo a 0,5 más próximo.
 Publicar la matriz de ponderación al inicio del curso permite al alumnado entender el impacto real de cada elemento: en este caso, mejorar una décima en el examen tiene más efecto que mejorar tres décimas en participación.
@@ -4645,28 +3814,14 @@ Su ventaja es la facilidad de comunicación y cálculo. Su limitación es que no
 **Ejemplo:**
 
 Escala numérica para calificar un proyecto de investigación histórica en 1.º de Bachillerato. Cada criterio tiene una puntuación máxima asignada y el docente anota la obtenida.
-|
-| Criterio
-| Máx.
-| Obtenida
-| Planteamiento claro del problema o hipótesis
-| 1,5
-| 1,5
-| Uso y cita de fuentes primarias y secundarias
-| 2
-| 2
-| Análisis crítico y contextualización histórica
-| 3
-| 2
-| Estructura y coherencia del trabajo escrito
-| 2
-| 1,5
-| Presentación oral y respuesta a preguntas
-| 1,5
-| 1
-| Total
-| 10
-| 8
+| Criterio | Máx. | Obtenida |
+| --- | --- | --- |
+| Planteamiento claro del problema o hipótesis | 1,5 | 1,5 |
+| Uso y cita de fuentes primarias y secundarias | 2 | 2 |
+| Análisis crítico y contextualización histórica | 3 | 2 |
+| Estructura y coherencia del trabajo escrito | 2 | 1,5 |
+| Presentación oral y respuesta a preguntas | 1,5 | 1 |
+| Total | 10 | 8 |
 Alumno: Pol R. &nbsp;|&nbsp; Trabajo: La crisis de 1929 y sus consecuencias en Europa &nbsp;|&nbsp; Calificación: 8/10 (Notable)
 El análisis crítico es el área a reforzar; el planteamiento y el uso de fuentes son el punto más sólido del trabajo.
 
@@ -4698,24 +3853,14 @@ Tiene la ventaja de ser más descriptiva que una nota numérica y comunicar mejo
 **Ejemplo:**
 
 Escala verbal para valorar la participación y el trabajo cooperativo en un proyecto de Ciencias Naturales en 3.º de ESO. El docente marca el nivel que mejor describe la conducta observada.
-|
-| Indicador observable
-| Iniciado
-| En proceso
-| Logrado
-| Sobresaliente
-| Asume su rol dentro del grupo y lo cumple
-| | | ✓ |
-| Contribuye con ideas y propuestas propias
-| | | | ✓
-| Escucha y respeta las aportaciones del resto
-| | ✓ | |
-| Gestiona los conflictos de forma constructiva
-| | ✓ | |
-| Entrega las tareas asignadas en el plazo acordado
-| | | ✓ |
-| Propone mejoras al trabajo del grupo
-| | | | ✓
+| Indicador observable | Iniciado | En proceso | Logrado | Sobresaliente |
+| --- | --- | --- | --- | --- |
+| Asume su rol dentro del grupo y lo cumple | | | ✓ | |
+| Contribuye con ideas y propuestas propias | | | | ✓ |
+| Escucha y respeta las aportaciones del resto | | ✓ | | |
+| Gestiona los conflictos de forma constructiva | | ✓ | | |
+| Entrega las tareas asignadas en el plazo acordado | | | ✓ | |
+| Propone mejoras al trabajo del grupo | | | | ✓ |
 Alumno: Noa F. &nbsp;|&nbsp; Proyecto: Ecosistemas del Mediterráneo &nbsp;|&nbsp; Fecha: 22/04
 Destacan la iniciativa y las propuestas de mejora; la gestión de conflictos y la escucha activa son los aspectos a trabajar en el siguiente proyecto.
 
@@ -4747,45 +3892,21 @@ Permite combinar una evaluación cualitativa y orientada al aprendizaje con la o
 **Ejemplo:**
 
 Conversor de niveles a calificación para una rúbrica de Biología en 3.º de ESO. Primero se establece la equivalencia entre niveles y rangos numéricos; luego se aplica criterio a criterio y se calcula la nota final ponderada.
-|
-| Tabla de equivalencias (plantilla)
-| Nivel descriptor
-| Rango numérico
-| Valor central usado
-| 4 — Excelente | 9,0 – 10 | 9,5
-| 3 — Competente | 7,0 – 8,9 | 8,0
-| 2 — En proceso | 5,0 – 6,9 | 6,0
-| 1 — Inicial | 1,0 – 4,9 | 3,0
-|
-| Aplicación a un alumno — Informe de laboratorio
-| Criterio
-| Nivel asignado
-| Valor numérico
-| Peso (%)
-| Aportación
-| Planteamiento e hipótesis
-| 3
-| 8,0
-| 20
-| 1,6
-| Recogida y presentación de datos
-| 4
-| 9,5
-| 30
-| 2,85
-| Análisis e interpretación
-| 2
-| 6,0
-| 30
-| 1,8
-| Conclusiones
-| 2
-| 6,0
-| 20
-| 1,2
-| Nota final
-| 100
-| 7,45 → 7,5
+| Tabla de equivalencias (plantilla) |
+| --- |
+| Nivel descriptor | Rango numérico | Valor central usado |
+| 4 — Excelente | 9,0 – 10 | 9,5 |
+| 3 — Competente | 7,0 – 8,9 | 8,0 |
+| 2 — En proceso | 5,0 – 6,9 | 6,0 |
+| 1 — Inicial | 1,0 – 4,9 | 3,0 |
+| Aplicación a un alumno — Informe de laboratorio |
+| --- |
+| Criterio | Nivel asignado | Valor numérico | Peso (%) | Aportación |
+| Planteamiento e hipótesis | 3 | 8,0 | 20 | 1,6 |
+| Recogida y presentación de datos | 4 | 9,5 | 30 | 2,85 |
+| Análisis e interpretación | 2 | 6,0 | 30 | 1,8 |
+| Conclusiones | 2 | 6,0 | 20 | 1,2 |
+| Nota final | 100 | 7,45 → 7,5 |
 Alumno: Nico R. &nbsp;|&nbsp; Práctica: Cromatografía de pigmentos vegetales &nbsp;|&nbsp; Nota: 7,5 (Notable)
 El conversor permite mantener la rúbrica cualitativa (más rica para el feedback) y transformarla en nota numérica solo cuando la normativa lo exige, sin perder precisión en la retroalimentación.
 
@@ -4817,49 +3938,14 @@ Es el instrumento de evaluación más eficiente para gestionar la calificación 
 **Ejemplo:**
 
 Fragmento de una hoja de cálculo de evaluación de Inglés en 2.º de ESO (Google Sheets). Las columnas de nota final y media del grupo se calculan automáticamente con fórmulas; el docente solo introduce las calificaciones en las columnas de tareas.
-|
-| Alumno
-| T1 Writing25%
-| T2 Listening25%
-| T3 Speaking30%
-| T4 Reading20%
-| Nota final=SUMA POND.
-| Alicia B.
-| 8,0
-| 7,5
-| 9,0
-| 7,0
-| 8,1
-| Bruno M.
-| 5,0
-| 6,0
-| 4,5
-| 5,5
-| 5,2
-| Clara T.
-| 7,5
-| 8,0
-| 7,0
-| 8,5
-| 7,6
-| Diego F.
-| 9,0
-| 9,5
-| 8,5
-| 9,0
-| 9,0
-| Elena R.
-| 6,0
-| 5,5
-| 6,5
-| 6,0
-| 6,1
-| Media del grupo
-| 7,1
-| 7,3
-| 7,1
-| 7,2
-| 7,2
+| Alumno | T1 Writing25% | T2 Listening25% | T3 Speaking30% | T4 Reading20% | Nota final=SUMA POND. |
+| --- | --- | --- | --- | --- | --- |
+| Alicia B. | 8,0 | 7,5 | 9,0 | 7,0 | 8,1 |
+| Bruno M. | 5,0 | 6,0 | 4,5 | 5,5 | 5,2 |
+| Clara T. | 7,5 | 8,0 | 7,0 | 8,5 | 7,6 |
+| Diego F. | 9,0 | 9,5 | 8,5 | 9,0 | 9,0 |
+| Elena R. | 6,0 | 5,5 | 6,5 | 6,0 | 6,1 |
+| Media del grupo | 7,1 | 7,3 | 7,1 | 7,2 | 7,2 |
 Clase: 2.º ESO A &nbsp;|&nbsp; Asignatura: Inglés &nbsp;|&nbsp; Trimestre: 2.º
 Fórmula nota final (fila Alicia): =B2*0,25 + C2*0,25 + D2*0,30 + E2*0,20. La fila de medias usa =PROMEDIO(B2:B6) por columna.
 La ventaja de la hoja de cálculo sobre el cuaderno físico es la automatización: cambiar un peso o añadir una tarea recalcula todas las notas al instante, sin riesgo de errores aritméticos.
@@ -4892,36 +3978,17 @@ Es el documento de comunicación más completo entre el centro y la familia. Su 
 **Ejemplo:**
 
 Informe individual de evaluación del primer trimestre para un alumno de 1.º de ESO. Combina un resumen cuantitativo por competencias con una valoración cualitativa y recomendaciones concretas para las familias.
-|
-| Competencia específica
-| Nivel (1–4)
-| Nota
-| Tendencia
-| Comprensión lectora y análisis de textos
-| 3
-| 7,5
-| Estable. Mejora progresiva en la identificación de ideas implícitas.
-| Producción escrita (narración y descripción)
-| 2
-| 5,5
-| En desarrollo. Le cuesta mantener la cohesión entre párrafos.
-| Comunicación oral (exposiciones)
-| 3
-| 7,0
-| Mejorando. Mayor seguridad en las últimas exposiciones respecto al inicio de curso.
-| Reflexión sobre la lengua
-| 2
-| 5,0
-| Dificultades persistentes en análisis morfosintáctico. Necesita práctica sistemática.
-|
-| Sección
-| Observación del docente
-| Puntos fuertes
-| Pol muestra una actitud muy positiva hacia la lectura y participa activamente en los debates orales. Su capacidad de síntesis oral es notable para su nivel; puede resumir un texto complejo con sus propias palabras con fluidez.
-| Áreas de mejora prioritarias
-| La escritura es el área donde hay más margen de crecimiento: sus textos tienen ideas interesantes pero la cohesión entre párrafos es débil. El análisis morfosintáctico requiere trabajo sistemático.
-| Recomendaciones para casa
-| Leer en voz alta 10 minutos diarios y escribir una entrada de diario semanal (sin presión de calificación) ayudarán a consolidar la fluidez escrita. Para la morfosintaxis, repasar el esquema de clases de palabras antes de cada prueba.
+| Competencia específica | Nivel (1–4) | Nota | Tendencia |
+| --- | --- | --- | --- |
+| Comprensión lectora y análisis de textos | 3 | 7,5 | Estable. Mejora progresiva en la identificación de ideas implícitas. |
+| Producción escrita (narración y descripción) | 2 | 5,5 | En desarrollo. Le cuesta mantener la cohesión entre párrafos. |
+| Comunicación oral (exposiciones) | 3 | 7,0 | Mejorando. Mayor seguridad en las últimas exposiciones respecto al inicio de curso. |
+| Reflexión sobre la lengua | 2 | 5,0 | Dificultades persistentes en análisis morfosintáctico. Necesita práctica sistemática. |
+| Sección | Observación del docente |
+| --- | --- |
+| Puntos fuertes | Pol muestra una actitud muy positiva hacia la lectura y participa activamente en los debates orales. Su capacidad de síntesis oral es notable para su nivel; puede resumir un texto complejo con sus propias palabras con fluidez. |
+| Áreas de mejora prioritarias | La escritura es el área donde hay más margen de crecimiento: sus textos tienen ideas interesantes pero la cohesión entre párrafos es débil. El análisis morfosintáctico requiere trabajo sistemático. |
+| Recomendaciones para casa | Leer en voz alta 10 minutos diarios y escribir una entrada de diario semanal (sin presión de calificación) ayudarán a consolidar la fluidez escrita. Para la morfosintaxis, repasar el esquema de clases de palabras antes de cada prueba. |
 Alumno: Pol G. &nbsp;|&nbsp; Curso: 1.º ESO B &nbsp;|&nbsp; Asignatura: Lengua Castellana y Literatura &nbsp;|&nbsp; Trimestre: 1.º &nbsp;|&nbsp; Docente: Sra. García
 El informe individual va más allá del boletín de notas: da contexto a las calificaciones y convierte la entrevista con las familias en una conversación orientada a la acción.
 
@@ -4953,56 +4020,14 @@ Es el registro final del proceso evaluativo. Su cumplimentación correcta es una
 **Ejemplo:**
 
 Acta de evaluación de fin de trimestre para 2.º ESO B. Documento oficial que recoge las calificaciones de cada alumno en todas las materias y la decisión de promoción o refuerzo. Debe firmarse por todos los docentes del equipo educativo.
-|
-| Alumno
-| Lengua Cast.
-| Matemáticas
-| CC.SS.
-| CC.NN.
-| Inglés
-| Decisión
-| Alicia B.
-| 8
-| 7
-| 8
-| 9
-| 8
-| Promociona
-| Bruno M.
-| 5
-| 4
-| 5
-| 5
-| 4
-| Refuerzo Mat./Ing.
-| Clara T.
-| 7
-| 8
-| 7
-| 7
-| 8
-| Promociona
-| Diego F.
-| 9
-| 10
-| 9
-| 10
-| 9
-| Promociona
-| Elena R.
-| 6
-| 3
-| 6
-| 5
-| 5
-| Refuerzo Mat.
-| Fran P.
-| 7
-| 6
-| 7
-| 6
-| 7
-| Promociona
+| Alumno | Lengua Cast. | Matemáticas | CC.SS. | CC.NN. | Inglés | Decisión |
+| --- | --- | --- | --- | --- | --- | --- |
+| Alicia B. | 8 | 7 | 8 | 9 | 8 | Promociona |
+| Bruno M. | 5 | 4 | 5 | 5 | 4 | Refuerzo Mat./Ing. |
+| Clara T. | 7 | 8 | 7 | 7 | 8 | Promociona |
+| Diego F. | 9 | 10 | 9 | 10 | 9 | Promociona |
+| Elena R. | 6 | 3 | 6 | 5 | 5 | Refuerzo Mat. |
+| Fran P. | 7 | 6 | 7 | 6 | 7 | Promociona |
 Grupo: 2.º ESO B &nbsp;|&nbsp; Sesión de evaluación: 1.º trimestre &nbsp;|&nbsp; Fecha: 19/12
 Firmas del equipo docente: Sra. García (tutora), Sr. Martínez, Sra. Puig, Sr. López, Sra. Williams.
 El acta tiene valor legal y administrativo: debe archivarse según la normativa del centro. Las decisiones de refuerzo se trasladan al plan de trabajo individual del alumno para el trimestre siguiente.
@@ -5035,25 +4060,13 @@ Ahorra tiempo de corrección en evaluaciones cerradas, facilita el análisis de 
 **Ejemplo:**
 
 Ticket de salida digital implementado con Google Forms al final de una sesión de Biología en 2.º de ESO. El docente recibe las respuestas automáticamente y ajusta la siguiente sesión según los resultados.
-|
-| Pregunta del formulario
-| Tipo
-| Respuesta del alumno
-| ¿Cuánto entiendes ya el concepto de fotosíntesis?
-| Escala 1–5
-| ⭐⭐⭐ (3) — Lo entiendo más o menos
-| ¿Qué parte de la sesión te ha resultado más difícil?
-| Selección múltiple
-| ✓ La diferencia entre la fase luminosa y la fase oscura
-| Escribe con tus palabras qué pasa en la cloroplasto durante la fotosíntesis (1–2 frases)
-| Texto libre
-| «El cloroplasto capta la luz solar y la usa para transformar el agua y el CO₂ en glucosa. También libera oxígeno como residuo.»
-| ¿Qué necesitas para sentirte más seguro con este tema?
-| Selección múltiple
-| ✓ Ver un esquema visual de las dos fases &nbsp; ✓ Practicar con más ejercicios
-| ¿Con qué nota valorarías tu propio trabajo en la sesión de hoy?
-| Escala 1–5
-| ⭐⭐⭐⭐ (4) — He trabajado bien aunque me he perdido en la fase oscura
+| Pregunta del formulario | Tipo | Respuesta del alumno |
+| --- | --- | --- |
+| ¿Cuánto entiendes ya el concepto de fotosíntesis? | Escala 1–5 | ⭐⭐⭐ (3) — Lo entiendo más o menos |
+| ¿Qué parte de la sesión te ha resultado más difícil? | Selección múltiple | ✓ La diferencia entre la fase luminosa y la fase oscura |
+| Escribe con tus palabras qué pasa en la cloroplasto durante la fotosíntesis (1–2 frases) | Texto libre | «El cloroplasto capta la luz solar y la usa para transformar el agua y el CO₂ en glucosa. También libera oxígeno como residuo.» |
+| ¿Qué necesitas para sentirte más seguro con este tema? | Selección múltiple | ✓ Ver un esquema visual de las dos fases &nbsp; ✓ Practicar con más ejercicios |
+| ¿Con qué nota valorarías tu propio trabajo en la sesión de hoy? | Escala 1–5 | ⭐⭐⭐⭐ (4) — He trabajado bien aunque me he perdido en la fase oscura |
 Alumno: Rafa M. &nbsp;|&nbsp; Formulario: Ticket de salida — Fotosíntesis &nbsp;|&nbsp; Plataforma: Google Forms &nbsp;|&nbsp; Fecha: 03/02
 Nota del docente tras revisar las respuestas del grupo: el 68% marca «fase luminosa vs. oscura» como el punto más difícil → comenzar la próxima clase con un esquema comparativo antes de avanzar.
 El formulario digital centraliza las respuestas del grupo entero en segundos; la hoja de cálculo asociada permite filtrar por pregunta y detectar los patrones de dificultad sin revisar ficha a ficha.
@@ -5086,34 +4099,13 @@ Reduce el tiempo de corrección, facilita la coherencia entre correcciones y per
 **Ejemplo:**
 
 Rúbrica digital aplicada en Google Classroom para evaluar una redacción argumentativa en 3.º de ESO. El docente marca los niveles directamente en la plataforma; el alumno recibe la calificación y los comentarios en su cuenta automáticamente.
-|
-| Criterio
-| Excelente (4)
-| Competente (3)
-| En proceso (2)
-| Inicial (1)
-| Tesis y argumentación
-| Tesis precisa; argumentos sólidos y bien evidenciados.
-| ✓ Tesis clara; argumentos correctos con alguna evidencia débil.
-| Tesis reconocible; argumentos sin evidencias o superficiales.
-| Sin tesis clara ni argumentos reconocibles.
-| Estructura y cohesión
-| Estructura perfecta con conectores variados y precisos.
-| ✓ Estructura correcta; algún conector mecánico o transición mejorable.
-| Estructura básica; conectores repetitivos o ausentes.
-| Sin estructura reconocible.
-| Corrección lingüística
-| Sin errores; vocabulario preciso y variado.
-| Errores menores que no interrumpen la lectura.
-| ✓ Errores frecuentes; vocabulario limitado pero comprensible.
-| Errores que dificultan la comprensión.
-| Fuentes y citas
-| Fuentes variadas citadas correctamente.
-| ✓ Usa fuentes; alguna cita incorrecta o fuente no contrastada.
-| Pocas fuentes o sin citar.
-| Sin fuentes.
-| Puntuación total (plataforma)
-| 3 + 3 + 2 + 3 = 11 / 16 → 6,9 / 10
+| Criterio | Excelente (4) | Competente (3) | En proceso (2) | Inicial (1) |
+| --- | --- | --- | --- | --- |
+| Tesis y argumentación | Tesis precisa; argumentos sólidos y bien evidenciados. | ✓ Tesis clara; argumentos correctos con alguna evidencia débil. | Tesis reconocible; argumentos sin evidencias o superficiales. | Sin tesis clara ni argumentos reconocibles. |
+| Estructura y cohesión | Estructura perfecta con conectores variados y precisos. | ✓ Estructura correcta; algún conector mecánico o transición mejorable. | Estructura básica; conectores repetitivos o ausentes. | Sin estructura reconocible. |
+| Corrección lingüística | Sin errores; vocabulario preciso y variado. | Errores menores que no interrumpen la lectura. | ✓ Errores frecuentes; vocabulario limitado pero comprensible. | Errores que dificultan la comprensión. |
+| Fuentes y citas | Fuentes variadas citadas correctamente. | ✓ Usa fuentes; alguna cita incorrecta o fuente no contrastada. | Pocas fuentes o sin citar. | Sin fuentes. |
+| Puntuación total (plataforma) | 3 + 3 + 2 + 3 = 11 / 16 → 6,9 / 10 |
 Alumno: Víctor S. &nbsp;|&nbsp; Tarea: «¿Deben los gobiernos regular el uso de redes sociales?» &nbsp;|&nbsp; Plataforma: Google Classroom &nbsp;|&nbsp; Fecha: 18/03
 Comentario digital del docente: «La estructura y la tesis están bien. El punto a trabajar es la corrección lingüística: hay cinco errores de concordancia. Te propongo hacer la actividad de repaso antes de la segunda entrega.»
 La rúbrica digital tiene la misma validez evaluativa que la analítica en papel, con la ventaja de que el alumno recibe feedback instantáneo en su dispositivo y el docente no necesita distribuir documentos físicos.
@@ -5146,31 +4138,13 @@ Es una evidencia de proceso muy valiosa en trabajos grupales digitales, ya que h
 **Ejemplo:**
 
 Historial de revisión de un Google Doc colaborativo usado por un grupo de 4.º de ESO para redactar un informe de investigación. El docente consulta el historial para evaluar la contribución real de cada miembro y detectar si el trabajo se hizo de forma distribuida o concentrada.
-|
-| Fecha / hora
-| Autor
-| Cambios realizados
-| Valoración del docente
-| 12/04 10:22
-| Mireia T.
-| Crea el documento. Añade el índice y la introducción (280 palabras). Inserta dos fuentes en la bibliografía.
-| Toma la iniciativa. Introducción sólida.
-| 13/04 16:05
-| Omar B.
-| Añade la sección de metodología (190 palabras) y una tabla de datos del experimento. Corrige dos errores ortográficos de la introducción.
-| Aportación relevante. Datos bien presentados.
-| 14/04 09:47
-| Júlia K.
-| Añade los resultados y la discusión (320 palabras). Incorpora una gráfica de elaboración propia.
-| La sección más extensa. Gráfica adecuada.
-| 14/04 22:31
-| Kevin L.
-| Añade las conclusiones (85 palabras) la noche antes de la entrega. Sin cambios previos en todo el documento.
-| Contribución tardía y escasa. Hablar con el grupo.
-| 15/04 08:15
-| Mireia T.
-| Revisión final: unifica el formato, corrige la bibliografía y añade el resumen ejecutivo.
-| Asume más carga de la que le corresponde.
+| Fecha / hora | Autor | Cambios realizados | Valoración del docente |
+| --- | --- | --- | --- |
+| 12/04 10:22 | Mireia T. | Crea el documento. Añade el índice y la introducción (280 palabras). Inserta dos fuentes en la bibliografía. | Toma la iniciativa. Introducción sólida. |
+| 13/04 16:05 | Omar B. | Añade la sección de metodología (190 palabras) y una tabla de datos del experimento. Corrige dos errores ortográficos de la introducción. | Aportación relevante. Datos bien presentados. |
+| 14/04 09:47 | Júlia K. | Añade los resultados y la discusión (320 palabras). Incorpora una gráfica de elaboración propia. | La sección más extensa. Gráfica adecuada. |
+| 14/04 22:31 | Kevin L. | Añade las conclusiones (85 palabras) la noche antes de la entrega. Sin cambios previos en todo el documento. | Contribución tardía y escasa. Hablar con el grupo. |
+| 15/04 08:15 | Mireia T. | Revisión final: unifica el formato, corrige la bibliografía y añade el resumen ejecutivo. | Asume más carga de la que le corresponde. |
 Grupo: Equipo 2 (Mireia, Omar, Júlia, Kevin) &nbsp;|&nbsp; Trabajo: Informe sobre el efecto del pH en enzimas &nbsp;|&nbsp; Plataforma: Google Docs &nbsp;|&nbsp; Entrega: 15/04
 El historial de revisión convierte la evaluación del trabajo cooperativo en un proceso basado en evidencias objetivas, no en impresiones: muestra quién escribió qué y cuándo, con independencia de lo que cada miembro declare.
 
@@ -5252,43 +4226,13 @@ Es la base del portfolio digital. Permite la evaluación continua, la reflexión
 **Ejemplo:**
 
 Banco digital de evidencias de un alumno de 1.º de Bachillerato almacenado en Google Drive. Recoge las producciones del trimestre con metadatos que permiten al docente hacer un seguimiento del progreso longitudinal.
-|
-| Evidencia / archivo
-| Tipo
-| Fecha
-| Criterio evaluado
-| Nivel
-| Nota del docente
-| Ensayo argumentativo — borrador 1
-| Texto escrito
-| 08/10
-| Producción escrita CE3
-| 2
-| Tesis presente pero argumentos sin evidencias.
-| Ensayo argumentativo — versión final
-| Texto escrito
-| 22/10
-| Producción escrita CE3
-| 3
-| Mejora notable respecto al borrador. Citas incorporadas.
-| Grabación exposición oral — debate IA
-| Vídeo (3 min)
-| 05/11
-| Comunicación oral CE1
-| 3
-| Buen dominio del tema. Mejorar contacto visual.
-| Autoevaluación trimestral (Google Form)
-| Formulario
-| 28/11
-| Reflexión metacognitiva
-| —
-| Reflexión honesta; identifica los mismos puntos débiles que el docente.
-| Prueba escrita T1 (escaneada)
-| PDF
-| 05/12
-| Reflexión lingüística CE4
-| 2
-| Morfosintaxis: necesita consolidación en oraciones subordinadas.
+| Evidencia / archivo | Tipo | Fecha | Criterio evaluado | Nivel | Nota del docente |
+| --- | --- | --- | --- | --- | --- |
+| Ensayo argumentativo — borrador 1 | Texto escrito | 08/10 | Producción escrita CE3 | 2 | Tesis presente pero argumentos sin evidencias. |
+| Ensayo argumentativo — versión final | Texto escrito | 22/10 | Producción escrita CE3 | 3 | Mejora notable respecto al borrador. Citas incorporadas. |
+| Grabación exposición oral — debate IA | Vídeo (3 min) | 05/11 | Comunicación oral CE1 | 3 | Buen dominio del tema. Mejorar contacto visual. |
+| Autoevaluación trimestral (Google Form) | Formulario | 28/11 | Reflexión metacognitiva | — | Reflexión honesta; identifica los mismos puntos débiles que el docente. |
+| Prueba escrita T1 (escaneada) | PDF | 05/12 | Reflexión lingüística CE4 | 2 | Morfosintaxis: necesita consolidación en oraciones subordinadas. |
 Alumno: Marta G. &nbsp;|&nbsp; Carpeta Drive: Evidencias_1Bach_T1_MartaG &nbsp;|&nbsp; Trimestre: 1.º &nbsp;|&nbsp; Acceso: compartida con docente y alumna
 El banco de evidencias muestra la trayectoria del alumno, no solo su nivel puntual: la comparación del borrador y la versión final del ensayo evidencia una mejora real en CE3 que la nota final sola no refleja.
 
@@ -5320,31 +4264,12 @@ Es útil para hacer más transparente la evaluación criterial.
 **Ejemplo:**
 
 Lista de indicadores por criterio para evaluar la competencia de investigación en un proyecto de 1.º de Bachillerato. Cada criterio amplio se descompone en comportamientos y productos observables que el docente puede verificar directamente.
-|
-| Criterio
-| Indicadores observables
-| Planteamiento del problema
-|
-Formula una pregunta de investigación concreta y acotada (no «¿qué es X?» sino «¿cómo afecta X a Y?»).
-Enuncia una hipótesis comprobable a partir de los datos disponibles.
-Justifica la relevancia del problema con al menos una fuente.
-| Búsqueda y selección de información
-|
-Usa al menos tres fuentes de distinta naturaleza (artículo, libro, dato estadístico…).
-Evalúa la fiabilidad de cada fuente (autor, fecha, institución).
-Cita todas las fuentes en el formato acordado (APA, Vancouver…).
-Descarta fuentes irrelevantes o no verificadas.
-| Análisis e interpretación
-|
-Relaciona los datos con la hipótesis inicial (confirma, refuta o matiza).
-Identifica al menos una limitación metodológica del trabajo.
-Distingue entre hechos probados y interpretaciones propias.
-| Comunicación de resultados
-|
-Presenta los resultados con una estructura lógica (contexto → datos → análisis → conclusión).
-Usa tablas, gráficas o figuras cuando aportan claridad, no como decoración.
-Adapta el registro al destinatario (académico, divulgativo…).
-La conclusión responde directamente a la pregunta de investigación inicial.
+| Criterio | Indicadores observables |
+| --- | --- |
+| Planteamiento del problema | Formula una pregunta de investigación concreta y acotada (no «¿qué es X?» sino «¿cómo afecta X a Y?»). Enuncia una hipótesis comprobable a partir de los datos disponibles. Justifica la relevancia del problema con al menos una fuente. |
+| Búsqueda y selección de información | Usa al menos tres fuentes de distinta naturaleza (artículo, libro, dato estadístico…). Evalúa la fiabilidad de cada fuente (autor, fecha, institución). Cita todas las fuentes en el formato acordado (APA, Vancouver…). Descarta fuentes irrelevantes o no verificadas. |
+| Análisis e interpretación | Relaciona los datos con la hipótesis inicial (confirma, refuta o matiza). Identifica al menos una limitación metodológica del trabajo. Distingue entre hechos probados y interpretaciones propias. |
+| Comunicación de resultados | Presenta los resultados con una estructura lógica (contexto → datos → análisis → conclusión). Usa tablas, gráficas o figuras cuando aportan claridad, no como decoración. Adapta el registro al destinatario (académico, divulgativo…). La conclusión responde directamente a la pregunta de investigación inicial. |
 Contexto: Proyecto de investigación, 1.º Bachillerato &nbsp;|&nbsp; Docente: Sr. Fernández &nbsp;|&nbsp; Uso: Guía de evaluación y rúbrica de proceso
 Esta lista es el paso previo a construir la rúbrica: asegura que los criterios están bien operativizados antes de añadir los niveles de desempeño. Si un indicador no es observable directamente, hay que reformularlo.
 
@@ -5376,32 +4301,12 @@ Es muy útil para evaluación continua y autorregulación, porque ayuda a entend
 **Ejemplo:**
 
 Escala de progreso para el seguimiento de la expresión escrita en 2.º de ESO a lo largo del curso. El docente registra el nivel alcanzado en tres momentos y anota la evidencia que lo sustenta.
-|
-| Indicador de progreso
-| Oct.
-| Ene.
-| Abr.
-| Evidencia más reciente
-| Planifica el texto antes de escribir
-| Inicial
-| En desarrollo
-| Autónomo
-| Esquema entregado antes de la redacción de abril
-| Organiza el texto en párrafos con idea principal
-| Inicial
-| En desarrollo
-| En desarrollo
-| Redacción de enero: párrafos presentes pero sin idea clave clara
-| Usa conectores variados para enlazar ideas
-| Inicial
-| Inicial
-| En desarrollo
-| Aparecen conectores de causa y contraste en la última entrega
-| Revisa y corrige errores ortográficos antes de entregar
-| En desarrollo
-| Autónomo
-| Autónomo
-| Borradores con correcciones propias visibles desde enero
+| Indicador de progreso | Oct. | Ene. | Abr. | Evidencia más reciente |
+| --- | --- | --- | --- | --- |
+| Planifica el texto antes de escribir | Inicial | En desarrollo | Autónomo | Esquema entregado antes de la redacción de abril |
+| Organiza el texto en párrafos con idea principal | Inicial | En desarrollo | En desarrollo | Redacción de enero: párrafos presentes pero sin idea clave clara |
+| Usa conectores variados para enlazar ideas | Inicial | Inicial | En desarrollo | Aparecen conectores de causa y contraste en la última entrega |
+| Revisa y corrige errores ortográficos antes de entregar | En desarrollo | Autónomo | Autónomo | Borradores con correcciones propias visibles desde enero |
 Alumno: Laia P. &nbsp;|&nbsp; Niveles: Inicial → En desarrollo → Autónomo → Experto
 La escala de progreso permite ver la trayectoria de cada alumno y acordar el siguiente paso de aprendizaje en la tutoría.
 
@@ -5433,27 +4338,12 @@ Es especialmente útil cuando varios docentes observan o cuando la actividad es 
 **Ejemplo:**
 
 Guía de observación preparada para seguir el trabajo en grupo durante un experimento de Física en 3.º de ESO. El docente la completa durante la sesión con evidencias concretas de lo observado.
-|
-| Foco de observación
-| Indicadores concretos a buscar
-| Cuándo
-| Evidencias observadas
-| Planificación antes de empezar
-| ¿Leen el guion antes de actuar? ¿Reparten tareas? ¿Identifican el material necesario?
-| Primeros 5 min.
-| Grupo 1: leen juntos y reparten roles (bien). Grupo 3: un alumno empieza a montar sin leer; el resto le sigue.
-| Manejo del material y seguridad
-| ¿Usan el material correctamente? ¿Siguen las normas de seguridad (gafas, orden)?
-| Durante el experimento
-| Todos llevan gafas. Grupo 2: derraman líquido y no limpian hasta que se lo indico. Grupo 4: muy ordenados, miden dos veces antes de verter.
-| Registro de datos
-| ¿Anotan mientras observan o esperan al final? ¿Los datos son precisos (unidades, decimales)?
-| Durante el experimento
-| Grupos 1, 3, 4: anotan en tiempo real. Grupo 2: solo un miembro anota; los otros tres no tienen ficha de datos en la mano.
-| Análisis y conclusión oral
-| ¿Relacionan los resultados con la hipótesis? ¿Explican las discrepancias?
-| Últimos 10 min.
-| Grupo 1: explican bien la diferencia entre su resultado y el esperado. Grupos 2 y 3: concluyen que «salió mal» sin analizar por qué.
+| Foco de observación | Indicadores concretos a buscar | Cuándo | Evidencias observadas |
+| --- | --- | --- | --- |
+| Planificación antes de empezar | ¿Leen el guion antes de actuar? ¿Reparten tareas? ¿Identifican el material necesario? | Primeros 5 min. | Grupo 1: leen juntos y reparten roles (bien). Grupo 3: un alumno empieza a montar sin leer; el resto le sigue. |
+| Manejo del material y seguridad | ¿Usan el material correctamente? ¿Siguen las normas de seguridad (gafas, orden)? | Durante el experimento | Todos llevan gafas. Grupo 2: derraman líquido y no limpian hasta que se lo indico. Grupo 4: muy ordenados, miden dos veces antes de verter. |
+| Registro de datos | ¿Anotan mientras observan o esperan al final? ¿Los datos son precisos (unidades, decimales)? | Durante el experimento | Grupos 1, 3, 4: anotan en tiempo real. Grupo 2: solo un miembro anota; los otros tres no tienen ficha de datos en la mano. |
+| Análisis y conclusión oral | ¿Relacionan los resultados con la hipótesis? ¿Explican las discrepancias? | Últimos 10 min. | Grupo 1: explican bien la diferencia entre su resultado y el esperado. Grupos 2 y 3: concluyen que «salió mal» sin analizar por qué. |
 Actividad: Experimento de densidad — líquidos inmiscibles &nbsp;|&nbsp; Clase: 3.º ESO B &nbsp;|&nbsp; Fecha: 19/02
 Foco prioritario para la próxima práctica: trabajar el análisis de discrepancias con todos los grupos (grupos 2 y 3 necesitan andamiaje específico).
 La guía de observación permite mirar menos cosas pero verlas mejor: reducir los focos a 3–4 indicadores clave es más efectivo que intentar registrarlo todo.
@@ -5486,22 +4376,12 @@ Su fuerza está en que desplaza la corrección desde el juicio final hacia la me
 **Ejemplo:**
 
 Plantilla de feedback/feedforward del docente de Ciencias Sociales sobre una exposición oral en 2.º de ESO. La columna izquierda valora lo ya logrado; la derecha orienta el siguiente paso concreto.
-|
-| Criterio
-| Feedback — lo que ya has logrado
-| Feedforward — tu próximo paso
-| Contenido
-| Has seleccionado los tres hechos clave del tema y los has explicado con tus propias palabras, no leyendo las diapositivas.
-| En la próxima exposición, añade una conexión explícita entre los hechos: «esto ocurrió porque…» o «esto tuvo como consecuencia…».
-| Estructura
-| La introducción anuncia claramente de qué vas a hablar. La conclusión cierra bien el tema.
-| El desarrollo necesita más señales de transición entre los puntos. Practica frases como «pasamos ahora a…» o «el segundo aspecto es…».
-| Expresión oral
-| Tu voz se escucha con claridad y el ritmo es adecuado durante la primera mitad de la exposición.
-| En la segunda mitad el ritmo se aceleró. Practica haciendo una pausa de 2 segundos después de cada idea importante antes de seguir.
-| Soporte visual
-| Las diapositivas tienen texto reducido e imágenes relevantes: exactamente lo que se pide.
-| Las imágenes no aparecen en el momento en que hablas de ellas. Ensaya una vez más sincronizando lo que dices con lo que proyectas.
+| Criterio | Feedback — lo que ya has logrado | Feedforward — tu próximo paso |
+| --- | --- | --- |
+| Contenido | Has seleccionado los tres hechos clave del tema y los has explicado con tus propias palabras, no leyendo las diapositivas. | En la próxima exposición, añade una conexión explícita entre los hechos: «esto ocurrió porque…» o «esto tuvo como consecuencia…». |
+| Estructura | La introducción anuncia claramente de qué vas a hablar. La conclusión cierra bien el tema. | El desarrollo necesita más señales de transición entre los puntos. Practica frases como «pasamos ahora a…» o «el segundo aspecto es…». |
+| Expresión oral | Tu voz se escucha con claridad y el ritmo es adecuado durante la primera mitad de la exposición. | En la segunda mitad el ritmo se aceleró. Practica haciendo una pausa de 2 segundos después de cada idea importante antes de seguir. |
+| Soporte visual | Las diapositivas tienen texto reducido e imágenes relevantes: exactamente lo que se pide. | Las imágenes no aparecen en el momento en que hablas de ellas. Ensaya una vez más sincronizando lo que dices con lo que proyectas. |
 Alumno: Mireia C. &nbsp;|&nbsp; Exposición: Las civilizaciones fluviales de Mesopotamia &nbsp;|&nbsp; Fecha: 17/01
 La columna de feedforward es la más valiosa: desplaza la atención del «qué salió mal» al «qué hacer la próxima vez», lo que hace la retroalimentación accionable.
 
@@ -5533,40 +4413,20 @@ Es útil para evaluar y regular el proceso cooperativo con mayor justicia.
 **Ejemplo:**
 
 Contrato de grupo firmado al inicio de un proyecto de investigación en 4.º de ESO. Recoge roles, normas, calendario y compromisos; se revisa en los hitos intermedios para regular el proceso cooperativo.
-|
-| Roles y responsabilidades
-| Miembro
-| Rol
-| Responsabilidades principales
-| Mireia T.
-| Coordinadora
-| Organizar reuniones, repartir tareas, asegurar que se cumplen los plazos y ser portavoz ante el docente.
-| Omar B.
-| Investigador
-| Buscar y seleccionar fuentes, redactar la sección de metodología y resultados.
-| Júlia K.
-| Secretaria
-| Tomar notas en las reuniones, gestionar el documento compartido y cuidar la bibliografía.
-| Kevin L.
-| Portavoz
-| Preparar y realizar la exposición oral final; coordinar el soporte visual.
-|
-| Calendario de hitos
-| Hito
-| Fecha
-| Responsable
-| Elección del tema y pregunta de investigación
-| 07/04
-| Grupo
-| Entrega del borrador (introducción + metodología)
-| 21/04
-| Omar + Júlia
-| Entrega del informe completo
-| 05/05
-| Mireia (revisión final)
-| Exposición oral
-| 12/05
-| Kevin
+| Roles y responsabilidades |
+| --- |
+| Miembro | Rol | Responsabilidades principales |
+| Mireia T. | Coordinadora | Organizar reuniones, repartir tareas, asegurar que se cumplen los plazos y ser portavoz ante el docente. |
+| Omar B. | Investigador | Buscar y seleccionar fuentes, redactar la sección de metodología y resultados. |
+| Júlia K. | Secretaria | Tomar notas en las reuniones, gestionar el documento compartido y cuidar la bibliografía. |
+| Kevin L. | Portavoz | Preparar y realizar la exposición oral final; coordinar el soporte visual. |
+| Calendario de hitos |
+| --- |
+| Hito | Fecha | Responsable |
+| Elección del tema y pregunta de investigación | 07/04 | Grupo |
+| Entrega del borrador (introducción + metodología) | 21/04 | Omar + Júlia |
+| Entrega del informe completo | 05/05 | Mireia (revisión final) |
+| Exposición oral | 12/05 | Kevin |
 Normas acordadas: Responder a los mensajes del grupo en menos de 24 h · Si alguien no puede cumplir una tarea, avisar con 48 h de antelación · Las decisiones importantes se toman por consenso, no por mayoría.
 Firmas: Mireia T. · Omar B. · Júlia K. · Kevin L. &nbsp;|&nbsp; Fecha: 05/04 &nbsp;|&nbsp; Revisado en hito 2: 21/04
 El contrato no es un trámite: revisarlo en cada hito convierte los acuerdos iniciales en un instrumento de regulación real del proceso cooperativo.
@@ -5624,49 +4484,14 @@ Es un instrumento de evaluación clave para la evaluación criterial y triangula
 **Ejemplo:**
 
 Mapa de evidencias por criterio diseñado para la evaluación de un proyecto de Ciencias Naturales en 3.º de ESO. Relaciona cada criterio con las tareas que lo evidencian y el instrumento aplicado; permite detectar criterios sin evidencias o sobre-evaluados.
-|
-| Criterio
-| Informe escrito
-| Exposición oral
-| Prácticas lab.
-| Autoevaluación
-| Instrumento principal
-| Planteamiento e hipótesis
-| ✓
-| ✓
-|
-|
-| Rúbrica analítica
-| Metodología y procedimiento
-| ✓
-|
-| ✓
-|
-| Guía de observación
-| Análisis e interpretación
-| ✓
-| ✓
-|
-|
-| Rúbrica analítica
-| Comunicación de resultados
-| ✓
-| ✓
-|
-|
-| Rúbrica exposición oral
-| Trabajo cooperativo
-|
-|
-| ✓
-| ✓
-| Registro cooperativo + autoev.
-| Reflexión metacognitiva
-|
-|
-|
-| ✓
-| Escala de autoevaluación
+| Criterio | Informe escrito | Exposición oral | Prácticas lab. | Autoevaluación | Instrumento principal |
+| --- | --- | --- | --- | --- | --- |
+| Planteamiento e hipótesis | ✓ | ✓ | | | Rúbrica analítica |
+| Metodología y procedimiento | ✓ | | ✓ | | Guía de observación |
+| Análisis e interpretación | ✓ | ✓ | | | Rúbrica analítica |
+| Comunicación de resultados | ✓ | ✓ | | | Rúbrica exposición oral |
+| Trabajo cooperativo | | | ✓ | ✓ | Registro cooperativo + autoev. |
+| Reflexión metacognitiva | | | | ✓ | Escala de autoevaluación |
 Proyecto: «Contaminación del agua: causas y soluciones» &nbsp;|&nbsp; Grupo: 3.º ESO B &nbsp;|&nbsp; Docente: Sra. García
 Observación de diseño: el criterio «Reflexión metacognitiva» solo tiene una evidencia. Si es prioritario, añadir un segundo momento de autoevaluación a mitad del proyecto.
 El mapa de evidencias se construye durante la planificación, no al final: diseñarlo antes permite redistribuir criterios con pocas evidencias antes de empezar a evaluar.
@@ -5699,31 +4524,17 @@ No sustituye a una rúbrica ni demuestra por sí sola el aprendizaje, pero ayuda
 **Ejemplo:**
 
 Declaración de uso de IA y fuentes que acompaña a un ensayo de Historia en 1.º de Bachillerato. El alumno explica qué apoyos externos utilizó, con qué finalidad y qué parte del trabajo es decisión propia.
-|
-| Fuentes consultadas
-| Fuente
-| Tipo
-| Uso en el trabajo
-| Judt, T. (2006). Postguerra: una historia de Europa desde 1945. Taurus.
-| Libro académico
-| Base de los argumentos del segundo y tercer párrafo. Cita directa en p. 3.
-| Wikipedia — «Plan Marshall»
-| Enciclopedia digital
-| Solo para orientarme al inicio. No cito datos de Wikipedia en el ensayo.
-| Documental: The Cold War, CNN (1998)
-| Audiovisual
-| Me dio el contexto para la introducción. No lo cito directamente.
-|
-| Herramientas de IA utilizadas
-| Herramienta
-| Para qué la usé
-| Qué cambié o decidí yo
-| ChatGPT (GPT-4)
-| Pedí que me explicara la diferencia entre el Plan Marshall y la Doctrina Truman para entenderlo mejor.
-| No copié ninguna frase. Usé la explicación para entender el tema y luego escribí con mis propias palabras.
-| Corrector ortográfico de Word
-| Corregir errores tipográficos.
-| Acepté o rechacé cada sugerencia manualmente.
+| Fuentes consultadas |
+| --- |
+| Fuente | Tipo | Uso en el trabajo |
+| Judt, T. (2006). Postguerra: una historia de Europa desde 1945. Taurus. | Libro académico | Base de los argumentos del segundo y tercer párrafo. Cita directa en p. 3. |
+| Wikipedia — «Plan Marshall» | Enciclopedia digital | Solo para orientarme al inicio. No cito datos de Wikipedia en el ensayo. |
+| Documental: The Cold War, CNN (1998) | Audiovisual | Me dio el contexto para la introducción. No lo cito directamente. |
+| Herramientas de IA utilizadas |
+| --- |
+| Herramienta | Para qué la usé | Qué cambié o decidí yo |
+| ChatGPT (GPT-4) | Pedí que me explicara la diferencia entre el Plan Marshall y la Doctrina Truman para entenderlo mejor. | No copié ninguna frase. Usé la explicación para entender el tema y luego escribí con mis propias palabras. |
+| Corrector ortográfico de Word | Corregir errores tipográficos. | Acepté o rechacé cada sugerencia manualmente. |
 Declaración del alumno: «El análisis, la estructura del argumento y las conclusiones son decisiones mías. La IA me ayudó a comprender el tema, no a escribir el ensayo. Las fuentes utilizadas están citadas correctamente.»
 Alumno: Pol G. &nbsp;|&nbsp; Trabajo: «El Plan Marshall y la reconstrucción de Europa» &nbsp;|&nbsp; Fecha: 18/04
 La declaración no penaliza el uso de IA: reconoce que hay usos legítimos (comprensión, corrección) y otros que comprometen la autoría. Su valor formativo está en la reflexión que exige al alumno sobre qué ha sido realmente suyo.
@@ -5756,37 +4567,12 @@ Su valor es asegurar la validez de contenido y el equilibrio de la prueba: evita
 **Ejemplo:**
 
 Tabla de especificaciones diseñada antes de redactar un examen de Historia en 3.º de ESO. Cruza los contenidos con los niveles cognitivos de la taxonomía de Bloom y asigna el número de ítems y el peso a cada celda, garantizando que la prueba sea equilibrada y representativa.
-|
-| Contenido / Unidad
-| Recordarítems / pts
-| Comprenderítems / pts
-| Aplicarítems / pts
-| Analizarítems / pts
-| Totalítems / pts
-| La Revolución Industrial: causas y fases
-| 2 / 1
-| 1 / 1
-| —
-| 1 / 2
-| 4 / 4
-| Cambios sociales: clases sociales y condiciones laborales
-| 1 / 0,5
-| 2 / 1
-| 1 / 1,5
-| —
-| 4 / 3
-| Imperialismo y reparto colonial de África
-| 1 / 0,5
-| 1 / 1
-| —
-| 1 / 2
-| 3 / 3,5
-| Total
-| 4 / 2
-| 4 / 3
-| 1 / 1,5
-| 2 / 4
-| 11 / 10,5*
+| Contenido / Unidad | Recordarítems / pts | Comprenderítems / pts | Aplicarítems / pts | Analizarítems / pts | Totalítems / pts |
+| --- | --- | --- | --- | --- | --- |
+| La Revolución Industrial: causas y fases | 2 / 1 | 1 / 1 | — | 1 / 2 | 4 / 4 |
+| Cambios sociales: clases sociales y condiciones laborales | 1 / 0,5 | 2 / 1 | 1 / 1,5 | — | 4 / 3 |
+| Imperialismo y reparto colonial de África | 1 / 0,5 | 1 / 1 | — | 1 / 2 | 3 / 3,5 |
+| Total | 4 / 2 | 4 / 3 | 1 / 1,5 | 2 / 4 | 11 / 10,5* |
 Examen: Historia del mundo contemporáneo — Bloque 2 &nbsp;|&nbsp; Grupo: 3.º ESO A &nbsp;|&nbsp; Docente: Sr. Martínez &nbsp;|&nbsp; Fecha prevista: 15/03
 * Total 10,5 pts; se redondea a 10 descartando la pregunta de menor peso si el alumno supera el máximo.
 La tabla de especificaciones se elabora antes de escribir los ítems: garantiza que el examen sea representativo de los contenidos y que los niveles cognitivos estén equilibrados según los objetivos de la unidad.
@@ -5819,19 +4605,11 @@ Su valor está en que es rápida de diseñar, no encasilla al alumnado en nivele
 **Ejemplo:**
 
 Rúbrica de punto único para evaluar un ensayo argumentativo en 4.º de ESO. La columna central describe el nivel esperado (plantilla); el docente escribe en las columnas laterales qué aspectos concretos del trabajo están por debajo o por encima de ese estándar.
-|
-| ▼ Por debajo del estándarQué aspectos no llegan
-| Estándar esperado
-| ▲ Por encima del estándarQué aspectos superan
-| La evidencia del segundo argumento es muy genérica: «algunos estudios dicen que…» sin citar fuente concreta.
-| Argumentación: la tesis está claramente formulada y cada argumento se sostiene con al menos una evidencia concreta y citada.
-| El primer argumento cita un informe de la OMS con año y dato específico: evidencia de alta calidad.
-| La conclusión repite la introducción casi literalmente sin añadir síntesis ni apertura.
-| Estructura: el texto tiene introducción, desarrollo y conclusión diferenciados, con una conclusión que sintetiza y abre a nuevas reflexiones.
-|
-|
-| Corrección lingüística: el texto no presenta errores ortográficos ni de puntuación que dificulten la comprensión, y el vocabulario es apropiado al registro académico.
-| Usa vocabulario especializado con precisión («falacia ad hominem», «argumento deductivo»). Va más allá del nivel del curso.
+| ▼ Por debajo del estándarQué aspectos no llegan | Estándar esperado | ▲ Por encima del estándarQué aspectos superan |
+| --- | --- | --- |
+| La evidencia del segundo argumento es muy genérica: «algunos estudios dicen que…» sin citar fuente concreta. | Argumentación: la tesis está claramente formulada y cada argumento se sostiene con al menos una evidencia concreta y citada. | El primer argumento cita un informe de la OMS con año y dato específico: evidencia de alta calidad. |
+| La conclusión repite la introducción casi literalmente sin añadir síntesis ni apertura. | Estructura: el texto tiene introducción, desarrollo y conclusión diferenciados, con una conclusión que sintetiza y abre a nuevas reflexiones. | |
+| | Corrección lingüística: el texto no presenta errores ortográficos ni de puntuación que dificulten la comprensión, y el vocabulario es apropiado al registro académico. | Usa vocabulario especializado con precisión («falacia ad hominem», «argumento deductivo»). Va más allá del nivel del curso. |
 Alumno: Aina F. &nbsp;|&nbsp; Ensayo: «¿Debe ser gratuita la educación universitaria?» &nbsp;|&nbsp; Fecha: 11/05
 La rúbrica de punto único fuerza una retroalimentación específica: el docente no puede limitarse a marcar un nivel, sino que debe escribir qué hace que el trabajo esté por encima o por debajo del estándar en cada criterio.
 
@@ -5863,25 +4641,12 @@ Cómo usarla: antes de una sesión de revisión entre iguales o de comentario de
 **Ejemplo:**
 
 Escalera de retroalimentación aplicada a la revisión de un ensayo sobre el cambio climático en 4.º de ESO. El docente sigue los cuatro peldaños en orden.
-|
-| Peldaño
-| Comentario del docente
-|
-1. Clarificar
-Preguntar antes de valorar
-| «¿Cuando dices que "los países ricos tienen la culpa", te refieres a su huella histórica de emisiones o a la política actual?»
-|
-2. Valorar
-Señalar lo que funciona bien
-| «La estructura es sólida y tu tesis se entiende desde el primer párrafo. Los datos sobre emisiones están bien seleccionados y dan peso a tu argumento.»
-|
-3. Plantear inquietudes
-Identificar lo que genera dudas
-| «Me preocupa que la conclusión no responda a los contraargumentos que presentas en el cuerpo. El lector puede quedar con la sensación de que quedan preguntas sin resolver.»
-|
-4. Sugerir
-Proponer mejoras concretas
-| «Te propongo añadir un párrafo antes de la conclusión donde rebatas específicamente el argumento de que los países en desarrollo también deben reducir emisiones ya. Así el texto queda cerrado.»
+| Peldaño | Comentario del docente |
+| --- | --- |
+| 1. Clarificar Preguntar antes de valorar | «¿Cuando dices que "los países ricos tienen la culpa", te refieres a su huella histórica de emisiones o a la política actual?» |
+| 2. Valorar Señalar lo que funciona bien | «La estructura es sólida y tu tesis se entiende desde el primer párrafo. Los datos sobre emisiones están bien seleccionados y dan peso a tu argumento.» |
+| 3. Plantear inquietudes Identificar lo que genera dudas | «Me preocupa que la conclusión no responda a los contraargumentos que presentas en el cuerpo. El lector puede quedar con la sensación de que quedan preguntas sin resolver.» |
+| 4. Sugerir Proponer mejoras concretas | «Te propongo añadir un párrafo antes de la conclusión donde rebatas específicamente el argumento de que los países en desarrollo también deben reducir emisiones ya. Así el texto queda cerrado.» |
 La escalera asegura que el docente comprende el texto antes de valorarlo, reconoce lo positivo, identifica el problema con precisión y ofrece una propuesta de acción concreta.
 
 **Técnicas activas que la usan:** Pensamiento de diseño (Design Thinking), Revisión entre iguales (peer review), Dos estrellas y un deseo
@@ -5912,34 +4677,16 @@ Su valor es desarrollar la autonomía y la autorregulación: traslada al alumnad
 **Ejemplo:**
 
 Base de orientación para guiar al alumnado en la elaboración de un texto argumentativo en 4.º de ESO. El alumno marca cada paso a medida que lo completa.
-|
-| ✓
-| Paso
-| ¿Qué debo hacer?
-| ✓
-| 1. Definir la posición
-| Escribo con claridad mi opinión sobre el tema en una frase.
-| ✓
-| 2. Buscar argumentos
-| Anoto al menos tres razones que apoyan mi posición.
-| ✓
-| 3. Buscar contraargumentos
-| Identifico las razones contrarias y pienso cómo rebatirlas.
-| ✓
-| 4. Redactar la introducción
-| Presento el tema y expongo mi tesis de forma atractiva.
-| ✓
-| 5. Desarrollar los argumentos
-| Explico cada argumento con datos, ejemplos o citas.
-|
-| 6. Rebatir los contraargumentos
-| Menciono la postura contraria y explico por qué no la comparto.
-|
-| 7. Escribir la conclusión
-| Resumo mi posición y hago un llamado a la reflexión o a la acción.
-|
-| 8. Revisar el texto
-| Compruebo ortografía, coherencia, conectores y extensión.
+| ✓ | Paso | ¿Qué debo hacer? |
+| --- | --- | --- |
+| ✓ | 1. Definir la posición | Escribo con claridad mi opinión sobre el tema en una frase. |
+| ✓ | 2. Buscar argumentos | Anoto al menos tres razones que apoyan mi posición. |
+| ✓ | 3. Buscar contraargumentos | Identifico las razones contrarias y pienso cómo rebatirlas. |
+| ✓ | 4. Redactar la introducción | Presento el tema y expongo mi tesis de forma atractiva. |
+| ✓ | 5. Desarrollar los argumentos | Explico cada argumento con datos, ejemplos o citas. |
+| | 6. Rebatir los contraargumentos | Menciono la postura contraria y explico por qué no la comparto. |
+| | 7. Escribir la conclusión | Resumo mi posición y hago un llamado a la reflexión o a la acción. |
+| | 8. Revisar el texto | Compruebo ortografía, coherencia, conectores y extensión. |
 El alumno ha completado los pasos 1–5 y aún le quedan la refutación, la conclusión y la revisión.
 La base le permite saber con exactitud en qué punto del proceso se encuentra.
 

@@ -44,27 +44,12 @@ It is especially useful in practical activities, debates, oral presentations, wo
 **Example:**
 
 Systematic observation during a Science lab practical in Year 8. The teacher plans in advance what to observe, when, and with what instrument, and records evidence while groups are working.
-|
-| Moment
-| Teacher action
-| Recording instrument
-| What it reveals / Decision
-| Before: preparation
-| Identifies 3 foci: initial planning, data recording, and oral analysis at the close. Prepares an observation guide with indicators for each focus.
-| Observation guide
-| Sets the focus before entering the classroom; avoids trying to observe everything and seeing nothing.
-| Opening (0–5 min)
-| Notes which groups read the instructions before acting and which start without planning. Marks the "initial planning" column in the guide.
-| Observation guide
-| Group 3 doesn't read the instructions → intervene before they assemble equipment incorrectly.
-| Main activity (5–30 min)
-| Rotates between groups every 7 minutes. Each round: records whether students note data in real time and with correct units.
-| Observation guide + field notes
-| Group 2: only one member records → remind others they each have an individual data sheet.
-| Closing (last 10 min)
-| Listens to each group's debrief and records whether they link results to the hypothesis or only describe what happened.
-| Observation guide
-| Groups 2 and 3 describe without interpreting → prepare scaffolding for the next practical.
+| Moment | Teacher action | Recording instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Before: preparation | Identifies 3 foci: initial planning, data recording, and oral analysis at the close. Prepares an observation guide with indicators for each focus. | Observation guide | Sets the focus before entering the classroom; avoids trying to observe everything and seeing nothing. |
+| Opening (0–5 min) | Notes which groups read the instructions before acting and which start without planning. Marks the "initial planning" column in the guide. | Observation guide | Group 3 doesn't read the instructions → intervene before they assemble equipment incorrectly. |
+| Main activity (5–30 min) | Rotates between groups every 7 minutes. Each round: records whether students note data in real time and with correct units. | Observation guide + field notes | Group 2: only one member records → remind others they each have an individual data sheet. |
+| Closing (last 10 min) | Listens to each group's debrief and records whether they link results to the hypothesis or only describe what happened. | Observation guide | Groups 2 and 3 describe without interpreting → prepare scaffolding for the next practical. |
 Activity: Liquid density experiment &nbsp;|&nbsp; Class: Year 8B &nbsp;|&nbsp; Date: 19/02
 The key to systematic observation is prior planning: deciding what to look at (not everything) and when, so that data collected is comparable across groups and sessions.
 
@@ -100,27 +85,12 @@ It does not replace systematic observation, but complements it by providing unex
 **Example:**
 
 Incidental observation during a cooperative Maths session in Year 9. The teacher is not looking for anything specific: they record what emerges spontaneously and significantly while circulating around the room.
-|
-| Time
-| Observed event (spontaneous)
-| Instrument
-| Decision / follow-up
-| 9:08
-| Nadia solves problem 3 using a different method from the one taught (ratios instead of equations). Answer is correct.
-| Field note
-| Ask her to explain her method to the class during the debrief. Note for flexible-thinking assessment.
-| 9:22
-| Iván has written nothing for 14 minutes. When asked, says "I don't know where to start." Not attitude — genuine block.
-| Anecdotal record
-| Sit with him for 3 minutes and give a first step. Review whether individual support is needed.
-| 9:35
-| Group 1 argues aloud about whether the answer is correct. Without reaching agreement, one member decides for everyone without consensus.
-| Field note
-| Discuss group decision-making in the next cooperative session.
-| 9:41
-| During the debrief only 3 students raise their hands voluntarily. The rest wait to be called on.
-| Field note
-| Try mini whiteboards next week so everyone responds simultaneously.
+| Time | Observed event (spontaneous) | Instrument | Decision / follow-up |
+| --- | --- | --- | --- |
+| 9:08 | Nadia solves problem 3 using a different method from the one taught (ratios instead of equations). Answer is correct. | Field note | Ask her to explain her method to the class during the debrief. Note for flexible-thinking assessment. |
+| 9:22 | Iván has written nothing for 14 minutes. When asked, says "I don't know where to start." Not attitude — genuine block. | Anecdotal record | Sit with him for 3 minutes and give a first step. Review whether individual support is needed. |
+| 9:35 | Group 1 argues aloud about whether the answer is correct. Without reaching agreement, one member decides for everyone without consensus. | Field note | Discuss group decision-making in the next cooperative session. |
+| 9:41 | During the debrief only 3 students raise their hands voluntarily. The rest wait to be called on. | Field note | Try mini whiteboards next week so everyone responds simultaneously. |
 Class: Year 9A &nbsp;|&nbsp; Session: Solving quadratic equations &nbsp;|&nbsp; Date: 28/01
 Incidental observation is unplanned: it requires the teacher to circulate, stay present, and have a quick recording tool to hand. Its value is capturing what no formal instrument would have caught.
 
@@ -156,27 +126,12 @@ When the final product does not reflect the full learning (because the process w
 **Example:**
 
 Analysis of productions applied to reviewing lab reports from a Year 7 group. The teacher assesses the submitted product using marking instruments and notes feedback points for the student.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Before: design
-| Decides which criteria to assess in the report (procedure, data, analysis, conclusion) and prepares a marking template with maximum scores.
-| Marking template
-| Clarifies what is valued before reading the work; avoids improvised criteria.
-| Global read
-| Reads the full report without scoring to get an overall impression and check whether the conclusion answers the original hypothesis.
-| —
-| 6 of 8 reports: conclusion doesn't answer the original question → class-wide pattern to address.
-| Criterion-by-criterion marking
-| Records the score for each criterion and writes a specific comment on the lowest-scoring areas.
-| Marking template + feedback sheet
-| Pattern detected: excellent data collection, very weak analysis and interpretation.
-| Return
-| Returns the report with a feedback sheet and asks the student to write an improvement commitment before the next practical.
-| Feedback sheet + commitment record
-| Closes the formative cycle: assessment becomes an action for improvement.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Before: design | Decides which criteria to assess in the report (procedure, data, analysis, conclusion) and prepares a marking template with maximum scores. | Marking template | Clarifies what is valued before reading the work; avoids improvised criteria. |
+| Global read | Reads the full report without scoring to get an overall impression and check whether the conclusion answers the original hypothesis. | — | 6 of 8 reports: conclusion doesn't answer the original question → class-wide pattern to address. |
+| Criterion-by-criterion marking | Records the score for each criterion and writes a specific comment on the lowest-scoring areas. | Marking template + feedback sheet | Pattern detected: excellent data collection, very weak analysis and interpretation. |
+| Return | Returns the report with a feedback sheet and asks the student to write an improvement commitment before the next practical. | Feedback sheet + commitment record | Closes the formative cycle: assessment becomes an action for improvement. |
 Production: Lab report — Chromatography practical &nbsp;|&nbsp; Class: Year 7B &nbsp;|&nbsp; Date: 12/11
 Analysis of productions is the most common technique, but its formative value depends on how it is used: scoring without explaining what is wrong is only grading; scoring and identifying the pattern is assessment.
 
@@ -212,27 +167,12 @@ They are useful for accrediting achievements and comparing results, but should n
 **Example:**
 
 Specific test designed to assess learning from a History unit in Year 9. Covers the before, during, and after phases, with the teacher's decisions at each stage.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Design (before)
-| Creates a test blueprint: crosses unit content against Bloom's cognitive levels (remember, understand, apply, analyse) and assigns items and marks to each cell.
-| Test blueprint
-| Ensures the test is representative and that it doesn't assess only recall.
-| Communication (before)
-| Shares the test blueprint and marking scheme with students one week in advance. Answers questions about what each question type will require.
-| Marking scheme
-| Students can prepare strategically; reduces anxiety and grade disputes afterwards.
-| During the test
-| Notices who finishes very early (possible superficiality) and who doesn't reach the end (possible difficulty). Notes in field notes without interrupting.
-| Field notes
-| 4 students don't reach the last question → review whether the test is too long.
-| Marking (after)
-| Marks using the marking guide. Records the most frequent errors per question to identify which concepts the group has not consolidated.
-| Marking guide + marking template
-| 70% fail the analysis question → spend 20 min in the next lesson working on that cognitive level.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Design (before) | Creates a test blueprint: crosses unit content against Bloom's cognitive levels (remember, understand, apply, analyse) and assigns items and marks to each cell. | Test blueprint | Ensures the test is representative and that it doesn't assess only recall. |
+| Communication (before) | Shares the test blueprint and marking scheme with students one week in advance. Answers questions about what each question type will require. | Marking scheme | Students can prepare strategically; reduces anxiety and grade disputes afterwards. |
+| During the test | Notices who finishes very early (possible superficiality) and who doesn't reach the end (possible difficulty). Notes in field notes without interrupting. | Field notes | 4 students don't reach the last question → review whether the test is too long. |
+| Marking (after) | Marks using the marking guide. Records the most frequent errors per question to identify which concepts the group has not consolidated. | Marking guide + marking template | 70% fail the analysis question → spend 20 min in the next lesson working on that cognitive level. |
 Test: Industrial Revolution exam &nbsp;|&nbsp; Class: Year 9A &nbsp;|&nbsp; Date: 15/03
 A specific test doesn't start when the student picks up their pen: its formative value is built from the design stage and extends through the analysis of collective errors.
 
@@ -268,27 +208,12 @@ They allow for the assessment of deep comprehension, argumentation, synthesis ab
 **Example:**
 
 Oral exchanges during a guided Philosophy debate in Year 12. The teacher gathers evidence of reasoning and understanding through questions and debate facilitation, without needing a written test.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Opening
-| Poses a provocative question: "Is it possible to act in complete freedom?" Asks for 2 min of individual written reflection before opening the debate.
-| Field notes
-| Prior writing activates thinking in all students, not just the most confident ones.
-| Debate (15 min)
-| Assigns the "devil's advocate" role to three students who rarely participate. Records who speaks, type of contribution (argument, question, counter-argument) and quality.
-| Participation log
-| Students with assigned roles argue better than expected → extend role-based practice.
-| Probe question
-| Pauses the debate and asks a check question: "Carla, can you restate what Pablo said in your own words?" Assesses active listening.
-| Direct observation
-| Carla restates correctly → evidence of real oral comprehension, not just from the speaker.
-| Closing
-| Asks each student to write in 3 min "what is the strongest argument made today and why". Collects the cards.
-| Written exit ticket
-| Individual written evidence of synthesis ability; complements debate observation.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Opening | Poses a provocative question: "Is it possible to act in complete freedom?" Asks for 2 min of individual written reflection before opening the debate. | Field notes | Prior writing activates thinking in all students, not just the most confident ones. |
+| Debate (15 min) | Assigns the "devil's advocate" role to three students who rarely participate. Records who speaks, type of contribution (argument, question, counter-argument) and quality. | Participation log | Students with assigned roles argue better than expected → extend role-based practice. |
+| Probe question | Pauses the debate and asks a check question: "Carla, can you restate what Pablo said in your own words?" Assesses active listening. | Direct observation | Carla restates correctly → evidence of real oral comprehension, not just from the speaker. |
+| Closing | Asks each student to write in 3 min "what is the strongest argument made today and why". Collects the cards. | Written exit ticket | Individual written evidence of synthesis ability; complements debate observation. |
 Debate: "Is freedom possible?" (Kant and determinism) &nbsp;|&nbsp; Class: Year 12 B &nbsp;|&nbsp; Date: 15/05
 Oral exchanges reveal reasoning that written work does not always show; combining them with a written closing gives the teacher individual evidence from all students, not just those who speak most.
 
@@ -322,23 +247,11 @@ It is especially useful in diagnostic and formative assessment, because it provi
 **Example:**
 
 Probing and questioning during a Year 8 Science lesson. The teacher asks short questions throughout the explanation to check understanding in real time and adjust the pace.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Opening (5 min)
-| Randomly asks three students: "What is the difference between a prokaryotic and a eukaryotic cell?" Listens to answers without immediate correction.
-| Oral questioning
-| Only one of three answers correctly → concept not consolidated; review before moving on.
-| During explanation
-| Uses "thumbs up/down/sideways" to check whether students follow the reasoning at key steps. Pauses if more than a third show sideways.
-| Quick gestural probe
-| 40% signal doubt at the mitosis step → reteaches with a board diagram.
-| Closing (3 min)
-| Runs a two-question oral mini-quiz (mini whiteboards or row-by-row responses). Notes on the class list who answers and with what level of detail.
-| Tracking list
-| Identifies four students who need support before tomorrow's lab practical.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Opening (5 min) | Randomly asks three students: "What is the difference between a prokaryotic and a eukaryotic cell?" Listens to answers without immediate correction. | Oral questioning | Only one of three answers correctly → concept not consolidated; review before moving on. |
+| During explanation | Uses "thumbs up/down/sideways" to check whether students follow the reasoning at key steps. Pauses if more than a third show sideways. | Quick gestural probe | 40% signal doubt at the mitosis step → reteaches with a board diagram. |
+| Closing (3 min) | Runs a two-question oral mini-quiz (mini whiteboards or row-by-row responses). Notes on the class list who answers and with what level of detail. | Tracking list | Identifies four students who need support before tomorrow's lab practical. |
 Unit: The cell — cell division &nbsp;|&nbsp; Class: Year 8 C &nbsp;|&nbsp; Date: 21/03
 Systematic probing turns each oral question into a micro formative evidence point; accumulated over several sessions, these allow conceptual gaps to be caught before they become errors in a test.
 
@@ -372,23 +285,11 @@ It is especially useful in projects, portfolios, cooperative work and complex ta
 **Example:**
 
 Analysis of processes and reflections in a Year 9 English writing project. The teacher reviews drafts, annotations and reflections to assess the writing process, not just the final product.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Week 1 — planning
-| Collects each student's initial mind map and planning outline. Notes whether the structure matches the required text type (opinion article).
-| Draft review
-| Several students do not distinguish thesis from argument → modelling session before draft 1.
-| Week 2 — draft
-| Reads the draft with an observation guide (structure, cohesion, argument) and leaves written comments. No grade given.
-| Observation guide + comments
-| Cohesion is the widespread weak point → provides a connective word list for the revision stage.
-| Week 3 — reflection
-| Asks for a reflection slip: "What did I change from the draft to the final text and why?" Reviews slips alongside the finished text.
-| Reflection slip
-| Students who reflect in detail show greater textual improvement → real metacognitive factor confirmed.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Week 1 — planning | Collects each student's initial mind map and planning outline. Notes whether the structure matches the required text type (opinion article). | Draft review | Several students do not distinguish thesis from argument → modelling session before draft 1. |
+| Week 2 — draft | Reads the draft with an observation guide (structure, cohesion, argument) and leaves written comments. No grade given. | Observation guide + comments | Cohesion is the widespread weak point → provides a connective word list for the revision stage. |
+| Week 3 — reflection | Asks for a reflection slip: "What did I change from the draft to the final text and why?" Reviews slips alongside the finished text. | Reflection slip | Students who reflect in detail show greater textual improvement → real metacognitive factor confirmed. |
 Project: Opinion article on social media use &nbsp;|&nbsp; Class: Year 9 A &nbsp;|&nbsp; Dates: Mar.–Apr.
 Analysing the process (maps, drafts, reflections) rather than only the final product allows genuine learning to be valued and feedback to be given while there is still time to improve the outcome.
 
@@ -422,23 +323,11 @@ It is useful for obtaining deep evidence, but must be planned to avoid excessive
 **Example:**
 
 Individual evaluative interview in Year 10 Mathematics. The teacher holds a 5–7 minute conversation with each student after a submitted problem to identify the reasoning behind the written solution.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Opening
-| "Walk me through how you got this answer. What strategy did you use?" Lets the student talk without interrupting; notes which terms are used and which are avoided.
-| Interview guide
-| Student uses the correct procedure but cannot explain why it works → surface-level understanding detected.
-| Deepening
-| Presents a variation: "What if the angle were obtuse? Would your strategy change?" Observes whether the student transfers knowledge to a new case.
-| Transfer question
-| No transfer → procedural learning only; needs varied examples in follow-up support.
-| Closing
-| Summarises observations aloud and asks the student to rate their own understanding (1–4). Notes the self-rating in the tracking notebook.
-| Tracking notebook
-| Self-rating matches teacher observation → positive metacognitive calibration.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Opening | "Walk me through how you got this answer. What strategy did you use?" Lets the student talk without interrupting; notes which terms are used and which are avoided. | Interview guide | Student uses the correct procedure but cannot explain why it works → surface-level understanding detected. |
+| Deepening | Presents a variation: "What if the angle were obtuse? Would your strategy change?" Observes whether the student transfers knowledge to a new case. | Transfer question | No transfer → procedural learning only; needs varied examples in follow-up support. |
+| Closing | Summarises observations aloud and asks the student to rate their own understanding (1–4). Notes the self-rating in the tracking notebook. | Tracking notebook | Self-rating matches teacher observation → positive metacognitive calibration. |
 Student: Marc G. &nbsp;|&nbsp; Task: Solving triangles (trigonometry) &nbsp;|&nbsp; Date: 10/04
 The evaluative interview reveals the difference between knowing how and understanding why — something a written test rarely shows; it is especially valuable before a unit that requires applying that knowledge in new contexts.
 
@@ -472,23 +361,11 @@ They are useful for their speed and comparability, but should not replace richer
 **Example:**
 
 Survey and questionnaire used in Year 12 Social Sciences. The teacher uses a diagnostic questionnaire at the start of the unit and a satisfaction survey at the end to guide teaching and improve future design.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Start of unit
-| Distributes an 8-item multiple-choice questionnaire on prior concepts (globalised economy, trade blocs). Results are analysed in aggregate, with no grade.
-| Diagnostic questionnaire
-| 65% confuse trade balance with balance of payments → dedicates an extra session to this before continuing.
-| Mid-unit
-| Three-question open form: What do I understand well? What am I finding hard? What type of activity would help me most? Anonymous, 5 minutes.
-| Process survey
-| Most students want more real-data examples → incorporates current economic news in following sessions.
-| End of unit
-| Satisfaction questionnaire (Likert 1–4) on clarity, usefulness and pace. Includes a self-evaluation item: "I have met the unit objectives".
-| Satisfaction survey
-| Pace scores low (mean 1.9/4) → adjusts timing in next year's scheme of work.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Start of unit | Distributes an 8-item multiple-choice questionnaire on prior concepts (globalised economy, trade blocs). Results are analysed in aggregate, with no grade. | Diagnostic questionnaire | 65% confuse trade balance with balance of payments → dedicates an extra session to this before continuing. |
+| Mid-unit | Three-question open form: What do I understand well? What am I finding hard? What type of activity would help me most? Anonymous, 5 minutes. | Process survey | Most students want more real-data examples → incorporates current economic news in following sessions. |
+| End of unit | Satisfaction questionnaire (Likert 1–4) on clarity, usefulness and pace. Includes a self-evaluation item: "I have met the unit objectives". | Satisfaction survey | Pace scores low (mean 1.9/4) → adjusts timing in next year's scheme of work. |
 Unit: Economy and globalisation &nbsp;|&nbsp; Class: Year 12 A &nbsp;|&nbsp; Term: Spring
 Combining a diagnostic questionnaire, a process survey and a satisfaction survey closes the formative assessment cycle: teaching is adjusted before, during and after the unit.
 
@@ -522,23 +399,11 @@ It is a useful technique for continuous and criteria-based assessment, especiall
 **Example:**
 
 Documentary analysis in a Year 13 History project. The teacher reviews portfolios, notebooks and records accumulated throughout the term to produce an evidence-based overall assessment.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| Document collection
-| Requests the term portfolio: class notebook, three written assignments and the final reflection slip. Verifies all documents are present before assessing.
-| Checklist
-| Two students submit an incomplete portfolio → individual meeting to review what is missing and agree deadlines.
-| Progress analysis
-| Compares the first and last written assignment using the same analytic rubric. Notes criteria with clear improvement and those that remain unchanged.
-| Analytic rubric
-| Source analysis improves significantly; written argumentation remains weak → target for next term.
-| Overall assessment
-| Cross-references portfolio evidence with field notes taken in class. Writes a two-line comment per student reflecting the progress observed in both sources.
-| Narrative report
-| Portfolio + direct observation triangulation is more reliable than either source alone.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| Document collection | Requests the term portfolio: class notebook, three written assignments and the final reflection slip. Verifies all documents are present before assessing. | Checklist | Two students submit an incomplete portfolio → individual meeting to review what is missing and agree deadlines. |
+| Progress analysis | Compares the first and last written assignment using the same analytic rubric. Notes criteria with clear improvement and those that remain unchanged. | Analytic rubric | Source analysis improves significantly; written argumentation remains weak → target for next term. |
+| Overall assessment | Cross-references portfolio evidence with field notes taken in class. Writes a two-line comment per student reflecting the progress observed in both sources. | Narrative report | Portfolio + direct observation triangulation is more reliable than either source alone. |
 Project: Contemporary History portfolio &nbsp;|&nbsp; Class: Year 13 B &nbsp;|&nbsp; Date: end of autumn term
 Documentary analysis allows learning to be assessed over time rather than at a single moment; cross-referencing multiple documents from the same student gives a much fuller picture than an isolated exam.
 
@@ -572,23 +437,11 @@ It is especially useful in collaborative projects and digital portfolios.
 **Example:**
 
 Analysis of digital interactions in a collaborative Year 10 Computing and Technology project. The teacher examines the shared document's edit history and forum comments to assess each group member's actual contribution.
-|
-| Moment
-| Teacher action
-| Instrument
-| What it reveals / Decision
-| During the project
-| Accesses the Google Doc revision history. Checks who edited, when, and which sections, to identify whether the workload is evenly distributed.
-| Revision history
-| One student accounts for 80% of edits → talks with the group to redistribute responsibilities before the deadline.
-| Forum review
-| Reads class forum posts (Classroom or Moodle). Evaluates contribution quality: do they add new ideas, challenge arguments, or merely agree with what has been said?
-| Digital participation rubric
-| Most posts just say "agreed" → introduces the rule that each message must add a new argument.
-| Project close
-| Exports the platform activity summary (logins, contributions, comments). Cross-references with each student's self-assessment of their participation.
-| Analytics data + self-assessment
-| Two students over-rate themselves compared to the data → concrete feedback with numerical evidence.
+| Moment | Teacher action | Instrument | What it reveals / Decision |
+| --- | --- | --- | --- |
+| During the project | Accesses the Google Doc revision history. Checks who edited, when, and which sections, to identify whether the workload is evenly distributed. | Revision history | One student accounts for 80% of edits → talks with the group to redistribute responsibilities before the deadline. |
+| Forum review | Reads class forum posts (Classroom or Moodle). Evaluates contribution quality: do they add new ideas, challenge arguments, or merely agree with what has been said? | Digital participation rubric | Most posts just say "agreed" → introduces the rule that each message must add a new argument. |
+| Project close | Exports the platform activity summary (logins, contributions, comments). Cross-references with each student's self-assessment of their participation. | Analytics data + self-assessment | Two students over-rate themselves compared to the data → concrete feedback with numerical evidence. |
 Project: Design of a school management app &nbsp;|&nbsp; Class: Year 10 B &nbsp;|&nbsp; Duration: 3 weeks
 Digital platforms generate a learning trail that allows individual participation in group projects to be assessed objectively; combining this with self-assessment strengthens students' metacognition.
 
@@ -622,23 +475,11 @@ It is key in competency-based and criteria-based assessment, because it avoids m
 **Example:**
 
 Evidence triangulation at the end of a term in Year 9 English as a Foreign Language. The teacher combines three sources before issuing a grade: a written test, systematic classroom observation, and the student's portfolio.
-|
-| Evidence source
-| What it assesses
-| Instrument used
-| Result / Key finding
-| Written test
-| Reading comprehension and written expression in English. Controlled conditions, no support materials.
-| Exam with marking criteria
-| Score: 6.5/10. Written expression solid; reading comprehension of longer texts weak.
-| Systematic observation
-| Oral participation, fluency and willingness to communicate in English during class activities.
-| Participation log (scale 1–4)
-| Sustained level 3–4: participates actively, few communication errors though some grammatical ones.
-| Portfolio
-| Writing process, reflection on errors and autonomy in managing own learning.
-| Analytic portfolio rubric
-| Reflections show awareness of errors and concrete improvement strategies.
+| Evidence source | What it assesses | Instrument used | Result / Key finding |
+| --- | --- | --- | --- |
+| Written test | Reading comprehension and written expression in English. Controlled conditions, no support materials. | Exam with marking criteria | Score: 6.5/10. Written expression solid; reading comprehension of longer texts weak. |
+| Systematic observation | Oral participation, fluency and willingness to communicate in English during class activities. | Participation log (scale 1–4) | Sustained level 3–4: participates actively, few communication errors though some grammatical ones. |
+| Portfolio | Writing process, reflection on errors and autonomy in managing own learning. | Analytic portfolio rubric | Reflections show awareness of errors and concrete improvement strategies. |
 Triangulation conclusion: The student has strong oral communication and reflective skills but needs support with reading comprehension of longer texts. The grade integrates all three sources and better reflects actual competence than the test alone.
 Triangulation avoids the distortion of relying on a single piece of evidence: a student may have a bad day in a test yet show real mastery across other sources — or vice versa.
 
@@ -2524,32 +2365,12 @@ It is the most suitable assessment tool for complex tasks where detailed feedbac
 **Example:**
 
 Analytic rubric for assessing an oral presentation in Year 10. Each criterion is scored independently.
-|
-| Criterion
-| Excellent (4)
-| Satisfactory (3)
-| Developing (2)
-| Beginning (1)
-| Content
-| Clear, well-developed ideas supported by evidence.
-| Correct ideas with some details underdeveloped.
-| Basic ideas; lacks depth or precision.
-| Incomplete or inaccurate information.
-| Structure
-| Introduction, development and conclusion very clearly distinguished.
-| Clear structure with some transitions that could be improved.
-| Structure present but poorly defined.
-| No appreciable structure.
-| Oral expression
-| Excellent diction, volume and pace; constant eye contact.
-| Fluent delivery with occasional hesitation.
-| Functional delivery but with frequent pauses or low voice.
-| Significant difficulties in oral communication.
-| Time management
-| Fits the allotted time perfectly.
-| Slight overrun or underrun (±1 min).
-| 2–3 minute discrepancy.
-| Does not manage the allotted time.
+| Criterion | Excellent (4) | Satisfactory (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Content | Clear, well-developed ideas supported by evidence. | Correct ideas with some details underdeveloped. | Basic ideas; lacks depth or precision. | Incomplete or inaccurate information. |
+| Structure | Introduction, development and conclusion very clearly distinguished. | Clear structure with some transitions that could be improved. | Structure present but poorly defined. | No appreciable structure. |
+| Oral expression | Excellent diction, volume and pace; constant eye contact. | Fluent delivery with occasional hesitation. | Functional delivery but with frequent pauses or low voice. | Significant difficulties in oral communication. |
+| Time management | Fits the allotted time perfectly. | Slight overrun or underrun (±1 min). | 2–3 minute discrepancy. | Does not manage the allotted time. |
 The final mark is obtained by adding the score for each criterion (maximum 16 points) and converting it to a 1–10 scale.
 Student: Marta P. &nbsp;|&nbsp; Activity: Presentation on the Renaissance (Year 10) &nbsp;|&nbsp; Date: 12/03Score: 12/16 → 7.5. Solid structure and content; needs to work on oral fluency.
 
@@ -2581,22 +2402,12 @@ Suitable when time is limited, when the task is short, or when a quick overall a
 **Example:**
 
 Holistic rubric for assessing a short story in Year 8. Unlike an analytic rubric, the teacher assigns a single overall level after reading the text as a whole.
-|
-| Level
-| Global descriptor
-| Mark
-| 4 — Excellent
-| The story has a clear structure (opening, conflict and resolution) and a consistent narrative voice. Characters and settings are vividly described. Language is varied, precise and error-free. The piece is original and holds the reader's attention throughout.
-| 9–10
-| 3 — Proficient
-| The story has a recognisable structure and sufficiently developed characters. Language is appropriate, though with occasional repetition or minor errors. The narrative is easy to follow, though it may lose momentum at points.
-| 7–8
-| 2 — Developing
-| The story has a basic structure with gaps (the conflict or resolution is weak). Characters and settings are underdeveloped. Language is functional but limited, with errors that occasionally hinder reading.
-| 5–6
-| 1 — Beginning
-| The story lacks a recognisable narrative structure or is incomplete. Characters and settings are not defined. Language is very limited and errors make comprehension difficult.
-| 1–4
+| Level | Global descriptor | Mark |
+| --- | --- | --- |
+| 4 — Excellent | The story has a clear structure (opening, conflict and resolution) and a consistent narrative voice. Characters and settings are vividly described. Language is varied, precise and error-free. The piece is original and holds the reader's attention throughout. | 9–10 |
+| 3 — Proficient | The story has a recognisable structure and sufficiently developed characters. Language is appropriate, though with occasional repetition or minor errors. The narrative is easy to follow, though it may lose momentum at points. | 7–8 |
+| 2 — Developing | The story has a basic structure with gaps (the conflict or resolution is weak). Characters and settings are underdeveloped. Language is functional but limited, with errors that occasionally hinder reading. | 5–6 |
+| 1 — Beginning | The story lacks a recognisable narrative structure or is incomplete. Characters and settings are not defined. Language is very limited and errors make comprehension difficult. | 1–4 |
 Student: Alex G. &nbsp;|&nbsp; Activity: Short story "The Last Journey" (Year 8) &nbsp;|&nbsp; Date: 25/01Global level: 3 — Competent → 7.5. Fluent narrative with some lexical repetition.
 
 **Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Service-Learning
@@ -2627,37 +2438,13 @@ It is essential in long-duration projects, research and learning portfolios, whe
 **Example:**
 
 Process rubric for assessing how a student works during a scientific investigation in Year 9. Applied through observation during sessions, not based on the final product.
-|
-| Process criterion
-| Excellent (4)
-| Proficient (3)
-| Developing (2)
-| Beginning (1)
-| Planning
-| Independently defines the hypothesis, procedure and materials before starting.
-| Plans with some guidance from the teacher.
-| Starts without planning and adjusts on the go.
-| Does not plan; acts entirely on impulse throughout the session.
-| Data recording
-| Records data systematically, in an organised way and with correct units.
-| Records most data with minor omissions.
-| Recording is incomplete or disorganised.
-| Does not record data or does so illegibly.
-| Adjustment and problem-solving
-| Identifies errors, proposes solutions and modifies the procedure thoughtfully.
-| Notices errors and asks for help to solve them.
-| Notices something is wrong but does not know how to respond.
-| Does not notice errors or ignores them.
-| Teamwork
-| Divides tasks, listens actively and manages disagreements constructively.
-| Collaborates well, with occasional moments of poor coordination.
-| Participates inconsistently; tends to work alone.
-| Does not collaborate or creates conflict in the group.
-| Reflection on process
-| At the end, identifies what worked, what they would change and why.
-| Reflects on the process when prompted by guiding questions.
-| Reflection is superficial or limited to the outcome.
-| Does not reflect on the process.
+| Process criterion | Excellent (4) | Proficient (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Planning | Independently defines the hypothesis, procedure and materials before starting. | Plans with some guidance from the teacher. | Starts without planning and adjusts on the go. | Does not plan; acts entirely on impulse throughout the session. |
+| Data recording | Records data systematically, in an organised way and with correct units. | Records most data with minor omissions. | Recording is incomplete or disorganised. | Does not record data or does so illegibly. |
+| Adjustment and problem-solving | Identifies errors, proposes solutions and modifies the procedure thoughtfully. | Notices errors and asks for help to solve them. | Notices something is wrong but does not know how to respond. | Does not notice errors or ignores them. |
+| Teamwork | Divides tasks, listens actively and manages disagreements constructively. | Collaborates well, with occasional moments of poor coordination. | Participates inconsistently; tends to work alone. | Does not collaborate or creates conflict in the group. |
+| Reflection on process | At the end, identifies what worked, what they would change and why. | Reflects on the process when prompted by guiding questions. | Reflection is superficial or limited to the outcome. | Does not reflect on the process. |
 Student: Jorge L. &nbsp;|&nbsp; Activity: Liquid density experiment (Year 9) &nbsp;|&nbsp; Date: 08/02Score: 14/20 → 7. Systematic data recording stands out; reflection on the process needs improvement.
 
 **Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Service-Learning, Maker learning / STEAM, Genius Hour, ICAP framework
@@ -2688,37 +2475,13 @@ It complements the process rubric in extended projects. Used alone, it may lead 
 **Example:**
 
 Product rubric for assessing an infographic about climate change in Year 7. Evaluates the characteristics of the submitted product, not the process of creating it.
-|
-| Criterion
-| Excellent (4)
-| Proficient (3)
-| Developing (2)
-| Beginning (1)
-| Content
-| Information is accurate, complete and relevant. Includes well-selected data, causes and consequences.
-| Information is mostly accurate, with a few imprecise or incomplete details.
-| Information is basic or contains some errors.
-| Information is incorrect, very sparse or unrelated to the topic.
-| Visual organisation
-| The layout guides reading intuitively. Clear hierarchy, coherent use of space and elements.
-| Organisation is adequate, though one element makes reading slightly harder.
-| Layout is confusing or cluttered in some sections.
-| No recognisable visual organisation.
-| Readability
-| Appropriate font, legible text size and sufficient colour contrast throughout.
-| Generally readable, with some text too small or slightly low contrast.
-| Some sections are hard to read due to poor font choice or contrast.
-| The document is difficult to read as a whole.
-| Images and graphics
-| Images and graphics reinforce the message, are relevant and correctly labelled.
-| Images are appropriate but one adds little value or a label is missing.
-| Images are decorative or not directly related to the content.
-| No images, or images are unsuitable for the topic.
-| Sources cited
-| All sources are correctly cited at the foot of the infographic.
-| Most sources are cited, with a minor omission.
-| Only some sources are cited or the format is incorrect.
-| No sources are cited.
+| Criterion | Excellent (4) | Proficient (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Content | Information is accurate, complete and relevant. Includes well-selected data, causes and consequences. | Information is mostly accurate, with a few imprecise or incomplete details. | Information is basic or contains some errors. | Information is incorrect, very sparse or unrelated to the topic. |
+| Visual organisation | The layout guides reading intuitively. Clear hierarchy, coherent use of space and elements. | Organisation is adequate, though one element makes reading slightly harder. | Layout is confusing or cluttered in some sections. | No recognisable visual organisation. |
+| Readability | Appropriate font, legible text size and sufficient colour contrast throughout. | Generally readable, with some text too small or slightly low contrast. | Some sections are hard to read due to poor font choice or contrast. | The document is difficult to read as a whole. |
+| Images and graphics | Images and graphics reinforce the message, are relevant and correctly labelled. | Images are appropriate but one adds little value or a label is missing. | Images are decorative or not directly related to the content. | No images, or images are unsuitable for the topic. |
+| Sources cited | All sources are correctly cited at the foot of the infographic. | Most sources are cited, with a minor omission. | Only some sources are cited or the format is incorrect. | No sources are cited. |
 Student: Sofía M. &nbsp;|&nbsp; Activity: Infographic on climate change (Year 7) &nbsp;|&nbsp; Date: 15/04Score: 16/20 → 8. Excellent visual design; all sources must be correctly cited.
 
 **Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Dual coding, Service-Learning, WebQuest, Maker learning / STEAM, Mind map, Timeline
@@ -2749,37 +2512,13 @@ Sharing it before the performance allows students to prepare more effectively an
 **Example:**
 
 Rubric for assessing an individual oral presentation in Year 8. Applied in real time while the student speaks; the teacher marks the observed level for each criterion.
-|
-| Criterion
-| Excellent (4)
-| Proficient (3)
-| Developing (2)
-| Beginning (1)
-| Content and structure
-| Clear, well-ordered and developed ideas. Introduction, body and conclusion clearly distinguished.
-| Correct ideas with occasional logical gaps. Recognisable structure.
-| Basic or disorganised ideas. Structure is unclear.
-| No recognisable structure or incorrect information.
-| Diction and volume
-| Speaks clearly at an appropriate volume. Perfectly understandable without effort.
-| Generally clear, with occasional low voice or careless pronunciation.
-| Some parts are hard to understand due to low volume or poor diction.
-| Very little is understandable; volume is systematically insufficient.
-| Fluency and pace
-| Speaks naturally at an appropriate pace, without reading, with well-placed pauses.
-| Generally good pace, with some long pauses or moments of reading.
-| Irregular pace; reads frequently or pauses excessively.
-| Reads continuously or the delivery stops repeatedly.
-| Non-verbal communication
-| Maintains eye contact with the audience, confident posture and gestures that reinforce the message.
-| Frequent eye contact though tends to look at notes. Appropriate posture.
-| Limited eye contact; tense or distracting posture.
-| No eye contact; posture that hinders communication.
-| Time management
-| Fits the allotted time (±30 s). Time well distributed across sections.
-| Slight overrun or underrun (±1 min) or uneven time distribution.
-| 1–2 min discrepancy or one section disproportionately long.
-| Exceeds or falls short of allotted time by more than 2 min.
+| Criterion | Excellent (4) | Proficient (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Content and structure | Clear, well-ordered and developed ideas. Introduction, body and conclusion clearly distinguished. | Correct ideas with occasional logical gaps. Recognisable structure. | Basic or disorganised ideas. Structure is unclear. | No recognisable structure or incorrect information. |
+| Diction and volume | Speaks clearly at an appropriate volume. Perfectly understandable without effort. | Generally clear, with occasional low voice or careless pronunciation. | Some parts are hard to understand due to low volume or poor diction. | Very little is understandable; volume is systematically insufficient. |
+| Fluency and pace | Speaks naturally at an appropriate pace, without reading, with well-placed pauses. | Generally good pace, with some long pauses or moments of reading. | Irregular pace; reads frequently or pauses excessively. | Reads continuously or the delivery stops repeatedly. |
+| Non-verbal communication | Maintains eye contact with the audience, confident posture and gestures that reinforce the message. | Frequent eye contact though tends to look at notes. Appropriate posture. | Limited eye contact; tense or distracting posture. | No eye contact; posture that hinders communication. |
+| Time management | Fits the allotted time (±30 s). Time well distributed across sections. | Slight overrun or underrun (±1 min) or uneven time distribution. | 1–2 min discrepancy or one section disproportionately long. | Exceeds or falls short of allotted time by more than 2 min. |
 Student: Elena R. &nbsp;|&nbsp; Activity: Oral presentation on global warming (Year 8) &nbsp;|&nbsp; Date: 22/04Score: 14/20 → 7. Content is excellent; non-verbal communication and fluency are the areas to practise before the next presentation.
 
 **Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Compass Points, Philosophy for Children (P4C), Academic debate, Step Inside, Three-Step Interview
@@ -2810,37 +2549,13 @@ It is especially useful for preventing group work from diluting individual respo
 **Example:**
 
 Rubric for assessing cooperative work in a group project in Year 9. Can be applied by the teacher, as peer assessment between groups, or as group self-assessment.
-|
-| Criterion
-| Excellent (4)
-| Proficient (3)
-| Developing (2)
-| Beginning (1)
-| Task distribution
-| Tasks are shared equitably and matched to each member's strengths. Everyone takes on clear responsibilities.
-| Distribution is mostly equitable, with occasional imbalance.
-| Some members consistently carry more of the load than others.
-| No recognisable task distribution; one or two members do all the work.
-| Internal communication
-| The group communicates frequently, listens actively and resolves questions before acting.
-| Communication is generally good, with occasional misunderstandings.
-| Communication is irregular; some members make decisions without informing the group.
-| Little or no internal communication; members work in an uncoordinated way.
-| Conflict management
-| Disagreements are resolved through dialogue and consensus without anyone imposing their view.
-| Conflicts are resolved, though with some tension or teacher intervention.
-| Conflicts are partially resolved; tensions remain.
-| Conflicts are not managed or escalate; the group cannot reach agreements.
-| Mutual support
-| Members support each other proactively: explaining, asking questions and sharing resources without being asked.
-| Members help when asked, but not spontaneously.
-| Support is scarce; each member works independently.
-| No mutual support; members compete or ignore each other.
-| Quality of joint outcome
-| The final product reflects the integrated contribution of all members and is better than the sum of individual parts.
-| The product reflects joint work, though with uneven contributions.
-| The product is a juxtaposition of loosely integrated individual parts.
-| The product was mainly produced by one or two members.
+| Criterion | Excellent (4) | Proficient (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Task distribution | Tasks are shared equitably and matched to each member's strengths. Everyone takes on clear responsibilities. | Distribution is mostly equitable, with occasional imbalance. | Some members consistently carry more of the load than others. | No recognisable task distribution; one or two members do all the work. |
+| Internal communication | The group communicates frequently, listens actively and resolves questions before acting. | Communication is generally good, with occasional misunderstandings. | Communication is irregular; some members make decisions without informing the group. | Little or no internal communication; members work in an uncoordinated way. |
+| Conflict management | Disagreements are resolved through dialogue and consensus without anyone imposing their view. | Conflicts are resolved, though with some tension or teacher intervention. | Conflicts are partially resolved; tensions remain. | Conflicts are not managed or escalate; the group cannot reach agreements. |
+| Mutual support | Members support each other proactively: explaining, asking questions and sharing resources without being asked. | Members help when asked, but not spontaneously. | Support is scarce; each member works independently. | No mutual support; members compete or ignore each other. |
+| Quality of joint outcome | The final product reflects the integrated contribution of all members and is better than the sum of individual parts. | The product reflects joint work, though with uneven contributions. | The product is a juxtaposition of loosely integrated individual parts. | The product was mainly produced by one or two members. |
 Group: Team 3 &nbsp;|&nbsp; Project: Water awareness campaign (Year 9) &nbsp;|&nbsp; Date: 10/05Score: 15/20 → 7.5. Internal communication is the group's strong point; better conflict management would increase efficiency.
 
 **Active techniques using this:** What makes you say that?, Who's who?, 1 - 2 - 4, Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, Timed Pair Share, Design Thinking, Roundtable, Word Game, 5E Instructional Model, Jigsaw, The Sack of Doubts, Team-Pair-Solo, Listener Teams, Learning Stations, Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, The Box, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Group Investigation, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Detective Pairs, Discussion Pairs, Think, Puzzle, Explore, Placemat consensus, Ask Why, Ask and Answer, Service-Learning, RallyRobin, Appointment Clock, Review the Consequences, RoundRobin, Follow the trail, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, One for All, World Café, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Yellow Pages, Co-teaching, Gamification, Cooperative Roles, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Reciprocal Teaching, Structured Controversy with Evidence, +1, Habits of mind, Fan-N-Pick
@@ -2871,37 +2586,13 @@ It is the most suitable assessment tool for competency-based assessment required
 **Example:**
 
 Competency rubric for assessing digital competence in a content creation project in Year 10. Criteria are linked to competency descriptors, not to specific subject content.
-|
-| Competency / Descriptor
-| Advanced (4)
-| Intermediate (3)
-| Basic (2)
-| Beginning (1)
-| Information search and selection
-| Locates information from varied, reliable sources; critically contrasts and selects it independently.
-| Locates information from appropriate sources and identifies the most reliable ones with occasional guidance.
-| Locates information but does not always evaluate reliability or diversify sources.
-| Uses a single source without questioning its reliability.
-| Digital creation and editing
-| Creates original digital content, combining formats creatively and with technical mastery of the tool.
-| Creates adequate content using the main functions of the tool.
-| Creates basic content with help; technical mastery is limited.
-| Cannot create content independently or the result is unusable.
-| Online communication and collaboration
-| Shares and comments on work constructively in the digital environment, respecting community norms.
-| Shares work and comments on peers' work appropriately.
-| Shares work but comments are superficial or not always respectful.
-| Does not share work or comments are inappropriate.
-| Safety and privacy
-| Manages their digital identity responsibly: protects personal data and monitors their digital footprint.
-| Understands basic privacy aspects and applies them with some guidance.
-| Has partial awareness of digital risks but does not manage them consistently.
-| Shows no awareness of privacy or security in digital environments.
-| Technical problem-solving
-| Identifies and resolves technical problems independently, finding alternative solutions when needed.
-| Solves common problems with minimal help or by searching online.
-| Frequently needs help to solve basic technical problems.
-| Cannot resolve technical problems without constant support.
+| Competency / Descriptor | Advanced (4) | Intermediate (3) | Basic (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Information search and selection | Locates information from varied, reliable sources; critically contrasts and selects it independently. | Locates information from appropriate sources and identifies the most reliable ones with occasional guidance. | Locates information but does not always evaluate reliability or diversify sources. | Uses a single source without questioning its reliability. |
+| Digital creation and editing | Creates original digital content, combining formats creatively and with technical mastery of the tool. | Creates adequate content using the main functions of the tool. | Creates basic content with help; technical mastery is limited. | Cannot create content independently or the result is unusable. |
+| Online communication and collaboration | Shares and comments on work constructively in the digital environment, respecting community norms. | Shares work and comments on peers' work appropriately. | Shares work but comments are superficial or not always respectful. | Does not share work or comments are inappropriate. |
+| Safety and privacy | Manages their digital identity responsibly: protects personal data and monitors their digital footprint. | Understands basic privacy aspects and applies them with some guidance. | Has partial awareness of digital risks but does not manage them consistently. | Shows no awareness of privacy or security in digital environments. |
+| Technical problem-solving | Identifies and resolves technical problems independently, finding alternative solutions when needed. | Solves common problems with minimal help or by searching online. | Frequently needs help to solve basic technical problems. | Cannot resolve technical problems without constant support. |
 Student: Pau N. &nbsp;|&nbsp; Activity: Digital habits video capsule (Year 10) &nbsp;|&nbsp; Date: 20/03Score: 11/20 → 5.5. Shows good judgement in searching and communication; digital safety and technical problem-solving need strengthening.
 
 **Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Compass Points, Constructive alignment
@@ -2932,18 +2623,15 @@ Fast to apply and very useful for activities with clear, closed requirements: la
 **Example:**
 
 Checklist for assessing a biology lab report in Year 9. The teacher marks each indicator during the review.
-|
-| Indicator
-| Yes
-| No
-| Comments
-| States the aim of the experiment | ✓ | |
-| Describes materials and procedure | ✓ | |
-| Records data in a table or graph | ✓ | |
-| Interprets results with rigour | | ✗ | Describes data but does not explain it
-| Links results to the hypothesis | | ✗ | No prior hypothesis stated
-| Clear writing with scientific vocabulary | ✓ | |
-| Neat and well-organised presentation | ✓ | |
+| Indicator | Yes | No | Comments |
+| --- | --- | --- | --- |
+| States the aim of the experiment | ✓ | | |
+| Describes materials and procedure | ✓ | | |
+| Records data in a table or graph | ✓ | | |
+| Interprets results with rigour | | ✗ | Describes data but does not explain it |
+| Links results to the hypothesis | | ✗ | No prior hypothesis stated |
+| Clear writing with scientific vocabulary | ✓ | | |
+| Neat and well-organised presentation | ✓ | | |
 Result: 5 out of 7 indicators met. Student is asked to revise the hypothesis and the interpretation of results before the final submission.
 
 **Active techniques using this:** Laboratory-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Flipped Classroom, Gallery Walk, Generate Solutions, Service-Learning, One for All, Peer Review, Question Starts
@@ -2974,24 +2662,14 @@ Useful for assessing participation, attitudes, procedures and social skills in g
 **Example:**
 
 Observation scale for assessing cooperative work during a group activity in Year 8. The teacher completes it while observing the session.
-|
-| Observable indicator
-| Always
-| Sometimes
-| Rarely
-| Never
-| Listens actively to peers
-| ✓ | | |
-| Contributes ideas to the group
-| | ✓ | |
-| Accepts group decisions
-| ✓ | | |
-| Supports peers who are struggling
-| | ✓ | |
-| Waits for their turn to speak
-| | | ✓ |
-| Completes their assigned task
-| ✓ | | |
+| Observable indicator | Always | Sometimes | Rarely | Never |
+| --- | --- | --- | --- | --- |
+| Listens actively to peers | ✓ | | | |
+| Contributes ideas to the group | | ✓ | | |
+| Accepts group decisions | ✓ | | | |
+| Supports peers who are struggling | | ✓ | | |
+| Waits for their turn to speak | | | ✓ | |
+| Completes their assigned task | ✓ | | | |
 Student: Marc G. &nbsp;|&nbsp; Activity: Climate change debate &nbsp;|&nbsp; Date: 14/03
 Note: Actively engaged in listening and reaching consensus; needs to improve turn-taking.
 
@@ -3023,22 +2701,13 @@ Suitable when the teacher has enough experience to apply criteria implicitly, bu
 **Example:**
 
 Rating scale for assessing an oral presentation in Social Studies in Year 10 (4th ESO). The teacher scores each criterion during the presentation.
-|
-| Criterion
-| 1Poor
-| 2Fair
-| 3Good
-| 4Excellent
-| Organisation and structure of content
-| | | ✓ |
-| Command of the topic and use of data
-| | | | ✓
-| Clarity and fluency in oral delivery
-| | ✓ | |
-| Visual support (slides or poster)
-| | | ✓ |
-| Response to audience questions
-| | | | ✓
+| Criterion | 1Poor | 2Fair | 3Good | 4Excellent |
+| --- | --- | --- | --- | --- |
+| Organisation and structure of content | | | ✓ | |
+| Command of the topic and use of data | | | | ✓ |
+| Clarity and fluency in oral delivery | | ✓ | | |
+| Visual support (slides or poster) | | | ✓ | |
+| Response to audience questions | | | | ✓ |
 Student: Sara M. &nbsp;|&nbsp; Activity: Causes of World War I &nbsp;|&nbsp; Date: 05/11
 Total score: 15/20. Strong command of topic and question answering; oral fluency needs improvement.
 
@@ -3070,27 +2739,12 @@ It is a good starting point for teachers who want to introduce more explicit cri
 **Example:**
 
 Descriptive scale for assessing an argumentative essay in Language Arts in Year 12 (2nd Bachillerato). Each level includes a description of the expected performance; the teacher marks the level that best describes the work.
-|
-| Criterion
-| Level 1 — Beginning
-| Level 2 — Developing
-| Level 3 — Proficient
-| Thesis and argumentation
-| The thesis is unclear or the arguments are irrelevant.
-| ✓ The thesis is recognisable and the arguments partially support it.
-| The thesis is precise and the arguments are solid and well-structured.
-| Use of sources and evidence
-| No sources cited or citations are incorrect.
-| Some sources are cited but not integrated into the argument.
-| ✓ Varied sources are fluently integrated and correctly cited.
-| Cohesion and coherence
-| The text has topic shifts and poor paragraph connections.
-| ✓ The text is generally coherent; some connectives are mechanical.
-| Thematic progression is smooth and connectives are varied and precise.
-| Linguistic accuracy
-| Frequent errors that impede comprehension.
-| Occasional errors that do not interrupt reading.
-| ✓ Very few errors; precise vocabulary and appropriate register.
+| Criterion | Level 1 — Beginning | Level 2 — Developing | Level 3 — Proficient |
+| --- | --- | --- | --- |
+| Thesis and argumentation | The thesis is unclear or the arguments are irrelevant. | ✓ The thesis is recognisable and the arguments partially support it. | The thesis is precise and the arguments are solid and well-structured. |
+| Use of sources and evidence | No sources cited or citations are incorrect. | Some sources are cited but not integrated into the argument. | ✓ Varied sources are fluently integrated and correctly cited. |
+| Cohesion and coherence | The text has topic shifts and poor paragraph connections. | ✓ The text is generally coherent; some connectives are mechanical. | Thematic progression is smooth and connectives are varied and precise. |
+| Linguistic accuracy | Frequent errors that impede comprehension. | Occasional errors that do not interrupt reading. | ✓ Very few errors; precise vocabulary and appropriate register. |
 Student: Carla V. &nbsp;|&nbsp; Essay: "Should social media access be restricted for minors?" &nbsp;|&nbsp; Date: 18/02
 The highlighted cell shows the assigned level for each criterion. The essay is strong in linguistic accuracy and use of sources; argumentation is the area to strengthen.
 
@@ -3122,34 +2776,13 @@ It increases the consistency of marking across different marking sessions by the
 **Example:**
 
 Marking guide for a History exam in Year 12 (2nd Bachillerato). The teacher prepares it before marking and uses it as a reference to allocate points to each answer.
-|
-| Question
-| Expected elements in the answer
-| Marks
-| 1. Define the concept of the "peaceful turn" and explain how it worked.
-|
-Correct definition: agreed alternation between Liberals and Conservatives (0.5 m.)
-Names Cánovas and Sagasta as leaders of the two parties (0.5 m.)
-Explains the role of caciquismo and encasillado in the alternation mechanism (1 m.)
-| 2
-| 2. Analyse the causes of the 1898 crisis and its consequences for Spain.
-|
-At least two internal causes (colonial problem, army, finances) (1 m.)
-US intervention and its motivations (0.5 m.)
-Consequences: loss of colonies, moral crisis, rise of regenerationism (1 m.)
-Precise historical vocabulary: "Disaster of 98", "regenerationism" (0.5 m.)
-| 3
-| 3. Source commentary: extract from Cánovas's speech (1876).
-|
-Identifies author, date, context and type of source (1 m.)
-Summarises the main argument of the extract (0.5 m.)
-Links the text to the Restoration process (1 m.)
-Critical evaluation of the ideas using historical evidence (0.5 m.)
-| 3
-| Total exam score
-| 8
-| Presentation and written expression
-| 2
+| Question | Expected elements in the answer | Marks |
+| --- | --- | --- |
+| 1. Define the concept of the "peaceful turn" and explain how it worked. | Correct definition: agreed alternation between Liberals and Conservatives (0.5 m.) Names Cánovas and Sagasta as leaders of the two parties (0.5 m.) Explains the role of caciquismo and encasillado in the alternation mechanism (1 m.) | 2 |
+| 2. Analyse the causes of the 1898 crisis and its consequences for Spain. | At least two internal causes (colonial problem, army, finances) (1 m.) US intervention and its motivations (0.5 m.) Consequences: loss of colonies, moral crisis, rise of regenerationism (1 m.) Precise historical vocabulary: "Disaster of 98", "regenerationism" (0.5 m.) | 3 |
+| 3. Source commentary: extract from Cánovas's speech (1876). | Identifies author, date, context and type of source (1 m.) Summarises the main argument of the extract (0.5 m.) Links the text to the Restoration process (1 m.) Critical evaluation of the ideas using historical evidence (0.5 m.) | 3 |
+| Total exam score | 8 |
+| Presentation and written expression | 2 |
 Exam: History — The Restoration &nbsp;|&nbsp; Class: Year 12A &nbsp;|&nbsp; Date: 08/03
 Teacher note: in Q2, also accept mention of the Cuba problem as a valid internal cause. In the commentary, award 0.5 for correct identification even if the analysis is basic.
 A marking guide ensures consistency across markers and makes criteria explicit before marking begins — not after unexpected answers appear.
@@ -3182,35 +2815,14 @@ Especially useful when there are many tests to mark or when several teachers are
 **Example:**
 
 Marking template for a English Language exam in Year 10. The teacher uses it during marking to record the score for each question and note feedback points for the student.
-|
-| Question / Task
-| Max marks
-| Awarded
-| Feedback notes
-| 1. Reading comprehension — literal questions (×3)
-| 1.5
-| 1.5
-| Correct and complete answers.
-| 2. Reading comprehension — inferential question
-| 1.5
-| 0.5
-| Identifies the surface theme but not the implied meaning. Work on reading between the lines.
-| 3. Grammar analysis of two sentences
-| 2
-| 1.5
-| Sentence 1 perfect. Sentence 2: confuses the direct object with the subject complement.
-| 4. Commentary on an argumentative text
-| 3
-| 2
-| Structure well identified. Analysis of rhetorical devices is superficial; conclusion is strong.
-| 5. Writing task: own argumentative text
-| 2
-| 1.5
-| Clear, well-defended thesis. Lacks variety of connectives; three agreement errors.
-| Total
-| 10
-| 7
-|
+| Question / Task | Max marks | Awarded | Feedback notes |
+| --- | --- | --- | --- |
+| 1. Reading comprehension — literal questions (×3) | 1.5 | 1.5 | Correct and complete answers. |
+| 2. Reading comprehension — inferential question | 1.5 | 0.5 | Identifies the surface theme but not the implied meaning. Work on reading between the lines. |
+| 3. Grammar analysis of two sentences | 2 | 1.5 | Sentence 1 perfect. Sentence 2: confuses the direct object with the subject complement. |
+| 4. Commentary on an argumentative text | 3 | 2 | Structure well identified. Analysis of rhetorical devices is superficial; conclusion is strong. |
+| 5. Writing task: own argumentative text | 2 | 1.5 | Clear, well-defended thesis. Lacks variety of connectives; three agreement errors. |
+| Total | 10 | 7 | |
 Student: Ignasi P. &nbsp;|&nbsp; Exam: English Language Term 2 &nbsp;|&nbsp; Marked: 14/04 &nbsp;|&nbsp; Grade: 7/10 (Merit)
 Return with highlighted feedback notes to use as the basis for the exam review tutorial.
 The marking template separates the task of awarding marks from giving feedback, and ensures the teacher records the reasons for each score while they are still fresh.
@@ -3243,42 +2855,14 @@ A well-designed scoring scale reflects the relative importance of each content a
 **Example:**
 
 Marking scheme for a Biology research project in Year 11 (1st Bachillerato). Sets the weight of each section, the maximum score, and the formula for calculating the final grade.
-|
-| Section / Criterion
-| Weight (%)
-| Max marks
-| Awarded
-| Weighted
-| Introduction and hypothesis statement
-| 15
-| 10
-| 8
-| 1.2
-| Methodology and experimental design
-| 20
-| 10
-| 7
-| 1.4
-| Results (tables, graphs, analysis)
-| 25
-| 10
-| 9
-| 2.25
-| Discussion and conclusions
-| 25
-| 10
-| 6
-| 1.5
-| Oral presentation and defence
-| 15
-| 10
-| 8
-| 1.2
-| Total
-| 100
-| —
-| —
-| 7.55 → 7.5
+| Section / Criterion | Weight (%) | Max marks | Awarded | Weighted |
+| --- | --- | --- | --- | --- |
+| Introduction and hypothesis statement | 15 | 10 | 8 | 1.2 |
+| Methodology and experimental design | 20 | 10 | 7 | 1.4 |
+| Results (tables, graphs, analysis) | 25 | 10 | 9 | 2.25 |
+| Discussion and conclusions | 25 | 10 | 6 | 1.5 |
+| Oral presentation and defence | 15 | 10 | 8 | 1.2 |
+| Total | 100 | — | — | 7.55 → 7.5 |
 Student: Berta L. &nbsp;|&nbsp; Project: "Effect of light on Phaseolus vulgaris growth" &nbsp;|&nbsp; Final grade: 7.5/10 (Merit)
 Formula: Weighted score = (awarded / 10) × (weight / 10). Sum of weighted scores = final grade out of 10. Round to nearest 0.5.
 Publishing the marking scheme before the task helps students understand where to focus their effort and reduces grade disputes when work is returned.
@@ -3311,27 +2895,12 @@ Especially useful in stages without numerical grading, for completing descriptiv
 **Example:**
 
 Anecdotal record kept by the Science teacher in Year 9 during a group research project. Each entry captures a significant observation about a specific student.
-|
-| Date
-| Student
-| Observed event
-| Planned follow-up
-| 04/03
-| Rafa M.
-| For the first time takes the initiative to divide up tasks without being asked. Proposes a work plan to the group.
-| Praise privately. Monitor whether the leadership role continues in future sessions.
-| 07/03
-| Laia F.
-| Freezes when presenting results. Does not read her notes and stays silent for nearly a minute. The group supports her with gestures.
-| Discuss in tutorial. Suggest practising the presentation in a small group before the final session.
-| 07/03
-| Andreu P.
-| Connects the experiment results to a documentary he watched at the weekend. Makes a link not in the task brief.
-| Suggest developing that connection as an extension in the final report.
-| 11/03
-| Laia F.
-| In the second presentation session speaks more fluently and maintains eye contact. Marked improvement compared to 07/03.
-| Log progress. Reflect in the assessment of communication competence.
+| Date | Student | Observed event | Planned follow-up |
+| --- | --- | --- | --- |
+| 04/03 | Rafa M. | For the first time takes the initiative to divide up tasks without being asked. Proposes a work plan to the group. | Praise privately. Monitor whether the leadership role continues in future sessions. |
+| 07/03 | Laia F. | Freezes when presenting results. Does not read her notes and stays silent for nearly a minute. The group supports her with gestures. | Discuss in tutorial. Suggest practising the presentation in a small group before the final session. |
+| 07/03 | Andreu P. | Connects the experiment results to a documentary he watched at the weekend. Makes a link not in the task brief. | Suggest developing that connection as an extension in the final report. |
+| 11/03 | Laia F. | In the second presentation session speaks more fluently and maintains eye contact. Marked improvement compared to 07/03. | Log progress. Reflect in the assessment of communication competence. |
 Class: Year 9A &nbsp;|&nbsp; Teacher: Ms García &nbsp;|&nbsp; Activity: Project "Endangered Ecosystems"
 Anecdotal records capture patterns of progress or difficulty that formal assessment instruments often miss.
 
@@ -3363,17 +2932,12 @@ It allows families and the student themselves to receive a rich and nuanced pict
 **Example:**
 
 Descriptive record written by the English teacher after observing an oral research presentation in Year 8. It describes the student's performance qualitatively, organised by criterion.
-|
-| Observed aspect
-| Qualitative description
-| Organisation and structure
-| The presentation follows a clear order: introduces the topic, develops three well-differentiated points, and concludes by summarising the main ideas. The thread of argument is recognisable throughout.
-| Oral expression
-| The student speaks fluently for most of the presentation. Occasionally glances at notes but does not read from them. Volume is appropriate and articulation is clear. When nervous, the pace speeds up slightly.
-| Command of content
-| Shows genuine understanding of the topic rather than simply reproducing written notes. Answers two of the three audience questions confidently; for the third, acknowledges the topic was not researched in enough depth.
-| Interaction with the audience
-| Maintains eye contact with different parts of the room. Opens with a rhetorical question that captures attention. Does not use visual support proactively — slides illustrate but do not reinforce the argument.
+| Observed aspect | Qualitative description |
+| --- | --- |
+| Organisation and structure | The presentation follows a clear order: introduces the topic, develops three well-differentiated points, and concludes by summarising the main ideas. The thread of argument is recognisable throughout. |
+| Oral expression | The student speaks fluently for most of the presentation. Occasionally glances at notes but does not read from them. Volume is appropriate and articulation is clear. When nervous, the pace speeds up slightly. |
+| Command of content | Shows genuine understanding of the topic rather than simply reproducing written notes. Answers two of the three audience questions confidently; for the third, acknowledges the topic was not researched in enough depth. |
+| Interaction with the audience | Maintains eye contact with different parts of the room. Opens with a rhetorical question that captures attention. Does not use visual support proactively — slides illustrate but do not reinforce the argument. |
 Student: Daniel S. &nbsp;|&nbsp; Activity: Presentation "The impact of social media on teenagers" &nbsp;|&nbsp; Date: 21/04
 Overall: strong presentation with a solid content base; using visual support more actively is the area to develop.
 Descriptive records are especially useful for documenting process or justifying a qualitative assessment to the student or their family.
@@ -3406,23 +2970,11 @@ It is not just a record of what happened, but a tool for improving teaching prac
 **Example:**
 
 Teacher's diary for History in Year 11 (1st Bachillerato). Three entries from the same week. The teacher reflects on what happened in class, what students learned, and what to change next session.
-|
-| Date
-| Session
-| What I observed / what the group learned
-| Decision for next session
-| Monday12/05
-| Lecture: causes of World War II
-| The class was engaged for the first 20 minutes, then drifted. I think the pace was too uniform. When I paused and asked "What surprises you about this?", three students gave very insightful answers I hadn't expected.
-| Include at least two 2-minute reflection pauses in the next lecture. Note Carla's and Arnau's questions to pick up in the debate.
-| Wednesday14/05
-| Primary source analysis in pairs
-| Most students identified the author's intention, but almost no one contextualised the document historically. The problem isn't reading comprehension — it's procedural: they don't know how to place a source in its historical context.
-| Create a scaffolded source-analysis guide with prompt questions. Use it next time before students read the document.
-| Friday16/05
-| Debate: was the war inevitable?
-| The debate started slowly but the last 15 minutes were very rich. Quieter students contributed once I assigned an explicit role ("devil's advocate"). The mistake was leaving the first 10 minutes unstructured.
-| Start debates directly with assigned roles and a 3-minute individual warm-up question in writing. Try this in the next unit's debate.
+| Date | Session | What I observed / what the group learned | Decision for next session |
+| --- | --- | --- | --- |
+| Monday12/05 | Lecture: causes of World War II | The class was engaged for the first 20 minutes, then drifted. I think the pace was too uniform. When I paused and asked "What surprises you about this?", three students gave very insightful answers I hadn't expected. | Include at least two 2-minute reflection pauses in the next lecture. Note Carla's and Arnau's questions to pick up in the debate. |
+| Wednesday14/05 | Primary source analysis in pairs | Most students identified the author's intention, but almost no one contextualised the document historically. The problem isn't reading comprehension — it's procedural: they don't know how to place a source in its historical context. | Create a scaffolded source-analysis guide with prompt questions. Use it next time before students read the document. |
+| Friday16/05 | Debate: was the war inevitable? | The debate started slowly but the last 15 minutes were very rich. Quieter students contributed once I assigned an explicit role ("devil's advocate"). The mistake was leaving the first 10 minutes unstructured. | Start debates directly with assigned roles and a 3-minute individual warm-up question in writing. Try this in the next unit's debate. |
 Teacher: Mr Martínez &nbsp;|&nbsp; Class: Year 11A &nbsp;|&nbsp; Unit: World War II &nbsp;|&nbsp; Week: 12–16/05
 The teacher's diary is a professional development tool: writing down a reflection forces you to specify what to change, not just feel that something "didn't work".
 
@@ -3454,37 +3006,13 @@ Especially useful for personalised monitoring in groups with diverse needs, for 
 **Example:**
 
 Individual tracking sheet for Social Studies in Year 8, first term. The teacher updates it periodically with data from different sources to get an overview of the student's progress.
-|
-| Indicator
-| Oct.
-| Nov.
-| Dec.
-| Notes
-| Tasks submitted on time
-| 4/5
-| 5/5
-| 5/5
-| Steady improvement since October. In November committed to reviewing her weekly planner.
-| Active participation in class
-| Low
-| Medium
-| Medium
-| Responds when directly asked; rarely volunteers. Try small-group discussion to encourage her.
-| Written test result
-| 6.2
-| 7.0
-| 7.5
-| Upward trend. Text comprehension has improved noticeably.
-| Tutorial attendance
-| —
-| 1 session
-| —
-| Came voluntarily in November to review the test. Showed genuine interest in improving.
-| Current improvement target
-| —
-| Weekly planning
-| Speak up more
-| Agreed in tutorial. Review at the January assessment meeting.
+| Indicator | Oct. | Nov. | Dec. | Notes |
+| --- | --- | --- | --- | --- |
+| Tasks submitted on time | 4/5 | 5/5 | 5/5 | Steady improvement since October. In November committed to reviewing her weekly planner. |
+| Active participation in class | Low | Medium | Medium | Responds when directly asked; rarely volunteers. Try small-group discussion to encourage her. |
+| Written test result | 6.2 | 7.0 | 7.5 | Upward trend. Text comprehension has improved noticeably. |
+| Tutorial attendance | — | 1 session | — | Came voluntarily in November to review the test. Showed genuine interest in improving. |
+| Current improvement target | — | Weekly planning | Speak up more | Agreed in tutorial. Review at the January assessment meeting. |
 Student: Marta G. &nbsp;|&nbsp; Class: Year 8B &nbsp;|&nbsp; Subject: Social Studies &nbsp;|&nbsp; Term: Autumn
 The individual tracking sheet is the basis for the tutorial meeting: it gives a full picture of the student's trajectory at a glance before the conversation.
 
@@ -3516,49 +3044,14 @@ It is a very useful classroom monitoring tool for teachers with multiple groups,
 **Example:**
 
 Group tracking sheet for English in Year 9, second term. Each row is a student; columns record task grades and an overall observation. Allows the teacher to spot class-wide trends at a glance.
-|
-| Student
-| Writing(T1)
-| Listening(T2)
-| Speaking(T3)
-| Average
-| Notes
-| Alicia B.
-| 8.5
-| 7.0
-| 9.0
-| 8.2
-| Very strong orally. Reading comprehension is the area to strengthen.
-| Bruno M.
-| 5.0
-| 6.5
-| 4.5
-| 5.3
-| Difficulties in oral production. Discuss out-of-class support with him.
-| Clara T.
-| 7.5
-| 8.0
-| 7.0
-| 7.5
-| Consistent, even performance across all skills.
-| Diego F.
-| 9.0
-| 9.5
-| 8.5
-| 9.0
-| Advanced across the board. Offer extension tasks.
-| Elena R.
-| 6.0
-| 5.5
-| 6.0
-| 5.8
-| Performing below potential. Lacks independent work at home.
-| Fran P.
-| 7.0
-| —
-| 6.5
-| 6.8*
-| Absent T2 due to illness. Make-up test pending.
+| Student | Writing(T1) | Listening(T2) | Speaking(T3) | Average | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Alicia B. | 8.5 | 7.0 | 9.0 | 8.2 | Very strong orally. Reading comprehension is the area to strengthen. |
+| Bruno M. | 5.0 | 6.5 | 4.5 | 5.3 | Difficulties in oral production. Discuss out-of-class support with him. |
+| Clara T. | 7.5 | 8.0 | 7.0 | 7.5 | Consistent, even performance across all skills. |
+| Diego F. | 9.0 | 9.5 | 8.5 | 9.0 | Advanced across the board. Offer extension tasks. |
+| Elena R. | 6.0 | 5.5 | 6.0 | 5.8 | Performing below potential. Lacks independent work at home. |
+| Fran P. | 7.0 | — | 6.5 | 6.8* | Absent T2 due to illness. Make-up test pending. |
 Class: Year 9A &nbsp;|&nbsp; Subject: English &nbsp;|&nbsp; Term: Spring &nbsp;|&nbsp; Teacher: Mr Williams
 * Provisional average without T2. High spread in the group: both the lower end (Bruno, Elena) and the top end (Diego) need attention.
 The group sheet reveals class-wide patterns (e.g., listening is weak across the group) that are invisible when reviewing students one by one.
@@ -3591,42 +3084,14 @@ It allows objective feedback to be given on participation, identifies who never 
 **Example:**
 
 Participation record kept by the Philosophy teacher during a debate in Year 11 (1st Bachillerato). Notes who speaks, how often, and the type and quality of each contribution.
-|
-| Student
-| Contrib.
-| Predominant type
-| Quality1–4
-| Notes
-| Alba R.
-| 7
-| Reasoned argument
-| 4
-| Brings in external evidence; links to the previous topic.
-| Bernat M.
-| 2
-| Opinion without argument
-| 2
-| Only speaks when directly asked.
-| Celia F.
-| 5
-| Critical question
-| 4
-| Her questions redirect the debate. Listens actively before speaking.
-| Dani G.
-| 4
-| Counter-argument
-| 3
-| Challenges with substance, though sometimes interrupts before others finish.
-| Elena P.
-| 0
-| —
-| —
-| Does not speak. Takes notes. Follow up in tutorial.
-| Fran T.
-| 3
-| Summary / synthesis
-| 3
-| Recaps key points well. Useful to the group at the end of each round.
+| Student | Contrib. | Predominant type | Quality1–4 | Notes |
+| --- | --- | --- | --- | --- |
+| Alba R. | 7 | Reasoned argument | 4 | Brings in external evidence; links to the previous topic. |
+| Bernat M. | 2 | Opinion without argument | 2 | Only speaks when directly asked. |
+| Celia F. | 5 | Critical question | 4 | Her questions redirect the debate. Listens actively before speaking. |
+| Dani G. | 4 | Counter-argument | 3 | Challenges with substance, though sometimes interrupts before others finish. |
+| Elena P. | 0 | — | — | Does not speak. Takes notes. Follow up in tutorial. |
+| Fran T. | 3 | Summary / synthesis | 3 | Recaps key points well. Useful to the group at the end of each round. |
 Debate: "Is it ethical to delegate moral decisions to artificial intelligence?" &nbsp;|&nbsp; Class: Year 11B &nbsp;|&nbsp; Date: 15/05
 Quality: 1 irrelevant contribution · 2 unsupported opinion · 3 solid argument · 4 evidence-based argument or question that advances the debate.
 Participation records help identify students who never speak and those who dominate, so group dynamics can be adjusted in the next session.
@@ -3659,32 +3124,12 @@ Especially useful in extended group projects and activities, where the team's fu
 **Example:**
 
 Cooperative work record kept by the Science teacher during a project session in Year 9. Documents the internal workings of one group throughout the lesson.
-|
-| Member
-| Assigned role
-| Task completed
-| Communication
-| Incidents / observations
-| Mireia T.
-| Coordinator
-| ✓
-| Proactive, listens well
-| Manages the group's time. Alerts the team when they stray off task.
-| Omar B.
-| Researcher
-| ✓
-| Shares data, little dialogue
-| Brings plenty of information but does not share it proactively — needs to be asked.
-| Júlia K.
-| Secretary
-| ✓
-| Listens, few proposals
-| Records group decisions accurately. Does not put forward her own ideas.
-| Kevin L.
-| Spokesperson
-| ✗
-| Dominates conversation
-| Has not prepared the assigned presentation. Interrupts Mireia twice. Follow up with him.
+| Member | Assigned role | Task completed | Communication | Incidents / observations |
+| --- | --- | --- | --- | --- |
+| Mireia T. | Coordinator | ✓ | Proactive, listens well | Manages the group's time. Alerts the team when they stray off task. |
+| Omar B. | Researcher | ✓ | Shares data, little dialogue | Brings plenty of information but does not share it proactively — needs to be asked. |
+| Júlia K. | Secretary | ✓ | Listens, few proposals | Records group decisions accurately. Does not put forward her own ideas. |
+| Kevin L. | Spokesperson | ✗ | Dominates conversation | Has not prepared the assigned presentation. Interrupts Mireia twice. Follow up with him. |
 Group: Team 2 &nbsp;|&nbsp; Project: "Endangered Ecosystems" &nbsp;|&nbsp; Session: 3/5 &nbsp;|&nbsp; Date: 09/04
 The group works well overall; the critical point is Kevin: his spokesperson role requires advance preparation that he has not yet taken on.
 Pairing this record with a group self-assessment reveals whether members perceive the same issues as the teacher.
@@ -3717,31 +3162,13 @@ They are the basis of incidental observation and anecdotal records. Over time, a
 **Example:**
 
 Field notes taken by the Mathematics teacher during a problem-solving session in Year 8. Quick, immediate jottings made during the lesson; they can be developed into more formal records afterwards if needed.
-|
-| Time
-| Student / group
-| Observation
-| Action taken
-| 9:08
-| Group 1
-| Misread the task: confuse "at least" with "exactly". Their calculation is correct but they answer the wrong question.
-| Point out the error without giving the answer. Ask them to re-read the task and underline key words.
-| 9:15
-| Nadia R.
-| Solves problem 3 using a different method from the one taught (ratios instead of equations). Answer is correct.
-| Ask her to explain her method to the class during the debrief. Note for flexible-thinking assessment.
-| 9:22
-| Iván M.
-| 14 minutes in, nothing written. When asked, says "I don't know where to start." Not attitude — genuine block.
-| Sit with him for 3 minutes, give a first step. Review whether individual support is needed.
-| 9:31
-| Group 3
-| Finish all problems before the others. Start drifting and chatting off-topic.
-| Give them the extension problem at the end of the worksheet. Revisit this group's pace for future sessions.
-| 9:40
-| Whole class
-| During the debrief, only 3 students raise their hand voluntarily. The rest wait to be called on.
-| Try mini whiteboards next week so everyone responds at the same time.
+| Time | Student / group | Observation | Action taken |
+| --- | --- | --- | --- |
+| 9:08 | Group 1 | Misread the task: confuse "at least" with "exactly". Their calculation is correct but they answer the wrong question. | Point out the error without giving the answer. Ask them to re-read the task and underline key words. |
+| 9:15 | Nadia R. | Solves problem 3 using a different method from the one taught (ratios instead of equations). Answer is correct. | Ask her to explain her method to the class during the debrief. Note for flexible-thinking assessment. |
+| 9:22 | Iván M. | 14 minutes in, nothing written. When asked, says "I don't know where to start." Not attitude — genuine block. | Sit with him for 3 minutes, give a first step. Review whether individual support is needed. |
+| 9:31 | Group 3 | Finish all problems before the others. Start drifting and chatting off-topic. | Give them the extension problem at the end of the worksheet. Revisit this group's pace for future sessions. |
+| 9:40 | Whole class | During the debrief, only 3 students raise their hand voluntarily. The rest wait to be called on. | Try mini whiteboards next week so everyone responds at the same time. |
 Class: Year 8B &nbsp;|&nbsp; Session: Problem solving — linear equations &nbsp;|&nbsp; Date: 28/01
 Field notes are raw material: taken in the moment, unpolished. Their value lies in immediacy; formal write-up comes later.
 
@@ -3773,35 +3200,14 @@ More flexible than a fixed rubric and more informative than a grade alone. Suita
 **Example:**
 
 Assessment sheet from the Science teacher on a lab report in Year 7. Combines a score per criterion with a qualitative comment; returned to the student as a feedback document.
-|
-| Criterion
-| Level1–4
-| Marks(max. 2)
-| Comment
-| Description of the procedure
-| 3 — Achieved
-| 1.5
-| Steps are well ordered. Units of measurement are missing in two of them.
-| Data collection and presentation
-| 4 — Excellent
-| 2
-| Well-organised table with clear headers and correct units. Graph is properly labelled.
-| Analysis and interpretation
-| 2 — Developing
-| 1
-| You describe the results but don't link them to the original hypothesis. Try to answer: "Was the hypothesis confirmed? Why?"
-| Conclusion
-| 2 — Developing
-| 1
-| The conclusion repeats the description of the experiment. It should answer the original lab question, not summarise what you did.
-| Presentation and spelling
-| 3 — Achieved
-| 1.5
-| Neat and tidy. Three minor spelling errors underlined in the text.
-| Total
-| —
-| 7
-| Analysis and conclusion are the areas to focus on in the next report.
+| Criterion | Level1–4 | Marks(max. 2) | Comment |
+| --- | --- | --- | --- |
+| Description of the procedure | 3 — Achieved | 1.5 | Steps are well ordered. Units of measurement are missing in two of them. |
+| Data collection and presentation | 4 — Excellent | 2 | Well-organised table with clear headers and correct units. Graph is properly labelled. |
+| Analysis and interpretation | 2 — Developing | 1 | You describe the results but don't link them to the original hypothesis. Try to answer: "Was the hypothesis confirmed? Why?" |
+| Conclusion | 2 — Developing | 1 | The conclusion repeats the description of the experiment. It should answer the original lab question, not summarise what you did. |
+| Presentation and spelling | 3 — Achieved | 1.5 | Neat and tidy. Three minor spelling errors underlined in the text. |
+| Total | — | 7 | Analysis and conclusion are the areas to focus on in the next report. |
 Student: Nico R. &nbsp;|&nbsp; Practical: Study of seed germination &nbsp;|&nbsp; Grade: 7/10 (Merit) &nbsp;|&nbsp; Date: 12/11
 An assessment sheet is more informative than a grade alone: the student sees which criteria they excelled at and which need work, with concrete guidance for the next report.
 
@@ -3833,15 +3239,11 @@ Feedback is most effective when it is specific, timely and improvement-oriented.
 **Example:**
 
 Feedback sheet written by the English teacher after marking an argumentative essay in Year 9. Given to the student with their work to guide the revision.
-|
-| Section
-| Teacher's comment
-| ✓ What you did well
-| Your thesis is clear from the first paragraph and you defend it with three well-differentiated arguments. Your use of contrast connectives ("however", "despite this") gives the essay solidity. The conclusion draws together the main ideas without simply repeating them.
-| △ What you can improve
-| The evidence you use is very general ("it is known that…", "people think…"). You don't cite any specific source, which weakens the arguments. Also, the second body paragraph introduces a new idea that was not signposted in the introduction.
-| → How to do it
-| For the second draft: (1) choose at least one real statistic or study that supports your strongest argument and cite it; (2) add a sentence to the introduction that signals the point made in the second paragraph. Those two changes will bring the essay together.
+| Section | Teacher's comment |
+| --- | --- |
+| ✓ What you did well | Your thesis is clear from the first paragraph and you defend it with three well-differentiated arguments. Your use of contrast connectives ("however", "despite this") gives the essay solidity. The conclusion draws together the main ideas without simply repeating them. |
+| △ What you can improve | The evidence you use is very general ("it is known that…", "people think…"). You don't cite any specific source, which weakens the arguments. Also, the second body paragraph introduces a new idea that was not signposted in the introduction. |
+| → How to do it | For the second draft: (1) choose at least one real statistic or study that supports your strongest argument and cite it; (2) add a sentence to the introduction that signals the point made in the second paragraph. Those two changes will bring the essay together. |
 Student: Sergi B. &nbsp;|&nbsp; Work: Essay "Should coding be a compulsory subject?" &nbsp;|&nbsp; Date: 03/03
 Provisional grade: 6.5/10. With the suggested improvements, this could reach an 8.
 A feedback sheet is more useful than a grade alone: the student knows exactly what to change and has a concrete target for the second submission.
@@ -3874,34 +3276,13 @@ It is a generic term that encompasses analytic rubrics. The main difference from
 **Example:**
 
 Assessment matrix for evaluating a Geography project in Year 9. Each cell combines a brief level description with its score; the teacher marks the cell matching the observed level for each criterion.
-|
-| Criterion
-| Excellent4 pts
-| Competent3 pts
-| Developing2 pts
-| Beginning1 pt
-| Information and sources
-| Accurate, varied data, correctly cited.
-| ✓ Correct data; some sources uncited.
-| Basic information; few sources.
-| Scarce or incorrect information.
-| Geographical analysis
-| Links physical, human, and economic factors in depth.
-| Links factors but without depth.
-| ✓ Describes without linking causes and consequences.
-| No analysis; isolated data only.
-| Maps and visual resources
-| Original maps and graphs, well labelled and relevant.
-| ✓ Adequate resources; one unlabelled or less relevant.
-| Uses external resources without adapting them.
-| No maps or graphs, or irrelevant ones.
-| Written presentation
-| Clear structure, fluent writing, no errors.
-| ✓ Well structured; minor errors that don't hinder reading.
-| Partial structure; frequent errors.
-| No structure; text hard to follow.
-| Total score
-| 3 + 2 + 3 + 3 = 11 / 16 → 6.9
+| Criterion | Excellent4 pts | Competent3 pts | Developing2 pts | Beginning1 pt |
+| --- | --- | --- | --- | --- |
+| Information and sources | Accurate, varied data, correctly cited. | ✓ Correct data; some sources uncited. | Basic information; few sources. | Scarce or incorrect information. |
+| Geographical analysis | Links physical, human, and economic factors in depth. | Links factors but without depth. | ✓ Describes without linking causes and consequences. | No analysis; isolated data only. |
+| Maps and visual resources | Original maps and graphs, well labelled and relevant. | ✓ Adequate resources; one unlabelled or less relevant. | Uses external resources without adapting them. | No maps or graphs, or irrelevant ones. |
+| Written presentation | Clear structure, fluent writing, no errors. | ✓ Well structured; minor errors that don't hinder reading. | Partial structure; frequent errors. | No structure; text hard to follow. |
+| Total score | 3 + 2 + 3 + 3 = 11 / 16 → 6.9 |
 Student: Víctor S. &nbsp;|&nbsp; Project: The Mediterranean basin: water resources &nbsp;|&nbsp; Date: 03/06
 An assessment matrix is more efficient than a full rubric when descriptors can be reduced to a single sentence per cell; particularly useful for quick marking or peer assessment.
 
@@ -3933,32 +3314,12 @@ It is an efficiency tool that reduces the time needed to design assessment instr
 **Example:**
 
 Descriptor bank for the oral communication competence. The teacher selects and adapts descriptors from this bank when designing rubrics, assessment sheets, or reports. Highlighted cells are the descriptors chosen for a specific oral presentation rubric in Year 10.
-|
-| Criterion
-| Level 1 — Beginning
-| Level 2 — Developing
-| Level 3 — Achieved
-| Level 4 — Excellent
-| Content and structure
-| No recognisable structure; incomplete or incorrect information.
-| ✓ Selected: Basic ideas present but disorganised; structure unclear.
-| Correct ideas with a recognisable if improvable structure.
-| Clear, well-developed ideas; flawless structure with introduction, body, and conclusion.
-| Oral expression
-| Insufficient volume or very poor articulation; hard to understand.
-| Functional delivery with excessive pauses or low voice at times.
-| ✓ Selected: Clear articulation and appropriate volume; occasional hesitation that does not disrupt the talk.
-| Excellent articulation, natural pace, and consistent volume throughout.
-| Non-verbal language
-| No eye contact; posture that hinders communication.
-| ✓ Selected: Sparse eye contact; tense or distracting posture.
-| Frequent eye contact; appropriate posture though without gesturing.
-| Constant eye contact; gestures that reinforce the message.
-| Time management
-| Exceeds or falls short of the allotted time by more than 2 min.
-| 1–2 min discrepancy or very uneven distribution across sections.
-| ✓ Selected: Slight discrepancy (±1 min); slightly uneven distribution.
-| Perfect time management; sections well balanced.
+| Criterion | Level 1 — Beginning | Level 2 — Developing | Level 3 — Achieved | Level 4 — Excellent |
+| --- | --- | --- | --- | --- |
+| Content and structure | No recognisable structure; incomplete or incorrect information. | ✓ Selected: Basic ideas present but disorganised; structure unclear. | Correct ideas with a recognisable if improvable structure. | Clear, well-developed ideas; flawless structure with introduction, body, and conclusion. |
+| Oral expression | Insufficient volume or very poor articulation; hard to understand. | Functional delivery with excessive pauses or low voice at times. | ✓ Selected: Clear articulation and appropriate volume; occasional hesitation that does not disrupt the talk. | Excellent articulation, natural pace, and consistent volume throughout. |
+| Non-verbal language | No eye contact; posture that hinders communication. | ✓ Selected: Sparse eye contact; tense or distracting posture. | Frequent eye contact; appropriate posture though without gesturing. | Constant eye contact; gestures that reinforce the message. |
+| Time management | Exceeds or falls short of the allotted time by more than 2 min. | 1–2 min discrepancy or very uneven distribution across sections. | ✓ Selected: Slight discrepancy (±1 min); slightly uneven distribution. | Perfect time management; sections well balanced. |
 Bank: Oral communication — levels 1–4 &nbsp;|&nbsp; Used in: Oral presentation rubric, Year 10 &nbsp;|&nbsp; Teacher: Ms Puig
 Highlighted descriptors best match the group's current level. Adjacent levels are kept in the bank for rubrics in other year groups.
 A well-built descriptor bank reduces new rubric design time to minutes: selecting and adapting is far faster than writing from scratch.
@@ -4024,12 +3385,12 @@ Participation
 Argumentation
 Collaboration
 Reflection
-|
-| Criterion | Level | Assessment
-| Participation | 3 | Proficient
-| Argumentation | 2 | Developing
-| Collaboration | 4 | Excellent
-| Reflection | 3 | Proficient
+| Criterion | Level | Assessment |
+| --- | --- | --- |
+| Participation | 3 | Proficient |
+| Argumentation | 2 | Developing |
+| Collaboration | 4 | Excellent |
+| Reflection | 3 | Proficient |
 Average level: 3
 Area for improvement: argumentation (level 2).
 Strength: collaboration (level 4).
@@ -4066,31 +3427,13 @@ Suitable for quick formative monitoring, communication to families and self-asse
 **Example:**
 
 Traffic-light self-assessment at the end of a unit on fractions in Year 5. Each student marks their level of understanding for each topic.
-|
-| Topic
-|
-I don't understand
-|
-I partly understand
-|
-I understand well
-| What a fraction is
-| |
-| ✓
-| Equivalent fractions
-|
-| ✓
-|
-| Comparing fractions
-|
-| ✓
-|
-| Adding and subtracting fractions
-| ✓
-| |
-| Word problems with fractions
-| ✓
-| |
+| Topic | I don't understand | I partly understand | I understand well |
+| --- | --- | --- | --- |
+| What a fraction is | | | ✓ |
+| Equivalent fractions | | ✓ | |
+| Comparing fractions | | ✓ | |
+| Adding and subtracting fractions | ✓ | | |
+| Word problems with fractions | ✓ | | |
 The student understands the basic concept but struggles with operations. The teacher groups students showing red and amber on operations for a reinforcement session.
 
 **Active techniques using this:** Inquiry-Based Learning, Experiential Learning, Discovery Learning, Flipped Classroom, The Box, Hinge questions, All-student response
@@ -4121,24 +3464,14 @@ Its value is primarily metacognitive: it requires the student to reflect on thei
 **Example:**
 
 Self-assessment scale for evaluating an oral Biology presentation in Year 11 (1st Bachillerato). The student completes it immediately after their presentation.
-|
-| Indicator (first person)
-| 1Not at all
-| 2A little
-| 3Quite
-| 4Very much
-| I prepared the content with enough depth
-| | | ✓ |
-| I structured the presentation with an introduction, body, and conclusion
-| | | | ✓
-| I spoke clearly without reading from my slides
-| | ✓ | |
-| I maintained eye contact with the audience
-| | ✓ | |
-| I answered questions confidently
-| | | ✓ |
-| My visual support complemented my speech
-| | | | ✓
+| Indicator (first person) | 1Not at all | 2A little | 3Quite | 4Very much |
+| --- | --- | --- | --- | --- |
+| I prepared the content with enough depth | | | ✓ | |
+| I structured the presentation with an introduction, body, and conclusion | | | | ✓ |
+| I spoke clearly without reading from my slides | | ✓ | | |
+| I maintained eye contact with the audience | | ✓ | | |
+| I answered questions confidently | | | ✓ | |
+| My visual support complemented my speech | | | | ✓ |
 Student: Marc D. &nbsp;|&nbsp; Topic: Mendelian Genetics: Experiments and Applications &nbsp;|&nbsp; Date: 10/03
 Personal reflection: "I need to practise speaking without looking at my slides and keep more eye contact with the audience. I was well prepared on the content."
 
@@ -4170,32 +3503,12 @@ Especially useful in learning portfolios, projects and complex tasks where the s
 **Example:**
 
 Self-assessment rubric completed by the student about their own short story in English in Year 9. Descriptors are written in the first person; the student selects the level and briefly justifies their choice.
-|
-| Criterion
-| Excellent (4)
-| Competent (3)
-| Developing (2)
-| Beginning (1)
-| Narrative structure
-| My story has a very clear beginning, middle, and end that the reader can follow without effort.
-| ✓ My story has all three parts, though one transition could be more clearly marked.
-| My story has all three parts, but one of them is very short or underdeveloped.
-| My story does not have a recognisable narrative structure.
-| Characters and setting
-| I describe characters and setting vividly; the reader can picture them easily.
-| I describe characters and setting, though some details could be improved.
-| ✓ I mention characters and setting, but my descriptions are brief or repetitive.
-| There is almost no description of characters or setting.
-| Language and vocabulary
-| I use varied, precise vocabulary; I avoid repetition and use literary devices naturally.
-| ✓ My vocabulary is adequate, though I sometimes repeat words or use very general terms.
-| My vocabulary is limited and frequent repetitions make the text harder to read.
-| Vocabulary is very basic and expression is imprecise throughout most of the text.
-| Proofreading
-| I reviewed the text at least twice; there are no spelling or punctuation errors.
-| I reviewed the text; there is the occasional minor error that does not affect comprehension.
-| I reviewed the text once; errors suggest a superficial check.
-| ✓ I did not review thoroughly; there are frequent spelling or punctuation errors.
+| Criterion | Excellent (4) | Competent (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Narrative structure | My story has a very clear beginning, middle, and end that the reader can follow without effort. | ✓ My story has all three parts, though one transition could be more clearly marked. | My story has all three parts, but one of them is very short or underdeveloped. | My story does not have a recognisable narrative structure. |
+| Characters and setting | I describe characters and setting vividly; the reader can picture them easily. | I describe characters and setting, though some details could be improved. | ✓ I mention characters and setting, but my descriptions are brief or repetitive. | There is almost no description of characters or setting. |
+| Language and vocabulary | I use varied, precise vocabulary; I avoid repetition and use literary devices naturally. | ✓ My vocabulary is adequate, though I sometimes repeat words or use very general terms. | My vocabulary is limited and frequent repetitions make the text harder to read. | Vocabulary is very basic and expression is imprecise throughout most of the text. |
+| Proofreading | I reviewed the text at least twice; there are no spelling or punctuation errors. | I reviewed the text; there is the occasional minor error that does not affect comprehension. | I reviewed the text once; errors suggest a superficial check. | ✓ I did not review thoroughly; there are frequent spelling or punctuation errors. |
 Student: Carla V. &nbsp;|&nbsp; Story: "The Last Train" &nbsp;|&nbsp; Date: 10/04
 Student's justification: "I chose Developing for characters because I only describe what the main character looks like, not how they think. I put Beginning for proofreading because I know I didn't re-read it before handing it in."
 Asking students to justify each level they select is as important as the selection itself: the written reflection turns self-assessment into genuine learning.
@@ -4228,32 +3541,12 @@ For it to be effective, students must have practised applying the criteria befor
 **Example:**
 
 Peer assessment rubric applied by a Biology student to a classmate's research project in Year 11. Descriptors are in the second person; the assessor marks the observed level and adds a comment.
-|
-| Criterion
-| Excellent (4)
-| Competent (3)
-| Developing (2)
-| Beginning (1)
-| Hypothesis and framing
-| Your research question is clear, focused, and scientifically relevant. Your hypothesis is testable and well justified.
-| ✓ Your question is recognisable and the hypothesis is correct, though it could be better justified.
-| Your question is too broad or the hypothesis is difficult to test experimentally.
-| There is no clear question or hypothesis.
-| Methodology
-| Your experimental design is rigorous: you control variables, describe the procedure in detail, and it is replicable.
-| Your design is correct but some steps in the procedure are described ambiguously.
-| ✓ Your design has the basic elements, but variables are not clearly controlled or the procedure is hard to replicate.
-| There is no recognisable experimental design.
-| Results and analysis
-| You present data clearly (tables, graphs) and analyse them in relation to your hypothesis.
-| ✓ Your data are well presented, but the analysis does not explore the causes of the results obtained.
-| Data are present but the presentation is confusing or the analysis is descriptive rather than interpretive.
-| Data are incomplete or there is no analysis.
-| Conclusions
-| Your conclusions directly address the hypothesis, acknowledge limitations, and suggest next steps.
-| Your conclusions address the hypothesis but do not acknowledge limitations or suggest improvements.
-| Your conclusions are partial or not connected to the original hypothesis.
-| ✓ Conclusions do not address the hypothesis or simply repeat the description of the experiment without interpreting it.
+| Criterion | Excellent (4) | Competent (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Hypothesis and framing | Your research question is clear, focused, and scientifically relevant. Your hypothesis is testable and well justified. | ✓ Your question is recognisable and the hypothesis is correct, though it could be better justified. | Your question is too broad or the hypothesis is difficult to test experimentally. | There is no clear question or hypothesis. |
+| Methodology | Your experimental design is rigorous: you control variables, describe the procedure in detail, and it is replicable. | Your design is correct but some steps in the procedure are described ambiguously. | ✓ Your design has the basic elements, but variables are not clearly controlled or the procedure is hard to replicate. | There is no recognisable experimental design. |
+| Results and analysis | You present data clearly (tables, graphs) and analyse them in relation to your hypothesis. | ✓ Your data are well presented, but the analysis does not explore the causes of the results obtained. | Data are present but the presentation is confusing or the analysis is descriptive rather than interpretive. | Data are incomplete or there is no analysis. |
+| Conclusions | Your conclusions directly address the hypothesis, acknowledge limitations, and suggest next steps. | Your conclusions address the hypothesis but do not acknowledge limitations or suggest improvements. | Your conclusions are partial or not connected to the original hypothesis. | ✓ Conclusions do not address the hypothesis or simply repeat the description of the experiment without interpreting it. |
 Work assessed: Pol R. &nbsp;|&nbsp; Assessed by: Noa F. &nbsp;|&nbsp; Project: "Effect of pH on enzyme activity" &nbsp;|&nbsp; Date: 22/05
 Assessor's comment: "The experimental design and data are the weakest areas. The graph is well done but the conclusions don't explain why results differ from what was expected. The hypothesis and methodology are well set out."
 A rubric-based peer assessment requires the assessor to justify each score using the descriptors, which reduces subjective grading and improves the quality of peer feedback.
@@ -4286,17 +3579,12 @@ It is a good introduction to peer assessment for groups with no prior experience
 **Example:**
 
 Peer assessment sheet completed by a student to evaluate a classmate's oral presentation in a Year 10 project. The assessor is a peer; language is direct and accessible.
-|
-| Question
-| Assessor's response
-| What did they do well?Name at least two specific things
-| They explained the topic without reading from the slides and were easy to understand. They also answered the questions at the end well, especially when asked about the environmental impact.
-| What could they improve?Be specific — not just "speak more"
-| At the start they spoke very fast and it was hard to follow. I think adding more pauses between the main points would make it easier to understand. Two of the slides had too much text on them.
-| Rating by criterion1 beginning · 2 developing · 3 achieved · 4 excellent
-| Content: 3 &nbsp;·&nbsp; Structure: 3 &nbsp;·&nbsp; Oral delivery: 2 &nbsp;·&nbsp; Visual support: 2
-| One thing you learned yourselfAssessor's reflection on the process
-| I learned that taking questions from the audience at the end makes a presentation feel more complete. I'm going to try that myself.
+| Question | Assessor's response |
+| --- | --- |
+| What did they do well?Name at least two specific things | They explained the topic without reading from the slides and were easy to understand. They also answered the questions at the end well, especially when asked about the environmental impact. |
+| What could they improve?Be specific — not just "speak more" | At the start they spoke very fast and it was hard to follow. I think adding more pauses between the main points would make it easier to understand. Two of the slides had too much text on them. |
+| Rating by criterion1 beginning · 2 developing · 3 achieved · 4 excellent | Content: 3 &nbsp;·&nbsp; Structure: 3 &nbsp;·&nbsp; Oral delivery: 2 &nbsp;·&nbsp; Visual support: 2 |
+| One thing you learned yourselfAssessor's reflection on the process | I learned that taking questions from the audience at the end makes a presentation feel more complete. I'm going to try that myself. |
 Student assessed: Tomàs V. &nbsp;|&nbsp; Assessed by: Júlia K. &nbsp;|&nbsp; Project: Renewable Energy in Spain &nbsp;|&nbsp; Date: 28/05
 The final question ("one thing you learned yourself") turns peer assessment into a double learning experience: the assessed student receives feedback, and the assessor reflects on their own process.
 
@@ -4328,35 +3616,16 @@ Especially useful for tasks with clear, closed requirements (format of a report,
 **Example:**
 
 Self-assessment checklist completed by the student before submitting an argumentative essay in English in Year 8. Helps the student spot omissions and decide whether the work is ready to hand in.
-|
-| Indicator (first person)
-| Yes
-| No
-| My own note
-| I have written my thesis clearly in the first paragraph
-| ✓ |
-| The first sentence states it clearly.
-| I have developed at least three distinct arguments
-| ✓ |
-| I have four arguments, though the third is the weakest.
-| I have included concrete evidence or examples for each argument
-| | ✗
-| Arguments 2 and 4 have no example. I need to add them.
-| I have acknowledged and countered at least one counterargument
-| ✓ |
-| It's in the third paragraph; I think I counter it well.
-| My conclusion restates the thesis without copying it word for word
-| | ✗
-| The conclusion is almost the same as the introduction. I need to rewrite it.
-| I have used varied connectives (not just "but" and "also")
-| ✓ |
-| Used "however", "therefore", and "despite this".
-| I have checked spelling and punctuation at least once
-| ✓ |
-| Yes, but only once. Could read it through again.
-| The length is within the required range (250–350 words)
-| ✓ |
-| 310 words according to the word processor.
+| Indicator (first person) | Yes | No | My own note |
+| --- | --- | --- | --- |
+| I have written my thesis clearly in the first paragraph | ✓ | | The first sentence states it clearly. |
+| I have developed at least three distinct arguments | ✓ | | I have four arguments, though the third is the weakest. |
+| I have included concrete evidence or examples for each argument | | ✗ | Arguments 2 and 4 have no example. I need to add them. |
+| I have acknowledged and countered at least one counterargument | ✓ | | It's in the third paragraph; I think I counter it well. |
+| My conclusion restates the thesis without copying it word for word | | ✗ | The conclusion is almost the same as the introduction. I need to rewrite it. |
+| I have used varied connectives (not just "but" and "also") | ✓ | | Used "however", "therefore", and "despite this". |
+| I have checked spelling and punctuation at least once | ✓ | | Yes, but only once. Could read it through again. |
+| The length is within the required range (250–350 words) | ✓ | | 310 words according to the word processor. |
 Student: Marc D. &nbsp;|&nbsp; Task: Argumentative essay "Should sport be compulsory at secondary school?" &nbsp;|&nbsp; Date: 06/03
 Student's decision: "Before handing in I need to add examples to argument 2 and rewrite the conclusion. Once that's done, it'll be ready."
 The "my own note" column is key: it forces the student to be specific about what is missing, not just tick yes or no.
@@ -4389,27 +3658,12 @@ It closes the formative assessment cycle: gathering evidence → feedback → im
 **Example:**
 
 Improvement commitment record completed by a Year 8 student after receiving teacher feedback on their essay. Turns formative assessment into a concrete action plan.
-|
-| Area to improve
-| Specific commitment
-| Deadline
-| Done?
-| Conclusion
-| Rewrite the conclusion so it directly answers the opening question without repeating the introduction. Add a sentence that opens to further questions.
-| Before final submission (Friday 14th)
-| ✓ Done
-| Evidence for argument 2
-| Find at least one specific statistic or study to support the second argument and cite it correctly with author and year.
-| Before final submission (Friday 14th)
-| ✓ Done
-| Proofreading
-| Read the whole text aloud to catch errors that are missed when reading silently. Then run the word processor spell-checker.
-| Before submitting
-| ✓ Done
-| Varied connectives
-| Replace at least three instances of "but" with other contrast connectives (however, despite, although).
-| Before submitting
-| In progress
+| Area to improve | Specific commitment | Deadline | Done? |
+| --- | --- | --- | --- |
+| Conclusion | Rewrite the conclusion so it directly answers the opening question without repeating the introduction. Add a sentence that opens to further questions. | Before final submission (Friday 14th) | ✓ Done |
+| Evidence for argument 2 | Find at least one specific statistic or study to support the second argument and cite it correctly with author and year. | Before final submission (Friday 14th) | ✓ Done |
+| Proofreading | Read the whole text aloud to catch errors that are missed when reading silently. Then run the word processor spell-checker. | Before submitting | ✓ Done |
+| Varied connectives | Replace at least three instances of "but" with other contrast connectives (however, despite, although). | Before submitting | In progress |
 Student: Marc D. &nbsp;|&nbsp; Task: Argumentative essay — 2nd submission &nbsp;|&nbsp; Record date: 10/03 &nbsp;|&nbsp; Reviewed: 14/03
 The commitment record is the piece that closes the formative cycle: without it, students receive feedback but don't necessarily act on it. The teacher checks at the next submission whether each commitment was met.
 
@@ -4441,49 +3695,14 @@ Beyond being an administrative record, it can be used to detect trends (students
 **Example:**
 
 Extract from the Social Studies gradebook in Year 9, second term. The teacher records each task grade and calculates a running average to monitor the group's progress.
-|
-| Student
-| T1Essay
-| T2Test
-| T3Presentation
-| T4Project
-| AverageT2
-| Alicia B.
-| 7.5
-| 8.0
-| 8.5
-| 7.0
-| 7.8
-| Bruno M.
-| 5.0
-| 4.5
-| 6.0
-| 5.5
-| 5.3
-| Clara T.
-| 8.0
-| 7.5
-| 7.0
-| 8.0
-| 7.6
-| Diego F.
-| 9.5
-| 9.0
-| 9.5
-| 9.0
-| 9.3
-| Elena R.
-| 6.0
-| —
-| 6.5
-| 7.0
-| 6.5*
-| Fran P.
-| 7.0
-| 6.5
-| 7.5
-| 6.0
-| 6.8
+| Student | T1Essay | T2Test | T3Presentation | T4Project | AverageT2 |
+| --- | --- | --- | --- | --- | --- |
+| Alicia B. | 7.5 | 8.0 | 8.5 | 7.0 | 7.8 |
+| Bruno M. | 5.0 | 4.5 | 6.0 | 5.5 | 5.3 |
+| Clara T. | 8.0 | 7.5 | 7.0 | 8.0 | 7.6 |
+| Diego F. | 9.5 | 9.0 | 9.5 | 9.0 | 9.3 |
+| Elena R. | 6.0 | — | 6.5 | 7.0 | 6.5* |
+| Fran P. | 7.0 | 6.5 | 7.5 | 6.0 | 6.8 |
 Class: Year 9B &nbsp;|&nbsp; Subject: Social Studies &nbsp;|&nbsp; Term: Spring
 * Provisional average without T2 (Elena, absent due to illness). Make-up test pending. Averages are unweighted; the final grade applies the weighting scheme.
 The gradebook is the starting point for calculating the term grade; combined with the weighting matrix it produces the final mark according to the defined criteria.
@@ -4516,42 +3735,13 @@ It allows students and families to know exactly which criteria the student is pe
 **Example:**
 
 Criterion-based grade table for English Language and Literature in Year 10 (LOMLOE format). The final grade is the weighted sum of the grade obtained for each evaluation criterion.
-|
-| Evaluation criterion
-| Specific competence
-| Weight (%)
-| Level1–4
-| Grade/10
-| Contribution
-| Production of argumentative written texts with appropriateness, coherence and cohesion
-| SC 3 — Written production
-| 30
-| 3
-| 7.0
-| 2.1
-| Comprehension of oral texts and analysis of discursive and non-verbal resources
-| SC 1 — Oral comprehension
-| 20
-| 4
-| 9.0
-| 1.8
-| Reading and interpretation of 20th-century literary texts with critical evaluation
-| SC 5 — Literary education
-| 25
-| 3
-| 7.5
-| 1.88
-| Reflection on the linguistic system applied to revising one's own texts
-| SC 4 — Linguistic reflection
-| 25
-| 2
-| 5.5
-| 1.38
-| Final term grade
-| 100
-| —
-| —
-| 7.16 → 7
+| Evaluation criterion | Specific competence | Weight (%) | Level1–4 | Grade/10 | Contribution |
+| --- | --- | --- | --- | --- | --- |
+| Production of argumentative written texts with appropriateness, coherence and cohesion | SC 3 — Written production | 30 | 3 | 7.0 | 2.1 |
+| Comprehension of oral texts and analysis of discursive and non-verbal resources | SC 1 — Oral comprehension | 20 | 4 | 9.0 | 1.8 |
+| Reading and interpretation of 20th-century literary texts with critical evaluation | SC 5 — Literary education | 25 | 3 | 7.5 | 1.88 |
+| Reflection on the linguistic system applied to revising one's own texts | SC 4 — Linguistic reflection | 25 | 2 | 5.5 | 1.38 |
+| Final term grade | 100 | — | — | 7.16 → 7 |
 Student: Marta G. &nbsp;|&nbsp; Subject: English Language and Literature &nbsp;|&nbsp; Term: Spring &nbsp;|&nbsp; Final grade: 7 (Good)
 Level 2 = Pass (5–5.9) · Level 3 = Good/Merit (6–8.9) · Level 4 = Distinction (9–10).
 The criterion table shows exactly which competences the student is above or below average in, giving far more precise guidance for support or extension than a single grade.
@@ -4584,35 +3774,14 @@ A good weighting matrix reflects pedagogical priorities: if the process is as im
 **Example:**
 
 Weighting matrix for the Physics and Chemistry assessment system in Year 12, first term. Defines the weight of each assessable element and how the final grade is calculated; shared with students at the start of the course.
-|
-| Assessable element
-| Weight (%)
-| Grade obtained(out of 10)
-| Contributionto final grade
-| Written test (mid-term exam)
-| 40
-| 7.5
-| 3.0
-| Lab practicals (reports × 3)
-| 25
-| 8.0
-| 2.0
-| Problem solving (weekly submission)
-| 20
-| 6.5
-| 1.3
-| Participation and attitude in class
-| 10
-| 9.0
-| 0.9
-| Short research task
-| 5
-| 8.5
-| 0.43
-| Final term grade
-| 100
-| —
-| 7.63 → 7.5
+| Assessable element | Weight (%) | Grade obtained(out of 10) | Contributionto final grade |
+| --- | --- | --- | --- |
+| Written test (mid-term exam) | 40 | 7.5 | 3.0 |
+| Lab practicals (reports × 3) | 25 | 8.0 | 2.0 |
+| Problem solving (weekly submission) | 20 | 6.5 | 1.3 |
+| Participation and attitude in class | 10 | 9.0 | 0.9 |
+| Short research task | 5 | 8.5 | 0.43 |
+| Final term grade | 100 | — | 7.63 → 7.5 |
 Student: Sara L. &nbsp;|&nbsp; Class: Year 12A &nbsp;|&nbsp; Term: Autumn
 Formula: Contribution = (grade obtained × weight) / 100. Final grade = sum of contributions. Rounded to nearest 0.5.
 Sharing the weighting matrix at the start of the course lets students understand the real impact of each element: here, improving by 0.1 on the exam has more effect than improving by 0.3 in participation.
@@ -4645,28 +3814,14 @@ Its advantage is ease of communication and calculation. Its limitation is that i
 **Example:**
 
 Numerical scale for grading a historical research project in Year 11 (1st Bachillerato). Each criterion has a maximum score; the teacher records the score obtained.
-|
-| Criterion
-| Max.
-| Score
-| Clear statement of the problem or hypothesis
-| 1.5
-| 1.5
-| Use and citation of primary and secondary sources
-| 2
-| 2
-| Critical analysis and historical contextualisation
-| 3
-| 2
-| Structure and coherence of the written work
-| 2
-| 1.5
-| Oral presentation and response to questions
-| 1.5
-| 1
-| Total
-| 10
-| 8
+| Criterion | Max. | Score |
+| --- | --- | --- |
+| Clear statement of the problem or hypothesis | 1.5 | 1.5 |
+| Use and citation of primary and secondary sources | 2 | 2 |
+| Critical analysis and historical contextualisation | 3 | 2 |
+| Structure and coherence of the written work | 2 | 1.5 |
+| Oral presentation and response to questions | 1.5 | 1 |
+| Total | 10 | 8 |
 Student: Pol R. &nbsp;|&nbsp; Project: The 1929 Crisis and its Consequences in Europe &nbsp;|&nbsp; Grade: 8/10 (Merit)
 Critical analysis is the area to strengthen; problem statement and use of sources are the strongest aspects of the work.
 
@@ -4698,24 +3853,14 @@ It has the advantage of being more descriptive than a numerical grade and commun
 **Example:**
 
 Verbal scale for assessing participation and cooperative work in a Science project in Year 9 (3rd ESO). The teacher marks the level that best describes the observed behaviour.
-|
-| Observable indicator
-| Beginning
-| Developing
-| Achieved
-| Outstanding
-| Takes on a group role and fulfils its responsibilities
-| | | ✓ |
-| Contributes ideas and original proposals
-| | | | ✓
-| Listens to and respects others' contributions
-| | ✓ | |
-| Manages conflict constructively
-| | ✓ | |
-| Submits assigned tasks by the agreed deadline
-| | | ✓ |
-| Suggests improvements to the group's work
-| | | | ✓
+| Observable indicator | Beginning | Developing | Achieved | Outstanding |
+| --- | --- | --- | --- | --- |
+| Takes on a group role and fulfils its responsibilities | | | ✓ | |
+| Contributes ideas and original proposals | | | | ✓ |
+| Listens to and respects others' contributions | | ✓ | | |
+| Manages conflict constructively | | ✓ | | |
+| Submits assigned tasks by the agreed deadline | | | ✓ | |
+| Suggests improvements to the group's work | | | | ✓ |
 Student: Noa F. &nbsp;|&nbsp; Project: Mediterranean Ecosystems &nbsp;|&nbsp; Date: 22/04
 Initiative and suggestions for improvement stand out; conflict management and active listening are aspects to develop in the next project.
 
@@ -4747,45 +3892,21 @@ It allows qualitative, learning-oriented assessment to be combined with the regu
 **Example:**
 
 Level-to-grade converter for a Biology rubric in Year 9. The equivalence table is set up first; then it is applied criterion by criterion to calculate the weighted final grade.
-|
-| Equivalence table (template)
-| Descriptor level
-| Numerical range
-| Central value used
-| 4 — Excellent | 9.0 – 10 | 9.5
-| 3 — Competent | 7.0 – 8.9 | 8.0
-| 2 — Developing | 5.0 – 6.9 | 6.0
-| 1 — Beginning | 1.0 – 4.9 | 3.0
-|
-| Applied to a student — Lab report
-| Criterion
-| Level assigned
-| Numerical value
-| Weight (%)
-| Contribution
-| Problem framing and hypothesis
-| 3
-| 8.0
-| 20
-| 1.6
-| Data collection and presentation
-| 4
-| 9.5
-| 30
-| 2.85
-| Analysis and interpretation
-| 2
-| 6.0
-| 30
-| 1.8
-| Conclusions
-| 2
-| 6.0
-| 20
-| 1.2
-| Final grade
-| 100
-| 7.45 → 7.5
+| Equivalence table (template) |
+| --- |
+| Descriptor level | Numerical range | Central value used |
+| 4 — Excellent | 9.0 – 10 | 9.5 |
+| 3 — Competent | 7.0 – 8.9 | 8.0 |
+| 2 — Developing | 5.0 – 6.9 | 6.0 |
+| 1 — Beginning | 1.0 – 4.9 | 3.0 |
+| Applied to a student — Lab report |
+| --- |
+| Criterion | Level assigned | Numerical value | Weight (%) | Contribution |
+| Problem framing and hypothesis | 3 | 8.0 | 20 | 1.6 |
+| Data collection and presentation | 4 | 9.5 | 30 | 2.85 |
+| Analysis and interpretation | 2 | 6.0 | 30 | 1.8 |
+| Conclusions | 2 | 6.0 | 20 | 1.2 |
+| Final grade | 100 | 7.45 → 7.5 |
 Student: Nico R. &nbsp;|&nbsp; Practical: Chromatography of plant pigments &nbsp;|&nbsp; Grade: 7.5 (Merit)
 The converter keeps the qualitative rubric (richer for feedback) and translates it into a numerical grade only when regulations require it — without losing precision in the feedback itself.
 
@@ -4817,49 +3938,14 @@ It is the most efficient assessment tool for managing grading in large groups. W
 **Example:**
 
 Extract from an English assessment spreadsheet in Year 8 (Google Sheets). The final grade and group average columns are calculated automatically by formula; the teacher only enters grades in the task columns.
-|
-| Student
-| T1 Writing25%
-| T2 Listening25%
-| T3 Speaking30%
-| T4 Reading20%
-| Final grade=WEIGHTED SUM
-| Alicia B.
-| 8.0
-| 7.5
-| 9.0
-| 7.0
-| 8.1
-| Bruno M.
-| 5.0
-| 6.0
-| 4.5
-| 5.5
-| 5.2
-| Clara T.
-| 7.5
-| 8.0
-| 7.0
-| 8.5
-| 7.6
-| Diego F.
-| 9.0
-| 9.5
-| 8.5
-| 9.0
-| 9.0
-| Elena R.
-| 6.0
-| 5.5
-| 6.5
-| 6.0
-| 6.1
-| Group average
-| 7.1
-| 7.3
-| 7.1
-| 7.2
-| 7.2
+| Student | T1 Writing25% | T2 Listening25% | T3 Speaking30% | T4 Reading20% | Final grade=WEIGHTED SUM |
+| --- | --- | --- | --- | --- | --- |
+| Alicia B. | 8.0 | 7.5 | 9.0 | 7.0 | 8.1 |
+| Bruno M. | 5.0 | 6.0 | 4.5 | 5.5 | 5.2 |
+| Clara T. | 7.5 | 8.0 | 7.0 | 8.5 | 7.6 |
+| Diego F. | 9.0 | 9.5 | 8.5 | 9.0 | 9.0 |
+| Elena R. | 6.0 | 5.5 | 6.5 | 6.0 | 6.1 |
+| Group average | 7.1 | 7.3 | 7.1 | 7.2 | 7.2 |
 Class: Year 8A &nbsp;|&nbsp; Subject: English &nbsp;|&nbsp; Term: Spring
 Final grade formula (Alicia's row): =B2*0.25 + C2*0.25 + D2*0.30 + E2*0.20. The average row uses =AVERAGE(B2:B6) per column.
 The spreadsheet's advantage over a paper gradebook is automation: changing a weight or adding a task instantly recalculates all grades, with no risk of arithmetic errors.
@@ -4892,36 +3978,17 @@ It is the most comprehensive communication document between the school and the f
 **Example:**
 
 Individual assessment report for the first term for a Year 7 student. Combines a quantitative summary by competence with a qualitative assessment and concrete recommendations for the family.
-|
-| Specific competence
-| Level (1–4)
-| Grade
-| Trend
-| Reading comprehension and text analysis
-| 3
-| 7.5
-| Stable. Steady improvement in identifying implied ideas.
-| Written production (narrative and descriptive)
-| 2
-| 5.5
-| Developing. Struggles to maintain cohesion between paragraphs.
-| Oral communication (presentations)
-| 3
-| 7.0
-| Improving. More confidence in recent presentations than at the start of term.
-| Language awareness and grammar
-| 2
-| 5.0
-| Persistent difficulties with grammatical analysis. Needs systematic practice.
-|
-| Section
-| Teacher's comment
-| Strengths
-| Pol shows a very positive attitude towards reading and participates actively in oral discussions. His ability to summarise complex texts in his own words orally is notable for his year group.
-| Priority areas for development
-| Writing is the area with the most room for growth: his texts have interesting ideas but paragraph cohesion is weak. Grammatical analysis requires systematic work.
-| Recommendations for home
-| Reading aloud for 10 minutes daily and writing a weekly diary entry (without grading pressure) will help consolidate written fluency. For grammar, reviewing word classes before each test will reinforce the concepts.
+| Specific competence | Level (1–4) | Grade | Trend |
+| --- | --- | --- | --- |
+| Reading comprehension and text analysis | 3 | 7.5 | Stable. Steady improvement in identifying implied ideas. |
+| Written production (narrative and descriptive) | 2 | 5.5 | Developing. Struggles to maintain cohesion between paragraphs. |
+| Oral communication (presentations) | 3 | 7.0 | Improving. More confidence in recent presentations than at the start of term. |
+| Language awareness and grammar | 2 | 5.0 | Persistent difficulties with grammatical analysis. Needs systematic practice. |
+| Section | Teacher's comment |
+| --- | --- |
+| Strengths | Pol shows a very positive attitude towards reading and participates actively in oral discussions. His ability to summarise complex texts in his own words orally is notable for his year group. |
+| Priority areas for development | Writing is the area with the most room for growth: his texts have interesting ideas but paragraph cohesion is weak. Grammatical analysis requires systematic work. |
+| Recommendations for home | Reading aloud for 10 minutes daily and writing a weekly diary entry (without grading pressure) will help consolidate written fluency. For grammar, reviewing word classes before each test will reinforce the concepts. |
 Student: Pol G. &nbsp;|&nbsp; Class: Year 7B &nbsp;|&nbsp; Subject: English Language and Literature &nbsp;|&nbsp; Term: Autumn &nbsp;|&nbsp; Teacher: Ms García
 The individual report goes beyond a grade sheet: it gives context to the grades and turns the family meeting into an action-oriented conversation.
 
@@ -4953,56 +4020,14 @@ It is the final record of the assessment process. Its correct completion is an a
 **Example:**
 
 End-of-term assessment record for Year 8B. Official document recording each student's grades across all subjects and the decision on progression or additional support. Must be signed by all members of the teaching team.
-|
-| Student
-| English
-| Maths
-| History
-| Science
-| Spanish
-| Decision
-| Alicia B.
-| 8
-| 7
-| 8
-| 9
-| 8
-| Progresses
-| Bruno M.
-| 5
-| 4
-| 5
-| 5
-| 4
-| Support: Maths/Spanish
-| Clara T.
-| 7
-| 8
-| 7
-| 7
-| 8
-| Progresses
-| Diego F.
-| 9
-| 10
-| 9
-| 10
-| 9
-| Progresses
-| Elena R.
-| 6
-| 3
-| 6
-| 5
-| 5
-| Support: Maths
-| Fran P.
-| 7
-| 6
-| 7
-| 6
-| 7
-| Progresses
+| Student | English | Maths | History | Science | Spanish | Decision |
+| --- | --- | --- | --- | --- | --- | --- |
+| Alicia B. | 8 | 7 | 8 | 9 | 8 | Progresses |
+| Bruno M. | 5 | 4 | 5 | 5 | 4 | Support: Maths/Spanish |
+| Clara T. | 7 | 8 | 7 | 7 | 8 | Progresses |
+| Diego F. | 9 | 10 | 9 | 10 | 9 | Progresses |
+| Elena R. | 6 | 3 | 6 | 5 | 5 | Support: Maths |
+| Fran P. | 7 | 6 | 7 | 6 | 7 | Progresses |
 Class: Year 8B &nbsp;|&nbsp; Assessment session: Autumn term &nbsp;|&nbsp; Date: 19/12
 Signatures of teaching team: Ms García (form tutor), Mr Martínez, Ms Puig, Mr López, Ms Williams.
 The assessment record has legal and administrative value: it must be filed per school policy. Support decisions feed directly into each student's individual work plan for the following term.
@@ -5035,25 +4060,13 @@ It saves marking time for closed assessments, facilitates analysis of group resu
 **Example:**
 
 Digital exit ticket implemented with Google Forms at the end of a Biology session in Year 8. The teacher receives responses automatically and adjusts the next lesson based on the results.
-|
-| Form question
-| Type
-| Student's response
-| How well do you understand photosynthesis now?
-| Scale 1–5
-| ⭐⭐⭐ (3) — I sort of understand it
-| Which part of today's session did you find hardest?
-| Multiple choice
-| ✓ The difference between the light-dependent and light-independent stages
-| In your own words, what happens in the chloroplast during photosynthesis? (1–2 sentences)
-| Free text
-| "The chloroplast captures sunlight and uses it to convert water and CO₂ into glucose. Oxygen is released as a by-product."
-| What would help you feel more confident with this topic?
-| Multiple choice
-| ✓ A visual diagram of the two stages &nbsp; ✓ More practice exercises
-| How would you rate your own work in today's session?
-| Scale 1–5
-| ⭐⭐⭐⭐ (4) — I worked well but got lost during the light-independent stage
+| Form question | Type | Student's response |
+| --- | --- | --- |
+| How well do you understand photosynthesis now? | Scale 1–5 | ⭐⭐⭐ (3) — I sort of understand it |
+| Which part of today's session did you find hardest? | Multiple choice | ✓ The difference between the light-dependent and light-independent stages |
+| In your own words, what happens in the chloroplast during photosynthesis? (1–2 sentences) | Free text | "The chloroplast captures sunlight and uses it to convert water and CO₂ into glucose. Oxygen is released as a by-product." |
+| What would help you feel more confident with this topic? | Multiple choice | ✓ A visual diagram of the two stages &nbsp; ✓ More practice exercises |
+| How would you rate your own work in today's session? | Scale 1–5 | ⭐⭐⭐⭐ (4) — I worked well but got lost during the light-independent stage |
 Student: Rafa M. &nbsp;|&nbsp; Form: Exit ticket — Photosynthesis &nbsp;|&nbsp; Platform: Google Forms &nbsp;|&nbsp; Date: 03/02
 Teacher note after reviewing group responses: 68% selected "light-dependent vs. light-independent stages" as the hardest point → start the next lesson with a comparative diagram before moving on.
 The digital form collects the whole class's responses in seconds; the linked spreadsheet lets you filter by question and spot difficulty patterns without reading individual sheets.
@@ -5086,34 +4099,13 @@ It reduces marking time, facilitates consistency across marking sessions and all
 **Example:**
 
 Digital rubric applied in Google Classroom to assess an argumentative essay in Year 9. The teacher marks the levels directly on the platform; the student receives the grade and feedback in their account automatically.
-|
-| Criterion
-| Excellent (4)
-| Competent (3)
-| Developing (2)
-| Beginning (1)
-| Thesis and argument
-| Precise thesis; solid, well-evidenced arguments.
-| ✓ Clear thesis; correct arguments with some weak evidence.
-| Recognisable thesis; arguments lack evidence or are superficial.
-| No clear thesis or recognisable arguments.
-| Structure and cohesion
-| Flawless structure with varied, precise connectives.
-| ✓ Correct structure; some mechanical connectives or improvable transitions.
-| Basic structure; repetitive or missing connectives.
-| No recognisable structure.
-| Linguistic accuracy
-| Error-free; precise and varied vocabulary.
-| Minor errors that do not interrupt reading.
-| ✓ Frequent errors; limited but comprehensible vocabulary.
-| Errors that impede comprehension.
-| Sources and citations
-| Varied sources correctly cited.
-| ✓ Uses sources; one incorrect citation or unverified source.
-| Few sources or none cited.
-| No sources.
-| Total score (platform)
-| 3 + 3 + 2 + 3 = 11 / 16 → 6.9 / 10
+| Criterion | Excellent (4) | Competent (3) | Developing (2) | Beginning (1) |
+| --- | --- | --- | --- | --- |
+| Thesis and argument | Precise thesis; solid, well-evidenced arguments. | ✓ Clear thesis; correct arguments with some weak evidence. | Recognisable thesis; arguments lack evidence or are superficial. | No clear thesis or recognisable arguments. |
+| Structure and cohesion | Flawless structure with varied, precise connectives. | ✓ Correct structure; some mechanical connectives or improvable transitions. | Basic structure; repetitive or missing connectives. | No recognisable structure. |
+| Linguistic accuracy | Error-free; precise and varied vocabulary. | Minor errors that do not interrupt reading. | ✓ Frequent errors; limited but comprehensible vocabulary. | Errors that impede comprehension. |
+| Sources and citations | Varied sources correctly cited. | ✓ Uses sources; one incorrect citation or unverified source. | Few sources or none cited. | No sources. |
+| Total score (platform) | 3 + 3 + 2 + 3 = 11 / 16 → 6.9 / 10 |
 Student: Víctor S. &nbsp;|&nbsp; Task: "Should governments regulate the use of social media?" &nbsp;|&nbsp; Platform: Google Classroom &nbsp;|&nbsp; Date: 18/03
 Teacher's digital comment: "Structure and thesis are good. The area to work on is accuracy: there are five agreement errors. I suggest completing the revision activity before the second submission."
 A digital rubric has the same evaluative validity as a paper one, with the advantage that the student receives instant feedback on their device and the teacher does not need to distribute physical documents.
@@ -5146,31 +4138,13 @@ It is very valuable process evidence in digital group work, as it makes visible 
 **Example:**
 
 Revision history of a collaborative Google Doc used by a Year 10 group to write a research report. The teacher reviews the history to assess each member's actual contribution and check whether work was distributed over time or done at the last minute.
-|
-| Date / time
-| Author
-| Changes made
-| Teacher's assessment
-| 12/04 10:22
-| Mireia T.
-| Creates the document. Adds the contents page and introduction (280 words). Inserts two references in the bibliography.
-| Takes initiative. Solid introduction.
-| 13/04 16:05
-| Omar B.
-| Adds the methodology section (190 words) and a data table from the experiment. Corrects two spelling errors in the introduction.
-| Relevant contribution. Data well presented.
-| 14/04 09:47
-| Júlia K.
-| Adds results and discussion (320 words). Includes an original graph created for the report.
-| Longest section. Graph appropriate.
-| 14/04 22:31
-| Kevin L.
-| Adds conclusions (85 words) the night before the deadline. No previous edits to the document at all.
-| Late, minimal contribution. Discuss with group.
-| 15/04 08:15
-| Mireia T.
-| Final review: unifies formatting, corrects the bibliography, adds the executive summary.
-| Taking on more than her share of the work.
+| Date / time | Author | Changes made | Teacher's assessment |
+| --- | --- | --- | --- |
+| 12/04 10:22 | Mireia T. | Creates the document. Adds the contents page and introduction (280 words). Inserts two references in the bibliography. | Takes initiative. Solid introduction. |
+| 13/04 16:05 | Omar B. | Adds the methodology section (190 words) and a data table from the experiment. Corrects two spelling errors in the introduction. | Relevant contribution. Data well presented. |
+| 14/04 09:47 | Júlia K. | Adds results and discussion (320 words). Includes an original graph created for the report. | Longest section. Graph appropriate. |
+| 14/04 22:31 | Kevin L. | Adds conclusions (85 words) the night before the deadline. No previous edits to the document at all. | Late, minimal contribution. Discuss with group. |
+| 15/04 08:15 | Mireia T. | Final review: unifies formatting, corrects the bibliography, adds the executive summary. | Taking on more than her share of the work. |
 Group: Team 2 (Mireia, Omar, Júlia, Kevin) &nbsp;|&nbsp; Project: Report on the effect of pH on enzymes &nbsp;|&nbsp; Platform: Google Docs &nbsp;|&nbsp; Submitted: 15/04
 Revision history turns cooperative work assessment into an evidence-based process: it shows who wrote what and when, regardless of what each member claims.
 
@@ -5252,43 +4226,13 @@ It is the foundation of the digital portfolio. It enables continuous assessment,
 **Example:**
 
 Digital evidence bank for a Year 11 student stored in Google Drive. Collects the term's work with metadata that allows the teacher to track longitudinal progress.
-|
-| Evidence / file
-| Type
-| Date
-| Criterion assessed
-| Level
-| Teacher note
-| Argumentative essay — draft 1
-| Written text
-| 08/10
-| Written production SC3
-| 2
-| Thesis present but arguments lack evidence.
-| Argumentative essay — final version
-| Written text
-| 22/10
-| Written production SC3
-| 3
-| Notable improvement over draft. Citations incorporated.
-| Oral presentation recording — AI debate
-| Video (3 min)
-| 05/11
-| Oral communication SC1
-| 3
-| Good command of topic. Improve eye contact.
-| Term self-assessment (Google Form)
-| Form
-| 28/11
-| Metacognitive reflection
-| —
-| Honest reflection; identifies the same weak points as the teacher.
-| Written test T1 (scanned)
-| PDF
-| 05/12
-| Linguistic reflection SC4
-| 2
-| Grammar: subordinate clauses need consolidation.
+| Evidence / file | Type | Date | Criterion assessed | Level | Teacher note |
+| --- | --- | --- | --- | --- | --- |
+| Argumentative essay — draft 1 | Written text | 08/10 | Written production SC3 | 2 | Thesis present but arguments lack evidence. |
+| Argumentative essay — final version | Written text | 22/10 | Written production SC3 | 3 | Notable improvement over draft. Citations incorporated. |
+| Oral presentation recording — AI debate | Video (3 min) | 05/11 | Oral communication SC1 | 3 | Good command of topic. Improve eye contact. |
+| Term self-assessment (Google Form) | Form | 28/11 | Metacognitive reflection | — | Honest reflection; identifies the same weak points as the teacher. |
+| Written test T1 (scanned) | PDF | 05/12 | Linguistic reflection SC4 | 2 | Grammar: subordinate clauses need consolidation. |
 Student: Marta G. &nbsp;|&nbsp; Drive folder: Evidence_Yr11_T1_MartaG &nbsp;|&nbsp; Term: Autumn &nbsp;|&nbsp; Access: shared with teacher and student
 The evidence bank shows the student's trajectory, not just their current level: comparing the essay draft with the final version reveals real growth in SC3 that the final grade alone does not capture.
 
@@ -5320,31 +4264,12 @@ It is useful for making criteria-based assessment more transparent.
 **Example:**
 
 Indicators-by-criterion list for assessing research competence in a Year 11 project. Each broad criterion is broken down into observable behaviours and products that the teacher can verify directly.
-|
-| Criterion
-| Observable indicators
-| Problem framing
-|
-States a specific, focused research question (not "What is X?" but "How does X affect Y?").
-Formulates a testable hypothesis based on available data.
-Justifies the relevance of the problem with at least one source.
-| Information search and selection
-|
-Uses at least three sources of different types (article, book, statistical data…).
-Evaluates the reliability of each source (author, date, institution).
-Cites all sources in the agreed format (APA, Harvard…).
-Discards irrelevant or unverified sources.
-| Analysis and interpretation
-|
-Links data to the original hypothesis (confirms, refutes, or nuances it).
-Identifies at least one methodological limitation of the work.
-Distinguishes between established facts and personal interpretations.
-| Communication of findings
-|
-Presents results with a logical structure (context → data → analysis → conclusion).
-Uses tables, graphs, or figures when they add clarity — not as decoration.
-Adapts register to the intended audience (academic, general public…).
-The conclusion directly answers the original research question.
+| Criterion | Observable indicators |
+| --- | --- |
+| Problem framing | States a specific, focused research question (not "What is X?" but "How does X affect Y?"). Formulates a testable hypothesis based on available data. Justifies the relevance of the problem with at least one source. |
+| Information search and selection | Uses at least three sources of different types (article, book, statistical data…). Evaluates the reliability of each source (author, date, institution). Cites all sources in the agreed format (APA, Harvard…). Discards irrelevant or unverified sources. |
+| Analysis and interpretation | Links data to the original hypothesis (confirms, refutes, or nuances it). Identifies at least one methodological limitation of the work. Distinguishes between established facts and personal interpretations. |
+| Communication of findings | Presents results with a logical structure (context → data → analysis → conclusion). Uses tables, graphs, or figures when they add clarity — not as decoration. Adapts register to the intended audience (academic, general public…). The conclusion directly answers the original research question. |
 Context: Research project, Year 11 &nbsp;|&nbsp; Teacher: Mr Fernández &nbsp;|&nbsp; Use: Assessment guide and process rubric
 This list is the step before building the rubric: it ensures criteria are properly operationalised before adding performance levels. If an indicator cannot be directly observed, it needs to be rewritten.
 
@@ -5376,32 +4301,12 @@ Very useful for continuous assessment and self-regulation, because it helps unde
 **Example:**
 
 Progress scale for tracking written expression in Year 8 (2nd ESO) throughout the school year. The teacher records the level reached at three checkpoints and notes the supporting evidence.
-|
-| Progress indicator
-| Oct.
-| Jan.
-| Apr.
-| Most recent evidence
-| Plans the text before writing
-| Beginning
-| Developing
-| Autonomous
-| Outline submitted before the April writing task
-| Organises text into paragraphs with a main idea
-| Beginning
-| Developing
-| Developing
-| January piece: paragraphs present but no clear topic sentence
-| Uses varied connectives to link ideas
-| Beginning
-| Beginning
-| Developing
-| Causal and contrast connectives appear in the latest piece
-| Proofreads and corrects spelling before submitting
-| Developing
-| Autonomous
-| Autonomous
-| Drafts with self-corrections visible since January
+| Progress indicator | Oct. | Jan. | Apr. | Most recent evidence |
+| --- | --- | --- | --- | --- |
+| Plans the text before writing | Beginning | Developing | Autonomous | Outline submitted before the April writing task |
+| Organises text into paragraphs with a main idea | Beginning | Developing | Developing | January piece: paragraphs present but no clear topic sentence |
+| Uses varied connectives to link ideas | Beginning | Beginning | Developing | Causal and contrast connectives appear in the latest piece |
+| Proofreads and corrects spelling before submitting | Developing | Autonomous | Autonomous | Drafts with self-corrections visible since January |
 Student: Laia P. &nbsp;|&nbsp; Levels: Beginning → Developing → Autonomous → Advanced
 The progress scale allows the teacher to track each student's learning trajectory and agree on the next step during tutorial time.
 
@@ -5433,27 +4338,12 @@ Especially useful when several teachers are observing or when the activity is co
 **Example:**
 
 Observation guide prepared to monitor group work during a Physics experiment in Year 9. The teacher completes it during the session with concrete evidence of what was observed.
-|
-| Observation focus
-| Specific indicators to look for
-| When
-| Observed evidence
-| Planning before starting
-| Do they read the instructions first? Divide tasks? Identify the equipment needed?
-| First 5 min.
-| Group 1: read together and share roles (good). Group 3: one student starts assembling without reading; the others follow.
-| Equipment handling and safety
-| Do they use equipment correctly? Follow safety rules (goggles, tidiness)?
-| During experiment
-| All wearing goggles. Group 2: spill liquid and don't clean up until prompted. Group 4: very orderly, measure twice before pouring.
-| Data recording
-| Do they record as they go or wait until the end? Are data precise (units, decimals)?
-| During experiment
-| Groups 1, 3, 4: record in real time. Group 2: only one member records; the other three don't have their data sheet to hand.
-| Analysis and oral conclusion
-| Do they link results to the hypothesis? Do they explain discrepancies?
-| Last 10 min.
-| Group 1: clearly explains the difference between their result and the expected value. Groups 2 and 3: conclude it "went wrong" without analysing why.
+| Observation focus | Specific indicators to look for | When | Observed evidence |
+| --- | --- | --- | --- |
+| Planning before starting | Do they read the instructions first? Divide tasks? Identify the equipment needed? | First 5 min. | Group 1: read together and share roles (good). Group 3: one student starts assembling without reading; the others follow. |
+| Equipment handling and safety | Do they use equipment correctly? Follow safety rules (goggles, tidiness)? | During experiment | All wearing goggles. Group 2: spill liquid and don't clean up until prompted. Group 4: very orderly, measure twice before pouring. |
+| Data recording | Do they record as they go or wait until the end? Are data precise (units, decimals)? | During experiment | Groups 1, 3, 4: record in real time. Group 2: only one member records; the other three don't have their data sheet to hand. |
+| Analysis and oral conclusion | Do they link results to the hypothesis? Do they explain discrepancies? | Last 10 min. | Group 1: clearly explains the difference between their result and the expected value. Groups 2 and 3: conclude it "went wrong" without analysing why. |
 Activity: Density experiment — immiscible liquids &nbsp;|&nbsp; Class: Year 9B &nbsp;|&nbsp; Date: 19/02
 Priority focus for next practical: scaffold discrepancy analysis for all groups (Groups 2 and 3 need targeted support).
 An observation guide means watching fewer things but seeing them better: limiting focus to 3–4 key indicators is more effective than trying to record everything.
@@ -5486,22 +4376,12 @@ Its strength lies in shifting marking from final judgement towards future improv
 **Example:**
 
 Feedback/feedforward template from the Social Studies teacher on an oral presentation in Year 8. The left column assesses what has already been achieved; the right column sets a concrete next step.
-|
-| Criterion
-| Feedback — what you have already achieved
-| Feedforward — your next step
-| Content
-| You selected the three key facts of the topic and explained them in your own words, not by reading from the slides.
-| In your next presentation, add an explicit link between the facts: "this happened because…" or "this led to…".
-| Structure
-| The introduction clearly signals what you are going to talk about. The conclusion closes the topic well.
-| The body needs more transition signals between points. Practise phrases such as "moving on to…" or "the second aspect is…".
-| Oral delivery
-| Your voice is clear and the pace is good during the first half of the presentation.
-| In the second half the pace sped up. Practise pausing for 2 seconds after each key idea before moving on.
-| Visual support
-| Slides have minimal text and relevant images: exactly what is expected.
-| The images don't appear when you are talking about them. Rehearse once more to synchronise what you say with what you project.
+| Criterion | Feedback — what you have already achieved | Feedforward — your next step |
+| --- | --- | --- |
+| Content | You selected the three key facts of the topic and explained them in your own words, not by reading from the slides. | In your next presentation, add an explicit link between the facts: "this happened because…" or "this led to…". |
+| Structure | The introduction clearly signals what you are going to talk about. The conclusion closes the topic well. | The body needs more transition signals between points. Practise phrases such as "moving on to…" or "the second aspect is…". |
+| Oral delivery | Your voice is clear and the pace is good during the first half of the presentation. | In the second half the pace sped up. Practise pausing for 2 seconds after each key idea before moving on. |
+| Visual support | Slides have minimal text and relevant images: exactly what is expected. | The images don't appear when you are talking about them. Rehearse once more to synchronise what you say with what you project. |
 Student: Mireia C. &nbsp;|&nbsp; Presentation: The River Civilisations of Mesopotamia &nbsp;|&nbsp; Date: 17/01
 The feedforward column is the most valuable: it shifts attention from "what went wrong" to "what to do next time", making the feedback genuinely actionable.
 
@@ -5533,40 +4413,20 @@ Useful for assessing and regulating the cooperative process more fairly.
 **Example:**
 
 Group contract signed at the start of a research project in Year 10. Records roles, norms, milestones, and commitments; reviewed at intermediate checkpoints to regulate the cooperative process.
-|
-| Roles and responsibilities
-| Member
-| Role
-| Main responsibilities
-| Mireia T.
-| Coordinator
-| Organise meetings, assign tasks, ensure deadlines are met, and act as spokesperson with the teacher.
-| Omar B.
-| Researcher
-| Search for and select sources; write the methodology and results sections.
-| Júlia K.
-| Secretary
-| Take notes at meetings, manage the shared document, and maintain the bibliography.
-| Kevin L.
-| Presenter
-| Prepare and deliver the final oral presentation; coordinate the visual support.
-|
-| Milestone calendar
-| Milestone
-| Date
-| Responsible
-| Choose topic and research question
-| 07/04
-| Group
-| Draft submission (introduction + methodology)
-| 21/04
-| Omar + Júlia
-| Full report submission
-| 05/05
-| Mireia (final review)
-| Oral presentation
-| 12/05
-| Kevin
+| Roles and responsibilities |
+| --- |
+| Member | Role | Main responsibilities |
+| Mireia T. | Coordinator | Organise meetings, assign tasks, ensure deadlines are met, and act as spokesperson with the teacher. |
+| Omar B. | Researcher | Search for and select sources; write the methodology and results sections. |
+| Júlia K. | Secretary | Take notes at meetings, manage the shared document, and maintain the bibliography. |
+| Kevin L. | Presenter | Prepare and deliver the final oral presentation; coordinate the visual support. |
+| Milestone calendar |
+| --- |
+| Milestone | Date | Responsible |
+| Choose topic and research question | 07/04 | Group |
+| Draft submission (introduction + methodology) | 21/04 | Omar + Júlia |
+| Full report submission | 05/05 | Mireia (final review) |
+| Oral presentation | 12/05 | Kevin |
 Agreed norms: Reply to group messages within 24 h · If someone cannot complete a task, give 48 h notice · Important decisions are made by consensus, not majority vote.
 Signatures: Mireia T. · Omar B. · Júlia K. · Kevin L. &nbsp;|&nbsp; Date: 05/04 &nbsp;|&nbsp; Reviewed at milestone 2: 21/04
 The contract is not just a formality: reviewing it at each milestone turns the initial agreements into a real tool for regulating the cooperative process.
@@ -5624,49 +4484,14 @@ It is a key assessment tool for criteria-based assessment and evidence triangula
 **Example:**
 
 Evidence map by criterion designed for the assessment of a Science project in Year 9. Links each criterion to the tasks that evidence it and the instrument applied; helps identify under-evidenced or over-assessed criteria.
-|
-| Criterion
-| Written report
-| Oral presentation
-| Lab practical
-| Self-assessment
-| Main instrument
-| Problem framing and hypothesis
-| ✓
-| ✓
-|
-|
-| Analytical rubric
-| Methodology and procedure
-| ✓
-|
-| ✓
-|
-| Observation guide
-| Analysis and interpretation
-| ✓
-| ✓
-|
-|
-| Analytical rubric
-| Communication of results
-| ✓
-| ✓
-|
-|
-| Oral presentation rubric
-| Cooperative work
-|
-|
-| ✓
-| ✓
-| Cooperative record + self-ass.
-| Metacognitive reflection
-|
-|
-|
-| ✓
-| Self-assessment scale
+| Criterion | Written report | Oral presentation | Lab practical | Self-assessment | Main instrument |
+| --- | --- | --- | --- | --- | --- |
+| Problem framing and hypothesis | ✓ | ✓ | | | Analytical rubric |
+| Methodology and procedure | ✓ | | ✓ | | Observation guide |
+| Analysis and interpretation | ✓ | ✓ | | | Analytical rubric |
+| Communication of results | ✓ | ✓ | | | Oral presentation rubric |
+| Cooperative work | | | ✓ | ✓ | Cooperative record + self-ass. |
+| Metacognitive reflection | | | | ✓ | Self-assessment scale |
 Project: "Water pollution: causes and solutions" &nbsp;|&nbsp; Class: Year 9B &nbsp;|&nbsp; Teacher: Ms García
 Design note: "Metacognitive reflection" only has one evidence point. If it is a priority criterion, add a second self-assessment moment mid-project.
 The evidence map is built during planning, not at the end: completing it in advance allows under-evidenced criteria to be addressed before assessment begins.
@@ -5699,31 +4524,17 @@ It does not replace a rubric or prove learning by itself, but it helps turn AI u
 **Example:**
 
 AI and sources declaration accompanying a History essay in Year 11. The student explains which external supports they used, what for, and which parts of the work are their own decisions.
-|
-| Sources consulted
-| Source
-| Type
-| How it was used
-| Judt, T. (2006). Postwar: A History of Europe Since 1945. Penguin.
-| Academic book
-| Basis for the arguments in paragraphs 2 and 3. Direct quotation on p. 3.
-| Wikipedia — "Marshall Plan"
-| Digital encyclopaedia
-| Used only for initial orientation. No Wikipedia data is cited in the essay.
-| Documentary: The Cold War, CNN (1998)
-| Audiovisual
-| Gave me context for the introduction. Not cited directly.
-|
-| AI tools used
-| Tool
-| What I used it for
-| What I changed or decided myself
-| ChatGPT (GPT-4)
-| Asked it to explain the difference between the Marshall Plan and the Truman Doctrine to help me understand the topic.
-| I did not copy any sentences. I used the explanation to understand the topic and then wrote in my own words.
-| Word spell-checker
-| Correcting typing errors.
-| I accepted or rejected each suggestion manually.
+| Sources consulted |
+| --- |
+| Source | Type | How it was used |
+| Judt, T. (2006). Postwar: A History of Europe Since 1945. Penguin. | Academic book | Basis for the arguments in paragraphs 2 and 3. Direct quotation on p. 3. |
+| Wikipedia — "Marshall Plan" | Digital encyclopaedia | Used only for initial orientation. No Wikipedia data is cited in the essay. |
+| Documentary: The Cold War, CNN (1998) | Audiovisual | Gave me context for the introduction. Not cited directly. |
+| AI tools used |
+| --- |
+| Tool | What I used it for | What I changed or decided myself |
+| ChatGPT (GPT-4) | Asked it to explain the difference between the Marshall Plan and the Truman Doctrine to help me understand the topic. | I did not copy any sentences. I used the explanation to understand the topic and then wrote in my own words. |
+| Word spell-checker | Correcting typing errors. | I accepted or rejected each suggestion manually. |
 Student's declaration: "The analysis, argument structure, and conclusions are my own decisions. AI helped me understand the topic — it did not write the essay. All sources used are correctly cited."
 Student: Pol G. &nbsp;|&nbsp; Essay: "The Marshall Plan and the reconstruction of Europe" &nbsp;|&nbsp; Date: 18/04
 The declaration does not penalise AI use: it distinguishes legitimate uses (understanding, proofreading) from those that compromise authorship. Its formative value lies in the reflection it demands about what was genuinely the student's own work.
@@ -5756,37 +4567,12 @@ Its value is to ensure content validity and a balanced test: it avoids biased ex
 **Example:**
 
 Test blueprint designed before writing a History exam in Year 9. Crosses content areas with cognitive levels from Bloom's taxonomy, assigning the number of items and marks to each cell to ensure the test is balanced and representative.
-|
-| Content / Unit
-| Rememberitems / marks
-| Understanditems / marks
-| Applyitems / marks
-| Analyseitems / marks
-| Totalitems / marks
-| The Industrial Revolution: causes and phases
-| 2 / 1
-| 1 / 1
-| —
-| 1 / 2
-| 4 / 4
-| Social change: class structure and working conditions
-| 1 / 0.5
-| 2 / 1
-| 1 / 1.5
-| —
-| 4 / 3
-| Imperialism and the colonial partition of Africa
-| 1 / 0.5
-| 1 / 1
-| —
-| 1 / 2
-| 3 / 3.5
-| Total
-| 4 / 2
-| 4 / 3
-| 1 / 1.5
-| 2 / 4
-| 11 / 10.5*
+| Content / Unit | Rememberitems / marks | Understanditems / marks | Applyitems / marks | Analyseitems / marks | Totalitems / marks |
+| --- | --- | --- | --- | --- | --- |
+| The Industrial Revolution: causes and phases | 2 / 1 | 1 / 1 | — | 1 / 2 | 4 / 4 |
+| Social change: class structure and working conditions | 1 / 0.5 | 2 / 1 | 1 / 1.5 | — | 4 / 3 |
+| Imperialism and the colonial partition of Africa | 1 / 0.5 | 1 / 1 | — | 1 / 2 | 3 / 3.5 |
+| Total | 4 / 2 | 4 / 3 | 1 / 1.5 | 2 / 4 | 11 / 10.5* |
 Exam: Contemporary World History — Unit 2 &nbsp;|&nbsp; Class: Year 9A &nbsp;|&nbsp; Teacher: Mr Martínez &nbsp;|&nbsp; Date: 15/03
 * Total 10.5 marks; rounded to 10 by dropping the lowest-weight question if a student exceeds the maximum.
 The test blueprint is written before drafting the items: it ensures the exam represents the full content range and that cognitive levels match the unit's learning objectives.
@@ -5819,19 +4605,11 @@ Its value is that it is quick to design, does not box learners into predefined l
 **Example:**
 
 Single-point rubric for assessing an argumentative essay in Year 10. The central column describes the expected standard (template); the teacher writes in the side columns which specific aspects of the work fall below or exceed that standard.
-|
-| ▼ Below standardAspects that don't meet it
-| Expected standard
-| ▲ Above standardAspects that exceed it
-| The evidence for the second argument is very vague: "some studies say…" without citing a specific source.
-| Argumentation: the thesis is clearly stated and each argument is supported by at least one concrete, cited piece of evidence.
-| The first argument cites a WHO report with a specific year and statistic: high-quality evidence.
-| The conclusion repeats the introduction almost word for word without adding synthesis or new perspective.
-| Structure: the text has a distinct introduction, body, and conclusion, with a conclusion that synthesises and opens to further reflection.
-|
-|
-| Linguistic accuracy: the text has no spelling or punctuation errors that impede comprehension, and vocabulary is appropriate to an academic register.
-| Uses specialist vocabulary precisely ("ad hominem fallacy", "deductive argument"). Goes beyond year-group expectations.
+| ▼ Below standardAspects that don't meet it | Expected standard | ▲ Above standardAspects that exceed it |
+| --- | --- | --- |
+| The evidence for the second argument is very vague: "some studies say…" without citing a specific source. | Argumentation: the thesis is clearly stated and each argument is supported by at least one concrete, cited piece of evidence. | The first argument cites a WHO report with a specific year and statistic: high-quality evidence. |
+| The conclusion repeats the introduction almost word for word without adding synthesis or new perspective. | Structure: the text has a distinct introduction, body, and conclusion, with a conclusion that synthesises and opens to further reflection. | |
+| | Linguistic accuracy: the text has no spelling or punctuation errors that impede comprehension, and vocabulary is appropriate to an academic register. | Uses specialist vocabulary precisely ("ad hominem fallacy", "deductive argument"). Goes beyond year-group expectations. |
 Student: Aina F. &nbsp;|&nbsp; Essay: "Should university education be free?" &nbsp;|&nbsp; Date: 11/05
 The single-point rubric forces specific feedback: the teacher cannot just mark a level but must write what makes the work fall below or exceed the standard for each criterion.
 
@@ -5863,25 +4641,12 @@ How to use it: before a peer-review session or a discussion of a piece of work, 
 **Example:**
 
 Feedback ladder applied to reviewing an essay on climate change in Year 10. The teacher follows the four rungs in order.
-|
-| Rung
-| Teacher's comment
-|
-1. Clarify
-Ask before evaluating
-| «When you say "wealthy countries are to blame", do you mean their historical emissions record or their current policy?»
-|
-2. Value
-Highlight what works well
-| «The structure is solid and your thesis is clear from the first paragraph. The emissions data is well chosen and gives real weight to your argument.»
-|
-3. Express concerns
-Identify what raises doubts
-| «I'm concerned that the conclusion doesn't address the counter-arguments you raise in the body. The reader may feel that key questions are left unanswered.»
-|
-4. Suggest
-Propose concrete improvements
-| «I'd suggest adding a paragraph before the conclusion where you specifically refute the argument that developing countries must also reduce emissions now. That would bring the essay to a satisfying close.»
+| Rung | Teacher's comment |
+| --- | --- |
+| 1. Clarify Ask before evaluating | «When you say "wealthy countries are to blame", do you mean their historical emissions record or their current policy?» |
+| 2. Value Highlight what works well | «The structure is solid and your thesis is clear from the first paragraph. The emissions data is well chosen and gives real weight to your argument.» |
+| 3. Express concerns Identify what raises doubts | «I'm concerned that the conclusion doesn't address the counter-arguments you raise in the body. The reader may feel that key questions are left unanswered.» |
+| 4. Suggest Propose concrete improvements | «I'd suggest adding a paragraph before the conclusion where you specifically refute the argument that developing countries must also reduce emissions now. That would bring the essay to a satisfying close.» |
 The ladder ensures the teacher understands the work before assessing it, acknowledges strengths, pinpoints the issue precisely and offers a concrete next step.
 
 **Active techniques using this:** Design Thinking, Peer Review, Two Stars and a Wish
@@ -5912,34 +4677,16 @@ Its value is developing autonomy and self-regulation: it hands learners control 
 **Example:**
 
 Orientation guide to support students in writing an argumentative essay in Year 10. Students tick each step as they complete it.
-|
-| ✓
-| Step
-| What do I need to do?
-| ✓
-| 1. Define your position
-| Write a clear statement of my opinion on the topic in one sentence.
-| ✓
-| 2. Find arguments
-| List at least three reasons that support my position.
-| ✓
-| 3. Find counter-arguments
-| Identify opposing reasons and think about how to refute them.
-| ✓
-| 4. Write the introduction
-| Present the topic and state my thesis in an engaging way.
-| ✓
-| 5. Develop the arguments
-| Explain each argument using data, examples or quotations.
-|
-| 6. Refute the counter-arguments
-| Acknowledge the opposing view and explain why I disagree.
-|
-| 7. Write the conclusion
-| Summarise my position and invite the reader to reflect or act.
-|
-| 8. Revise the text
-| Check spelling, coherence, connectives and length.
+| ✓ | Step | What do I need to do? |
+| --- | --- | --- |
+| ✓ | 1. Define your position | Write a clear statement of my opinion on the topic in one sentence. |
+| ✓ | 2. Find arguments | List at least three reasons that support my position. |
+| ✓ | 3. Find counter-arguments | Identify opposing reasons and think about how to refute them. |
+| ✓ | 4. Write the introduction | Present the topic and state my thesis in an engaging way. |
+| ✓ | 5. Develop the arguments | Explain each argument using data, examples or quotations. |
+| | 6. Refute the counter-arguments | Acknowledge the opposing view and explain why I disagree. |
+| | 7. Write the conclusion | Summarise my position and invite the reader to reflect or act. |
+| | 8. Revise the text | Check spelling, coherence, connectives and length. |
 The student has completed steps 1–5 and still needs to write the rebuttal, conclusion, and revision.
 The guide lets them know exactly where they are in the process.
 

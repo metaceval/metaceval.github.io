@@ -12,21 +12,50 @@ import re
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+def _cell_text(html_fragment):
+    """Extrae texto limpio de un fragmento HTML de celda."""
+    text = re.sub(r'<[^>]+>', '', html_fragment)
+    text = re.sub(r'\s+', ' ', text).strip()
+    # Escapar pipes dentro del contenido para no romper la tabla Markdown
+    return text.replace('|', '\\|')
+
+
+def _html_table_to_md(table_html):
+    """Convierte una tabla HTML en una tabla Markdown."""
+    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', table_html, re.DOTALL)
+    if not rows:
+        return ''
+    md_rows = []
+    for i, row in enumerate(rows):
+        cells = re.findall(r'<t[hd][^>]*>(.*?)</t[hd]>', row, re.DOTALL)
+        if not cells:
+            continue
+        cols = [_cell_text(c) for c in cells]
+        md_rows.append('| ' + ' | '.join(cols) + ' |')
+        # Insertar separador tras la primera fila (cabecera)
+        if i == 0:
+            md_rows.append('| ' + ' | '.join(['---'] * len(cols)) + ' |')
+    return '\n'.join(md_rows)
+
+
 def load_eval_example(entity_id, lang):
-    """Lee examples/{lang}/{id}.html con fallback a 'es'. Devuelve texto plano."""
+    """Lee examples/{lang}/{id}.html con fallback a 'es'.
+    Devuelve Markdown con tablas correctas."""
     for l in ([lang, 'es'] if lang != 'es' else ['es']):
         path = os.path.join(BASE_DIR, 'examples', l, f'{entity_id}.html')
         if os.path.exists(path):
             html = open(path, encoding='utf-8').read()
-            # Convertir tabla HTML a texto plano tabular
-            html = re.sub(r'<tr[^>]*>', '', html)
-            html = re.sub(r'</tr>', '\n', html)
-            html = re.sub(r'<th[^>]*>', '| ', html)
-            html = re.sub(r'<td[^>]*>', '| ', html)
-            html = re.sub(r'</th>|</td>', ' ', html)
-            html = re.sub(r'<[^>]+>', '', html)   # resto de tags
+            # Convertir cada tabla HTML a tabla Markdown
+            def replace_table(m):
+                return '\n' + _html_table_to_md(m.group(0)) + '\n'
+            html = re.sub(r'<table[^>]*>.*?</table>', replace_table, html, flags=re.DOTALL)
+            # Convertir párrafos a texto plano
+            html = re.sub(r'<p[^>]*>', '', html)
+            html = re.sub(r'</p>', '\n', html)
+            # Eliminar etiquetas restantes
+            html = re.sub(r'<[^>]+>', '', html)
             html = re.sub(r' {2,}', ' ', html)
-            html = '\n'.join(l.strip() for l in html.splitlines() if l.strip())
+            html = '\n'.join(line.strip() for line in html.splitlines() if line.strip())
             return html
     return None
 
@@ -35,20 +64,20 @@ def load_eval_example(entity_id, lang):
 CATS = {
     "es": [
         {"file": "tecnicas.json",    "prefix": "TEC", "heading": "Técnicas de evaluación"},
-        {"file": "evidencias.json",  "prefix": "INS", "heading": "Evidencias observables"},
-        {"file": "instrumentos.json","prefix": "HER", "heading": "Instrumentos de evaluación"},
+        {"file": "evidencias.json",  "prefix": "EVI", "heading": "Evidencias observables"},
+        {"file": "instrumentos.json","prefix": "INS", "heading": "Instrumentos de evaluación"},
         {"file": "dimensiones.json", "prefix": "DIM", "heading": "Dimensiones de evaluación"},
     ],
     "ca": [
         {"file": "tecnicas.json",    "prefix": "TEC", "heading": "Tècniques d'avaluació"},
-        {"file": "evidencias.json",  "prefix": "INS", "heading": "Evidències observables"},
-        {"file": "instrumentos.json","prefix": "HER", "heading": "Instruments d'avaluació"},
+        {"file": "evidencias.json",  "prefix": "EVI", "heading": "Evidències observables"},
+        {"file": "instrumentos.json","prefix": "INS", "heading": "Instruments d'avaluació"},
         {"file": "dimensiones.json", "prefix": "DIM", "heading": "Dimensions d'avaluació"},
     ],
     "en": [
         {"file": "tecnicas.json",    "prefix": "TEC", "heading": "Evaluation techniques"},
-        {"file": "evidencias.json",  "prefix": "INS", "heading": "Observable evidence"},
-        {"file": "instrumentos.json","prefix": "HER", "heading": "Evaluation instruments"},
+        {"file": "evidencias.json",  "prefix": "EVI", "heading": "Observable evidence"},
+        {"file": "instrumentos.json","prefix": "INS", "heading": "Evaluation instruments"},
         {"file": "dimensiones.json", "prefix": "DIM", "heading": "Assessment dimensions"},
     ],
 }

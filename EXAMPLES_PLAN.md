@@ -9,11 +9,14 @@ que se muestran en el modal de cada entidad de evaluación de Metac.
 
 | Categoría | Total | Hechos | Pendientes |
 |---|---|---|---|
-| `instrumentos.json` (HER_*) | 62 | 13 | 49 |
-| `tecnicas.json` (TEC_*) | 12 | 0 | 12 |
-| `evidencias.json` (INS_*) | 88 | 0 | 88 |
+| `instrumentos.json` (HER_*) | 62 | 58 | 4 (DEFER, requieren imagen) |
+| `tecnicas.json` (TEC_*) | 12 | 12 | 0 ✅ |
+| `evidencias.json` (INS_*) | 88 | — | No aplica (ver nota) |
 | `dimensiones.json` (DIM_*) | 25 | 0 | 25 |
-| **Total** | **187** | **13** | **174** |
+
+> **Nota INS_*:** Las evidencias son productos del alumno (ensayo, debate, vídeo…).
+> Un ejemplo de la evidencia sería un fragmento del producto real, no una lista de criterios.
+> Como no se crearán ejemplos de este tipo, las entidades INS_* no tienen sección de ejemplo.
 
 Ejemplos ya completados (en `examples/es|ca|en/`):
 `HER_RUB_ANA`, `HER_RUB_HOL`, `HER_RUB_PROC`, `HER_RUB_PROD`,
@@ -55,10 +58,48 @@ Se inyectan directamente en el modal mediante `innerHTML`.
   <tbody>…</tbody>
 </table>
 
-<p style="font-size:.82rem;color:#475569;margin-top:8px">
-  Nota o clave de uso al pie.
+<p style="font-size:.82rem;color:#475569;margin-top:8px;background:#fef9c3;border-left:3px solid #ca8a04;padding:4px 8px;border-radius:3px">
+  Alumno/Grupo: … | Actividad: … | Fecha: …
+  Observación o comentario breve.
 </p>
 ```
+
+### Convención visual: plantilla vs. dato introducido
+
+**Regla única:** todo dato que el evaluador escribe o marca al usar el instrumento lleva fondo amarillo `#fef9c3`.
+
+| Elemento | Trata como | Estilo |
+|---|---|---|
+| Texto de criterios, descriptores, pasos | Plantilla | Sin fondo (blanco) |
+| ✓ / ✗ marcados en una celda | Dato introducido | `background:#fef9c3` en el `<td>` |
+| Puntuación obtenida (columna numérica) | Dato introducido | `background:#fef9c3` en el `<td>` |
+| Nivel seleccionado en escala descriptiva | Dato introducido | `background:#fef9c3;font-weight:600` en el `<td>` |
+| Comentario del docente en celda libre | Dato introducido | `background:#fef9c3` en el `<td>` |
+| Párrafo del pie (alumno, fecha, observación) | Dato introducido | `background:#fef9c3;border-left:3px solid #ca8a04;padding:4px 8px;border-radius:3px` |
+| Fila de totales / puntuación final | Dato introducido | `background:#fef9c3;font-weight:600` |
+
+**Celdas que nunca llevan amarillo:** cabeceras (`<th>`), descriptores de nivel en escalas (son plantilla), etiquetas de pasos o criterios.
+
+**Aplicación en rúbricas analíticas:** marcar con amarillo la celda seleccionada para cada criterio y añadir pie con datos del alumno. Si el instrumento es una plantilla pura (sin ejemplo rellenado), no incluir amarillo — añadir en su lugar un pie con `color:#475569` que explique cómo se usa.
+
+### Separación de datos rellenados y notas de uso
+
+El párrafo de pie puede contener dos tipos de contenido que **deben ir en elementos separados**:
+
+```html
+<!-- Datos del evaluador (amarillo) -->
+<p style="font-size:.82rem;color:#475569;margin-top:8px;background:#fef9c3;border-left:3px solid #ca8a04;padding:4px 8px;border-radius:3px">
+  <strong>Alumno:</strong> … | <strong>Actividad:</strong> … | <strong>Fecha:</strong> …<br>
+  Observación concreta sobre este alumno o grupo.
+</p>
+
+<!-- Nota de uso del instrumento (NO amarillo) -->
+<p style="font-size:.82rem;color:#475569;margin-top:4px">
+  Frase genérica sobre cómo usar el instrumento o qué aporta.
+</p>
+```
+
+**Regla:** si la frase se puede copiar a cualquier ejemplo del mismo instrumento sin cambiar nada, es una nota de uso → no lleva amarillo.
 
 ### Convenciones de contenido
 
@@ -301,59 +342,36 @@ El ejemplo debe mostrar la técnica en acción: qué hace el docente, cómo se r
 
 ---
 
-## Bloques de trabajo para INS_* (evidencias)
+## INS_* (evidencias) — Sin ejemplos
 
-88 items. Estas son **tipos de evidencia** (el producto que genera el alumno).
-El ejemplo es más breve que para los instrumentos: muestra el contexto de uso
-y los principales aspectos a valorar al evaluarla.
+Las evidencias son **productos que genera el alumno** (ensayo, debate, vídeo, informe…).
+Un ejemplo real sería un fragmento del producto del alumno, lo cual no se puede
+generar de forma genérica con utilidad pedagógica real.
 
-**Formato típico**: párrafo de contexto + tabla de 2 columnas
-(Aspecto a valorar | Indicador concreto). No hace falta una rúbrica completa.
-
-| Bloque | IDs (aproximados) |
-|---|---|
-| Evidencias orales (8) | INS_EXPO, INS_DEBATE, INS_COLOQ, INS_ASAM, INS_PR_ORAL, INS_ENTREV, INS_PREG_ORAL, INS_SEMINARIO |
-| Lab/prácticas (6) | INS_LAB, INS_INFO_LAB, INS_TALLER, INS_SIM, INS_PR_PRACT, INS_CHECK_LAB |
-| Textos escritos (8) | INS_ENSAYO, INS_COM_TEXT, INS_RESUMEN, INS_MONO, INS_INFO_INV, INS_ART_DIV, INS_RESEÑA, INS_COM_GRAF |
-| Productos digitales (11) | INS_INFOG, INS_VIDEO, INS_PODCAST, INS_COMIC, INS_POSTER, INS_WEB, INS_BLOG, INS_PRESENT_DIG, INS_TUTORIAL, INS_MICROVIDEO, INS_STORYBOARD |
-| Trabajo colaborativo (5) | INS_TRAB_COOP, INS_DOC_COL, INS_PORT_DIG, INS_EPORT_SEL, INS_FORO |
-| Reflexivos/metacognitivos (8) | INS_DIARIO, INS_PORT, INS_CUADERNO, INS_BIT, INS_F_REFLEX, INS_AUTOINF, INS_CUAD_DIG, INS_BIT_IA |
-| Proyectos y casos (7) | INS_CASO, INS_MEM_PROY, INS_PLAN_TRAB, INS_PROTOTIPO, INS_MAQUETA, INS_MODELO_DIG, INS_SIT_PROB |
-| Formativos rápidos (8) | INS_2E1D, INS_SEMAF, INS_BILLETE, INS_TARJ_RESP, INS_REV_PARES, INS_KPSI, INS_BORR, INS_ENT_PAR |
-| Pruebas formales (9) | INS_PR_DES, INS_PR_OBJ, INS_TEST, INS_RESP_CORTA, INS_PR_COMP, INS_DOCS, INS_CUEST_DIG, INS_LIBRO_ABIERTO, INS_PROB |
-| Otros (18) | INS_TRAB_IND, INS_PART, INS_ROL, INS_DRAMA, INS_DEF_PROY, INS_MAP_CONC, INS_MAP_MENT, INS_ESQUEMA, INS_LINEA, INS_GLOS, INS_FICHA_LECT, INS_ACTA, INS_CONTRATO, INS_MAP_INI, INS_LLUVIA, INS_TAREA_COMP_INT, INS_ESCAPE, INS_CUAD_CAMPO |
-| + INS_MICROVIDEO, INS_BIT_IA, INS_TARJ_RESP, INS_STORYBOARD | (ya en bloques anteriores) |
+**Decisión:** no se crean archivos de ejemplo para entidades INS_*.
+Las entidades INS_* muestran solo su descripción en el modal, sin sección de ejemplo.
 
 ---
 
-## Bloques de trabajo para DIM_* (dimensiones)
+## DIM_* (dimensiones) — Sin ejemplos
 
-25 items. Son enfoques o dimensiones de la evaluación (quién evalúa, cuándo, con qué finalidad).
-El ejemplo muestra cómo se concreta esa dimensión en una situación de aula.
+Las dimensiones son **conceptos abstractos de evaluación** (quién evalúa, cuándo, con qué finalidad).
+Un ejemplo de una dimensión sería una descripción de cómo se aplica en el aula — útil,
+pero no ES la dimensión en sí: es una aplicación contextualizada de ella.
+El mismo problema que INS_*: lo que se crearía no sería un ejemplo de la cosa, sino otra cosa.
 
-**Formato típico**: párrafo de contexto + tabla de 2-3 columnas mostrando
-cómo se diseña o aplica la evaluación teniendo en cuenta esa dimensión.
-
-| Bloque | IDs |
-|---|---|
-| Agente evaluador (3) | DIM_AUTO, DIM_COEV, DIM_HET |
-| Finalidad (3) | DIM_DIAG, DIM_FORM, DIM_SUM |
-| Enfoque metodológico (5) | DIM_COMP, DIM_DESEMP, DIM_PROY, DIM_INDAG, DIM_PROB |
-| Contexto y tipo (4) | DIM_CASO, DIM_SIM, DIM_DIG, DIM_CRIT |
-| Equidad e inclusión (2) | DIM_INCL, DIM_CONT |
-| Retroalimentación y calificación (3) | DIM_FEED, DIM_CAL_ACRED, DIM_COMPART |
-| Emergentes (5) | DIM_GAMIF, DIM_TRAZ_IA, DIM_IPSA, DIM_NORM, DIM_DINAM |
+**Decisión:** no se crean archivos de ejemplo para entidades DIM_*.
+Las entidades DIM_* muestran solo su descripción en el modal, sin sección de ejemplo.
 
 ---
 
 ## Orden de prioridad recomendado
 
-1. **HER_* bloques 1–6** (escalas, registros, hojas, guías, fichas, auto/coev) — uso más frecuente en el aula
-2. **TEC_*** — 12 items, describen técnicas de evaluación fundamentales
-3. **HER_* bloques 7–12** (matrices, calificación, actas, digital, especiales)
-4. **INS_*** por bloques, empezando por orales, textos y proyectos
-5. **DIM_*** — más conceptuales, último en abordar
-6. **HER_* DEFER** (imagen) — fase separada cuando se decida el sistema de imágenes
+1. **HER_*** ✅ 58/62 completados (4 DEFER requieren imagen — fase separada)
+2. **TEC_*** ✅ 12/12 completados
+3. **INS_*** — sin ejemplos (ver nota)
+4. **DIM_*** — sin ejemplos (ver nota)
+5. **HER_* DEFER** — pendiente cuando se decida el sistema de imágenes
 
 ---
 

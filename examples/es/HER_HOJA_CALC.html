@@ -1,0 +1,68 @@
+<p>Fragmento de una hoja de cálculo de evaluación de <strong>Inglés</strong> en 2.º de ESO (Google Sheets). Las columnas de nota final y media del grupo se calculan automáticamente con fórmulas; el docente solo introduce las calificaciones en las columnas de tareas.</p>
+
+<table class="desc-table">
+  <thead>
+    <tr>
+      <th>Alumno</th>
+      <th style="text-align:center;width:60px">T1 Writing<br><span style="font-weight:400;font-size:.78rem">25%</span></th>
+      <th style="text-align:center;width:60px">T2 Listening<br><span style="font-weight:400;font-size:.78rem">25%</span></th>
+      <th style="text-align:center;width:60px">T3 Speaking<br><span style="font-weight:400;font-size:.78rem">30%</span></th>
+      <th style="text-align:center;width:60px">T4 Reading<br><span style="font-weight:400;font-size:.78rem">20%</span></th>
+      <th style="text-align:center;width:75px">Nota final<br><span style="font-weight:400;font-size:.78rem;color:#16a34a">=SUMA POND.</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alicia B.</td>
+      <td style="text-align:center;background:#fef9c3">8,0</td>
+      <td style="text-align:center;background:#fef9c3">7,5</td>
+      <td style="text-align:center;background:#fef9c3">9,0</td>
+      <td style="text-align:center;background:#fef9c3">7,0</td>
+      <td style="text-align:center;background:#fef9c3"><strong>8,1</strong></td>
+    </tr>
+    <tr>
+      <td>Bruno M.</td>
+      <td style="text-align:center;background:#fef9c3">5,0</td>
+      <td style="text-align:center;background:#fef9c3">6,0</td>
+      <td style="text-align:center;background:#fef9c3">4,5</td>
+      <td style="text-align:center;background:#fef9c3">5,5</td>
+      <td style="text-align:center;background:#fef9c3"><strong>5,2</strong></td>
+    </tr>
+    <tr>
+      <td>Clara T.</td>
+      <td style="text-align:center;background:#fef9c3">7,5</td>
+      <td style="text-align:center;background:#fef9c3">8,0</td>
+      <td style="text-align:center;background:#fef9c3">7,0</td>
+      <td style="text-align:center;background:#fef9c3">8,5</td>
+      <td style="text-align:center;background:#fef9c3"><strong>7,6</strong></td>
+    </tr>
+    <tr>
+      <td>Diego F.</td>
+      <td style="text-align:center;background:#fef9c3">9,0</td>
+      <td style="text-align:center;background:#fef9c3">9,5</td>
+      <td style="text-align:center;background:#fef9c3">8,5</td>
+      <td style="text-align:center;background:#fef9c3">9,0</td>
+      <td style="text-align:center;background:#fef9c3"><strong>9,0</strong></td>
+    </tr>
+    <tr>
+      <td>Elena R.</td>
+      <td style="text-align:center;background:#fef9c3">6,0</td>
+      <td style="text-align:center;background:#fef9c3">5,5</td>
+      <td style="text-align:center;background:#fef9c3">6,5</td>
+      <td style="text-align:center;background:#fef9c3">6,0</td>
+      <td style="text-align:center;background:#fef9c3"><strong>6,1</strong></td>
+    </tr>
+    <tr style="background:#f1f5f9">
+      <td style="font-size:.82rem;color:#64748b"><em>Media del grupo</em></td>
+      <td style="text-align:center;font-size:.82rem;color:#64748b"><em>7,1</em></td>
+      <td style="text-align:center;font-size:.82rem;color:#64748b"><em>7,3</em></td>
+      <td style="text-align:center;font-size:.82rem;color:#64748b"><em>7,1</em></td>
+      <td style="text-align:center;font-size:.82rem;color:#64748b"><em>7,2</em></td>
+      <td style="text-align:center;font-size:.82rem;color:#64748b"><em>7,2</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="font-size:.82rem;color:#475569;margin-top:8px;background:#fef9c3;border-left:3px solid #ca8a04;padding:4px 8px;border-radius:3px"><strong>Clase:</strong> 2.º ESO A &nbsp;|&nbsp; <strong>Asignatura:</strong> Inglés &nbsp;|&nbsp; <strong>Trimestre:</strong> 2.º<br>
+Fórmula nota final (fila Alicia): <code>=B2*0,25 + C2*0,25 + D2*0,30 + E2*0,20</code>. La fila de medias usa <code>=PROMEDIO(B2:B6)</code> por columna.</p>
+<p style="font-size:.82rem;color:#475569;margin-top:4px">La ventaja de la hoja de cálculo sobre el cuaderno físico es la automatización: cambiar un peso o añadir una tarea recalcula todas las notas al instante, sin riesgo de errores aritméticos.</p>

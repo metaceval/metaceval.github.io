@@ -986,7 +986,7 @@ function mapShowPanel(idx) {
     const line = document.createElement('span');
     line.className = 'map-panel-rel-line';
     relItems.forEach(({ rid, relItem, nIdx }, idx) => {
-      const btn = document.createElement('button');
+      const btn = document.createElement('span');
       btn.className = 'related-btn map-rel-chip';
       btn.textContent = relItem.name;
       btn.addEventListener('click', e => {

@@ -637,10 +637,9 @@ function renderEvalNodePanel(entity, cat) {
     <div style="font-size:.84rem;line-height:1.7;margin-top:8px;padding:0 14px 8px">${formatDesc(entity.desc || '')}</div>
     ${metacItems.length ? `
       <div class="map-panel-related">
-        <span class="modal-related-label" style="font-size:.72rem">${esc(i('evalUsedBy'))}</span>
-        <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:4px">
-          ${metacItems.slice(0, 5).map(t => `<button class="related-btn" style="font-size:.76rem;padding:3px 8px" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`).join('')}
-          ${metacItems.length > 5 ? `<span style="font-size:.72rem;color:var(--text-muted)">+${metacItems.length - 5}</span>` : ''}
+        <span class="map-panel-rel-label">${esc(i('evalUsedBy'))}</span>
+        <div class="map-panel-rel-line" style="text-align:left">
+          ${metacItems.slice(0, 5).map((t, idx) => `<span class="related-btn" role="button" tabindex="0" data-metac-id="${esc(t.id)}">${esc(t.name)}</span>${idx < Math.min(metacItems.length, 5) - 1 || metacItems.length > 5 ? '<span class="related-sep">,</span> ' : ''}`).join('')}${metacItems.length > 5 ? `<span style="color:var(--text-muted)">+${metacItems.length - 5}</span>` : ''}
         </div>
       </div>` : ''}
   `;
@@ -689,10 +688,9 @@ function renderEvalMapNodePanel(entity, cat) {
     <div style="font-size:.84rem;line-height:1.7;margin-top:8px;padding:0 14px 8px">${formatDesc(entity.desc || '')}</div>
     ${metacItems.length ? `
       <div class="map-panel-related">
-        <span class="modal-related-label" style="font-size:.72rem">${esc(i('evalUsedBy'))}</span>
-        <div style="display:flex;flex-wrap:wrap;gap:4px;margin-top:4px">
-          ${metacItems.slice(0, 5).map(t => `<button class="related-btn" style="font-size:.76rem;padding:3px 8px" type="button" data-metac-id="${esc(t.id)}">${esc(t.name)}</button>`).join('')}
-          ${metacItems.length > 5 ? `<span style="font-size:.72rem;color:var(--text-muted)">+${metacItems.length - 5}</span>` : ''}
+        <span class="map-panel-rel-label">${esc(i('evalUsedBy'))}</span>
+        <div class="map-panel-rel-line" style="text-align:left">
+          ${metacItems.slice(0, 5).map((t, idx) => `<span class="related-btn" role="button" tabindex="0" data-metac-id="${esc(t.id)}">${esc(t.name)}</span>${idx < Math.min(metacItems.length, 5) - 1 || metacItems.length > 5 ? '<span class="related-sep">,</span> ' : ''}`).join('')}${metacItems.length > 5 ? `<span style="color:var(--text-muted)">+${metacItems.length - 5}</span>` : ''}
         </div>
       </div>` : ''}
   `;

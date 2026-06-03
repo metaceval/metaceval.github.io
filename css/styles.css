@@ -1517,6 +1517,7 @@
     .map-panel-related {
       padding: 8px 14px 10px;
       border-top: 1px solid var(--border);
+      text-align: left;
     }
     .map-panel-rel-label {
       display: block;
@@ -1526,9 +1527,11 @@
       margin-bottom: 4px;
     }
     .map-panel-rel-line {
+      display: block;
+      width: 100%;
       font-size: .75rem;
       line-height: 1.6;
-      text-align: left;
+      text-align: left !important;
     }
     .map-rel-chip {
       display: inline;

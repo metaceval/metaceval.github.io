@@ -354,7 +354,7 @@ It is key in competency-based and criteria-based assessment, because it avoids m
 ## Observable evidence
 
 
-### 1. Individual classroom work `INS_TRAB_IND`
+### 1. Individual classroom work `EVI_TRAB_IND`
 
 _Observation of the student working individually on tasks in class._
 
@@ -375,7 +375,7 @@ It is especially useful for formative assessment and for detecting learning diff
 ---
 
 
-### 2. Cooperative work `INS_TRAB_COOP`
+### 2. Cooperative work `EVI_TRAB_COOP`
 
 _Observation of students working in a structured group with defined roles._
 
@@ -396,7 +396,7 @@ It is important to evaluate individual contributions and not only the group resu
 ---
 
 
-### 3. Class participation `INS_PART`
+### 3. Class participation `EVI_PART`
 
 _Observation of the quality and frequency of student contributions in class._
 
@@ -417,7 +417,7 @@ It is best used as a formative indicator rather than a standalone summative mark
 ---
 
 
-### 4. Debate `INS_DEBATE`
+### 4. Debate `EVI_DEBATE`
 
 _Structured oral confrontation of opposing positions with evidence and arguments._
 
@@ -438,7 +438,7 @@ It is important to assess both the preparation process and the oral performance,
 ---
 
 
-### 5. Colloquium `INS_COLOQ`
+### 5. Colloquium `EVI_COLOQ`
 
 _Open group dialogue to explore and share understanding of a topic._
 
@@ -459,7 +459,7 @@ It is less suitable for individual summative assessment but very valuable as a f
 ---
 
 
-### 6. Assembly `INS_ASAM`
+### 6. Assembly `EVI_ASAM`
 
 _Participatory group space for sharing, deciding and reflecting collectively._
 
@@ -480,7 +480,7 @@ It has significant formative value but is difficult to use for individual summat
 ---
 
 
-### 7. Laboratory practice `INS_LAB`
+### 7. Laboratory practice `EVI_LAB`
 
 _Practical activity in which students apply scientific procedures in a laboratory context._
 
@@ -501,7 +501,7 @@ It is important to assess both the practical process and the written output.
 ---
 
 
-### 8. Workshop `INS_TALLER`
+### 8. Workshop `EVI_TALLER`
 
 _Practical and collaborative activity focused on creating a product or developing a skill._
 
@@ -522,7 +522,7 @@ It is particularly suitable for competency-based assessment because it integrate
 ---
 
 
-### 9. Simulation `INS_SIM`
+### 9. Simulation `EVI_SIM`
 
 _Recreation of a real or hypothetical situation to apply knowledge and skills._
 
@@ -543,7 +543,7 @@ It is demanding to design and assess, but offers high validity for competency-ba
 ---
 
 
-### 10. Role play `INS_ROL`
+### 10. Role play `EVI_ROL`
 
 _Activity in which students take on specific roles to explore situations or demonstrate competencies._
 
@@ -564,7 +564,7 @@ It is important to clearly define what is being assessed (the content, the perfo
 ---
 
 
-### 11. Drama `INS_DRAMA`
+### 11. Drama `EVI_DRAMA`
 
 _Theatrical or expressive performance to communicate, interpret or explore content._
 
@@ -585,7 +585,7 @@ It is important to separate the quality of the performance from artistic talent 
 ---
 
 
-### 12. Oral presentation `INS_EXPO`
+### 12. Oral presentation `EVI_EXPO`
 
 _Structured oral exposition of content, project or work before an audience._
 
@@ -606,7 +606,7 @@ It is important to assess the content and not only the presentation style, and t
 ---
 
 
-### 13. Project defence `INS_DEF_PROY`
+### 13. Project defence `EVI_DEF_PROY`
 
 _Oral presentation and defence of a project before a panel or audience._
 
@@ -627,7 +627,7 @@ It is one of the most complete forms of assessment but requires clear preparatio
 ---
 
 
-### 14. Interview `INS_ENTREV`
+### 14. Interview `EVI_ENTREV`
 
 _Structured or semi-structured dialogue between teacher and student to assess learning._
 
@@ -648,7 +648,7 @@ It is particularly useful for detecting difficulties, assessing metacognition an
 ---
 
 
-### 15. Structured oral question `INS_PREG_ORAL`
+### 15. Structured oral question `EVI_PREG_ORAL`
 
 _Targeted oral question to check understanding or reasoning during class._
 
@@ -669,7 +669,7 @@ It is important to avoid assessing only those who raise their hand and to distri
 ---
 
 
-### 16. Class notebook `INS_CUADERNO`
+### 16. Class notebook `EVI_CUADERNO`
 
 _Student's personal written record of activities, notes and work done in class._
 
@@ -690,7 +690,7 @@ It is a simple and accessible tool, though it tends to reflect effort and organi
 ---
 
 
-### 17. Learning diary `INS_DIARIO`
+### 17. Learning diary `EVI_DIARIO`
 
 _Personal written record in which the student reflects regularly on their learning process._
 
@@ -711,7 +711,7 @@ It is a powerful tool for formative assessment but requires teaching students wh
 ---
 
 
-### 18. Learning portfolio `INS_PORT`
+### 18. Learning portfolio `EVI_PORT`
 
 _Purposeful collection of evidence showing learning progress and achievement._
 
@@ -732,7 +732,7 @@ It is one of the most complete tools for competency-based and formative assessme
 ---
 
 
-### 19. Laboratory report `INS_INFO_LAB`
+### 19. Laboratory report `EVI_INFO_LAB`
 
 _Written document presenting the process, data and conclusions of a laboratory or field experiment._
 
@@ -753,7 +753,7 @@ It is especially suitable for assessing scientific competency and the ability to
 ---
 
 
-### 20. Research report `INS_INFO_INV`
+### 20. Research report `EVI_INFO_INV`
 
 _Extended written document presenting the process, results and conclusions of a research project._
 
@@ -774,7 +774,7 @@ It requires prior instruction in academic writing and research methodology.
 ---
 
 
-### 21. Monograph `INS_MONO`
+### 21. Monograph `EVI_MONO`
 
 _In-depth study of a specific topic presented in a structured academic format._
 
@@ -795,7 +795,7 @@ It requires clear instruction on the difference between summarising and analysin
 ---
 
 
-### 22. Essay `INS_ENSAYO`
+### 22. Essay `EVI_ENSAYO`
 
 _Argumentative written text that defends a position or interprets a topic with a personal voice._
 
@@ -816,7 +816,7 @@ It is important to teach students to argue from evidence and to distinguish betw
 ---
 
 
-### 23. Text commentary `INS_COM_TEXT`
+### 23. Text commentary `EVI_COM_TEXT`
 
 _Written analysis and interpretation of a text following a structured methodology._
 
@@ -837,7 +837,7 @@ It is important to teach the specific methodology for each type of text and to p
 ---
 
 
-### 24. Graph or data commentary `INS_COM_GRAF`
+### 24. Graph or data commentary `EVI_COM_GRAF`
 
 _Interpretation and analysis in writing of graphs, maps, tables or statistical data._
 
@@ -858,7 +858,7 @@ It is important to teach students to distinguish between describing what they se
 ---
 
 
-### 25. Summary `INS_RESUMEN`
+### 25. Summary `EVI_RESUMEN`
 
 _Condensed written version of a text or topic preserving the main ideas._
 
@@ -879,7 +879,7 @@ It is a simple and quick instrument that reflects comprehension well, though it 
 ---
 
 
-### 26. Outline `INS_ESQUEMA`
+### 26. Outline `EVI_ESQUEMA`
 
 _Hierarchical or structured visual organisation of the main ideas of a topic._
 
@@ -900,7 +900,7 @@ It reflects understanding of structure and relationships better than a verbatim 
 ---
 
 
-### 27. Concept map `INS_MAP_CONC`
+### 27. Concept map `EVI_MAP_CONC`
 
 _Visual representation of concepts and their relationships using nodes and labelled links._
 
@@ -921,7 +921,7 @@ It is more informative than a summary about the depth of understanding, though i
 ---
 
 
-### 28. Mind map `INS_MAP_MENT`
+### 28. Mind map `EVI_MAP_MENT`
 
 _Radial visual representation of ideas, associations and connections around a central concept._
 
@@ -942,7 +942,7 @@ It is a good tool for brainstorming and for activating prior knowledge, though i
 ---
 
 
-### 29. Timeline `INS_LINEA`
+### 29. Timeline `EVI_LINEA`
 
 _Chronological visual representation of events, processes or historical periods._
 
@@ -963,7 +963,7 @@ It is particularly useful in social sciences and history for assessing temporal 
 ---
 
 
-### 30. Glossary `INS_GLOS`
+### 30. Glossary `EVI_GLOS`
 
 _Alphabetical or thematic list of key terms with definitions written by the student._
 
@@ -984,7 +984,7 @@ It is a simple and accessible instrument, though it assesses conceptual understa
 ---
 
 
-### 31. Reading card `INS_FICHA_LECT`
+### 31. Reading card `EVI_FICHA_LECT`
 
 _Structured document that records reading data and the student's analysis or response._
 
@@ -1005,7 +1005,7 @@ It is a versatile instrument that combines reading comprehension with structured
 ---
 
 
-### 32. Review `INS_RESEÑA`
+### 32. Review `EVI_RESEÑA`
 
 _Critical text that describes, analyses and evaluates a work (book, film, exhibition, etc.)._
 
@@ -1026,7 +1026,7 @@ It requires teaching students the specific conventions of this text genre and ho
 ---
 
 
-### 33. Popular science article `INS_ART_DIV`
+### 33. Popular science article `EVI_ART_DIV`
 
 _Informative text that communicates a topic to a general audience in accessible language._
 
@@ -1047,7 +1047,7 @@ It is especially suitable for assessing communication competency and the ability
 ---
 
 
-### 34. Project report `INS_MEM_PROY`
+### 34. Project report `EVI_MEM_PROY`
 
 _Document that records, justifies and evaluates the development and results of a project._
 
@@ -1068,7 +1068,7 @@ It is especially suitable for project-based work because it captures both the pr
 ---
 
 
-### 35. Work plan `INS_PLAN_TRAB`
+### 35. Work plan `EVI_PLAN_TRAB`
 
 _Document in which the student or group plans tasks, timing and responsibilities._
 
@@ -1089,7 +1089,7 @@ It is especially useful for assessing planning capacity and self-regulation, as 
 ---
 
 
-### 36. Meeting minutes `INS_ACTA`
+### 36. Meeting minutes `EVI_ACTA`
 
 _Written record of a group meeting: agreements, tasks and responsibilities._
 
@@ -1110,7 +1110,7 @@ They are especially useful in project-based work as evidence of the collaborativ
 ---
 
 
-### 37. Learning contract `INS_CONTRATO`
+### 37. Learning contract `EVI_CONTRATO`
 
 _Agreement between student and teacher on learning objectives, activities and evaluation criteria._
 
@@ -1131,7 +1131,7 @@ It is especially suitable for personalised learning environments and for student
 ---
 
 
-### 38. Reflection sheet `INS_F_REFLEX`
+### 38. Reflection sheet `EVI_F_REFLEX`
 
 _Structured questionnaire that guides the student in reflecting on their learning or process._
 
@@ -1152,7 +1152,7 @@ It requires teaching students what meaningful reflection means to avoid superfic
 ---
 
 
-### 39. Self-report `INS_AUTOINF`
+### 39. Self-report `EVI_AUTOINF`
 
 _Free or guided written account in which the student assesses their own learning and performance._
 
@@ -1173,7 +1173,7 @@ It is especially suitable for summative self-assessment periods and for older st
 ---
 
 
-### 40. Problem solving `INS_PROB`
+### 40. Problem solving `EVI_PROB`
 
 _Resolving a real or simulated problem that requires applying knowledge and skills in context._
 
@@ -1194,7 +1194,7 @@ It is one of the most valid instruments for assessing learning transfer and comp
 ---
 
 
-### 41. Case study `INS_CASO`
+### 41. Case study `EVI_CASO`
 
 _Analysis of a real or simulated situation requiring argumentation, decision-making or proposals._
 
@@ -1215,7 +1215,7 @@ It is one of the most complete instruments for assessing competency-based thinki
 ---
 
 
-### 42. Written development test `INS_PR_DES`
+### 42. Written development test `EVI_PR_DES`
 
 _Written exam requiring extended answers, justifications or argumentation._
 
@@ -1236,7 +1236,7 @@ It is important to provide clear marking criteria beforehand and to teach studen
 ---
 
 
-### 43. Objective test `INS_PR_OBJ`
+### 43. Objective test `EVI_PR_OBJ`
 
 _Test with closed questions (true/false, matching, fill-in-the-blank) that admit a single correct answer._
 
@@ -1257,7 +1257,7 @@ It is effective for assessing recall and recognition, though it is less suitable
 ---
 
 
-### 44. Multiple-choice test `INS_TEST`
+### 44. Multiple-choice test `EVI_TEST`
 
 _Test with multiple-choice questions, each with several options and a single correct answer._
 
@@ -1278,7 +1278,7 @@ It is efficient and reliable for assessing recall, but has limited validity for 
 ---
 
 
-### 45. Short-answer test `INS_RESP_CORTA`
+### 45. Short-answer test `EVI_RESP_CORTA`
 
 _Test with questions requiring brief written answers — a word, a sentence or a short paragraph._
 
@@ -1299,7 +1299,7 @@ It is more flexible than multiple-choice for detecting understanding, though it 
 ---
 
 
-### 46. Oral test `INS_PR_ORAL`
+### 46. Oral test `EVI_PR_ORAL`
 
 _Individual oral assessment of knowledge or competency through questions and answers._
 
@@ -1320,7 +1320,7 @@ It is particularly valuable for assessing understanding that is difficult to det
 ---
 
 
-### 47. Practical test `INS_PR_PRACT`
+### 47. Practical test `EVI_PR_PRACT`
 
 _Assessment activity requiring demonstration of practical skills or application of procedures._
 
@@ -1341,7 +1341,7 @@ It is especially valid for assessing practical competencies that cannot be asses
 ---
 
 
-### 48. Contextualised competency test `INS_PR_COMP`
+### 48. Contextualised competency test `EVI_PR_COMP`
 
 _Assessment activity set in a real context that requires applying several competencies simultaneously._
 
@@ -1362,7 +1362,7 @@ It is the most rigorous instrument for competency-based assessment but requires 
 ---
 
 
-### 49. Document-based test `INS_DOCS`
+### 49. Document-based test `EVI_DOCS`
 
 _Written test that uses primary or secondary sources as the basis for analysis and response._
 
@@ -1383,7 +1383,7 @@ It is especially suitable for assessing historical, geographical and scientific 
 ---
 
 
-### 50. Digital questionnaire `INS_CUEST_DIG`
+### 50. Digital questionnaire `EVI_CUEST_DIG`
 
 _Online questionnaire with various question types, automated feedback and immediate results._
 
@@ -1404,7 +1404,7 @@ Automatic feedback should be complemented with teacher comments to promote genui
 ---
 
 
-### 51. Infographic `INS_INFOG`
+### 51. Infographic `EVI_INFOG`
 
 _Visual document that presents information or data in a clear, attractive and structured format._
 
@@ -1425,7 +1425,7 @@ It is especially suitable for assessing visual communication competency and the 
 ---
 
 
-### 52. Academic poster `INS_POSTER`
+### 52. Academic poster `EVI_POSTER`
 
 _Visual document presenting the results of a project or research in a structured and synthetic format._
 
@@ -1446,7 +1446,7 @@ It is especially suitable for scientific communication and for presenting projec
 ---
 
 
-### 53. Digital presentation `INS_PRESENT_DIG`
+### 53. Digital presentation `EVI_PRESENT_DIG`
 
 _Visual presentation created with digital tools to support an oral or written exposition._
 
@@ -1467,7 +1467,7 @@ It is a very common instrument but tends to assess slide design more than depth 
 ---
 
 
-### 54. Video `INS_VIDEO`
+### 54. Video `EVI_VIDEO`
 
 _Audiovisual product created by students to explain, demonstrate or communicate content._
 
@@ -1488,7 +1488,7 @@ It requires access to recording and editing tools and clear prior instruction on
 ---
 
 
-### 55. Video tutorial `INS_TUTORIAL`
+### 55. Video tutorial `EVI_TUTORIAL`
 
 _Instructional video in which the student explains a procedure or concept step by step._
 
@@ -1509,7 +1509,7 @@ The act of teaching others ('learning by teaching') is one of the most powerful 
 ---
 
 
-### 56. Podcast `INS_PODCAST`
+### 56. Podcast `EVI_PODCAST`
 
 _Recorded audio episode in which students discuss, explain or investigate a topic._
 
@@ -1530,7 +1530,7 @@ It is especially suitable for assessing oral communication competency in a digit
 ---
 
 
-### 57. Comic `INS_COMIC`
+### 57. Comic `EVI_COMIC`
 
 _Narrative visual production that combines images and text to tell a story or explain a concept._
 
@@ -1551,7 +1551,7 @@ It is especially motivating for students who communicate better through visual o
 ---
 
 
-### 58. Scale model `INS_MAQUETA`
+### 58. Scale model `EVI_MAQUETA`
 
 _Three-dimensional physical object that represents a structure, place or concept._
 
@@ -1572,7 +1572,7 @@ It is especially suitable for inclusive assessment (UDL) as it allows students w
 ---
 
 
-### 59. Digital model `INS_MODELO_DIG`
+### 59. Digital model `EVI_MODELO_DIG`
 
 _Digital representation (3D, interactive or simulation) of a concept, structure or process._
 
@@ -1593,7 +1593,7 @@ It is especially suitable for STEM subjects and for assessing digital and spatia
 ---
 
 
-### 60. Prototype `INS_PROTOTIPO`
+### 60. Prototype `EVI_PROTOTIPO`
 
 _First functional version of a product or solution designed to respond to a real problem._
 
@@ -1614,7 +1614,7 @@ It is one of the most authentic instruments for project-based assessment and des
 ---
 
 
-### 61. Website `INS_WEB`
+### 61. Website `EVI_WEB`
 
 _Website or web page created by students as a product or learning portfolio._
 
@@ -1635,7 +1635,7 @@ It is especially suitable for digital competency projects and for creating authe
 ---
 
 
-### 62. Blog post `INS_BLOG`
+### 62. Blog post `EVI_BLOG`
 
 _Published digital text in which students write about a topic for a real or simulated audience._
 
@@ -1656,7 +1656,7 @@ It is especially suitable for practising writing for real audiences and for deve
 ---
 
 
-### 63. Discussion forum `INS_FORO`
+### 63. Discussion forum `EVI_FORO`
 
 _Online space where students share, discuss and respond to contributions on a topic._
 
@@ -1677,7 +1677,7 @@ It is especially suitable for asynchronous learning environments and for develop
 ---
 
 
-### 64. Collaborative document `INS_DOC_COL`
+### 64. Collaborative document `EVI_DOC_COL`
 
 _Shared digital document created jointly by several students, with revision history._
 
@@ -1698,7 +1698,7 @@ It is especially suitable for cooperative writing projects and for assessing bot
 ---
 
 
-### 65. Digital portfolio `INS_PORT_DIG`
+### 65. Digital portfolio `EVI_PORT_DIG`
 
 _Digital collection of works, reflections and evidence of learning organised and published online._
 
@@ -1719,7 +1719,7 @@ It is especially suitable for continuous assessment, digital competency and shar
 ---
 
 
-### 66. KPSI `INS_KPSI`
+### 66. KPSI `EVI_KPSI`
 
 _Self-assessment questionnaire to detect prior knowledge and self-perception of competency level._
 
@@ -1740,7 +1740,7 @@ It should be used with care: it assesses self-perceived competency, not actual c
 ---
 
 
-### 67. Initial concept map `INS_MAP_INI`
+### 67. Initial concept map `EVI_MAP_INI`
 
 _Concept map created at the start of a topic to show initial knowledge and organisation._
 
@@ -1761,7 +1761,7 @@ It is a simple diagnostic instrument but requires teaching students to build con
 ---
 
 
-### 68. Brainstorming `INS_LLUVIA`
+### 68. Brainstorming `EVI_LLUVIA`
 
 _Collective or individual activity for generating and recording ideas freely on a topic._
 
@@ -1782,7 +1782,7 @@ It is especially useful as a lesson starter or topic introduction, and for getti
 ---
 
 
-### 69. Draft `INS_BORR`
+### 69. Draft `EVI_BORR`
 
 _Preliminary version of a written or visual work used to improve before the final product._
 
@@ -1803,7 +1803,7 @@ The draft is especially valuable in writing process assessment and in formative 
 ---
 
 
-### 70. Partial submission `INS_ENT_PAR`
+### 70. Partial submission `EVI_ENT_PAR`
 
 _Intermediate delivery of a section or stage of a project or extended task._
 
@@ -1824,7 +1824,7 @@ It is especially useful for managing extended projects and promoting sustained a
 ---
 
 
-### 71. Project log `INS_BIT`
+### 71. Project log `EVI_BIT`
 
 _Sequential record of decisions, advances and difficulties throughout the development of a project._
 
@@ -1845,7 +1845,7 @@ It is one of the most complete instruments for assessing the process in project-
 ---
 
 
-### 72. Peer review `INS_REV_PARES`
+### 72. Peer review `EVI_REV_PARES`
 
 _Activity in which students assess or give feedback on a peer's work using criteria._
 
@@ -1866,7 +1866,7 @@ It is important to train students in how to give constructive feedback and to en
 ---
 
 
-### 73. Two stars and a wish `INS_2E1D`
+### 73. Two stars and a wish `EVI_2E1D`
 
 _Simple peer feedback technique identifying two strengths and one area for improvement._
 
@@ -1887,7 +1887,7 @@ It is especially suitable for introducing peer assessment in early stages or wit
 ---
 
 
-### 74. Learning traffic light `INS_SEMAF`
+### 74. Learning traffic light `EVI_SEMAF`
 
 _Quick self-assessment using three colours to indicate level of understanding or confidence._
 
@@ -1908,7 +1908,7 @@ It assesses self-perceived understanding, not actual understanding. It gains val
 ---
 
 
-### 75. Exit ticket `INS_BILLETE`
+### 75. Exit ticket `EVI_BILLETE`
 
 _Brief written response at the end of a session to check understanding and raise doubts._
 
@@ -1929,7 +1929,7 @@ It is especially quick and easy to implement and provides very direct informatio
 ---
 
 
-### 76. Open-book test `INS_LIBRO_ABIERTO`
+### 76. Open-book test `EVI_LIBRO_ABIERTO`
 
 _Written test in which students can consult materials, notes or sources during the exam._
 
@@ -1950,7 +1950,7 @@ It is especially suitable for competency-based assessment and for assessing high
 ---
 
 
-### 77. Integrated competency task `INS_TAREA_COMP_INT`
+### 77. Integrated competency task `EVI_TAREA_COMP_INT`
 
 _Complex task that integrates several competencies and areas of knowledge around a real situation._
 
@@ -1971,7 +1971,7 @@ It is the most complete instrument for competency-based assessment but requires 
 ---
 
 
-### 78. Problem-situation `INS_SIT_PROB`
+### 78. Problem-situation `EVI_SIT_PROB`
 
 _Real or simulated situation that poses a challenge requiring the student to apply competencies to resolve it._
 
@@ -1992,7 +1992,7 @@ It is especially suitable for assessing learning transfer and the ability to mob
 ---
 
 
-### 79. Escape room or gamified challenge `INS_ESCAPE`
+### 79. Escape room or gamified challenge `EVI_ESCAPE`
 
 _Gamified activity in which students must solve challenges or puzzles using knowledge and teamwork._
 
@@ -2013,7 +2013,7 @@ It is especially suitable for assessing application of knowledge in novel contex
 ---
 
 
-### 80. Socratic seminar `INS_SEMINARIO`
+### 80. Socratic seminar `EVI_SEMINARIO`
 
 _Structured dialogue based on open questions and evidence._
 
@@ -2034,7 +2034,7 @@ It allows assessing critical thinking and deep understanding, but requires train
 ---
 
 
-### 81. Laboratory checklist `INS_CHECK_LAB`
+### 81. Laboratory checklist `EVI_CHECK_LAB`
 
 _Observation and self-recording activity for procedures, safety and data in the laboratory._
 
@@ -2055,7 +2055,7 @@ Note: strictly speaking, a checklist is also an assessment instrument (list of c
 ---
 
 
-### 82. Digital notebook `INS_CUAD_DIG`
+### 82. Digital notebook `EVI_CUAD_DIG`
 
 _Continuous digital record of activities, notes, evidence and reflections._
 
@@ -2076,7 +2076,7 @@ It is useful for continuous assessment and digital competency, provided there ar
 ---
 
 
-### 83. E-portfolio with selected evidence `INS_EPORT_SEL`
+### 83. E-portfolio with selected evidence `EVI_EPORT_SEL`
 
 _Digital portfolio where students select and justify their learning evidence._
 
@@ -2097,7 +2097,7 @@ It is especially suitable for continuous, criteria-based and competency-based as
 ---
 
 
-### 84. Field notebook `INS_CUAD_CAMPO`
+### 84. Field notebook `EVI_CUAD_CAMPO`
 
 _Record of observations, data and reflections during outdoor or real-world activities._
 
@@ -2105,7 +2105,7 @@ _Record of observations, data and reflections during outdoor or real-world activ
 
 _Keywords: field notebook, outdoor, observation, nature_
 
-The field notebook is the record produced by the student during activities carried out outside the classroom: field trips, visits, environmental studies or activities in natural spaces. Unlike the classroom notebook (INS_CUADERNO), it documents real-time observations in uncontrolled contexts; unlike the laboratory report (INS_INFO_LAB), it does not follow a closed experimental structure, but collects notes, sketches, measurements and on-the-spot reflections.
+The field notebook is the record produced by the student during activities carried out outside the classroom: field trips, visits, environmental studies or activities in natural spaces. Unlike the classroom notebook (EVI_CUADERNO), it documents real-time observations in uncontrolled contexts; unlike the laboratory report (EVI_INFO_LAB), it does not follow a closed experimental structure, but collects notes, sketches, measurements and on-the-spot reflections.
 
 How to use it for assessment: the student records direct observations, measured data, drawings or sketches, emerging questions and initial reflections. The teacher assesses the accuracy and completeness of observations, the ability to record relevant data, and the quality of reflection on what was observed. A correction guide listing the expected elements supports consistent assessment.
 
@@ -2118,7 +2118,7 @@ It is especially useful in natural sciences, geography, environmental education,
 ---
 
 
-### 85. Educational micro-video `INS_MICROVIDEO`
+### 85. Educational micro-video `EVI_MICROVIDEO`
 
 _Short video (60–90 s) that explains, communicates or argues about a topic._
 
@@ -2126,7 +2126,7 @@ _Short video (60–90 s) that explains, communicates or argues about a topic._
 
 _Keywords: micro-video, short, reel, educational, digital_
 
-An educational micro-video is a short audiovisual production (usually between 60 and 90 seconds) in which the student explains a concept, argues a position, summarises a topic or communicates results in a concise and direct way. It differs from a conventional video (INS_VIDEO) in that it requires maximum condensation of the message; and from a video tutorial (INS_TUTORIAL) in that it does not necessarily follow a step-by-step procedural structure.
+An educational micro-video is a short audiovisual production (usually between 60 and 90 seconds) in which the student explains a concept, argues a position, summarises a topic or communicates results in a concise and direct way. It differs from a conventional video (EVI_VIDEO) in that it requires maximum condensation of the message; and from a video tutorial (EVI_TUTORIAL) in that it does not necessarily follow a step-by-step procedural structure.
 
 How to use it for assessment: clarity and accuracy of the message, suitability for the intended audience, narrative structure within the limited duration, correctness of content and basic technical quality (image, sound) are all assessed. An analytical rubric that distinguishes between content and production allows specific feedback. Peer assessment is particularly natural for this format.
 
@@ -2139,7 +2139,7 @@ It is motivating for students who learn better through visual and oral formats t
 ---
 
 
-### 86. AI process log `INS_BIT_IA`
+### 86. AI process log `EVI_BIT_IA`
 
 _Record of the work process, AI use, sources, versions and decisions made._
 
@@ -2160,7 +2160,7 @@ It supports assessment of authorship, critical thinking, revision, improvement a
 ---
 
 
-### 87. Response cards / mini-whiteboards `INS_TARJ_RESP`
+### 87. Response cards / mini-whiteboards `EVI_TARJ_RESP`
 
 _Immediate-response evidence in which the whole group answers at once with cards (A/B/C/D), thumbs or individual mini-whiteboards, giving the teacher an instant snapshot of understanding._
 
@@ -2181,7 +2181,7 @@ Its value is immediacy and universal participation: it makes learning visible in
 ---
 
 
-### 88. Storyboard `INS_STORYBOARD`
+### 88. Storyboard `EVI_STORYBOARD`
 
 _A sequence of frames that visually plans a video, animation or digital story: each panel sketches the image, the action and the text or audio, before producing the final piece._
 
@@ -2205,7 +2205,7 @@ Its value is making the thinking that precedes production visible and separating
 ## Evaluation instruments
 
 
-### 1. Analytic rubric `HER_RUB_ANA`
+### 1. Analytic rubric `INS_RUB_ANA`
 
 _Matrix that assesses separate criteria using described levels._
 
@@ -2261,7 +2261,7 @@ The final mark is obtained by adding the score for each criterion (maximum 16 po
 ---
 
 
-### 2. Global or holistic rubric `HER_RUB_HOL`
+### 2. Global or holistic rubric `INS_RUB_HOL`
 
 _Rubric that assesses performance holistically._
 
@@ -2286,7 +2286,7 @@ Suitable when time is limited, when the task is short, or when a quick overall a
 ---
 
 
-### 3. Process rubric `HER_RUB_PROC`
+### 3. Process rubric `INS_RUB_PROC`
 
 _Rubric focused on planning, monitoring, revision and improvement._
 
@@ -2311,7 +2311,7 @@ It is essential in long-duration projects, research and learning portfolios, whe
 ---
 
 
-### 4. Product rubric `HER_RUB_PROD`
+### 4. Product rubric `INS_RUB_PROD`
 
 _Rubric focused on the quality of the final product._
 
@@ -2336,7 +2336,7 @@ It complements the process rubric in extended projects. Used alone, it may lead 
 ---
 
 
-### 5. Oral rubric `HER_RUB_ORAL`
+### 5. Oral rubric `INS_RUB_ORAL`
 
 _Rubric for presentations, debates, defences or interviews._
 
@@ -2361,7 +2361,7 @@ Sharing it before the performance allows students to prepare more effectively an
 ---
 
 
-### 6. Cooperative work rubric `HER_RUB_COOP`
+### 6. Cooperative work rubric `INS_RUB_COOP`
 
 _Rubric for assessing collaboration and group functioning._
 
@@ -2386,7 +2386,7 @@ It is especially useful for preventing group work from diluting individual respo
 ---
 
 
-### 7. Competency rubric `HER_RUB_COMP`
+### 7. Competency rubric `INS_RUB_COMP`
 
 _Matrix linked to criteria and competency performance levels._
 
@@ -2411,7 +2411,7 @@ It is the most suitable assessment tool for competency-based assessment required
 ---
 
 
-### 8. Checklist `HER_LISTA`
+### 8. Checklist `INS_LISTA`
 
 _List of indicators with presence or absence._
 
@@ -2436,7 +2436,7 @@ Fast to apply and very useful for activities with clear, closed requirements: la
 ---
 
 
-### 9. Observation scale `HER_ESC_OBS`
+### 9. Observation scale `INS_ESC_OBS`
 
 _Scale for assessing frequency, intensity or degree of a performance._
 
@@ -2461,7 +2461,7 @@ Useful for assessing participation, attitudes, procedures and social skills in g
 ---
 
 
-### 10. Rating scale `HER_ESC_VAL`
+### 10. Rating scale `INS_ESC_VAL`
 
 _Graduated scale for assessing degree of achievement._
 
@@ -2486,7 +2486,7 @@ Suitable when the teacher has enough experience to apply criteria implicitly, bu
 ---
 
 
-### 11. Descriptive scale `HER_ESC_DESC`
+### 11. Descriptive scale `INS_ESC_DESC`
 
 _Scale whose levels include descriptions._
 
@@ -2511,7 +2511,7 @@ It is a good starting point for teachers who want to introduce more explicit cri
 ---
 
 
-### 12. Correction guide `HER_GUIA_CORR`
+### 12. Correction guide `INS_GUIA_CORR`
 
 _Document with criteria, expected answers or marking guidelines._
 
@@ -2536,7 +2536,7 @@ It increases the consistency of marking across different marking sessions by the
 ---
 
 
-### 13. Correction template `HER_PLANT_CORR`
+### 13. Correction template `INS_PLANT_CORR`
 
 _Format for recording scores or correct answers._
 
@@ -2561,7 +2561,7 @@ Especially useful when there are many tests to mark or when several teachers are
 ---
 
 
-### 14. Scoring scale `HER_BAREMO`
+### 14. Scoring scale `INS_BAREMO`
 
 _Distribution of points among sections or indicators._
 
@@ -2586,7 +2586,7 @@ A well-designed scoring scale reflects the relative importance of each content a
 ---
 
 
-### 15. Anecdotal record `HER_REG_ANE`
+### 15. Anecdotal record `INS_REG_ANE`
 
 _Brief note of significant observed events._
 
@@ -2611,7 +2611,7 @@ Especially useful in stages without numerical grading, for completing descriptiv
 ---
 
 
-### 16. Descriptive record `HER_REG_DESC`
+### 16. Descriptive record `INS_REG_DESC`
 
 _Detailed record of performances, processes or behaviours._
 
@@ -2636,7 +2636,7 @@ It allows families and the student themselves to receive a rich and nuanced pict
 ---
 
 
-### 17. Teacher's diary `HER_DIARIO_PROF`
+### 17. Teacher's diary `INS_DIARIO_PROF`
 
 _Notebook or document with observations and pedagogical decisions._
 
@@ -2661,7 +2661,7 @@ It is not just a record of what happened, but a tool for improving teaching prac
 ---
 
 
-### 18. Individual tracking sheet `HER_HOJA_IND`
+### 18. Individual tracking sheet `INS_HOJA_IND`
 
 _Record of a student's progress over time._
 
@@ -2686,7 +2686,7 @@ Especially useful for personalised monitoring in groups with diverse needs, for 
 ---
 
 
-### 19. Group tracking sheet `HER_HOJA_GRUP`
+### 19. Group tracking sheet `INS_HOJA_GRUP`
 
 _Record of a group's progress and functioning._
 
@@ -2711,7 +2711,7 @@ It is a very useful classroom monitoring tool for teachers with multiple groups,
 ---
 
 
-### 20. Participation record `HER_REG_PART`
+### 20. Participation record `INS_REG_PART`
 
 _Note of contributions and quality of input._
 
@@ -2736,7 +2736,7 @@ It allows objective feedback to be given on participation, identifies who never 
 ---
 
 
-### 21. Cooperative work record `HER_REG_COOP`
+### 21. Cooperative work record `INS_REG_COOP`
 
 _Document for noting roles, contributions and group compliance._
 
@@ -2761,7 +2761,7 @@ Especially useful in extended group projects and activities, where the team's fu
 ---
 
 
-### 22. Field notes `HER_NOTAS_CAMPO`
+### 22. Field notes `INS_NOTAS_CAMPO`
 
 _Teacher's notes during activities, practical sessions or field trips._
 
@@ -2786,7 +2786,7 @@ They are the basis of incidental observation and anecdotal records. Over time, a
 ---
 
 
-### 23. Assessment card `HER_FICHA_VAL`
+### 23. Assessment card `INS_FICHA_VAL`
 
 _Brief document for assessing a specific task._
 
@@ -2811,7 +2811,7 @@ More flexible than a fixed rubric and more informative than a grade alone. Suita
 ---
 
 
-### 24. Feedback card `HER_FICHA_RETRO`
+### 24. Feedback card `INS_FICHA_RETRO`
 
 _Template for returning strengths and areas for improvement._
 
@@ -2836,7 +2836,7 @@ Feedback is most effective when it is specific, timely and improvement-oriented.
 ---
 
 
-### 25. Assessment matrix `HER_MATRIZ`
+### 25. Assessment matrix `INS_MATRIZ`
 
 _Table relating criteria, indicators and levels._
 
@@ -2861,7 +2861,7 @@ It is a generic term that encompasses analytic rubrics. The main difference from
 ---
 
 
-### 26. Descriptor bank `HER_BANCO_DESC`
+### 26. Descriptor bank `INS_BANCO_DESC`
 
 _Collection of phrases for describing performance levels._
 
@@ -2886,7 +2886,7 @@ It is an efficiency tool that reduces the time needed to design assessment instr
 ---
 
 
-### 27. Achievement profile `HER_PERFIL_LOGRO`
+### 27. Achievement profile `INS_PERFIL_LOGRO`
 
 _Representation of the degree achieved in criteria or competencies._
 
@@ -2911,7 +2911,7 @@ Within the framework of competency-based assessment, the achievement profile is 
 ---
 
 
-### 28. Assessment target `HER_DIANA`
+### 28. Assessment target `INS_DIANA`
 
 _Radial representation of several assessed aspects._
 
@@ -2936,7 +2936,7 @@ Especially useful for self-assessment, peer assessment and visual communication 
 ---
 
 
-### 29. Assessment traffic light `HER_SEMAFORO`
+### 29. Assessment traffic light `INS_SEMAFORO`
 
 _Visual system of achievement, doubt or difficulty._
 
@@ -2961,7 +2961,7 @@ Suitable for quick formative monitoring, communication to families and self-asse
 ---
 
 
-### 30. Self-assessment scale `HER_ESC_AUTO`
+### 30. Self-assessment scale `INS_ESC_AUTO`
 
 _Scale for students to assess their own achievement._
 
@@ -2986,7 +2986,7 @@ Its value is primarily metacognitive: it requires the student to reflect on thei
 ---
 
 
-### 31. Self-assessment rubric `HER_RUB_AUTO`
+### 31. Self-assessment rubric `INS_RUB_AUTO`
 
 _Rubric used by students on their own work._
 
@@ -3011,7 +3011,7 @@ Especially useful in learning portfolios, projects and complex tasks where the s
 ---
 
 
-### 32. Peer assessment rubric `HER_RUB_COEV`
+### 32. Peer assessment rubric `INS_RUB_COEV`
 
 _Rubric for assessing peers' work._
 
@@ -3036,7 +3036,7 @@ For it to be effective, students must have practised applying the criteria befor
 ---
 
 
-### 33. Peer assessment card `HER_FICHA_COEV`
+### 33. Peer assessment card `INS_FICHA_COEV`
 
 _Brief template for assessing peers._
 
@@ -3061,7 +3061,7 @@ It is a good introduction to peer assessment for groups with no prior experience
 ---
 
 
-### 34. Self-assessment checklist `HER_LISTA_AUTO`
+### 34. Self-assessment checklist `INS_LISTA_AUTO`
 
 _Checklist used by students to review requirements._
 
@@ -3086,7 +3086,7 @@ Especially useful for tasks with clear, closed requirements (format of a report,
 ---
 
 
-### 35. Improvement commitments record `HER_REG_COMP`
+### 35. Improvement commitments record `INS_REG_COMP`
 
 _Document with improvement objectives and actions._
 
@@ -3111,7 +3111,7 @@ It closes the formative assessment cycle: gathering evidence → feedback → im
 ---
 
 
-### 36. Grade book `HER_CUAD_CAL`
+### 36. Grade book `INS_CUAD_CAL`
 
 _Organised record of results, tasks and criteria._
 
@@ -3136,7 +3136,7 @@ Beyond being an administrative record, it can be used to detect trends (students
 ---
 
 
-### 37. Criteria grading table `HER_TAB_CRIT`
+### 37. Criteria grading table `INS_TAB_CRIT`
 
 _Table relating evidence to assessment criteria._
 
@@ -3161,7 +3161,7 @@ It allows students and families to know exactly which criteria the student is pe
 ---
 
 
-### 38. Weighting matrix `HER_MATRIZ_POND`
+### 38. Weighting matrix `INS_MATRIZ_POND`
 
 _Table of relative weights of criteria, evidence or tools._
 
@@ -3186,7 +3186,7 @@ A good weighting matrix reflects pedagogical priorities: if the process is as im
 ---
 
 
-### 39. Numerical scale `HER_ESC_NUM`
+### 39. Numerical scale `INS_ESC_NUM`
 
 _Assessment expressed with numbers._
 
@@ -3211,7 +3211,7 @@ Its advantage is ease of communication and calculation. Its limitation is that i
 ---
 
 
-### 40. Verbal scale `HER_ESC_VERB`
+### 40. Verbal scale `INS_ESC_VERB`
 
 _Categories such as beginning, developing, adequate, advanced._
 
@@ -3236,7 +3236,7 @@ It has the advantage of being more descriptive than a numerical grade and commun
 ---
 
 
-### 41. Level-to-grade converter `HER_CONV`
+### 41. Level-to-grade converter `INS_CONV`
 
 _Rule that transforms achievement levels into a grade._
 
@@ -3261,7 +3261,7 @@ It allows qualitative, learning-oriented assessment to be combined with the regu
 ---
 
 
-### 42. Assessment spreadsheet `HER_HOJA_CALC`
+### 42. Assessment spreadsheet `INS_HOJA_CALC`
 
 _Digital workbook for recording, calculating and analysing data._
 
@@ -3286,7 +3286,7 @@ It is the most efficient assessment tool for managing grading in large groups. W
 ---
 
 
-### 43. Individual assessment report `HER_INF_IND`
+### 43. Individual assessment report `INS_INF_IND`
 
 _Document communicating progress, achievements and guidance._
 
@@ -3311,7 +3311,7 @@ It is the most comprehensive communication document between the school and the f
 ---
 
 
-### 44. Assessment record `HER_ACTA`
+### 44. Assessment record `INS_ACTA`
 
 _Formal record of decisions and results._
 
@@ -3336,7 +3336,7 @@ It is the final record of the assessment process. Its correct completion is an a
 ---
 
 
-### 45. Digital form `HER_FORM_DIG`
+### 45. Digital form `INS_FORM_DIG`
 
 _Form for collecting responses or assessments._
 
@@ -3361,7 +3361,7 @@ It saves marking time for closed assessments, facilitates analysis of group resu
 ---
 
 
-### 46. Digital rubric `HER_RUB_DIG`
+### 46. Digital rubric `INS_RUB_DIG`
 
 _Rubric integrated in a digital platform._
 
@@ -3386,7 +3386,7 @@ It reduces marking time, facilitates consistency across marking sessions and all
 ---
 
 
-### 47. Revision history `HER_HIST_REV`
+### 47. Revision history `INS_HIST_REV`
 
 _Record of changes in shared documents._
 
@@ -3411,7 +3411,7 @@ It is very valuable process evidence in digital group work, as it makes visible 
 ---
 
 
-### 48. Progress dashboard `HER_PANEL`
+### 48. Progress dashboard `INS_PANEL`
 
 _View of progress on tasks, criteria or competencies._
 
@@ -3436,7 +3436,7 @@ It promotes transparency, self-regulation and motivation. In digital versions, i
 ---
 
 
-### 49. Learning analytics `HER_ANALITICAS`
+### 49. Learning analytics `INS_ANALITICAS`
 
 _Access, participation or activity data on platforms._
 
@@ -3461,7 +3461,7 @@ Especially useful for identifying group and individual trends efficiently. The t
 ---
 
 
-### 50. Digital evidence bank `HER_BANCO_EVID`
+### 50. Digital evidence bank `INS_BANCO_EVID`
 
 _Digital folder or space with assessment evidence._
 
@@ -3486,7 +3486,7 @@ It is the foundation of the digital portfolio. It enables continuous assessment,
 ---
 
 
-### 51. List of indicators per criterion `HER_IND_CRIT`
+### 51. List of indicators per criterion `INS_IND_CRIT`
 
 _Breakdown of a criterion into observable indicators._
 
@@ -3511,7 +3511,7 @@ It is useful for making criteria-based assessment more transparent.
 ---
 
 
-### 52. Progress scale `HER_ESC_PROG`
+### 52. Progress scale `INS_ESC_PROG`
 
 _Scale describing successive advances towards a learning goal._
 
@@ -3536,7 +3536,7 @@ Very useful for continuous assessment and self-regulation, because it helps unde
 ---
 
 
-### 53. Observation guide `HER_GUIA_OBS`
+### 53. Observation guide `INS_GUIA_OBS`
 
 _Document with focus areas, indicators and guidelines for observing a performance._
 
@@ -3561,7 +3561,7 @@ Especially useful when several teachers are observing or when the activity is co
 ---
 
 
-### 54. Feedback/feedforward template `HER_PLANT_FF`
+### 54. Feedback/feedforward template `INS_PLANT_FF`
 
 _Template for indicating current achievement, necessary improvement and next step._
 
@@ -3586,7 +3586,7 @@ Its strength lies in shifting marking from final judgement towards future improv
 ---
 
 
-### 55. Group contract `HER_CONTR_GRUP`
+### 55. Group contract `INS_CONTR_GRUP`
 
 _Agreement on roles, commitments and operating norms of a team._
 
@@ -3611,7 +3611,7 @@ Useful for assessing and regulating the cooperative process more fairly.
 ---
 
 
-### 56. Sociogram `HER_SOCIO`
+### 56. Sociogram `INS_SOCIO`
 
 _Representation of relationships, choices or dynamics within the group._
 
@@ -3636,7 +3636,7 @@ It is an assessment tool of the social context of learning rather than of academ
 ---
 
 
-### 57. Evidence map by criterion `HER_MAP_EVID`
+### 57. Evidence map by criterion `INS_MAP_EVID`
 
 _Table linking criteria to tasks, evidence and assessment instruments._
 
@@ -3661,7 +3661,7 @@ It is a key assessment tool for criteria-based assessment and evidence triangula
 ---
 
 
-### 58. AI and sources use declaration `HER_DECL_IA`
+### 58. AI and sources use declaration `INS_DECL_IA`
 
 _Template for declaring support, sources, AI tools and personal decisions in a task._
 
@@ -3686,7 +3686,7 @@ It does not replace a rubric or prove learning by itself, but it helps turn AI u
 ---
 
 
-### 59. Table of specifications `HER_TAB_ESPEC`
+### 59. Table of specifications `INS_TAB_ESPEC`
 
 _A matrix crossing the content to be assessed with cognitive levels and distributing the weight of each item, to design balanced, valid tests before writing them._
 
@@ -3711,7 +3711,7 @@ Its value is to ensure content validity and a balanced test: it avoids biased ex
 ---
 
 
-### 60. Single-point rubric `HER_RUB_PUNTO`
+### 60. Single-point rubric `INS_RUB_PUNTO`
 
 _A rubric that describes only the target level (the expected performance) for each criterion, leaving space to note where work falls short and where it exceeds it. It simplifies design and prioritises feedback._
 
@@ -3736,7 +3736,7 @@ Its value is that it is quick to design, does not box learners into predefined l
 ---
 
 
-### 61. Ladder of feedback `HER_ESCAL_FB`
+### 61. Ladder of feedback `INS_ESCAL_FB`
 
 _A structured feedback protocol in four rungs —clarify, value, ask questions and suggest— that orders comments so they are respectful, specific and useful, especially among peers._
 
@@ -3761,7 +3761,7 @@ How to use it: before a peer-review session or a discussion of a piece of work, 
 ---
 
 
-### 62. Self-regulation guide (base of orientation) `HER_BASE_ORIENT`
+### 62. Self-regulation guide (base of orientation) `INS_BASE_ORIENT`
 
 _A guide listing the key steps and criteria for correctly carrying out a task or procedure, which learners use to self-regulate while working and later to self-assess._
 
@@ -4327,7 +4327,7 @@ _Keywords: gamification, game-based, escape room, challenge, badges_
 
 This dimension describes the didactic format or situation in which evidence is generated. It can combine several collection procedures.
 
-Gamified assessment incorporates game mechanics (challenges, points, badges, countdowns, regulated cooperation or competition) to collect evidence of learning in a highly motivating environment. It is not synonymous with a specific instrument such as an escape room (INS_ESCAPE), but rather the methodological approach that encompasses any strategy using games for assessment purposes.
+Gamified assessment incorporates game mechanics (challenges, points, badges, countdowns, regulated cooperation or competition) to collect evidence of learning in a highly motivating environment. It is not synonymous with a specific instrument such as an escape room (EVI_ESCAPE), but rather the methodological approach that encompasses any strategy using games for assessment purposes.
 
 How to apply it: tasks or challenges are designed with clear rules, visible achievement criteria and immediate feedback. Points or badges can be used as evidence of the level reached if they are aligned with real assessment criteria. Analytics from the gamified platform (time, attempts, correct answers) complement the teacher's observation but do not replace it.
 

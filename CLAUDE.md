@@ -73,11 +73,9 @@ Each technique JSON item may carry an `eval_ids` array of evaluation entity IDs.
 | Prefix | Category id | JSON file | i18n label |
 |--------|-------------|-----------|------------|
 | `TEC_` | `tecnicas` | `tecnicas.json` | `evalCatTec` |
-| `INS_` | `evidencias` | `evidencias.json` | `evalCatIns` |
-| `HER_` | `instrumentos` | `instrumentos.json` | `evalCatHer` |
+| `EVI_` | `evidencias` | `evidencias.json` | `evalCatEvi` |
+| `INS_` | `instrumentos` | `instrumentos.json` | `evalCatIns` |
 | `DIM_` | `dimensiones` | `dimensiones.json` | `evalCatDim` |
-
-Note the deliberate cross-naming: `evidencias.json` holds `INS_*` entities and `instrumentos.json` holds `HER_*` entities.
 
 `renderEvalSection(item)` (in `src/ui-tecnicas.js`) renders the "Cómo evaluar" block in the technique modal: it groups `eval_ids` by prefix, resolves each via `evalEntityById`, and renders a chip per resource. Clicking a chip pushes onto `S.modalHistory` and opens the eval modal.
 

@@ -354,7 +354,7 @@ Com aplicar-la: s'identifica quin criteri es vol valorar, quines evidències el 
 ## Evidències observables
 
 
-### 1. Treball individual a l'aula `INS_TRAB_IND`
+### 1. Treball individual a l'aula `EVI_TRAB_IND`
 
 _Activitat realitzada individualment durant la classe._
 
@@ -375,7 +375,7 @@ Com usar-lo per avaluar: mentre l'alumnat treballa, el docent circula per l'aula
 ---
 
 
-### 2. Treball cooperatiu `INS_TRAB_COOP`
+### 2. Treball cooperatiu `EVI_TRAB_COOP`
 
 _Activitat grupal amb repartiment de tasques i responsabilitat compartida._
 
@@ -396,7 +396,7 @@ Perquè l'avaluació sigui justa, no s'ha de reduir al producte final: dos grups
 ---
 
 
-### 3. Participació a classe `INS_PART`
+### 3. Participació a classe `EVI_PART`
 
 _Intervencions i aportacions de l'alumnat a l'aula._
 
@@ -417,7 +417,7 @@ Cal valorar la qualitat de les aportacions, no només la quantitat. Un alumne qu
 ---
 
 
-### 4. Debat `INS_DEBATE`
+### 4. Debat `EVI_DEBATE`
 
 _Discussió reglada sobre un tema amb arguments i torns._
 
@@ -438,7 +438,7 @@ El debat permet avaluar competències que no són visibles en proves escrites: a
 ---
 
 
-### 5. Col·loqui `INS_COLOQ`
+### 5. Col·loqui `EVI_COLOQ`
 
 _Conversa guiada per contrastar idees._
 
@@ -459,7 +459,7 @@ Com usar-lo per avaluar: el docent modera i observa amb una escala o rúbrica or
 ---
 
 
-### 6. Assemblea `INS_ASAM`
+### 6. Assemblea `EVI_ASAM`
 
 _Situació col·lectiva per prendre decisions o comentar processos._
 
@@ -480,7 +480,7 @@ No és una evidència d'avaluació acadèmica formal en sentit estricte, però s
 ---
 
 
-### 7. Pràctica de laboratori `INS_LAB`
+### 7. Pràctica de laboratori `EVI_LAB`
 
 _Activitat experimental o manipulativa en laboratori._
 
@@ -501,7 +501,7 @@ Com usar-la per avaluar: permet avaluar tant el procés (com aplica el protocol,
 ---
 
 
-### 8. Taller `INS_TALLER`
+### 8. Taller `EVI_TALLER`
 
 _Activitat pràctica orientada a produir, experimentar o resoldre._
 
@@ -522,7 +522,7 @@ Com usar-lo per avaluar: el docent observa el procés amb una llista de verifica
 ---
 
 
-### 9. Simulació `INS_SIM`
+### 9. Simulació `EVI_SIM`
 
 _Recreació d'una situació real o versemblant._
 
@@ -543,7 +543,7 @@ Permete avaluar habilitats difícils d'observar en altres situacions: presa de d
 ---
 
 
-### 10. Joc de rol `INS_ROL`
+### 10. Joc de rol `EVI_ROL`
 
 _Representació de papers per analitzar una situació._
 
@@ -564,7 +564,7 @@ Com usar-lo per avaluar: el docent observa l'actuació amb una rúbrica de desem
 ---
 
 
-### 11. Dramatització `INS_DRAMA`
+### 11. Dramatització `EVI_DRAMA`
 
 _Representació escènica d'una situació o contingut._
 
@@ -585,7 +585,7 @@ Com usar-la per avaluar: es valora l'expressió oral i corporal, la comprensió 
 ---
 
 
-### 12. Exposició oral `INS_EXPO`
+### 12. Exposició oral `EVI_EXPO`
 
 _Presentació planificada d'un tema._
 
@@ -606,7 +606,7 @@ Permete avaluar la competència comunicativa oral, la capacitat de síntesi i el
 ---
 
 
-### 13. Defensa de projecte `INS_DEF_PROY`
+### 13. Defensa de projecte `EVI_DEF_PROY`
 
 _Justificació oral d'un projecte o producte._
 
@@ -627,7 +627,7 @@ Afegeix valor al projecte perquè obliga l'alumnat a comprendre realment allò q
 ---
 
 
-### 14. Entrevista `INS_ENTREV`
+### 14. Entrevista `EVI_ENTREV`
 
 _Conversa estructurada amb preguntes i respostes._
 
@@ -648,7 +648,7 @@ Com usar-la per avaluar: el docent prepara un guió de preguntes obertes i regis
 ---
 
 
-### 15. Pregunta oral estructurada `INS_PREG_ORAL`
+### 15. Pregunta oral estructurada `EVI_PREG_ORAL`
 
 _Pregunta planificada per comprovar la comprensió._
 
@@ -669,7 +669,7 @@ Com usar-la per avaluar: el docent formula la pregunta, dóna temps de reflexió
 ---
 
 
-### 16. Quadern de classe `INS_CUADERNO`
+### 16. Quadern de classe `EVI_CUADERNO`
 
 _Registre d'activitats, apunts, exercicis i correccions._
 
@@ -690,7 +690,7 @@ Com usar-lo per avaluar: el docent pot revisar-lo periòdicament amb una llista 
 ---
 
 
-### 17. Diari d'aprenentatge `INS_DIARIO`
+### 17. Diari d'aprenentatge `EVI_DIARIO`
 
 _Registre reflexiu sobre aprenentatges i dificultats._
 
@@ -711,7 +711,7 @@ Com usar-lo per avaluar: el docent pot proporcionar preguntes guia ('què vaig a
 ---
 
 
-### 18. Portafoli `INS_PORT`
+### 18. Portafoli `EVI_PORT`
 
 _Col·lecció organitzada d'evidències i reflexions._
 
@@ -732,7 +732,7 @@ Permete una avaluació longitudinal i autèntica. Desenvolupa l'autonomia, la re
 ---
 
 
-### 19. Informe de laboratori `INS_INFO_LAB`
+### 19. Informe de laboratori `EVI_INFO_LAB`
 
 _Document amb objectiu, procediment, dades, anàlisi i conclusions._
 
@@ -753,7 +753,7 @@ Combina l'avaluació del procés (què van fer al laboratori) amb la del product
 ---
 
 
-### 20. Informe de recerca `INS_INFO_INV`
+### 20. Informe de recerca `EVI_INFO_INV`
 
 _Document que comunica una indagació o recerca._
 
@@ -774,7 +774,7 @@ Com usar-lo per avaluar: una rúbrica analítica que valori cada secció per sep
 ---
 
 
-### 21. Monografia `INS_MONO`
+### 21. Monografia `EVI_MONO`
 
 _Treball extens sobre un tema amb documentació._
 
@@ -795,7 +795,7 @@ Com usar-la per avaluar: es valora la qualitat de les fonts, l'organització lò
 ---
 
 
-### 22. Assaig `INS_ENSAYO`
+### 22. Assaig `EVI_ENSAYO`
 
 _Text argumentatiu que desenvolupa una tesi._
 
@@ -816,7 +816,7 @@ Com usar-lo per avaluar: es valora la claredat de la tesi, la qualitat dels argu
 ---
 
 
-### 23. Comentari de text `INS_COM_TEXT`
+### 23. Comentari de text `EVI_COM_TEXT`
 
 _Anàlisi i interpretació d'un text._
 
@@ -837,7 +837,7 @@ Com usar-lo per avaluar: es valora la comprensió global del text, la identifica
 ---
 
 
-### 24. Comentari de gràfica o dades `INS_COM_GRAF`
+### 24. Comentari de gràfica o dades `EVI_COM_GRAF`
 
 _Interpretació de gràfics, taules o dades._
 
@@ -858,7 +858,7 @@ Com usar-lo per avaluar: es valora si l'alumne identifica correctament les varia
 ---
 
 
-### 25. Resum `INS_RESUMEN`
+### 25. Resum `EVI_RESUMEN`
 
 _Síntesi de les idees principals._
 
@@ -879,7 +879,7 @@ Com usar-lo per avaluar: es valora si l'alumne identifica les idees principals (
 ---
 
 
-### 26. Esquema `INS_ESQUEMA`
+### 26. Esquema `EVI_ESQUEMA`
 
 _Organització jeràrquica d'informació._
 
@@ -900,7 +900,7 @@ Com usar-lo per avaluar: es valora si l'alumne identifica correctament la jerarq
 ---
 
 
-### 27. Mapa conceptual `INS_MAP_CONC`
+### 27. Mapa conceptual `EVI_MAP_CONC`
 
 _Representació de conceptes i relacions._
 
@@ -921,7 +921,7 @@ Permete avaluar l'estructura del coneixement d'un alumne: no només si sap els c
 ---
 
 
-### 28. Mapa mental `INS_MAP_MENT`
+### 28. Mapa mental `EVI_MAP_MENT`
 
 _Organització radial d'idees._
 
@@ -942,7 +942,7 @@ Com usar-lo per avaluar: es valora la riquesa de les associacions, l'organitzaci
 ---
 
 
-### 29. Línia del temps `INS_LINEA`
+### 29. Línia del temps `EVI_LINEA`
 
 _Representació cronològica de fets o processos._
 
@@ -963,7 +963,7 @@ Com usar-la per avaluar: es valora la selecció de fets rellevants, la precisió
 ---
 
 
-### 30. Glossari `INS_GLOS`
+### 30. Glossari `EVI_GLOS`
 
 _Relació de termes i definicions._
 
@@ -984,7 +984,7 @@ Com usar-lo per avaluar: es valora si les definicions són precises, si l'alumne
 ---
 
 
-### 31. Fitxa de lectura `INS_FICHA_LECT`
+### 31. Fitxa de lectura `EVI_FICHA_LECT`
 
 _Registre estructurat d'una lectura._
 
@@ -1005,7 +1005,7 @@ Com usar-la per avaluar: es valora la comprensió del text, la capacitat de sín
 ---
 
 
-### 32. Ressenya `INS_RESEÑA`
+### 32. Ressenya `EVI_RESEÑA`
 
 _Text crític breu sobre una obra, recurs o activitat._
 
@@ -1026,7 +1026,7 @@ Com usar-la per avaluar: es valora la descripció precisa de l'objecte ressenyat
 ---
 
 
-### 33. Article de divulgació `INS_ART_DIV`
+### 33. Article de divulgació `EVI_ART_DIV`
 
 _Comunicació clara d'informació especialitzada._
 
@@ -1047,7 +1047,7 @@ Desenvolupa la competència comunicativa escrita, la comprensió profunda de la 
 ---
 
 
-### 34. Memòria de projecte `INS_MEM_PROY`
+### 34. Memòria de projecte `EVI_MEM_PROY`
 
 _Document que recull la planificació, el procés i els resultats._
 
@@ -1068,7 +1068,7 @@ Com usar-la per avaluar: es valora tant la qualitat del procés documentat com l
 ---
 
 
-### 35. Pla de treball `INS_PLAN_TRAB`
+### 35. Pla de treball `EVI_PLAN_TRAB`
 
 _Document d'organització de tasques i temps._
 
@@ -1089,7 +1089,7 @@ Com usar-lo per avaluar: es valora la claredat dels objectius, el realisme dels 
 ---
 
 
-### 36. Acta de reunió `INS_ACTA`
+### 36. Acta de reunió `EVI_ACTA`
 
 _Registre d'acords, tasques i decisions del grup._
 
@@ -1110,7 +1110,7 @@ Desenvolupa habilitats de comunicació formal, organització i responsabilitat c
 ---
 
 
-### 37. Contracte d'aprenentatge `INS_CONTRATO`
+### 37. Contracte d'aprenentatge `EVI_CONTRATO`
 
 _Acord d'objectius i compromisos personals._
 
@@ -1131,7 +1131,7 @@ Afavoreix l'autonomia, la motivació intrínseca i la responsabilitat. És espec
 ---
 
 
-### 38. Fitxa de reflexió `INS_F_REFLEX`
+### 38. Fitxa de reflexió `EVI_F_REFLEX`
 
 _Document breu per analitzar l'aprenentatge i les millores._
 
@@ -1152,7 +1152,7 @@ Com usar-la per avaluar: es valora la profunditat de la reflexió, la capacitat 
 ---
 
 
-### 39. Autoinforme `INS_AUTOINF`
+### 39. Autoinforme `EVI_AUTOINF`
 
 _Text on l'alumnat descriu i justifica el seu rendiment._
 
@@ -1173,7 +1173,7 @@ Com usar-lo per avaluar: es valora l'honestedat, la profunditat, la capacitat d'
 ---
 
 
-### 40. Resolució de problemes `INS_PROB`
+### 40. Resolució de problemes `EVI_PROB`
 
 _Situacions que requereixen anàlisi, procediment i justificació._
 
@@ -1194,7 +1194,7 @@ Com usar-la per avaluar: es valora el procés complet (comprensió del problema,
 ---
 
 
-### 41. Estudi de cas `INS_CASO`
+### 41. Estudi de cas `EVI_CASO`
 
 _Anàlisi d'una situació real o simulada._
 
@@ -1215,7 +1215,7 @@ Com usar-lo per avaluar: es valora la comprensió de la situació, la identifica
 ---
 
 
-### 42. Prova escrita de desenvolupament `INS_PR_DES`
+### 42. Prova escrita de desenvolupament `EVI_PR_DES`
 
 _Preguntes obertes d'explicació o argumentació._
 
@@ -1236,7 +1236,7 @@ Permete avaluar la comprensió profunda, la capacitat de síntesi i l'escriptura
 ---
 
 
-### 43. Prova objectiva `INS_PR_OBJ`
+### 43. Prova objectiva `EVI_PR_OBJ`
 
 _Qüestions tancades o molt delimitades._
 
@@ -1257,7 +1257,7 @@ Com usar-la per avaluar: es dissenya amb ítems clars i sense ambigüitat, aline
 ---
 
 
-### 44. Prova tipus test `INS_TEST`
+### 44. Prova tipus test `EVI_TEST`
 
 _Qüestionari amb opcions de resposta._
 
@@ -1278,7 +1278,7 @@ Com usar-la per avaluar: els distractors han de ser plausibles però clarament i
 ---
 
 
-### 45. Prova de resposta curta `INS_RESP_CORTA`
+### 45. Prova de resposta curta `EVI_RESP_CORTA`
 
 _Preguntes breus amb respostes delimitades._
 
@@ -1299,7 +1299,7 @@ Equilibra l'eficiència de la prova objectiva amb la necessitat que l'alumne con
 ---
 
 
-### 46. Prova oral `INS_PR_ORAL`
+### 46. Prova oral `EVI_PR_ORAL`
 
 _Avaluació mitjançant preguntes o tasques orals._
 
@@ -1320,7 +1320,7 @@ Permete valorar la comprensió real (no memorització de text) i l'expressió or
 ---
 
 
-### 47. Prova pràctica `INS_PR_PRACT`
+### 47. Prova pràctica `EVI_PR_PRACT`
 
 _Execució d'un procediment o tasca aplicada._
 
@@ -1341,7 +1341,7 @@ Com usar-la per avaluar: el docent observa l'execució amb una llista de verific
 ---
 
 
-### 48. Prova competencial contextualitzada `INS_PR_COMP`
+### 48. Prova competencial contextualitzada `EVI_PR_COMP`
 
 _Tasca avaluativa en context real o versemblant._
 
@@ -1362,7 +1362,7 @@ Com usar-la per avaluar: cada tasca de la prova està associada a un criteri d'a
 ---
 
 
-### 49. Prova amb documents `INS_DOCS`
+### 49. Prova amb documents `EVI_DOCS`
 
 _Prova que inclou textos, gràfics, mapes o fonts._
 
@@ -1383,7 +1383,7 @@ Com usar-la per avaluar: es valora la comprensió dels documents, la capacitat d
 ---
 
 
-### 50. Qüestionari digital `INS_CUEST_DIG`
+### 50. Qüestionari digital `EVI_CUEST_DIG`
 
 _Formulari o qüestionari realitzat en línia._
 
@@ -1404,7 +1404,7 @@ Estalvia temps de correcció, permet una retroalimentació immediata i facilita 
 ---
 
 
-### 51. Infografia `INS_INFOG`
+### 51. Infografia `EVI_INFOG`
 
 _Síntesi visual d'informació mitjançant text i imatge._
 
@@ -1425,7 +1425,7 @@ Desenvolupa la competència comunicativa visual, la capacitat de síntesi i la c
 ---
 
 
-### 52. Pòster acadèmic `INS_POSTER`
+### 52. Pòster acadèmic `EVI_POSTER`
 
 _Presentació visual estructurada d'una recerca o projecte._
 
@@ -1446,7 +1446,7 @@ Com usar-lo per avaluar: es valora la selecció d'informació, la jerarquia visu
 ---
 
 
-### 53. Presentació digital `INS_PRESENT_DIG`
+### 53. Presentació digital `EVI_PRESENT_DIG`
 
 _Diapositives o altre suport per comunicar informació._
 
@@ -1467,7 +1467,7 @@ Com usar-la per avaluar: convé valorar per separat el disseny de la presentaci�
 ---
 
 
-### 54. Vídeo `INS_VIDEO`
+### 54. Vídeo `EVI_VIDEO`
 
 _Producte audiovisual amb guió i edició._
 
@@ -1488,7 +1488,7 @@ Desenvolupa la competència digital, la comunicació audiovisual i la creativita
 ---
 
 
-### 55. Videotutorial `INS_TUTORIAL`
+### 55. Videotutorial `EVI_TUTORIAL`
 
 _Vídeo que explica un procediment o concepte pas a pas._
 
@@ -1509,7 +1509,7 @@ Com usar-lo per avaluar: es valora la claredat i la precisió de l'explicació, 
 ---
 
 
-### 56. Podcast `INS_PODCAST`
+### 56. Podcast `EVI_PODCAST`
 
 _Producció sonora amb guió i comunicació oral._
 
@@ -1530,7 +1530,7 @@ Afavoreix l'expressió oral en un format diferent al de l'exposició presencial,
 ---
 
 
-### 57. Còmic `INS_COMIC`
+### 57. Còmic `EVI_COMIC`
 
 _Narració gràfica amb text i imatge._
 
@@ -1551,7 +1551,7 @@ Com usar-lo per avaluar: es valora l'adequació del contingut al tema, la coher�
 ---
 
 
-### 58. Maqueta `INS_MAQUETA`
+### 58. Maqueta `EVI_MAQUETA`
 
 _Model físic d'estructura, sistema o procés._
 
@@ -1572,7 +1572,7 @@ Com usar-la per avaluar: es valoren la fidelitat al referent representat, la qua
 ---
 
 
-### 59. Model digital `INS_MODELO_DIG`
+### 59. Model digital `EVI_MODELO_DIG`
 
 _Representació digital d'un fenomen, estructura o sistema._
 
@@ -1593,7 +1593,7 @@ Desenvolupa la competència digital i el pensament espacial. És especialment ad
 ---
 
 
-### 60. Prototip `INS_PROTOTIPO`
+### 60. Prototip `EVI_PROTOTIPO`
 
 _Versió inicial o funcional d'una solució._
 
@@ -1614,7 +1614,7 @@ Com usar-lo per avaluar: es valora la funcionalitat (compleix la seva funció?),
 ---
 
 
-### 61. Pàgina web `INS_WEB`
+### 61. Pàgina web `EVI_WEB`
 
 _Lloc web organitzat per comunicar o resoldre una necessitat._
 
@@ -1635,7 +1635,7 @@ Desenvolupa la competència digital, la comunicació multimodal i la comprensió
 ---
 
 
-### 62. Entrada de blog `INS_BLOG`
+### 62. Entrada de blog `EVI_BLOG`
 
 _Publicació digital reflexiva, explicativa o divulgativa._
 
@@ -1656,7 +1656,7 @@ Com usar-la per avaluar: es valora l'adequació al destinatari, la precisió del
 ---
 
 
-### 63. Fòrum de discussió `INS_FORO`
+### 63. Fòrum de discussió `EVI_FORO`
 
 _Interaccions escrites en entorn digital._
 
@@ -1677,7 +1677,7 @@ Permet la participació d'alumnes que no intervenen fàcilment en debats presenc
 ---
 
 
-### 64. Document col·laboratiu `INS_DOC_COL`
+### 64. Document col·laboratiu `EVI_DOC_COL`
 
 _Document compartit elaborat per diversos alumnes._
 
@@ -1698,7 +1698,7 @@ Com usar-lo per avaluar: l'historial de revisions permet veure la contribució i
 ---
 
 
-### 65. Portfoli digital `INS_PORT_DIG`
+### 65. Portfoli digital `EVI_PORT_DIG`
 
 _Col·lecció digital d'evidències i reflexions._
 
@@ -1719,7 +1719,7 @@ Com usar-lo per avaluar: es valoren la selecció d'evidències (mostra allò mé
 ---
 
 
-### 66. KPSI `INS_KPSI`
+### 66. KPSI `EVI_KPSI`
 
 _Activitat diagnòstica en la qual l'alumne indica el seu grau de coneixement previ sobre cada concepte._
 
@@ -1740,7 +1740,7 @@ Com a activitat genera evidència diagnòstica d'autopercepció que permet al do
 ---
 
 
-### 67. Mapa conceptual inicial `INS_MAP_INI`
+### 67. Mapa conceptual inicial `EVI_MAP_INI`
 
 _Mapa conceptual a l'inici d'una unitat._
 
@@ -1761,7 +1761,7 @@ Permet al docent detectar concepcions prèvies, tant correctes com errònies, i 
 ---
 
 
-### 68. Pluja d'idees `INS_LLUVIA`
+### 68. Pluja d'idees `EVI_LLUVIA`
 
 _Generació ràpida d'idees inicials._
 
@@ -1782,7 +1782,7 @@ Com usar-la per avaluar: no té funció qualificadora en si mateixa, però perme
 ---
 
 
-### 69. Esborrany `INS_BORR`
+### 69. Esborrany `EVI_BORR`
 
 _Versió inicial o intermèdia d'un producte._
 
@@ -1803,7 +1803,7 @@ El cicle esborrany → retroalimentació → revisió → lliurament final és u
 ---
 
 
-### 70. Lliurament parcial `INS_ENT_PAR`
+### 70. Lliurament parcial `EVI_ENT_PAR`
 
 _Producte intermedi lliurat abans del final._
 
@@ -1824,7 +1824,7 @@ Evita l'acumulació de treball al final i permet detectar problemes de comprensi
 ---
 
 
-### 71. Diari de projecte `INS_BIT`
+### 71. Diari de projecte `EVI_BIT`
 
 _Registre continuat de decisions, problemes i avenços._
 
@@ -1845,7 +1845,7 @@ Fa visible el procés d'aprenentatge, que d'altra manera només es coneix pel pr
 ---
 
 
-### 72. Revisió entre iguals `INS_REV_PARES`
+### 72. Revisió entre iguals `EVI_REV_PARES`
 
 _Anàlisi i millora de treballs entre companys._
 
@@ -1866,7 +1866,7 @@ Com usar-la per avaluar: es proporciona una fitxa de revisió o rúbrica de coav
 ---
 
 
-### 73. Dues estrelles i un desig `INS_2E1D`
+### 73. Dues estrelles i un desig `EVI_2E1D`
 
 _Activitat de coavaluació: dos aspectes positius i una proposta de millora._
 
@@ -1887,7 +1887,7 @@ Com usar-la: s'entrega una targeta o formulari amb tres apartats ('Allò que est
 ---
 
 
-### 74. Semàfor d'aprenentatge `INS_SEMAF`
+### 74. Semàfor d'aprenentatge `EVI_SEMAF`
 
 _Activitat breu d'autoavaluació en la qual l'alumne assenyala el seu nivell de comprensió amb tres colors._
 
@@ -1908,7 +1908,7 @@ Permet regular el ritme de l'ensenyament en temps real a partir d'evidències d'
 ---
 
 
-### 75. Bitllet de sortida `INS_BILLETE`
+### 75. Bitllet de sortida `EVI_BILLETE`
 
 _Resposta breu al final de la sessió._
 
@@ -1929,7 +1929,7 @@ Com usar-lo per avaluar: pot ser una pregunta escrita en paper o un formulari di
 ---
 
 
-### 76. Prova de llibre obert `INS_LIBRO_ABIERTO`
+### 76. Prova de llibre obert `EVI_LIBRO_ABIERTO`
 
 _Prova en la qual l'alumnat pot consultar materials autoritzats._
 
@@ -1950,7 +1950,7 @@ Com usar-la per avaluar: les preguntes han d'exigir raonament, transferència o 
 ---
 
 
-### 77. Tasca competencial integrada `INS_TAREA_COMP_INT`
+### 77. Tasca competencial integrada `EVI_TAREA_COMP_INT`
 
 _Tasca complexa que integra diversos aprenentatges en un context significatiu._
 
@@ -1971,7 +1971,7 @@ Com usar-la per avaluar: es vincula cada part de la tasca amb criteris concrets 
 ---
 
 
-### 78. Situació-problema `INS_SIT_PROB`
+### 78. Situació-problema `EVI_SIT_PROB`
 
 _Situació contextualitzada que exigeix analitzar un problema i proposar una solució._
 
@@ -1992,7 +1992,7 @@ Com usar-la per avaluar: l'enunciat ha de ser clar, contextualitzat i obert en l
 ---
 
 
-### 79. Escape room o repte gamificat `INS_ESCAPE`
+### 79. Escape room o repte gamificat `EVI_ESCAPE`
 
 _Seqüència de reptes amb regles de joc per resoldre problemes o aplicar aprenentatges._
 
@@ -2013,7 +2013,7 @@ Cal usar-lo amb criteris clars, perquè la motivació del joc pot amagar qui apr
 ---
 
 
-### 80. Seminari socràtic `INS_SEMINARIO`
+### 80. Seminari socràtic `EVI_SEMINARIO`
 
 _Diàleg estructurat a partir de preguntes obertes i evidències._
 
@@ -2034,7 +2034,7 @@ Permet avaluar el pensament crític i la comprensió profunda, però requereix e
 ---
 
 
-### 81. Llista de verificació de laboratori `INS_CHECK_LAB`
+### 81. Llista de verificació de laboratori `EVI_CHECK_LAB`
 
 _Activitat d'observació i autoregistre de procediments, seguretat i dades al laboratori._
 
@@ -2055,7 +2055,7 @@ Nota: en sentit estricte, una llista de verificació és també un instrument d'
 ---
 
 
-### 82. Quadern digital `INS_CUAD_DIG`
+### 82. Quadern digital `EVI_CUAD_DIG`
 
 _Registre digital continuat d'activitats, notes, evidències i reflexions._
 
@@ -2076,7 +2076,7 @@ Com usar-lo per avaluar: el docent revisa entrades seleccionades, l'evolució, l
 ---
 
 
-### 83. E-portfolio amb evidències seleccionades `INS_EPORT_SEL`
+### 83. E-portfolio amb evidències seleccionades `EVI_EPORT_SEL`
 
 _Portfoli digital on l'alumnat selecciona i justifica evidències d'aprenentatge._
 
@@ -2097,7 +2097,7 @@ Com usar-lo per avaluar: es defineix quins criteris s'han d'evidenciar, quantes 
 ---
 
 
-### 84. Quadern de camp `INS_CUAD_CAMPO`
+### 84. Quadern de camp `EVI_CUAD_CAMPO`
 
 _Registre d'observacions, dades i reflexions durant activitats a l'exterior o entorn real._
 
@@ -2105,7 +2105,7 @@ _Registre d'observacions, dades i reflexions durant activitats a l'exterior o en
 
 _Paraules clau: camp, exterior, observacio, natura_
 
-El quadern de camp és el registre que elabora l'alumne durant activitats realitzades fora de l'aula: sortides de camp, visites, estudis de l'entorn o activitats en espais naturals. A diferència del quadern de classe (INS_CUADERNO), documenta observacions en temps real en contextos no controlats; a diferència de l'informe de laboratori (INS_INFO_LAB), no segueix una estructura experimental tancada, sinó que recull notes, croquis, mesures i reflexions sobre la marxa.
+El quadern de camp és el registre que elabora l'alumne durant activitats realitzades fora de l'aula: sortides de camp, visites, estudis de l'entorn o activitats en espais naturals. A diferència del quadern de classe (EVI_CUADERNO), documenta observacions en temps real en contextos no controlats; a diferència de l'informe de laboratori (EVI_INFO_LAB), no segueix una estructura experimental tancada, sinó que recull notes, croquis, mesures i reflexions sobre la marxa.
 
 Com usar-lo per avaluar: l'alumne registra observacions directes, dades mesurades, dibuixos o croquis, preguntes emergents i reflexions inicials. El docent avalua la precisió i la completesa de les observacions, la capacitat de registrar dades rellevants i la qualitat de la reflexió sobre allò observat. Una guia de correcció amb els elements esperats orienta l'avaluació de forma coherent.
 
@@ -2118,7 +2118,7 @@ Com usar-lo per avaluar: l'alumne registra observacions directes, dades mesurade
 ---
 
 
-### 85. Microvídeo educatiu `INS_MICROVIDEO`
+### 85. Microvídeo educatiu `EVI_MICROVIDEO`
 
 _Vídeo breu (60–90 s) que explica, divulga o argumenta sobre un tema._
 
@@ -2126,7 +2126,7 @@ _Vídeo breu (60–90 s) que explica, divulga o argumenta sobre un tema._
 
 _Paraules clau: video, curt, reel, divulgacio, digital_
 
-El microvídeo educatiu és una producció audiovisual de curta durada (habitualment entre 60 i 90 segons) en la qual l'alumne explica un concepte, argumenta una posició, resumeix un tema o comunica resultats de forma sintètica i directa. Es diferencia del vídeo convencional (INS_VIDEO) per l'exigència de condensar el missatge al màxim; i del videotutorial (INS_TUTORIAL) en el fet que no segueix necessàriament una estructura procedimental pas a pas.
+El microvídeo educatiu és una producció audiovisual de curta durada (habitualment entre 60 i 90 segons) en la qual l'alumne explica un concepte, argumenta una posició, resumeix un tema o comunica resultats de forma sintètica i directa. Es diferencia del vídeo convencional (EVI_VIDEO) per l'exigència de condensar el missatge al màxim; i del videotutorial (EVI_TUTORIAL) en el fet que no segueix necessàriament una estructura procedimental pas a pas.
 
 Com usar-lo per avaluar: es valoren la claredat i precisió del missatge, l'adequació al destinatari, l'estructura narrativa dins del temps reduït, la correcció del contingut i la qualitat tècnica bàsica (imatge, so). Una rúbrica analítica que diferenciï contingut i producció permet una retroalimentació específica. La coavaluació entre companys és especialment natural en aquest format.
 
@@ -2139,7 +2139,7 @@ Com usar-lo per avaluar: es valoren la claredat i precisió del missatge, l'adeq
 ---
 
 
-### 86. Bitàcola de procés amb IA `INS_BIT_IA`
+### 86. Bitàcola de procés amb IA `EVI_BIT_IA`
 
 _Registre del procés de treball, ús d'IA, fonts, versions i decisions preses._
 
@@ -2160,7 +2160,7 @@ Permet valorar autoria, pensament crític, revisió, millora i ús responsable d
 ---
 
 
-### 87. Targetes de resposta / mini-pissarra `INS_TARJ_RESP`
+### 87. Targetes de resposta / mini-pissarra `EVI_TARJ_RESP`
 
 _Evidència de resposta immediata en què tot el grup contesta alhora amb targetes (A/B/C/D), polzes o mini-pissarres individuals, donant al docent una foto instantània del nivell de comprensió._
 
@@ -2181,7 +2181,7 @@ El seu valor és la immediatesa i la participació universal: fa visible l’apr
 ---
 
 
-### 88. Guió gràfic (storyboard) `INS_STORYBOARD`
+### 88. Guió gràfic (storyboard) `EVI_STORYBOARD`
 
 _Seqüència de vinyetes que planifica visualment un vídeo, animació o relat digital: en cada quadre s’esbossen la imatge, l’acció i el text o àudio, abans de produir la peça final._
 
@@ -2205,7 +2205,7 @@ El seu valor és fer visible el pensament previ a la producció i separar la pla
 ## Instruments d'avaluació
 
 
-### 1. Rúbrica analítica `HER_RUB_ANA`
+### 1. Rúbrica analítica `INS_RUB_ANA`
 
 _Matriu que valora criteris separats mitjançant nivells descrits._
 
@@ -2261,7 +2261,7 @@ La nota final s'obté sumant la puntuació de cada criteri (màxim 16 punts) i c
 ---
 
 
-### 2. Rúbrica global o holística `HER_RUB_HOL`
+### 2. Rúbrica global o holística `INS_RUB_HOL`
 
 _Rúbrica que valora el rendiment de forma global._
 
@@ -2286,7 +2286,7 @@ Adequada quan el temps és limitat, quan la tasca és curta o quan es vol donar 
 ---
 
 
-### 3. Rúbrica de procés `HER_RUB_PROC`
+### 3. Rúbrica de procés `INS_RUB_PROC`
 
 _Rúbrica centrada en planificació, seguiment, revisió i millora._
 
@@ -2311,7 +2311,7 @@ Com usar-la: els criteris inclouen aspectes com 'defineix objectius clars a l'in
 ---
 
 
-### 4. Rúbrica de producte `HER_RUB_PROD`
+### 4. Rúbrica de producte `INS_RUB_PROD`
 
 _Rúbrica centrada en la qualitat del producte final._
 
@@ -2336,7 +2336,7 @@ Es complementa amb la rúbrica de procés en projectes extensos. Usada sola, pot
 ---
 
 
-### 5. Rúbrica oral `HER_RUB_ORAL`
+### 5. Rúbrica oral `INS_RUB_ORAL`
 
 _Rúbrica per a exposicions, debats, defenses o entrevistes._
 
@@ -2361,7 +2361,7 @@ Compartir-la abans de l'actuació permet a l'alumnat preparar-se amb més orient
 ---
 
 
-### 6. Rúbrica de treball cooperatiu `HER_RUB_COOP`
+### 6. Rúbrica de treball cooperatiu `INS_RUB_COOP`
 
 _Rúbrica per valorar la col·laboració i el funcionament grupal._
 
@@ -2386,7 +2386,7 @@ Com usar-la: la pot aplicar el docent mitjançant l'observació, el propi alumne
 ---
 
 
-### 7. Rúbrica competencial `HER_RUB_COMP`
+### 7. Rúbrica competencial `INS_RUB_COMP`
 
 _Matriu vinculada a criteris i nivells de rendiment competencial._
 
@@ -2411,7 +2411,7 @@ Com usar-la: els criteris reflecteixen els elements clau de la competència (p. 
 ---
 
 
-### 8. Llista de verificació o control `HER_LISTA`
+### 8. Llista de verificació o control `INS_LISTA`
 
 _Llista d'indicadors amb presència o absència._
 
@@ -2436,7 +2436,7 @@ Com usar-la: s'elabora una llista d'indicadors concrets i observables (p. ex., '
 ---
 
 
-### 9. Escala d'observació `HER_ESC_OBS`
+### 9. Escala d'observació `INS_ESC_OBS`
 
 _Escala per valorar la freqüència, la intensitat o el grau d'un rendiment._
 
@@ -2461,7 +2461,7 @@ Com usar-la: es defineixen els indicadors que s'observaran i s'escull una escala
 ---
 
 
-### 10. Escala de valoració `HER_ESC_VAL`
+### 10. Escala de valoració `INS_ESC_VAL`
 
 _Escala graduada per valorar el grau d'assoliment._
 
@@ -2486,7 +2486,7 @@ Adequada quan el docent té prou experiència per aplicar criteris implícitamen
 ---
 
 
-### 11. Escala descriptiva `HER_ESC_DESC`
+### 11. Escala descriptiva `INS_ESC_DESC`
 
 _Escala els nivells de la qual inclouen descripcions._
 
@@ -2511,7 +2511,7 @@ Com usar-la: per a cada criteri es redacten 3-4 descripcions ordenades de major 
 ---
 
 
-### 12. Guia de correcció `HER_GUIA_CORR`
+### 12. Guia de correcció `INS_GUIA_CORR`
 
 _Document amb criteris, respostes esperades o pautes de correcció._
 
@@ -2536,7 +2536,7 @@ Augmenta la consistència de la correcció entre diverses correccions del mateix
 ---
 
 
-### 13. Plantilla de correcció `HER_PLANT_CORR`
+### 13. Plantilla de correcció `INS_PLANT_CORR`
 
 _Format per registrar puntuacions o encerts._
 
@@ -2561,7 +2561,7 @@ Com usar-la: es prepara abans de la correcció i s'usa com a full de registre du
 ---
 
 
-### 14. Barem `HER_BAREMO`
+### 14. Barem `INS_BAREMO`
 
 _Distribució de punts entre apartats o indicadors._
 
@@ -2586,7 +2586,7 @@ Un barem ben dissenyat reflecteix la importància relativa de cada contingut o c
 ---
 
 
-### 15. Registre anecdòtic `HER_REG_ANE`
+### 15. Registre anecdòtic `INS_REG_ANE`
 
 _Anotació breu de fets significatius observats._
 
@@ -2611,7 +2611,7 @@ Com usar-lo: pot ser una llibreta, una fitxa per alumne, una aplicació o un ful
 ---
 
 
-### 16. Registre descriptiu `HER_REG_DESC`
+### 16. Registre descriptiu `INS_REG_DESC`
 
 _Registre detallat d'actuacions, processos o comportaments._
 
@@ -2636,7 +2636,7 @@ Permetre comunicar a les famílies i al propi alumne una imatge rica i matisada 
 ---
 
 
-### 17. Diari del docent `HER_DIARIO_PROF`
+### 17. Diari del docent `INS_DIARIO_PROF`
 
 _Quadern o document amb observacions i decisions pedagògiques._
 
@@ -2661,7 +2661,7 @@ No és només un registre del que ha passat, sinó un instrument de millora de l
 ---
 
 
-### 18. Full de seguiment individual `HER_HOJA_IND`
+### 18. Full de seguiment individual `INS_HOJA_IND`
 
 _Registre del progrés d'un alumne al llarg del temps._
 
@@ -2686,7 +2686,7 @@ Com usar-lo: es dissenya una fitxa per alumne amb els criteris o indicadors que 
 ---
 
 
-### 19. Full de seguiment grupal `HER_HOJA_GRUP`
+### 19. Full de seguiment grupal `INS_HOJA_GRUP`
 
 _Registre del progrés i el funcionament d'un grup._
 
@@ -2711,7 +2711,7 @@ Com usar-lo: cada fila és un alumne i cada columna és un criteri, una tasca o 
 ---
 
 
-### 20. Registre de participació `HER_REG_PART`
+### 20. Registre de participació `INS_REG_PART`
 
 _Anotació de les intervencions i la qualitat de les aportacions._
 
@@ -2736,7 +2736,7 @@ Permetre donar retroalimentació objectiva sobre la participació, detectar qui 
 ---
 
 
-### 21. Registre de treball cooperatiu `HER_REG_COOP`
+### 21. Registre de treball cooperatiu `INS_REG_COOP`
 
 _Document per anotar els rols, les aportacions i el compliment grupal._
 
@@ -2761,7 +2761,7 @@ Com usar-lo: es pot combinar amb l'observació directa del docent, l'autoavaluac
 ---
 
 
-### 22. Notes de camp `HER_NOTAS_CAMPO`
+### 22. Notes de camp `INS_NOTAS_CAMPO`
 
 _Anotacions del docent durant activitats, pràctiques o sortides._
 
@@ -2786,7 +2786,7 @@ Són la base de l'observació incidental i del registre anecdòtic. Amb el temps
 ---
 
 
-### 23. Fitxa de valoració `HER_FICHA_VAL`
+### 23. Fitxa de valoració `INS_FICHA_VAL`
 
 _Document breu per valorar una tasca concreta._
 
@@ -2811,7 +2811,7 @@ Com usar-la: es dissenya amb els criteris rellevants per a la tasca, l'escala de
 ---
 
 
-### 24. Fitxa de retroalimentació `HER_FICHA_RETRO`
+### 24. Fitxa de retroalimentació `INS_FICHA_RETRO`
 
 _Plantilla per retornar punts forts i de millora._
 
@@ -2836,7 +2836,7 @@ La retroalimentació és més efectiva quan és específica, oportuna i orientad
 ---
 
 
-### 25. Matriu de valoració `HER_MATRIZ`
+### 25. Matriu de valoració `INS_MATRIZ`
 
 _Taula que relaciona criteris, indicadors i nivells._
 
@@ -2861,7 +2861,7 @@ Com usar-la: es dissenya amb els criteris en files i els nivells en columnes. Ca
 ---
 
 
-### 26. Banc de descriptors `HER_BANCO_DESC`
+### 26. Banc de descriptors `INS_BANCO_DESC`
 
 _Col·lecció de frases per descriure nivells de rendiment._
 
@@ -2886,7 +2886,7 @@ Com usar-lo: s'organitza per criteris, competències o àrees, amb descriptors p
 ---
 
 
-### 27. Perfil d'assoliment `HER_PERFIL_LOGRO`
+### 27. Perfil d'assoliment `INS_PERFIL_LOGRO`
 
 _Representació del grau assolit en criteris o competències._
 
@@ -2911,7 +2911,7 @@ En el marc de l'avaluació per competències (LOMLOE), el perfil d'assoliment é
 ---
 
 
-### 28. Diana d'avaluació `HER_DIANA`
+### 28. Diana d'avaluació `INS_DIANA`
 
 _Representació radial de diversos aspectes avaluats._
 
@@ -2936,7 +2936,7 @@ Com usar-la: s'imprimeix o es dibuixa una diana amb tants sectors com criteris e
 ---
 
 
-### 29. Semàfor d'avaluació `HER_SEMAFORO`
+### 29. Semàfor d'avaluació `INS_SEMAFORO`
 
 _Sistema visual d'assoliment, dubte o dificultat._
 
@@ -2961,7 +2961,7 @@ Adequat per al seguiment formatiu ràpid, la comunicació a les famílies i l'au
 ---
 
 
-### 30. Escala d'autoavaluació `HER_ESC_AUTO`
+### 30. Escala d'autoavaluació `INS_ESC_AUTO`
 
 _Escala perquè l'alumnat valori el seu propi assoliment._
 
@@ -2986,7 +2986,7 @@ El seu valor és principalment metacognitiu: obliga l'alumne a reflexionar sobre
 ---
 
 
-### 31. Rúbrica d'autoavaluació `HER_RUB_AUTO`
+### 31. Rúbrica d'autoavaluació `INS_RUB_AUTO`
 
 _Rúbrica emprada per l'alumnat sobre el seu propi treball._
 
@@ -3011,7 +3011,7 @@ Com usar-la: l'alumne llegeix els descriptors de cada criteri i selecciona el ni
 ---
 
 
-### 32. Rúbrica de coavaluació `HER_RUB_COEV`
+### 32. Rúbrica de coavaluació `INS_RUB_COEV`
 
 _Rúbrica per valorar treballs de companys._
 
@@ -3036,7 +3036,7 @@ Perquè sigui efectiva, els alumnes han d'haver practicat l'aplicació dels crit
 ---
 
 
-### 33. Fitxa de coavaluació `HER_FICHA_COEV`
+### 33. Fitxa de coavaluació `INS_FICHA_COEV`
 
 _Plantilla breu per valorar companys._
 
@@ -3061,7 +3061,7 @@ Com usar-la: inclou preguntes com «Què ha fet bé el teu company?», «Què po
 ---
 
 
-### 34. Llista de verificació d'autoavaluació `HER_LISTA_AUTO`
+### 34. Llista de verificació d'autoavaluació `INS_LISTA_AUTO`
 
 _Llista de verificació que usa l'alumne per revisar requisits._
 
@@ -3086,7 +3086,7 @@ Com usar-la: abans de lliurar un treball, l'alumne revisa la llista per assegura
 ---
 
 
-### 35. Registre de compromisos de millora `HER_REG_COMP`
+### 35. Registre de compromisos de millora `INS_REG_COMP`
 
 _Document amb objectius i accions de millora._
 
@@ -3111,7 +3111,7 @@ Tanca el cicle de l'avaluació formativa: recollida d'evidències → retroalime
 ---
 
 
-### 36. Quadern de qualificacions `HER_CUAD_CAL`
+### 36. Quadern de qualificacions `INS_CUAD_CAL`
 
 _Registre organitzat de resultats, tasques i criteris._
 
@@ -3136,7 +3136,7 @@ Més enllà de ser un registre administratiu, es pot usar per detectar tendènci
 ---
 
 
-### 37. Taula de qualificació per criteris `HER_TAB_CRIT`
+### 37. Taula de qualificació per criteris `INS_TAB_CRIT`
 
 _Taula que relaciona evidències amb criteris d'avaluació._
 
@@ -3161,7 +3161,7 @@ Permete l'alumnat i les famílies conèixer exactament en quins criteris l'alumn
 ---
 
 
-### 38. Matriu de ponderació `HER_MATRIZ_POND`
+### 38. Matriu de ponderació `INS_MATRIZ_POND`
 
 _Taula de pesos relatius de criteris, evidències o eines._
 
@@ -3186,7 +3186,7 @@ Una bona matriu de ponderació reflecteix les prioritats pedagògiques: si el pr
 ---
 
 
-### 39. Escala numèrica `HER_ESC_NUM`
+### 39. Escala numèrica `INS_ESC_NUM`
 
 _Valoració expressada amb números._
 
@@ -3211,7 +3211,7 @@ El seu avantatge és la facilitat de comunicació i càlcul. La seva limitació 
 ---
 
 
-### 40. Escala verbal `HER_ESC_VERB`
+### 40. Escala verbal `INS_ESC_VERB`
 
 _Categories com ara inicial, en procés, adequat, avançat._
 
@@ -3236,7 +3236,7 @@ Té l'avantatge de ser més descriptiva que una nota numèrica i de comunicar mi
 ---
 
 
-### 41. Conversor de nivells a qualificació `HER_CONV`
+### 41. Conversor de nivells a qualificació `INS_CONV`
 
 _Regla que transforma nivells d'assoliment en nota._
 
@@ -3261,7 +3261,7 @@ Permete combinar una avaluació qualitativa i orientada a l'aprenentatge amb l'o
 ---
 
 
-### 42. Full de càlcul d'avaluació `HER_HOJA_CALC`
+### 42. Full de càlcul d'avaluació `INS_HOJA_CALC`
 
 _Llibre digital per registrar, calcular i analitzar dades._
 
@@ -3286,7 +3286,7 @@ Com usar-lo: s'organitza amb alumnes en files i tasques o criteris en columnes. 
 ---
 
 
-### 43. Informe individual d'avaluació `HER_INF_IND`
+### 43. Informe individual d'avaluació `INS_INF_IND`
 
 _Document que comunica progrés, assoliments i orientacions._
 
@@ -3311,7 +3311,7 @@ Com elaborar-lo: integra informació de diverses fonts (qualificacions, observac
 ---
 
 
-### 44. Acta d'avaluació `HER_ACTA`
+### 44. Acta d'avaluació `INS_ACTA`
 
 _Registre formal de decisions i resultats._
 
@@ -3336,7 +3336,7 @@ Com usar-la: es complimenta a les sessions d'avaluació, recull les qualificacio
 ---
 
 
-### 45. Formulari digital `HER_FORM_DIG`
+### 45. Formulari digital `INS_FORM_DIG`
 
 _Formulari per recollir respostes o valoracions._
 
@@ -3361,7 +3361,7 @@ Estalvia temps de correcció en avaluacions tancades, facilita l'anàlisi de res
 ---
 
 
-### 46. Rúbrica digital `HER_RUB_DIG`
+### 46. Rúbrica digital `INS_RUB_DIG`
 
 _Rúbrica integrada en una plataforma digital._
 
@@ -3386,7 +3386,7 @@ Reduceix el temps de correcció, facilita la coherència entre correccions i per
 ---
 
 
-### 47. Historial de revisions `HER_HIST_REV`
+### 47. Historial de revisions `INS_HIST_REV`
 
 _Registre de canvis en documents compartits._
 
@@ -3411,7 +3411,7 @@ Com usar-lo: en obrir l'historial de versions d'un document compartit, el docent
 ---
 
 
-### 48. Tauler de progrés `HER_PANEL`
+### 48. Tauler de progrés `INS_PANEL`
 
 _Vista de l'avenç en tasques, criteris o competències._
 
@@ -3436,7 +3436,7 @@ Afavoreix la transparència, l'autoregulació i la motivació. En versions digit
 ---
 
 
-### 49. Analítiques d'aprenentatge `HER_ANALITICAS`
+### 49. Analítiques d'aprenentatge `INS_ANALITICAS`
 
 _Dades d'accés, participació o activitat en plataformes._
 
@@ -3461,7 +3461,7 @@ Són especialment útils per identificar tendències grupals i individuals de ma
 ---
 
 
-### 50. Banc digital d'evidències `HER_BANCO_EVID`
+### 50. Banc digital d'evidències `INS_BANCO_EVID`
 
 _Carpeta o espai digital amb evidències avaluatives._
 
@@ -3486,7 +3486,7 @@ Com usar-lo: cada alumne té el seu propi espai on guarda els seus treballs, esb
 ---
 
 
-### 51. Llista d'indicadors per criteri `HER_IND_CRIT`
+### 51. Llista d'indicadors per criteri `INS_IND_CRIT`
 
 _Desglossament d'un criteri en indicadors observables._
 
@@ -3511,7 +3511,7 @@ Com usar-la: es redacten indicadors clars, es vinculen a evidències concretes i
 ---
 
 
-### 52. Escala de progrés `HER_ESC_PROG`
+### 52. Escala de progrés `INS_ESC_PROG`
 
 _Escala que descriu avenços successius cap a un aprenentatge._
 
@@ -3536,7 +3536,7 @@ Com usar-la: es defineixen nivells clars i es revisa periòdicament on es troba 
 ---
 
 
-### 53. Guia d'observació `HER_GUIA_OBS`
+### 53. Guia d'observació `INS_GUIA_OBS`
 
 _Document amb focus, indicadors i pautes per observar una actuació._
 
@@ -3561,7 +3561,7 @@ Com usar-la: abans de l'activitat es seleccionen pocs focus importants. Durant l
 ---
 
 
-### 54. Plantilla de feedback/feedforward `HER_PLANT_FF`
+### 54. Plantilla de feedback/feedforward `INS_PLANT_FF`
 
 _Plantilla per indicar l'assoliment actual, la millora necessària i el pas següent._
 
@@ -3586,7 +3586,7 @@ La seva força rau en el fet que desplaça la correcció des del judici final ca
 ---
 
 
-### 55. Contracte de grup `HER_CONTR_GRUP`
+### 55. Contracte de grup `INS_CONTR_GRUP`
 
 _Acord de rols, compromisos i normes de funcionament d'un equip._
 
@@ -3611,7 +3611,7 @@ Com usar-lo: s'acorda a l'inici del treball i es revisa en fites intermèdies. E
 ---
 
 
-### 56. Sociograma `HER_SOCIO`
+### 56. Sociograma `INS_SOCIO`
 
 _Representació de relacions, eleccions o dinàmiques dins del grup._
 
@@ -3636,7 +3636,7 @@ Com usar-lo: es recull informació mitjançant preguntes acurades, s'analitza de
 ---
 
 
-### 57. Mapa d'evidències per criteri `HER_MAP_EVID`
+### 57. Mapa d'evidències per criteri `INS_MAP_EVID`
 
 _Taula que vincula criteris amb tasques, evidències i instruments de valoració._
 
@@ -3661,7 +3661,7 @@ Com usar-lo: es construeix com a taula de planificació i seguiment. Permet dete
 ---
 
 
-### 58. Declaració d'ús d'IA i fonts `HER_DECL_IA`
+### 58. Declaració d'ús d'IA i fonts `INS_DECL_IA`
 
 _Plantilla per declarar ajudes, fonts, eines d'IA i decisions pròpies en una tasca._
 
@@ -3686,7 +3686,7 @@ No substitueix una rúbrica ni demostra per si sola l'aprenentatge, però ajuda 
 ---
 
 
-### 59. Taula d’especificacions `HER_TAB_ESPEC`
+### 59. Taula d’especificacions `INS_TAB_ESPEC`
 
 _Matriu que creua els continguts a avaluar amb els nivells cognitius i reparteix el pes de cada ítem, per dissenyar proves equilibrades i vàlides abans de redactar-les._
 
@@ -3711,7 +3711,7 @@ El seu valor és assegurar la validesa de contingut i l’equilibri de la prova:
 ---
 
 
-### 60. Rúbrica de punt únic `HER_RUB_PUNTO`
+### 60. Rúbrica de punt únic `INS_RUB_PUNTO`
 
 _Rúbrica que descriu només el nivell objectiu (el rendiment esperat) en cada criteri, deixant espai per anotar en què es queda curta i en què el supera. Simplifica el disseny i prioritza la retroalimentació._
 
@@ -3736,7 +3736,7 @@ El seu valor és que és ràpida de dissenyar, no encasella l’alumnat en nivel
 ---
 
 
-### 61. Escala de retroalimentació `HER_ESCAL_FB`
+### 61. Escala de retroalimentació `INS_ESCAL_FB`
 
 _Protocol estructurat de feedback en quatre graons —aclarir, valorar, preguntar i suggerir— que ordena els comentaris perquè siguin respectuosos, concrets i útils, sobretot entre iguals._
 
@@ -3761,7 +3761,7 @@ Com usar-la: abans d’una sessió de revisió entre iguals o de comentari d’u
 ---
 
 
-### 62. Base d’orientació `HER_BASE_ORIENT`
+### 62. Base d’orientació `INS_BASE_ORIENT`
 
 _Guió amb els passos i criteris clau per fer correctament una tasca o procediment, que l’alumnat usa per autoregular-se mentre treballa i que després li serveix per autoavaluar-se._
 
@@ -4327,7 +4327,7 @@ _Paraules clau: gamificacio, joc, escape room, repte, insignies_
 
 Aquesta dimensió descriu el format o situació didàctica en la qual es genera l'evidència. Pot combinar diversos procediments de recollida.
 
-L'avaluació gamificada incorpora mecàniques pròpies del joc (reptes, punts, insígnies, contrarellotge, cooperació o competició regulada) per recollir evidències d'aprenentatge en un entorn d'alta motivació. No és sinònim d'un instrument concret com l'escape room (INS_ESCAPE), sinó l'enfocament metodològic que engloba qualsevol estratègia que utilitza el joc amb propòsit avaluatiu.
+L'avaluació gamificada incorpora mecàniques pròpies del joc (reptes, punts, insígnies, contrarellotge, cooperació o competició regulada) per recollir evidències d'aprenentatge en un entorn d'alta motivació. No és sinònim d'un instrument concret com l'escape room (EVI_ESCAPE), sinó l'enfocament metodològic que engloba qualsevol estratègia que utilitza el joc amb propòsit avaluatiu.
 
 Com aplicar-la: es dissenyen tasques o reptes amb regles clares, criteris d'assoliment visibles i retroalimentació immediata. Els punts o insígnies es poden usar com a evidència del nivell assolit si estan alineats amb criteris d'avaluació reals. Les analítiques de la plataforma gamificada (temps, intents, encerts) complementen l'observació docent, però no la substitueixen.
 

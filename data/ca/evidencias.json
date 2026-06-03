@@ -1,6 +1,6 @@
 [
   {
-    "id": "INS_TRAB_IND",
+    "id": "EVI_TRAB_IND",
     "entity_type": "instrumento",
     "name": "Treball individual a l'aula",
     "type": "Observació",
@@ -27,10 +27,10 @@
       "TEC_OBS_INC"
     ],
     "related_tools": [
-      "HER_CUAD_CAL",
-      "HER_ESC_OBS",
-      "HER_HOJA_IND",
-      "HER_LISTA"
+      "INS_CUAD_CAL",
+      "INS_ESC_OBS",
+      "INS_HOJA_IND",
+      "INS_LISTA"
     ],
     "related_dimensions": [
       "DIM_FORM"
@@ -44,10 +44,10 @@
         "DIM_FORM": "principal"
       },
       "rel_her": {
-        "HER_CUAD_CAL": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_HOJA_IND": "complementaria",
-        "HER_LISTA": "ocasional"
+        "INS_CUAD_CAL": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_HOJA_IND": "complementaria",
+        "INS_LISTA": "ocasional"
       }
     },
     "metac_ids": [
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "id": "INS_TRAB_COOP",
+    "id": "EVI_TRAB_COOP",
     "entity_type": "instrumento",
     "name": "Treball cooperatiu",
     "type": "Observació",
@@ -95,12 +95,12 @@
       "TEC_OBS_INC"
     ],
     "related_tools": [
-      "HER_DIARIO_PROF",
-      "HER_FICHA_COEV",
-      "HER_RUB_COOP",
-      "HER_CONTR_GRUP",
-      "HER_SOCIO",
-      "HER_GUIA_OBS"
+      "INS_DIARIO_PROF",
+      "INS_FICHA_COEV",
+      "INS_RUB_COOP",
+      "INS_CONTR_GRUP",
+      "INS_SOCIO",
+      "INS_GUIA_OBS"
     ],
     "related_dimensions": [
       "DIM_COEV",
@@ -124,12 +124,12 @@
         "DIM_COMPART": "principal"
       },
       "rel_her": {
-        "HER_DIARIO_PROF": "principal",
-        "HER_FICHA_COEV": "complementaria",
-        "HER_RUB_COOP": "complementaria",
-        "HER_CONTR_GRUP": "complementaria",
-        "HER_SOCIO": "ocasional",
-        "HER_GUIA_OBS": "complementaria"
+        "INS_DIARIO_PROF": "principal",
+        "INS_FICHA_COEV": "complementaria",
+        "INS_RUB_COOP": "complementaria",
+        "INS_CONTR_GRUP": "complementaria",
+        "INS_SOCIO": "ocasional",
+        "INS_GUIA_OBS": "complementaria"
       }
     },
     "metac_ids": [
@@ -227,7 +227,7 @@
     ]
   },
   {
-    "id": "INS_PART",
+    "id": "EVI_PART",
     "entity_type": "instrumento",
     "name": "Participació a classe",
     "type": "Observació",
@@ -254,10 +254,10 @@
       "TEC_OBS_INC"
     ],
     "related_tools": [
-      "HER_CUAD_CAL",
-      "HER_DIARIO_PROF",
-      "HER_ESC_OBS",
-      "HER_REG_PART"
+      "INS_CUAD_CAL",
+      "INS_DIARIO_PROF",
+      "INS_ESC_OBS",
+      "INS_REG_PART"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -273,10 +273,10 @@
         "DIM_DESEMP": "complementaria"
       },
       "rel_her": {
-        "HER_CUAD_CAL": "principal",
-        "HER_DIARIO_PROF": "complementaria",
-        "HER_ESC_OBS": "complementaria",
-        "HER_REG_PART": "ocasional"
+        "INS_CUAD_CAL": "principal",
+        "INS_DIARIO_PROF": "complementaria",
+        "INS_ESC_OBS": "complementaria",
+        "INS_REG_PART": "ocasional"
       }
     },
     "metac_ids": [
@@ -317,7 +317,7 @@
     ]
   },
   {
-    "id": "INS_DEBATE",
+    "id": "EVI_DEBATE",
     "entity_type": "instrumento",
     "name": "Debat",
     "type": "Oral",
@@ -345,8 +345,8 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_ESC_OBS",
-      "HER_FICHA_COEV"
+      "INS_ESC_OBS",
+      "INS_FICHA_COEV"
     ],
     "related_dimensions": [
       "DIM_COEV"
@@ -360,8 +360,8 @@
         "DIM_COEV": "complementaria"
       },
       "rel_her": {
-        "HER_ESC_OBS": "principal",
-        "HER_FICHA_COEV": "complementaria"
+        "INS_ESC_OBS": "principal",
+        "INS_FICHA_COEV": "complementaria"
       }
     },
     "metac_ids": [
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "id": "INS_COLOQ",
+    "id": "EVI_COLOQ",
     "entity_type": "instrumento",
     "name": "Col·loqui",
     "type": "Oral",
@@ -425,8 +425,8 @@
       "TEC_ORAL"
     ],
     "related_tools": [
-      "HER_ESC_OBS",
-      "HER_REG_ANE"
+      "INS_ESC_OBS",
+      "INS_REG_ANE"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -441,8 +441,8 @@
         "DIM_DESEMP": "complementaria"
       },
       "rel_her": {
-        "HER_ESC_OBS": "principal",
-        "HER_REG_ANE": "complementaria"
+        "INS_ESC_OBS": "principal",
+        "INS_REG_ANE": "complementaria"
       }
     },
     "metac_ids": [
@@ -455,7 +455,7 @@
     ]
   },
   {
-    "id": "INS_ASAM",
+    "id": "EVI_ASAM",
     "entity_type": "instrumento",
     "name": "Assemblea",
     "type": "Oral",
@@ -481,8 +481,8 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_REG_PART",
-      "HER_ESC_OBS"
+      "INS_REG_PART",
+      "INS_ESC_OBS"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -498,8 +498,8 @@
         "DIM_COEV": "complementaria"
       },
       "rel_her": {
-        "HER_REG_PART": "principal",
-        "HER_ESC_OBS": "complementaria"
+        "INS_REG_PART": "principal",
+        "INS_ESC_OBS": "complementaria"
       }
     },
     "metac_ids": [
@@ -511,7 +511,7 @@
     ]
   },
   {
-    "id": "INS_LAB",
+    "id": "EVI_LAB",
     "entity_type": "instrumento",
     "name": "Pràctica de laboratori",
     "type": "Pràctica",
@@ -538,9 +538,9 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_DIARIO_PROF",
-      "HER_ESC_OBS",
-      "HER_LISTA"
+      "INS_DIARIO_PROF",
+      "INS_ESC_OBS",
+      "INS_LISTA"
     ],
     "related_dimensions": [
       "DIM_INDAG",
@@ -557,9 +557,9 @@
         "DIM_INDAG": "complementaria"
       },
       "rel_her": {
-        "HER_DIARIO_PROF": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_LISTA": "complementaria"
+        "INS_DIARIO_PROF": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_LISTA": "complementaria"
       }
     },
     "metac_ids": [
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "id": "INS_TALLER",
+    "id": "EVI_TALLER",
     "entity_type": "instrumento",
     "name": "Taller",
     "type": "Pràctica",
@@ -600,9 +600,9 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_ESC_OBS",
-      "HER_RUB_ANA"
+      "INS_LISTA",
+      "INS_ESC_OBS",
+      "INS_RUB_ANA"
     ],
     "related_dimensions": [
       "DIM_DESEMP"
@@ -615,9 +615,9 @@
         "DIM_DESEMP": "principal"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_RUB_ANA": "complementaria"
+        "INS_LISTA": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_RUB_ANA": "complementaria"
       }
     },
     "metac_ids": [
@@ -632,7 +632,7 @@
     ]
   },
   {
-    "id": "INS_SIM",
+    "id": "EVI_SIM",
     "entity_type": "instrumento",
     "name": "Simulació",
     "type": "Desempenyi",
@@ -657,9 +657,9 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_ESC_OBS",
-      "HER_RUB_ANA",
-      "HER_REG_DESC"
+      "INS_ESC_OBS",
+      "INS_RUB_ANA",
+      "INS_REG_DESC"
     ],
     "related_dimensions": [
       "DIM_SIM",
@@ -674,9 +674,9 @@
         "DIM_DESEMP": "complementaria"
       },
       "rel_her": {
-        "HER_ESC_OBS": "principal",
-        "HER_RUB_ANA": "complementaria",
-        "HER_REG_DESC": "complementaria"
+        "INS_ESC_OBS": "principal",
+        "INS_RUB_ANA": "complementaria",
+        "INS_REG_DESC": "complementaria"
       }
     },
     "metac_ids": [
@@ -684,7 +684,7 @@
     ]
   },
   {
-    "id": "INS_ROL",
+    "id": "EVI_ROL",
     "entity_type": "instrumento",
     "name": "Joc de rol",
     "type": "Desempenyi",
@@ -709,9 +709,9 @@
       "TEC_ORAL"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_REG_ANE",
-      "HER_ESC_OBS"
+      "INS_RUB_ANA",
+      "INS_REG_ANE",
+      "INS_ESC_OBS"
     ],
     "related_dimensions": [
       "DIM_SIM"
@@ -724,9 +724,9 @@
         "DIM_SIM": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_REG_ANE": "complementaria",
-        "HER_ESC_OBS": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_REG_ANE": "complementaria",
+        "INS_ESC_OBS": "complementaria"
       }
     },
     "metac_ids": [
@@ -813,7 +813,7 @@
     ]
   },
   {
-    "id": "INS_DRAMA",
+    "id": "EVI_DRAMA",
     "entity_type": "instrumento",
     "name": "Dramatització",
     "type": "Desempenyi",
@@ -838,8 +838,8 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_ESC_OBS",
-      "HER_RUB_ORAL"
+      "INS_ESC_OBS",
+      "INS_RUB_ORAL"
     ],
     "related_dimensions": [
       "DIM_SIM"
@@ -852,8 +852,8 @@
         "DIM_SIM": "principal"
       },
       "rel_her": {
-        "HER_ESC_OBS": "principal",
-        "HER_RUB_ORAL": "complementaria"
+        "INS_ESC_OBS": "principal",
+        "INS_RUB_ORAL": "complementaria"
       }
     },
     "metac_ids": [
@@ -866,7 +866,7 @@
     ]
   },
   {
-    "id": "INS_EXPO",
+    "id": "EVI_EXPO",
     "entity_type": "instrumento",
     "name": "Exposició oral",
     "type": "Oral",
@@ -893,11 +893,11 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_BANCO_DESC",
-      "HER_CONV",
-      "HER_ESC_OBS",
-      "HER_LISTA",
-      "HER_RUB_ORAL"
+      "INS_BANCO_DESC",
+      "INS_CONV",
+      "INS_ESC_OBS",
+      "INS_LISTA",
+      "INS_RUB_ORAL"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -917,11 +917,11 @@
         "DIM_HET": "ocasional"
       },
       "rel_her": {
-        "HER_BANCO_DESC": "principal",
-        "HER_CONV": "complementaria",
-        "HER_ESC_OBS": "complementaria",
-        "HER_LISTA": "ocasional",
-        "HER_RUB_ORAL": "ocasional"
+        "INS_BANCO_DESC": "principal",
+        "INS_CONV": "complementaria",
+        "INS_ESC_OBS": "complementaria",
+        "INS_LISTA": "ocasional",
+        "INS_RUB_ORAL": "ocasional"
       }
     },
     "metac_ids": [
@@ -1010,7 +1010,7 @@
     ]
   },
   {
-    "id": "INS_DEF_PROY",
+    "id": "EVI_DEF_PROY",
     "entity_type": "instrumento",
     "name": "Defensa de projecte",
     "type": "Oral",
@@ -1038,13 +1038,13 @@
       "TEC_ENTREV_EVAL"
     ],
     "related_tools": [
-      "HER_ACTA",
-      "HER_BANCO_DESC",
-      "HER_CONV",
-      "HER_ESC_OBS",
-      "HER_RUB_ORAL",
-      "HER_RUB_PUNTO",
-      "HER_ESCAL_FB"
+      "INS_ACTA",
+      "INS_BANCO_DESC",
+      "INS_CONV",
+      "INS_ESC_OBS",
+      "INS_RUB_ORAL",
+      "INS_RUB_PUNTO",
+      "INS_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -1061,13 +1061,13 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_ACTA": "principal",
-        "HER_BANCO_DESC": "complementaria",
-        "HER_CONV": "complementaria",
-        "HER_ESCAL_FB": "complementaria",
-        "HER_ESC_OBS": "ocasional",
-        "HER_RUB_ORAL": "ocasional",
-        "HER_RUB_PUNTO": "complementaria"
+        "INS_ACTA": "principal",
+        "INS_BANCO_DESC": "complementaria",
+        "INS_CONV": "complementaria",
+        "INS_ESCAL_FB": "complementaria",
+        "INS_ESC_OBS": "ocasional",
+        "INS_RUB_ORAL": "ocasional",
+        "INS_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -1079,7 +1079,7 @@
     ]
   },
   {
-    "id": "INS_ENTREV",
+    "id": "EVI_ENTREV",
     "entity_type": "instrumento",
     "name": "Entrevista",
     "type": "Oral",
@@ -1105,8 +1105,8 @@
       "TEC_ENTREV_EVAL"
     ],
     "related_tools": [
-      "HER_REG_ANE",
-      "HER_ESC_OBS"
+      "INS_REG_ANE",
+      "INS_ESC_OBS"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -1122,8 +1122,8 @@
         "DIM_DESEMP": "complementaria"
       },
       "rel_her": {
-        "HER_REG_ANE": "principal",
-        "HER_ESC_OBS": "complementaria"
+        "INS_REG_ANE": "principal",
+        "INS_ESC_OBS": "complementaria"
       }
     },
     "metac_ids": [
@@ -1138,7 +1138,7 @@
     ]
   },
   {
-    "id": "INS_PREG_ORAL",
+    "id": "EVI_PREG_ORAL",
     "entity_type": "instrumento",
     "name": "Pregunta oral estructurada",
     "type": "Oral",
@@ -1164,8 +1164,8 @@
       "TEC_SONDEO"
     ],
     "related_tools": [
-      "HER_ESC_OBS",
-      "HER_REG_ANE"
+      "INS_ESC_OBS",
+      "INS_REG_ANE"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -1181,8 +1181,8 @@
         "DIM_DESEMP": "complementaria"
       },
       "rel_her": {
-        "HER_ESC_OBS": "principal",
-        "HER_REG_ANE": "complementaria"
+        "INS_ESC_OBS": "principal",
+        "INS_REG_ANE": "complementaria"
       }
     },
     "metac_ids": [
@@ -1197,7 +1197,7 @@
     ]
   },
   {
-    "id": "INS_CUADERNO",
+    "id": "EVI_CUADERNO",
     "entity_type": "instrumento",
     "name": "Quadern de classe",
     "type": "Producció escrita",
@@ -1224,9 +1224,9 @@
       "TEC_ANAL_DOC"
     ],
     "related_tools": [
-      "HER_CUAD_CAL",
-      "HER_ESC_OBS",
-      "HER_LISTA"
+      "INS_CUAD_CAL",
+      "INS_ESC_OBS",
+      "INS_LISTA"
     ],
     "related_dimensions": [
       "DIM_FORM"
@@ -1240,9 +1240,9 @@
         "DIM_FORM": "principal"
       },
       "rel_her": {
-        "HER_CUAD_CAL": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_LISTA": "complementaria"
+        "INS_CUAD_CAL": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_LISTA": "complementaria"
       }
     },
     "metac_ids": [
@@ -1254,7 +1254,7 @@
     ]
   },
   {
-    "id": "INS_DIARIO",
+    "id": "EVI_DIARIO",
     "entity_type": "instrumento",
     "name": "Diari d'aprenentatge",
     "type": "Reflexió escrita",
@@ -1280,11 +1280,11 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_DIANA",
-      "HER_ESC_AUTO",
-      "HER_ESC_VERB",
-      "HER_FICHA_RETRO",
-      "HER_DECL_IA"
+      "INS_DIANA",
+      "INS_ESC_AUTO",
+      "INS_ESC_VERB",
+      "INS_FICHA_RETRO",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -1303,11 +1303,11 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_DIANA": "principal",
-        "HER_ESC_AUTO": "complementaria",
-        "HER_ESC_VERB": "complementaria",
-        "HER_FICHA_RETRO": "ocasional",
-        "HER_DECL_IA": "principal"
+        "INS_DIANA": "principal",
+        "INS_ESC_AUTO": "complementaria",
+        "INS_ESC_VERB": "complementaria",
+        "INS_FICHA_RETRO": "ocasional",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -1325,7 +1325,7 @@
     ]
   },
   {
-    "id": "INS_PORT",
+    "id": "EVI_PORT",
     "entity_type": "instrumento",
     "name": "Portafoli",
     "type": "Producció complexa",
@@ -1351,13 +1351,13 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_BANCO_DESC",
-      "HER_ESC_DESC",
-      "HER_ESC_VERB",
-      "HER_HOJA_CALC",
-      "HER_HOJA_IND",
-      "HER_MATRIZ_POND",
-      "HER_DECL_IA"
+      "INS_BANCO_DESC",
+      "INS_ESC_DESC",
+      "INS_ESC_VERB",
+      "INS_HOJA_CALC",
+      "INS_HOJA_IND",
+      "INS_MATRIZ_POND",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -1379,13 +1379,13 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_BANCO_DESC": "principal",
-        "HER_ESC_DESC": "complementaria",
-        "HER_ESC_VERB": "complementaria",
-        "HER_HOJA_CALC": "ocasional",
-        "HER_HOJA_IND": "ocasional",
-        "HER_MATRIZ_POND": "ocasional",
-        "HER_DECL_IA": "principal"
+        "INS_BANCO_DESC": "principal",
+        "INS_ESC_DESC": "complementaria",
+        "INS_ESC_VERB": "complementaria",
+        "INS_HOJA_CALC": "ocasional",
+        "INS_HOJA_IND": "ocasional",
+        "INS_MATRIZ_POND": "ocasional",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -1405,7 +1405,7 @@
     ]
   },
   {
-    "id": "INS_INFO_LAB",
+    "id": "EVI_INFO_LAB",
     "entity_type": "instrumento",
     "name": "Informe de laboratori",
     "type": "Producció escrita",
@@ -1432,10 +1432,10 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_GUIA_CORR",
-      "HER_LISTA",
-      "HER_BASE_ORIENT"
+      "INS_RUB_ANA",
+      "INS_GUIA_CORR",
+      "INS_LISTA",
+      "INS_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_INDAG",
@@ -1450,10 +1450,10 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_BASE_ORIENT": "complementaria",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_LISTA": "complementaria",
-        "HER_RUB_ANA": "principal"
+        "INS_BASE_ORIENT": "complementaria",
+        "INS_GUIA_CORR": "complementaria",
+        "INS_LISTA": "complementaria",
+        "INS_RUB_ANA": "principal"
       }
     },
     "metac_ids": [
@@ -1465,7 +1465,7 @@
     ]
   },
   {
-    "id": "INS_INFO_INV",
+    "id": "EVI_INFO_INV",
     "entity_type": "instrumento",
     "name": "Informe de recerca",
     "type": "Producció escrita",
@@ -1491,10 +1491,10 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_TAB_CRIT",
-      "HER_DECL_IA",
-      "HER_RUB_PUNTO"
+      "INS_GUIA_CORR",
+      "INS_TAB_CRIT",
+      "INS_DECL_IA",
+      "INS_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_INDAG",
@@ -1511,10 +1511,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_DECL_IA": "principal",
-        "HER_GUIA_CORR": "principal",
-        "HER_RUB_PUNTO": "complementaria",
-        "HER_TAB_CRIT": "complementaria"
+        "INS_DECL_IA": "principal",
+        "INS_GUIA_CORR": "principal",
+        "INS_RUB_PUNTO": "complementaria",
+        "INS_TAB_CRIT": "complementaria"
       }
     },
     "metac_ids": [
@@ -1527,7 +1527,7 @@
     ]
   },
   {
-    "id": "INS_MONO",
+    "id": "EVI_MONO",
     "entity_type": "instrumento",
     "name": "Monografia",
     "type": "Producció escrita",
@@ -1552,9 +1552,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_GUIA_CORR",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_GUIA_CORR",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -1571,9 +1571,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_RUB_ANA": "principal",
+        "INS_GUIA_CORR": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -1585,7 +1585,7 @@
     ]
   },
   {
-    "id": "INS_ENSAYO",
+    "id": "EVI_ENSAYO",
     "entity_type": "instrumento",
     "name": "Assaig",
     "type": "Producció escrita",
@@ -1610,10 +1610,10 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_TAB_CRIT",
-      "HER_DECL_IA",
-      "HER_RUB_PUNTO"
+      "INS_GUIA_CORR",
+      "INS_TAB_CRIT",
+      "INS_DECL_IA",
+      "INS_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -1632,10 +1632,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_DECL_IA": "principal",
-        "HER_GUIA_CORR": "principal",
-        "HER_RUB_PUNTO": "principal",
-        "HER_TAB_CRIT": "complementaria"
+        "INS_DECL_IA": "principal",
+        "INS_GUIA_CORR": "principal",
+        "INS_RUB_PUNTO": "principal",
+        "INS_TAB_CRIT": "complementaria"
       }
     },
     "metac_ids": [
@@ -1646,7 +1646,7 @@
     ]
   },
   {
-    "id": "INS_COM_TEXT",
+    "id": "EVI_COM_TEXT",
     "entity_type": "instrumento",
     "name": "Comentari de text",
     "type": "Producció escrita",
@@ -1673,10 +1673,10 @@
       "TEC_PRUEBA"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_RUB_ANA",
-      "HER_DECL_IA",
-      "HER_RUB_PUNTO"
+      "INS_GUIA_CORR",
+      "INS_RUB_ANA",
+      "INS_DECL_IA",
+      "INS_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -1694,10 +1694,10 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_DECL_IA": "complementaria",
-        "HER_GUIA_CORR": "principal",
-        "HER_RUB_ANA": "complementaria",
-        "HER_RUB_PUNTO": "complementaria"
+        "INS_DECL_IA": "complementaria",
+        "INS_GUIA_CORR": "principal",
+        "INS_RUB_ANA": "complementaria",
+        "INS_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -1710,7 +1710,7 @@
     ]
   },
   {
-    "id": "INS_COM_GRAF",
+    "id": "EVI_COM_GRAF",
     "entity_type": "instrumento",
     "name": "Comentari de gràfica o dades",
     "type": "Producció escrita",
@@ -1736,9 +1736,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_ESC_OBS",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_ESC_OBS",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_PROB",
@@ -1753,9 +1753,9 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -1767,7 +1767,7 @@
     ]
   },
   {
-    "id": "INS_RESUMEN",
+    "id": "EVI_RESUMEN",
     "entity_type": "instrumento",
     "name": "Resum",
     "type": "Producció escrita",
@@ -1792,9 +1792,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_ESC_DESC",
-      "HER_DECL_IA"
+      "INS_LISTA",
+      "INS_ESC_DESC",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -1809,9 +1809,9 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_ESC_DESC": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "INS_LISTA": "principal",
+        "INS_ESC_DESC": "complementaria",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -1828,7 +1828,7 @@
     ]
   },
   {
-    "id": "INS_ESQUEMA",
+    "id": "EVI_ESQUEMA",
     "entity_type": "instrumento",
     "name": "Esquema",
     "type": "Producció visual/escrita",
@@ -1853,9 +1853,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_ESC_OBS",
-      "HER_DECL_IA"
+      "INS_LISTA",
+      "INS_ESC_OBS",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -1870,9 +1870,9 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "INS_LISTA": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -1896,7 +1896,7 @@
     ]
   },
   {
-    "id": "INS_MAP_CONC",
+    "id": "EVI_MAP_CONC",
     "entity_type": "instrumento",
     "name": "Mapa conceptual",
     "type": "Producció visual",
@@ -1920,9 +1920,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_LISTA",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_LISTA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIAG",
@@ -1937,9 +1937,9 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "INS_RUB_ANA": "principal",
+        "INS_LISTA": "complementaria",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -1951,7 +1951,7 @@
     ]
   },
   {
-    "id": "INS_MAP_MENT",
+    "id": "EVI_MAP_MENT",
     "entity_type": "instrumento",
     "name": "Mapa mental",
     "type": "Producció visual",
@@ -1976,9 +1976,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_ESC_OBS",
-      "HER_LISTA",
-      "HER_DECL_IA"
+      "INS_ESC_OBS",
+      "INS_LISTA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -1993,9 +1993,9 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_ESC_OBS": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "INS_ESC_OBS": "principal",
+        "INS_LISTA": "complementaria",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -2009,7 +2009,7 @@
     ]
   },
   {
-    "id": "INS_LINEA",
+    "id": "EVI_LINEA",
     "entity_type": "instrumento",
     "name": "Línia del temps",
     "type": "Producció visual",
@@ -2034,8 +2034,8 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_DECL_IA"
+      "INS_LISTA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -2050,8 +2050,8 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_DECL_IA": "ocasional"
+        "INS_LISTA": "principal",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -2064,7 +2064,7 @@
     ]
   },
   {
-    "id": "INS_GLOS",
+    "id": "EVI_GLOS",
     "entity_type": "instrumento",
     "name": "Glossari",
     "type": "Producció escrita",
@@ -2088,9 +2088,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_GUIA_CORR",
-      "HER_DECL_IA"
+      "INS_LISTA",
+      "INS_GUIA_CORR",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -2105,9 +2105,9 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "INS_LISTA": "principal",
+        "INS_GUIA_CORR": "complementaria",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -2119,7 +2119,7 @@
     ]
   },
   {
-    "id": "INS_FICHA_LECT",
+    "id": "EVI_FICHA_LECT",
     "entity_type": "instrumento",
     "name": "Fitxa de lectura",
     "type": "Producció escrita",
@@ -2144,9 +2144,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_ESC_OBS",
-      "HER_DECL_IA"
+      "INS_LISTA",
+      "INS_ESC_OBS",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -2161,9 +2161,9 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "INS_LISTA": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -2175,7 +2175,7 @@
     ]
   },
   {
-    "id": "INS_RESEÑA",
+    "id": "EVI_RESEÑA",
     "entity_type": "instrumento",
     "name": "Ressenya",
     "type": "Producció escrita",
@@ -2200,9 +2200,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_GUIA_CORR",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_GUIA_CORR",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -2219,9 +2219,9 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_GUIA_CORR": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -2229,7 +2229,7 @@
     ]
   },
   {
-    "id": "INS_ART_DIV",
+    "id": "EVI_ART_DIV",
     "entity_type": "instrumento",
     "name": "Article de divulgació",
     "type": "Producció escrita",
@@ -2254,9 +2254,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_ESC_DESC",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_ESC_DESC",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -2273,9 +2273,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_ESC_DESC": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_RUB_ANA": "principal",
+        "INS_ESC_DESC": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -2287,7 +2287,7 @@
     ]
   },
   {
-    "id": "INS_MEM_PROY",
+    "id": "EVI_MEM_PROY",
     "entity_type": "instrumento",
     "name": "Memòria de projecte",
     "type": "Producció escrita",
@@ -2314,12 +2314,12 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_CONV",
-      "HER_HOJA_CALC",
-      "HER_HOJA_IND",
-      "HER_MATRIZ_POND",
-      "HER_DECL_IA",
-      "HER_RUB_PUNTO"
+      "INS_CONV",
+      "INS_HOJA_CALC",
+      "INS_HOJA_IND",
+      "INS_MATRIZ_POND",
+      "INS_DECL_IA",
+      "INS_RUB_PUNTO"
     ],
     "related_dimensions": [
       "DIM_PROY",
@@ -2334,12 +2334,12 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_CONV": "principal",
-        "HER_DECL_IA": "principal",
-        "HER_HOJA_CALC": "complementaria",
-        "HER_HOJA_IND": "complementaria",
-        "HER_MATRIZ_POND": "ocasional",
-        "HER_RUB_PUNTO": "complementaria"
+        "INS_CONV": "principal",
+        "INS_DECL_IA": "principal",
+        "INS_HOJA_CALC": "complementaria",
+        "INS_HOJA_IND": "complementaria",
+        "INS_MATRIZ_POND": "ocasional",
+        "INS_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -2352,7 +2352,7 @@
     ]
   },
   {
-    "id": "INS_PLAN_TRAB",
+    "id": "EVI_PLAN_TRAB",
     "entity_type": "instrumento",
     "name": "Pla de treball",
     "type": "Procés",
@@ -2377,9 +2377,9 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_HOJA_IND",
-      "HER_DECL_IA"
+      "INS_LISTA",
+      "INS_HOJA_IND",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -2396,9 +2396,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_HOJA_IND": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_LISTA": "principal",
+        "INS_HOJA_IND": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -2415,7 +2415,7 @@
     ]
   },
   {
-    "id": "INS_ACTA",
+    "id": "EVI_ACTA",
     "entity_type": "instrumento",
     "name": "Acta de reunió",
     "type": "Procés",
@@ -2441,8 +2441,8 @@
       "TEC_ANAL_DOC"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_DECL_IA"
+      "INS_LISTA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_COEV",
@@ -2458,8 +2458,8 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_DECL_IA": "ocasional"
+        "INS_LISTA": "principal",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -2471,7 +2471,7 @@
     ]
   },
   {
-    "id": "INS_CONTRATO",
+    "id": "EVI_CONTRATO",
     "entity_type": "instrumento",
     "name": "Contracte d'aprenentatge",
     "type": "Autoavaluació",
@@ -2496,7 +2496,7 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_REG_COMP"
+      "INS_REG_COMP"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -2513,7 +2513,7 @@
         "DIM_COMPART": "complementaria"
       },
       "rel_her": {
-        "HER_REG_COMP": "principal"
+        "INS_REG_COMP": "principal"
       }
     },
     "metac_ids": [
@@ -2528,7 +2528,7 @@
     ]
   },
   {
-    "id": "INS_F_REFLEX",
+    "id": "EVI_F_REFLEX",
     "entity_type": "instrumento",
     "name": "Fitxa de reflexió",
     "type": "Autoavaluació",
@@ -2553,12 +2553,12 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_DIANA",
-      "HER_ESC_OBS",
-      "HER_ESC_VERB",
-      "HER_FICHA_RETRO",
-      "HER_DECL_IA",
-      "HER_BASE_ORIENT"
+      "INS_DIANA",
+      "INS_ESC_OBS",
+      "INS_ESC_VERB",
+      "INS_FICHA_RETRO",
+      "INS_DECL_IA",
+      "INS_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -2579,12 +2579,12 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_BASE_ORIENT": "complementaria",
-        "HER_DECL_IA": "ocasional",
-        "HER_DIANA": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_ESC_VERB": "complementaria",
-        "HER_FICHA_RETRO": "ocasional"
+        "INS_BASE_ORIENT": "complementaria",
+        "INS_DECL_IA": "ocasional",
+        "INS_DIANA": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_ESC_VERB": "complementaria",
+        "INS_FICHA_RETRO": "ocasional"
       }
     },
     "metac_ids": [
@@ -2602,7 +2602,7 @@
     ]
   },
   {
-    "id": "INS_AUTOINF",
+    "id": "EVI_AUTOINF",
     "entity_type": "instrumento",
     "name": "Autoinforme",
     "type": "Autoavaluació",
@@ -2626,9 +2626,9 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_RUB_AUTO",
-      "HER_ESC_OBS",
-      "HER_DECL_IA"
+      "INS_RUB_AUTO",
+      "INS_ESC_OBS",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -2647,9 +2647,9 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_RUB_AUTO": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_DECL_IA": "ocasional"
+        "INS_RUB_AUTO": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -2662,7 +2662,7 @@
     ]
   },
   {
-    "id": "INS_PROB",
+    "id": "EVI_PROB",
     "entity_type": "instrumento",
     "name": "Resolució de problemes",
     "type": "Prova/desempenyi",
@@ -2687,10 +2687,10 @@
       "TEC_PRUEBA"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_RUB_COMP",
-      "HER_DECL_IA",
-      "HER_BASE_ORIENT"
+      "INS_GUIA_CORR",
+      "INS_RUB_COMP",
+      "INS_DECL_IA",
+      "INS_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_PROB",
@@ -2707,10 +2707,10 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_BASE_ORIENT": "principal",
-        "HER_DECL_IA": "complementaria",
-        "HER_GUIA_CORR": "principal",
-        "HER_RUB_COMP": "complementaria"
+        "INS_BASE_ORIENT": "principal",
+        "INS_DECL_IA": "complementaria",
+        "INS_GUIA_CORR": "principal",
+        "INS_RUB_COMP": "complementaria"
       }
     },
     "metac_ids": [
@@ -2762,7 +2762,7 @@
     ]
   },
   {
-    "id": "INS_CASO",
+    "id": "EVI_CASO",
     "entity_type": "instrumento",
     "name": "Estudi de cas",
     "type": "Prova/desempenyi",
@@ -2788,10 +2788,10 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_GUIA_CORR",
-      "HER_RUB_COMP",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_GUIA_CORR",
+      "INS_RUB_COMP",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_CASO",
@@ -2809,10 +2809,10 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_RUB_COMP": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_GUIA_CORR": "complementaria",
+        "INS_RUB_COMP": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -2824,7 +2824,7 @@
     ]
   },
   {
-    "id": "INS_PR_DES",
+    "id": "EVI_PR_DES",
     "entity_type": "instrumento",
     "name": "Prova escrita de desenvolupament",
     "type": "Prova",
@@ -2849,12 +2849,12 @@
       "TEC_PRUEBA"
     ],
     "related_tools": [
-      "HER_BAREMO",
-      "HER_ESC_NUM",
-      "HER_GUIA_CORR",
-      "HER_MATRIZ_POND",
-      "HER_RUB_ANA",
-      "HER_TAB_ESPEC"
+      "INS_BAREMO",
+      "INS_ESC_NUM",
+      "INS_GUIA_CORR",
+      "INS_MATRIZ_POND",
+      "INS_RUB_ANA",
+      "INS_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -2871,12 +2871,12 @@
         "DIM_SUM": "principal"
       },
       "rel_her": {
-        "HER_BAREMO": "principal",
-        "HER_ESC_NUM": "complementaria",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_MATRIZ_POND": "ocasional",
-        "HER_RUB_ANA": "ocasional",
-        "HER_TAB_ESPEC": "principal"
+        "INS_BAREMO": "principal",
+        "INS_ESC_NUM": "complementaria",
+        "INS_GUIA_CORR": "complementaria",
+        "INS_MATRIZ_POND": "ocasional",
+        "INS_RUB_ANA": "ocasional",
+        "INS_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -2888,7 +2888,7 @@
     ]
   },
   {
-    "id": "INS_PR_OBJ",
+    "id": "EVI_PR_OBJ",
     "entity_type": "instrumento",
     "name": "Prova objectiva",
     "type": "Prova",
@@ -2913,11 +2913,11 @@
       "TEC_PRUEBA"
     ],
     "related_tools": [
-      "HER_BAREMO",
-      "HER_ESC_NUM",
-      "HER_HOJA_CALC",
-      "HER_PLANT_CORR",
-      "HER_TAB_ESPEC"
+      "INS_BAREMO",
+      "INS_ESC_NUM",
+      "INS_HOJA_CALC",
+      "INS_PLANT_CORR",
+      "INS_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -2936,11 +2936,11 @@
         "DIM_SUM": "principal"
       },
       "rel_her": {
-        "HER_BAREMO": "principal",
-        "HER_ESC_NUM": "complementaria",
-        "HER_HOJA_CALC": "complementaria",
-        "HER_PLANT_CORR": "ocasional",
-        "HER_TAB_ESPEC": "principal"
+        "INS_BAREMO": "principal",
+        "INS_ESC_NUM": "complementaria",
+        "INS_HOJA_CALC": "complementaria",
+        "INS_PLANT_CORR": "ocasional",
+        "INS_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -2958,7 +2958,7 @@
     ]
   },
   {
-    "id": "INS_TEST",
+    "id": "EVI_TEST",
     "entity_type": "instrumento",
     "name": "Prova tipus test",
     "type": "Prova",
@@ -2984,9 +2984,9 @@
       "TEC_SONDEO"
     ],
     "related_tools": [
-      "HER_BAREMO",
-      "HER_ESC_NUM",
-      "HER_TAB_ESPEC"
+      "INS_BAREMO",
+      "INS_ESC_NUM",
+      "INS_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -3006,9 +3006,9 @@
         "DIM_SUM": "principal"
       },
       "rel_her": {
-        "HER_BAREMO": "principal",
-        "HER_ESC_NUM": "complementaria",
-        "HER_TAB_ESPEC": "principal"
+        "INS_BAREMO": "principal",
+        "INS_ESC_NUM": "complementaria",
+        "INS_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -3029,7 +3029,7 @@
     ]
   },
   {
-    "id": "INS_RESP_CORTA",
+    "id": "EVI_RESP_CORTA",
     "entity_type": "instrumento",
     "name": "Prova de resposta curta",
     "type": "Prova",
@@ -3055,9 +3055,9 @@
       "TEC_SONDEO"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_BAREMO",
-      "HER_TAB_ESPEC"
+      "INS_GUIA_CORR",
+      "INS_BAREMO",
+      "INS_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -3075,9 +3075,9 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_BAREMO": "complementaria",
-        "HER_GUIA_CORR": "principal",
-        "HER_TAB_ESPEC": "complementaria"
+        "INS_BAREMO": "complementaria",
+        "INS_GUIA_CORR": "principal",
+        "INS_TAB_ESPEC": "complementaria"
       }
     },
     "metac_ids": [
@@ -3089,7 +3089,7 @@
     ]
   },
   {
-    "id": "INS_PR_ORAL",
+    "id": "EVI_PR_ORAL",
     "entity_type": "instrumento",
     "name": "Prova oral",
     "type": "Prova oral",
@@ -3115,8 +3115,8 @@
       "TEC_ORAL"
     ],
     "related_tools": [
-      "HER_ACTA",
-      "HER_RUB_ORAL"
+      "INS_ACTA",
+      "INS_RUB_ORAL"
     ],
     "related_dimensions": [
       "DIM_SUM",
@@ -3134,8 +3134,8 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_ACTA": "principal",
-        "HER_RUB_ORAL": "complementaria"
+        "INS_ACTA": "principal",
+        "INS_RUB_ORAL": "complementaria"
       }
     },
     "metac_ids": [
@@ -3147,7 +3147,7 @@
     ]
   },
   {
-    "id": "INS_PR_PRACT",
+    "id": "EVI_PR_PRACT",
     "entity_type": "instrumento",
     "name": "Prova pràctica",
     "type": "Prova pràctica",
@@ -3172,7 +3172,7 @@
       "TEC_PRUEBA"
     ],
     "related_tools": [
-      "HER_LISTA"
+      "INS_LISTA"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -3187,7 +3187,7 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_LISTA": "principal"
+        "INS_LISTA": "principal"
       }
     },
     "metac_ids": [
@@ -3199,7 +3199,7 @@
     ]
   },
   {
-    "id": "INS_PR_COMP",
+    "id": "EVI_PR_COMP",
     "entity_type": "instrumento",
     "name": "Prova competencial contextualitzada",
     "type": "Prova competencial",
@@ -3225,11 +3225,11 @@
       "TEC_TRIANG"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_RUB_COMP",
-      "HER_TAB_CRIT",
-      "HER_DECL_IA",
-      "HER_TAB_ESPEC"
+      "INS_GUIA_CORR",
+      "INS_RUB_COMP",
+      "INS_TAB_CRIT",
+      "INS_DECL_IA",
+      "INS_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -3249,11 +3249,11 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_DECL_IA": "complementaria",
-        "HER_GUIA_CORR": "principal",
-        "HER_RUB_COMP": "complementaria",
-        "HER_TAB_CRIT": "complementaria",
-        "HER_TAB_ESPEC": "complementaria"
+        "INS_DECL_IA": "complementaria",
+        "INS_GUIA_CORR": "principal",
+        "INS_RUB_COMP": "complementaria",
+        "INS_TAB_CRIT": "complementaria",
+        "INS_TAB_ESPEC": "complementaria"
       }
     },
     "metac_ids": [
@@ -3265,7 +3265,7 @@
     ]
   },
   {
-    "id": "INS_DOCS",
+    "id": "EVI_DOCS",
     "entity_type": "instrumento",
     "name": "Prova amb documents",
     "type": "Prova",
@@ -3291,9 +3291,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_RUB_ANA",
-      "HER_TAB_ESPEC"
+      "INS_GUIA_CORR",
+      "INS_RUB_ANA",
+      "INS_TAB_ESPEC"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -3311,9 +3311,9 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_GUIA_CORR": "principal",
-        "HER_RUB_ANA": "complementaria",
-        "HER_TAB_ESPEC": "complementaria"
+        "INS_GUIA_CORR": "principal",
+        "INS_RUB_ANA": "complementaria",
+        "INS_TAB_ESPEC": "complementaria"
       }
     },
     "metac_ids": [
@@ -3325,7 +3325,7 @@
     ]
   },
   {
-    "id": "INS_CUEST_DIG",
+    "id": "EVI_CUEST_DIG",
     "entity_type": "instrumento",
     "name": "Qüestionari digital",
     "type": "Digital/prova",
@@ -3353,8 +3353,8 @@
       "TEC_ENC_CUEST"
     ],
     "related_tools": [
-      "HER_FORM_DIG",
-      "HER_ANALITICAS"
+      "INS_FORM_DIG",
+      "INS_ANALITICAS"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -3371,8 +3371,8 @@
         "DIM_NORM": "complementaria"
       },
       "rel_her": {
-        "HER_FORM_DIG": "principal",
-        "HER_ANALITICAS": "complementaria"
+        "INS_FORM_DIG": "principal",
+        "INS_ANALITICAS": "complementaria"
       }
     },
     "metac_ids": [
@@ -3386,7 +3386,7 @@
     ]
   },
   {
-    "id": "INS_INFOG",
+    "id": "EVI_INFOG",
     "entity_type": "instrumento",
     "name": "Infografia",
     "type": "Producció visual",
@@ -3412,9 +3412,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_LISTA",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_LISTA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -3431,9 +3431,9 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_LISTA": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -3442,7 +3442,7 @@
     ]
   },
   {
-    "id": "INS_POSTER",
+    "id": "EVI_POSTER",
     "entity_type": "instrumento",
     "name": "Pòster acadèmic",
     "type": "Producció visual",
@@ -3467,8 +3467,8 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_ESC_OBS",
-      "HER_DECL_IA"
+      "INS_ESC_OBS",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -3483,8 +3483,8 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_ESC_OBS": "principal",
-        "HER_DECL_IA": "complementaria"
+        "INS_ESC_OBS": "principal",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -3504,7 +3504,7 @@
     ]
   },
   {
-    "id": "INS_PRESENT_DIG",
+    "id": "EVI_PRESENT_DIG",
     "entity_type": "instrumento",
     "name": "Presentació digital",
     "type": "Producció digital",
@@ -3530,11 +3530,11 @@
       "TEC_ORAL"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_LISTA",
-      "HER_DECL_IA",
-      "HER_RUB_PUNTO",
-      "HER_ESCAL_FB"
+      "INS_RUB_ANA",
+      "INS_LISTA",
+      "INS_DECL_IA",
+      "INS_RUB_PUNTO",
+      "INS_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -3552,11 +3552,11 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_DECL_IA": "principal",
-        "HER_ESCAL_FB": "complementaria",
-        "HER_LISTA": "complementaria",
-        "HER_RUB_ANA": "principal",
-        "HER_RUB_PUNTO": "complementaria"
+        "INS_DECL_IA": "principal",
+        "INS_ESCAL_FB": "complementaria",
+        "INS_LISTA": "complementaria",
+        "INS_RUB_ANA": "principal",
+        "INS_RUB_PUNTO": "complementaria"
       }
     },
     "metac_ids": [
@@ -3569,7 +3569,7 @@
     ]
   },
   {
-    "id": "INS_VIDEO",
+    "id": "EVI_VIDEO",
     "entity_type": "instrumento",
     "name": "Vídeo",
     "type": "Producció audiovisual",
@@ -3595,9 +3595,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_PROD",
-      "HER_ESC_VAL",
-      "HER_DECL_IA"
+      "INS_RUB_PROD",
+      "INS_ESC_VAL",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -3612,9 +3612,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_PROD": "principal",
-        "HER_ESC_VAL": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_RUB_PROD": "principal",
+        "INS_ESC_VAL": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -3634,7 +3634,7 @@
     ]
   },
   {
-    "id": "INS_TUTORIAL",
+    "id": "EVI_TUTORIAL",
     "entity_type": "instrumento",
     "name": "Videotutorial",
     "type": "Producció audiovisual",
@@ -3660,9 +3660,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_LISTA",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_LISTA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -3677,9 +3677,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_RUB_ANA": "principal",
+        "INS_LISTA": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -3691,7 +3691,7 @@
     ]
   },
   {
-    "id": "INS_PODCAST",
+    "id": "EVI_PODCAST",
     "entity_type": "instrumento",
     "name": "Podcast",
     "type": "Producció oral/digital",
@@ -3718,9 +3718,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ORAL",
-      "HER_ESC_VAL",
-      "HER_DECL_IA"
+      "INS_RUB_ORAL",
+      "INS_ESC_VAL",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -3736,9 +3736,9 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ORAL": "principal",
-        "HER_ESC_VAL": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_RUB_ORAL": "principal",
+        "INS_ESC_VAL": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -3753,7 +3753,7 @@
     ]
   },
   {
-    "id": "INS_COMIC",
+    "id": "EVI_COMIC",
     "entity_type": "instrumento",
     "name": "Còmic",
     "type": "Producció visual",
@@ -3779,8 +3779,8 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_ESC_OBS"
+      "INS_RUB_ANA",
+      "INS_ESC_OBS"
     ],
     "related_dimensions": [
       "DIM_COMP"
@@ -3793,8 +3793,8 @@
         "DIM_COMP": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_ESC_OBS": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_ESC_OBS": "complementaria"
       }
     },
     "metac_ids": [
@@ -3806,7 +3806,7 @@
     ]
   },
   {
-    "id": "INS_MAQUETA",
+    "id": "EVI_MAQUETA",
     "entity_type": "instrumento",
     "name": "Maqueta",
     "type": "Producció material",
@@ -3832,8 +3832,8 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_LISTA"
+      "INS_RUB_ANA",
+      "INS_LISTA"
     ],
     "related_dimensions": [
       "DIM_DESEMP"
@@ -3846,8 +3846,8 @@
         "DIM_DESEMP": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_LISTA": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_LISTA": "complementaria"
       }
     },
     "metac_ids": [
@@ -3857,7 +3857,7 @@
     ]
   },
   {
-    "id": "INS_MODELO_DIG",
+    "id": "EVI_MODELO_DIG",
     "entity_type": "instrumento",
     "name": "Model digital",
     "type": "Producció digital",
@@ -3882,9 +3882,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_ESC_OBS",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_ESC_OBS",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -3899,9 +3899,9 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_RUB_ANA": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -3914,7 +3914,7 @@
     ]
   },
   {
-    "id": "INS_PROTOTIPO",
+    "id": "EVI_PROTOTIPO",
     "entity_type": "instrumento",
     "name": "Prototip",
     "type": "Producció material/digital",
@@ -3941,8 +3941,8 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_HOJA_IND",
-      "HER_RUB_PROD"
+      "INS_HOJA_IND",
+      "INS_RUB_PROD"
     ],
     "related_dimensions": [
       "DIM_PROY",
@@ -3958,8 +3958,8 @@
         "DIM_DESEMP": "complementaria"
       },
       "rel_her": {
-        "HER_HOJA_IND": "principal",
-        "HER_RUB_PROD": "complementaria"
+        "INS_HOJA_IND": "principal",
+        "INS_RUB_PROD": "complementaria"
       }
     },
     "metac_ids": [
@@ -3970,7 +3970,7 @@
     ]
   },
   {
-    "id": "INS_WEB",
+    "id": "EVI_WEB",
     "entity_type": "instrumento",
     "name": "Pàgina web",
     "type": "Producció digital",
@@ -3996,9 +3996,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_DIG",
-      "HER_LISTA",
-      "HER_DECL_IA"
+      "INS_RUB_DIG",
+      "INS_LISTA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -4013,9 +4013,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_DIG": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_RUB_DIG": "principal",
+        "INS_LISTA": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -4028,7 +4028,7 @@
     ]
   },
   {
-    "id": "INS_BLOG",
+    "id": "EVI_BLOG",
     "entity_type": "instrumento",
     "name": "Entrada de blog",
     "type": "Producció digital",
@@ -4054,9 +4054,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_ESC_OBS",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_ESC_OBS",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -4071,9 +4071,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_RUB_ANA": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -4083,7 +4083,7 @@
     ]
   },
   {
-    "id": "INS_FORO",
+    "id": "EVI_FORO",
     "entity_type": "instrumento",
     "name": "Fòrum de discussió",
     "type": "Digital/oral escrit",
@@ -4109,9 +4109,9 @@
       "TEC_INTER_DIG"
     ],
     "related_tools": [
-      "HER_REG_PART",
-      "HER_RUB_ORAL",
-      "HER_DECL_IA"
+      "INS_REG_PART",
+      "INS_RUB_ORAL",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -4127,9 +4127,9 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_REG_PART": "principal",
-        "HER_RUB_ORAL": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_REG_PART": "principal",
+        "INS_RUB_ORAL": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -4142,7 +4142,7 @@
     ]
   },
   {
-    "id": "INS_DOC_COL",
+    "id": "EVI_DOC_COL",
     "entity_type": "instrumento",
     "name": "Document col·laboratiu",
     "type": "Digital/procés",
@@ -4171,10 +4171,10 @@
       "TEC_INTER_DIG"
     ],
     "related_tools": [
-      "HER_HIST_REV",
-      "HER_RUB_ANA",
-      "HER_HOJA_IND",
-      "HER_DECL_IA"
+      "INS_HIST_REV",
+      "INS_RUB_ANA",
+      "INS_HOJA_IND",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -4196,10 +4196,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_HIST_REV": "principal",
-        "HER_RUB_ANA": "complementaria",
-        "HER_HOJA_IND": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_HIST_REV": "principal",
+        "INS_RUB_ANA": "complementaria",
+        "INS_HOJA_IND": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -4213,7 +4213,7 @@
     ]
   },
   {
-    "id": "INS_PORT_DIG",
+    "id": "EVI_PORT_DIG",
     "entity_type": "instrumento",
     "name": "Portfoli digital",
     "type": "Digital/procés",
@@ -4242,9 +4242,9 @@
       "TEC_INTER_DIG"
     ],
     "related_tools": [
-      "HER_PANEL",
-      "HER_BANCO_EVID",
-      "HER_DECL_IA"
+      "INS_PANEL",
+      "INS_BANCO_EVID",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -4263,9 +4263,9 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_PANEL": "principal",
-        "HER_BANCO_EVID": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_PANEL": "principal",
+        "INS_BANCO_EVID": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -4283,7 +4283,7 @@
     ]
   },
   {
-    "id": "INS_KPSI",
+    "id": "EVI_KPSI",
     "entity_type": "instrumento",
     "name": "KPSI",
     "type": "Diagnòstic/autoavaluació",
@@ -4309,9 +4309,9 @@
       "TEC_ENC_CUEST"
     ],
     "related_tools": [
-      "HER_ESC_AUTO",
-      "HER_FORM_DIG",
-      "HER_REG_DESC"
+      "INS_ESC_AUTO",
+      "INS_FORM_DIG",
+      "INS_REG_DESC"
     ],
     "related_dimensions": [
       "DIM_DIAG",
@@ -4327,9 +4327,9 @@
         "DIM_AUTO": "complementaria"
       },
       "rel_her": {
-        "HER_ESC_AUTO": "principal",
-        "HER_FORM_DIG": "complementaria",
-        "HER_REG_DESC": "complementaria"
+        "INS_ESC_AUTO": "principal",
+        "INS_FORM_DIG": "complementaria",
+        "INS_REG_DESC": "complementaria"
       }
     },
     "metac_ids": [
@@ -4341,7 +4341,7 @@
     ]
   },
   {
-    "id": "INS_MAP_INI",
+    "id": "EVI_MAP_INI",
     "entity_type": "instrumento",
     "name": "Mapa conceptual inicial",
     "type": "Diagnòstic",
@@ -4366,9 +4366,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_REG_DESC",
-      "HER_FORM_DIG"
+      "INS_LISTA",
+      "INS_REG_DESC",
+      "INS_FORM_DIG"
     ],
     "related_dimensions": [
       "DIM_DIAG"
@@ -4382,9 +4382,9 @@
         "DIM_DIAG": "principal"
       },
       "rel_her": {
-        "HER_LISTA": "principal",
-        "HER_REG_DESC": "complementaria",
-        "HER_FORM_DIG": "complementaria"
+        "INS_LISTA": "principal",
+        "INS_REG_DESC": "complementaria",
+        "INS_FORM_DIG": "complementaria"
       }
     },
     "metac_ids": [
@@ -4396,7 +4396,7 @@
     ]
   },
   {
-    "id": "INS_LLUVIA",
+    "id": "EVI_LLUVIA",
     "entity_type": "instrumento",
     "name": "Pluja d'idees",
     "type": "Diagnòstic",
@@ -4422,9 +4422,9 @@
       "TEC_ORAL"
     ],
     "related_tools": [
-      "HER_NOTAS_CAMPO",
-      "HER_REG_ANE",
-      "HER_REG_DESC"
+      "INS_NOTAS_CAMPO",
+      "INS_REG_ANE",
+      "INS_REG_DESC"
     ],
     "related_dimensions": [
       "DIM_DIAG",
@@ -4440,9 +4440,9 @@
         "DIM_FORM": "complementaria"
       },
       "rel_her": {
-        "HER_NOTAS_CAMPO": "principal",
-        "HER_REG_ANE": "complementaria",
-        "HER_REG_DESC": "complementaria"
+        "INS_NOTAS_CAMPO": "principal",
+        "INS_REG_ANE": "complementaria",
+        "INS_REG_DESC": "complementaria"
       }
     },
     "metac_ids": [
@@ -4457,7 +4457,7 @@
     ]
   },
   {
-    "id": "INS_BORR",
+    "id": "EVI_BORR",
     "entity_type": "instrumento",
     "name": "Esborrany",
     "type": "Procés",
@@ -4483,10 +4483,10 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_FICHA_RETRO",
-      "HER_LISTA",
-      "HER_DECL_IA",
-      "HER_ESCAL_FB"
+      "INS_FICHA_RETRO",
+      "INS_LISTA",
+      "INS_DECL_IA",
+      "INS_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -4508,10 +4508,10 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_DECL_IA": "complementaria",
-        "HER_ESCAL_FB": "principal",
-        "HER_FICHA_RETRO": "principal",
-        "HER_LISTA": "complementaria"
+        "INS_DECL_IA": "complementaria",
+        "INS_ESCAL_FB": "principal",
+        "INS_FICHA_RETRO": "principal",
+        "INS_LISTA": "complementaria"
       }
     },
     "metac_ids": [
@@ -4521,7 +4521,7 @@
     ]
   },
   {
-    "id": "INS_ENT_PAR",
+    "id": "EVI_ENT_PAR",
     "entity_type": "instrumento",
     "name": "Lliurament parcial",
     "type": "Procés",
@@ -4547,10 +4547,10 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_HOJA_IND",
-      "HER_RUB_PROC",
-      "HER_FICHA_RETRO",
-      "HER_DECL_IA"
+      "INS_HOJA_IND",
+      "INS_RUB_PROC",
+      "INS_FICHA_RETRO",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_FORM",
@@ -4572,10 +4572,10 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_HOJA_IND": "principal",
-        "HER_RUB_PROC": "complementaria",
-        "HER_FICHA_RETRO": "complementaria",
-        "HER_DECL_IA": "complementaria"
+        "INS_HOJA_IND": "principal",
+        "INS_RUB_PROC": "complementaria",
+        "INS_FICHA_RETRO": "complementaria",
+        "INS_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [
@@ -4587,7 +4587,7 @@
     ]
   },
   {
-    "id": "INS_BIT",
+    "id": "EVI_BIT",
     "entity_type": "instrumento",
     "name": "Diari de projecte",
     "type": "Procés",
@@ -4613,10 +4613,10 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_HOJA_IND",
-      "HER_ESC_OBS",
-      "HER_RUB_PROC",
-      "HER_DECL_IA"
+      "INS_HOJA_IND",
+      "INS_ESC_OBS",
+      "INS_RUB_PROC",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_PROY",
@@ -4633,10 +4633,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_HOJA_IND": "principal",
-        "HER_ESC_OBS": "complementaria",
-        "HER_RUB_PROC": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_HOJA_IND": "principal",
+        "INS_ESC_OBS": "complementaria",
+        "INS_RUB_PROC": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -4649,7 +4649,7 @@
     ]
   },
   {
-    "id": "INS_REV_PARES",
+    "id": "EVI_REV_PARES",
     "entity_type": "instrumento",
     "name": "Revisió entre iguals",
     "type": "Coavaluació",
@@ -4674,11 +4674,11 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_FICHA_COEV",
-      "HER_RUB_COEV",
-      "HER_FICHA_RETRO",
-      "HER_DECL_IA",
-      "HER_ESCAL_FB"
+      "INS_FICHA_COEV",
+      "INS_RUB_COEV",
+      "INS_FICHA_RETRO",
+      "INS_DECL_IA",
+      "INS_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_COEV",
@@ -4699,11 +4699,11 @@
         "DIM_TRAZ_IA": "complementaria"
       },
       "rel_her": {
-        "HER_DECL_IA": "complementaria",
-        "HER_ESCAL_FB": "principal",
-        "HER_FICHA_COEV": "principal",
-        "HER_FICHA_RETRO": "complementaria",
-        "HER_RUB_COEV": "complementaria"
+        "INS_DECL_IA": "complementaria",
+        "INS_ESCAL_FB": "principal",
+        "INS_FICHA_COEV": "principal",
+        "INS_FICHA_RETRO": "complementaria",
+        "INS_RUB_COEV": "complementaria"
       }
     },
     "metac_ids": [
@@ -4719,7 +4719,7 @@
     ]
   },
   {
-    "id": "INS_2E1D",
+    "id": "EVI_2E1D",
     "entity_type": "instrumento",
     "name": "Dues estrelles i un desig",
     "type": "Coavaluació",
@@ -4743,9 +4743,9 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_FICHA_RETRO",
-      "HER_FICHA_COEV",
-      "HER_ESCAL_FB"
+      "INS_FICHA_RETRO",
+      "INS_FICHA_COEV",
+      "INS_ESCAL_FB"
     ],
     "related_dimensions": [
       "DIM_COEV",
@@ -4762,9 +4762,9 @@
         "DIM_FEED": "principal"
       },
       "rel_her": {
-        "HER_ESCAL_FB": "complementaria",
-        "HER_FICHA_COEV": "complementaria",
-        "HER_FICHA_RETRO": "principal"
+        "INS_ESCAL_FB": "complementaria",
+        "INS_FICHA_COEV": "complementaria",
+        "INS_FICHA_RETRO": "principal"
       }
     },
     "metac_ids": [
@@ -4784,7 +4784,7 @@
     ]
   },
   {
-    "id": "INS_SEMAF",
+    "id": "EVI_SEMAF",
     "entity_type": "instrumento",
     "name": "Semàfor d'aprenentatge",
     "type": "Autoavaluació",
@@ -4810,8 +4810,8 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_SEMAFORO",
-      "HER_LISTA"
+      "INS_SEMAFORO",
+      "INS_LISTA"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -4827,8 +4827,8 @@
         "DIM_FORM": "complementaria"
       },
       "rel_her": {
-        "HER_SEMAFORO": "principal",
-        "HER_LISTA": "complementaria"
+        "INS_SEMAFORO": "principal",
+        "INS_LISTA": "complementaria"
       }
     },
     "metac_ids": [
@@ -4849,7 +4849,7 @@
     ]
   },
   {
-    "id": "INS_BILLETE",
+    "id": "EVI_BILLETE",
     "entity_type": "instrumento",
     "name": "Bitllet de sortida",
     "type": "Autoavaluació/formativa",
@@ -4875,9 +4875,9 @@
       "TEC_ENC_CUEST"
     ],
     "related_tools": [
-      "HER_FORM_DIG",
-      "HER_LISTA",
-      "HER_FICHA_RETRO"
+      "INS_FORM_DIG",
+      "INS_LISTA",
+      "INS_FICHA_RETRO"
     ],
     "related_dimensions": [
       "DIM_AUTO",
@@ -4893,9 +4893,9 @@
         "DIM_FORM": "principal"
       },
       "rel_her": {
-        "HER_FORM_DIG": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_FICHA_RETRO": "complementaria"
+        "INS_FORM_DIG": "principal",
+        "INS_LISTA": "complementaria",
+        "INS_FICHA_RETRO": "complementaria"
       }
     },
     "metac_ids": [
@@ -4914,7 +4914,7 @@
     ]
   },
   {
-    "id": "INS_LIBRO_ABIERTO",
+    "id": "EVI_LIBRO_ABIERTO",
     "entity_type": "instrumento",
     "name": "Prova de llibre obert",
     "type": "Prova competencial",
@@ -4942,9 +4942,9 @@
       "TEC_PRUEBA"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_RUB_ANA",
-      "HER_BAREMO"
+      "INS_GUIA_CORR",
+      "INS_RUB_ANA",
+      "INS_BAREMO"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -4961,9 +4961,9 @@
         "DIM_HET": "complementaria"
       },
       "rel_her": {
-        "HER_GUIA_CORR": "principal",
-        "HER_RUB_ANA": "complementaria",
-        "HER_BAREMO": "complementaria"
+        "INS_GUIA_CORR": "principal",
+        "INS_RUB_ANA": "complementaria",
+        "INS_BAREMO": "complementaria"
       }
     },
     "metac_ids": [
@@ -4975,7 +4975,7 @@
     ]
   },
   {
-    "id": "INS_TAREA_COMP_INT",
+    "id": "EVI_TAREA_COMP_INT",
     "entity_type": "instrumento",
     "name": "Tasca competencial integrada",
     "type": "Prova competencial",
@@ -5004,10 +5004,10 @@
       "TEC_TRIANG"
     ],
     "related_tools": [
-      "HER_RUB_COMP",
-      "HER_MAP_EVID",
-      "HER_IND_CRIT",
-      "HER_DECL_IA"
+      "INS_RUB_COMP",
+      "INS_MAP_EVID",
+      "INS_IND_CRIT",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_COMP",
@@ -5032,10 +5032,10 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_RUB_COMP": "principal",
-        "HER_MAP_EVID": "principal",
-        "HER_IND_CRIT": "principal",
-        "HER_DECL_IA": "ocasional"
+        "INS_RUB_COMP": "principal",
+        "INS_MAP_EVID": "principal",
+        "INS_IND_CRIT": "principal",
+        "INS_DECL_IA": "ocasional"
       }
     },
     "metac_ids": [
@@ -5048,7 +5048,7 @@
     ]
   },
   {
-    "id": "INS_SIT_PROB",
+    "id": "EVI_SIT_PROB",
     "entity_type": "instrumento",
     "name": "Situació-problema",
     "type": "Prova/desempenyi",
@@ -5075,11 +5075,11 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_GUIA_CORR",
-      "HER_IND_CRIT",
-      "HER_DECL_IA",
-      "HER_BASE_ORIENT"
+      "INS_RUB_ANA",
+      "INS_GUIA_CORR",
+      "INS_IND_CRIT",
+      "INS_DECL_IA",
+      "INS_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_PROB",
@@ -5103,11 +5103,11 @@
         "DIM_TRAZ_IA": "ocasional"
       },
       "rel_her": {
-        "HER_BASE_ORIENT": "principal",
-        "HER_DECL_IA": "ocasional",
-        "HER_GUIA_CORR": "complementaria",
-        "HER_IND_CRIT": "complementaria",
-        "HER_RUB_ANA": "principal"
+        "INS_BASE_ORIENT": "principal",
+        "INS_DECL_IA": "ocasional",
+        "INS_GUIA_CORR": "complementaria",
+        "INS_IND_CRIT": "complementaria",
+        "INS_RUB_ANA": "principal"
       }
     },
     "metac_ids": [
@@ -5127,7 +5127,7 @@
     ]
   },
   {
-    "id": "INS_ESCAPE",
+    "id": "EVI_ESCAPE",
     "entity_type": "instrumento",
     "name": "Escape room o repte gamificat",
     "type": "Desempenyi",
@@ -5155,9 +5155,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_GUIA_OBS",
-      "HER_RUB_COOP",
-      "HER_REG_ANE"
+      "INS_GUIA_OBS",
+      "INS_RUB_COOP",
+      "INS_REG_ANE"
     ],
     "related_dimensions": [
       "DIM_SIM",
@@ -5177,9 +5177,9 @@
         "DIM_GAMIF": "principal"
       },
       "rel_her": {
-        "HER_GUIA_OBS": "principal",
-        "HER_RUB_COOP": "complementaria",
-        "HER_REG_ANE": "complementaria"
+        "INS_GUIA_OBS": "principal",
+        "INS_RUB_COOP": "complementaria",
+        "INS_REG_ANE": "complementaria"
       }
     },
     "metac_ids": [
@@ -5188,7 +5188,7 @@
     ]
   },
   {
-    "id": "INS_SEMINARIO",
+    "id": "EVI_SEMINARIO",
     "entity_type": "instrumento",
     "name": "Seminari socràtic",
     "type": "Oral",
@@ -5216,9 +5216,9 @@
       "TEC_ENTREV_EVAL"
     ],
     "related_tools": [
-      "HER_RUB_ORAL",
-      "HER_GUIA_OBS",
-      "HER_REG_PART"
+      "INS_RUB_ORAL",
+      "INS_GUIA_OBS",
+      "INS_REG_PART"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -5236,9 +5236,9 @@
         "DIM_FORM": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ORAL": "principal",
-        "HER_GUIA_OBS": "complementaria",
-        "HER_REG_PART": "complementaria"
+        "INS_RUB_ORAL": "principal",
+        "INS_GUIA_OBS": "complementaria",
+        "INS_REG_PART": "complementaria"
       }
     },
     "metac_ids": [
@@ -5246,7 +5246,7 @@
     ]
   },
   {
-    "id": "INS_CHECK_LAB",
+    "id": "EVI_CHECK_LAB",
     "entity_type": "instrumento",
     "name": "Llista de verificació de laboratori",
     "type": "Observació",
@@ -5274,10 +5274,10 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_LISTA",
-      "HER_GUIA_OBS",
-      "HER_REG_ANE",
-      "HER_BASE_ORIENT"
+      "INS_LISTA",
+      "INS_GUIA_OBS",
+      "INS_REG_ANE",
+      "INS_BASE_ORIENT"
     ],
     "related_dimensions": [
       "DIM_DESEMP",
@@ -5294,10 +5294,10 @@
         "DIM_AUTO": "ocasional"
       },
       "rel_her": {
-        "HER_BASE_ORIENT": "complementaria",
-        "HER_GUIA_OBS": "complementaria",
-        "HER_LISTA": "principal",
-        "HER_REG_ANE": "ocasional"
+        "INS_BASE_ORIENT": "complementaria",
+        "INS_GUIA_OBS": "complementaria",
+        "INS_LISTA": "principal",
+        "INS_REG_ANE": "ocasional"
       }
     },
     "metac_ids": [
@@ -5309,7 +5309,7 @@
     ]
   },
   {
-    "id": "INS_CUAD_DIG",
+    "id": "EVI_CUAD_DIG",
     "entity_type": "instrumento",
     "name": "Quadern digital",
     "type": "Digital/procés",
@@ -5339,10 +5339,10 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_HIST_REV",
-      "HER_PANEL",
-      "HER_BANCO_EVID",
-      "HER_DECL_IA"
+      "INS_HIST_REV",
+      "INS_PANEL",
+      "INS_BANCO_EVID",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -5363,10 +5363,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_HIST_REV": "principal",
-        "HER_PANEL": "complementaria",
-        "HER_BANCO_EVID": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_HIST_REV": "principal",
+        "INS_PANEL": "complementaria",
+        "INS_BANCO_EVID": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -5378,7 +5378,7 @@
     ]
   },
   {
-    "id": "INS_EPORT_SEL",
+    "id": "EVI_EPORT_SEL",
     "entity_type": "instrumento",
     "name": "E-portfolio amb evidències seleccionades",
     "type": "Digital/procés",
@@ -5408,10 +5408,10 @@
       "TEC_TRIANG"
     ],
     "related_tools": [
-      "HER_MAP_EVID",
-      "HER_BANCO_EVID",
-      "HER_ESC_PROG",
-      "HER_DECL_IA"
+      "INS_MAP_EVID",
+      "INS_BANCO_EVID",
+      "INS_ESC_PROG",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_CRIT",
@@ -5438,10 +5438,10 @@
         "DIM_TRAZ_IA": "principal"
       },
       "rel_her": {
-        "HER_MAP_EVID": "principal",
-        "HER_BANCO_EVID": "principal",
-        "HER_ESC_PROG": "complementaria",
-        "HER_DECL_IA": "principal"
+        "INS_MAP_EVID": "principal",
+        "INS_BANCO_EVID": "principal",
+        "INS_ESC_PROG": "complementaria",
+        "INS_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -5453,7 +5453,7 @@
     ]
   },
   {
-    "id": "INS_CUAD_CAMPO",
+    "id": "EVI_CUAD_CAMPO",
     "entity_type": "instrumento",
     "name": "Quadern de camp",
     "type": "Producció escrita/observacional",
@@ -5483,11 +5483,11 @@
       "TEC_PROC_REFLEX"
     ],
     "related_tools": [
-      "HER_GUIA_CORR",
-      "HER_LISTA",
-      "HER_NOTAS_CAMPO",
-      "HER_RUB_ANA",
-      "HER_DECL_IA"
+      "INS_GUIA_CORR",
+      "INS_LISTA",
+      "INS_NOTAS_CAMPO",
+      "INS_RUB_ANA",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_INDAG",
@@ -5502,11 +5502,11 @@
         "TEC_PROC_REFLEX": "ocasional"
       },
       "rel_her": {
-        "HER_GUIA_CORR": "principal",
-        "HER_LISTA": "complementaria",
-        "HER_NOTAS_CAMPO": "complementaria",
-        "HER_RUB_ANA": "ocasional",
-        "HER_DECL_IA": "complementaria"
+        "INS_GUIA_CORR": "principal",
+        "INS_LISTA": "complementaria",
+        "INS_NOTAS_CAMPO": "complementaria",
+        "INS_RUB_ANA": "ocasional",
+        "INS_DECL_IA": "complementaria"
       },
       "rel_dim": {
         "DIM_INDAG": "principal",
@@ -5524,7 +5524,7 @@
     ]
   },
   {
-    "id": "INS_MICROVIDEO",
+    "id": "EVI_MICROVIDEO",
     "entity_type": "instrumento",
     "name": "Microvídeo educatiu",
     "type": "Producció audiovisual",
@@ -5555,11 +5555,11 @@
       "TEC_ORAL"
     ],
     "related_tools": [
-      "HER_RUB_ANA",
-      "HER_RUB_PROD",
-      "HER_LISTA",
-      "HER_FICHA_COEV",
-      "HER_DECL_IA"
+      "INS_RUB_ANA",
+      "INS_RUB_PROD",
+      "INS_LISTA",
+      "INS_FICHA_COEV",
+      "INS_DECL_IA"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -5573,11 +5573,11 @@
         "TEC_ORAL": "complementaria"
       },
       "rel_her": {
-        "HER_RUB_ANA": "principal",
-        "HER_RUB_PROD": "complementaria",
-        "HER_LISTA": "complementaria",
-        "HER_FICHA_COEV": "ocasional",
-        "HER_DECL_IA": "principal"
+        "INS_RUB_ANA": "principal",
+        "INS_RUB_PROD": "complementaria",
+        "INS_LISTA": "complementaria",
+        "INS_FICHA_COEV": "ocasional",
+        "INS_DECL_IA": "principal"
       },
       "rel_dim": {
         "DIM_DIG": "principal",
@@ -5595,7 +5595,7 @@
     ]
   },
   {
-    "id": "INS_BIT_IA",
+    "id": "EVI_BIT_IA",
     "entity_type": "instrumento",
     "name": "Bitàcola de procés amb IA",
     "type": "Digital/proceso",
@@ -5630,12 +5630,12 @@
       "TEC_TRIANG"
     ],
     "related_tools": [
-      "HER_DECL_IA",
-      "HER_HIST_REV",
-      "HER_MAP_EVID",
-      "HER_RUB_PROC",
-      "HER_FICHA_RETRO",
-      "HER_BANCO_EVID"
+      "INS_DECL_IA",
+      "INS_HIST_REV",
+      "INS_MAP_EVID",
+      "INS_RUB_PROC",
+      "INS_FICHA_RETRO",
+      "INS_BANCO_EVID"
     ],
     "related_dimensions": [
       "DIM_TRAZ_IA",
@@ -5659,12 +5659,12 @@
         "DIM_COMP": "ocasional"
       },
       "rel_her": {
-        "HER_DECL_IA": "principal",
-        "HER_HIST_REV": "principal",
-        "HER_MAP_EVID": "complementaria",
-        "HER_RUB_PROC": "complementaria",
-        "HER_FICHA_RETRO": "complementaria",
-        "HER_BANCO_EVID": "ocasional"
+        "INS_DECL_IA": "principal",
+        "INS_HIST_REV": "principal",
+        "INS_MAP_EVID": "complementaria",
+        "INS_RUB_PROC": "complementaria",
+        "INS_FICHA_RETRO": "complementaria",
+        "INS_BANCO_EVID": "ocasional"
       }
     },
     "metac_ids": [
@@ -5676,7 +5676,7 @@
     ]
   },
   {
-    "id": "INS_TARJ_RESP",
+    "id": "EVI_TARJ_RESP",
     "entity_type": "instrumento",
     "name": "Targetes de resposta / mini-pissarra",
     "type": "Observació",
@@ -5706,9 +5706,9 @@
       "TEC_OBS_SIS"
     ],
     "related_tools": [
-      "HER_REG_PART",
-      "HER_SEMAFORO",
-      "HER_LISTA"
+      "INS_REG_PART",
+      "INS_SEMAFORO",
+      "INS_LISTA"
     ],
     "related_dimensions": [
       "DIM_DIAG",
@@ -5720,9 +5720,9 @@
         "DIM_FORM": "principal"
       },
       "rel_her": {
-        "HER_LISTA": "ocasional",
-        "HER_REG_PART": "complementaria",
-        "HER_SEMAFORO": "complementaria"
+        "INS_LISTA": "ocasional",
+        "INS_REG_PART": "complementaria",
+        "INS_SEMAFORO": "complementaria"
       },
       "rel_tec": {
         "TEC_OBS_SIS": "complementaria",
@@ -5737,7 +5737,7 @@
     ]
   },
   {
-    "id": "INS_STORYBOARD",
+    "id": "EVI_STORYBOARD",
     "entity_type": "instrumento",
     "name": "Guió gràfic (storyboard)",
     "type": "Producció visual",
@@ -5766,9 +5766,9 @@
       "TEC_PROD"
     ],
     "related_tools": [
-      "HER_RUB_PROD",
-      "HER_LISTA",
-      "HER_RUB_PROC"
+      "INS_RUB_PROD",
+      "INS_LISTA",
+      "INS_RUB_PROC"
     ],
     "related_dimensions": [
       "DIM_DIG",
@@ -5782,9 +5782,9 @@
         "DIM_PROY": "complementaria"
       },
       "rel_her": {
-        "HER_LISTA": "complementaria",
-        "HER_RUB_PROC": "complementaria",
-        "HER_RUB_PROD": "principal"
+        "INS_LISTA": "complementaria",
+        "INS_RUB_PROC": "complementaria",
+        "INS_RUB_PROD": "principal"
       },
       "rel_tec": {
         "TEC_PROD": "principal"

@@ -18,8 +18,8 @@ const LOCAL_EVAL_JSON = {
 
 const EVAL_CATS = [
   { id: 'tecnicas',     prefix: 'TEC', cls: 'tec', i18n: 'evalCatTec' },
-  { id: 'evidencias', prefix: 'EVI', cls: 'evi', i18n: 'evalCatEvi' },
-  { id: 'instrumentos', prefix: 'INS', cls: 'ins', i18n: 'evalCatIns' },
+  { id: 'evidencias', prefix: 'INS', cls: 'ins', i18n: 'evalCatIns' },
+  { id: 'instrumentos', prefix: 'HER', cls: 'her', i18n: 'evalCatHer' },
   { id: 'dimensiones',  prefix: 'DIM', cls: 'dim', i18n: 'evalCatDim' },
 ];
 

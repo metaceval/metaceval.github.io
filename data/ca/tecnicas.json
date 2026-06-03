@@ -23,49 +23,49 @@
     "grouping": "Individual / Gran grupo",
     "ai_resistance": "Alta",
     "related_instruments": [
-      "EVI_DEBATE",
-      "EVI_EXPO",
-      "EVI_LAB",
-      "EVI_TALLER",
-      "EVI_TRAB_COOP",
-      "EVI_SIM",
-      "EVI_TRAB_IND",
-      "EVI_PART",
-      "EVI_ASAM",
-      "EVI_DRAMA",
-      "EVI_PROTOTIPO",
-      "EVI_CUAD_CAMPO",
-      "EVI_TARJ_RESP"
+      "INS_DEBATE",
+      "INS_EXPO",
+      "INS_LAB",
+      "INS_TALLER",
+      "INS_TRAB_COOP",
+      "INS_SIM",
+      "INS_TRAB_IND",
+      "INS_PART",
+      "INS_ASAM",
+      "INS_DRAMA",
+      "INS_PROTOTIPO",
+      "INS_CUAD_CAMPO",
+      "INS_TARJ_RESP"
     ],
     "related_tools": [
-      "INS_LISTA",
-      "INS_ESC_OBS",
-      "INS_RUB_ANA",
-      "INS_REG_ANE",
-      "INS_BASE_ORIENT"
+      "HER_LISTA",
+      "HER_ESC_OBS",
+      "HER_RUB_ANA",
+      "HER_REG_ANE",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_ASAM": "complementaria",
-        "EVI_CUAD_CAMPO": "complementaria",
-        "EVI_DEBATE": "complementaria",
-        "EVI_DRAMA": "principal",
-        "EVI_EXPO": "complementaria",
-        "EVI_LAB": "principal",
-        "EVI_PART": "principal",
-        "EVI_PROTOTIPO": "complementaria",
-        "EVI_SIM": "principal",
-        "EVI_TALLER": "principal",
-        "EVI_TARJ_RESP": "complementaria",
-        "EVI_TRAB_COOP": "principal",
-        "EVI_TRAB_IND": "principal"
+        "INS_ASAM": "complementaria",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_DEBATE": "complementaria",
+        "INS_DRAMA": "principal",
+        "INS_EXPO": "complementaria",
+        "INS_LAB": "principal",
+        "INS_PART": "principal",
+        "INS_PROTOTIPO": "complementaria",
+        "INS_SIM": "principal",
+        "INS_TALLER": "principal",
+        "INS_TARJ_RESP": "complementaria",
+        "INS_TRAB_COOP": "principal",
+        "INS_TRAB_IND": "principal"
       },
       "rel_her": {
-        "INS_BASE_ORIENT": "complementaria",
-        "INS_ESC_OBS": "complementaria",
-        "INS_LISTA": "principal",
-        "INS_REG_ANE": "complementaria",
-        "INS_RUB_ANA": "complementaria"
+        "HER_BASE_ORIENT": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_RUB_ANA": "complementaria"
       }
     },
     "metac_ids": [
@@ -198,25 +198,25 @@
     "grouping": "Individual / Gran grupo",
     "ai_resistance": "Alta",
     "related_instruments": [
-      "EVI_TRAB_IND",
-      "EVI_PART",
-      "EVI_TRAB_COOP"
+      "INS_TRAB_IND",
+      "INS_PART",
+      "INS_TRAB_COOP"
     ],
     "related_tools": [
-      "INS_REG_ANE",
-      "INS_NOTAS_CAMPO",
-      "INS_DIARIO_PROF"
+      "HER_REG_ANE",
+      "HER_NOTAS_CAMPO",
+      "HER_DIARIO_PROF"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_TRAB_IND": "principal",
-        "EVI_PART": "complementaria",
-        "EVI_TRAB_COOP": "complementaria"
+        "INS_TRAB_IND": "principal",
+        "INS_PART": "complementaria",
+        "INS_TRAB_COOP": "complementaria"
       },
       "rel_her": {
-        "INS_REG_ANE": "principal",
-        "INS_NOTAS_CAMPO": "complementaria",
-        "INS_DIARIO_PROF": "complementaria"
+        "HER_REG_ANE": "principal",
+        "HER_NOTAS_CAMPO": "complementaria",
+        "HER_DIARIO_PROF": "complementaria"
       }
     },
     "metac_ids": [
@@ -250,105 +250,105 @@
     "grouping": "Individual / Grupo pequeño",
     "ai_resistance": "Media",
     "related_instruments": [
-      "EVI_CUADERNO",
-      "EVI_INFO_LAB",
-      "EVI_DEF_PROY",
-      "EVI_ENSAYO",
-      "EVI_INFOG",
-      "EVI_VIDEO",
-      "EVI_PODCAST",
-      "EVI_MAQUETA",
-      "EVI_PORT",
-      "EVI_INFO_INV",
-      "EVI_MONO",
-      "EVI_COM_TEXT",
-      "EVI_COM_GRAF",
-      "EVI_RESUMEN",
-      "EVI_ESQUEMA",
-      "EVI_MAP_CONC",
-      "EVI_MAP_MENT",
-      "EVI_LINEA",
-      "EVI_GLOS",
-      "EVI_FICHA_LECT",
-      "EVI_RESEÑA",
-      "EVI_ART_DIV",
-      "EVI_MEM_PROY",
-      "EVI_CASO",
-      "EVI_DOCS",
-      "EVI_POSTER",
-      "EVI_PRESENT_DIG",
-      "EVI_TUTORIAL",
-      "EVI_COMIC",
-      "EVI_MODELO_DIG",
-      "EVI_PROTOTIPO",
-      "EVI_WEB",
-      "EVI_BLOG",
-      "EVI_DOC_COL",
-      "EVI_PORT_DIG",
-      "EVI_MAP_INI",
-      "EVI_BORR",
-      "EVI_ENT_PAR",
-      "EVI_CUAD_CAMPO",
-      "EVI_MICROVIDEO",
-      "EVI_STORYBOARD"
+      "INS_CUADERNO",
+      "INS_INFO_LAB",
+      "INS_DEF_PROY",
+      "INS_ENSAYO",
+      "INS_INFOG",
+      "INS_VIDEO",
+      "INS_PODCAST",
+      "INS_MAQUETA",
+      "INS_PORT",
+      "INS_INFO_INV",
+      "INS_MONO",
+      "INS_COM_TEXT",
+      "INS_COM_GRAF",
+      "INS_RESUMEN",
+      "INS_ESQUEMA",
+      "INS_MAP_CONC",
+      "INS_MAP_MENT",
+      "INS_LINEA",
+      "INS_GLOS",
+      "INS_FICHA_LECT",
+      "INS_RESEÑA",
+      "INS_ART_DIV",
+      "INS_MEM_PROY",
+      "INS_CASO",
+      "INS_DOCS",
+      "INS_POSTER",
+      "INS_PRESENT_DIG",
+      "INS_TUTORIAL",
+      "INS_COMIC",
+      "INS_MODELO_DIG",
+      "INS_PROTOTIPO",
+      "INS_WEB",
+      "INS_BLOG",
+      "INS_DOC_COL",
+      "INS_PORT_DIG",
+      "INS_MAP_INI",
+      "INS_BORR",
+      "INS_ENT_PAR",
+      "INS_CUAD_CAMPO",
+      "INS_MICROVIDEO",
+      "INS_STORYBOARD"
     ],
     "related_tools": [
-      "INS_RUB_ANA",
-      "INS_GUIA_CORR",
-      "INS_ESC_DESC",
-      "INS_FICHA_RETRO",
-      "INS_RUB_PUNTO"
+      "HER_RUB_ANA",
+      "HER_GUIA_CORR",
+      "HER_ESC_DESC",
+      "HER_FICHA_RETRO",
+      "HER_RUB_PUNTO"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_ART_DIV": "principal",
-        "EVI_BLOG": "principal",
-        "EVI_BORR": "complementaria",
-        "EVI_CASO": "complementaria",
-        "EVI_COMIC": "principal",
-        "EVI_COM_GRAF": "principal",
-        "EVI_COM_TEXT": "principal",
-        "EVI_CUADERNO": "principal",
-        "EVI_CUAD_CAMPO": "complementaria",
-        "EVI_DEF_PROY": "complementaria",
-        "EVI_DOCS": "complementaria",
-        "EVI_DOC_COL": "complementaria",
-        "EVI_ENSAYO": "principal",
-        "EVI_ENT_PAR": "complementaria",
-        "EVI_ESQUEMA": "principal",
-        "EVI_FICHA_LECT": "principal",
-        "EVI_GLOS": "principal",
-        "EVI_INFOG": "principal",
-        "EVI_INFO_INV": "principal",
-        "EVI_INFO_LAB": "principal",
-        "EVI_LINEA": "principal",
-        "EVI_MAP_CONC": "principal",
-        "EVI_MAP_INI": "complementaria",
-        "EVI_MAP_MENT": "principal",
-        "EVI_MAQUETA": "principal",
-        "EVI_MEM_PROY": "principal",
-        "EVI_MICROVIDEO": "complementaria",
-        "EVI_MODELO_DIG": "principal",
-        "EVI_MONO": "principal",
-        "EVI_PODCAST": "complementaria",
-        "EVI_PORT": "principal",
-        "EVI_PORT_DIG": "complementaria",
-        "EVI_POSTER": "principal",
-        "EVI_PRESENT_DIG": "principal",
-        "EVI_PROTOTIPO": "principal",
-        "EVI_RESEÑA": "principal",
-        "EVI_RESUMEN": "principal",
-        "EVI_STORYBOARD": "principal",
-        "EVI_TUTORIAL": "principal",
-        "EVI_VIDEO": "principal",
-        "EVI_WEB": "principal"
+        "INS_ART_DIV": "principal",
+        "INS_BLOG": "principal",
+        "INS_BORR": "complementaria",
+        "INS_CASO": "complementaria",
+        "INS_COMIC": "principal",
+        "INS_COM_GRAF": "principal",
+        "INS_COM_TEXT": "principal",
+        "INS_CUADERNO": "principal",
+        "INS_CUAD_CAMPO": "complementaria",
+        "INS_DEF_PROY": "complementaria",
+        "INS_DOCS": "complementaria",
+        "INS_DOC_COL": "complementaria",
+        "INS_ENSAYO": "principal",
+        "INS_ENT_PAR": "complementaria",
+        "INS_ESQUEMA": "principal",
+        "INS_FICHA_LECT": "principal",
+        "INS_GLOS": "principal",
+        "INS_INFOG": "principal",
+        "INS_INFO_INV": "principal",
+        "INS_INFO_LAB": "principal",
+        "INS_LINEA": "principal",
+        "INS_MAP_CONC": "principal",
+        "INS_MAP_INI": "complementaria",
+        "INS_MAP_MENT": "principal",
+        "INS_MAQUETA": "principal",
+        "INS_MEM_PROY": "principal",
+        "INS_MICROVIDEO": "complementaria",
+        "INS_MODELO_DIG": "principal",
+        "INS_MONO": "principal",
+        "INS_PODCAST": "complementaria",
+        "INS_PORT": "principal",
+        "INS_PORT_DIG": "complementaria",
+        "INS_POSTER": "principal",
+        "INS_PRESENT_DIG": "principal",
+        "INS_PROTOTIPO": "principal",
+        "INS_RESEÑA": "principal",
+        "INS_RESUMEN": "principal",
+        "INS_STORYBOARD": "principal",
+        "INS_TUTORIAL": "principal",
+        "INS_VIDEO": "principal",
+        "INS_WEB": "principal"
       },
       "rel_her": {
-        "INS_ESC_DESC": "complementaria",
-        "INS_FICHA_RETRO": "complementaria",
-        "INS_GUIA_CORR": "complementaria",
-        "INS_RUB_ANA": "principal",
-        "INS_RUB_PUNTO": "principal"
+        "HER_ESC_DESC": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_GUIA_CORR": "complementaria",
+        "HER_RUB_ANA": "principal",
+        "HER_RUB_PUNTO": "principal"
       }
     },
     "metac_ids": [
@@ -499,49 +499,49 @@
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
-      "EVI_PR_DES",
-      "EVI_TEST",
-      "EVI_PR_ORAL",
-      "EVI_PR_PRACT",
-      "EVI_CUEST_DIG",
-      "EVI_COM_TEXT",
-      "EVI_PROB",
-      "EVI_CASO",
-      "EVI_PR_OBJ",
-      "EVI_RESP_CORTA",
-      "EVI_PR_COMP",
-      "EVI_DOCS"
+      "INS_PR_DES",
+      "INS_TEST",
+      "INS_PR_ORAL",
+      "INS_PR_PRACT",
+      "INS_CUEST_DIG",
+      "INS_COM_TEXT",
+      "INS_PROB",
+      "INS_CASO",
+      "INS_PR_OBJ",
+      "INS_RESP_CORTA",
+      "INS_PR_COMP",
+      "INS_DOCS"
     ],
     "related_tools": [
-      "INS_GUIA_CORR",
-      "INS_BAREMO",
-      "INS_PLANT_CORR",
-      "INS_RUB_ANA",
-      "INS_ESC_NUM",
-      "INS_TAB_ESPEC"
+      "HER_GUIA_CORR",
+      "HER_BAREMO",
+      "HER_PLANT_CORR",
+      "HER_RUB_ANA",
+      "HER_ESC_NUM",
+      "HER_TAB_ESPEC"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_COM_TEXT": "complementaria",
-        "EVI_PROB": "principal",
-        "EVI_CASO": "principal",
-        "EVI_PR_DES": "principal",
-        "EVI_PR_OBJ": "principal",
-        "EVI_TEST": "principal",
-        "EVI_RESP_CORTA": "principal",
-        "EVI_PR_ORAL": "complementaria",
-        "EVI_PR_PRACT": "principal",
-        "EVI_PR_COMP": "principal",
-        "EVI_DOCS": "principal",
-        "EVI_CUEST_DIG": "principal"
+        "INS_COM_TEXT": "complementaria",
+        "INS_PROB": "principal",
+        "INS_CASO": "principal",
+        "INS_PR_DES": "principal",
+        "INS_PR_OBJ": "principal",
+        "INS_TEST": "principal",
+        "INS_RESP_CORTA": "principal",
+        "INS_PR_ORAL": "complementaria",
+        "INS_PR_PRACT": "principal",
+        "INS_PR_COMP": "principal",
+        "INS_DOCS": "principal",
+        "INS_CUEST_DIG": "principal"
       },
       "rel_her": {
-        "INS_BAREMO": "complementaria",
-        "INS_ESC_NUM": "complementaria",
-        "INS_GUIA_CORR": "principal",
-        "INS_PLANT_CORR": "complementaria",
-        "INS_RUB_ANA": "complementaria",
-        "INS_TAB_ESPEC": "principal"
+        "HER_BAREMO": "complementaria",
+        "HER_ESC_NUM": "complementaria",
+        "HER_GUIA_CORR": "principal",
+        "HER_PLANT_CORR": "complementaria",
+        "HER_RUB_ANA": "complementaria",
+        "HER_TAB_ESPEC": "principal"
       }
     },
     "metac_ids": [
@@ -591,51 +591,51 @@
     "grouping": "Individual / Gran grupo",
     "ai_resistance": "Alta",
     "related_instruments": [
-      "EVI_DEBATE",
-      "EVI_COLOQ",
-      "EVI_ENTREV",
-      "EVI_EXPO",
-      "EVI_DEF_PROY",
-      "EVI_ASAM",
-      "EVI_ROL",
-      "EVI_PREG_ORAL",
-      "EVI_PR_ORAL",
-      "EVI_PRESENT_DIG",
-      "EVI_PODCAST",
-      "EVI_FORO",
-      "EVI_LLUVIA",
-      "EVI_MICROVIDEO"
+      "INS_DEBATE",
+      "INS_COLOQ",
+      "INS_ENTREV",
+      "INS_EXPO",
+      "INS_DEF_PROY",
+      "INS_ASAM",
+      "INS_ROL",
+      "INS_PREG_ORAL",
+      "INS_PR_ORAL",
+      "INS_PRESENT_DIG",
+      "INS_PODCAST",
+      "INS_FORO",
+      "INS_LLUVIA",
+      "INS_MICROVIDEO"
     ],
     "related_tools": [
-      "INS_RUB_ORAL",
-      "INS_ESC_OBS",
-      "INS_LISTA",
-      "INS_REG_ANE",
-      "INS_ESCAL_FB"
+      "HER_RUB_ORAL",
+      "HER_ESC_OBS",
+      "HER_LISTA",
+      "HER_REG_ANE",
+      "HER_ESCAL_FB"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_DEBATE": "principal",
-        "EVI_COLOQ": "principal",
-        "EVI_ASAM": "principal",
-        "EVI_ROL": "complementaria",
-        "EVI_EXPO": "principal",
-        "EVI_DEF_PROY": "principal",
-        "EVI_ENTREV": "principal",
-        "EVI_PREG_ORAL": "principal",
-        "EVI_PR_ORAL": "principal",
-        "EVI_PRESENT_DIG": "complementaria",
-        "EVI_PODCAST": "principal",
-        "EVI_FORO": "principal",
-        "EVI_LLUVIA": "complementaria",
-        "EVI_MICROVIDEO": "complementaria"
+        "INS_DEBATE": "principal",
+        "INS_COLOQ": "principal",
+        "INS_ASAM": "principal",
+        "INS_ROL": "complementaria",
+        "INS_EXPO": "principal",
+        "INS_DEF_PROY": "principal",
+        "INS_ENTREV": "principal",
+        "INS_PREG_ORAL": "principal",
+        "INS_PR_ORAL": "principal",
+        "INS_PRESENT_DIG": "complementaria",
+        "INS_PODCAST": "principal",
+        "INS_FORO": "principal",
+        "INS_LLUVIA": "complementaria",
+        "INS_MICROVIDEO": "complementaria"
       },
       "rel_her": {
-        "INS_ESCAL_FB": "complementaria",
-        "INS_ESC_OBS": "complementaria",
-        "INS_LISTA": "complementaria",
-        "INS_REG_ANE": "complementaria",
-        "INS_RUB_ORAL": "principal"
+        "HER_ESCAL_FB": "complementaria",
+        "HER_ESC_OBS": "complementaria",
+        "HER_LISTA": "complementaria",
+        "HER_REG_ANE": "complementaria",
+        "HER_RUB_ORAL": "principal"
       }
     },
     "metac_ids": [
@@ -775,43 +775,43 @@
     "grouping": "Individual / Gran grupo",
     "ai_resistance": "Alta",
     "related_instruments": [
-      "EVI_KPSI",
-      "EVI_MAP_INI",
-      "EVI_LLUVIA",
-      "EVI_BILLETE",
-      "EVI_PREG_ORAL",
-      "EVI_CUEST_DIG",
-      "EVI_RESP_CORTA",
-      "EVI_TEST",
-      "EVI_SEMAF",
-      "EVI_TARJ_RESP"
+      "INS_KPSI",
+      "INS_MAP_INI",
+      "INS_LLUVIA",
+      "INS_BILLETE",
+      "INS_PREG_ORAL",
+      "INS_CUEST_DIG",
+      "INS_RESP_CORTA",
+      "INS_TEST",
+      "INS_SEMAF",
+      "INS_TARJ_RESP"
     ],
     "related_tools": [
-      "INS_FORM_DIG",
-      "INS_ESC_AUTO",
-      "INS_LISTA",
-      "INS_REG_DESC",
-      "INS_HOJA_IND"
+      "HER_FORM_DIG",
+      "HER_ESC_AUTO",
+      "HER_LISTA",
+      "HER_REG_DESC",
+      "HER_HOJA_IND"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_BILLETE": "principal",
-        "EVI_CUEST_DIG": "complementaria",
-        "EVI_KPSI": "principal",
-        "EVI_LLUVIA": "principal",
-        "EVI_MAP_INI": "principal",
-        "EVI_PREG_ORAL": "complementaria",
-        "EVI_RESP_CORTA": "complementaria",
-        "EVI_SEMAF": "complementaria",
-        "EVI_TARJ_RESP": "principal",
-        "EVI_TEST": "complementaria"
+        "INS_BILLETE": "principal",
+        "INS_CUEST_DIG": "complementaria",
+        "INS_KPSI": "principal",
+        "INS_LLUVIA": "principal",
+        "INS_MAP_INI": "principal",
+        "INS_PREG_ORAL": "complementaria",
+        "INS_RESP_CORTA": "complementaria",
+        "INS_SEMAF": "complementaria",
+        "INS_TARJ_RESP": "principal",
+        "INS_TEST": "complementaria"
       },
       "rel_her": {
-        "INS_FORM_DIG": "principal",
-        "INS_ESC_AUTO": "complementaria",
-        "INS_LISTA": "complementaria",
-        "INS_REG_DESC": "complementaria",
-        "INS_HOJA_IND": "complementaria"
+        "HER_FORM_DIG": "principal",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_LISTA": "complementaria",
+        "HER_REG_DESC": "complementaria",
+        "HER_HOJA_IND": "complementaria"
       }
     },
     "metac_ids": [
@@ -972,65 +972,65 @@
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
-      "EVI_DIARIO",
-      "EVI_F_REFLEX",
-      "EVI_AUTOINF",
-      "EVI_BORR",
-      "EVI_ENT_PAR",
-      "EVI_BIT",
-      "EVI_REV_PARES",
-      "EVI_2E1D",
-      "EVI_SEMAF",
-      "EVI_PLAN_TRAB",
-      "EVI_ACTA",
-      "EVI_CONTRATO",
-      "EVI_DOC_COL",
-      "EVI_PORT",
-      "EVI_PORT_DIG",
-      "EVI_BIT_IA"
+      "INS_DIARIO",
+      "INS_F_REFLEX",
+      "INS_AUTOINF",
+      "INS_BORR",
+      "INS_ENT_PAR",
+      "INS_BIT",
+      "INS_REV_PARES",
+      "INS_2E1D",
+      "INS_SEMAF",
+      "INS_PLAN_TRAB",
+      "INS_ACTA",
+      "INS_CONTRATO",
+      "INS_DOC_COL",
+      "INS_PORT",
+      "INS_PORT_DIG",
+      "INS_BIT_IA"
     ],
     "related_tools": [
-      "INS_RUB_PROC",
-      "INS_FICHA_RETRO",
-      "INS_HOJA_IND",
-      "INS_REG_COMP",
-      "INS_ESC_AUTO",
-      "INS_HIST_REV",
-      "INS_PANEL",
-      "INS_DECL_IA",
-      "INS_ESCAL_FB",
-      "INS_BASE_ORIENT"
+      "HER_RUB_PROC",
+      "HER_FICHA_RETRO",
+      "HER_HOJA_IND",
+      "HER_REG_COMP",
+      "HER_ESC_AUTO",
+      "HER_HIST_REV",
+      "HER_PANEL",
+      "HER_DECL_IA",
+      "HER_ESCAL_FB",
+      "HER_BASE_ORIENT"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_DIARIO": "principal",
-        "EVI_PLAN_TRAB": "principal",
-        "EVI_ACTA": "principal",
-        "EVI_CONTRATO": "principal",
-        "EVI_F_REFLEX": "principal",
-        "EVI_AUTOINF": "principal",
-        "EVI_DOC_COL": "principal",
-        "EVI_BORR": "principal",
-        "EVI_ENT_PAR": "principal",
-        "EVI_BIT": "principal",
-        "EVI_REV_PARES": "principal",
-        "EVI_2E1D": "principal",
-        "EVI_SEMAF": "principal",
-        "EVI_PORT": "complementaria",
-        "EVI_PORT_DIG": "complementaria",
-        "EVI_BIT_IA": "principal"
+        "INS_DIARIO": "principal",
+        "INS_PLAN_TRAB": "principal",
+        "INS_ACTA": "principal",
+        "INS_CONTRATO": "principal",
+        "INS_F_REFLEX": "principal",
+        "INS_AUTOINF": "principal",
+        "INS_DOC_COL": "principal",
+        "INS_BORR": "principal",
+        "INS_ENT_PAR": "principal",
+        "INS_BIT": "principal",
+        "INS_REV_PARES": "principal",
+        "INS_2E1D": "principal",
+        "INS_SEMAF": "principal",
+        "INS_PORT": "complementaria",
+        "INS_PORT_DIG": "complementaria",
+        "INS_BIT_IA": "principal"
       },
       "rel_her": {
-        "INS_BASE_ORIENT": "principal",
-        "INS_DECL_IA": "principal",
-        "INS_ESCAL_FB": "complementaria",
-        "INS_ESC_AUTO": "complementaria",
-        "INS_FICHA_RETRO": "complementaria",
-        "INS_HIST_REV": "complementaria",
-        "INS_HOJA_IND": "complementaria",
-        "INS_PANEL": "complementaria",
-        "INS_REG_COMP": "complementaria",
-        "INS_RUB_PROC": "principal"
+        "HER_BASE_ORIENT": "principal",
+        "HER_DECL_IA": "principal",
+        "HER_ESCAL_FB": "complementaria",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_FICHA_RETRO": "complementaria",
+        "HER_HIST_REV": "complementaria",
+        "HER_HOJA_IND": "complementaria",
+        "HER_PANEL": "complementaria",
+        "HER_REG_COMP": "complementaria",
+        "HER_RUB_PROC": "principal"
       }
     },
     "metac_ids": [
@@ -1160,27 +1160,27 @@
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
-      "EVI_ENTREV",
-      "EVI_DEF_PROY",
-      "EVI_PORT_DIG"
+      "INS_ENTREV",
+      "INS_DEF_PROY",
+      "INS_PORT_DIG"
     ],
     "related_tools": [
-      "INS_GUIA_CORR",
-      "INS_RUB_ORAL",
-      "INS_REG_ANE",
-      "INS_GUIA_OBS"
+      "HER_GUIA_CORR",
+      "HER_RUB_ORAL",
+      "HER_REG_ANE",
+      "HER_GUIA_OBS"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_ENTREV": "principal",
-        "EVI_DEF_PROY": "complementaria",
-        "EVI_PORT_DIG": "complementaria"
+        "INS_ENTREV": "principal",
+        "INS_DEF_PROY": "complementaria",
+        "INS_PORT_DIG": "complementaria"
       },
       "rel_her": {
-        "INS_GUIA_CORR": "complementaria",
-        "INS_RUB_ORAL": "principal",
-        "INS_REG_ANE": "complementaria",
-        "INS_GUIA_OBS": "principal"
+        "HER_GUIA_CORR": "complementaria",
+        "HER_RUB_ORAL": "principal",
+        "HER_REG_ANE": "complementaria",
+        "HER_GUIA_OBS": "principal"
       }
     },
     "metac_ids": [
@@ -1217,25 +1217,25 @@
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
-      "EVI_CUEST_DIG",
-      "EVI_KPSI",
-      "EVI_BILLETE"
+      "INS_CUEST_DIG",
+      "INS_KPSI",
+      "INS_BILLETE"
     ],
     "related_tools": [
-      "INS_FORM_DIG",
-      "INS_ESC_AUTO",
-      "INS_PLANT_CORR"
+      "HER_FORM_DIG",
+      "HER_ESC_AUTO",
+      "HER_PLANT_CORR"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_CUEST_DIG": "principal",
-        "EVI_KPSI": "principal",
-        "EVI_BILLETE": "complementaria"
+        "INS_CUEST_DIG": "principal",
+        "INS_KPSI": "principal",
+        "INS_BILLETE": "complementaria"
       },
       "rel_her": {
-        "INS_FORM_DIG": "principal",
-        "INS_ESC_AUTO": "complementaria",
-        "INS_PLANT_CORR": "complementaria"
+        "HER_FORM_DIG": "principal",
+        "HER_ESC_AUTO": "complementaria",
+        "HER_PLANT_CORR": "complementaria"
       }
     },
     "metac_ids": [
@@ -1280,31 +1280,31 @@
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
-      "EVI_CUADERNO",
-      "EVI_PORT_DIG",
-      "EVI_ACTA",
-      "EVI_DOC_COL",
-      "EVI_BIT_IA"
+      "INS_CUADERNO",
+      "INS_PORT_DIG",
+      "INS_ACTA",
+      "INS_DOC_COL",
+      "INS_BIT_IA"
     ],
     "related_tools": [
-      "INS_MAP_EVID",
-      "INS_HIST_REV",
-      "INS_BANCO_EVID",
-      "INS_DECL_IA"
+      "HER_MAP_EVID",
+      "HER_HIST_REV",
+      "HER_BANCO_EVID",
+      "HER_DECL_IA"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_CUADERNO": "principal",
-        "EVI_PORT_DIG": "principal",
-        "EVI_ACTA": "complementaria",
-        "EVI_DOC_COL": "complementaria",
-        "EVI_BIT_IA": "principal"
+        "INS_CUADERNO": "principal",
+        "INS_PORT_DIG": "principal",
+        "INS_ACTA": "complementaria",
+        "INS_DOC_COL": "complementaria",
+        "INS_BIT_IA": "principal"
       },
       "rel_her": {
-        "INS_MAP_EVID": "principal",
-        "INS_HIST_REV": "complementaria",
-        "INS_BANCO_EVID": "complementaria",
-        "INS_DECL_IA": "principal"
+        "HER_MAP_EVID": "principal",
+        "HER_HIST_REV": "complementaria",
+        "HER_BANCO_EVID": "complementaria",
+        "HER_DECL_IA": "principal"
       }
     },
     "metac_ids": [
@@ -1406,29 +1406,29 @@
     "grouping": "Individual / Gran grupo",
     "ai_resistance": "Media",
     "related_instruments": [
-      "EVI_FORO",
-      "EVI_DOC_COL",
-      "EVI_CUAD_DIG",
-      "EVI_PORT_DIG",
-      "EVI_BIT_IA"
+      "INS_FORO",
+      "INS_DOC_COL",
+      "INS_CUAD_DIG",
+      "INS_PORT_DIG",
+      "INS_BIT_IA"
     ],
     "related_tools": [
-      "INS_HIST_REV",
-      "INS_ANALITICAS",
-      "INS_PANEL"
+      "HER_HIST_REV",
+      "HER_ANALITICAS",
+      "HER_PANEL"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_FORO": "principal",
-        "EVI_DOC_COL": "principal",
-        "EVI_CUAD_DIG": "complementaria",
-        "EVI_PORT_DIG": "complementaria",
-        "EVI_BIT_IA": "complementaria"
+        "INS_FORO": "principal",
+        "INS_DOC_COL": "principal",
+        "INS_CUAD_DIG": "complementaria",
+        "INS_PORT_DIG": "complementaria",
+        "INS_BIT_IA": "complementaria"
       },
       "rel_her": {
-        "INS_HIST_REV": "principal",
-        "INS_ANALITICAS": "complementaria",
-        "INS_PANEL": "complementaria"
+        "HER_HIST_REV": "principal",
+        "HER_ANALITICAS": "complementaria",
+        "HER_PANEL": "complementaria"
       }
     },
     "metac_ids": [
@@ -1460,29 +1460,29 @@
     "grouping": "Individual / Grupo pequeño",
     "ai_resistance": "Alta",
     "related_instruments": [
-      "EVI_TAREA_COMP_INT",
-      "EVI_EPORT_SEL",
-      "EVI_PR_COMP",
-      "EVI_BIT_IA"
+      "INS_TAREA_COMP_INT",
+      "INS_EPORT_SEL",
+      "INS_PR_COMP",
+      "INS_BIT_IA"
     ],
     "related_tools": [
-      "INS_MAP_EVID",
-      "INS_TAB_CRIT",
-      "INS_PERFIL_LOGRO",
-      "INS_DECL_IA"
+      "HER_MAP_EVID",
+      "HER_TAB_CRIT",
+      "HER_PERFIL_LOGRO",
+      "HER_DECL_IA"
     ],
     "rel_meta": {
       "rel_ins": {
-        "EVI_TAREA_COMP_INT": "principal",
-        "EVI_EPORT_SEL": "principal",
-        "EVI_PR_COMP": "complementaria",
-        "EVI_BIT_IA": "ocasional"
+        "INS_TAREA_COMP_INT": "principal",
+        "INS_EPORT_SEL": "principal",
+        "INS_PR_COMP": "complementaria",
+        "INS_BIT_IA": "ocasional"
       },
       "rel_her": {
-        "INS_MAP_EVID": "principal",
-        "INS_TAB_CRIT": "complementaria",
-        "INS_PERFIL_LOGRO": "complementaria",
-        "INS_DECL_IA": "complementaria"
+        "HER_MAP_EVID": "principal",
+        "HER_TAB_CRIT": "complementaria",
+        "HER_PERFIL_LOGRO": "complementaria",
+        "HER_DECL_IA": "complementaria"
       }
     },
     "metac_ids": [

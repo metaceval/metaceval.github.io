@@ -9,20 +9,20 @@ que se muestran en el modal de cada entidad de evaluación de Metac.
 
 | Categoría | Total | Hechos | Pendientes |
 |---|---|---|---|
-| `instrumentos.json` (INS_*) | 62 | 58 | 4 (DEFER, requieren imagen) |
+| `instrumentos.json` (HER_*) | 62 | 58 | 4 (DEFER, requieren imagen) |
 | `tecnicas.json` (TEC_*) | 12 | 12 | 0 ✅ |
-| `evidencias.json` (EVI_*) | 88 | — | No aplica (ver nota) |
+| `evidencias.json` (INS_*) | 88 | — | No aplica (ver nota) |
 | `dimensiones.json` (DIM_*) | 25 | 0 | 25 |
 
-> **Nota EVI_*:** Las evidencias son productos del alumno (ensayo, debate, vídeo…).
+> **Nota INS_*:** Las evidencias son productos del alumno (ensayo, debate, vídeo…).
 > Un ejemplo de la evidencia sería un fragmento del producto real, no una lista de criterios.
-> Como no se crearán ejemplos de este tipo, las entidades EVI_* no tienen sección de ejemplo.
+> Como no se crearán ejemplos de este tipo, las entidades INS_* no tienen sección de ejemplo.
 
 Ejemplos ya completados (en `examples/es|ca|en/`):
-`INS_RUB_ANA`, `INS_RUB_HOL`, `INS_RUB_PROC`, `INS_RUB_PROD`,
-`INS_RUB_ORAL`, `INS_RUB_COOP`, `INS_RUB_COMP`,
-`INS_LISTA`, `INS_ESC_OBS`, `INS_DIANA`, `INS_SEMAFORO`,
-`INS_ESCAL_FB`, `INS_BASE_ORIENT`
+`HER_RUB_ANA`, `HER_RUB_HOL`, `HER_RUB_PROC`, `HER_RUB_PROD`,
+`HER_RUB_ORAL`, `HER_RUB_COOP`, `HER_RUB_COMP`,
+`HER_LISTA`, `HER_ESC_OBS`, `HER_DIANA`, `HER_SEMAFORO`,
+`HER_ESCAL_FB`, `HER_BASE_ORIENT`
 
 ---
 
@@ -120,16 +120,16 @@ Estos se marcan como **DEFER** y se abordan en una fase separada:
 
 | ID | Motivo |
 |---|---|
-| `INS_PERFIL_LOGRO` | Gráfico de radar/araña |
-| `INS_PANEL` | Dashboard de progreso |
-| `INS_ANALITICAS` | Gráficos de distribución |
-| `INS_SOCIO` | Diagrama de red (sociograma) |
+| `HER_PERFIL_LOGRO` | Gráfico de radar/araña |
+| `HER_PANEL` | Dashboard de progreso |
+| `HER_ANALITICAS` | Gráficos de distribución |
+| `HER_SOCIO` | Diagrama de red (sociograma) |
 
 Las imágenes irían en `examples/{lang}/{ID}_img.png` referenciadas con ruta relativa.
 
 ---
 
-## Bloques de trabajo para INS_* (instrumentos)
+## Bloques de trabajo para HER_* (instrumentos)
 
 Prioridad alta — son los más usados en el aula y los que más se benefician del ejemplo.
 
@@ -137,17 +137,17 @@ Prioridad alta — son los más usados en el aula y los que más se benefician d
 
 | ID | Nombre |
 |---|---|
-| `INS_ESC_VAL` | Escala de valoración |
-| `INS_ESC_DESC` | Escala descriptiva |
-| `INS_ESC_NUM` | Escala numérica |
-| `INS_ESC_VERB` | Escala verbal |
-| `INS_ESC_AUTO` | Escala de autoevaluación |
-| `INS_ESC_PROG` | Escala de progreso |
+| `HER_ESC_VAL` | Escala de valoración |
+| `HER_ESC_DESC` | Escala descriptiva |
+| `HER_ESC_NUM` | Escala numérica |
+| `HER_ESC_VERB` | Escala verbal |
+| `HER_ESC_AUTO` | Escala de autoevaluación |
+| `HER_ESC_PROG` | Escala de progreso |
 
 **Formato típico**: tabla con indicadores en filas y niveles en columnas (Siempre/A veces/Nunca,
-o 1/2/3/4, o descriptores). Similar a `INS_ESC_OBS` ya hecho.
+o 1/2/3/4, o descriptores). Similar a `HER_ESC_OBS` ya hecho.
 
-Variante INS_ESC_NUM/VERB: una sola fila por criterio con la escala marcada.
+Variante HER_ESC_NUM/VERB: una sola fila por criterio con la escala marcada.
 
 ---
 
@@ -155,11 +155,11 @@ Variante INS_ESC_NUM/VERB: una sola fila por criterio con la escala marcada.
 
 | ID | Nombre |
 |---|---|
-| `INS_REG_ANE` | Registro anecdótico |
-| `INS_REG_DESC` | Registro descriptivo |
-| `INS_REG_PART` | Registro de participación |
-| `INS_REG_COOP` | Registro de trabajo cooperativo |
-| `INS_NOTAS_CAMPO` | Notas de campo |
+| `HER_REG_ANE` | Registro anecdótico |
+| `HER_REG_DESC` | Registro descriptivo |
+| `HER_REG_PART` | Registro de participación |
+| `HER_REG_COOP` | Registro de trabajo cooperativo |
+| `HER_NOTAS_CAMPO` | Notas de campo |
 
 **Formato típico**: tabla con columnas Alumno / Fecha / Situación observada / Valoración.
 El registro anecdótico y las notas de campo son más narrativos (tarjeta con fecha + texto libre).
@@ -170,13 +170,13 @@ El registro anecdótico y las notas de campo son más narrativos (tarjeta con fe
 
 | ID | Nombre |
 |---|---|
-| `INS_HOJA_IND` | Hoja de seguimiento individual |
-| `INS_HOJA_GRUP` | Hoja de seguimiento grupal |
-| `INS_DIARIO_PROF` | Diario del profesor |
+| `HER_HOJA_IND` | Hoja de seguimiento individual |
+| `HER_HOJA_GRUP` | Hoja de seguimiento grupal |
+| `HER_DIARIO_PROF` | Diario del profesor |
 
 **Formato típico**:
-- INS_HOJA_IND/GRUP: tabla con alumnos/grupos en filas, criterios o fechas en columnas.
-- INS_DIARIO_PROF: entrada narrativa con fecha, lo observado y la decisión docente que se toma.
+- HER_HOJA_IND/GRUP: tabla con alumnos/grupos en filas, criterios o fechas en columnas.
+- HER_DIARIO_PROF: entrada narrativa con fecha, lo observado y la decisión docente que se toma.
 
 ---
 
@@ -184,10 +184,10 @@ El registro anecdótico y las notas de campo son más narrativos (tarjeta con fe
 
 | ID | Nombre |
 |---|---|
-| `INS_GUIA_CORR` | Guía de corrección |
-| `INS_GUIA_OBS` | Guía de observación |
-| `INS_PLANT_CORR` | Plantilla de corrección |
-| `INS_BAREMO` | Baremo |
+| `HER_GUIA_CORR` | Guía de corrección |
+| `HER_GUIA_OBS` | Guía de observación |
+| `HER_PLANT_CORR` | Plantilla de corrección |
+| `HER_BAREMO` | Baremo |
 
 **Formato típico**:
 - Guía de corrección: criterio + descripción de qué se considera correcto + puntuación.
@@ -199,13 +199,13 @@ El registro anecdótico y las notas de campo son más narrativos (tarjeta con fe
 
 | ID | Nombre |
 |---|---|
-| `INS_FICHA_RETRO` | Ficha de retroalimentación |
-| `INS_PLANT_FF` | Plantilla de feedback/feedforward |
-| `INS_FICHA_COEV` | Ficha de coevaluación |
-| `INS_FICHA_VAL` | Ficha de valoración |
+| `HER_FICHA_RETRO` | Ficha de retroalimentación |
+| `HER_PLANT_FF` | Plantilla de feedback/feedforward |
+| `HER_FICHA_COEV` | Ficha de coevaluación |
+| `HER_FICHA_VAL` | Ficha de valoración |
 
 **Formato típico**: estructura de 2-3 secciones (Lo que funciona / Lo que mejorar / Propuesta).
-INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo que puedes hacer).
+HER_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo que puedes hacer).
 
 ---
 
@@ -213,9 +213,9 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre |
 |---|---|
-| `INS_RUB_AUTO` | Rúbrica de autoevaluación |
-| `INS_RUB_COEV` | Rúbrica de coevaluación |
-| `INS_LISTA_AUTO` | Lista de cotejo de autoevaluación |
+| `HER_RUB_AUTO` | Rúbrica de autoevaluación |
+| `HER_RUB_COEV` | Rúbrica de coevaluación |
+| `HER_LISTA_AUTO` | Lista de cotejo de autoevaluación |
 
 **Formato típico**: igual que las rúbricas analíticas ya hechas, pero la voz cambia
 (primera persona para auto, segunda persona para co). Se indica quién la cumplimenta.
@@ -226,16 +226,16 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre |
 |---|---|
-| `INS_MATRIZ` | Matriz de valoración |
-| `INS_MATRIZ_POND` | Matriz de ponderación |
-| `INS_BANCO_DESC` | Banco de descriptores |
-| `INS_IND_CRIT` | Lista de indicadores por criterio |
+| `HER_MATRIZ` | Matriz de valoración |
+| `HER_MATRIZ_POND` | Matriz de ponderación |
+| `HER_BANCO_DESC` | Banco de descriptores |
+| `HER_IND_CRIT` | Lista de indicadores por criterio |
 
 **Formato típico**:
-- INS_MATRIZ: similar a una rúbrica pero sin niveles, con criterios y puntuaciones directas.
-- INS_MATRIZ_POND: tabla con criterios, peso (%) y puntuación ponderada.
-- INS_BANCO_DESC: lista de descriptores agrupados por criterio.
-- INS_IND_CRIT: tabla criterio → lista de indicadores observables.
+- HER_MATRIZ: similar a una rúbrica pero sin niveles, con criterios y puntuaciones directas.
+- HER_MATRIZ_POND: tabla con criterios, peso (%) y puntuación ponderada.
+- HER_BANCO_DESC: lista de descriptores agrupados por criterio.
+- HER_IND_CRIT: tabla criterio → lista de indicadores observables.
 
 ---
 
@@ -243,15 +243,15 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre |
 |---|---|
-| `INS_CUAD_CAL` | Cuaderno de calificaciones |
-| `INS_TAB_CRIT` | Tabla de calificación por criterios |
-| `INS_CONV` | Conversor de niveles a calificación |
-| `INS_HOJA_CALC` | Hoja de cálculo de evaluación |
+| `HER_CUAD_CAL` | Cuaderno de calificaciones |
+| `HER_TAB_CRIT` | Tabla de calificación por criterios |
+| `HER_CONV` | Conversor de niveles a calificación |
+| `HER_HOJA_CALC` | Hoja de cálculo de evaluación |
 
 **Formato típico**:
-- INS_TAB_CRIT: tabla con criterios, peso y nota; fila de totales ponderados.
-- INS_CONV: tabla de equivalencias nivel descriptor ↔ nota numérica.
-- INS_CUAD_CAL y INS_HOJA_CALC: fragmento de tabla con alumnos, instrumentos y nota final.
+- HER_TAB_CRIT: tabla con criterios, peso y nota; fila de totales ponderados.
+- HER_CONV: tabla de equivalencias nivel descriptor ↔ nota numérica.
+- HER_CUAD_CAL y HER_HOJA_CALC: fragmento de tabla con alumnos, instrumentos y nota final.
 
 ---
 
@@ -259,14 +259,14 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre |
 |---|---|
-| `INS_ACTA` | Acta de evaluación |
-| `INS_INF_IND` | Informe individual de evaluación |
-| `INS_TAB_ESPEC` | Tabla de especificaciones |
+| `HER_ACTA` | Acta de evaluación |
+| `HER_INF_IND` | Informe individual de evaluación |
+| `HER_TAB_ESPEC` | Tabla de especificaciones |
 
 **Formato típico**:
-- INS_ACTA: tabla formal con alumno, instrumento, calificación y firma.
-- INS_INF_IND: informe narrativo estructurado por competencias.
-- INS_TAB_ESPEC: tabla que relaciona objetivos, contenidos y tipos de ítems de una prueba.
+- HER_ACTA: tabla formal con alumno, instrumento, calificación y firma.
+- HER_INF_IND: informe narrativo estructurado por competencias.
+- HER_TAB_ESPEC: tabla que relaciona objetivos, contenidos y tipos de ítems de una prueba.
 
 ---
 
@@ -274,16 +274,16 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre |
 |---|---|
-| `INS_FORM_DIG` | Formulario digital |
-| `INS_RUB_DIG` | Rúbrica digital |
-| `INS_HIST_REV` | Historial de revisión |
-| `INS_BANCO_EVID` | Banco digital de evidencias |
+| `HER_FORM_DIG` | Formulario digital |
+| `HER_RUB_DIG` | Rúbrica digital |
+| `HER_HIST_REV` | Historial de revisión |
+| `HER_BANCO_EVID` | Banco digital de evidencias |
 
 **Formato típico**:
-- INS_FORM_DIG: muestra las preguntas de un formulario Google con respuestas de ejemplo.
-- INS_RUB_DIG: igual que una rúbrica analítica pero mencionando la herramienta digital.
-- INS_HIST_REV: tabla de versiones con fecha, cambios y valoración.
-- INS_BANCO_EVID: tabla de evidencias indexadas con criterio, fecha y enlace.
+- HER_FORM_DIG: muestra las preguntas de un formulario Google con respuestas de ejemplo.
+- HER_RUB_DIG: igual que una rúbrica analítica pero mencionando la herramienta digital.
+- HER_HIST_REV: tabla de versiones con fecha, cambios y valoración.
+- HER_BANCO_EVID: tabla de evidencias indexadas con criterio, fecha y enlace.
 
 ---
 
@@ -291,14 +291,14 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre |
 |---|---|
-| `INS_RUB_PUNTO` | Rúbrica de punto único |
-| `INS_MAP_EVID` | Mapa de evidencias por criterio |
-| `INS_REG_COMP` | Registro de compromisos de mejora |
+| `HER_RUB_PUNTO` | Rúbrica de punto único |
+| `HER_MAP_EVID` | Mapa de evidencias por criterio |
+| `HER_REG_COMP` | Registro de compromisos de mejora |
 
 **Formato típico**:
-- INS_RUB_PUNTO: tabla de 3 columnas (Por debajo del estándar | Estándar | Por encima del estándar) con solo la columna central rellena.
-- INS_MAP_EVID: tabla criterio × evidencia con celdas marcadas.
-- INS_REG_COMP: tabla alumno + compromiso + fecha + seguimiento.
+- HER_RUB_PUNTO: tabla de 3 columnas (Por debajo del estándar | Estándar | Por encima del estándar) con solo la columna central rellena.
+- HER_MAP_EVID: tabla criterio × evidencia con celdas marcadas.
+- HER_REG_COMP: tabla alumno + compromiso + fecha + seguimiento.
 
 ---
 
@@ -306,8 +306,8 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre |
 |---|---|
-| `INS_CONTR_GRUP` | Contrato de grupo |
-| `INS_DECL_IA` | Declaración de uso de IA y fuentes |
+| `HER_CONTR_GRUP` | Contrato de grupo |
+| `HER_DECL_IA` | Declaración de uso de IA y fuentes |
 
 **Formato típico**: documento tipo formulario con secciones de texto libre firmadas.
 
@@ -317,10 +317,10 @@ INS_PLANT_FF tiene dos columnas: feedback (lo que ya hiciste) y feedforward (lo 
 
 | ID | Nombre | Motivo |
 |---|---|---|
-| `INS_PERFIL_LOGRO` | Perfil de logro | Gráfico de radar/araña |
-| `INS_PANEL` | Panel de progreso | Dashboard con barras/indicadores |
-| `INS_ANALITICAS` | Analíticas de aprendizaje | Gráficos estadísticos |
-| `INS_SOCIO` | Sociograma | Diagrama de red |
+| `HER_PERFIL_LOGRO` | Perfil de logro | Gráfico de radar/araña |
+| `HER_PANEL` | Panel de progreso | Dashboard con barras/indicadores |
+| `HER_ANALITICAS` | Analíticas de aprendizaje | Gráficos estadísticos |
+| `HER_SOCIO` | Sociograma | Diagrama de red |
 
 ---
 
@@ -342,14 +342,14 @@ El ejemplo debe mostrar la técnica en acción: qué hace el docente, cómo se r
 
 ---
 
-## EVI_* (evidencias) — Sin ejemplos
+## INS_* (evidencias) — Sin ejemplos
 
 Las evidencias son **productos que genera el alumno** (ensayo, debate, vídeo, informe…).
 Un ejemplo real sería un fragmento del producto del alumno, lo cual no se puede
 generar de forma genérica con utilidad pedagógica real.
 
-**Decisión:** no se crean archivos de ejemplo para entidades EVI_*.
-Las entidades EVI_* muestran solo su descripción en el modal, sin sección de ejemplo.
+**Decisión:** no se crean archivos de ejemplo para entidades INS_*.
+Las entidades INS_* muestran solo su descripción en el modal, sin sección de ejemplo.
 
 ---
 
@@ -358,7 +358,7 @@ Las entidades EVI_* muestran solo su descripción en el modal, sin sección de e
 Las dimensiones son **conceptos abstractos de evaluación** (quién evalúa, cuándo, con qué finalidad).
 Un ejemplo de una dimensión sería una descripción de cómo se aplica en el aula — útil,
 pero no ES la dimensión en sí: es una aplicación contextualizada de ella.
-El mismo problema que EVI_*: lo que se crearía no sería un ejemplo de la cosa, sino otra cosa.
+El mismo problema que INS_*: lo que se crearía no sería un ejemplo de la cosa, sino otra cosa.
 
 **Decisión:** no se crean archivos de ejemplo para entidades DIM_*.
 Las entidades DIM_* muestran solo su descripción en el modal, sin sección de ejemplo.
@@ -367,11 +367,11 @@ Las entidades DIM_* muestran solo su descripción en el modal, sin sección de e
 
 ## Orden de prioridad recomendado
 
-1. **EVI_*** ✅ 58/62 completados (4 DEFER requieren imagen — fase separada)
+1. **HER_*** ✅ 58/62 completados (4 DEFER requieren imagen — fase separada)
 2. **TEC_*** ✅ 12/12 completados
-3. **EVI_*** — sin ejemplos (ver nota)
+3. **INS_*** — sin ejemplos (ver nota)
 4. **DIM_*** — sin ejemplos (ver nota)
-5. **EVI_* DEFER** — pendiente cuando se decida el sistema de imágenes
+5. **HER_* DEFER** — pendiente cuando se decida el sistema de imágenes
 
 ---
 
@@ -393,8 +393,8 @@ EOF
 ## Referencia: ejemplos ya hechos (como guía de estilo)
 
 Ver cualquiera de estos archivos como referencia de formato y tono:
-- `examples/es/INS_RUB_ANA.html` — rúbrica analítica
-- `examples/es/INS_LISTA.html` — lista de cotejo
-- `examples/es/INS_SEMAFORO.html` — semáforo (con CSS de colores, sin imagen)
-- `examples/es/INS_ESCAL_FB.html` — escalera (tabla vertical con pasos)
-- `examples/es/INS_DIANA.html` — diana (SVG inline)
+- `examples/es/HER_RUB_ANA.html` — rúbrica analítica
+- `examples/es/HER_LISTA.html` — lista de cotejo
+- `examples/es/HER_SEMAFORO.html` — semáforo (con CSS de colores, sin imagen)
+- `examples/es/HER_ESCAL_FB.html` — escalera (tabla vertical con pasos)
+- `examples/es/HER_DIANA.html` — diana (SVG inline)

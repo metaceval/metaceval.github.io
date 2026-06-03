@@ -354,7 +354,7 @@ Es clave en evaluación competencial y criterial, porque evita decidir a partir 
 ## Evidencias observables
 
 
-### 1. Trabajo individual en aula `EVI_TRAB_IND`
+### 1. Trabajo individual en aula `INS_TRAB_IND`
 
 _Actividad realizada individualmente durante la clase._
 
@@ -375,7 +375,7 @@ Es una de las evidencias evaluables más habituales porque permite información 
 ---
 
 
-### 2. Trabajo cooperativo `EVI_TRAB_COOP`
+### 2. Trabajo cooperativo `INS_TRAB_COOP`
 
 _Actividad grupal con reparto de tareas y responsabilidad compartida._
 
@@ -396,7 +396,7 @@ Para que la evaluación sea justa, no debe reducirse al producto final: dos grup
 ---
 
 
-### 3. Participación en clase `EVI_PART`
+### 3. Participación en clase `INS_PART`
 
 _Intervenciones y aportaciones del alumnado en el aula._
 
@@ -417,7 +417,7 @@ Debe valorarse la calidad de las aportaciones, no solo la cantidad. Un alumno qu
 ---
 
 
-### 4. Debate `EVI_DEBATE`
+### 4. Debate `INS_DEBATE`
 
 _Discusión reglada sobre un tema con argumentos y turnos._
 
@@ -438,7 +438,7 @@ El debate permite evaluar competencias que no son visibles en pruebas escritas: 
 ---
 
 
-### 5. Coloquio `EVI_COLOQ`
+### 5. Coloquio `INS_COLOQ`
 
 _Conversación guiada para contrastar ideas._
 
@@ -459,7 +459,7 @@ Es especialmente adecuado para evaluar comprensión lectora, análisis de textos
 ---
 
 
-### 6. Asamblea `EVI_ASAM`
+### 6. Asamblea `INS_ASAM`
 
 _Situación colectiva para tomar decisiones o comentar procesos._
 
@@ -480,7 +480,7 @@ No es una evidencia de evaluación académica formal en sentido estricto, pero s
 ---
 
 
-### 7. Práctica de laboratorio `EVI_LAB`
+### 7. Práctica de laboratorio `INS_LAB`
 
 _Actividad experimental o manipulativa en laboratorio._
 
@@ -501,7 +501,7 @@ Es una de las evidencias evaluables más ricas para la evaluación competencial 
 ---
 
 
-### 8. Taller `EVI_TALLER`
+### 8. Taller `INS_TALLER`
 
 _Actividad práctica orientada a producir, experimentar o resolver._
 
@@ -522,7 +522,7 @@ Es especialmente adecuado para evaluar procedimientos, creatividad y aplicación
 ---
 
 
-### 9. Simulación `EVI_SIM`
+### 9. Simulación `INS_SIM`
 
 _Recreación de una situación real o verosímil._
 
@@ -543,7 +543,7 @@ Permite evaluar habilidades difíciles de observar en otras situaciones: toma de
 ---
 
 
-### 10. Juego de rol `EVI_ROL`
+### 10. Juego de rol `INS_ROL`
 
 _Representación de papeles para analizar una situación._
 
@@ -564,7 +564,7 @@ Es especialmente útil en historia, ciencias sociales, ética, idiomas y educaci
 ---
 
 
-### 11. Dramatización `EVI_DRAMA`
+### 11. Dramatización `INS_DRAMA`
 
 _Representación escénica de una situación o contenido._
 
@@ -585,7 +585,7 @@ Es una evidencia especialmente rica para lengua y literatura, idiomas extranjero
 ---
 
 
-### 12. Exposición oral `EVI_EXPO`
+### 12. Exposición oral `INS_EXPO`
 
 _Presentación planificada de un tema._
 
@@ -606,7 +606,7 @@ Permite evaluar competencia comunicativa oral, capacidad de síntesis y dominio 
 ---
 
 
-### 13. Defensa de proyecto `EVI_DEF_PROY`
+### 13. Defensa de proyecto `INS_DEF_PROY`
 
 _Justificación oral de un proyecto o producto._
 
@@ -627,7 +627,7 @@ Añade valor al proyecto porque obliga al alumnado a comprender realmente lo que
 ---
 
 
-### 14. Entrevista `EVI_ENTREV`
+### 14. Entrevista `INS_ENTREV`
 
 _Conversación estructurada con preguntas y respuestas._
 
@@ -648,7 +648,7 @@ Es especialmente útil para alumnos con dificultades de expresión escrita o cua
 ---
 
 
-### 15. Pregunta oral estructurada `EVI_PREG_ORAL`
+### 15. Pregunta oral estructurada `INS_PREG_ORAL`
 
 _Pregunta planificada para comprobar comprensión._
 
@@ -669,7 +669,7 @@ Es una de las formas más inmediatas y frecuentes de evaluación formativa: perm
 ---
 
 
-### 16. Cuaderno de clase `EVI_CUADERNO`
+### 16. Cuaderno de clase `INS_CUADERNO`
 
 _Registro de actividades, apuntes, ejercicios y correcciones._
 
@@ -690,7 +690,7 @@ Es una ventana al proceso de aprendizaje del alumno que no dejan otras evidencia
 ---
 
 
-### 17. Diario de aprendizaje `EVI_DIARIO`
+### 17. Diario de aprendizaje `INS_DIARIO`
 
 _Registro reflexivo sobre aprendizajes y dificultades._
 
@@ -711,7 +711,7 @@ Es una actividad de gran potencial para el desarrollo de la metacognición y la 
 ---
 
 
-### 18. Porfolio `EVI_PORT`
+### 18. Porfolio `INS_PORT`
 
 _Colección organizada de evidencias y reflexiones._
 
@@ -732,7 +732,7 @@ Permite una evaluación longitudinal y auténtica. Desarrolla la autonomía, la 
 ---
 
 
-### 19. Informe de laboratorio `EVI_INFO_LAB`
+### 19. Informe de laboratorio `INS_INFO_LAB`
 
 _Documento con objetivo, procedimiento, datos, análisis y conclusiones._
 
@@ -753,7 +753,7 @@ Combina la evaluación del proceso (qué hicieron en el laboratorio) con la del 
 ---
 
 
-### 20. Informe de investigación `EVI_INFO_INV`
+### 20. Informe de investigación `INS_INFO_INV`
 
 _Documento que comunica una indagación o investigación._
 
@@ -774,7 +774,7 @@ Es la evidencia más adecuada para evaluar competencias de investigación en ESO
 ---
 
 
-### 21. Monografía `EVI_MONO`
+### 21. Monografía `INS_MONO`
 
 _Trabajo extenso sobre un tema con documentación._
 
@@ -795,7 +795,7 @@ Es especialmente útil en Bachillerato y FP para desarrollar y evaluar la escrit
 ---
 
 
-### 22. Ensayo `EVI_ENSAYO`
+### 22. Ensayo `INS_ENSAYO`
 
 _Texto argumentativo que desarrolla una tesis._
 
@@ -816,7 +816,7 @@ Es una tarea especialmente adecuada para evaluar pensamiento crítico, argumenta
 ---
 
 
-### 23. Comentario de texto `EVI_COM_TEXT`
+### 23. Comentario de texto `INS_COM_TEXT`
 
 _Análisis e interpretación de un texto._
 
@@ -837,7 +837,7 @@ Es una de las evidencias evaluables más habituales en lengua y literatura, hist
 ---
 
 
-### 24. Comentario de gráfica o datos `EVI_COM_GRAF`
+### 24. Comentario de gráfica o datos `INS_COM_GRAF`
 
 _Interpretación de gráficos, tablas o datos._
 
@@ -858,7 +858,7 @@ Es una tarea clave en matemáticas, ciencias, geografía, economía y cualquier 
 ---
 
 
-### 25. Resumen `EVI_RESUMEN`
+### 25. Resumen `INS_RESUMEN`
 
 _Síntesis de ideas principales._
 
@@ -879,7 +879,7 @@ Es una tarea muy accesible para evaluar la comprensión lectora y la capacidad d
 ---
 
 
-### 26. Esquema `EVI_ESQUEMA`
+### 26. Esquema `INS_ESQUEMA`
 
 _Organización jerárquica de información._
 
@@ -900,7 +900,7 @@ Es especialmente útil para evaluar la comprensión y la organización del conoc
 ---
 
 
-### 27. Mapa conceptual `EVI_MAP_CONC`
+### 27. Mapa conceptual `INS_MAP_CONC`
 
 _Representación de conceptos y relaciones._
 
@@ -921,7 +921,7 @@ Permite evaluar la estructura del conocimiento de un alumno: no solo si sabe los
 ---
 
 
-### 28. Mapa mental `EVI_MAP_MENT`
+### 28. Mapa mental `INS_MAP_MENT`
 
 _Organización radial de ideas._
 
@@ -942,7 +942,7 @@ Es especialmente útil para explorar ideas previas, hacer lluvias de ideas estru
 ---
 
 
-### 29. Línea del tiempo `EVI_LINEA`
+### 29. Línea del tiempo `INS_LINEA`
 
 _Representación cronológica de hechos o procesos._
 
@@ -963,7 +963,7 @@ Es una tarea clave en historia, biología (evolución), literatura (movimientos 
 ---
 
 
-### 30. Glosario `EVI_GLOS`
+### 30. Glosario `INS_GLOS`
 
 _Relación de términos y definiciones._
 
@@ -984,7 +984,7 @@ Es útil como tarea continua a lo largo de una unidad y como herramienta de estu
 ---
 
 
-### 31. Ficha de lectura `EVI_FICHA_LECT`
+### 31. Ficha de lectura `INS_FICHA_LECT`
 
 _Registro estructurado de una lectura._
 
@@ -1005,7 +1005,7 @@ Es especialmente útil en lengua y literatura, filosofía, ciencias sociales y c
 ---
 
 
-### 32. Reseña `EVI_RESEÑA`
+### 32. Reseña `INS_RESEÑA`
 
 _Texto crítico breve sobre obra, recurso o actividad._
 
@@ -1026,7 +1026,7 @@ Es una tarea excelente para evaluar pensamiento crítico, escritura argumentativ
 ---
 
 
-### 33. Artículo divulgativo `EVI_ART_DIV`
+### 33. Artículo divulgativo `INS_ART_DIV`
 
 _Comunicación clara de información especializada._
 
@@ -1047,7 +1047,7 @@ Desarrolla la competencia comunicativa escrita, la comprensión profunda de la m
 ---
 
 
-### 34. Memoria de proyecto `EVI_MEM_PROY`
+### 34. Memoria de proyecto `INS_MEM_PROY`
 
 _Documento que recoge planificación, proceso y resultados._
 
@@ -1068,7 +1068,7 @@ Es la evidencia evaluable principal en proyectos de aprendizaje-servicio, proyec
 ---
 
 
-### 35. Plan de trabajo `EVI_PLAN_TRAB`
+### 35. Plan de trabajo `INS_PLAN_TRAB`
 
 _Documento de organización de tareas y tiempos._
 
@@ -1089,7 +1089,7 @@ Es una actividad formativa que ayuda al alumnado al alumnado a desarrollar compe
 ---
 
 
-### 36. Acta de reunión `EVI_ACTA`
+### 36. Acta de reunión `INS_ACTA`
 
 _Registro de acuerdos, tareas y decisiones de grupo._
 
@@ -1110,7 +1110,7 @@ Desarrolla habilidades de comunicación formal, organización y responsabilidad 
 ---
 
 
-### 37. Contrato de aprendizaje `EVI_CONTRATO`
+### 37. Contrato de aprendizaje `INS_CONTRATO`
 
 _Acuerdo de objetivos y compromisos personales._
 
@@ -1131,7 +1131,7 @@ Favorece la autonomía, la motivación intrínseca y la responsabilidad. Es espe
 ---
 
 
-### 38. Ficha de reflexión `EVI_F_REFLEX`
+### 38. Ficha de reflexión `INS_F_REFLEX`
 
 _Documento breve para analizar aprendizaje y mejoras._
 
@@ -1152,7 +1152,7 @@ Es una actividad de cierre muy eficaz para sesiones, unidades o proyectos. Convi
 ---
 
 
-### 39. Autoinforme `EVI_AUTOINF`
+### 39. Autoinforme `INS_AUTOINF`
 
 _Texto donde el alumnado describe y justifica su desempeño._
 
@@ -1173,7 +1173,7 @@ Es una evidencia de alto valor metacognitivo, especialmente en portfolios, proye
 ---
 
 
-### 40. Resolución de problemas `EVI_PROB`
+### 40. Resolución de problemas `INS_PROB`
 
 _Situaciones que requieren análisis, procedimiento y justificación._
 
@@ -1194,7 +1194,7 @@ Es la evidencia central de la evaluación competencial en matemáticas, física,
 ---
 
 
-### 41. Estudio de caso `EVI_CASO`
+### 41. Estudio de caso `INS_CASO`
 
 _Análisis de una situación real o simulada._
 
@@ -1215,7 +1215,7 @@ Es especialmente adecuado en ciencias de la salud, ciencias sociales, derecho, h
 ---
 
 
-### 42. Prueba escrita de desarrollo `EVI_PR_DES`
+### 42. Prueba escrita de desarrollo `INS_PR_DES`
 
 _Preguntas abiertas de explicación o argumentación._
 
@@ -1236,7 +1236,7 @@ Permite evaluar comprensión profunda, capacidad de síntesis y escritura acadé
 ---
 
 
-### 43. Prueba objetiva `EVI_PR_OBJ`
+### 43. Prueba objetiva `INS_PR_OBJ`
 
 _Cuestiones cerradas o muy delimitadas._
 
@@ -1257,7 +1257,7 @@ Es eficiente para comprobar conocimientos declarativos y algunas aplicaciones o 
 ---
 
 
-### 44. Prueba tipo test `EVI_TEST`
+### 44. Prueba tipo test `INS_TEST`
 
 _Cuestionario con opciones de respuesta._
 
@@ -1278,7 +1278,7 @@ Es muy eficiente para evaluar grandes cantidades de contenido en poco tiempo, pe
 ---
 
 
-### 45. Prueba de respuesta corta `EVI_RESP_CORTA`
+### 45. Prueba de respuesta corta `INS_RESP_CORTA`
 
 _Preguntas breves con respuestas delimitadas._
 
@@ -1299,7 +1299,7 @@ Equilibra la eficiencia de la prueba objetiva con la necesidad de que el alumno 
 ---
 
 
-### 46. Prueba oral `EVI_PR_ORAL`
+### 46. Prueba oral `INS_PR_ORAL`
 
 _Evaluación mediante preguntas o tareas orales._
 
@@ -1320,7 +1320,7 @@ Permite valorar comprensión real (no memorización de texto) y expresión oral.
 ---
 
 
-### 47. Prueba práctica `EVI_PR_PRACT`
+### 47. Prueba práctica `INS_PR_PRACT`
 
 _Ejecución de un procedimiento o tarea aplicada._
 
@@ -1341,7 +1341,7 @@ Es la tarea más adecuada para evaluar el saber hacer: procedimientos técnicos,
 ---
 
 
-### 48. Prueba competencial contextualizada `EVI_PR_COMP`
+### 48. Prueba competencial contextualizada `INS_PR_COMP`
 
 _Tarea evaluativa en contexto real o verosímil._
 
@@ -1362,7 +1362,7 @@ Es la evidencia que mejor articula la calificación con la evaluación por crite
 ---
 
 
-### 49. Prueba con documentos `EVI_DOCS`
+### 49. Prueba con documentos `INS_DOCS`
 
 _Prueba que incluye textos, gráficos, mapas o fuentes._
 
@@ -1383,7 +1383,7 @@ Es el formato de prueba más habitual en historia, geografía, ciencias sociales
 ---
 
 
-### 50. Cuestionario digital `EVI_CUEST_DIG`
+### 50. Cuestionario digital `INS_CUEST_DIG`
 
 _Formulario o cuestionario realizado en línea._
 
@@ -1404,7 +1404,7 @@ Ahorra tiempo de corrección, permite retroalimentación inmediata y facilita el
 ---
 
 
-### 51. Infografía `EVI_INFOG`
+### 51. Infografía `INS_INFOG`
 
 _Síntesis visual de información mediante texto e imagen._
 
@@ -1425,7 +1425,7 @@ Desarrolla la competencia comunicativa visual, la capacidad de síntesis y la cr
 ---
 
 
-### 52. Póster académico `EVI_POSTER`
+### 52. Póster académico `INS_POSTER`
 
 _Presentación visual estructurada de una investigación o proyecto._
 
@@ -1446,7 +1446,7 @@ Es especialmente adecuado en ciencias, tecnología y proyectos de investigación
 ---
 
 
-### 53. Presentación digital `EVI_PRESENT_DIG`
+### 53. Presentación digital `INS_PRESENT_DIG`
 
 _Diapositivas u otro soporte para comunicar información._
 
@@ -1467,7 +1467,7 @@ Es una tarea muy habitual pero que requiere orientación explícita sobre qué h
 ---
 
 
-### 54. Vídeo `EVI_VIDEO`
+### 54. Vídeo `INS_VIDEO`
 
 _Producto audiovisual con guion y edición._
 
@@ -1488,7 +1488,7 @@ Desarrolla la competencia digital, la comunicación audiovisual y la creatividad
 ---
 
 
-### 55. Videotutorial `EVI_TUTORIAL`
+### 55. Videotutorial `INS_TUTORIAL`
 
 _Vídeo que explica un procedimiento o concepto paso a paso._
 
@@ -1509,7 +1509,7 @@ Es una excelente evidencia para evaluar comprensión procedimental y la capacida
 ---
 
 
-### 56. Podcast `EVI_PODCAST`
+### 56. Podcast `INS_PODCAST`
 
 _Producción sonora con guion y comunicación oral._
 
@@ -1530,7 +1530,7 @@ Favorece la expresión oral en un formato diferente al de la exposición presenc
 ---
 
 
-### 57. Cómic `EVI_COMIC`
+### 57. Cómic `INS_COMIC`
 
 _Narración gráfica con texto e imagen._
 
@@ -1551,7 +1551,7 @@ Es especialmente útil en lengua y literatura, historia, ciencias y educación a
 ---
 
 
-### 58. Maqueta `EVI_MAQUETA`
+### 58. Maqueta `INS_MAQUETA`
 
 _Modelo físico de estructura, sistema o proceso._
 
@@ -1572,7 +1572,7 @@ Es especialmente útil en tecnología, arquitectura, geografía, historia y cien
 ---
 
 
-### 59. Modelo digital `EVI_MODELO_DIG`
+### 59. Modelo digital `INS_MODELO_DIG`
 
 _Representación digital de fenómeno, estructura o sistema._
 
@@ -1593,7 +1593,7 @@ Desarrolla la competencia digital y el pensamiento espacial. Es especialmente ad
 ---
 
 
-### 60. Prototipo `EVI_PROTOTIPO`
+### 60. Prototipo `INS_PROTOTIPO`
 
 _Versión inicial o funcional de una solución._
 
@@ -1614,7 +1614,7 @@ Es la evidencia central en proyectos de design thinking, tecnología, FP y cualq
 ---
 
 
-### 61. Página web `EVI_WEB`
+### 61. Página web `INS_WEB`
 
 _Sitio web organizado para comunicar o resolver una necesidad._
 
@@ -1635,7 +1635,7 @@ Desarrolla competencia digital, comunicación multimodal y comprensión de la ma
 ---
 
 
-### 62. Entrada de blog `EVI_BLOG`
+### 62. Entrada de blog `INS_BLOG`
 
 _Publicación digital reflexiva, explicativa o divulgativa._
 
@@ -1656,7 +1656,7 @@ Es una buena actividad para trabajar la escritura con una audiencia real y desar
 ---
 
 
-### 63. Foro de discusión `EVI_FORO`
+### 63. Foro de discusión `INS_FORO`
 
 _Interacciones escritas en entorno digital._
 
@@ -1677,7 +1677,7 @@ Permite la participación de alumnos que no intervienen fácilmente en debates p
 ---
 
 
-### 64. Documento colaborativo `EVI_DOC_COL`
+### 64. Documento colaborativo `INS_DOC_COL`
 
 _Documento compartido elaborado por varios alumnos._
 
@@ -1698,7 +1698,7 @@ Es especialmente útil para proyectos grupales donde la contribución individual
 ---
 
 
-### 65. Portfolio digital `EVI_PORT_DIG`
+### 65. Portfolio digital `INS_PORT_DIG`
 
 _Colección digital de evidencias y reflexiones._
 
@@ -1719,7 +1719,7 @@ Es la evidencia más completa para la evaluación por competencias y el seguimie
 ---
 
 
-### 66. KPSI `EVI_KPSI`
+### 66. KPSI `INS_KPSI`
 
 _Actividad diagnóstica en la que el alumno indica su grado de conocimiento previo sobre cada concepto._
 
@@ -1740,7 +1740,7 @@ Como actividad genera evidencia diagnóstica de autopercepción que permite al d
 ---
 
 
-### 67. Mapa conceptual inicial `EVI_MAP_INI`
+### 67. Mapa conceptual inicial `INS_MAP_INI`
 
 _Mapa conceptual al inicio de una unidad._
 
@@ -1761,7 +1761,7 @@ Permite al docente detectar concepciones previas, tanto correctas como erróneas
 ---
 
 
-### 68. Lluvia de ideas `EVI_LLUVIA`
+### 68. Lluvia de ideas `INS_LLUVIA`
 
 _Generación rápida de ideas iniciales._
 
@@ -1782,7 +1782,7 @@ Es una actividad diagnóstica y motivadora. En grupos, puede revelar la riqueza 
 ---
 
 
-### 69. Borrador `EVI_BORR`
+### 69. Borrador `INS_BORR`
 
 _Versión inicial o intermedia de un producto._
 
@@ -1803,7 +1803,7 @@ El ciclo borrador → retroalimentación → revisión → entrega final es uno 
 ---
 
 
-### 70. Entrega parcial `EVI_ENT_PAR`
+### 70. Entrega parcial `INS_ENT_PAR`
 
 _Producto intermedio entregado antes del final._
 
@@ -1824,7 +1824,7 @@ Evita la acumulación de trabajo al final y permite detectar problemas de compre
 ---
 
 
-### 71. Bitácora de proyecto `EVI_BIT`
+### 71. Bitácora de proyecto `INS_BIT`
 
 _Registro continuado de decisiones, problemas y avances._
 
@@ -1845,7 +1845,7 @@ Hace visible el proceso de aprendizaje, que de otro modo solo se conoce por el p
 ---
 
 
-### 72. Revisión por pares `EVI_REV_PARES`
+### 72. Revisión por pares `INS_REV_PARES`
 
 _Análisis y mejora de trabajos entre compañeros._
 
@@ -1866,7 +1866,7 @@ Es una de las evidencias evaluables formativas con mayor impacto en la calidad d
 ---
 
 
-### 73. Dos estrellas y un deseo `EVI_2E1D`
+### 73. Dos estrellas y un deseo `INS_2E1D`
 
 _Actividad de coevaluación: dos aspectos positivos y una propuesta de mejora._
 
@@ -1887,7 +1887,7 @@ Es especialmente adecuada para introducir la coevaluación con grupos sin práct
 ---
 
 
-### 74. Semáforo de aprendizaje `EVI_SEMAF`
+### 74. Semáforo de aprendizaje `INS_SEMAF`
 
 _Actividad breve de autoevaluación en la que el alumno señala su nivel de comprensión con tres colores._
 
@@ -1908,7 +1908,7 @@ Permite regular el ritmo de la enseñanza en tiempo real a partir de evidencias 
 ---
 
 
-### 75. Billete de salida `EVI_BILLETE`
+### 75. Billete de salida `INS_BILLETE`
 
 _Respuesta breve al final de la sesión._
 
@@ -1929,7 +1929,7 @@ Es una de las estrategias de evaluación formativa más sencillas y efectivas. C
 ---
 
 
-### 76. Prueba de libro abierto `EVI_LIBRO_ABIERTO`
+### 76. Prueba de libro abierto `INS_LIBRO_ABIERTO`
 
 _Prueba en la que el alumnado puede consultar materiales autorizados._
 
@@ -1950,7 +1950,7 @@ Es adecuada para evaluar comprensión profunda, manejo de fuentes y aplicación 
 ---
 
 
-### 77. Tarea competencial integrada `EVI_TAREA_COMP_INT`
+### 77. Tarea competencial integrada `INS_TAREA_COMP_INT`
 
 _Tarea compleja que integra varios aprendizajes en un contexto significativo._
 
@@ -1971,7 +1971,7 @@ Es una de las formas más potentes de evaluación competencial, siempre que la s
 ---
 
 
-### 78. Situación-problema `EVI_SIT_PROB`
+### 78. Situación-problema `INS_SIT_PROB`
 
 _Situación contextualizada que exige analizar un problema y proponer una solución._
 
@@ -1992,7 +1992,7 @@ Es especialmente adecuada para matemáticas, ciencias, tecnología y materias do
 ---
 
 
-### 79. Escape room o reto gamificado `EVI_ESCAPE`
+### 79. Escape room o reto gamificado `INS_ESCAPE`
 
 _Secuencia de retos con reglas de juego para resolver problemas o aplicar aprendizajes._
 
@@ -2013,7 +2013,7 @@ Conviene usarlo con criterios claros, porque la motivación del juego puede ocul
 ---
 
 
-### 80. Seminario socrático `EVI_SEMINARIO`
+### 80. Seminario socrático `INS_SEMINARIO`
 
 _Diálogo estructurado a partir de preguntas abiertas y evidencias._
 
@@ -2034,7 +2034,7 @@ Permite evaluar pensamiento crítico y comprensión profunda, pero requiere entr
 ---
 
 
-### 81. Checklist de laboratorio `EVI_CHECK_LAB`
+### 81. Checklist de laboratorio `INS_CHECK_LAB`
 
 _Actividad de observación y autorregistro de procedimientos, seguridad y datos en el laboratorio._
 
@@ -2055,7 +2055,7 @@ Nota: en sentido estricto, un checklist es también un instrumento de evaluació
 ---
 
 
-### 82. Cuaderno digital `EVI_CUAD_DIG`
+### 82. Cuaderno digital `INS_CUAD_DIG`
 
 _Registro digital continuado de actividades, notas, evidencias y reflexiones._
 
@@ -2076,7 +2076,7 @@ Es útil para evaluación continua y competencia digital, siempre que haya crite
 ---
 
 
-### 83. E-portfolio con evidencias seleccionadas `EVI_EPORT_SEL`
+### 83. E-portfolio con evidencias seleccionadas `INS_EPORT_SEL`
 
 _Portfolio digital donde el alumnado selecciona y justifica evidencias de aprendizaje._
 
@@ -2097,7 +2097,7 @@ Es especialmente adecuado para evaluación continua, criterial y competencial.
 ---
 
 
-### 84. Cuaderno de campo `EVI_CUAD_CAMPO`
+### 84. Cuaderno de campo `INS_CUAD_CAMPO`
 
 _Registro de observaciones, datos y reflexiones durante actividades en el exterior o entorno real._
 
@@ -2105,7 +2105,7 @@ _Registro de observaciones, datos y reflexiones durante actividades en el exteri
 
 _Palabras clave: campo, exterior, observacion, naturaleza_
 
-El cuaderno de campo es el registro que elabora el alumno durante actividades realizadas fuera del aula: salidas de campo, visitas, estudios del entorno o actividades en espacios naturales. A diferencia del cuaderno de clase (EVI_CUADERNO), documenta observaciones en tiempo real en contextos no controlados; a diferencia del informe de laboratorio (EVI_INFO_LAB), no sigue una estructura experimental cerrada, sino que recoge notas, croquis, medidas y reflexiones sobre la marcha.
+El cuaderno de campo es el registro que elabora el alumno durante actividades realizadas fuera del aula: salidas de campo, visitas, estudios del entorno o actividades en espacios naturales. A diferencia del cuaderno de clase (INS_CUADERNO), documenta observaciones en tiempo real en contextos no controlados; a diferencia del informe de laboratorio (INS_INFO_LAB), no sigue una estructura experimental cerrada, sino que recoge notas, croquis, medidas y reflexiones sobre la marcha.
 
 Cómo usarlo para evaluar: el alumno registra observaciones directas, datos medidos, dibujos o croquis, preguntas emergentes y reflexiones iniciales. El docente evalúa la precisión y completitud de las observaciones, la capacidad de registrar datos relevantes y la calidad de la reflexión sobre lo observado. Una guía de corrección con los elementos esperados orienta la evaluación de forma coherente.
 
@@ -2118,7 +2118,7 @@ Es especialmente útil en ciencias naturales, geografía, educación ambiental, 
 ---
 
 
-### 85. Microvídeo educativo `EVI_MICROVIDEO`
+### 85. Microvídeo educativo `INS_MICROVIDEO`
 
 _Vídeo breve (60–90 s) que explica, divulga o argumenta sobre un tema._
 
@@ -2126,7 +2126,7 @@ _Vídeo breve (60–90 s) que explica, divulga o argumenta sobre un tema._
 
 _Palabras clave: video, corto, reel, divulgacion, digital_
 
-El microvídeo educativo es una producción audiovisual de corta duración (habitualmente entre 60 y 90 segundos) en la que el alumno explica un concepto, argumenta una posición, resume un tema o comunica resultados de forma sintética y directa. Se diferencia del vídeo convencional (EVI_VIDEO) por la exigencia de condensar el mensaje al máximo; y del videotutorial (EVI_TUTORIAL) en que no sigue necesariamente una estructura procedimental paso a paso.
+El microvídeo educativo es una producción audiovisual de corta duración (habitualmente entre 60 y 90 segundos) en la que el alumno explica un concepto, argumenta una posición, resume un tema o comunica resultados de forma sintética y directa. Se diferencia del vídeo convencional (INS_VIDEO) por la exigencia de condensar el mensaje al máximo; y del videotutorial (INS_TUTORIAL) en que no sigue necesariamente una estructura procedimental paso a paso.
 
 Cómo usarlo para evaluar: se valoran la claridad y precisión del mensaje, la adecuación al destinatario, la estructura narrativa dentro del tiempo reducido, la corrección del contenido y la calidad técnica básica (imagen, sonido). Una rúbrica analítica que diferencie contenido y producción permite retroalimentación específica. La coevaluación entre compañeros es especialmente natural en este formato.
 
@@ -2139,7 +2139,7 @@ Es motivador para alumnado que aprende mejor mediante formatos visuales y orales
 ---
 
 
-### 86. Bitácora de proceso con IA `EVI_BIT_IA`
+### 86. Bitácora de proceso con IA `INS_BIT_IA`
 
 _Registro del proceso de trabajo, uso de IA, fuentes, versiones y decisiones tomadas._
 
@@ -2160,7 +2160,7 @@ Permite valorar autoría, pensamiento crítico, revisión, mejora y uso responsa
 ---
 
 
-### 87. Tarjetas de respuesta / mini-pizarra `EVI_TARJ_RESP`
+### 87. Tarjetas de respuesta / mini-pizarra `INS_TARJ_RESP`
 
 _Evidencia de respuesta inmediata en la que todo el grupo contesta a la vez con tarjetas (A/B/C/D), pulgares o mini-pizarras individuales, dando al docente una foto instantánea del nivel de comprensión._
 
@@ -2181,7 +2181,7 @@ Su valor es la inmediatez y la participación universal: hace visible el aprendi
 ---
 
 
-### 88. Guion gráfico (storyboard) `EVI_STORYBOARD`
+### 88. Guion gráfico (storyboard) `INS_STORYBOARD`
 
 _Secuencia de viñetas que planifica visualmente un vídeo, animación o relato digital: en cada cuadro se bocetan la imagen, la acción y el texto o audio, antes de producir la pieza final._
 
@@ -2205,7 +2205,7 @@ Su valor es hacer visible el pensamiento previo a la producción y separar la pl
 ## Instrumentos de evaluación
 
 
-### 1. Rúbrica analítica `INS_RUB_ANA`
+### 1. Rúbrica analítica `HER_RUB_ANA`
 
 _Matriz que valora criterios separados mediante niveles descritos._
 
@@ -2261,7 +2261,7 @@ La nota final se obtiene sumando la puntuación de cada criterio (máximo 16 pun
 ---
 
 
-### 2. Rúbrica global u holística `INS_RUB_HOL`
+### 2. Rúbrica global u holística `HER_RUB_HOL`
 
 _Rúbrica que valora el desempeño de forma global._
 
@@ -2286,7 +2286,7 @@ Adecuada cuando el tiempo es limitado, cuando la tarea es corta o cuando se quie
 ---
 
 
-### 3. Rúbrica de proceso `INS_RUB_PROC`
+### 3. Rúbrica de proceso `HER_RUB_PROC`
 
 _Rúbrica centrada en planificación, seguimiento, revisión y mejora._
 
@@ -2311,7 +2311,7 @@ Es fundamental en proyectos de larga duración, investigaciones y portfolios, do
 ---
 
 
-### 4. Rúbrica de producto `INS_RUB_PROD`
+### 4. Rúbrica de producto `HER_RUB_PROD`
 
 _Rúbrica centrada en la calidad del producto final._
 
@@ -2336,7 +2336,7 @@ Se complementa con la rúbrica de proceso en proyectos extensos. Usada sola, pue
 ---
 
 
-### 5. Rúbrica oral `INS_RUB_ORAL`
+### 5. Rúbrica oral `HER_RUB_ORAL`
 
 _Rúbrica para exposiciones, debates, defensas o entrevistas._
 
@@ -2361,7 +2361,7 @@ Compartirla antes de la actuación permite al alumnado prepararse con mayor orie
 ---
 
 
-### 6. Rúbrica de trabajo cooperativo `INS_RUB_COOP`
+### 6. Rúbrica de trabajo cooperativo `HER_RUB_COOP`
 
 _Rúbrica para valorar colaboración y funcionamiento grupal._
 
@@ -2386,7 +2386,7 @@ Es especialmente útil para evitar que el trabajo grupal diluya la responsabilid
 ---
 
 
-### 7. Rúbrica competencial `INS_RUB_COMP`
+### 7. Rúbrica competencial `HER_RUB_COMP`
 
 _Matriz vinculada a criterios y niveles de desempeño competencial._
 
@@ -2411,7 +2411,7 @@ Es el instrumento de evaluación más adecuado para la evaluación por competenc
 ---
 
 
-### 8. Lista de cotejo o control `INS_LISTA`
+### 8. Lista de cotejo o control `HER_LISTA`
 
 _Lista de indicadores con presencia o ausencia._
 
@@ -2436,7 +2436,7 @@ Es rápida de aplicar y muy útil para actividades con requisitos claros y cerra
 ---
 
 
-### 9. Escala de observación `INS_ESC_OBS`
+### 9. Escala de observación `HER_ESC_OBS`
 
 _Escala para valorar frecuencia, intensidad o grado de un desempeño._
 
@@ -2461,7 +2461,7 @@ Cómo usarla: se definen los indicadores que se van a observar y se elige una es
 ---
 
 
-### 10. Escala de valoración `INS_ESC_VAL`
+### 10. Escala de valoración `HER_ESC_VAL`
 
 _Escala graduada para valorar grado de logro._
 
@@ -2486,7 +2486,7 @@ Adecuada cuando el docente tiene suficiente experiencia para aplicar criterios i
 ---
 
 
-### 11. Escala descriptiva `INS_ESC_DESC`
+### 11. Escala descriptiva `HER_ESC_DESC`
 
 _Escala cuyos niveles incluyen descripciones._
 
@@ -2511,7 +2511,7 @@ Es un buen punto de partida para docentes que quieren introducir criterios más 
 ---
 
 
-### 12. Guía de corrección `INS_GUIA_CORR`
+### 12. Guía de corrección `HER_GUIA_CORR`
 
 _Documento con criterios, respuestas esperadas o pautas de corrección._
 
@@ -2536,7 +2536,7 @@ Aumenta la consistencia de la corrección entre distintas correcciones del mismo
 ---
 
 
-### 13. Plantilla de corrección `INS_PLANT_CORR`
+### 13. Plantilla de corrección `HER_PLANT_CORR`
 
 _Formato para registrar puntuaciones o aciertos._
 
@@ -2561,7 +2561,7 @@ Es especialmente útil cuando hay muchas pruebas que corregir o cuando varios do
 ---
 
 
-### 14. Baremo `INS_BAREMO`
+### 14. Baremo `HER_BAREMO`
 
 _Distribución de puntos entre apartados o indicadores._
 
@@ -2586,7 +2586,7 @@ Un baremo bien diseñado refleja la importancia relativa de cada contenido o com
 ---
 
 
-### 15. Registro anecdótico `INS_REG_ANE`
+### 15. Registro anecdótico `HER_REG_ANE`
 
 _Anotación breve de hechos significativos observados._
 
@@ -2611,7 +2611,7 @@ Es especialmente útil en etapas sin calificación numérica, para completar bol
 ---
 
 
-### 16. Registro descriptivo `INS_REG_DESC`
+### 16. Registro descriptivo `HER_REG_DESC`
 
 _Registro detallado de actuaciones, procesos o comportamientos._
 
@@ -2636,7 +2636,7 @@ Permite comunicar a las familias y al propio alumno una imagen rica y matizada d
 ---
 
 
-### 17. Diario del profesor `INS_DIARIO_PROF`
+### 17. Diario del profesor `HER_DIARIO_PROF`
 
 _Cuaderno o documento con observaciones y decisiones pedagógicas._
 
@@ -2661,7 +2661,7 @@ No es solo un registro de lo que ocurrió, sino un instrumento de mejora de la p
 ---
 
 
-### 18. Hoja de seguimiento individual `INS_HOJA_IND`
+### 18. Hoja de seguimiento individual `HER_HOJA_IND`
 
 _Registro del progreso de un alumno a lo largo del tiempo._
 
@@ -2686,7 +2686,7 @@ Es especialmente útil para el seguimiento personalizado en grupos con necesidad
 ---
 
 
-### 19. Hoja de seguimiento grupal `INS_HOJA_GRUP`
+### 19. Hoja de seguimiento grupal `HER_HOJA_GRUP`
 
 _Registro del progreso y funcionamiento de un grupo._
 
@@ -2711,7 +2711,7 @@ Es un instrumento de seguimiento de aula muy útil para docentes con varios grup
 ---
 
 
-### 20. Registro de participación `INS_REG_PART`
+### 20. Registro de participación `HER_REG_PART`
 
 _Anotación de intervenciones y calidad de aportaciones._
 
@@ -2736,7 +2736,7 @@ Permite dar retroalimentación objetiva sobre la participación, detectar quién
 ---
 
 
-### 21. Registro de trabajo cooperativo `INS_REG_COOP`
+### 21. Registro de trabajo cooperativo `HER_REG_COOP`
 
 _Documento para anotar roles, aportaciones y cumplimiento grupal._
 
@@ -2761,7 +2761,7 @@ Es especialmente útil en proyectos y actividades grupales extensas, donde el fu
 ---
 
 
-### 22. Notas de campo `INS_NOTAS_CAMPO`
+### 22. Notas de campo `HER_NOTAS_CAMPO`
 
 _Anotaciones del docente durante actividades, prácticas o salidas._
 
@@ -2786,7 +2786,7 @@ Son la base de la observación incidental y del registro anecdótico. Con el tie
 ---
 
 
-### 23. Ficha de valoración `INS_FICHA_VAL`
+### 23. Ficha de valoración `HER_FICHA_VAL`
 
 _Documento breve para valorar una tarea concreta._
 
@@ -2811,7 +2811,7 @@ Es más flexible que una rúbrica fija y más informativa que una nota sola. Ade
 ---
 
 
-### 24. Ficha de retroalimentación `INS_FICHA_RETRO`
+### 24. Ficha de retroalimentación `HER_FICHA_RETRO`
 
 _Plantilla para devolver fortalezas y mejoras._
 
@@ -2836,7 +2836,7 @@ La retroalimentación es más efectiva cuando es específica, oportuna y orienta
 ---
 
 
-### 25. Matriz de valoración `INS_MATRIZ`
+### 25. Matriz de valoración `HER_MATRIZ`
 
 _Tabla que relaciona criterios, indicadores y niveles._
 
@@ -2861,7 +2861,7 @@ Es un término genérico que engloba las rúbricas analíticas. La diferencia pr
 ---
 
 
-### 26. Banco de descriptores `INS_BANCO_DESC`
+### 26. Banco de descriptores `HER_BANCO_DESC`
 
 _Colección de frases para describir niveles de desempeño._
 
@@ -2886,7 +2886,7 @@ Es un instrumento de eficiencia que reduce el tiempo de diseño de instrumentos 
 ---
 
 
-### 27. Perfil de logro `INS_PERFIL_LOGRO`
+### 27. Perfil de logro `HER_PERFIL_LOGRO`
 
 _Representación del grado alcanzado en criterios o competencias._
 
@@ -2911,7 +2911,7 @@ En el marco de la evaluación por competencias (LOMLOE), el perfil de logro es l
 ---
 
 
-### 28. Diana de evaluación `INS_DIANA`
+### 28. Diana de evaluación `HER_DIANA`
 
 _Representación radial de varios aspectos evaluados._
 
@@ -2936,7 +2936,7 @@ Es especialmente útil para la autoevaluación, la coevaluación y la comunicaci
 ---
 
 
-### 29. Semáforo de evaluación `INS_SEMAFORO`
+### 29. Semáforo de evaluación `HER_SEMAFORO`
 
 _Sistema visual de logro, duda o dificultad._
 
@@ -2961,7 +2961,7 @@ Adecuado para el seguimiento formativo rápido, la comunicación a familias y la
 ---
 
 
-### 30. Escala de autoevaluación `INS_ESC_AUTO`
+### 30. Escala de autoevaluación `HER_ESC_AUTO`
 
 _Escala para que el alumnado valore su propio logro._
 
@@ -2986,7 +2986,7 @@ Su valor es principalmente metacognitivo: obliga al alumno a reflexionar sobre s
 ---
 
 
-### 31. Rúbrica de autoevaluación `INS_RUB_AUTO`
+### 31. Rúbrica de autoevaluación `HER_RUB_AUTO`
 
 _Rúbrica usada por el alumnado sobre su propio trabajo._
 
@@ -3011,7 +3011,7 @@ Es especialmente útil en portfolios, proyectos y tareas complejas donde el alum
 ---
 
 
-### 32. Rúbrica de coevaluación `INS_RUB_COEV`
+### 32. Rúbrica de coevaluación `HER_RUB_COEV`
 
 _Rúbrica para valorar trabajos de compañeros._
 
@@ -3036,7 +3036,7 @@ Para que sea efectiva, los alumnos deben haber practicado aplicar los criterios 
 ---
 
 
-### 33. Ficha de coevaluación `INS_FICHA_COEV`
+### 33. Ficha de coevaluación `HER_FICHA_COEV`
 
 _Plantilla breve para valorar a compañeros._
 
@@ -3061,7 +3061,7 @@ Es una buena introducción a la coevaluación para grupos que no tienen práctic
 ---
 
 
-### 34. Lista de cotejo de autoevaluación `INS_LISTA_AUTO`
+### 34. Lista de cotejo de autoevaluación `HER_LISTA_AUTO`
 
 _Checklist que usa el alumno para revisar requisitos._
 
@@ -3086,7 +3086,7 @@ Es especialmente útil para tareas con requisitos claros y cerrados (formato de 
 ---
 
 
-### 35. Registro de compromisos de mejora `INS_REG_COMP`
+### 35. Registro de compromisos de mejora `HER_REG_COMP`
 
 _Documento con objetivos y acciones de mejora._
 
@@ -3111,7 +3111,7 @@ Cierra el ciclo de la evaluación formativa: recogida de evidencias → retroali
 ---
 
 
-### 36. Cuaderno de calificaciones `INS_CUAD_CAL`
+### 36. Cuaderno de calificaciones `HER_CUAD_CAL`
 
 _Registro organizado de resultados, tareas y criterios._
 
@@ -3136,7 +3136,7 @@ Más allá de ser un registro administrativo, puede usarse para detectar tendenc
 ---
 
 
-### 37. Tabla de calificación por criterios `INS_TAB_CRIT`
+### 37. Tabla de calificación por criterios `HER_TAB_CRIT`
 
 _Tabla que relaciona evidencias con criterios de evaluación._
 
@@ -3161,7 +3161,7 @@ Permite al alumnado y a las familias conocer exactamente en qué criterios está
 ---
 
 
-### 38. Matriz de ponderación `INS_MATRIZ_POND`
+### 38. Matriz de ponderación `HER_MATRIZ_POND`
 
 _Tabla de pesos relativos de criterios, evidencias o herramientas._
 
@@ -3186,7 +3186,7 @@ Una buena matriz de ponderación refleja las prioridades pedagógicas: si el pro
 ---
 
 
-### 39. Escala numérica `INS_ESC_NUM`
+### 39. Escala numérica `HER_ESC_NUM`
 
 _Valoración expresada con números._
 
@@ -3211,7 +3211,7 @@ Su ventaja es la facilidad de comunicación y cálculo. Su limitación es que no
 ---
 
 
-### 40. Escala verbal `INS_ESC_VERB`
+### 40. Escala verbal `HER_ESC_VERB`
 
 _Categorías como inicial, en proceso, adecuado, avanzado._
 
@@ -3236,7 +3236,7 @@ Tiene la ventaja de ser más descriptiva que una nota numérica y comunicar mejo
 ---
 
 
-### 41. Conversor de niveles a calificación `INS_CONV`
+### 41. Conversor de niveles a calificación `HER_CONV`
 
 _Regla que transforma niveles de logro en nota._
 
@@ -3261,7 +3261,7 @@ Permite combinar una evaluación cualitativa y orientada al aprendizaje con la o
 ---
 
 
-### 42. Hoja de cálculo de evaluación `INS_HOJA_CALC`
+### 42. Hoja de cálculo de evaluación `HER_HOJA_CALC`
 
 _Libro digital para registrar, calcular y analizar datos._
 
@@ -3286,7 +3286,7 @@ Es el instrumento de evaluación más eficiente para gestionar la calificación 
 ---
 
 
-### 43. Informe individual de evaluación `INS_INF_IND`
+### 43. Informe individual de evaluación `HER_INF_IND`
 
 _Documento que comunica progreso, logros y orientaciones._
 
@@ -3311,7 +3311,7 @@ Es el documento de comunicación más completo entre el centro y la familia. Su 
 ---
 
 
-### 44. Acta de evaluación `INS_ACTA`
+### 44. Acta de evaluación `HER_ACTA`
 
 _Registro formal de decisiones y resultados._
 
@@ -3336,7 +3336,7 @@ Es el registro final del proceso evaluativo. Su cumplimentación correcta es una
 ---
 
 
-### 45. Formulario digital `INS_FORM_DIG`
+### 45. Formulario digital `HER_FORM_DIG`
 
 _Formulario para recoger respuestas o valoraciones._
 
@@ -3361,7 +3361,7 @@ Ahorra tiempo de corrección en evaluaciones cerradas, facilita el análisis de 
 ---
 
 
-### 46. Rúbrica digital `INS_RUB_DIG`
+### 46. Rúbrica digital `HER_RUB_DIG`
 
 _Rúbrica integrada en una plataforma digital._
 
@@ -3386,7 +3386,7 @@ Reduce el tiempo de corrección, facilita la coherencia entre correcciones y per
 ---
 
 
-### 47. Historial de revisión `INS_HIST_REV`
+### 47. Historial de revisión `HER_HIST_REV`
 
 _Registro de cambios en documentos compartidos._
 
@@ -3411,7 +3411,7 @@ Es una evidencia de proceso muy valiosa en trabajos grupales digitales, ya que h
 ---
 
 
-### 48. Panel de progreso `INS_PANEL`
+### 48. Panel de progreso `HER_PANEL`
 
 _Vista del avance en tareas, criterios o competencias._
 
@@ -3436,7 +3436,7 @@ Favorece la transparencia, la autorregulación y la motivación. En versiones di
 ---
 
 
-### 49. Analíticas de aprendizaje `INS_ANALITICAS`
+### 49. Analíticas de aprendizaje `HER_ANALITICAS`
 
 _Datos de acceso, participación o actividad en plataformas._
 
@@ -3461,7 +3461,7 @@ Son especialmente útiles para identificar tendencias grupales e individuales de
 ---
 
 
-### 50. Banco digital de evidencias `INS_BANCO_EVID`
+### 50. Banco digital de evidencias `HER_BANCO_EVID`
 
 _Carpeta o espacio digital con evidencias evaluativas._
 
@@ -3486,7 +3486,7 @@ Es la base del portfolio digital. Permite la evaluación continua, la reflexión
 ---
 
 
-### 51. Lista de indicadores por criterio `INS_IND_CRIT`
+### 51. Lista de indicadores por criterio `HER_IND_CRIT`
 
 _Desglose de un criterio en indicadores observables._
 
@@ -3511,7 +3511,7 @@ Es útil para hacer más transparente la evaluación criterial.
 ---
 
 
-### 52. Escala de progreso `INS_ESC_PROG`
+### 52. Escala de progreso `HER_ESC_PROG`
 
 _Escala que describe avances sucesivos hacia un aprendizaje._
 
@@ -3536,7 +3536,7 @@ Es muy útil para evaluación continua y autorregulación, porque ayuda a entend
 ---
 
 
-### 53. Guía de observación `INS_GUIA_OBS`
+### 53. Guía de observación `HER_GUIA_OBS`
 
 _Documento con focos, indicadores y pautas para observar una actuación._
 
@@ -3561,7 +3561,7 @@ Es especialmente útil cuando varios docentes observan o cuando la actividad es 
 ---
 
 
-### 54. Plantilla de feedback/feedforward `INS_PLANT_FF`
+### 54. Plantilla de feedback/feedforward `HER_PLANT_FF`
 
 _Plantilla para indicar logro actual, mejora necesaria y siguiente paso._
 
@@ -3586,7 +3586,7 @@ Su fuerza está en que desplaza la corrección desde el juicio final hacia la me
 ---
 
 
-### 55. Contrato de grupo `INS_CONTR_GRUP`
+### 55. Contrato de grupo `HER_CONTR_GRUP`
 
 _Acuerdo de roles, compromisos y normas de funcionamiento de un equipo._
 
@@ -3611,7 +3611,7 @@ Es útil para evaluar y regular el proceso cooperativo con mayor justicia.
 ---
 
 
-### 56. Sociograma `INS_SOCIO`
+### 56. Sociograma `HER_SOCIO`
 
 _Representación de relaciones, elecciones o dinámicas dentro del grupo._
 
@@ -3636,7 +3636,7 @@ Es un instrumento de evaluación del contexto social del aprendizaje más que de
 ---
 
 
-### 57. Mapa de evidencias por criterio `INS_MAP_EVID`
+### 57. Mapa de evidencias por criterio `HER_MAP_EVID`
 
 _Tabla que vincula criterios con tareas, evidencias e instrumentos de valoración._
 
@@ -3661,7 +3661,7 @@ Es un instrumento de evaluación clave para la evaluación criterial y triangula
 ---
 
 
-### 58. Declaración de uso de IA y fuentes `INS_DECL_IA`
+### 58. Declaración de uso de IA y fuentes `HER_DECL_IA`
 
 _Plantilla para declarar ayudas, fuentes, herramientas de IA y decisiones propias en una tarea._
 
@@ -3686,7 +3686,7 @@ No sustituye a una rúbrica ni demuestra por sí sola el aprendizaje, pero ayuda
 ---
 
 
-### 59. Tabla de especificaciones `INS_TAB_ESPEC`
+### 59. Tabla de especificaciones `HER_TAB_ESPEC`
 
 _Matriz que cruza los contenidos a evaluar con los niveles cognitivos y reparte el peso de cada ítem, para diseñar pruebas equilibradas y válidas antes de redactarlas._
 
@@ -3711,7 +3711,7 @@ Su valor es asegurar la validez de contenido y el equilibrio de la prueba: evita
 ---
 
 
-### 60. Rúbrica de punto único `INS_RUB_PUNTO`
+### 60. Rúbrica de punto único `HER_RUB_PUNTO`
 
 _Rúbrica que describe solo el nivel objetivo (el desempeño esperado) en cada criterio, dejando espacio para anotar en qué se queda corto y en qué lo supera. Simplifica el diseño y prioriza la retroalimentación._
 
@@ -3736,7 +3736,7 @@ Su valor está en que es rápida de diseñar, no encasilla al alumnado en nivele
 ---
 
 
-### 61. Escalera de retroalimentación `INS_ESCAL_FB`
+### 61. Escalera de retroalimentación `HER_ESCAL_FB`
 
 _Protocolo estructurado de feedback en cuatro peldaños —aclarar, valorar, preguntar y sugerir— que ordena los comentarios para que sean respetuosos, concretos y útiles, sobre todo entre iguales._
 
@@ -3761,7 +3761,7 @@ Cómo usarla: antes de una sesión de revisión entre iguales o de comentario de
 ---
 
 
-### 62. Base de orientación `INS_BASE_ORIENT`
+### 62. Base de orientación `HER_BASE_ORIENT`
 
 _Guion con los pasos y criterios clave para realizar correctamente una tarea o procedimiento, que el alumnado usa para autorregularse mientras trabaja y que después le sirve para autoevaluarse._
 
@@ -4327,7 +4327,7 @@ _Palabras clave: gamificacion, juego, escape room, reto, insignias_
 
 Esta dimensión describe el formato o situación didáctica en la que se genera la evidencia. Puede combinar varios procedimientos de recogida.
 
-La evaluación gamificada incorpora mecánicas propias del juego (retos, puntos, insignias, contrarreloj, cooperación o competición regulada) para recoger evidencias de aprendizaje en un entorno de alta motivación. No es sinónimo de un instrumento concreto como el escape room (EVI_ESCAPE), sino el enfoque metodológico que engloba cualquier estrategia que usa el juego con propósito evaluativo.
+La evaluación gamificada incorpora mecánicas propias del juego (retos, puntos, insignias, contrarreloj, cooperación o competición regulada) para recoger evidencias de aprendizaje en un entorno de alta motivación. No es sinónimo de un instrumento concreto como el escape room (INS_ESCAPE), sino el enfoque metodológico que engloba cualquier estrategia que usa el juego con propósito evaluativo.
 
 Cómo aplicarla: se diseñan tareas o retos con reglas claras, criterios de logro visibles y retroalimentación inmediata. Los puntos o insignias pueden usarse como evidencia del nivel alcanzado si están alineados con criterios de evaluación reales. Las analíticas de la plataforma gamificada (tiempo, intentos, aciertos) complementan la observación docente, pero no la sustituyen.
 

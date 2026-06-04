@@ -19,6 +19,74 @@ async function checkTemplate(id, lang) {
   return false;
 }
 
+// Fetch template HTML and return it as a string, or null if not found.
+async function fetchTemplateHtml(id, lang) {
+  const langs = lang === 'es' ? ['es'] : [lang, 'es'];
+  for (const l of langs) {
+    try {
+      const res = await fetch(`templates/${l}/${id}.html`);
+      if (res.ok) return await res.text();
+    } catch (_) {}
+  }
+  return null;
+}
+
+// DOM-based HTML → Markdown converter (no regex, no external library).
+function _nodeToMd(node) {
+  if (node.nodeType === Node.TEXT_NODE) return node.textContent;
+  if (node.nodeType !== Node.ELEMENT_NODE) return '';
+  const tag = node.tagName.toLowerCase();
+  const inner = () => Array.from(node.childNodes).map(_nodeToMd).join('');
+  switch (tag) {
+    case 'svg':    return '';
+    case 'h1':     return `\n# ${inner().trim()}\n`;
+    case 'h2':     return `\n## ${inner().trim()}\n`;
+    case 'h3':     return `\n### ${inner().trim()}\n`;
+    case 'h4':     return `\n#### ${inner().trim()}\n`;
+    case 'p':      return `\n${inner().trim()}\n`;
+    case 'strong':
+    case 'b':      return `**${inner()}**`;
+    case 'em':
+    case 'i':      return `*${inner()}*`;
+    case 'br':     return '\n';
+    case 'ul':
+    case 'ol':     return '\n' + inner() + '\n';
+    case 'li':     return `- ${inner().trim()}\n`;
+    case 'table':  return _tableToMd(node);
+    default:       return inner();
+  }
+}
+
+function _tableToMd(table) {
+  const rows = [];
+  table.querySelectorAll('tr').forEach(tr => {
+    const cells = [];
+    tr.querySelectorAll('th, td').forEach(cell => {
+      const isTh  = cell.tagName.toLowerCase() === 'th';
+      const text  = cell.textContent.trim().replace(/\s+/g, ' ').replace(/\|/g, '\\|');
+      cells.push(isTh && text ? `**${text}**` : text);
+    });
+    if (cells.some(c => c.trim())) rows.push(cells);
+  });
+  if (!rows.length) return '';
+  const cols = Math.max(...rows.map(r => r.length));
+  const pad  = r => { while (r.length < cols) r.push(''); return r; };
+  const line = r => '| ' + pad(r).join(' | ') + ' |';
+  return [
+    '\n' + line(rows[0]),
+    '| ' + Array(cols).fill('---').join(' | ') + ' |',
+    ...rows.slice(1).map(line),
+  ].join('\n') + '\n';
+}
+
+function templateHtmlToMarkdown(html) {
+  const div = document.createElement('div');
+  div.innerHTML = html;
+  div.querySelectorAll('svg').forEach(el => el.remove());
+  const md = _nodeToMd(div);
+  return md.replace(/\n{3,}/g, '\n\n').trim();
+}
+
 function getNavState() {
   if (document.getElementById('homeView').classList.contains('visible'))
     return { screen: 'home' };
@@ -625,10 +693,15 @@ function buildTechniqueMarkdown(item) {
   return lines.join('\n');
 }
 
-function downloadTechniqueMarkdown() {
+async function downloadTechniqueMarkdown() {
   const item = S.modal ? itemById(S.modal) : null;
   if (!item) return;
-  downloadTextFile(`${slugifyFilename(item.name)}.md`, buildTechniqueMarkdown(item));
+  let md = buildTechniqueMarkdown(item);
+  const html = await fetchTemplateHtml(item.id, S.lang);
+  if (html) {
+    md += `\n\n## ${i('template')}\n\n` + templateHtmlToMarkdown(html);
+  }
+  downloadTextFile(`${slugifyFilename(item.name)}.md`, md);
   toast(i('markdownDownloaded'));
 }
 

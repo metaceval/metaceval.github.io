@@ -1,0 +1,84 @@
+<p>Instrumento de autoevaluación o coevaluación visual. El alumnado marca en cada sector el nivel alcanzado: <strong>más cerca del centro = menor logro, más cerca del borde = mayor logro</strong>. Antes de usar la diana, escribe los criterios en la tabla inferior.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <th style="width:160px">Alumno/a</th>
+      <td></td>
+      <th style="width:110px">Fecha</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tarea / Actividad evaluada</th>
+      <td colspan="3"></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Diana SVG -->
+<div style="text-align:center;margin:16px 0 8px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" style="width:100%;max-width:400px;display:inline-block">
+  <!-- Anillos concéntricos de fuera hacia dentro -->
+  <circle cx="220" cy="220" r="160" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="220" cy="220" r="120" fill="#fef3c7" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="220" cy="220" r="80"  fill="#dbeafe" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="220" cy="220" r="40"  fill="#d1fae5" stroke="#e2e8f0" stroke-width="1.5"/>
+  <!-- Líneas divisorias de sectores (5 sectores, 72° cada uno) -->
+  <!-- 0°(top) -->  <line x1="220" y1="220" x2="220" y2="60"   stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 72° -->      <line x1="220" y1="220" x2="372" y2="171"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 144° -->     <line x1="220" y1="220" x2="314" y2="350"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 216° -->     <line x1="220" y1="220" x2="126" y2="350"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 288° -->     <line x1="220" y1="220" x2="68"  y2="171"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Etiquetas de escala (en el sector izquierdo, entre los rayos 288° y 0°) -->
+  <text x="183" y="193" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">1</text>
+  <text x="174" y="210" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">2</text>
+  <text x="161" y="218" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">3</text>
+  <text x="145" y="218" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">4</text>
+  <!-- Etiquetas de sector (en el borde exterior, en cada sector) -->
+  <!-- Sector 1: midpoint 36° → (326, 74) -->
+  <text x="326" y="74"  text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C1</text>
+  <!-- Sector 2: midpoint 108° → (391, 276) -->
+  <text x="391" y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C2</text>
+  <!-- Sector 3: midpoint 180° → (220, 400) -->
+  <text x="220" y="400" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C3</text>
+  <!-- Sector 4: midpoint 252° → (49, 276) -->
+  <text x="49"  y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C4</text>
+  <!-- Sector 5: midpoint 324° → (114, 74) -->
+  <text x="114" y="74"  text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C5</text>
+</svg>
+</div>
+
+<!-- Leyenda de criterios -->
+<table>
+  <thead>
+    <tr>
+      <th style="width:50px;text-align:center">Sector</th>
+      <th>Criterio de evaluación</th>
+      <th style="width:70px;text-align:center">Nivel<br>(1–4)</th>
+      <th>Reflexión o evidencia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="text-align:center;font-weight:700">C1</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C2</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C3</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C4</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C5</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+  </tbody>
+</table>
+
+<h4>Reflexión global</h4>
+<table>
+  <tbody>
+    <tr>
+      <th style="width:52%">¿En qué criterio has obtenido el nivel más alto? ¿A qué lo atribuyes?</th>
+      <td style="height:36px"></td>
+    </tr>
+    <tr>
+      <th>¿En qué criterio hay más margen de mejora? ¿Qué harías diferente?</th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="note"><strong>Clave pedagógica:</strong> la diana muestra el perfil de logro de forma visual: un alumno puede ver de un vistazo qué criterios domina y cuáles necesita reforzar. La columna «reflexión o evidencia» es la que convierte la diana en aprendizaje: obliga a justificar el nivel marcado con algo concreto, no a autoevaluarse intuitivamente. Usar la diana antes de la tarea (¿qué nivel espero alcanzar?) y después (¿qué he alcanzado?) añade la dimensión de planificación y metacognición.</p>

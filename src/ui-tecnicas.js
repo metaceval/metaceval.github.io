@@ -1,6 +1,24 @@
 // ─── HOME VIEW ────────────────────────────────────────────────────────────────
 // ─── HISTORY NAVIGATION ──────────────────────────────────────────────────────
 
+// ─── TEMPLATE CHECK ──────────────────────────────────────────────────────────
+
+const _templateCache = {}; // 'lang/id' → true | false
+
+async function checkTemplate(id, lang) {
+  const key = `${lang}/${id}`;
+  if (key in _templateCache) return _templateCache[key];
+  const langs = lang === 'es' ? ['es'] : [lang, 'es'];
+  for (const l of langs) {
+    try {
+      const res = await fetch(`templates/${l}/${id}.html`, { method: 'HEAD' });
+      if (res.ok) { _templateCache[key] = true; return true; }
+    } catch (_) {}
+  }
+  _templateCache[key] = false;
+  return false;
+}
+
 function getNavState() {
   if (document.getElementById('homeView').classList.contains('visible'))
     return { screen: 'home' };
@@ -449,6 +467,25 @@ function openModal(itemId) {
     exampleEl.style.display = 'none';
     exampleEl.innerHTML = '';
   }
+
+  // Template button (async check — hidden until confirmed)
+  const templateBtn = document.getElementById('modalTemplateBtn');
+  document.getElementById('modalTemplateBtnLabel').textContent = i('template');
+  templateBtn.style.display = 'none';
+  templateBtn.onclick = () => {
+    const w = 900, h = 700;
+    const left = Math.round((screen.width  - w) / 2);
+    const top  = Math.round((screen.height - h) / 2);
+    window.open(
+      `templates/viewer.html?id=${encodeURIComponent(item.id)}&lang=${encodeURIComponent(S.lang)}&name=${encodeURIComponent(item.name)}`,
+      'metac_template_viewer',
+      `width=${w},height=${h},left=${left},top=${top},resizable=yes,scrollbars=yes`
+    );
+  };
+  checkTemplate(item.id, S.lang).then(exists => {
+    if (S.modal !== item.id) return;
+    templateBtn.style.display = exists ? '' : 'none';
+  });
 
   // Related techniques (bidirectional)
   const relBox = document.getElementById('modalRelated');

@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Plantilla</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
+    :root {
+      --primary: #2563eb;
+      --primary-dark: #1d4ed8;
+      --border: #e2e8f0;
+      --bg: #f8fafc;
+      --text: #1e293b;
+      --muted: #64748b;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: .9rem;
+      color: var(--text);
+      background: #fff;
+    }
+
+    /* ── Toolbar ── */
+    .toolbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 16px;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+
+    .toolbar-title {
+      flex: 1;
+      font-weight: 600;
+      font-size: .85rem;
+      color: var(--muted);
+      min-width: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toolbar-actions { display: flex; gap: 6px; flex-shrink: 0; flex-wrap: wrap; }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 5px 12px;
+      font-size: .8rem;
+      font-family: inherit;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: #fff;
+      color: var(--text);
+      cursor: pointer;
+      transition: background .15s, opacity .15s;
+      white-space: nowrap;
+    }
+    .btn:hover { background: #f1f5f9; }
+    .btn-primary { background: var(--primary); color: #fff; border-color: var(--primary); }
+    .btn-primary:hover { background: var(--primary-dark); border-color: var(--primary-dark); }
+    .btn-success { background: #16a34a; color: #fff; border-color: #16a34a; }
+    .btn-danger { color: #dc2626; border-color: #fca5a5; }
+    .btn-danger:hover { background: #fee2e2; }
+
+    /* ── Content ── */
+    .content {
+      max-width: 860px;
+      margin: 28px auto;
+      padding: 0 28px 48px;
+    }
+
+    .doc-header {
+      margin-bottom: 20px;
+      padding-bottom: 14px;
+      border-bottom: 2px solid var(--primary);
+    }
+
+    .doc-header h1 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--primary);
+      margin: 0 0 4px;
+    }
+
+    .doc-header .doc-id {
+      font-size: .75rem;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    /* ── Tables ── */
+    table { border-collapse: collapse; width: 100%; margin: 10px 0 14px; font-size: .83rem; }
+    th, td { border: 1px solid var(--border); padding: 7px 10px; text-align: left; vertical-align: top; }
+    th { background: #eff6ff; color: var(--primary); font-weight: 700; }
+    tr:nth-child(even) td { background: var(--bg); }
+
+    /* ── Misc ── */
+    p { line-height: 1.6; margin: 0 0 8px; }
+    strong { font-weight: 600; }
+    h4 { font-size: .92rem; font-weight: 700; color: var(--primary); margin: 14px 0 4px; }
+    h4:first-child { margin-top: 0; }
+    ol, ul { margin: 4px 0 8px 20px; line-height: 1.7; }
+
+    .note {
+      font-size: .78rem;
+      color: var(--muted);
+      background: #fef9c3;
+      border-left: 3px solid #ca8a04;
+      padding: 5px 10px;
+      border-radius: 3px;
+      margin: 12px 0 4px;
+    }
+
+    .msg {
+      text-align: center;
+      padding: 48px;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    /* ── Print ── */
+    @media print {
+      .toolbar { display: none !important; }
+      .content { margin: 0; padding: 0 8px; max-width: 100%; }
+      body { font-size: .85rem; }
+      table { page-break-inside: avoid; }
+      .doc-header { border-bottom-color: #000; }
+      .doc-header h1 { color: #000; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="toolbar" id="toolbar">
+  <span class="toolbar-title" id="toolbarTitle">Plantilla</span>
+  <div class="toolbar-actions">
+    <button class="btn btn-primary" id="btnPrint">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="6 9 6 2 18 2 18 9"/>
+        <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/>
+        <rect x="6" y="14" width="12" height="8"/>
+      </svg>
+      <span id="lblPrint">Imprimir / PDF</span>
+    </button>
+    <button class="btn" id="btnCopy">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="9" y="9" width="13" height="13" rx="2"/>
+        <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+      </svg>
+      <span id="lblCopy">Copiar</span>
+    </button>
+    <button class="btn" id="btnWord">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+        <polyline points="14 2 14 8 20 8"/>
+        <line x1="16" y1="13" x2="8" y2="13"/>
+        <line x1="16" y1="17" x2="8" y2="17"/>
+      </svg>
+      <span id="lblWord">Word</span>
+    </button>
+    <button class="btn" id="btnMarkdown">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+        <polyline points="7 10 12 15 17 10"/>
+        <line x1="12" y1="15" x2="12" y2="3"/>
+      </svg>
+      <span id="lblMarkdown">Markdown</span>
+    </button>
+    <button class="btn btn-danger" id="btnClose">✕ <span id="lblClose">Cerrar</span></button>
+  </div>
+</div>
+
+<div class="content" id="contentWrap">
+  <div class="msg" id="loadingMsg"></div>
+</div>
+
+<script>
+  const UI = {
+    es: { print: 'Imprimir / PDF', printTip: 'Imprime la plantilla o guárdala como PDF desde el diálogo del navegador',
+          copy: 'Copiar', copied: '¡Copiado!', copyTip: 'Copia la plantilla como texto enriquecido. Al pegar en Word, Google Docs o LibreOffice se conservan las tablas y el formato',
+          word: 'Word', wordTip: 'Descarga la plantilla como archivo .docx editable (Word / LibreOffice)',
+          markdown: 'Markdown', markdownTip: 'Descarga la plantilla como archivo .md (texto plano editable)',
+          close: 'Cerrar', closeTip: 'Cerrar esta ventana',
+          loading: 'Cargando plantilla…', notFound: 'No se ha encontrado la plantilla.', template: 'Plantilla' },
+    ca: { print: 'Imprimir / PDF', printTip: 'Imprimeix la plantilla o desa-la com a PDF des del diàleg del navegador',
+          copy: 'Copiar', copied: 'Copiat!', copyTip: 'Copia la plantilla com a text enriquit. En enganxar a Word, Google Docs o LibreOffice es conserven les taules i el format',
+          word: 'Word', wordTip: 'Descarrega la plantilla com a fitxer .docx editable (Word / LibreOffice)',
+          markdown: 'Markdown', markdownTip: 'Descarrega la plantilla com a fitxer .md (text pla editable)',
+          close: 'Tancar', closeTip: 'Tancar aquesta finestra',
+          loading: 'Carregant plantilla…', notFound: 'No s\'ha trobat la plantilla.', template: 'Plantilla' },
+    en: { print: 'Print / PDF', printTip: 'Print the template or save it as PDF from the browser dialog',
+          copy: 'Copy', copied: 'Copied!', copyTip: 'Copy the template as rich text. When pasted in Word, Google Docs or LibreOffice, tables and formatting are preserved',
+          word: 'Word', wordTip: 'Download the template as an editable .docx file (Word / LibreOffice)',
+          markdown: 'Markdown', markdownTip: 'Download the template as a .md file (editable plain text)',
+          close: 'Close', closeTip: 'Close this window',
+          loading: 'Loading template…', notFound: 'Template not found.', template: 'Template' },
+  };
+
+  const params = new URLSearchParams(location.search);
+  const id   = params.get('id')   || '';
+  const lang = params.get('lang') || 'es';
+  const name = params.get('name') || id;
+  const t    = UI[lang] || UI.es;
+
+  document.documentElement.lang = lang;
+  document.title = name + ' — ' + t.template;
+  document.getElementById('toolbarTitle').textContent  = name;
+  document.getElementById('lblPrint').textContent      = t.print;
+  document.getElementById('lblCopy').textContent       = t.copy;
+  document.getElementById('lblWord').textContent       = t.word;
+  document.getElementById('lblMarkdown').textContent   = t.markdown;
+  document.getElementById('lblClose').textContent      = t.close;
+  document.getElementById('loadingMsg').textContent    = t.loading;
+
+  document.getElementById('btnPrint').title    = t.printTip;
+  document.getElementById('btnCopy').title     = t.copyTip;
+  document.getElementById('btnWord').title     = t.wordTip;
+  document.getElementById('btnMarkdown').title = t.markdownTip;
+  document.getElementById('btnClose').title    = t.closeTip;
+
+  document.getElementById('btnPrint').addEventListener('click', () => window.print());
+  document.getElementById('btnClose').addEventListener('click', () => window.close());
+
+  function esc(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  // ── HTML → Markdown ──────────────────────────────────────────────────────────
+
+  function nodeText(node) {
+    return (node.textContent || '').replace(/\s+/g, ' ').trim();
+  }
+
+  function inlineToMd(node) {
+    let out = '';
+    for (const child of node.childNodes) {
+      if (child.nodeType === 3) {
+        out += child.textContent.replace(/\n/g, ' ');
+      } else if (child.nodeType === 1) {
+        const tag = child.tagName.toLowerCase();
+        const inner = inlineToMd(child);
+        if (tag === 'strong' || tag === 'b') out += `**${inner}**`;
+        else if (tag === 'em' || tag === 'i') out += `*${inner}*`;
+        else if (tag === 'br') out += '  \n';
+        else out += inner;
+      }
+    }
+    return out;
+  }
+
+  function tableToMd(table) {
+    const rows = [...table.querySelectorAll('tr')];
+    if (!rows.length) return '';
+    const lines = [];
+    let headerDone = false;
+
+    for (const row of rows) {
+      const cells = [...row.querySelectorAll('th, td')];
+      const isHeader = cells.some(c => c.tagName.toLowerCase() === 'th');
+      const parts = cells.map(c => {
+        const span = parseInt(c.getAttribute('colspan') || '1');
+        const text = nodeText(c).replace(/\|/g, '\\|');
+        // repeat cell content for each spanned column so alignment stays
+        return Array(span).fill(text);
+      }).flat();
+      lines.push('| ' + parts.join(' | ') + ' |');
+      if (isHeader && !headerDone) {
+        lines.push('| ' + parts.map(() => '---').join(' | ') + ' |');
+        headerDone = true;
+      }
+    }
+    return lines.join('\n');
+  }
+
+  function htmlToMd(container, prefix) {
+    prefix = prefix || '';
+    let out = '';
+    for (const node of container.childNodes) {
+      if (node.nodeType === 3) {
+        const text = node.textContent.replace(/\s+/g, ' ').trim();
+        if (text) out += prefix + text + '\n\n';
+        continue;
+      }
+      if (node.nodeType !== 1) continue;
+      const tag = node.tagName.toLowerCase();
+
+      if (tag === 'h1') { out += `# ${nodeText(node)}\n\n`; }
+      else if (tag === 'h2') { out += `## ${nodeText(node)}\n\n`; }
+      else if (tag === 'h3') { out += `### ${nodeText(node)}\n\n`; }
+      else if (tag === 'h4') { out += `#### ${nodeText(node)}\n\n`; }
+      else if (tag === 'p') {
+        const text = inlineToMd(node).trim();
+        if (text) {
+          if (node.classList.contains('note')) out += `> ${text}\n\n`;
+          else out += text + '\n\n';
+        }
+      }
+      else if (tag === 'ul') {
+        for (const li of node.querySelectorAll(':scope > li'))
+          out += `- ${inlineToMd(li).trim()}\n`;
+        out += '\n';
+      }
+      else if (tag === 'ol') {
+        let n = 1;
+        for (const li of node.querySelectorAll(':scope > li'))
+          out += `${n++}. ${inlineToMd(li).trim()}\n`;
+        out += '\n';
+      }
+      else if (tag === 'table') { out += tableToMd(node) + '\n\n'; }
+      else if (tag === 'div') {
+        if (node.classList.contains('note')) {
+          const text = inlineToMd(node).trim();
+          if (text) out += `> ${text}\n\n`;
+        } else {
+          out += htmlToMd(node, prefix);
+        }
+      }
+      else { out += htmlToMd(node, prefix); }
+    }
+    return out;
+  }
+
+  // ── DOCX generation (OOXML + JSZip) ─────────────────────────────────────────
+
+  let _jsZipPromise = null;
+  function ensureJSZip() {
+    if (typeof JSZip !== 'undefined') return Promise.resolve();
+    if (!_jsZipPromise) {
+      _jsZipPromise = new Promise((resolve, reject) => {
+        const s = document.createElement('script');
+        s.src = 'https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js';
+        s.onload = resolve;
+        s.onerror = () => reject(new Error('No se pudo cargar JSZip (sin conexión a internet)'));
+        document.head.appendChild(s);
+      });
+    }
+    return _jsZipPromise;
+  }
+
+  function xe(s) { // XML escape
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function inlineRuns(node, props) {
+    props = props || {};
+    let out = '';
+    for (const c of node.childNodes) {
+      if (c.nodeType === 3) {
+        if (c.textContent) {
+          const rpr = (props.b || props.i) ? '<w:rPr>' + (props.b ? '<w:b/><w:bCs/>' : '') + (props.i ? '<w:i/><w:iCs/>' : '') + '</w:rPr>' : '';
+          out += `<w:r>${rpr}<w:t xml:space="preserve">${xe(c.textContent)}</w:t></w:r>`;
+        }
+      } else if (c.nodeType === 1) {
+        const tag = c.tagName.toLowerCase();
+        if (tag === 'br') { out += '<w:r><w:br/></w:r>'; continue; }
+        const p2 = Object.assign({}, props);
+        if (tag === 'strong' || tag === 'b') p2.b = true;
+        if (tag === 'em'     || tag === 'i') p2.i = true;
+        out += inlineRuns(c, p2);
+      }
+    }
+    return out;
+  }
+
+  function wPara(node, styleId, extraPpr) {
+    const runs = inlineRuns(node);
+    const ppr = (styleId || extraPpr) ? `<w:pPr>${styleId ? `<w:pStyle w:val="${styleId}"/>` : ''}${extraPpr || ''}</w:pPr>` : '';
+    return `<w:p>${ppr}${runs}</w:p>`;
+  }
+
+  function wTable(table) {
+    // count max columns (respecting colspan)
+    let maxCols = 0;
+    for (const row of table.querySelectorAll('tr')) {
+      let n = 0;
+      for (const c of row.querySelectorAll('th,td')) n += parseInt(c.getAttribute('colspan') || 1);
+      maxCols = Math.max(maxCols, n);
+    }
+    const colW = maxCols > 0 ? Math.floor(9000 / maxCols) : 2250;
+    let grid = '<w:tblGrid>' + Array(maxCols).fill(`<w:gridCol w:w="${colW}"/>`).join('') + '</w:tblGrid>';
+    const bdr = 'w:val="single" w:sz="4" w:space="0" w:color="C8D6E5"';
+    const tblPr = `<w:tblPr><w:tblStyle w:val="TableGrid"/>
+      <w:tblW w:w="5000" w:type="pct"/>
+      <w:tblBorders>
+        <w:top ${bdr}/><w:left ${bdr}/><w:bottom ${bdr}/>
+        <w:right ${bdr}/><w:insideH ${bdr}/><w:insideV ${bdr}/>
+      </w:tblBorders>
+      <w:tblCellMar>
+        <w:top w:w="80" w:type="dxa"/><w:left w:w="120" w:type="dxa"/>
+        <w:bottom w:w="80" w:type="dxa"/><w:right w:w="120" w:type="dxa"/>
+      </w:tblCellMar></w:tblPr>`;
+
+    let rows = '';
+    for (const row of table.querySelectorAll('tr')) {
+      let cells = '';
+      for (const cell of row.querySelectorAll('th,td')) {
+        const isTh = cell.tagName.toLowerCase() === 'th';
+        const span = parseInt(cell.getAttribute('colspan') || 1);
+        const tcPr = (span > 1 || isTh)
+          ? `<w:tcPr>${span > 1 ? `<w:gridSpan w:val="${span}"/>` : ''}${isTh ? '<w:shd w:val="clear" w:color="auto" w:fill="DBEAFE"/>' : ''}</w:tcPr>`
+          : '';
+        const runs = inlineRuns(cell, isTh ? { b: true } : {});
+        cells += `<w:tc>${tcPr}<w:p><w:pPr><w:spacing w:before="40" w:after="40"/></w:pPr>${runs}</w:p></w:tc>`;
+      }
+      rows += `<w:tr>${cells}</w:tr>`;
+    }
+    return `<w:tbl>${tblPr}${grid}${rows}</w:tbl><w:p/>`;
+  }
+
+  function domToOoxml(node) {
+    let out = '';
+    for (const c of node.childNodes) {
+      if (c.nodeType !== 1) continue;
+      const tag = c.tagName.toLowerCase();
+      if      (tag === 'h1') out += wPara(c, 'Heading1');
+      else if (tag === 'h2') out += wPara(c, 'Heading2');
+      else if (tag === 'h3') out += wPara(c, 'Heading3');
+      else if (tag === 'h4') out += wPara(c, 'Heading4');
+      else if (tag === 'p')  out += c.classList.contains('note') ? wPara(c, 'Quote') : wPara(c, 'Normal');
+      else if (tag === 'ul') {
+        for (const li of c.querySelectorAll(':scope > li'))
+          out += `<w:p><w:pPr><w:pStyle w:val="ListParagraph"/><w:numPr><w:ilvl w:val="0"/><w:numId w:val="1"/></w:numPr></w:pPr>${inlineRuns(li)}</w:p>`;
+      }
+      else if (tag === 'ol') {
+        for (const li of c.querySelectorAll(':scope > li'))
+          out += `<w:p><w:pPr><w:pStyle w:val="ListParagraph"/><w:numPr><w:ilvl w:val="0"/><w:numId w:val="2"/></w:numPr></w:pPr>${inlineRuns(li)}</w:p>`;
+      }
+      else if (tag === 'table') out += wTable(c);
+      else out += domToOoxml(c);
+    }
+    return out;
+  }
+
+  async function generateDocx(name, id, fragmentHtml) {
+    const div = document.createElement('div');
+    div.innerHTML = fragmentHtml;
+    const bodyXml = `<w:p><w:pPr><w:pStyle w:val="Heading1"/></w:pPr><w:r><w:t>${xe(name)}</w:t></w:r></w:p>` + domToOoxml(div);
+
+    const W = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"';
+    const bdr = 'w:val="single" w:sz="4" w:space="0" w:color="C8D6E5"';
+
+    const files = {
+      '[Content_Types].xml': `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+  <Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+  <Default Extension="xml"  ContentType="application/xml"/>
+  <Override PartName="/word/document.xml"  ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+  <Override PartName="/word/styles.xml"    ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/>
+  <Override PartName="/word/numbering.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"/>
+</Types>`,
+
+      '_rels/.rels': `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>
+</Relationships>`,
+
+      'word/_rels/document.xml.rels': `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles"    Target="styles.xml"/>
+  <Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml"/>
+</Relationships>`,
+
+      'word/document.xml': `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document ${W}><w:body>
+${bodyXml}
+<w:sectPr>
+  <w:pgSz w:w="11906" w:h="16838"/>
+  <w:pgMar w:top="1134" w:right="1134" w:bottom="1134" w:left="1134" w:header="709" w:footer="709" w:gutter="0"/>
+</w:sectPr>
+</w:body></w:document>`,
+
+      'word/styles.xml': `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:styles ${W}>
+  <w:docDefaults>
+    <w:rPrDefault><w:rPr>
+      <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+      <w:sz w:val="22"/><w:szCs w:val="22"/>
+    </w:rPr></w:rPrDefault>
+    <w:pPrDefault><w:pPr>
+      <w:spacing w:after="120" w:line="240" w:lineRule="auto"/>
+    </w:pPr></w:pPrDefault>
+  </w:docDefaults>
+  <w:style w:type="paragraph" w:default="1" w:styleId="Normal"><w:name w:val="Normal"/></w:style>
+  <w:style w:type="paragraph" w:styleId="Heading1">
+    <w:name w:val="heading 1"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:qFormat/>
+    <w:pPr><w:keepNext/><w:spacing w:before="240" w:after="120"/></w:pPr>
+    <w:rPr><w:b/><w:bCs/><w:color w:val="2563EB"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr>
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="Heading2">
+    <w:name w:val="heading 2"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:qFormat/>
+    <w:pPr><w:keepNext/><w:spacing w:before="200" w:after="80"/></w:pPr>
+    <w:rPr><w:b/><w:bCs/><w:color w:val="2563EB"/><w:sz w:val="26"/><w:szCs w:val="26"/></w:rPr>
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="Heading3">
+    <w:name w:val="heading 3"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:qFormat/>
+    <w:pPr><w:keepNext/><w:spacing w:before="160" w:after="80"/></w:pPr>
+    <w:rPr><w:b/><w:bCs/><w:color w:val="2563EB"/><w:sz w:val="24"/><w:szCs w:val="24"/></w:rPr>
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="Heading4">
+    <w:name w:val="heading 4"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:qFormat/>
+    <w:pPr><w:keepNext/><w:spacing w:before="160" w:after="60"/></w:pPr>
+    <w:rPr><w:b/><w:bCs/><w:color w:val="2563EB"/><w:sz w:val="22"/><w:szCs w:val="22"/></w:rPr>
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="ListParagraph">
+    <w:name w:val="List Paragraph"/><w:basedOn w:val="Normal"/>
+    <w:pPr><w:ind w:left="720"/></w:pPr>
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="Quote">
+    <w:name w:val="Quote"/><w:basedOn w:val="Normal"/>
+    <w:pPr><w:ind w:left="480"/><w:shd w:val="clear" w:color="auto" w:fill="FEF9C3"/></w:pPr>
+    <w:rPr><w:color w:val="475569"/><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr>
+  </w:style>
+  <w:style w:type="table" w:styleId="TableGrid">
+    <w:name w:val="Table Grid"/>
+    <w:tblPr><w:tblBorders>
+      <w:top ${bdr}/><w:left ${bdr}/><w:bottom ${bdr}/>
+      <w:right ${bdr}/><w:insideH ${bdr}/><w:insideV ${bdr}/>
+    </w:tblBorders></w:tblPr>
+  </w:style>
+</w:styles>`,
+
+      'word/numbering.xml': `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:numbering ${W}>
+  <w:abstractNum w:abstractNumId="0"><w:multiLevelType w:val="hybridMultilevel"/>
+    <w:lvl w:ilvl="0"><w:start w:val="1"/><w:numFmt w:val="bullet"/><w:lvlText w:val="•"/>
+      <w:lvlJc w:val="left"/><w:pPr><w:ind w:left="720" w:hanging="360"/></w:pPr></w:lvl>
+  </w:abstractNum>
+  <w:abstractNum w:abstractNumId="1"><w:multiLevelType w:val="hybridMultilevel"/>
+    <w:lvl w:ilvl="0"><w:start w:val="1"/><w:numFmt w:val="decimal"/><w:lvlText w:val="%1."/>
+      <w:lvlJc w:val="left"/><w:pPr><w:ind w:left="720" w:hanging="360"/></w:pPr></w:lvl>
+  </w:abstractNum>
+  <w:num w:numId="1"><w:abstractNumId w:val="0"/></w:num>
+  <w:num w:numId="2"><w:abstractNumId w:val="1"/></w:num>
+</w:numbering>`,
+    };
+
+    const zip = new JSZip();
+    for (const [path, content] of Object.entries(files)) zip.file(path, content);
+    const blob = await zip.generateAsync({ type: 'blob', compression: 'DEFLATE' });
+
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `plantilla-${id}.docx`;
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  }
+
+  // ── Load & wire buttons ───────────────────────────────────────────────────────
+
+  async function loadTemplate() {
+    const langs = lang === 'es' ? ['es'] : [lang, 'es'];
+    for (const l of langs) {
+      try {
+        const res = await fetch(`${l}/${id}.html`);
+        if (res.ok) return await res.text();
+      } catch (_) {}
+    }
+    return null;
+  }
+
+  loadTemplate().then(html => {
+    const wrap = document.getElementById('contentWrap');
+    if (!html) {
+      wrap.innerHTML = `<div class="msg">${esc(t.notFound)}</div>`;
+      return;
+    }
+
+    wrap.innerHTML = `
+      <div class="doc-header">
+        <h1>${esc(name)}</h1>
+        <div class="doc-id">${esc(id)}</div>
+      </div>
+      ${html}`;
+
+    // ── Copy (rich text → paste in Word / Google Docs / LibreOffice) ──
+    document.getElementById('btnCopy').addEventListener('click', async () => {
+      const btn = document.getElementById('btnCopy');
+      const lbl = document.getElementById('lblCopy');
+      const fullHtml = wrap.innerHTML;
+      try {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            'text/html':  new Blob([fullHtml], { type: 'text/html' }),
+            'text/plain': new Blob([name + '\n\n' + document.getElementById('contentWrap').innerText], { type: 'text/plain' }),
+          })
+        ]);
+      } catch {
+        // fallback: plain text
+        await navigator.clipboard.writeText(name + '\n\n' + document.getElementById('contentWrap').innerText).catch(() => {});
+      }
+      lbl.textContent = t.copied;
+      btn.classList.add('btn-success');
+      setTimeout(() => { lbl.textContent = t.copy; btn.classList.remove('btn-success'); }, 2000);
+    });
+
+    // ── Download DOCX (OOXML real via JSZip) ──
+    document.getElementById('btnWord').addEventListener('click', async () => {
+      const btn = document.getElementById('btnWord');
+      btn.disabled = true;
+      try {
+        await ensureJSZip();
+        await generateDocx(name, id, html);
+      } catch (err) {
+        alert('No se pudo generar el DOCX: ' + err.message);
+      } finally {
+        btn.disabled = false;
+      }
+    });
+
+    // ── Download Markdown ──
+    document.getElementById('btnMarkdown').addEventListener('click', () => {
+      const md = `# ${name}\n\n` + htmlToMd(wrap).trim() + '\n';
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob([md], { type: 'text/markdown' }));
+      a.download = `plantilla-${id}.md`;
+      a.click();
+      setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+    });
+  });
+</script>
+</body>
+</html>

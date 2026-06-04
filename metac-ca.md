@@ -214,21 +214,24 @@ Al final, el grup comparteix quines noves idees han aparegut i quines preguntes 
 
 Rutina per explorar un tema des de diferents perspectives. Cada participant adopta un punt de vista diferent i descriu el tema **des de dins** d'aquella posició. Després es comparen les perspectives per veure com el mateix tema es percep de forma diferent segons qui el miri.
 
-**Alumne/a** · **Data**
-**Tema**
-**El meu punt de vista** · *(persona, col·lectiu, institució, època, objecte…)*
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
+| **El meu punt de vista** | *(persona, col·lectiu, institució, època, objecte…)* | | |
 
 #### Des d'aquest punt de vista…
 
-**Penso que aquest tema… Descriu com perceps o entens el tema des de la teva perspectiva. Què veus, què creus, què opines.**
-**Perquè… Quines raons, experiències o interessos expliquen la teva manera de veure el tema des d'aquesta posició.**
-**Una pregunta que em faig des d'aquí… Quin dubte, tensió o curiositat et genera el tema vist des d'aquesta perspectiva.**
+| **Penso que aquest tema… Descriu com perceps o entens el tema des de la teva perspectiva. Què veus, què creus, què opines.** | |
+| --- | --- |
+| **Perquè… Quines raons, experiències o interessos expliquen la teva manera de veure el tema des d'aquesta posició.** | |
+| **Una pregunta que em faig des d'aquí… Quin dubte, tensió o curiositat et genera el tema vist des d'aquesta perspectiva.** | |
 
 #### Posada en comú — després d'escoltar altres perspectives
 
-**Quines idees noves tens sobre el tema que abans no tenies?**
-**Quina perspectiva t'ha resultat més sorprenent o diferent de la teva i per què?**
-**Quines preguntes noves et sorgeixen després d'escoltar el grup?**
+| **Quines idees noves tens sobre el tema que abans no tenies?** | |
+| --- | --- |
+| **Quina perspectiva t'ha resultat més sorprenent o diferent de la teva i per què?** | |
+| **Quines preguntes noves et sorgeixen després d'escoltar el grup?** | |
 
 **Clau pedagògica:** la pluja de perspectives possibles abans de repartir-les és tan important com el treball individual. Com més perspectives diferents identifiqui el grup —incloent-hi les minoritàries, les incòmodes o les no humanes (una llei, un ecosistema, una època passada)— més ric serà l'anàlisi. L'objectiu no és defensar el punt de vista assignat, sinó comprendre genuïnament com el tema es veu des d'ell.
 
@@ -303,21 +306,24 @@ Objectiu: Millorar la comprensió dels alumnes sobre la Revolució Francesa
 
 Rutina per comparar dos conceptes, fonts, obres, èpoques, posicions o qualsevol parell d'elements. La comparació no consisteix a fer llistes separades: el valor rau a **relacionar directament** els dos elements aspecte per aspecte, i a reflexionar sobre què revela aquesta relació.
 
-**Alumne/a** · **Data**
-**Element A** · **Element B**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Element A** | | **Element B** | |
 
 #### Comparació aspecte a aspecte
 
 *A cada fila, tria un aspecte rellevant i descriu com es manifesta en cada element. Afegeix o elimina files segons necessitis.*
 
-**Aspecte** · **Element A** · **Element B**
+| **Aspecte** | **Element A** | **Element B** |
+| --- | --- | --- |
 
 #### Síntesi de la comparació
 
-**Què tenen clarament en comú?**
-**Quina diferència és la més significativa i per què?**
-**Què t'ha sorprès en comparar-los?**
-**Què revela aquesta comparació que no veuries estudiant cada element per separat?**
+| **Què tenen clarament en comú?** | |
+| --- | --- |
+| **Quina diferència és la més significativa i per què?** | |
+| **Què t'ha sorprès en comparar-los?** | |
+| **Què revela aquesta comparació que no veuries estudiant cada element per separat?** | |
 
 **Clau pedagògica:** l'última pregunta —«Què revela aquesta comparació?»— és la que distingeix l'anàlisi real de la simple descripció paral·lela. Si l'alumnat pot respondre-la, la comparació ha generat comprensió nova. Si només pot descriure cada element per separat, la comparació ha estat superficial. Aquesta pregunta s'ha de treballar explícitament en la posada en comú.
 
@@ -397,11 +403,13 @@ Aquesta rutina pot ser útil per ajudar als alumnes a millorar la comprensió d'
 
 Rutina per capturar l'essència d'un text, explicació o tema de forma **no verbal**: usant un color, un símbol i una imatge en lloc de paraules. Cada elecció ha de representar una idea important, no el tema en general. El valuós és la justificació: per què aquesta representació i no una altra.
 
-**Alumne/a** · **Data**
-**Text / Explicació / Tema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Text / Explicació / Tema** | | | |
 
-**COLOR Un color que capturi el to, l'emoció o la qualitat essencial d'una idea del text. No el color literal de res, sinó una associació metafòrica.** · **SÍMBOL Un signe, icona o dibuix senzill que representi una idea. Un símbol és més simple que una imatge: pensa en un logotip o senyal.** · **IMATGE Una imatge visual o metafòrica més elaborada que el símbol. Pot ser una escena, una comparació visual, una metàfora desenvolupada.**
-**Idea que representa:** **Per què aquest color?** · **Idea que representa:** **Per què aquest símbol?** · **Idea que representa:** **Per què aquesta imatge?**
+| **COLOR Un color que capturi el to, l'emoció o la qualitat essencial d'una idea del text. No el color literal de res, sinó una associació metafòrica.** | **SÍMBOL Un signe, icona o dibuix senzill que representi una idea. Un símbol és més simple que una imatge: pensa en un logotip o senyal.** | **IMATGE Una imatge visual o metafòrica més elaborada que el símbol. Pot ser una escena, una comparació visual, una metàfora desenvolupada.** |
+| --- | --- | --- |
+| **Idea que representa:** **Per què aquest color?** | **Idea que representa:** **Per què aquest símbol?** | **Idea que representa:** **Per què aquesta imatge?** |
 
 #### Posada en comú
 
@@ -506,15 +514,18 @@ El professor recull les respostes o les revisa visualment i dedica els primers m
 
 Rutina d'autoavaluació en tres nivells que permet a l'alumnat identificar què ha comprès bé, què li genera dubtes i què no ha entès. Es pot usar en acabar una explicació, una activitat o una sessió. Respon amb honestedad: els dubtes i els vermells són informació valuosa, no un problema.
 
-**Alumne/a** · **Data**
-**Tema / Sessió**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema / Sessió** | | | |
 
-**🟢 VERD — He entès Què puc explicar amb les meves pròpies paraules o aplicar sense ajuda.** · **🟡 GROC — Tinc dubtes Què entenc a mitges o en què necessito més pràctica o explicació.** · **🔴 VERMELL — No he entès Què no he comprès o què m'ha quedat completament confús.**
+| **🟢 VERD — He entès Què puc explicar amb les meves pròpies paraules o aplicar sense ajuda.** | **🟡 GROC — Tinc dubtes Què entenc a mitges o en què necessito més pràctica o explicació.** | **🔴 VERMELL — No he entès Què no he comprès o què m'ha quedat completament confús.** |
+| --- | --- | --- |
 
 #### Per a les zones groga i vermella
 
-**Quin és el teu dubte més important? Formula'l com una pregunta concreta.**
-**Què necessitaries per passar aquell punt al verd?**
+| **Quin és el teu dubte més important? Formula'l com una pregunta concreta.** | |
+| --- | --- |
+| **Què necessitaries per passar aquell punt al verd?** | |
 
 **Clau pedagògica:** el semàfor només té valor si el docent recull i respon a les zones groga i vermella. Iniciar la sessió següent amb «el 40 % heu posat en vermell el concepte X, ho treballarem d'una altra manera» tanca el cicle formatiu i comunica a l'alumnat que els seus senyals importen. Sense aquesta resposta, la rutina es converteix en un ritual buit.
 
@@ -561,13 +572,15 @@ En acabar una pràctica de laboratori, els alumnes completen l'escala indicant q
 
 Rutina de metacognició en quatre graons. Completa cada un en ordre: cada graó construeix sobre l'anterior. El quart —la transferència— és el més exigent i el que més revela si l'aprenentatge és genuí.
 
-**Alumne/a** · **Data**
-**Tema / Activitat**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema / Activitat** | | | |
 
-1 · **Què he après?** Identifica els coneixements, habilitats o idees que has treballat. Sigues concret: no «hem vist el tema X», sinó què saps ara que abans no sabies.
-2 · **Com ho he après?** Descriu quines activitats, estratègies, recursos o interaccions t'han ajudat més a aprendre-ho. Què ha funcionat? Què no ha funcionat?
-3 · **Per a què m'ha servit?** Quina utilitat té el que has après? Relaciona l'aprenentatge amb alguna cosa concreta: un problema que ara pots resoldre, alguna cosa que entens millor, una habilitat que pots usar.
-4 · **On més puc aplicar-ho?** Proposa situacions noves —en altres assignatures, en la teva vida quotidiana, en problemes futurs— on podries usar el que has après. Com més allunyat del context original, més profunda és la transferència.
+| 1 | **Què he après?** Identifica els coneixements, habilitats o idees que has treballat. Sigues concret: no «hem vist el tema X», sinó què saps ara que abans no sabies. |
+| --- | --- |
+| 2 | **Com ho he après?** Descriu quines activitats, estratègies, recursos o interaccions t'han ajudat més a aprendre-ho. Què ha funcionat? Què no ha funcionat? |
+| 3 | **Per a què m'ha servit?** Quina utilitat té el que has après? Relaciona l'aprenentatge amb alguna cosa concreta: un problema que ara pots resoldre, alguna cosa que entens millor, una habilitat que pots usar. |
+| 4 | **On més puc aplicar-ho?** Proposa situacions noves —en altres assignatures, en la teva vida quotidiana, en problemes futurs— on podries usar el que has après. Com més allunyat del context original, més profunda és la transferència. |
 
 **Clau pedagògica:** el graó 2 («Com ho he après?») és el més metacognitiu i el més infravalorat. Identificar quines estratègies o activitats han funcionat millor desenvolupa l'autoregulació de l'aprenentatge. El graó 4 és l'indicador més fiable de comprensió real: si l'alumnat només pot aplicar-ho en el context exacte en què ho ha après, l'aprenentatge és fràgil.
 
@@ -719,10 +732,12 @@ Abans d'estudiar els ecosistemes, els alumnes escriuen què saben sobre cadenes 
 
 Completa les tres columnes en els moments indicats: la primera **abans** de l'activitat o unitat, la segona també **abans** (o al llarg de l'activitat), i la tercera **en acabar**.
 
-**Alumne/a** · **Data**
-**Tema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
-**K — Sé El que ja sé sobre el tema** · **W — Vull saber El que vull aprendre o descobrir** · **L — He après El que he après en acabar**
+| **K — Sé El que ja sé sobre el tema** | **W — Vull saber El que vull aprendre o descobrir** | **L — He après El que he après en acabar** |
+| --- | --- | --- |
 
 #### Reflexió final
 
@@ -775,18 +790,21 @@ _Adaptat de: Project Zero. (2020). Puntos de la Brújula_
 
 Eina per analitzar una proposta, idea o projecte des de quatre angles. Completa cada quadrant de forma individual abans de la posada en comú.
 
-**Alumne/a** · **Data**
-**Proposta / Idea / Projecte**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Proposta / Idea / Projecte** | | | |
 
-▲ N — NECESSITO SABER Què més necessites saber o descobrir sobre aquesta proposta? Quina informació addicional t'ajudaria a valorar-la millor?
-◀ O — OBSTACLES Quines dificultats, riscos o preocupacions veus? Què podria fallar? · E — ENTUSIASME ▶ Què valores positivament? Quins avantatges o potencial té aquesta proposta?
-S — SUGGERIMENTS ▼ Quina és la teva suggerència o postura actual? Quin pas següent proposes per avaluar o desenvolupar aquesta proposta?
+| ▲ N — NECESSITO SABER Què més necessites saber o descobrir sobre aquesta proposta? Quina informació addicional t'ajudaria a valorar-la millor? | | |
+| --- | --- | --- |
+| ◀ O — OBSTACLES Quines dificultats, riscos o preocupacions veus? Què podria fallar? | | E — ENTUSIASME ▶ Què valores positivament? Quins avantatges o potencial té aquesta proposta? |
+| S — SUGGERIMENTS ▼ Quina és la teva suggerència o postura actual? Quin pas següent proposes per avaluar o desenvolupar aquesta proposta? | | |
 
 #### Síntesi després de la posada en comú
 
-**Quin quadrant ha generat més debat i per què?**
-**Quina informació del quadrant N és imprescindible abans de decidir?**
-**Quin és el pas següent acordat?**
+| **Quin quadrant ha generat més debat i per què?** | |
+| --- | --- |
+| **Quina informació del quadrant N és imprescindible abans de decidir?** | |
+| **Quin és el pas següent acordat?** | |
 
 **Clau pedagògica:** el quadrant N (Necessito saber) és el més estratègic: no expressa una opinió sinó una condició per opinar bé. Identificar quina informació falta abans de poder valorar una proposta és una habilitat de pensament crític que va més enllà de l'anàlisi de pros i contres. El quadrant S obliga a sortir de la crítica i proposar, la qual cosa el fa incòmode i valuós.
 
@@ -847,22 +865,25 @@ A partir de la cadena de preguntes, l’alumnat proposa comprovar la humitat del
 
 Tècnica per aprofundir en les causes d'un problema o fenomen encadenant preguntes «per què?». Cada resposta es converteix en el punt de partida de la pregunta següent. El nombre de nivells no ha de ser exactament 5: se'n fan els necessaris fins a arribar a la **causa arrel**, és a dir, la causa que, si es resol, elimina el problema des de la base.
 
-**Alumne/a** · **Data**
-**Problema o fenomen de partida**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Problema o fenomen de partida** | | | |
 
-**Nivell** · **Pregunta Per què…?** · **Resposta**
-1 · Per què ocorre el problema de partida?
-2 · Per què ocorre el que acabes de respondre?
-3
-4
-5
-6
+| **Nivell** | **Pregunta Per què…?** | **Resposta** |
+| --- | --- | --- |
+| 1 | Per què ocorre el problema de partida? | |
+| 2 | Per què ocorre el que acabes de respondre? | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
 
 #### Causa arrel identificada
 
-**Quina és la causa arrel? (la resposta de l'últim nivell en què pots continuar preguntant per què)**
-**Com saps que és la causa arrel i no tan sols un altre símptoma?**
-**Quina acció o canvi abordaría aquesta causa arrel?**
+| **Quina és la causa arrel? (la resposta de l'últim nivell en què pots continuar preguntant per què)** | |
+| --- | --- |
+| **Com saps que és la causa arrel i no tan sols un altre símptoma?** | |
+| **Quina acció o canvi abordaría aquesta causa arrel?** | |
 
 **Clau pedagògica:** la trampa més freqüent és aturar-se en una causa superficial o «símptoma» (nivell 1 o 2) i tractar-la com a causa arrel. Saber quan parar —quan ja no té sentit continuar preguntant «i per què ocorre això?»— és l'habilitat que desenvolupa la tècnica. En contextos educatius, els nivells 3 i 4 solen ser els més reveladors i els que més costa assolir sense suport.
 
@@ -947,25 +968,28 @@ En petits grups, comparteixen les seves eleccions i justifiquen per què les han
 
 Rutina cooperativa per capturar l'essència d'un text identificant una **paraula** que cridi l'atenció, una **idea** significativa i una **frase** que ajudi a comprendre el text. Primer treball individual (5 min), després posada en comú en grup (10 min) i finalment síntesi col·lectiva (15 min).
 
-**Alumne/a** · **Data**
-**Text / Lectura**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Text / Lectura** | | | |
 
 #### Fase individual
 
-**PARAULA que m'ha cridat l'atenció Una paraula del text que t'hagi cridat l'atenció, sorprès o fet pensar.**
-**Per què aquesta paraula?**
-**IDEA significativa per a tu Una combinació de paraules o idea del text que t'hagi provocat, compromès o que sigui especialment rellevant.**
-**Per què aquesta idea?**
-**FRASE que t'ha ajudat a entendre el text Una frase literal del text que actuï com a clau de comprensió: la que millor resumeix, la més aclaridora o la més important.**
-**Per què aquesta frase?**
+| **PARAULA que m'ha cridat l'atenció Una paraula del text que t'hagi cridat l'atenció, sorprès o fet pensar.** | |
+| --- | --- |
+| **Per què aquesta paraula?** | |
+| **IDEA significativa per a tu Una combinació de paraules o idea del text que t'hagi provocat, compromès o que sigui especialment rellevant.** | |
+| **Per què aquesta idea?** | |
+| **FRASE que t'ha ajudat a entendre el text Una frase literal del text que actuï com a clau de comprensió: la que millor resumeix, la més aclaridora o la més important.** | |
+| **Per què aquesta frase?** | |
 
 #### Fase grupal — síntesi col·lectiva
 
 *Després que cada membre hagi compartit la seva paraula, idea i frase amb el grup:*
 
-**Quins temes o idees apareixen en diverses respostes del grup?**
-**Quines implicacions, interpretacions o prediccions podeu extreure del text?**
-**Quins aspectes del text no han aparegut en cap resposta? Per què pot ser?**
+| **Quins temes o idees apareixen en diverses respostes del grup?** | |
+| --- | --- |
+| **Quines implicacions, interpretacions o prediccions podeu extreure del text?** | |
+| **Quins aspectes del text no han aparegut en cap resposta? Per què pot ser?** | |
 
 **Clau pedagògica:** la justificació («per què aquesta paraula/idea/frase?») és la part més valuosa del treball individual. Sense ella, la rutina es redueix a subratllar. La pregunta sobre els aspectes oblidats en la fase grupal és la més reveladora: detecta punts cecs col·lectius i pot obrir línies d'anàlisi que cap membre hauria explorat sol.
 
@@ -1015,10 +1039,12 @@ El docent pot tancar l’activitat demanant que cada estudiant indiqui quina ide
 
 Completa la columna **«Abans pensava…»** *abans* de treballar el tema o a l'inici de la sessió. Completa **«Ara penso…»** en acabar. La tercera columna és la més important per a l'aprenentatge: identifica què ha produït el canvi.
 
-**Alumne/a** · **Data**
-**Tema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
-**Abans pensava… Què creia, sabia o suposava sobre aquest tema. Inclou idees incompletes, dubtes inicials o explicacions que ara veus que eren errònies.** · **Ara penso… Què penso ara. Què ha canviat, què s'ha confirmat o què matisaries de la teva idea inicial.** · **Què ha produït el canvi? Quina activitat, explicació, dada, exemple o diàleg t'ha ajudat a canviar o confirmar la teva idea.**
+| **Abans pensava… Què creia, sabia o suposava sobre aquest tema. Inclou idees incompletes, dubtes inicials o explicacions que ara veus que eren errònies.** | **Ara penso… Què penso ara. Què ha canviat, què s'ha confirmat o què matisaries de la teva idea inicial.** | **Què ha produït el canvi? Quina activitat, explicació, dada, exemple o diàleg t'ha ajudat a canviar o confirmar la teva idea.** |
+| --- | --- | --- |
 
 #### Reflexió global
 
@@ -1092,17 +1118,20 @@ Després de compartir les idees sobre "Investigo", el professor guia als alumnes
 
 Rutina per activar coneixements previs a l'inici d'un tema. Completa cada columna de forma **individual i en silenci** abans de la posada en comú. Inclou idees encara que siguin incompletes o errònies: són el punt de partida, no el resultat final.
 
-**Alumne/a** · **Data**
-**Tema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
-**PENSO Què sé, crec o suposo sobre aquest tema. Idees prèvies, encara que siguin incompletes o errònies. Quines associacions et genera.** · **M'INTERESSA Què et desperta curiositat. Quins aspectes voldries explorar, entendre millor o que et generen intriga.** · **INVESTIGO Transforma la teva curiositat en una pregunta concreta i investigable. Què vols saber exactament?**
+| **PENSO Què sé, crec o suposo sobre aquest tema. Idees prèvies, encara que siguin incompletes o errònies. Quines associacions et genera.** | **M'INTERESSA Què et desperta curiositat. Quins aspectes voldries explorar, entendre millor o que et generen intriga.** | **INVESTIGO Transforma la teva curiositat en una pregunta concreta i investigable. Què vols saber exactament?** |
+| --- | --- | --- |
 
 #### La meva pregunta d'investigació
 
 Tria la pregunta més significativa de la columna **INVESTIGO** i formula-la amb precisió. Una bona pregunta d'investigació no té resposta de sí/no i no es respon amb una cerca ràpida.
 
-**La meva pregunta:**
-**Per què m'interessa?**
+| **La meva pregunta:** | |
+| --- | --- |
+| **Per què m'interessa?** | |
 
 **Clau pedagògica:** les concepcions errònies que apareixen a la columna PENSO són el material més valuós de la rutina. Anota-les sense corregir-les en aquell moment: serviran de contrast en tancar el tema. La columna INVESTIGO perd valor si els alumnes escriuen preguntes la resposta de les quals ja coneixen o que es resolen amb un cercador en segons. Dedicar temps a millorar la qualitat de les preguntes d'investigació és part del treball.
 
@@ -1242,29 +1271,33 @@ En la posada en comú, explica què ha canviat en la seva manera de pensar i per
 
 Aquesta rutina es completa en **dos moments separats**: la primera taula a l'inici del tema, la segona en acabar. No modifiquis les respostes del primer moment en omplir el segon. El «pont» final connecta tots dos moments i és el nucli metacognitiu de la rutina.
 
-**Alumne/a** · **Data inici**
-**Tema** · **Data fi**
+| **Alumne/a** | | **Data inici** | |
+| --- | --- | --- | --- |
+| **Tema** | | **Data fi** | |
 
 #### Moment 1 — ABANS de començar el tema
 
 *Completa aquesta taula a l'inici. No la modifiquis després.*
 
-**3 idees o paraules que et suggereix aquest tema** · **2 preguntes que tens sobre el tema** · **1 analogia: aquest tema és com…**
-1. 2. 3. · 1. 2.
+| **3 idees o paraules que et suggereix aquest tema** | **2 preguntes que tens sobre el tema** | **1 analogia: aquest tema és com…** |
+| --- | --- | --- |
+| 1. 2. 3. | 1. 2. | |
 
 #### Moment 2 — DESPRÉS de treballar el tema
 
 *Completa aquesta taula en finalitzar l'activitat o unitat.*
 
-**3 idees o paraules que et suggereix ara el tema** · **2 preguntes que et continuen generant** · **1 nova analogia: ara el tema és com…**
-1. 2. 3. · 1. 2.
+| **3 idees o paraules que et suggereix ara el tema** | **2 preguntes que et continuen generant** | **1 nova analogia: ara el tema és com…** |
+| --- | --- | --- |
+| 1. 2. 3. | 1. 2. | |
 
 #### El pont — Com han canviat les teves idees?
 
-**Quina idea del moment 1 ha canviat més radicalment?**
-**Què ha provocat aquest canvi?**
-**Quina pregunta del moment 1 has pogut respondre?**
-**Quina pregunta nova t'emportes en sortir del tema?**
+| **Quina idea del moment 1 ha canviat més radicalment?** | |
+| --- | --- |
+| **Què ha provocat aquest canvi?** | |
+| **Quina pregunta del moment 1 has pogut respondre?** | |
+| **Quina pregunta nova t'emportes en sortir del tema?** | |
 
 **Clau pedagògica:** l'analogia o metàfora del moment 1 sol ser superficial o tòpica. La del moment 2, elaborada després de treballar el tema, revela la profunditat de l'aprenentatge millor que qualsevol llista de conceptes: una analogia original exigeix comprensió genuïna. Comparar les dues analogies en la posada en comú col·lectiva és un dels moments més rics d'aquesta rutina.
 
@@ -1325,21 +1358,24 @@ Després, cada grup classifica les conseqüències en positives, negatives i con
 
 Rutina per analitzar les conseqüències d'una acció, decisió, fenomen o concepte en diferents horitzons temporals. No es tracta de llistar conseqüències: es tracta de **traçar-les en cadena** —cada conseqüència genera noves conseqüències— i de distingir el que és controlable del que no ho és.
 
-**Alumne/a** · **Data**
-**Acció / Decisió / Fenomen**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Acció / Decisió / Fenomen** | | | |
 
-**Horitzó temporal** · **Conseqüències probables** · **Per a qui? Qui es veu afectat?**
-Immediat (hores / dies)
-Curt termini (setmanes / mesos)
-Mig termini (1–5 anys)
-Llarg termini (més de 5 anys)
+| **Horitzó temporal** | **Conseqüències probables** | **Per a qui? Qui es veu afectat?** |
+| --- | --- | --- |
+| Immediat (hores / dies) | | |
+| Curt termini (setmanes / mesos) | | |
+| Mig termini (1–5 anys) | | |
+| Llarg termini (més de 5 anys) | | |
 
 #### Anàlisi
 
-**Quina conseqüència et sembla més important o sorprenent i per què?**
-**Quina conseqüència negativa podria reduir-se o evitar-se? Com?**
-**Quina conseqüència positiva podria amplificar-se? Com?**
-**Quina conseqüència depèn de com actuïn altres persones o factors externs?**
+| **Quina conseqüència et sembla més important o sorprenent i per què?** | |
+| --- | --- |
+| **Quina conseqüència negativa podria reduir-se o evitar-se? Com?** | |
+| **Quina conseqüència positiva podria amplificar-se? Com?** | |
+| **Quina conseqüència depèn de com actuïn altres persones o factors externs?** | |
 
 **Clau pedagògica:** el pensament sobre conseqüències tendeix a quedar-se en l'horitzó immediat. Els horitzons de mig i llarg termini són els més difícils i els més formatius: exigeixen raonament causal encadenat i pensament sistèmic. La pregunta «per a qui?» introdueix la dimensió de justícia i perspectiva múltiple, especialment valuosa en ciències socials, ètica o educació per a la ciutadania.
 
@@ -1387,16 +1423,19 @@ En literatura, els alumnes analitzen un personatge d'una novel·la. Dins de la s
 
 Tècnica visual per analitzar un personatge, col·lectiu, institució o concepte personificat. El que s'anota **dins** de la silueta correspon al món interior (pensaments, emocions, motivacions, creences). El que s'anota **fora** correspon al món exterior (accions, comportaments, relacions, pressions). Cada aportació ha de justificar-se amb evidències del text, la situació o el context.
 
-**Alumne/a** · **Data**
-**Personatge / Col·lectiu / Institució analitzada** · **Context**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Personatge / Col·lectiu / Institució analitzada** | | **Context** | |
 
-INTERIOR ← dins de la silueta Pensaments · Emocions · Motivacions · Creences · Pors · Desitjos · ← interior · exterior → · EXTERIOR → fora de la silueta Accions · Comportaments · Relacions · Paraules · Pressions externes
+| INTERIOR ← dins de la silueta Pensaments · Emocions · Motivacions · Creences · Pors · Desitjos | ← interior · exterior → | EXTERIOR → fora de la silueta Accions · Comportaments · Relacions · Paraules · Pressions externes |
+| --- | --- | --- |
 
 #### Síntesi i anàlisi
 
-**Quina tensió o contradicció hi ha entre l'interior i l'exterior del personatge?**
-**Quin aspecte de l'interior explica millor una acció exterior concreta?**
-**Com canvia el personatge al llarg del text o situació? Què canvia: l'interior, l'exterior o tots dos?**
+| **Quina tensió o contradicció hi ha entre l'interior i l'exterior del personatge?** | |
+| --- | --- |
+| **Quin aspecte de l'interior explica millor una acció exterior concreta?** | |
+| **Com canvia el personatge al llarg del text o situació? Què canvia: l'interior, l'exterior o tots dos?** | |
 
 **Clau pedagògica:** la distinció interior/exterior no és només organitzativa: revela la bretxa entre allò que un personatge sent i allò que mostra, entre les seves motivacions i les seves accions. Identificar aquesta tensió —i justificar-la amb evidències del text o la situació— és el treball analític més sofisticat de la tècnica. Les anotacions sense evidència són interpretacions; les anotacions amb evidència són anàlisi.
 
@@ -1506,10 +1545,12 @@ A “Penso”, interpreta què pot estar passant: una protesta ciutadana, una re
 
 Observa atentament la imatge, el text o la situació proposada. Completa cada columna **en ordre i per separat**: primer **VEIG** (només el que perceps, sense interpretar), després **PENSO** (què et suggereix, amb raons), i finalment **EM PREGUNTO** (quins dubtes o preguntes et genera).
 
-**Alumne/a** · **Data**
-**Tema / Imatge / Situació**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema / Imatge / Situació** | | | |
 
-**VEIG Només el que observo directament. Sense interpretar ni opinar. Dades, detalls, elements visibles.** · **PENSO Què em suggereix o com ho interpreto. Per què penso això: quin detall concret em porta a aquesta idea.** · **EM PREGUNTO Quins dubtes, preguntes o curiositats em genera el que veig i penso.**
+| **VEIG Només el que observo directament. Sense interpretar ni opinar. Dades, detalls, elements visibles.** | **PENSO Què em suggereix o com ho interpreto. Per què penso això: quin detall concret em porta a aquesta idea.** | **EM PREGUNTO Quins dubtes, preguntes o curiositats em genera el que veig i penso.** |
+| --- | --- | --- |
 
 #### Posada en comú amb un company o companya
 
@@ -1559,15 +1600,18 @@ Abans de decidir si una activitat es farà individualment o en grup, la classe e
 
 Analitza una proposta, decisió, alternativa o situació identificant-ne els aspectes positius i negatius. Després pondera les dues llistes i elabora una conclusió raonada. No es tracta de fer més llarga una columna, sinó de valorar el pes de cada aspecte.
 
-**Alumne/a** · **Data**
-**Proposta / Situació / Decisió a analitzar**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Proposta / Situació / Decisió a analitzar** | | | |
 
-**+ Aspectes positius Avantatges, oportunitats, beneficis, punts forts.** · **− Aspectes negatius Inconvenients, riscos, dificultats, punts febles.**
+| **+ Aspectes positius Avantatges, oportunitats, beneficis, punts forts.** | **− Aspectes negatius Inconvenients, riscos, dificultats, punts febles.** |
+| --- | --- |
 
 #### Ponderació
 
-**Quin aspecte positiu té més pes i per què?**
-**Quin aspecte negatiu té més pes i per què?**
+| **Quin aspecte positiu té més pes i per què?** | |
+| --- | --- |
+| **Quin aspecte negatiu té més pes i per què?** | |
 
 #### Conclusió o decisió raonada
 
@@ -1634,8 +1678,9 @@ En una pràctica de biologia, l'alumnat observa que unes llavors han germinat mi
 
 L'estructura CER permet construir una explicació completa i verificable. Completa els tres elements en ordre: primer l'**afirmació** (què afirmes), després les **evidències** (dades que ho demostren) i finalment el **raonament** (per què aquestes evidències sostenen l'afirmació). Usa la revisió final per comprovar la solidesa de l'argument.
 
-**Alumne/a** · **Data**
-**Pregunta / Problema / Fenomen**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Pregunta / Problema / Fenomen** | | | |
 
 #### C — AFIRMACIÓ (Claim)
 
@@ -1645,10 +1690,11 @@ L'estructura CER permet construir una explicació completa i verificable. Comple
 
 *Dades, observacions, resultats, cites o fets concrets que donen suport a l'afirmació. Les evidències han de ser específiques i verificables, no opinions.*
 
-**#** · **Evidència (dada, observació, resultat, cita…)** · **Font o procedència**
-1
-2
-3
+| **#** | **Evidència (dada, observació, resultat, cita…)** | **Font o procedència** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
 
 #### R — RAONAMENT (Reasoning)
 
@@ -1656,11 +1702,12 @@ L'estructura CER permet construir una explicació completa i verificable. Comple
 
 #### Revisió de l'argument
 
-**Criteri** · **Sí** · **A mitges** · **No**
-L'afirmació respon directament a la pregunta · ☐ · ☐ · ☐
-Les evidències són dades concretes, no opinions · ☐ · ☐ · ☐
-El raonament explica *per què* les evidències donen suport a l'afirmació · ☐ · ☐ · ☐
-L'argument complet respon a algú que digués «i per què?» · ☐ · ☐ · ☐
+| **Criteri** | **Sí** | **A mitges** | **No** |
+| --- | --- | --- | --- |
+| L'afirmació respon directament a la pregunta | ☐ | ☐ | ☐ |
+| Les evidències són dades concretes, no opinions | ☐ | ☐ | ☐ |
+| El raonament explica *per què* les evidències donen suport a l'afirmació | ☐ | ☐ | ☐ |
+| L'argument complet respon a algú que digués «i per què?» | ☐ | ☐ | ☐ |
 
 **Clau pedagògica:** l'error més freqüent és confondre evidència amb raonament. «Les dades mostren X» és evidència. «Les dades mostren X perquè el principi Y implica que Z» és raonament. Dedicar temps a aquesta distinció, especialment en la primera aplicació, marca la diferència entre un exercici mecànic i el desenvolupament real del pensament científic o argumentatiu.
 
@@ -1714,27 +1761,31 @@ Després es realitza l'experiència. L'alumnat observa que la patata perd fermes
 
 L'alumnat completa les tres fases **en ordre estricte**: primer **PREDIU** (abans de veure el resultat), després **OBSERVA** (durant o després de l'experiment o situació), i finalment **EXPLICA** (comparant predicció amb evidència). No s'ha d'avançar a la fase següent abans d'acabar l'anterior.
 
-**Alumne/a** · **Data**
-**Situació / Experiment / Problema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Situació / Experiment / Problema** | | | |
 
 #### 1. PREDIU — Què creus que passarà?
 
 *Completa aquesta secció abans de fer l'observació o l'experiment. Escriu la teva predicció i justifica-la amb el que ja saps.*
 
-**La meva predicció: crec que passarà…** · **La justifico perquè…**
+| **La meva predicció: crec que passarà…** | **La justifico perquè…** |
+| --- | --- |
 
 #### 2. OBSERVA — Què ha passat realment?
 
 *Anota només el que observes: dades, fets, resultats. Sense interpretar encara.*
 
-**Observacions i dades obtingudes** · **Coincideix amb la teva predicció?**
-☐ Sí, coincideix ☐ Coincideix en part ☐ No coincideix
+| **Observacions i dades obtingudes** | **Coincideix amb la teva predicció?** |
+| --- | --- |
+| | ☐ Sí, coincideix ☐ Coincideix en part ☐ No coincideix |
 
 #### 3. EXPLICA — Per què ha passat així?
 
 *Elabora una explicació que relacioni la predicció, l'observació i el coneixement treballat. Si la teva predicció era incorrecta, explica en què s'equivocava el teu raonament inicial.*
 
-**Explicació del resultat** · **Què ajustaria en el meu raonament inicial?**
+| **Explicació del resultat** | **Què ajustaria en el meu raonament inicial?** |
+| --- | --- |
 
 **Clau pedagògica:** el valor de POE rau en la tensió entre predicció i observació. Si la predicció era incorrecta, l'explicació final és especialment valuosa: obliga l'alumnat a identificar on fallava el seu model mental. Evita que els alumnes modifiquin la seva predicció a posteriori: el que s'ha escrit abans d'observar és l'evidència de la seva idea prèvia.
 
@@ -1777,8 +1828,9 @@ En història, després d'analitzar un gràfic sobre població urbana, un alumne 
 
 Rutina per analitzar una idea, text, imatge, dada o explicació amb tres moviments: formular una afirmació, aportar un suport que la sostingui i obrir la indagació amb una pregunta. Més lleugera que CER: no exigeix un raonament complet, però sí justificar la idea i mantenir oberta l'exploració.
 
-**Alumne/a** · **Data**
-**Estímul (text, imatge, dada, fenomen…)**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Estímul (text, imatge, dada, fenomen…)** | | | |
 
 #### Afirmació — Què interpretes o concludes?
 
@@ -1794,10 +1846,11 @@ Rutina per analitzar una idea, text, imatge, dada o explicació amb tres movimen
 
 #### Revisió ràpida
 
-**Pregunta de revisió** · **Sí** · **No**
-L'afirmació és una interpretació i no una simple descripció? · ☐ · ☐
-El suport és específic (assenyala alguna cosa concreta de l'estímul)? · ☐ · ☐
-La pregunta fa avançar l'anàlisi (no és simplement «no entenc X»)? · ☐ · ☐
+| **Pregunta de revisió** | **Sí** | **No** |
+| --- | --- | --- |
+| L'afirmació és una interpretació i no una simple descripció? | ☐ | ☐ |
+| El suport és específic (assenyala alguna cosa concreta de l'estímul)? | ☐ | ☐ |
+| La pregunta fa avançar l'anàlisi (no és simplement «no entenc X»)? | ☐ | ☐ |
 
 **Clau pedagògica:** la distinció entre *suport* i *raonament* (com en CER) no s'exigeix aquí, la qual cosa fa la rutina més accessible. L'element més difícil és la pregunta final: l'alumnat tendeix a escriure un dubte sobre alguna cosa que no va entendre. Una bona pregunta CSQ comença des del que sí s'ha entès i projecta cap al que queda per explorar. Modelar aquest salt és el treball pedagògic clau.
 
@@ -1844,16 +1897,19 @@ Després de llegir un text sobre canvi climàtic, l’alumnat dedica 8 minuts a 
 
 Rutina per processar nova informació relacionant-la amb el que ja saps. Completa les tres seccions **després** de llegir, veure o escoltar el contingut. Treballa primer de forma individual abans de la posada en comú.
 
-**Alumne/a** · **Data**
-**Contingut treballat**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Contingut treballat** | | | |
 
-**CONNECTAR Amb quines idees prèvies, experiències o coneixements connecta el que acabes de treballar? On encaixa en el que ja saps?** · **AMPLIAR Quina idea nova amplia, aprofundeix o matisa la teva comprensió anterior? Què veus ara d'una altra manera?** · **DESAFIAR Què et resulta difícil d'acceptar, confús o contradictori? Què posa en tensió les teves idees actuals?**
+| **CONNECTAR Amb quines idees prèvies, experiències o coneixements connecta el que acabes de treballar? On encaixa en el que ja saps?** | **AMPLIAR Quina idea nova amplia, aprofundeix o matisa la teva comprensió anterior? Què veus ara d'una altra manera?** | **DESAFIAR Què et resulta difícil d'acceptar, confús o contradictori? Què posa en tensió les teves idees actuals?** |
+| --- | --- | --- |
 
 #### Pregunta pendent
 
 A partir del que has escrit a **DESAFIAR**, formula la pregunta més important que et queda per resoldre o explorar:
 
-**La meva pregunta:**
+| **La meva pregunta:** | |
+| --- | --- |
 
 **Clau pedagògica:** la columna DESAFIAR és la més valuosa i la més difícil. L'alumnat tendeix a escriure-hi només el que no entén tècnicament. El repte és que també identifiqui el que li resulta intel·lectualment incòmode, el que contradiu alguna cosa que creia saber o el que li genera tensió. Aquestes friccions són el motor de l'aprenentatge profund i el millor punt de partida per a la discussió col·lectiva.
 
@@ -1940,27 +1996,31 @@ En biologia, la classe analitza si s’ha de permetre l’ús d’animals en inv
 
 Rutina per analitzar dilemes situant els arguments en una corda imaginària entre dues posicions. No és una llista de pros i contres: cada argument es col·loca segons la seva **força** i cap a quina posició **tira**. L'objectiu és veure on cau el pes del raonament, no «guanyar» un costat.
 
-**Alumne/a** · **Data**
-**Dilema o qüestió controvertida**
-**Posició A** · **Posició B**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Dilema o qüestió controvertida** | | | |
+| **Posició A** | | **Posició B** | |
 
 #### Arguments a la corda
 
 *Escriu cada argument i marca: cap a quina posició tira (A / B / totes dues) i amb quina força (1 feble · 2 moderat · 3 fort).*
 
-**Argument** · **Tira cap a A · B · totes dues** · **Força 1 · 2 · 3**
+| **Argument** | **Tira cap a A · B · totes dues** | **Força 1 · 2 · 3** |
+| --- | --- | --- |
 
 #### On cau el pes?
 
 *Valora el conjunt: cap a quina posició tira més el pes dels arguments? Assenyala la teva posició a la corda marcant amb una X.*
 
-Posició A amb força · Posició A amb matisos · Al centre / sense decidir · Posició B amb matisos · Posició B amb força
+| Posició A amb força | Posició A amb matisos | Al centre / sense decidir | Posició B amb matisos | Posició B amb força |
+| --- | --- | --- | --- | --- |
 
 #### Matisos i condicions
 
-**Quina condició canviaria la teva posició?**
-**Quin argument de l'altre costat té més força i per què?**
-**Quina pregunta queda sense resoldre?**
+| **Quina condició canviaria la teva posició?** | |
+| --- | --- |
+| **Quin argument de l'altre costat té més força i per què?** | |
+| **Quina pregunta queda sense resoldre?** | |
 
 **Clau pedagògica:** la diferència amb un simple pros/contres és la valoració de la *força* de cada argument. Un argument feble del costat «perdedor» pot revelar alguna cosa important; un argument fort però condicionat matisa la posició final. L'objectiu no és concloure qui té raó, sinó comprendre per què la qüestió és genuïnament difícil.
 
@@ -2005,13 +2065,15 @@ Davant d’un quadre que representa una escena quotidiana del segle XIX, diferen
 
 Rutina per explorar una situació, text o aconteixement **des del punt de vista d'un altre**. Tria o rep un agent (persona, personatge, col·lectiu, institució) i respon les tres preguntes **en primera persona**, com si fossis aquell agent. No descriguis el personatge des de fora: parla com ell o ella.
 
-**Alumne/a** · **Data**
-**Situació / Text / Esdeveniment**
-**Agent que adopto**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Situació / Text / Esdeveniment** | | | |
+| **Agent que adopto** | | | |
 
-**Què percebo o noto des d'aquí? Què observo, sento o experimento des d'aquesta perspectiva. Què és el primer que em crida l'atenció.**
-**Què sé, crec o penso? Quin coneixement, creença o interpretació tinc des d'aquesta posició. Com explico o entenc allò que passa.**
-**Què m'importa o què desitjo? Què és prioritari per a mi des d'aquesta perspectiva. Què vull que passi o què temo que passi.**
+| **Què percebo o noto des d'aquí? Què observo, sento o experimento des d'aquesta perspectiva. Què és el primer que em crida l'atenció.** | |
+| --- | --- |
+| **Què sé, crec o penso? Quin coneixement, creença o interpretació tinc des d'aquesta posició. Com explico o entenc allò que passa.** | |
+| **Què m'importa o què desitjo? Què és prioritari per a mi des d'aquesta perspectiva. Què vull que passi o què temo que passi.** | |
 
 #### Reflexió després de la posada en comú
 
@@ -2060,8 +2122,9 @@ En ciències, el docent mostra una fulla amb les vores enrotllades i pregunta qu
 
 Rutina per passar de l'observació a l'explicació encadenant preguntes «per què és així?». Comença fixant-te en un detall concret i construeix explicacions cada vegada més fonamentades. No busca una resposta correcta: busca el millor raonament possible amb la informació disponible.
 
-**Alumne/a** · **Data**
-**Objecte / Imatge / Fenomen**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Objecte / Imatge / Fenomen** | | | |
 
 #### 1. Observació — Quin detall et crida l'atenció?
 
@@ -2069,26 +2132,30 @@ Rutina per passar de l'observació a l'explicació encadenant preguntes «per qu
 
 #### 2. Primera explicació — Per què creus que és així?
 
-**La meva explicació (hipòtesi):**
-**Què em fa pensar això?**
+| **La meva explicació (hipòtesi):** | |
+| --- | --- |
+| **Què em fa pensar això?** | |
 
 #### 3. Aprofundir — Per què passa allò que acabes d'explicar?
 
-**Explicació de l'explicació:**
-**Quina evidència o coneixement ho sustenta?**
+| **Explicació de l'explicació:** | |
+| --- | --- |
+| **Quina evidència o coneixement ho sustenta?** | |
 
 #### 4. Explicacions alternatives
 
 *Podria haver-hi una altra explicació diferent de la teva? Escriu almenys una alternativa i valora quina és més probable i per què.*
 
-**Explicació alternativa** · **Per què és més o menys probable que la teva?**
+| **Explicació alternativa** | **Per què és més o menys probable que la teva?** |
+| --- | --- |
 
 #### 5. Millor explicació
 
 *Tenint en compte tot l'anterior, quina és l'explicació més sòlida? Què necessitaries saber per estar-ne més segur/a?*
 
-**La meva millor explicació:**
-**Per estar-ne més segur/a necessitaria…**
+| **La meva millor explicació:** | |
+| --- | --- |
+| **Per estar-ne més segur/a necessitaria…** | |
 
 **Clau pedagògica:** el pas 4 (explicacions alternatives) és el que més costa i més val. Generar hipòtesis alternatives i comparar-les és el cor del pensament científic i del raonament causal. Una sola explicació sense alternatives no és raonament: és conjectura. El docent pot modelar aquest pas a les primeres sessions generant ell mateix una explicació alternativa plausible.
 
@@ -2170,28 +2237,31 @@ Abans de començar un tema sobre l’aigua, l’alumnat usa les arrencades per g
 
 Rutina que inverteix la dinàmica de l'aula: en lloc de respondre preguntes, l'alumnat les genera usant **arrencadors de pregunta** que obliguen a diferents tipus de pensament. Primer es generen moltes preguntes sense respondre-les, després s'identifiquen les més potents.
 
-**Alumne/a** · **Data**
-**Tema / Objecte / Situació**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema / Objecte / Situació** | | | |
 
 #### Genera preguntes amb aquests arrencadors
 
 *Completa cada arrencador amb una pregunta sobre el tema. No respondis cap encara: l'objectiu és generar, no respondre.*
 
-**Arrencador** · **La meva pregunta**
-Per què…?
-Què passaria si…?
-Com seria diferent si…?
-Quin és el propòsit de…?
-Què canviaria si…?
-Qui es beneficia / perjudica quan…?
-Què suposem quan…?
-Com podríem saber si…?
+| **Arrencador** | **La meva pregunta** |
+| --- | --- |
+| Per què…? | |
+| Què passaria si…? | |
+| Com seria diferent si…? | |
+| Quin és el propòsit de…? | |
+| Què canviaria si…? | |
+| Qui es beneficia / perjudica quan…? | |
+| Què suposem quan…? | |
+| Com podríem saber si…? | |
 
 #### Selecció i anàlisi
 
-**Quina és la pregunta més potent que has generat? Per què?**
-**Quin arrencador t'ha resultat més difícil de completar? Per què creus que és així?**
-**Quina pregunta t'agradaria investigar o debatre amb el grup?**
+| **Quina és la pregunta més potent que has generat? Per què?** | |
+| --- | --- |
+| **Quin arrencador t'ha resultat més difícil de completar? Per què creus que és així?** | |
+| **Quina pregunta t'agradaria investigar o debatre amb el grup?** | |
 
 **Clau pedagògica:** cada arrencador activa un tipus diferent de pensament: «Per què?» busca causes; «Què passaria si?» activa el pensament hipotètic; «Qui es beneficia?» introdueix perspectiva crítica; «Com podríem saber?» exigeix pensar en evidències. Identificar quin tipus de pregunta activa cada arrencador —i quin li resulta més difícil a l'alumnat— és informació diagnòstica molt valuosa sobre el nivell de pensament del grup.
 
@@ -2844,12 +2914,14 @@ En acabar, l’equip revisa si cada rol ha ajudat a organitzar millor la feina: 
 
 Retalla aquestes fitxes i reparteix-les a l'inici de cada activitat cooperativa. Els rols han de rotar entre sessions perquè tots els membres practiquin cada funció.
 
-**Equip** · **Data**
-**Activitat / Sessió**
+| **Equip** | | **Data** | |
+| --- | --- | --- | --- |
+| **Activitat / Sessió** | | | |
 
-🎯 COORDINADOR/A Alumne/a: ____________________________ Funcions: - Organitza els torns de paraula - Recorda l'objectiu de la tasca - Ajuda a reprendre el focus si l'equip es distreu Ho estic fent bé si… tots poden parlar i l'equip sap en quin pas es troba. · 📝 SECRETARI/A Alumne/a: ____________________________ Funcions: - Registra els acords i conclusions - Anota les respostes o productes de l'equip - Guarda el material generat Ho estic fent bé si… hi ha un registre clar d'allò que ha decidit l'equip.
-📣 PORTAVEU Alumne/a: ____________________________ Funcions: - Comunica al grup classe allò treballat - Representa la veu de l'equip, no només la seva - Resumeix els acords amb claredat Ho estic fent bé si… explico allò que hem decidit entre tots, no només la meva opinió. · ⏱ RESPONSABLE DEL TEMPS Alumne/a: ____________________________ Funcions: - Avisa quan queda la meitat del temps - Ajuda a no allargar-se en un sol punt - Assenyala quan cal tancar i lliurar Ho estic fent bé si… l'equip acaba a temps sense precipitar-se al final.
-🔧 RESPONSABLE DEL MATERIAL Alumne/a: ____________________________ Funcions: - Reparteix i recull els materials de l'activitat - Gestiona recursos digitals o fitxes de l'equip - Assegura que no falta cap material Ho estic fent bé si… l'equip té allò que necessita sense interrompre el professor/a. · 👁 OBSERVADOR/A DE L'EQUIP Alumne/a: ____________________________ Funcions: - Observa si tots participen de forma equilibrada - Detecta si algú no se sent escoltat - En acabar, valora com ha cooperat l'equip Ho estic fent bé si… puc donar un exemple concret d'alguna cosa que ha funcionat bé i alguna cosa a millorar.
+| 🎯 COORDINADOR/A Alumne/a: ____________________________ Funcions: - Organitza els torns de paraula - Recorda l'objectiu de la tasca - Ajuda a reprendre el focus si l'equip es distreu Ho estic fent bé si… tots poden parlar i l'equip sap en quin pas es troba. | 📝 SECRETARI/A Alumne/a: ____________________________ Funcions: - Registra els acords i conclusions - Anota les respostes o productes de l'equip - Guarda el material generat Ho estic fent bé si… hi ha un registre clar d'allò que ha decidit l'equip. |
+| --- | --- |
+| 📣 PORTAVEU Alumne/a: ____________________________ Funcions: - Comunica al grup classe allò treballat - Representa la veu de l'equip, no només la seva - Resumeix els acords amb claredat Ho estic fent bé si… explico allò que hem decidit entre tots, no només la meva opinió. | ⏱ RESPONSABLE DEL TEMPS Alumne/a: ____________________________ Funcions: - Avisa quan queda la meitat del temps - Ajuda a no allargar-se en un sol punt - Assenyala quan cal tancar i lliurar Ho estic fent bé si… l'equip acaba a temps sense precipitar-se al final. |
+| 🔧 RESPONSABLE DEL MATERIAL Alumne/a: ____________________________ Funcions: - Reparteix i recull els materials de l'activitat - Gestiona recursos digitals o fitxes de l'equip - Assegura que no falta cap material Ho estic fent bé si… l'equip té allò que necessita sense interrompre el professor/a. | 👁 OBSERVADOR/A DE L'EQUIP Alumne/a: ____________________________ Funcions: - Observa si tots participen de forma equilibrada - Detecta si algú no se sent escoltat - En acabar, valora com ha cooperat l'equip Ho estic fent bé si… puc donar un exemple concret d'alguna cosa que ha funcionat bé i alguna cosa a millorar. |
 
 **Clau pedagògica:** els rols perden valor si es converteixen en etiquetes sense responsabilitats reals. L'indicador «ho estic fent bé si…» és clau: obliga que cada funció sigui observable. La rotació entre sessions és imprescindible; si sempre coordina la mateixa persona, els altres no desenvolupen aquesta competència. L'observador/a de l'equip és el rol més valuós per a la millora del grup i el més freqüentment omès.
 
@@ -3513,21 +3585,23 @@ En la ronda següent, amb la cita de les sis, responen una altra pregunta: “Qu
 
 Cada alumne/a omple el seu rellotge **abans** de la dinàmica: anota el nom d'un company/a diferent al costat de cada hora (només una cita per hora). Quan el docent indiqui l'hora, cada un/a busca la seva cita i responen junts la pregunta assignada.
 
-**Alumne/a** · **Data**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
 
-**Hora** · **Cita amb** · **Tema o pregunta assignada**
-12
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+| **Hora** | **Cita amb** | **Tema o pregunta assignada** |
+| --- | --- | --- |
+| 12 | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+| 8 | | |
+| 9 | | |
+| 10 | | |
+| 11 | | |
 
 **Clau pedagògica:** la fase de reservar cites (5 min al inici) és moviment físic i contacte social — important per a la motivació. El docent no ha d'assignar qui es cita amb qui: l'alumnat negocia lliurement, cosa que genera interaccions més naturals. Les preguntes assignades a cada hora han de tenir resposta discutible, no només factual; la conversa entre dues persones sobre un concepte és el motor de l'aprenentatge, no la resposta correcta en si.
 
@@ -3684,22 +3758,24 @@ En biologia, el professor mostra la frase: “Cada vegada hi ha més bacteris re
 
 La QFT és un procés en quatre fases que ensenya a generar, millorar i prioritzar preguntes pròpies. Segueix les fases en ordre. **A la fase 1 no respondis cap pregunta**: l'objectiu és produir-ne moltes, no jutjar-les.
 
-**Alumne/a** · **Data**
-**Focus de preguntes (frase, imatge, dada, objecte o situació que proposa el docent)**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Focus de preguntes (frase, imatge, dada, objecte o situació que proposa el docent)** | | | |
 
 #### Fase 1 — Genera preguntes
 
 *Escriu totes les preguntes que se t'acudeixin sobre el focus. Normes: no respondis ni jutgis cap, escriu-les tal com sorgeixen encara que semblin òbvies o estranyes, no les converteixis en afirmacions.*
 
-**#** · **Pregunta** · **Oberta (O) o tancada (T)**
-1
-2
-3
-4
-5
-6
-7
-8
+| **#** | **Pregunta** | **Oberta (O) o tancada (T)** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+| 8 | | |
 
 #### Fase 2 — Classifica: oberta o tancada
 
@@ -3707,22 +3783,25 @@ La QFT és un procés en quatre fases que ensenya a generar, millorar i prioritz
 
 #### Fase 3 — Transforma
 
-**Tria una pregunta **tancada** i converteix-la en oberta:**
-**Tria una pregunta **oberta** i converteix-la en tancada:**
+| **Tria una pregunta **tancada** i converteix-la en oberta:** | |
+| --- | --- |
+| **Tria una pregunta **oberta** i converteix-la en tancada:** | |
 
 #### Fase 4 — Prioritza
 
 *Tria les 3 preguntes més interessants o útils per investigar el tema. Escriu-les aquí i explica breument per què les tries.*
 
-**#** · **Pregunta seleccionada** · **Per què la trio**
-1
-2
-3
+| **#** | **Pregunta seleccionada** | **Per què la trio** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
 
 #### Fase 5 — Reflexió final
 
-**Què has après sobre com formular preguntes?**
-**Què faràs amb les preguntes prioritzades?**
+| **Què has après sobre com formular preguntes?** | |
+| --- | --- |
+| **Què faràs amb les preguntes prioritzades?** | |
 
 **Clau pedagògica:** el focus de preguntes que proposa el docent és decisiu: ha de ser provocador, ambigu o amb tensió suficient per generar curiositat genuïna, però no tan obert que paralitzi. La fase de transformació (oberta↔tancada) és on ocorre l'aprenentatge més metacognitiu: l'alumnat descobreix que el tipus de pregunta determina el tipus de coneixement que es pot obtenir.
 
@@ -4139,18 +4218,21 @@ _Adaptat de: Colegio Ártica. (2018). Construimos nuestro propio aprendizaje._
 
 Cada membre de l'equip escriu la seva resposta individual a la seva secció. Després es posa en comú i s'anota al centre només allò que tots accepten. El portaveu comunica el consens al grup classe.
 
-**Equip** · **Data**
-**Pregunta / Problema / Situació**
+| **Equip** | | **Data** | |
+| --- | --- | --- | --- |
+| **Pregunta / Problema / Situació** | | | |
 
-ALUMNE/A 1: · ALUMNE/A 2:
-CONSENS DE L'EQUIP Només allò que tots acceptem després de la posada en comú
-ALUMNE/A 3: · ALUMNE/A 4:
+| ALUMNE/A 1: | ALUMNE/A 2: |
+| --- | --- |
+| CONSENS DE L'EQUIP Només allò que tots acceptem després de la posada en comú | |
+| ALUMNE/A 3: | ALUMNE/A 4: |
 
 #### Reflexió de l'equip
 
-**En quins aspectes hi havia més divergència entre les respostes individuals?**
-**Quin argument o raonament ha estat clau per arribar al consens?**
-**Ha quedat alguna discrepància sense resoldre? Quina?**
+| **En quins aspectes hi havia més divergència entre les respostes individuals?** | |
+| --- | --- |
+| **Quin argument o raonament ha estat clau per arribar al consens?** | |
+| **Ha quedat alguna discrepància sense resoldre? Quina?** | |
 
 **Clau pedagògica:** el valor del Placemat és en el contrast entre les respostes individuals i el procés de consens. Si totes les respostes individuals són iguals, la dinàmica aporta poc. La pregunta o problema escollit ha de tenir prou obertura perquè persones diferents arribin a respostes diferents des dels seus coneixements o punts de vista. El portaveu ha d'explicar *com* s'ha arribat al consens, no només *quin* és.
 
@@ -5142,8 +5224,9 @@ A partir d'aquestes preguntes, cada grup revisa la seva explicació i redacta un
 
 Informe d'investigació ADI. Completa les seccions en ordre: la pregunta i el mètode **abans** de recollir dades, l'argument **després**, i la revisió després de la sessió d'argumentació amb altres grups.
 
-**Alumne/a / Equip** · **Data**
-**Assignatura**
+| **Alumne/a / Equip** | | **Data** | |
+| --- | --- | --- | --- |
+| **Assignatura** | | | |
 
 #### 1. Pregunta guia
 
@@ -5155,30 +5238,34 @@ Informe d'investigació ADI. Completa les seccions en ordre: la pregunta i el m�
 
 #### 3. Evidències recollides
 
-**#** · **Dada / Observació / Resultat** · **Font o procedència**
-1
-2
-3
-4
+| **#** | **Dada / Observació / Resultat** | **Font o procedència** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
 
 #### 4. Argument tentatiu
 
-**Afirmació (resposta a la pregunta guia)**
-**Evidències seleccionades que la sustenten**
-**Justificació: per què aquestes evidències sostenen l'afirmació**
+| **Afirmació (resposta a la pregunta guia)** | |
+| --- | --- |
+| **Evidències seleccionades que la sustenten** | |
+| **Justificació: per què aquestes evidències sostenen l'afirmació** | |
 
 #### 5. Revisió després de la sessió d'argumentació
 
 *Després de presentar l'argument i rebre preguntes o crítiques d'altres grups:*
 
-**Quina objecció o pregunta de l'altre grup ha estat més difícil de respondre?**
-**Què canviaries en l'afirmació, les evidències o la justificació després del debat?**
-**Quina nova pregunta d'investigació obre aquest treball?**
+| **Quina objecció o pregunta de l'altre grup ha estat més difícil de respondre?** | |
+| --- | --- |
+| **Què canviaries en l'afirmació, les evidències o la justificació després del debat?** | |
+| **Quina nova pregunta d'investigació obre aquest treball?** | |
 
 #### 6. Reflexió final
 
-**En quin aspecte ha estat més sòlida la vostra investigació?**
-**Quina limitació té i com podria superar-se?**
+| **En quin aspecte ha estat més sòlida la vostra investigació?** | |
+| --- | --- |
+| **Quina limitació té i com podria superar-se?** | |
 
 **Clau pedagògica:** el tret distintiu de l'ADI respecte a altres indagacions és la fase d'argumentació pública: el grup ha de defensar el seu argument davant d'altres i revisar-lo després. Sense aquesta fase, és una pràctica de laboratori convencional. La secció 5 documenta l'aprenentatge que ocorre en aquell moment: la dificultat de defensar un argument davant de preguntes reals és el motor del canvi conceptual.
 
@@ -6026,15 +6113,18 @@ En matemàtiques, per al concepte “funció”, l'alumnat escriu una definició
 
 Organitzador gràfic per comprendre un concepte amb precisió. Els quatre quadrants obliguen a distingir la definició, les característiques essencials, els casos que sí pertanyen al concepte i els que no. Els **no exemples** són el quadrant més exigent: requereixen comprendre el concepte prou bé com per saber què exclou.
 
-**Alumne/a** · **Data**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
 
-DEFINICIÓ Explica el concepte amb les teves pròpies paraules. Què és, què significa, què el distingeix. · CARACTERÍSTIQUES ESSENCIALS Propietats o trets que aquest concepte sempre té. Sense elles, deixa de ser el que és.
-EXEMPLES Casos concrets que sí són aquest concepte. Com més variats, millor. · NO EXEMPLES Casos que NO són aquest concepte, tot i assemblar-s'hi. Explica breument per què queden fora.
+| DEFINICIÓ Explica el concepte amb les teves pròpies paraules. Què és, què significa, què el distingeix. | CARACTERÍSTIQUES ESSENCIALS Propietats o trets que aquest concepte sempre té. Sense elles, deixa de ser el que és. |
+| --- | --- |
+| EXEMPLES Casos concrets que sí són aquest concepte. Com més variats, millor. | NO EXEMPLES Casos que NO són aquest concepte, tot i assemblar-s'hi. Explica breument per què queden fora. |
 
 #### Revisió
 
-**Hi ha algun exemple límit que genera dubte? Per què?**
-**Quina característica essencial és la més difícil d'explicar?**
+| **Hi ha algun exemple límit que genera dubte? Per què?** | |
+| --- | --- |
+| **Quina característica essencial és la més difícil d'explicar?** | |
 
 **Clau pedagògica:** els no exemples són l'indicador més fiable de comprensió real. Algú que sap definir un concepte però no sap què exclou no l'ha comprès del tot. Un no exemple especialment valuós és el que *gairebé* pertany al concepte però no arriba: identificar per què no és suficient exigeix precisió conceptual genuïna. Els casos límit que generen dubte en la revisió solen ser els més fèrtils per a la discussió.
 
@@ -6167,16 +6257,19 @@ En història, durant una explicació sobre la Segona República, l’alumnat pre
 
 Sistema de presa d'apunts amb tres zones diferenciades. La columna de **paraules clau i preguntes** s'omple *després* de la classe, no durant. La **síntesi** s'escriu al final. Per repassar: tapa la zona de notes i respon usant només la columna esquerra.
 
-**Alumne/a** · **Data**
-**Assignatura / Tema** · **Sessió**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Assignatura / Tema** | | **Sessió** | |
 
-**PARAULES CLAU I PREGUNTES Emplenar després de classe. Paraules clau, preguntes per repassar, conceptes centrals.** · **NOTES PRINCIPALS Durant la classe o la lectura. Idees principals, dades, explicacions, esquemes.**
-SÍNTESI — Escriu amb les teves pròpies paraules la idea principal de la sessió (2–4 frases)
+| **PARAULES CLAU I PREGUNTES Emplenar després de classe. Paraules clau, preguntes per repassar, conceptes centrals.** | **NOTES PRINCIPALS Durant la classe o la lectura. Idees principals, dades, explicacions, esquemes.** |
+| --- | --- |
+| SÍNTESI — Escriu amb les teves pròpies paraules la idea principal de la sessió (2–4 frases) | |
 
 #### Després del repàs
 
-**Quina pregunta de la columna esquerra no has pogut respondre sense mirar les notes?**
-**Què necessites repassar o consultar abans de la propera classe?**
+| **Quina pregunta de la columna esquerra no has pogut respondre sense mirar les notes?** | |
+| --- | --- |
+| **Què necessites repassar o consultar abans de la propera classe?** | |
 
 **Clau pedagògica:** el valor de Cornell no està en prendre apunts durant la classe, sinó en els dos passos posteriors: formular preguntes a la columna esquerra (que activa l'elaboració) i usar aquestes preguntes per repassar tapant les notes (pràctica de recuperació). Sense aquests dos passos, la plantilla és només una forma d'organitzar informació, no un sistema d'aprenentatge.
 
@@ -6337,14 +6430,16 @@ Per repassar el tema de l’aparell digestiu, l’alumnat dibuixa al centre un e
 
 Organitza la informació de forma radial: la idea central al centre, branques principals cap als conceptes més importants, i sub-branques amb detalls i connexions. Usa **paraules clau** (no frases llargues), un color per branca i imatges o icones si ajuden a recordar.
 
-**Alumne/a** · **Data**
-**Tema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
 #### Revisió del mapa
 
-**Quina branca té més sub-branques? Què diu això de la teva comprensió del tema?**
-**Hi ha alguna connexió entre branques diferents que podries afegir? Quina?**
-**Quina branca o sub-branca ha estat més difícil de desenvolupar? Per què?**
+| **Quina branca té més sub-branques? Què diu això de la teva comprensió del tema?** | |
+| --- | --- |
+| **Hi ha alguna connexió entre branques diferents que podries afegir? Quina?** | |
+| **Quina branca o sub-branca ha estat més difícil de desenvolupar? Per què?** | |
 
 **Clau pedagògica:** l'error més freqüent és escriure frases completes a les branques en lloc de paraules clau. Una branca amb «els ecosistemes es veuen afectats per la temperatura» aporta poc; «temperatura → ecosistemes → biodiversitat» obliga a pensar en relacions. Les connexions entre branques (fletxes creuades) són l'indicador més clar de comprensió sistèmica: si l'alumnat les dibuixa espontàniament, ha anat més enllà de la memorització.
 
@@ -6389,22 +6484,25 @@ Davant el problema «a classe es perd molt temps en començar les sessions», el
 
 Diagrama de causa-efecte per analitzar de forma ordenada les causes d'un problema. Escriu el problema al cap del peix, defineix les categories de causes a les espines principals i afegeix causes concretes a les sub-espines. Aprofundeix preguntant «per què?» a cada causa abans de passar a la categoria següent.
 
-**Alumne/a** · **Data**
-**Problema o efecte a analitzar**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Problema o efecte a analitzar** | | | |
 
-**Categoria** · **Causes identificades en aquesta categoria** · **Causa més probable**
-Categoria 1
-Categoria 2
-Categoria 3
-Categoria 4
-Categoria 5
-Categoria 6
+| **Categoria** | **Causes identificades en aquesta categoria** | **Causa més probable** |
+| --- | --- | --- |
+| Categoria 1 | | |
+| Categoria 2 | | |
+| Categoria 3 | | |
+| Categoria 4 | | |
+| Categoria 5 | | |
+| Categoria 6 | | |
 
 #### Anàlisi final
 
-**Quina causa o categoria sembla tenir més influència sobre el problema?**
-**Hi ha causes que es repeteixen en més d'una categoria (causes transversals)?**
-**Sobre quina causa seria més fàcil o més efectiu actuar? Per què?**
+| **Quina causa o categoria sembla tenir més influència sobre el problema?** | |
+| --- | --- |
+| **Hi ha causes que es repeteixen en més d'una categoria (causes transversals)?** | |
+| **Sobre quina causa seria més fàcil o més efectiu actuar? Per què?** | |
 
 **Clau pedagògica:** les categories de causes (les espines principals) són la decisió més important del diagrama. Les categories genèriques del tipus «persones, mètodes, materials» funcionen bé en contextos industrials; en educació o ciències socials pot ser més útil definir categories específiques del problema (històriques, econòmiques, socials, culturals). El diagrama perd valor si s'omple ràpid sense preguntar «i per què passa aquesta causa?» a cada sub-espina.
 
@@ -6449,15 +6547,17 @@ En estudiar l’Edat Contemporània, l’alumnat construeix una línia de temps 
 
 Representació cronològica d'esdeveniments, etapes o processos. Indica les dates a la fila superior i els esdeveniments a la fila inferior. Marca durades amb una barra si l'esdeveniment s'estén en el temps. En acabar, interpreta la línia: no n'hi ha prou amb situar fets; cal llegir què revelen les seqüències, ritmes i relacions.
 
-**Alumne/a** · **Data**
-**Tema / Període representat** · **Escala**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema / Període representat** | | **Escala** | |
 
 #### Interpretació
 
-**Quin període concentra més canvis o esdeveniments? Per què?**
-**Hi ha fets que ocorren simultàniament i que es relacionen entre si?**
-**Quin esdeveniment sembla ser causa d'un altre posterior? Quin?**
-**Quin període de calma o absència de canvis crida l'atenció?**
+| **Quin període concentra més canvis o esdeveniments? Per què?** | |
+| --- | --- |
+| **Hi ha fets que ocorren simultàniament i que es relacionen entre si?** | |
+| **Quin esdeveniment sembla ser causa d'un altre posterior? Quin?** | |
+| **Quin període de calma o absència de canvis crida l'atenció?** | |
 
 **Clau pedagògica:** situar dates i esdeveniments és el pas més fàcil i el menys formatiu. L'aprenentatge real ocorre en la interpretació: detectar ritmes, simultaneïtats, causes i conseqüències, o períodes d'acceleració o estancament. Sense les preguntes d'interpretació, la línia de temps és un exercici de memòria; amb elles, és un instrument d'anàlisi històrica, científica o social.
 
@@ -6502,16 +6602,19 @@ Per comparar mamífers i ocells, l’alumnat dibuixa dos cercles. En el de mamí
 
 Organitzador gràfic per comparar dos (o tres) conceptes, textos, fenòmens o elements. La zona exclusiva de cada cercle conté les característiques pròpies; la zona d'intersecció, les compartides. L'anàlisi real ocorre en interpretar *què significa* allò que comparteixen i allò que no.
 
-**Alumne/a** · **Data**
-**Element A** · **Element B**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Element A** | | **Element B** | |
 
-Només A — característiques exclusives · En comú — A ∩ B · Només B — característiques exclusives
+| Només A — característiques exclusives | En comú — A ∩ B | Només B — característiques exclusives |
+| --- | --- | --- |
 
 #### Interpretació
 
-**Què revela la zona comuna que no veuries estudiant cada element per separat?**
-**Quina és la diferència més significativa i per què?**
-**Alguna característica ha estat difícil de situar? Per què pertany a una zona i no a l'altra?**
+| **Què revela la zona comuna que no veuries estudiant cada element per separat?** | |
+| --- | --- |
+| **Quina és la diferència més significativa i per què?** | |
+| **Alguna característica ha estat difícil de situar? Per què pertany a una zona i no a l'altra?** | |
 
 **Clau pedagògica:** els elements que són difícils de situar (pertanyen a A, a B o als dos?) són els més formatius. Aquesta dificultat revela comprensió imprecisa del concepte o genuïna ambigüitat del fenomen, i totes dues són valuoses per a la discussió. La pregunta «què revela la zona comuna?» impedeix que l'exercici quedi en classificació mecànica i el converteix en anàlisi conceptual.
 
@@ -6605,8 +6708,9 @@ En un projecte d'investigació, cada alumne acorda amb el professor la pregunta 
 
 Acord entre l'alumne o alumna i el docent sobre què aprendre, com i amb quins criteris d'avaluació. Completar cada apartat abans d'iniciar el treball.
 
-**Alumne/a** · **Data**
-**Assignatura / Projecte**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Assignatura / Projecte** | | | |
 
 #### Objectiu d'aprenentatge
 
@@ -6616,11 +6720,12 @@ Acord entre l'alumne o alumna i el docent sobre què aprendre, com i amb quins c
 
 *Què faré per assolir l'objectiu? Què lliuraré o presentaré?*
 
-**#** · **Tasca / Producte** · **Data límit**
-1
-2
-3
-4
+| **#** | **Tasca / Producte** | **Data límit** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
 
 #### Recursos
 
@@ -6630,13 +6735,16 @@ Acord entre l'alumne o alumna i el docent sobre què aprendre, com i amb quins c
 
 *Com sabrem que s'ha assolit l'objectiu? Què es valorarà?*
 
-**Criteri** · **Indicador d'assoliment** · **Pes (%)**
+| **Criteri** | **Indicador d'assoliment** | **Pes (%)** |
+| --- | --- | --- |
 
 #### Revisió i seguiment
 
-**Data revisió** · **Observacions** · **Es compleix?**
+| **Data revisió** | **Observacions** | **Es compleix?** |
+| --- | --- | --- |
 
-**Signatura de l'alumne/a** · **Signatura del docent**
+| **Signatura de l'alumne/a** | **Signatura del docent** |
+| --- | --- |
 
 Aquest contracte es pot revisar i renegociar si les circumstàncies canvien, sempre amb acord de les dues parts.
 
@@ -6686,20 +6794,23 @@ Després d'una exposició oral, cada alumne valora claredat, domini del contingu
 
 Instrument d'autoavaluació o coavaluació visual. L'alumnat marca a cada sector el nivell assolit: **més a prop del centre = menor assoliment, més a prop del marge = major assoliment**. Abans d'usar la diana, escriu els criteris a la taula inferior.
 
-**Alumne/a** · **Data**
-**Tasca / Activitat avaluada**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tasca / Activitat avaluada** | | | |
 
-**Sector** · **Criteri d'avaluació** · **Nivell (1–4)** · **Reflexió o evidència**
-C1
-C2
-C3
-C4
-C5
+| **Sector** | **Criteri d'avaluació** | **Nivell (1–4)** | **Reflexió o evidència** |
+| --- | --- | --- | --- |
+| C1 | | | |
+| C2 | | | |
+| C3 | | | |
+| C4 | | | |
+| C5 | | | |
 
 #### Reflexió global
 
-**En quin criteri has obtingut el nivell més alt? A què ho atribueixes?**
-**En quin criteri hi ha més marge de millora? Què faries diferent?**
+| **En quin criteri has obtingut el nivell més alt? A què ho atribueixes?** | |
+| --- | --- |
+| **En quin criteri hi ha més marge de millora? Què faries diferent?** | |
 
 **Clau pedagògica:** la diana mostra el perfil d'assoliment de manera visual: un alumne pot veure d'un cop d'ull quins criteris domina i quins necessita reforçar. La columna «reflexió o evidència» és la que converteix la diana en aprenentatge: obliga a justificar el nivell marcat amb alguna cosa concreta, no a autoavaluar-se intuïtivament. Usar la diana abans de la tasca (quin nivell espero assolir?) i després (quin he assolit?) afegeix la dimensió de planificació i metacognició.
 
@@ -6749,23 +6860,27 @@ Després de treballar la mitosi, els alumnes escriuen en una targeta la diferèn
 
 El docent reserva 1–2 minuts al final de l'explicació o sessió. L'alumnat respon per escrit. Les respostes es llegeixen abans de la classe següent per ajustar-ne l'inici o detectar errors conceptuals freqüents.
 
-**Alumne/a** · **Data**
-**Tema / Sessió**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema / Sessió** | | | |
 
 #### Modalitat estàndard
 
-**Quina idea important has après avui?**
-**Quin punt t'ha quedat menys clar o et genera més dubtes?**
+| **Quina idea important has après avui?** | |
+| --- | --- |
+| **Quin punt t'ha quedat menys clar o et genera més dubtes?** | |
 
 #### Modalitat orientada a la transferència
 
-**Quin exemple concret podries posar del que s'ha treballat avui?**
-**En quina altra situació o context podries aplicar el que has après?**
+| **Quin exemple concret podries posar del que s'ha treballat avui?** | |
+| --- | --- |
+| **En quina altra situació o context podries aplicar el que has après?** | |
 
 #### Modalitat orientada a la comprensió profunda
 
-**Quina pregunta formularàs per comprovar si algú ha entès realment el tema?**
-**Quina connexió trobes entre el d'avui i alguna cosa que ja sabies abans?**
+| **Quina pregunta formularàs per comprovar si algú ha entès realment el tema?** | |
+| --- | --- |
+| **Quina connexió trobes entre el d'avui i alguna cosa que ja sabies abans?** | |
 
 **Clau pedagògica:** el Minute Paper és una eina d'avaluació formativa per al docent, no només per a l'alumne. El seu valor depèn del que fa el docent amb les respostes: iniciar la sessió següent reprenent els dubtes més freqüents, corregir un error conceptual que apareix en diversos papers o confirmar que un concepte s'ha assimilat bé. Sense aquesta lectura i resposta, el Minute Paper perd la seva funció diagnòstica.
 
@@ -6814,13 +6929,15 @@ Després d'explicar les funcions exponencials, diversos alumnes indiquen que el 
 
 Al final de l'explicació o activitat, l'alumnat identifica l'aspecte que li ha resultat **més confús o difícil**. La resposta ha de ser concreta: no «no he entès res», sinó exactament quina part i per què costa.
 
-**Alumne/a** · **Data**
-**Tema / Sessió**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Tema / Sessió** | | | |
 
-**Què ha estat el més confús o difícil del que s'ha treballat avui?**
-**Per què creus que t'ha resultat confús? (Manca de base prèvia, el ritme de l'explicació, el vocabulari, la connexió amb un altre concepte…)**
-**Què necessitaries per entendre-ho millor? (Un altre exemple, una explicació més lenta, practicar-ho, relacionar-ho amb alguna cosa coneguda…)**
-**Pots formular el teu dubte com una pregunta concreta?**
+| **Què ha estat el més confús o difícil del que s'ha treballat avui?** | |
+| --- | --- |
+| **Per què creus que t'ha resultat confús? (Manca de base prèvia, el ritme de l'explicació, el vocabulari, la connexió amb un altre concepte…)** | |
+| **Què necessitaries per entendre-ho millor? (Un altre exemple, una explicació més lenta, practicar-ho, relacionar-ho amb alguna cosa coneguda…)** | |
+| **Pots formular el teu dubte com una pregunta concreta?** | |
 
 **Clau pedagògica:** la pregunta «Què necessitaries per entendre-ho millor?» transforma el dubte passiu en informació accionable. En agrupar les respostes abans de la sessió següent, el docent detecta si la confusió és puntual (un alumne) o sistèmica (diversos comparteixen la mateixa dificultat). En el segon cas, mereix un tractament col·lectiu abans d'avançar.
 
@@ -6997,13 +7114,14 @@ Després canvien els rols, intercanvien les targetes i busquen una nova parella.
 
 Imprimeix aquesta pàgina, plega cada fila per la línia central (la pregunta queda al davant, la resposta al darrere) i retalla per les línies discontínues. Cada alumne/a rep una targeta abans de començar la dinàmica.
 
-**PREGUNTA — cara davantera** · **✂ plegar** · **RESPOSTA — cara posterior**
-Targeta 1 · Assignatura: __________ Tema: __________ · ✂ plegar
-Targeta 2 · Assignatura: __________ Tema: __________ · ✂ plegar
-Targeta 3 · Assignatura: __________ Tema: __________ · ✂ plegar
-Targeta 4 · Assignatura: __________ Tema: __________ · ✂ plegar
-Targeta 5 · Assignatura: __________ Tema: __________ · ✂ plegar
-Targeta 6 · Assignatura: __________ Tema: __________ · ✂ plegar
+| **PREGUNTA — cara davantera** | **✂ plegar** | **RESPOSTA — cara posterior** |
+| --- | --- | --- |
+| Targeta 1 · Assignatura: __________ Tema: __________ | ✂ plegar | |
+| Targeta 2 · Assignatura: __________ Tema: __________ | ✂ plegar | |
+| Targeta 3 · Assignatura: __________ Tema: __________ | ✂ plegar | |
+| Targeta 4 · Assignatura: __________ Tema: __________ | ✂ plegar | |
+| Targeta 5 · Assignatura: __________ Tema: __________ | ✂ plegar | |
+| Targeta 6 · Assignatura: __________ Tema: __________ | ✂ plegar | |
 
 **Clau pedagògica:** la targeta ha de tenir una pregunta amb una resposta clara i verificable. Les millors preguntes són les que el propi alumnat podria formular després d'estudiar el tema: aquest procés d'elaborar preguntes (abans de la dinàmica) és tan formatiu com la dinàmica en si. Evitar preguntes de sí/no i preguntes amb resposta ambigua; a la dinàmica, l'alumne A dóna feedback immediat, cosa que requereix que la resposta sigui inequívoca.
 
@@ -7128,29 +7246,32 @@ Un alumne pot respondre: “He entès que les fàbriques van canviar l’organit
 
 L'alumnat completa aquest tiquet **abans de sortir de classe**. Permet al docent detectar què s'ha comprès, quins dubtes persisteixen i com s'ha viscut la sessió. Es recomana llegir-los abans de la classe següent per ajustar-ne l'inici.
 
-**Alumne/a** · **Data**
-**Assignatura / Tema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Assignatura / Tema** | | | |
 
 #### Modalitat 3 · 2 · 1
 
-**3** · **Tres coses que he après avui**
-1
-2
-3
-**2** · **Dos dubtes o preguntes que m'han quedat**
-1
-2
-**1** · **Una connexió amb alguna cosa que ja sabia o una opinió sobre la sessió**
+| **3** | **Tres coses que he après avui** |
+| --- | --- |
+| 1 | |
+| 2 | |
+| 3 | |
+| **2** | **Dos dubtes o preguntes que m'han quedat** |
+| 1 | |
+| 2 | |
+| **1** | **Una connexió amb alguna cosa que ja sabia o una opinió sobre la sessió** |
 
 #### Variant: preguntes obertes
 
 Alternativa al format 3·2·1. Tria les preguntes que millor s'adaptin a la sessió.
 
-**Pregunta** · **Resposta de l'alumne/a**
-Què és el més important que has après avui?
-Quina part t'ha resultat més difícil d'entendre?
-Quina pregunta t'emportes a casa?
-Com de segur/a et sents amb el tema? (1–5)
+| **Pregunta** | **Resposta de l'alumne/a** |
+| --- | --- |
+| Què és el més important que has après avui? | |
+| Quina part t'ha resultat més difícil d'entendre? | |
+| Quina pregunta t'emportes a casa? | |
+| Com de segur/a et sents amb el tema? (1–5) | |
 
 **Clau pedagògica:** el valor del tiquet de sortida no està en omplir-lo, sinó en el que fa el docent amb la informació. Llegir els tiquets abans de la sessió següent i començar reprenant els dubtes més freqüents tanca el cicle formatiu i reforça la percepció de l'alumnat que la seva veu importa.
 
@@ -7211,26 +7332,30 @@ El revisor assenyala una idea clara del text, una part que no s'entén bé i una
 
 Guia per revisar el treball d'un company o companya. La revisió útil és concreta, respectuosa i orientada a millorar. No es tracta de corregir errors: es tracta de contrastar el treball amb criteris clars i proposar passos de millora específics.
 
-**Treball revisat** · **Data**
-**Autor/a del treball** · **Revisor/a**
-**Tasca / Activitat**
+| **Treball revisat** | | **Data** | |
+| --- | --- | --- | --- |
+| **Autor/a del treball** | | **Revisor/a** | |
+| **Tasca / Activitat** | | | |
 
 #### Criteris de revisió
 
 *Avalua cada criteri i afegeix un comentari concret. Si no apareix un criteri rellevant, afegeix-lo a les files en blanc.*
 
-**Criteri** · **Assolit ✓** · **Parcial △** · **Per millorar ✗** · **Comentari concret**
+| **Criteri** | **Assolit ✓** | **Parcial △** | **Per millorar ✗** | **Comentari concret** |
+| --- | --- | --- | --- | --- |
 
 #### Propostes de millora
 
-**Aspecte més assolit del treball (sigues específic/a)**
-**Proposta de millora més important (descriu exactament què fer)**
-**Una pregunta que et fa aquest treball**
+| **Aspecte més assolit del treball (sigues específic/a)** | |
+| --- | --- |
+| **Proposta de millora més important (descriu exactament què fer)** | |
+| **Una pregunta que et fa aquest treball** | |
 
 #### Resposta de l'autor/a (a emplenar després de llegir la revisió)
 
-**Quin canvi aplicaràs a la versió millorada?**
-**Hi ha algun comentari amb el qual no estàs d'acord? Per què?**
+| **Quin canvi aplicaràs a la versió millorada?** | |
+| --- | --- |
+| **Hi ha algun comentari amb el qual no estàs d'acord? Per què?** | |
 
 **Clau pedagògica:** la revisió entre iguals falla quan els comentaris són vagues («està bé» o «millora l'estructura») o quan l'autor no respon al feedback. Els dos elements més importants són: (1) que els comentaris concrets de millora descriguin *exactament què fer*, no només què falta; (2) que l'autor respongui activament decidint què canvia i per què. Sense la resposta de l'autor, el cicle formatiu queda incomplet.
 
@@ -7275,8 +7400,9 @@ Després d'una exposició oral sobre un problema ambiental, un company escriu: �
 
 Formulari de feedback per revisar una producció pròpia o d'un company o companya. Les **estrelles** reconeixen el que funciona bé. El **desig** proposa una millora concreta. El feedback útil és sempre específic: anomena quina part, quina frase, quin aspecte.
 
-**Treball revisat** · **Data**
-**Autor/a del treball** · **Revisor/a**
+| **Treball revisat** | | **Data** | |
+| --- | --- | --- | --- |
+| **Autor/a del treball** | | **Revisor/a** | |
 
 #### ⭐ Estrella 1 — Un aspecte assolit
 
@@ -7294,7 +7420,8 @@ Formulari de feedback per revisar una producció pròpia o d'un company o compan
 
 *Després de llegir el feedback: quin canvi aplicaràs? Hi ha alguna cosa amb la qual no estàs d'acord?*
 
-**Canvi que aplicaré** · **Per què l'aplicaré (o per què no)**
+| **Canvi que aplicaré** | **Per què l'aplicaré (o per què no)** |
+| --- | --- |
 
 **Clau pedagògica:** el desig és la part més difícil de formular bé. Ensenyar l'alumnat a passar de «millora l'explicació» a «al paràgraf 3, afegeix una frase que expliqui per què passa X» requereix pràctica i modelatge. La «resposta de l'autor/a» tanca el cicle: sense ella el feedback és un monòleg, no una conversa d'aprenentatge.
 
@@ -7875,18 +8002,22 @@ La tècnica ajuda que l'alumnat no només defensi una posició, sinó que recone
 
 El model de Toulmin descompon un argument en sis elements. Els tres centrals són obligatoris (afirmació, dades, garantia); els tres complementaris afegeixen precisió i solidesa. Completa primer els tres centrals i després afegeix els complementaris.
 
-**Alumne/a** · **Data**
-**Qüestió / Text / Problema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Qüestió / Text / Problema** | | | |
 
-D — DADES / EVIDÈNCIES Fets, observacions, resultats o informació que sustenta l'afirmació. · → · G — GARANTIA Principi, regla o raonament que connecta les dades amb l'afirmació. · → · A — AFIRMACIÓ La conclusió o tesi que es defensa.
+| D — DADES / EVIDÈNCIES Fets, observacions, resultats o informació que sustenta l'afirmació. | → | G — GARANTIA Principi, regla o raonament que connecta les dades amb l'afirmació. | → | A — AFIRMACIÓ La conclusió o tesi que es defensa. |
+| --- | --- | --- | --- | --- |
 
-S — SUPORT (opcional) Suport addicional a la garantia: teoria, llei, font o consens expert que la recolza. · M — MATISADOR (opcional) Grau de certesa o abast de l'afirmació: «probablement», «en la majoria dels casos», «segons les dades disponibles»… · RF — REFUTACIÓ (opcional) Condicions, excepcions o objeccions que limitarien o negarien l'afirmació.
+| S — SUPORT (opcional) Suport addicional a la garantia: teoria, llei, font o consens expert que la recolza. | M — MATISADOR (opcional) Grau de certesa o abast de l'afirmació: «probablement», «en la majoria dels casos», «segons les dades disponibles»… | RF — REFUTACIÓ (opcional) Condicions, excepcions o objeccions que limitarien o negarien l'afirmació. |
+| --- | --- | --- |
 
 #### Revisió de l'argument
 
-**La garantia estableix una relació lògica clara entre les dades i l'afirmació?** · ☐ Sí ☐ No ☐ A mitges
-**Les dades són suficients per sostenir l'afirmació?** · ☐ Sí ☐ No ☐ A mitges
-**La refutació debilita o matisa l'argument? Com hi respondries?**
+| **La garantia estableix una relació lògica clara entre les dades i l'afirmació?** | ☐ Sí ☐ No ☐ A mitges |
+| --- | --- |
+| **Les dades són suficients per sostenir l'afirmació?** | ☐ Sí ☐ No ☐ A mitges |
+| **La refutació debilita o matisa l'argument? Com hi respondries?** | |
 
 **Clau pedagògica:** la *garantia* és l'element més difícil i més valuós. No és una evidència addicional; és el principi que explica *per què* les dades permeten arribar a l'afirmació. Sense garantia explícita, els arguments són afirmacions recolzades per dades però sense la connexió lògica que les uneix. La refutació no debilita l'argument: el fa més sòlid en mostrar que l'autor ha anticipat els seus límits.
 
@@ -7932,24 +8063,29 @@ En ciutadania, l'alumnat construeix un mapa sobre la pregunta: “S'ha de limita
 
 Organitzador visual per representar l'estructura d'un argument: la tesi, les raons que la sustenten, les evidències de cada raó, les objeccions possibles i les respostes a aquestes objeccions. Completa primer la tesi i les raons; afegeix evidències i objeccions després.
 
-**Alumne/a** · **Data**
-**Qüestió / Text / Problema**
+| **Alumne/a** | | **Data** | |
+| --- | --- | --- | --- |
+| **Qüestió / Text / Problema** | | | |
 
-TESI — Afirmació principal que es defensa
+| TESI — Afirmació principal que es defensa |
+| --- |
 
 ↓ sustentada per ↓
 
-RAÓ 1 · RAÓ 2 · RAÓ 3
-Evidències: · Evidències: · Evidències:
+| RAÓ 1 | RAÓ 2 | RAÓ 3 |
+| --- | --- | --- |
+| Evidències: | Evidències: | Evidències: |
 
 #### Objeccions i respostes
 
-**Objecció o contraargument possible** · **Resposta o matís des de la tesi**
+| **Objecció o contraargument possible** | **Resposta o matís des de la tesi** |
+| --- | --- |
 
 #### Revisió final de l'argument
 
-**La raó més feble de l'argument? Quina evidència addicional la reforçaria?**
-**L'objecció més difícil de rebatir? Com matisaries la tesi per aquesta causa?**
+| **La raó més feble de l'argument? Quina evidència addicional la reforçaria?** | |
+| --- | --- |
+| **L'objecció més difícil de rebatir? Com matisaries la tesi per aquesta causa?** | |
 
 **Clau pedagògica:** el mapa d'arguments fa visible l'arquitectura del raonament. Una tesi amb tres raons fortes però sense objeccions ni respostes és un argument incomplet: anticipar objeccions i respondre-les és el que distingeix l'argumentació sofisticada de la simple defensa d'una posició. La revisió final, centrada en la raó més feble i l'objecció més difícil, és el pas més honest i més útil del procés.
 
@@ -8919,16 +9055,19 @@ Abans d’exposar, cada grup revisa la seva presentació amb la rúbrica i detec
 
 Plantilla genèrica de rúbrica analítica. Defineix els criteris de qualitat de la tasca i els nivells d'assoliment per a cadascun. Comparteix la rúbrica amb l'alumnat **abans** de realitzar la tasca: la seva funció principal és orientar el treball, no només qualificar-lo.
 
-**Tasca / Activitat** · **Data**
-**Assignatura** · **Curs**
+| **Tasca / Activitat** | | **Data** | |
+| --- | --- | --- | --- |
+| **Assignatura** | | **Curs** | |
 
-**Criteri** · **Excel·lent (4) Supera les expectatives** · **Satisfactori (3) Compleix les expectatives** · **En procés (2) Compleix parcialment** · **Inicial (1) No compleix** · **Pes (%)**
-Total (suma ponderada) · 100 %
+| **Criteri** | **Excel·lent (4) Supera les expectatives** | **Satisfactori (3) Compleix les expectatives** | **En procés (2) Compleix parcialment** | **Inicial (1) No compleix** | **Pes (%)** |
+| --- | --- | --- | --- | --- | --- |
+| Total (suma ponderada) | 100 % | | | | |
 
 #### Usos d'aquesta rúbrica
 
-**Abans de la tasca** · **Durant el procés** · **En avaluar**
-L'alumnat llegeix la rúbrica per entendre què s'espera i com organitzar el seu treball. · L'alumnat l'usa per revisar el seu esborrany i detectar què millorar abans de lliurar. · El docent, el propi alumne o un company/a l'usen per avaluar i donar feedback concret.
+| **Abans de la tasca** | **Durant el procés** | **En avaluar** |
+| --- | --- | --- |
+| L'alumnat llegeix la rúbrica per entendre què s'espera i com organitzar el seu treball. | L'alumnat l'usa per revisar el seu esborrany i detectar què millorar abans de lliurar. | El docent, el propi alumne o un company/a l'usen per avaluar i donar feedback concret. |
 
 **Clau pedagògica:** una rúbrica útil descriu comportaments observables, no valoracions genèriques. «Explica les idees amb claredat i exemples propis» és un descriptor útil; «demostra comprensió del tema» no ho és perquè no descriu què fa l'alumne ni com reconèixer-ho. La diferència entre el nivell 3 i el 4 ha de ser prou clara perquè el propi alumnat es pugui situar sense ajuda del docent.
 

@@ -213,21 +213,24 @@ Al final, el grupo comparte qué nuevas ideas han aparecido y qué preguntas que
 
 Rutina para explorar un tema desde diferentes perspectivas. Cada participante adopta un punto de vista distinto y describe el tema **desde dentro** de esa posición. Después se comparan las perspectivas para ver cómo el mismo tema se percibe de forma diferente según quién lo mire.
 
-**Alumno/a** · **Fecha**
-**Tema**
-**Mi punto de vista** · *(persona, colectivo, institución, época, objeto…)*
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
+| **Mi punto de vista** | *(persona, colectivo, institución, época, objeto…)* | | |
 
 #### Desde este punto de vista…
 
-**Pienso que este tema… Describe cómo percibes o entiendes el tema desde tu perspectiva. Qué ves, qué crees, qué opinas.**
-**Porque… Qué razones, experiencias o intereses explican tu manera de ver el tema desde esta posición.**
-**Una pregunta que me hago desde aquí… Qué duda, tensión o curiosidad te genera el tema visto desde esta perspectiva.**
+| **Pienso que este tema… Describe cómo percibes o entiendes el tema desde tu perspectiva. Qué ves, qué crees, qué opinas.** | |
+| --- | --- |
+| **Porque… Qué razones, experiencias o intereses explican tu manera de ver el tema desde esta posición.** | |
+| **Una pregunta que me hago desde aquí… Qué duda, tensión o curiosidad te genera el tema visto desde esta perspectiva.** | |
 
 #### Puesta en común — después de escuchar otras perspectivas
 
-**¿Qué ideas nuevas tienes sobre el tema que antes no tenías?**
-**¿Qué perspectiva te ha resultado más sorprendente o diferente a la tuya y por qué?**
-**¿Qué preguntas nuevas te surgen después de escuchar al grupo?**
+| **¿Qué ideas nuevas tienes sobre el tema que antes no tenías?** | |
+| --- | --- |
+| **¿Qué perspectiva te ha resultado más sorprendente o diferente a la tuya y por qué?** | |
+| **¿Qué preguntas nuevas te surgen después de escuchar al grupo?** | |
 
 **Clave pedagógica:** la lluvia de perspectivas posibles antes de repartirlas es tan importante como el trabajo individual. Cuantas más perspectivas distintas identifique el grupo —incluyendo las minoritarias, las incómodas o las no humanas (una ley, un ecosistema, una época pasada)— más rico será el análisis. El objetivo no es defender el punto de vista asignado, sino comprender genuinamente cómo el tema se ve desde él.
 
@@ -302,21 +305,24 @@ Objetivo: Mejorar la comprensión de los alumnos sobre la Revolución Francesa
 
 Rutina para comparar dos conceptos, fuentes, obras, épocas, posiciones o cualquier par de elementos. La comparación no consiste en hacer listas separadas: el valor está en **relacionar directamente** los dos elementos aspecto por aspecto, y en reflexionar sobre qué revela esa relación.
 
-**Alumno/a** · **Fecha**
-**Elemento A** · **Elemento B**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Elemento A** | | **Elemento B** | |
 
 #### Comparación aspecto a aspecto
 
 *En cada fila, elige un aspecto relevante y describe cómo se manifiesta en cada elemento. Añade o elimina filas según necesites.*
 
-**Aspecto** · **Elemento A** · **Elemento B**
+| **Aspecto** | **Elemento A** | **Elemento B** |
+| --- | --- | --- |
 
 #### Síntesis de la comparación
 
-**¿Qué tienen claramente en común?**
-**¿Qué diferencia es la más significativa y por qué?**
-**¿Qué te ha sorprendido al compararlos?**
-**¿Qué revela esta comparación que no verías estudiando cada elemento por separado?**
+| **¿Qué tienen claramente en común?** | |
+| --- | --- |
+| **¿Qué diferencia es la más significativa y por qué?** | |
+| **¿Qué te ha sorprendido al compararlos?** | |
+| **¿Qué revela esta comparación que no verías estudiando cada elemento por separado?** | |
 
 **Clave pedagógica:** la última pregunta —«¿qué revela esta comparación?»— es la que distingue el análisis real de la simple descripción paralela. Si el alumnado puede responderla, la comparación ha generado comprensión nueva. Si solo puede describir cada elemento por separado, la comparación ha sido superficial. Esa pregunta debe trabajarse explícitamente en la puesta en común.
 
@@ -396,11 +402,13 @@ Esta rutina puede ser útil para ayudar a los alumnos a mejorar la comprensión 
 
 Rutina para capturar la esencia de un texto, explicación o tema de forma **no verbal**: usando un color, un símbolo y una imagen en lugar de palabras. Cada elección debe representar una idea importante, no el tema en general. Lo valioso es la justificación: por qué esa representación y no otra.
 
-**Alumno/a** · **Fecha**
-**Texto / Explicación / Tema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Texto / Explicación / Tema** | | | |
 
-**COLOR Un color que capture el tono, la emoción o la cualidad esencial de una idea del texto. No el color literal de algo, sino una asociación metafórica.** · **SÍMBOLO Un signo, icono o dibujo sencillo que represente una idea. Un símbolo es más simple que una imagen: pienso en ello como un logotipo o señal.** · **IMAGEN Una imagen visual o metafórica más elaborada que el símbolo. Puede ser una escena, una comparación visual, una metáfora desarrollada.**
-**Idea que representa:** **¿Por qué este color?** · **Idea que representa:** **¿Por qué este símbolo?** · **Idea que representa:** **¿Por qué esta imagen?**
+| **COLOR Un color que capture el tono, la emoción o la cualidad esencial de una idea del texto. No el color literal de algo, sino una asociación metafórica.** | **SÍMBOLO Un signo, icono o dibujo sencillo que represente una idea. Un símbolo es más simple que una imagen: pienso en ello como un logotipo o señal.** | **IMAGEN Una imagen visual o metafórica más elaborada que el símbolo. Puede ser una escena, una comparación visual, una metáfora desarrollada.** |
+| --- | --- | --- |
+| **Idea que representa:** **¿Por qué este color?** | **Idea que representa:** **¿Por qué este símbolo?** | **Idea que representa:** **¿Por qué esta imagen?** |
 
 #### Puesta en común
 
@@ -505,15 +513,18 @@ El profesor recoge las respuestas o las revisa visualmente y dedica los primeros
 
 Rutina de autoevaluación en tres niveles que permite al alumnado identificar qué ha comprendido bien, qué le genera dudas y qué no ha entendido. Se puede usar al terminar una explicación, una actividad o una sesión. Responde con honestidad: las dudas y los rojo son información valiosa, no un problema.
 
-**Alumno/a** · **Fecha**
-**Tema / Sesión**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema / Sesión** | | | |
 
-**🟢 VERDE — He entendido Qué puedo explicar con mis propias palabras o aplicar sin ayuda.** · **🟡 AMARILLO — Tengo dudas Qué entiendo a medias o en qué necesito más práctica o explicación.** · **🔴 ROJO — No he entendido Qué no he comprendido o qué me ha quedado completamente confuso.**
+| **🟢 VERDE — He entendido Qué puedo explicar con mis propias palabras o aplicar sin ayuda.** | **🟡 AMARILLO — Tengo dudas Qué entiendo a medias o en qué necesito más práctica o explicación.** | **🔴 ROJO — No he entendido Qué no he comprendido o qué me ha quedado completamente confuso.** |
+| --- | --- | --- |
 
 #### Para las zonas amarilla y roja
 
-**¿Cuál es tu duda más importante? Formula la como una pregunta concreta.**
-**¿Qué necesitarías para pasar ese punto al verde?**
+| **¿Cuál es tu duda más importante? Formula la como una pregunta concreta.** | |
+| --- | --- |
+| **¿Qué necesitarías para pasar ese punto al verde?** | |
 
 **Clave pedagógica:** el semáforo solo tiene valor si el docente recoge y responde a las zonas amarilla y roja. Empezar la siguiente sesión con «el 40 % habéis puesto en rojo el concepto X, vamos a trabajarlo de otra manera» cierra el ciclo formativo y comunica al alumnado que sus señales importan. Sin esa respuesta, la rutina se convierte en un ritual vacío.
 
@@ -560,13 +571,15 @@ Al terminar una práctica de laboratorio, los alumnos completan la escalera indi
 
 Rutina de metacognición en cuatro peldaños. Completa cada uno en orden: cada peldaño construye sobre el anterior. El cuarto —la transferencia— es el más exigente y el que más revela si el aprendizaje es genuino.
 
-**Alumno/a** · **Fecha**
-**Tema / Actividad**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema / Actividad** | | | |
 
-1 · **¿Qué he aprendido?** Identifica los conocimientos, habilidades o ideas que has trabajado. Sé concreto: no «hemos visto el tema X», sino qué sabes ahora que antes no sabías.
-2 · **¿Cómo lo he aprendido?** Describe qué actividades, estrategias, recursos o interacciones te han ayudado más a aprenderlo. ¿Qué ha funcionado? ¿Qué no ha funcionado?
-3 · **¿Para qué me ha servido?** ¿Qué utilidad tiene lo aprendido? Relaciona el aprendizaje con algo concreto: un problema que ahora puedes resolver, algo que entiendes mejor, una habilidad que puedes usar.
-4 · **¿Dónde más puedo aplicarlo?** Propone situaciones nuevas —en otras asignaturas, en tu vida cotidiana, en problemas futuros— donde podrías usar lo que has aprendido. Cuanto más alejado del contexto original, más profunda es la transferencia.
+| 1 | **¿Qué he aprendido?** Identifica los conocimientos, habilidades o ideas que has trabajado. Sé concreto: no «hemos visto el tema X», sino qué sabes ahora que antes no sabías. |
+| --- | --- |
+| 2 | **¿Cómo lo he aprendido?** Describe qué actividades, estrategias, recursos o interacciones te han ayudado más a aprenderlo. ¿Qué ha funcionado? ¿Qué no ha funcionado? |
+| 3 | **¿Para qué me ha servido?** ¿Qué utilidad tiene lo aprendido? Relaciona el aprendizaje con algo concreto: un problema que ahora puedes resolver, algo que entiendes mejor, una habilidad que puedes usar. |
+| 4 | **¿Dónde más puedo aplicarlo?** Propone situaciones nuevas —en otras asignaturas, en tu vida cotidiana, en problemas futuros— donde podrías usar lo que has aprendido. Cuanto más alejado del contexto original, más profunda es la transferencia. |
 
 **Clave pedagógica:** el peldaño 2 («¿cómo lo he aprendido?») es el más metacognitivo y el más infravalorado. Identificar qué estrategias o actividades han funcionado mejor desarrolla la autorregulación del aprendizaje. El peldaño 4 es el indicador más fiable de comprensión real: si el alumnado solo puede aplicarlo en el contexto exacto en que lo aprendió, el aprendizaje es frágil.
 
@@ -718,10 +731,12 @@ Antes de estudiar los ecosistemas, los alumnos escriben qué saben sobre cadenas
 
 Completa las tres columnas en los momentos indicados: la primera **antes** de la actividad o unidad, la segunda también **antes** (o a lo largo de la actividad), y la tercera **al finalizar**.
 
-**Alumno/a** · **Fecha**
-**Tema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
-**K — Sé Lo que ya sé sobre el tema** · **W — Quiero saber Lo que quiero aprender o descubrir** · **L — He aprendido Lo que he aprendido al terminar**
+| **K — Sé Lo que ya sé sobre el tema** | **W — Quiero saber Lo que quiero aprender o descubrir** | **L — He aprendido Lo que he aprendido al terminar** |
+| --- | --- | --- |
 
 #### Reflexión final
 
@@ -776,18 +791,21 @@ _Adaptado de: Project Zero. (2020). Puntos de la Brújula._
 
 Herramienta para analizar una propuesta, idea o proyecto desde cuatro ángulos. Completa cada cuadrante de forma individual antes de la puesta en común.
 
-**Alumno/a** · **Fecha**
-**Propuesta / Idea / Proyecto**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Propuesta / Idea / Proyecto** | | | |
 
-▲ N — NECESITO SABER ¿Qué más necesitas saber o descubrir sobre esta propuesta? ¿Qué información adicional te ayudaría a valorarla mejor?
-◀ O — OBSTÁCULOS ¿Qué dificultades, riesgos o preocupaciones ves? ¿Qué podría fallar? · E — ENTUSIASMO ▶ ¿Qué valoras positivamente? ¿Qué ventajas o potencial tiene esta propuesta?
-S — SUGERENCIAS ▼ ¿Cuál es tu sugerencia o postura actual? ¿Qué paso siguiente propones para evaluar o desarrollar esta propuesta?
+| ▲ N — NECESITO SABER ¿Qué más necesitas saber o descubrir sobre esta propuesta? ¿Qué información adicional te ayudaría a valorarla mejor? | | |
+| --- | --- | --- |
+| ◀ O — OBSTÁCULOS ¿Qué dificultades, riesgos o preocupaciones ves? ¿Qué podría fallar? | | E — ENTUSIASMO ▶ ¿Qué valoras positivamente? ¿Qué ventajas o potencial tiene esta propuesta? |
+| S — SUGERENCIAS ▼ ¿Cuál es tu sugerencia o postura actual? ¿Qué paso siguiente propones para evaluar o desarrollar esta propuesta? | | |
 
 #### Síntesis tras la puesta en común
 
-**¿Qué cuadrante ha generado más debate y por qué?**
-**¿Qué información del cuadrante N es imprescindible antes de decidir?**
-**¿Cuál es el siguiente paso acordado?**
+| **¿Qué cuadrante ha generado más debate y por qué?** | |
+| --- | --- |
+| **¿Qué información del cuadrante N es imprescindible antes de decidir?** | |
+| **¿Cuál es el siguiente paso acordado?** | |
 
 **Clave pedagógica:** el cuadrante N (Necesito saber) es el más estratégico: no expresa una opinión sino una condición para opinar bien. Identificar qué información falta antes de poder valorar una propuesta es una habilidad de pensamiento crítico que va más allá del análisis de pros y contras. El cuadrante S obliga a salir de la crítica y proponer, lo que lo hace incómodo y valioso.
 
@@ -848,22 +866,25 @@ A partir de la cadena de preguntas, el alumnado propone comprobar la humedad del
 
 Técnica para profundizar en las causas de un problema o fenómeno encadenando preguntas «¿por qué?». Cada respuesta se convierte en el punto de partida de la siguiente pregunta. El número de niveles no tiene que ser exactamente 5: se hacen los necesarios hasta llegar a la **causa raíz**, es decir, la causa que, si se resuelve, elimina el problema desde la base.
 
-**Alumno/a** · **Fecha**
-**Problema o fenómeno de partida**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Problema o fenómeno de partida** | | | |
 
-**Nivel** · **Pregunta ¿Por qué…?** · **Respuesta**
-1 · ¿Por qué ocurre el problema de partida?
-2 · ¿Por qué ocurre lo que acabas de responder?
-3
-4
-5
-6
+| **Nivel** | **Pregunta ¿Por qué…?** | **Respuesta** |
+| --- | --- | --- |
+| 1 | ¿Por qué ocurre el problema de partida? | |
+| 2 | ¿Por qué ocurre lo que acabas de responder? | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
 
 #### Causa raíz identificada
 
-**¿Cuál es la causa raíz? (la respuesta del último nivel en que puedes seguir preguntando por qué)**
-**¿Cómo sabes que es la causa raíz y no solo otro síntoma?**
-**¿Qué acción o cambio abordaría esta causa raíz?**
+| **¿Cuál es la causa raíz? (la respuesta del último nivel en que puedes seguir preguntando por qué)** | |
+| --- | --- |
+| **¿Cómo sabes que es la causa raíz y no solo otro síntoma?** | |
+| **¿Qué acción o cambio abordaría esta causa raíz?** | |
 
 **Clave pedagógica:** la trampa más frecuente es detenerse en una causa superficial o «síntoma» (nivel 1 o 2) y tratarla como causa raíz. Saber cuándo parar —cuando ya no tiene sentido seguir preguntando «¿y por qué ocurre eso?»— es la habilidad que desarrolla la técnica. En contextos educativos, los niveles 3 y 4 suelen ser los más reveladores y los que más cuesta alcanzar sin apoyo.
 
@@ -948,25 +969,28 @@ En pequeños grupos, comparten sus elecciones y justifican por qué las han eleg
 
 Rutina cooperativa para capturar la esencia de un texto identificando una **palabra** que llame la atención, una **idea** significativa y una **frase** que ayude a comprender el texto. Primero trabajo individual (5 min), luego puesta en común en grupo (10 min) y por último síntesis colectiva (15 min).
 
-**Alumno/a** · **Fecha**
-**Texto / Lectura**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Texto / Lectura** | | | |
 
 #### Fase individual
 
-**PALABRA que me ha captado la atención Una palabra del texto que te haya llamado la atención, sorprendido o hecho pensar.**
-**¿Por qué esta palabra?**
-**IDEA significativa para ti Una combinación de palabras o idea del texto que te haya provocado, comprometido o que sea especialmente relevante.**
-**¿Por qué esta idea?**
-**FRASE que te ha ayudado a entender el texto Una frase literal del texto que actúe como clave de comprensión: la que mejor resume, la más esclarecedora o la más importante.**
-**¿Por qué esta frase?**
+| **PALABRA que me ha captado la atención Una palabra del texto que te haya llamado la atención, sorprendido o hecho pensar.** | |
+| --- | --- |
+| **¿Por qué esta palabra?** | |
+| **IDEA significativa para ti Una combinación de palabras o idea del texto que te haya provocado, comprometido o que sea especialmente relevante.** | |
+| **¿Por qué esta idea?** | |
+| **FRASE que te ha ayudado a entender el texto Una frase literal del texto que actúe como clave de comprensión: la que mejor resume, la más esclarecedora o la más importante.** | |
+| **¿Por qué esta frase?** | |
 
 #### Fase grupal — síntesis colectiva
 
 *Después de compartir cada miembro su palabra, idea y frase con el grupo:*
 
-**¿Qué temas o ideas aparecen en varias respuestas del grupo?**
-**¿Qué implicaciones, interpretaciones o predicciones podéis extraer del texto?**
-**¿Qué aspectos del texto no han aparecido en ninguna respuesta? ¿Por qué puede ser?**
+| **¿Qué temas o ideas aparecen en varias respuestas del grupo?** | |
+| --- | --- |
+| **¿Qué implicaciones, interpretaciones o predicciones podéis extraer del texto?** | |
+| **¿Qué aspectos del texto no han aparecido en ninguna respuesta? ¿Por qué puede ser?** | |
 
 **Clave pedagógica:** la justificación («¿por qué esta palabra/idea/frase?») es la parte más valiosa del trabajo individual. Sin ella, la rutina se reduce a subrayar. La pregunta sobre los aspectos olvidados en la fase grupal es la más reveladora: detecta puntos ciegos colectivos y puede abrir líneas de análisis que ningún miembro habría explorado solo.
 
@@ -1016,10 +1040,12 @@ El docente puede cerrar la actividad pidiendo que cada estudiante señale qué i
 
 Completa la columna **«Antes pensaba…»** *antes* de trabajar el tema o al inicio de la sesión. Completa **«Ahora pienso…»** al terminar. La tercera columna es la más importante para el aprendizaje: identifica qué ha producido el cambio.
 
-**Alumno/a** · **Fecha**
-**Tema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
-**Antes pensaba… Qué creía, sabía o suponía sobre este tema. Incluye ideas incompletas, dudas iniciales o explicaciones que ahora ves que eran erróneas.** · **Ahora pienso… Qué pienso ahora. Qué ha cambiado, qué se ha confirmado o qué matizarías de tu idea inicial.** · **¿Qué ha producido el cambio? Qué actividad, explicación, dato, ejemplo o diálogo te ha ayudado a cambiar o confirmar tu idea.**
+| **Antes pensaba… Qué creía, sabía o suponía sobre este tema. Incluye ideas incompletas, dudas iniciales o explicaciones que ahora ves que eran erróneas.** | **Ahora pienso… Qué pienso ahora. Qué ha cambiado, qué se ha confirmado o qué matizarías de tu idea inicial.** | **¿Qué ha producido el cambio? Qué actividad, explicación, dato, ejemplo o diálogo te ha ayudado a cambiar o confirmar tu idea.** |
+| --- | --- | --- |
 
 #### Reflexión global
 
@@ -1093,17 +1119,20 @@ Después de compartir las ideas sobre ""Investigo" ", el profesor guía a los al
 
 Rutina para activar conocimientos previos al inicio de un tema. Completa cada columna de forma **individual y en silencio** antes de la puesta en común. Incluye ideas aunque sean incompletas o erróneas: son el punto de partida, no el resultado final.
 
-**Alumno/a** · **Fecha**
-**Tema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
-**PIENSO Qué sé, creo o supongo sobre este tema. Ideas previas, aunque sean incompletas o erróneas. Qué asociaciones te genera.** · **ME INTERESA Qué te despierta curiosidad. Qué aspectos querrías explorar, entender mejor o que te generan intriga.** · **INVESTIGO Transforma tu curiosidad en una pregunta concreta e investigable. ¿Qué quieres saber exactamente?**
+| **PIENSO Qué sé, creo o supongo sobre este tema. Ideas previas, aunque sean incompletas o erróneas. Qué asociaciones te genera.** | **ME INTERESA Qué te despierta curiosidad. Qué aspectos querrías explorar, entender mejor o que te generan intriga.** | **INVESTIGO Transforma tu curiosidad en una pregunta concreta e investigable. ¿Qué quieres saber exactamente?** |
+| --- | --- | --- |
 
 #### Mi pregunta de investigación
 
 Elige la pregunta más significativa de la columna **INVESTIGO** y formúlala con precisión. Una buena pregunta de investigación no tiene respuesta de sí/no y no se responde con una búsqueda rápida.
 
-**Mi pregunta:**
-**¿Por qué me interesa?**
+| **Mi pregunta:** | |
+| --- | --- |
+| **¿Por qué me interesa?** | |
 
 **Clave pedagógica:** las concepciones erróneas que aparecen en la columna PIENSO son el material más valioso de la rutina. Anótalas sin corregirlas en ese momento: servirán de contraste al cerrar el tema. La columna INVESTIGO pierde valor si los alumnos escriben preguntas cuya respuesta ya conocen o que se resuelven con un buscador en segundos. Dedicar tiempo a mejorar la calidad de las preguntas de investigación es parte del trabajo.
 
@@ -1243,29 +1272,33 @@ En la puesta en común, explica qué ha cambiado en su forma de pensar y por qu�
 
 Esta rutina se completa en **dos momentos separados**: la primera tabla al inicio del tema, la segunda al terminar. No modifiques las respuestas del primer momento al rellenar el segundo. El «puente» final conecta ambos momentos y es el núcleo metacognitivo de la rutina.
 
-**Alumno/a** · **Fecha inicio**
-**Tema** · **Fecha fin**
+| **Alumno/a** | | **Fecha inicio** | |
+| --- | --- | --- | --- |
+| **Tema** | | **Fecha fin** | |
 
 #### Momento 1 — ANTES de empezar el tema
 
 *Completa esta tabla al inicio. No la modifiques después.*
 
-**3 ideas o palabras que te sugiere este tema** · **2 preguntas que tienes sobre el tema** · **1 analogía: este tema es como…**
-1. 2. 3. · 1. 2.
+| **3 ideas o palabras que te sugiere este tema** | **2 preguntas que tienes sobre el tema** | **1 analogía: este tema es como…** |
+| --- | --- | --- |
+| 1. 2. 3. | 1. 2. | |
 
 #### Momento 2 — DESPUÉS de trabajar el tema
 
 *Completa esta tabla al finalizar la actividad o unidad.*
 
-**3 ideas o palabras que te sugiere ahora el tema** · **2 preguntas que te siguen generando** · **1 nueva analogía: ahora el tema es como…**
-1. 2. 3. · 1. 2.
+| **3 ideas o palabras que te sugiere ahora el tema** | **2 preguntas que te siguen generando** | **1 nueva analogía: ahora el tema es como…** |
+| --- | --- | --- |
+| 1. 2. 3. | 1. 2. | |
 
 #### El puente — ¿Cómo han cambiado tus ideas?
 
-**¿Qué idea del momento 1 ha cambiado más radicalmente?**
-**¿Qué ha provocado ese cambio?**
-**¿Qué pregunta del momento 1 has podido responder?**
-**¿Qué pregunta nueva te llevas al salir del tema?**
+| **¿Qué idea del momento 1 ha cambiado más radicalmente?** | |
+| --- | --- |
+| **¿Qué ha provocado ese cambio?** | |
+| **¿Qué pregunta del momento 1 has podido responder?** | |
+| **¿Qué pregunta nueva te llevas al salir del tema?** | |
 
 **Clave pedagógica:** la analogía o metáfora del momento 1 suele ser superficial o tópica. La del momento 2, elaborada tras trabajar el tema, revela la profundidad del aprendizaje mejor que cualquier lista de conceptos: una analogía original exige comprensión genuina. Comparar las dos analogías en la puesta en común colectiva es uno de los momentos más ricos de esta rutina.
 
@@ -1326,21 +1359,24 @@ Después, cada grupo clasifica las consecuencias en positivas, negativas y condi
 
 Rutina para analizar las consecuencias de una acción, decisión, fenómeno o concepto en distintos horizontes temporales. No se trata de listar consecuencias: se trata de **trazarlas en cadena** —cada consecuencia genera nuevas consecuencias— y de distinguir qué es controlable y qué no.
 
-**Alumno/a** · **Fecha**
-**Acción / Decisión / Fenómeno**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Acción / Decisión / Fenómeno** | | | |
 
-**Horizonte temporal** · **Consecuencias probables** · **¿Para quién? ¿Quién se ve afectado?**
-Inmediato (horas / días)
-Corto plazo (semanas / meses)
-Medio plazo (1–5 años)
-Largo plazo (más de 5 años)
+| **Horizonte temporal** | **Consecuencias probables** | **¿Para quién? ¿Quién se ve afectado?** |
+| --- | --- | --- |
+| Inmediato (horas / días) | | |
+| Corto plazo (semanas / meses) | | |
+| Medio plazo (1–5 años) | | |
+| Largo plazo (más de 5 años) | | |
 
 #### Análisis
 
-**¿Qué consecuencia te parece más importante o sorprendente y por qué?**
-**¿Qué consecuencia negativa podría reducirse o evitarse? ¿Cómo?**
-**¿Qué consecuencia positiva podría amplificarse? ¿Cómo?**
-**¿Qué consecuencia depende de cómo actúen otras personas o factores externos?**
+| **¿Qué consecuencia te parece más importante o sorprendente y por qué?** | |
+| --- | --- |
+| **¿Qué consecuencia negativa podría reducirse o evitarse? ¿Cómo?** | |
+| **¿Qué consecuencia positiva podría amplificarse? ¿Cómo?** | |
+| **¿Qué consecuencia depende de cómo actúen otras personas o factores externos?** | |
 
 **Clave pedagógica:** el pensamiento sobre consecuencias tiende a quedarse en el horizonte inmediato. Los horizontes de medio y largo plazo son los más difíciles y los más formativos: exigen razonamiento causal encadenado y pensamiento sistémico. La pregunta «¿para quién?» introduce la dimensión de justicia y perspectiva múltiple, especialmente valiosa en ciencias sociales, ética o educación para la ciudadanía.
 
@@ -1388,16 +1424,19 @@ En literatura, los alumnos analizan un personaje de una novela. Dentro de la sil
 
 Técnica visual para analizar un personaje, colectivo, institución o concepto personificado. Lo que se anota **dentro** de la silueta corresponde al mundo interior (pensamientos, emociones, motivaciones, creencias). Lo que se anota **fuera** corresponde al mundo exterior (acciones, comportamientos, relaciones, presiones). Cada aportación debe justificarse con evidencias del texto, la situación o el contexto.
 
-**Alumno/a** · **Fecha**
-**Personaje / Colectivo / Institución analizada** · **Contexto**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Personaje / Colectivo / Institución analizada** | | **Contexto** | |
 
-INTERIOR ← dentro de la silueta Pensamientos · Emociones · Motivaciones · Creencias · Miedos · Deseos · ← interior · exterior → · EXTERIOR → fuera de la silueta Acciones · Comportamientos · Relaciones · Palabras · Presiones externas
+| INTERIOR ← dentro de la silueta Pensamientos · Emociones · Motivaciones · Creencias · Miedos · Deseos | ← interior · exterior → | EXTERIOR → fuera de la silueta Acciones · Comportamientos · Relaciones · Palabras · Presiones externas |
+| --- | --- | --- |
 
 #### Síntesis y análisis
 
-**¿Qué tensión o contradicción hay entre el interior y el exterior del personaje?**
-**¿Qué aspecto del interior explica mejor una acción exterior concreta?**
-**¿Cómo cambia el personaje a lo largo del texto o situación? ¿Qué cambia: el interior, el exterior o los dos?**
+| **¿Qué tensión o contradicción hay entre el interior y el exterior del personaje?** | |
+| --- | --- |
+| **¿Qué aspecto del interior explica mejor una acción exterior concreta?** | |
+| **¿Cómo cambia el personaje a lo largo del texto o situación? ¿Qué cambia: el interior, el exterior o los dos?** | |
 
 **Clave pedagógica:** la distinción interior/exterior no es solo organizativa: revela la brecha entre lo que un personaje siente y lo que muestra, entre sus motivaciones y sus acciones. Identificar esa tensión —y justificarla con evidencias del texto o la situación— es el trabajo analítico más sofisticado de la técnica. Las anotaciones sin evidencia son interpretaciones; las anotaciones con evidencia son análisis.
 
@@ -1503,10 +1542,12 @@ En “Pienso”, interpreta lo que puede estar ocurriendo: una protesta ciudadan
 
 Observa atentamente la imagen, texto o situación propuesta. Completa cada columna **en orden y por separado**: primero **VEO** (solo lo que percibes, sin interpretar), luego **PIENSO** (qué te sugiere, con razones), y por último **ME PREGUNTO** (qué dudas o preguntas te genera).
 
-**Alumno/a** · **Fecha**
-**Tema / Imagen / Situación**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema / Imagen / Situación** | | | |
 
-**VEO Solo lo que observo directamente. Sin interpretar ni opinar. Datos, detalles, elementos visibles.** · **PIENSO Qué me sugiere o cómo lo interpreto. Por qué pienso eso: qué detalle concreto me lleva a esa idea.** · **ME PREGUNTO Qué dudas, preguntas o curiosidades me genera lo que veo y pienso.**
+| **VEO Solo lo que observo directamente. Sin interpretar ni opinar. Datos, detalles, elementos visibles.** | **PIENSO Qué me sugiere o cómo lo interpreto. Por qué pienso eso: qué detalle concreto me lleva a esa idea.** | **ME PREGUNTO Qué dudas, preguntas o curiosidades me genera lo que veo y pienso.** |
+| --- | --- | --- |
 
 #### Puesta en común con un compañero o compañera
 
@@ -1556,15 +1597,18 @@ Antes de decidir si una actividad se hará individualmente o en grupo, la clase 
 
 Analiza una propuesta, decisión, alternativa o situación identificando sus aspectos positivos y negativos. Después pondera ambas listas y elabora una conclusión razonada. No se trata de hacer más larga una columna, sino de valorar el peso de cada aspecto.
 
-**Alumno/a** · **Fecha**
-**Propuesta / Situación / Decisión a analizar**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Propuesta / Situación / Decisión a analizar** | | | |
 
-**+ Aspectos positivos Ventajas, oportunidades, beneficios, puntos fuertes.** · **− Aspectos negativos Inconvenientes, riesgos, dificultades, puntos débiles.**
+| **+ Aspectos positivos Ventajas, oportunidades, beneficios, puntos fuertes.** | **− Aspectos negativos Inconvenientes, riesgos, dificultades, puntos débiles.** |
+| --- | --- |
 
 #### Ponderación
 
-**¿Qué aspecto positivo tiene más peso y por qué?**
-**¿Qué aspecto negativo tiene más peso y por qué?**
+| **¿Qué aspecto positivo tiene más peso y por qué?** | |
+| --- | --- |
+| **¿Qué aspecto negativo tiene más peso y por qué?** | |
 
 #### Conclusión o decisión razonada
 
@@ -1631,8 +1675,9 @@ En una práctica de biología, el alumnado observa que unas semillas han germina
 
 La estructura CER permite construir una explicación completa y verificable. Completa los tres elementos en orden: primero la **afirmación** (qué afirmas), luego las **evidencias** (datos que lo demuestran) y por último el **razonamiento** (por qué esas evidencias sostienen la afirmación). Usa la revisión final para comprobar la solidez del argumento.
 
-**Alumno/a** · **Fecha**
-**Pregunta / Problema / Fenómeno**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Pregunta / Problema / Fenómeno** | | | |
 
 #### C — AFIRMACIÓN (Claim)
 
@@ -1642,10 +1687,11 @@ La estructura CER permite construir una explicación completa y verificable. Com
 
 *Datos, observaciones, resultados, citas o hechos concretos que apoyan la afirmación. Las evidencias deben ser específicas y verificables, no opiniones.*
 
-**#** · **Evidencia (dato, observación, resultado, cita…)** · **Fuente o procedencia**
-1
-2
-3
+| **#** | **Evidencia (dato, observación, resultado, cita…)** | **Fuente o procedencia** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
 
 #### R — RAZONAMIENTO (Reasoning)
 
@@ -1653,11 +1699,12 @@ La estructura CER permite construir una explicación completa y verificable. Com
 
 #### Revisión del argumento
 
-**Criterio** · **Sí** · **A medias** · **No**
-La afirmación responde directamente a la pregunta · ☐ · ☐ · ☐
-Las evidencias son datos concretos, no opiniones · ☐ · ☐ · ☐
-El razonamiento explica *por qué* las evidencias apoyan la afirmación · ☐ · ☐ · ☐
-El argumento completo responde a alguien que dijera «¿y por qué?» · ☐ · ☐ · ☐
+| **Criterio** | **Sí** | **A medias** | **No** |
+| --- | --- | --- | --- |
+| La afirmación responde directamente a la pregunta | ☐ | ☐ | ☐ |
+| Las evidencias son datos concretos, no opiniones | ☐ | ☐ | ☐ |
+| El razonamiento explica *por qué* las evidencias apoyan la afirmación | ☐ | ☐ | ☐ |
+| El argumento completo responde a alguien que dijera «¿y por qué?» | ☐ | ☐ | ☐ |
 
 **Clave pedagógica:** el error más frecuente es confundir evidencia con razonamiento. «Los datos muestran X» es evidencia. «Los datos muestran X porque el principio Y implica que Z» es razonamiento. Dedicar tiempo a esta distinción, especialmente en la primera aplicación, marca la diferencia entre un ejercicio mecánico y el desarrollo real de pensamiento científico o argumentativo.
 
@@ -1711,27 +1758,31 @@ Después se realiza la experiencia. El alumnado observa que la patata pierde fir
 
 El alumnado completa las tres fases **en orden estricto**: primero **PREDICE** (antes de ver el resultado), luego **OBSERVA** (durante o después del experimento o situación), y por último **EXPLICA** (comparando predicción con evidencia). No se debe avanzar a la siguiente fase antes de terminar la anterior.
 
-**Alumno/a** · **Fecha**
-**Situación / Experimento / Problema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Situación / Experimento / Problema** | | | |
 
 #### 1. PREDICE — ¿Qué crees que ocurrirá?
 
 *Completa esta sección antes de realizar la observación o el experimento. Escribe tu predicción y justifícala con lo que ya sabes.*
 
-**Mi predicción: creo que ocurrirá…** · **La justifico porque…**
+| **Mi predicción: creo que ocurrirá…** | **La justifico porque…** |
+| --- | --- |
 
 #### 2. OBSERVA — ¿Qué ha ocurrido realmente?
 
 *Anota solo lo que observas: datos, hechos, resultados. Sin interpretar todavía.*
 
-**Observaciones y datos obtenidos** · **¿Coincide con tu predicción?**
-☐ Sí, coincide ☐ Coincide en parte ☐ No coincide
+| **Observaciones y datos obtenidos** | **¿Coincide con tu predicción?** |
+| --- | --- |
+| | ☐ Sí, coincide ☐ Coincide en parte ☐ No coincide |
 
 #### 3. EXPLICA — ¿Por qué ha ocurrido así?
 
 *Elabora una explicación que relacione la predicción, la observación y el conocimiento trabajado. Si tu predicción era incorrecta, explica en qué se equivocaba tu razonamiento inicial.*
 
-**Explicación del resultado** · **¿Qué ajustaría en mi razonamiento inicial?**
+| **Explicación del resultado** | **¿Qué ajustaría en mi razonamiento inicial?** |
+| --- | --- |
 
 **Clave pedagógica:** el valor de POE reside en la tensión entre predicción y observación. Si la predicción era incorrecta, la explicación final es especialmente valiosa: obliga al alumnado a identificar dónde fallaba su modelo mental. Evita que los alumnos modifiquen su predicción a posteriori: lo escrito antes de observar es la evidencia de su idea previa.
 
@@ -1774,8 +1825,9 @@ En historia, tras analizar un gráfico sobre población urbana, un alumno escrib
 
 Rutina para analizar una idea, texto, imagen, dato o explicación con tres movimientos: formular una afirmación, aportar un apoyo que la sostenga y abrir la indagación con una pregunta. Más ligera que CER: no exige un razonamiento completo, pero sí justificar la idea y mantener abierta la exploración.
 
-**Alumno/a** · **Fecha**
-**Estímulo (texto, imagen, dato, fenómeno…)**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Estímulo (texto, imagen, dato, fenómeno…)** | | | |
 
 #### Afirmación — ¿Qué interpretas o concluyes?
 
@@ -1791,10 +1843,11 @@ Rutina para analizar una idea, texto, imagen, dato o explicación con tres movim
 
 #### Revisión rápida
 
-**Pregunta de revisión** · **Sí** · **No**
-¿La afirmación es una interpretación y no una simple descripción? · ☐ · ☐
-¿El apoyo es específico (señala algo concreto del estímulo)? · ☐ · ☐
-¿La pregunta hace avanzar el análisis (no es solo «no entiendo X»)? · ☐ · ☐
+| **Pregunta de revisión** | **Sí** | **No** |
+| --- | --- | --- |
+| ¿La afirmación es una interpretación y no una simple descripción? | ☐ | ☐ |
+| ¿El apoyo es específico (señala algo concreto del estímulo)? | ☐ | ☐ |
+| ¿La pregunta hace avanzar el análisis (no es solo «no entiendo X»)? | ☐ | ☐ |
 
 **Clave pedagógica:** la distinción entre *apoyo* y *razonamiento* (como en CER) no se exige aquí, lo que hace la rutina más accesible. El elemento más difícil es la pregunta final: el alumnado tiende a escribir una duda sobre algo que no entendió. Una buena pregunta CSQ empieza desde lo que sí se entendió y proyecta hacia lo que queda por explorar. Modelar ese salto es el trabajo pedagógico clave.
 
@@ -1841,16 +1894,19 @@ Tras leer un texto sobre cambio climático, el alumnado dedica 8 minutos a compl
 
 Rutina para procesar nueva información relacionándola con lo que ya sabes. Completa las tres secciones **después** de leer, ver o escuchar el contenido. Trabaja primero de forma individual antes de la puesta en común.
 
-**Alumno/a** · **Fecha**
-**Contenido trabajado**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Contenido trabajado** | | | |
 
-**CONECTAR ¿Con qué ideas previas, experiencias o conocimientos conecta lo que acabas de trabajar? ¿Dónde encaja en lo que ya sabes?** · **AMPLIAR ¿Qué idea nueva amplía, profundiza o matiza tu comprensión anterior? ¿Qué ves ahora de otra manera?** · **DESAFIAR ¿Qué te resulta difícil de aceptar, confuso o contradictorio? ¿Qué pone en tensión tus ideas actuales?**
+| **CONECTAR ¿Con qué ideas previas, experiencias o conocimientos conecta lo que acabas de trabajar? ¿Dónde encaja en lo que ya sabes?** | **AMPLIAR ¿Qué idea nueva amplía, profundiza o matiza tu comprensión anterior? ¿Qué ves ahora de otra manera?** | **DESAFIAR ¿Qué te resulta difícil de aceptar, confuso o contradictorio? ¿Qué pone en tensión tus ideas actuales?** |
+| --- | --- | --- |
 
 #### Pregunta pendiente
 
 A partir de lo que has escrito en **DESAFIAR**, formula la pregunta más importante que te queda por resolver o explorar:
 
-**Mi pregunta:**
+| **Mi pregunta:** | |
+| --- | --- |
 
 **Clave pedagógica:** la columna DESAFIAR es la más valiosa y la más difícil. El alumnado tiende a escribir allí solo lo que no entiende técnicamente. El reto es que también identifique lo que le resulta intelectualmente incómodo, lo que contradice algo que creía saber o lo que le genera tensión. Esas fricciones son el motor del aprendizaje profundo y el mejor punto de partida para la discusión colectiva.
 
@@ -1937,27 +1993,31 @@ En biología, la clase analiza si debe permitirse el uso de animales en investig
 
 Rutina para analizar dilemas situando los argumentos en una cuerda imaginaria entre dos posiciones. No es una lista de pros y contras: cada argumento se coloca según su **fuerza** y hacia qué posición **tira**. El objetivo es ver dónde cae el peso del razonamiento, no «ganar» un lado.
 
-**Alumno/a** · **Fecha**
-**Dilema o cuestión controvertida**
-**Posición A** · **Posición B**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Dilema o cuestión controvertida** | | | |
+| **Posición A** | | **Posición B** | |
 
 #### Argumentos en la cuerda
 
 *Escribe cada argumento y marca: hacia qué posición tira (A / B / ambas) y con qué fuerza (1 débil · 2 moderado · 3 fuerte).*
 
-**Argumento** · **Tira hacia A · B · ambas** · **Fuerza 1 · 2 · 3**
+| **Argumento** | **Tira hacia A · B · ambas** | **Fuerza 1 · 2 · 3** |
+| --- | --- | --- |
 
 #### ¿Dónde cae el peso?
 
 *Valora el conjunto: ¿hacia qué posición tira más el peso de los argumentos? Señala tu posición en la cuerda marcando con una X.*
 
-Posición A con fuerza · Posición A con matices · En el centro / sin decidir · Posición B con matices · Posición B con fuerza
+| Posición A con fuerza | Posición A con matices | En el centro / sin decidir | Posición B con matices | Posición B con fuerza |
+| --- | --- | --- | --- | --- |
 
 #### Matices y condiciones
 
-**¿Qué condición cambiaría tu posición?**
-**¿Qué argumento del otro lado tiene más fuerza y por qué?**
-**¿Qué pregunta queda sin resolver?**
+| **¿Qué condición cambiaría tu posición?** | |
+| --- | --- |
+| **¿Qué argumento del otro lado tiene más fuerza y por qué?** | |
+| **¿Qué pregunta queda sin resolver?** | |
 
 **Clave pedagógica:** la diferencia con un simple pros/contras es la valoración de la *fuerza* de cada argumento. Un argumento débil en el lado «perdedor» puede revelar algo importante; un argumento fuerte pero condicionado matiza la posición final. El objetivo no es concluir quién tiene razón, sino comprender por qué la cuestión es genuinamente difícil.
 
@@ -2002,13 +2062,15 @@ Ante un cuadro que representa una escena cotidiana del siglo XIX, distintos alum
 
 Rutina para explorar una situación, texto o acontecimiento **desde el punto de vista de otro**. Elige o recibe un agente (persona, personaje, colectivo, institución) y responde las tres preguntas **en primera persona**, como si fueras ese agente. No describas al personaje desde fuera: habla como él o ella.
 
-**Alumno/a** · **Fecha**
-**Situación / Texto / Acontecimiento**
-**Agente que adopto**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Situación / Texto / Acontecimiento** | | | |
+| **Agente que adopto** | | | |
 
-**¿Qué percibo o noto desde aquí? Qué observo, siento o experimento desde esta perspectiva. Qué es lo primero que me llama la atención.**
-**¿Qué sé, creo o pienso? Qué conocimiento, creencia o interpretación tengo desde esta posición. Cómo explico o entiendo lo que ocurre.**
-**¿Qué me importa o qué deseo? Qué es prioritario para mí desde esta perspectiva. Qué quiero que ocurra o qué temo que pase.**
+| **¿Qué percibo o noto desde aquí? Qué observo, siento o experimento desde esta perspectiva. Qué es lo primero que me llama la atención.** | |
+| --- | --- |
+| **¿Qué sé, creo o pienso? Qué conocimiento, creencia o interpretación tengo desde esta posición. Cómo explico o entiendo lo que ocurre.** | |
+| **¿Qué me importa o qué deseo? Qué es prioritario para mí desde esta perspectiva. Qué quiero que ocurra o qué temo que pase.** | |
 
 #### Reflexión tras la puesta en común
 
@@ -2057,8 +2119,9 @@ En ciencias, el docente muestra una hoja con los bordes enrollados y pregunta qu
 
 Rutina para pasar de la observación a la explicación encadenando preguntas «¿por qué es así?». Comienza fijándote en un detalle concreto y construye explicaciones cada vez más fundamentadas. No busca una respuesta correcta: busca el mejor razonamiento posible con la información disponible.
 
-**Alumno/a** · **Fecha**
-**Objeto / Imagen / Fenómeno**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Objeto / Imagen / Fenómeno** | | | |
 
 #### 1. Observación — ¿Qué detalle te llama la atención?
 
@@ -2066,26 +2129,30 @@ Rutina para pasar de la observación a la explicación encadenando preguntas «�
 
 #### 2. Primera explicación — ¿Por qué crees que es así?
 
-**Mi explicación (hipótesis):**
-**¿Qué me hace pensar eso?**
+| **Mi explicación (hipótesis):** | |
+| --- | --- |
+| **¿Qué me hace pensar eso?** | |
 
 #### 3. Profundizar — ¿Por qué ocurre lo que acabas de explicar?
 
-**Explicación de la explicación:**
-**¿Qué evidencia o conocimiento lo apoya?**
+| **Explicación de la explicación:** | |
+| --- | --- |
+| **¿Qué evidencia o conocimiento lo apoya?** | |
 
 #### 4. Explicaciones alternativas
 
 *¿Podría haber otra explicación distinta a la tuya? Escribe al menos una alternativa y valora cuál es más probable y por qué.*
 
-**Explicación alternativa** · **¿Por qué es más o menos probable que la tuya?**
+| **Explicación alternativa** | **¿Por qué es más o menos probable que la tuya?** |
+| --- | --- |
 
 #### 5. Mejor explicación
 
 *Teniendo en cuenta todo lo anterior, ¿cuál es la explicación más sólida? ¿Qué necesitarías saber para estar más seguro/a?*
 
-**Mi mejor explicación:**
-**Para estar más seguro/a necesitaría…**
+| **Mi mejor explicación:** | |
+| --- | --- |
+| **Para estar más seguro/a necesitaría…** | |
 
 **Clave pedagógica:** el paso 4 (explicaciones alternativas) es el que más cuesta y más vale. Generar hipótesis alternativas y compararlas es el corazón del pensamiento científico y del razonamiento causal. Una sola explicación sin alternativas no es razonamiento: es conjetura. El docente puede modelar este paso en las primeras sesiones generando él mismo una explicación alternativa plausible.
 
@@ -2167,28 +2234,31 @@ Antes de empezar un tema sobre el agua, el alumnado usa los arranques para gener
 
 Rutina que invierte la dinámica del aula: en lugar de responder preguntas, el alumnado las genera usando **arranques de pregunta** que obligan a distintos tipos de pensamiento. Primero se generan muchas preguntas sin responderlas, luego se identifican las más potentes.
 
-**Alumno/a** · **Fecha**
-**Tema / Objeto / Situación**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema / Objeto / Situación** | | | |
 
 #### Genera preguntas con estos arranques
 
 *Completa cada arranque con una pregunta sobre el tema. No respondas ninguna todavía: el objetivo es generar, no responder.*
 
-**Arranque** · **Mi pregunta**
-¿Por qué…?
-¿Qué pasaría si…?
-¿Cómo sería diferente si…?
-¿Cuál es el propósito de…?
-¿Qué cambiaría si…?
-¿Quién se beneficia / perjudica cuando…?
-¿Qué suponemos cuando…?
-¿Cómo podríamos saber si…?
+| **Arranque** | **Mi pregunta** |
+| --- | --- |
+| ¿Por qué…? | |
+| ¿Qué pasaría si…? | |
+| ¿Cómo sería diferente si…? | |
+| ¿Cuál es el propósito de…? | |
+| ¿Qué cambiaría si…? | |
+| ¿Quién se beneficia / perjudica cuando…? | |
+| ¿Qué suponemos cuando…? | |
+| ¿Cómo podríamos saber si…? | |
 
 #### Selección y análisis
 
-**¿Cuál es la pregunta más potente que has generado? ¿Por qué?**
-**¿Qué arranque te ha resultado más difícil de completar? ¿Por qué crees que es así?**
-**¿Qué pregunta te gustaría investigar o debatir con el grupo?**
+| **¿Cuál es la pregunta más potente que has generado? ¿Por qué?** | |
+| --- | --- |
+| **¿Qué arranque te ha resultado más difícil de completar? ¿Por qué crees que es así?** | |
+| **¿Qué pregunta te gustaría investigar o debatir con el grupo?** | |
 
 **Clave pedagógica:** cada arranque activa un tipo diferente de pensamiento: «¿Por qué?» busca causas; «¿Qué pasaría si?» activa el pensamiento hipotético; «¿Quién se beneficia?» introduce perspectiva crítica; «¿Cómo podríamos saber?» exige pensar en evidencias. Identificar qué tipo de pregunta activa cada arranque —y cuál le resulta más difícil al alumnado— es información diagnóstica muy valiosa sobre el nivel de pensamiento del grupo.
 
@@ -2836,12 +2906,14 @@ Al terminar, el equipo revisa si cada rol ha ayudado a organizar mejor el trabaj
 
 Recorta estas fichas y repártelas al inicio de cada actividad cooperativa. Los roles deben rotarse entre sesiones para que todos los miembros practiquen cada función.
 
-**Equipo** · **Fecha**
-**Actividad / Sesión**
+| **Equipo** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Actividad / Sesión** | | | |
 
-🎯 COORDINADOR/A Alumno/a: ____________________________ Funciones: - Organiza los turnos de palabra - Recuerda el objetivo de la tarea - Ayuda a retomar el foco si el equipo se distrae Lo estoy haciendo bien si… todos pueden hablar y el equipo sabe en qué paso está. · 📝 SECRETARIO/A Alumno/a: ____________________________ Funciones: - Registra los acuerdos y conclusiones - Anota las respuestas o productos del equipo - Guarda el material generado Lo estoy haciendo bien si… hay un registro claro de lo que ha decidido el equipo.
-📣 PORTAVOZ Alumno/a: ____________________________ Funciones: - Comunica al grupo clase lo trabajado - Representa la voz del equipo, no solo la suya - Resume los acuerdos con claridad Lo estoy haciendo bien si… explico lo que hemos decidido entre todos, no solo mi opinión. · ⏱ RESPONSABLE DEL TIEMPO Alumno/a: ____________________________ Funciones: - Avisa cuando queda la mitad del tiempo - Ayuda a no extenderse en un solo punto - Señala cuándo hay que cerrar y entregar Lo estoy haciendo bien si… el equipo termina a tiempo sin precipitarse al final.
-🔧 RESPONSABLE DEL MATERIAL Alumno/a: ____________________________ Funciones: - Reparte y recoge los materiales de la actividad - Gestiona recursos digitales o fichas del equipo - Asegura que no falta ningún material Lo estoy haciendo bien si… el equipo tiene lo que necesita sin interrumpir al profesor. · 👁 OBSERVADOR/A DEL EQUIPO Alumno/a: ____________________________ Funciones: - Observa si todos participan de forma equilibrada - Detecta si alguien no se siente escuchado - Al finalizar, valora cómo ha cooperado el equipo Lo estoy haciendo bien si… puedo dar un ejemplo concreto de algo que ha funcionado bien y algo a mejorar.
+| 🎯 COORDINADOR/A Alumno/a: ____________________________ Funciones: - Organiza los turnos de palabra - Recuerda el objetivo de la tarea - Ayuda a retomar el foco si el equipo se distrae Lo estoy haciendo bien si… todos pueden hablar y el equipo sabe en qué paso está. | 📝 SECRETARIO/A Alumno/a: ____________________________ Funciones: - Registra los acuerdos y conclusiones - Anota las respuestas o productos del equipo - Guarda el material generado Lo estoy haciendo bien si… hay un registro claro de lo que ha decidido el equipo. |
+| --- | --- |
+| 📣 PORTAVOZ Alumno/a: ____________________________ Funciones: - Comunica al grupo clase lo trabajado - Representa la voz del equipo, no solo la suya - Resume los acuerdos con claridad Lo estoy haciendo bien si… explico lo que hemos decidido entre todos, no solo mi opinión. | ⏱ RESPONSABLE DEL TIEMPO Alumno/a: ____________________________ Funciones: - Avisa cuando queda la mitad del tiempo - Ayuda a no extenderse en un solo punto - Señala cuándo hay que cerrar y entregar Lo estoy haciendo bien si… el equipo termina a tiempo sin precipitarse al final. |
+| 🔧 RESPONSABLE DEL MATERIAL Alumno/a: ____________________________ Funciones: - Reparte y recoge los materiales de la actividad - Gestiona recursos digitales o fichas del equipo - Asegura que no falta ningún material Lo estoy haciendo bien si… el equipo tiene lo que necesita sin interrumpir al profesor. | 👁 OBSERVADOR/A DEL EQUIPO Alumno/a: ____________________________ Funciones: - Observa si todos participan de forma equilibrada - Detecta si alguien no se siente escuchado - Al finalizar, valora cómo ha cooperado el equipo Lo estoy haciendo bien si… puedo dar un ejemplo concreto de algo que ha funcionado bien y algo a mejorar. |
 
 **Clave pedagógica:** los roles pierden valor si se convierten en etiquetas sin responsabilidades reales. El indicador «lo estoy haciendo bien si…» es clave: obliga a que cada función sea observable. La rotación entre sesiones es imprescindible; si siempre coordina la misma persona, los demás no desarrollan esa competencia. El observador del equipo es el rol más valioso para la mejora del grupo y el más frecuentemente omitido.
 
@@ -3505,21 +3577,23 @@ En la siguiente ronda, con la cita de las seis, responden otra pregunta: “¿Qu
 
 Cada alumno/a rellena su reloj **antes** de la dinámica: anota el nombre de un compañero distinto junto a cada hora (solo una cita por hora). Cuando el docente indique la hora, cada uno busca a su cita y responden juntos la pregunta asignada.
 
-**Alumno/a** · **Fecha**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
 
-**Hora** · **Cita con** · **Tema o pregunta asignada**
-12
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+| **Hora** | **Cita con** | **Tema o pregunta asignada** |
+| --- | --- | --- |
+| 12 | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+| 8 | | |
+| 9 | | |
+| 10 | | |
+| 11 | | |
 
 **Clave pedagógica:** la fase de reservar citas (5 min al inicio) es movimiento físico y contacto social — importante para la motivación. El docente no debe asignar quién se cita con quién: el alumnado negocia libremente, lo que genera interacciones más naturales. Las preguntas asignadas a cada hora deben tener respuesta discutible, no solo factual; la conversación entre dos personas sobre un concepto es el motor del aprendizaje, no la respuesta correcta en sí.
 
@@ -3676,22 +3750,24 @@ En biología, el profesor muestra la frase: “Cada vez hay más bacterias resis
 
 La QFT es un proceso en cuatro fases que enseña a generar, mejorar y priorizar preguntas propias. Sigue las fases en orden. **En la fase 1 no respondas ninguna pregunta**: el objetivo es producir muchas, no juzgarlas.
 
-**Alumno/a** · **Fecha**
-**Foco de preguntas (frase, imagen, dato, objeto o situación que propone el docente)**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Foco de preguntas (frase, imagen, dato, objeto o situación que propone el docente)** | | | |
 
 #### Fase 1 — Genera preguntas
 
 *Escribe todas las preguntas que se te ocurran sobre el foco. Normas: no respondas ni juzgues ninguna, escríbelas tal como surgen aunque parezcan obvias o extrañas, no las conviertas en afirmaciones.*
 
-**#** · **Pregunta** · **Abierta (A) o cerrada (C)**
-1
-2
-3
-4
-5
-6
-7
-8
+| **#** | **Pregunta** | **Abierta (A) o cerrada (C)** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+| 8 | | |
 
 #### Fase 2 — Clasifica: abierta o cerrada
 
@@ -3699,22 +3775,25 @@ La QFT es un proceso en cuatro fases que enseña a generar, mejorar y priorizar 
 
 #### Fase 3 — Transforma
 
-**Elige una pregunta **cerrada** y conviértela en abierta:**
-**Elige una pregunta **abierta** y conviértela en cerrada:**
+| **Elige una pregunta **cerrada** y conviértela en abierta:** | |
+| --- | --- |
+| **Elige una pregunta **abierta** y conviértela en cerrada:** | |
 
 #### Fase 4 — Prioriza
 
 *Elige las 3 preguntas más interesantes o útiles para investigar el tema. Escríbelas aquí y explica brevemente por qué las eliges.*
 
-**#** · **Pregunta seleccionada** · **Por qué la elijo**
-1
-2
-3
+| **#** | **Pregunta seleccionada** | **Por qué la elijo** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
 
 #### Fase 5 — Reflexión final
 
-**¿Qué has aprendido sobre cómo formular preguntas?**
-**¿Qué harás con las preguntas priorizadas?**
+| **¿Qué has aprendido sobre cómo formular preguntas?** | |
+| --- | --- |
+| **¿Qué harás con las preguntas priorizadas?** | |
 
 **Clave pedagógica:** el foco de preguntas que propone el docente es decisivo: debe ser provocador, ambiguo o con tensión suficiente para generar curiosidad genuina, pero no tan abierto que paralice. La fase de transformación (abierta↔cerrada) es donde ocurre el aprendizaje más metacognitivo: el alumnado descubre que el tipo de pregunta determina el tipo de conocimiento que se puede obtener.
 
@@ -4133,18 +4212,21 @@ _Adaptado de: Colegio Ártica. (2018). Construimos nuestro propio aprendizaje._
 
 Cada miembro del equipo escribe su respuesta individual en su sección. Después se pone en común y se anota en el centro solo lo que todos aceptan. El portavoz comunica el consenso al grupo clase.
 
-**Equipo** · **Fecha**
-**Pregunta / Problema / Situación**
+| **Equipo** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Pregunta / Problema / Situación** | | | |
 
-ALUMNO/A 1: · ALUMNO/A 2:
-CONSENSO DEL EQUIPO Solo lo que todos aceptamos tras la puesta en común
-ALUMNO/A 3: · ALUMNO/A 4:
+| ALUMNO/A 1: | ALUMNO/A 2: |
+| --- | --- |
+| CONSENSO DEL EQUIPO Solo lo que todos aceptamos tras la puesta en común | |
+| ALUMNO/A 3: | ALUMNO/A 4: |
 
 #### Reflexión del equipo
 
-**¿En qué aspectos había mayor divergencia entre las respuestas individuales?**
-**¿Qué argumento o razonamiento ha sido clave para llegar al consenso?**
-**¿Ha quedado alguna discrepancia sin resolver? ¿Cuál?**
+| **¿En qué aspectos había mayor divergencia entre las respuestas individuales?** | |
+| --- | --- |
+| **¿Qué argumento o razonamiento ha sido clave para llegar al consenso?** | |
+| **¿Ha quedado alguna discrepancia sin resolver? ¿Cuál?** | |
 
 **Clave pedagógica:** el valor del Placemat está en el contraste entre las respuestas individuales y el proceso de consenso. Si todas las respuestas individuales son iguales, la dinámica aporta poco. La pregunta o problema elegido debe tener suficiente apertura como para que distintas personas lleguen a respuestas diferentes desde sus conocimientos o puntos de vista. El portavoz debe explicar *cómo* se llegó al consenso, no solo *cuál* es.
 
@@ -5138,8 +5220,9 @@ A partir de esas preguntas, cada grupo revisa su explicación y redacta un infor
 
 Informe de investigación ADI. Completa las secciones en orden: la pregunta y el método **antes** de recoger datos, el argumento **después**, y la revisión tras la sesión de argumentación con otros grupos.
 
-**Alumno/a / Equipo** · **Fecha**
-**Asignatura**
+| **Alumno/a / Equipo** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Asignatura** | | | |
 
 #### 1. Pregunta guía
 
@@ -5151,30 +5234,34 @@ Informe de investigación ADI. Completa las secciones en orden: la pregunta y el
 
 #### 3. Evidencias recogidas
 
-**#** · **Dato / Observación / Resultado** · **Fuente o procedencia**
-1
-2
-3
-4
+| **#** | **Dato / Observación / Resultado** | **Fuente o procedencia** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
 
 #### 4. Argumento tentativo
 
-**Afirmación (respuesta a la pregunta guía)**
-**Evidencias seleccionadas que la apoyan**
-**Justificación: por qué esas evidencias sostienen la afirmación**
+| **Afirmación (respuesta a la pregunta guía)** | |
+| --- | --- |
+| **Evidencias seleccionadas que la apoyan** | |
+| **Justificación: por qué esas evidencias sostienen la afirmación** | |
 
 #### 5. Revisión tras la sesión de argumentación
 
 *Después de presentar el argumento y recibir preguntas o críticas de otros grupos:*
 
-**¿Qué objeción o pregunta del otro grupo fue más difícil de responder?**
-**¿Qué cambiarías en la afirmación, las evidencias o la justificación tras el debate?**
-**¿Qué nueva pregunta de investigación abre este trabajo?**
+| **¿Qué objeción o pregunta del otro grupo fue más difícil de responder?** | |
+| --- | --- |
+| **¿Qué cambiarías en la afirmación, las evidencias o la justificación tras el debate?** | |
+| **¿Qué nueva pregunta de investigación abre este trabajo?** | |
 
 #### 6. Reflexión final
 
-**¿En qué aspecto ha sido más sólida vuestra investigación?**
-**¿Qué limitación tiene y cómo podría superarse?**
+| **¿En qué aspecto ha sido más sólida vuestra investigación?** | |
+| --- | --- |
+| **¿Qué limitación tiene y cómo podría superarse?** | |
 
 **Clave pedagógica:** el rasgo distintivo de ADI respecto a otras indagaciones es la fase de argumentación pública: el grupo debe defender su argumento ante otros y revisarlo después. Sin esa fase, es una práctica de laboratorio convencional. La sección 5 documenta el aprendizaje que ocurre en ese momento: la dificultad de defender un argumento ante preguntas reales es el motor del cambio conceptual.
 
@@ -6031,15 +6118,18 @@ En matemáticas, para el concepto “función”, el alumnado escribe una defini
 
 Organizador gráfico para comprender un concepto con precisión. Los cuatro cuadrantes obligan a distinguir la definición, las características esenciales, los casos que sí pertenecen al concepto y los que no. Los **no ejemplos** son el cuadrante más exigente: requieren comprender el concepto lo suficientemente bien como para saber qué lo excluye.
 
-**Alumno/a** · **Fecha**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
 
-DEFINICIÓN Explica el concepto con tus propias palabras. Qué es, qué significa, qué lo distingue. · CARACTERÍSTICAS ESENCIALES Propiedades o rasgos que siempre tiene este concepto. Sin ellas, deja de ser lo que es.
-EJEMPLOS Casos concretos que sí son este concepto. Cuanto más variados, mejor. · NO EJEMPLOS Casos que NO son este concepto, aunque se parezcan. Explica brevemente por qué quedan fuera.
+| DEFINICIÓN Explica el concepto con tus propias palabras. Qué es, qué significa, qué lo distingue. | CARACTERÍSTICAS ESENCIALES Propiedades o rasgos que siempre tiene este concepto. Sin ellas, deja de ser lo que es. |
+| --- | --- |
+| EJEMPLOS Casos concretos que sí son este concepto. Cuanto más variados, mejor. | NO EJEMPLOS Casos que NO son este concepto, aunque se parezcan. Explica brevemente por qué quedan fuera. |
 
 #### Revisión
 
-**¿Hay algún ejemplo límite que genera duda? ¿Por qué?**
-**¿Qué característica esencial es la más difícil de explicar?**
+| **¿Hay algún ejemplo límite que genera duda? ¿Por qué?** | |
+| --- | --- |
+| **¿Qué característica esencial es la más difícil de explicar?** | |
 
 **Clave pedagógica:** los no ejemplos son el indicador más fiable de comprensión real. Alguien que sabe definir un concepto pero no sabe qué excluye no lo ha comprendido del todo. Un no ejemplo especialmente valioso es el que *casi* pertenece al concepto pero no llega: identificar por qué no es suficiente exige precisión conceptual genuina. Los casos límite que generan duda en la revisión suelen ser los más fértiles para la discusión.
 
@@ -6172,16 +6262,19 @@ En historia, durante una explicación sobre la Segunda República, el alumnado t
 
 Sistema de toma de apuntes con tres zonas diferenciadas. La columna de **palabras clave y preguntas** se rellena *después* de la clase, no durante. La **síntesis** se escribe al final. Para repasar: tapa la zona de notas y responde usando solo la columna izquierda.
 
-**Alumno/a** · **Fecha**
-**Asignatura / Tema** · **Sesión**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Asignatura / Tema** | | **Sesión** | |
 
-**PALABRAS CLAVE Y PREGUNTAS Rellenar después de clase. Palabras clave, preguntas para repasar, conceptos centrales.** · **NOTAS PRINCIPALES Durante la clase o la lectura. Ideas principales, datos, explicaciones, esquemas.**
-SÍNTESIS — Escribe con tus propias palabras la idea principal de la sesión (2–4 frases)
+| **PALABRAS CLAVE Y PREGUNTAS Rellenar después de clase. Palabras clave, preguntas para repasar, conceptos centrales.** | **NOTAS PRINCIPALES Durante la clase o la lectura. Ideas principales, datos, explicaciones, esquemas.** |
+| --- | --- |
+| SÍNTESIS — Escribe con tus propias palabras la idea principal de la sesión (2–4 frases) | |
 
 #### Después del repaso
 
-**¿Qué pregunta de la columna izquierda no has podido responder sin mirar las notas?**
-**¿Qué necesitas repasar o consultar antes de la siguiente clase?**
+| **¿Qué pregunta de la columna izquierda no has podido responder sin mirar las notas?** | |
+| --- | --- |
+| **¿Qué necesitas repasar o consultar antes de la siguiente clase?** | |
 
 **Clave pedagógica:** el valor de Cornell no está en tomar apuntes durante la clase, sino en los dos pasos posteriores: formular preguntas en la columna izquierda (que activa la elaboración) y usar esas preguntas para repasar tapando las notas (práctica de recuperación). Sin estos dos pasos, la plantilla es solo una forma de organizar información, no un sistema de aprendizaje.
 
@@ -6342,14 +6435,16 @@ Para repasar el tema del aparato digestivo, el alumnado dibuja en el centro un e
 
 Organiza la información de forma radial: la idea central en el centro, ramas principales hacia los conceptos más importantes, y sub-ramas con detalles y conexiones. Usa **palabras clave** (no frases largas), un color por rama e imágenes o iconos si ayudan a recordar.
 
-**Alumno/a** · **Fecha**
-**Tema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema** | | | |
 
 #### Revisión del mapa
 
-**¿Qué rama tiene más sub-ramas? ¿Qué dice eso sobre tu comprensión del tema?**
-**¿Hay alguna conexión entre ramas distintas que podrías añadir? ¿Cuál?**
-**¿Qué rama o sub-rama ha sido más difícil de desarrollar? ¿Por qué?**
+| **¿Qué rama tiene más sub-ramas? ¿Qué dice eso sobre tu comprensión del tema?** | |
+| --- | --- |
+| **¿Hay alguna conexión entre ramas distintas que podrías añadir? ¿Cuál?** | |
+| **¿Qué rama o sub-rama ha sido más difícil de desarrollar? ¿Por qué?** | |
 
 **Clave pedagógica:** el error más frecuente es escribir frases completas en las ramas en lugar de palabras clave. Una rama con «los ecosistemas se ven afectados por la temperatura» aporta poco; «temperatura → ecosistemas → biodiversidad» obliga a pensar en relaciones. Las conexiones entre ramas (flechas cruzadas) son el indicador más claro de comprensión sistémica: si el alumnado las dibuja espontáneamente, ha ido más allá de la memorización.
 
@@ -6394,22 +6489,25 @@ Ante el problema «en clase se pierde mucho tiempo al empezar las sesiones», el
 
 Diagrama de causa-efecto para analizar de forma ordenada las causas de un problema. Escribe el problema en la cabeza del pez, define las categorías de causas en las espinas principales y añade causas concretas en las subespinas. Profundiza preguntando «¿por qué?» en cada causa antes de pasar a la siguiente categoría.
 
-**Alumno/a** · **Fecha**
-**Problema o efecto a analizar**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Problema o efecto a analizar** | | | |
 
-**Categoría** · **Causas identificadas en esa categoría** · **Causa más probable**
-Categoría 1
-Categoría 2
-Categoría 3
-Categoría 4
-Categoría 5
-Categoría 6
+| **Categoría** | **Causas identificadas en esa categoría** | **Causa más probable** |
+| --- | --- | --- |
+| Categoría 1 | | |
+| Categoría 2 | | |
+| Categoría 3 | | |
+| Categoría 4 | | |
+| Categoría 5 | | |
+| Categoría 6 | | |
 
 #### Análisis final
 
-**¿Qué causa o categoría parece tener más influencia sobre el problema?**
-**¿Hay causas que se repiten en más de una categoría (causas transversales)?**
-**¿Sobre qué causa sería más fácil o más efectivo actuar? ¿Por qué?**
+| **¿Qué causa o categoría parece tener más influencia sobre el problema?** | |
+| --- | --- |
+| **¿Hay causas que se repiten en más de una categoría (causas transversales)?** | |
+| **¿Sobre qué causa sería más fácil o más efectivo actuar? ¿Por qué?** | |
 
 **Clave pedagógica:** las categorías de causas (las espinas principales) son la decisión más importante del diagrama. Las categorías genéricas tipo «personas, métodos, materiales» funcionan bien en contextos industriales; en educación o ciencias sociales puede ser más útil definir categorías específicas del problema (históricas, económicas, sociales, culturales). El diagrama pierde valor si se rellena rápido sin preguntar «¿y por qué ocurre esa causa?» en cada subespina.
 
@@ -6454,15 +6552,17 @@ Al estudiar la Edad Contemporánea, el alumnado construye una línea de tiempo a
 
 Representación cronológica de acontecimientos, etapas o procesos. Indica las fechas en la fila superior y los eventos en la fila inferior. Marca duraciones con una barra si el evento se extiende en el tiempo. Al terminar, interpreta la línea: no basta con situar hechos; hay que leer qué revelan las secuencias, ritmos y relaciones.
 
-**Alumno/a** · **Fecha**
-**Tema / Periodo representado** · **Escala**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema / Periodo representado** | | **Escala** | |
 
 #### Interpretación
 
-**¿Qué periodo concentra más cambios o acontecimientos? ¿Por qué?**
-**¿Hay hechos que ocurren simultáneamente y que se relacionan entre sí?**
-**¿Qué acontecimiento parece ser causa de otro posterior? ¿Cuál?**
-**¿Qué periodo de calma o ausencia de cambios llama la atención?**
+| **¿Qué periodo concentra más cambios o acontecimientos? ¿Por qué?** | |
+| --- | --- |
+| **¿Hay hechos que ocurren simultáneamente y que se relacionan entre sí?** | |
+| **¿Qué acontecimiento parece ser causa de otro posterior? ¿Cuál?** | |
+| **¿Qué periodo de calma o ausencia de cambios llama la atención?** | |
 
 **Clave pedagógica:** situar fechas y eventos es el paso más fácil y el menos formativo. El aprendizaje real ocurre en la interpretación: detectar ritmos, simultaneidades, causas y consecuencias, o periodos de aceleración o estancamiento. Sin las preguntas de interpretación, la línea de tiempo es un ejercicio de memoria; con ellas, es un instrumento de análisis histórico, científico o social.
 
@@ -6507,16 +6607,19 @@ Para comparar mamíferos y aves, el alumnado dibuja dos círculos. En el de mam�
 
 Organizador gráfico para comparar dos (o tres) conceptos, textos, fenómenos o elementos. La zona exclusiva de cada círculo contiene las características propias; la zona de intersección, las compartidas. El análisis real ocurre al interpretar *qué significa* lo que comparten y lo que no.
 
-**Alumno/a** · **Fecha**
-**Elemento A** · **Elemento B**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Elemento A** | | **Elemento B** | |
 
-Solo A — características exclusivas · En común — A ∩ B · Solo B — características exclusivas
+| Solo A — características exclusivas | En común — A ∩ B | Solo B — características exclusivas |
+| --- | --- | --- |
 
 #### Interpretación
 
-**¿Qué revela la zona común que no verías estudiando cada elemento por separado?**
-**¿Cuál es la diferencia más significativa y por qué?**
-**¿Alguna característica ha sido difícil de situar? ¿Por qué pertenece a una zona y no a otra?**
+| **¿Qué revela la zona común que no verías estudiando cada elemento por separado?** | |
+| --- | --- |
+| **¿Cuál es la diferencia más significativa y por qué?** | |
+| **¿Alguna característica ha sido difícil de situar? ¿Por qué pertenece a una zona y no a otra?** | |
 
 **Clave pedagógica:** los elementos que son difíciles de situar (¿pertenecen a A, a B o a los dos?) son los más formativos. Esa dificultad revela comprensión imprecisa del concepto o genuina ambigüedad del fenómeno, y ambas son valiosas para la discusión. La pregunta «¿qué revela la zona común?» impide que el ejercicio quede en clasificación mecánica y lo convierte en análisis conceptual.
 
@@ -6610,8 +6713,9 @@ En un proyecto de investigación, cada alumno acuerda con el profesor la pregunt
 
 Acuerdo entre el alumno o alumna y el docente sobre qué aprender, cómo y con qué criterios de evaluación. Completar cada apartado antes de iniciar el trabajo.
 
-**Alumno/a** · **Fecha**
-**Asignatura / Proyecto**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Asignatura / Proyecto** | | | |
 
 #### Objetivo de aprendizaje
 
@@ -6621,11 +6725,12 @@ Acuerdo entre el alumno o alumna y el docente sobre qué aprender, cómo y con q
 
 *¿Qué voy a hacer para alcanzar el objetivo? ¿Qué entregaré o presentaré?*
 
-**#** · **Tarea / Producto** · **Fecha límite**
-1
-2
-3
-4
+| **#** | **Tarea / Producto** | **Fecha límite** |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| 4 | | |
 
 #### Recursos
 
@@ -6635,13 +6740,16 @@ Acuerdo entre el alumno o alumna y el docente sobre qué aprender, cómo y con q
 
 *¿Cómo sabremos que el objetivo se ha conseguido? ¿Qué se valorará?*
 
-**Criterio** · **Indicador de logro** · **Peso (%)**
+| **Criterio** | **Indicador de logro** | **Peso (%)** |
+| --- | --- | --- |
 
 #### Revisión y seguimiento
 
-**Fecha revisión** · **Observaciones** · **¿Se cumple?**
+| **Fecha revisión** | **Observaciones** | **¿Se cumple?** |
+| --- | --- | --- |
 
-**Firma del alumno/a** · **Firma del docente**
+| **Firma del alumno/a** | **Firma del docente** |
+| --- | --- |
 
 Este contrato puede revisarse y renegociarse si las circunstancias cambian, siempre con acuerdo de ambas partes.
 
@@ -6691,20 +6799,23 @@ Después de una exposición oral, cada alumno valora claridad, dominio del conte
 
 Instrumento de autoevaluación o coevaluación visual. El alumnado marca en cada sector el nivel alcanzado: **más cerca del centro = menor logro, más cerca del borde = mayor logro**. Antes de usar la diana, escribe los criterios en la tabla inferior.
 
-**Alumno/a** · **Fecha**
-**Tarea / Actividad evaluada**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tarea / Actividad evaluada** | | | |
 
-**Sector** · **Criterio de evaluación** · **Nivel (1–4)** · **Reflexión o evidencia**
-C1
-C2
-C3
-C4
-C5
+| **Sector** | **Criterio de evaluación** | **Nivel (1–4)** | **Reflexión o evidencia** |
+| --- | --- | --- | --- |
+| C1 | | | |
+| C2 | | | |
+| C3 | | | |
+| C4 | | | |
+| C5 | | | |
 
 #### Reflexión global
 
-**¿En qué criterio has obtenido el nivel más alto? ¿A qué lo atribuyes?**
-**¿En qué criterio hay más margen de mejora? ¿Qué harías diferente?**
+| **¿En qué criterio has obtenido el nivel más alto? ¿A qué lo atribuyes?** | |
+| --- | --- |
+| **¿En qué criterio hay más margen de mejora? ¿Qué harías diferente?** | |
 
 **Clave pedagógica:** la diana muestra el perfil de logro de forma visual: un alumno puede ver de un vistazo qué criterios domina y cuáles necesita reforzar. La columna «reflexión o evidencia» es la que convierte la diana en aprendizaje: obliga a justificar el nivel marcado con algo concreto, no a autoevaluarse intuitivamente. Usar la diana antes de la tarea (¿qué nivel espero alcanzar?) y después (¿qué he alcanzado?) añade la dimensión de planificación y metacognición.
 
@@ -6754,23 +6865,27 @@ Después de trabajar la mitosis, los alumnos escriben en una tarjeta la diferenc
 
 El docente reserva 1–2 minutos al final de la explicación o sesión. El alumnado responde por escrito. Las respuestas se leen antes de la siguiente clase para ajustar el inicio o detectar errores conceptuales frecuentes.
 
-**Alumno/a** · **Fecha**
-**Tema / Sesión**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema / Sesión** | | | |
 
 #### Modalidad estándar
 
-**¿Qué idea importante has aprendido hoy?**
-**¿Qué punto te ha quedado menos claro o te genera más dudas?**
+| **¿Qué idea importante has aprendido hoy?** | |
+| --- | --- |
+| **¿Qué punto te ha quedado menos claro o te genera más dudas?** | |
 
 #### Modalidad orientada a la transferencia
 
-**¿Qué ejemplo concreto podrías poner de lo trabajado hoy?**
-**¿En qué otra situación o contexto podrías aplicar lo que has aprendido?**
+| **¿Qué ejemplo concreto podrías poner de lo trabajado hoy?** | |
+| --- | --- |
+| **¿En qué otra situación o contexto podrías aplicar lo que has aprendido?** | |
 
 #### Modalidad orientada a la comprensión profunda
 
-**¿Qué pregunta formularías para comprobar si alguien ha entendido realmente el tema?**
-**¿Qué conexión encuentras entre lo de hoy y algo que ya sabías antes?**
+| **¿Qué pregunta formularías para comprobar si alguien ha entendido realmente el tema?** | |
+| --- | --- |
+| **¿Qué conexión encuentras entre lo de hoy y algo que ya sabías antes?** | |
 
 **Clave pedagógica:** el Minute Paper es una herramienta de evaluación formativa para el docente, no solo para el alumno. Su valor depende de lo que el docente hace con las respuestas: empezar la siguiente sesión retomando las dudas más frecuentes, corregir un error conceptual que aparece en varios papeles o confirmar que un concepto está bien asimilado. Sin esa lectura y respuesta, el Minute Paper pierde su función diagnóstica.
 
@@ -6819,13 +6934,15 @@ Después de explicar las funciones exponenciales, varios alumnos indican que el 
 
 Al final de la explicación o actividad, el alumnado identifica el aspecto que le ha resultado **más confuso o difícil**. La respuesta debe ser concreta: no «no he entendido nada», sino qué parte exactamente y por qué cuesta.
 
-**Alumno/a** · **Fecha**
-**Tema / Sesión**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Tema / Sesión** | | | |
 
-**¿Qué ha sido lo más confuso o difícil de lo trabajado hoy?**
-**¿Por qué crees que te ha resultado confuso? (Falta de base previa, el ritmo de la explicación, el vocabulario, la conexión con otro concepto…)**
-**¿Qué necesitarías para entenderlo mejor? (Otro ejemplo, una explicación más lenta, practicarlo, relacionarlo con algo conocido…)**
-**¿Puedes formular tu duda como una pregunta concreta?**
+| **¿Qué ha sido lo más confuso o difícil de lo trabajado hoy?** | |
+| --- | --- |
+| **¿Por qué crees que te ha resultado confuso? (Falta de base previa, el ritmo de la explicación, el vocabulario, la conexión con otro concepto…)** | |
+| **¿Qué necesitarías para entenderlo mejor? (Otro ejemplo, una explicación más lenta, practicarlo, relacionarlo con algo conocido…)** | |
+| **¿Puedes formular tu duda como una pregunta concreta?** | |
 
 **Clave pedagógica:** la pregunta «¿qué necesitarías para entenderlo mejor?» transforma la duda pasiva en información accionable. Al agrupar las respuestas antes de la siguiente sesión, el docente detecta si la confusión es puntual (un alumno) o sistémica (varios comparten la misma dificultad). En el segundo caso, merece un tratamiento colectivo antes de avanzar.
 
@@ -7002,13 +7119,14 @@ Después cambian los roles, intercambian las tarjetas y buscan una nueva pareja.
 
 Imprime esta página, dobla cada fila por la línea central (la pregunta queda delante, la respuesta detrás) y recorta por las líneas discontinuas. Cada alumno/a recibe una tarjeta antes de empezar la dinámica.
 
-**PREGUNTA — cara delantera** · **✂ doblar** · **RESPUESTA — cara trasera**
-Tarjeta 1 · Asignatura: __________ Tema: __________ · ✂ doblar
-Tarjeta 2 · Asignatura: __________ Tema: __________ · ✂ doblar
-Tarjeta 3 · Asignatura: __________ Tema: __________ · ✂ doblar
-Tarjeta 4 · Asignatura: __________ Tema: __________ · ✂ doblar
-Tarjeta 5 · Asignatura: __________ Tema: __________ · ✂ doblar
-Tarjeta 6 · Asignatura: __________ Tema: __________ · ✂ doblar
+| **PREGUNTA — cara delantera** | **✂ doblar** | **RESPUESTA — cara trasera** |
+| --- | --- | --- |
+| Tarjeta 1 · Asignatura: __________ Tema: __________ | ✂ doblar | |
+| Tarjeta 2 · Asignatura: __________ Tema: __________ | ✂ doblar | |
+| Tarjeta 3 · Asignatura: __________ Tema: __________ | ✂ doblar | |
+| Tarjeta 4 · Asignatura: __________ Tema: __________ | ✂ doblar | |
+| Tarjeta 5 · Asignatura: __________ Tema: __________ | ✂ doblar | |
+| Tarjeta 6 · Asignatura: __________ Tema: __________ | ✂ doblar | |
 
 **Clave pedagógica:** la tarjeta debe tener una pregunta con una respuesta clara y verificable. Las mejores preguntas son las que el propio alumnado podría formular después de estudiar el tema: ese proceso de elaborar preguntas (antes de la dinámica) es tan formativo como la dinámica en sí. Evitar preguntas de sí/no y preguntas con respuesta ambigua; en la dinámica, el alumno A da feedback inmediato, lo que requiere que la respuesta sea inequívoca.
 
@@ -7133,29 +7251,32 @@ Un alumno puede responder: “He entendido que las fábricas cambiaron la organi
 
 El alumnado completa este ticket **antes de salir de clase**. Permite al docente detectar qué se ha comprendido, qué dudas persisten y cómo ha vivido la sesión. Se recomienda leerlos antes de la siguiente clase para ajustar el inicio.
 
-**Alumno/a** · **Fecha**
-**Asignatura / Tema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Asignatura / Tema** | | | |
 
 #### Modalidad 3 · 2 · 1
 
-**3** · **Tres cosas que he aprendido hoy**
-1
-2
-3
-**2** · **Dos dudas o preguntas que me han quedado**
-1
-2
-**1** · **Una conexión con algo que ya sabía o una opinión sobre la sesión**
+| **3** | **Tres cosas que he aprendido hoy** |
+| --- | --- |
+| 1 | |
+| 2 | |
+| 3 | |
+| **2** | **Dos dudas o preguntas que me han quedado** |
+| 1 | |
+| 2 | |
+| **1** | **Una conexión con algo que ya sabía o una opinión sobre la sesión** |
 
 #### Variante: preguntas abiertas
 
 Alternativa al formato 3·2·1. Elige las preguntas que mejor encajen con la sesión.
 
-**Pregunta** · **Respuesta del alumno/a**
-¿Qué es lo más importante que has aprendido hoy?
-¿Qué parte te ha resultado más difícil de entender?
-¿Qué pregunta te llevas a casa?
-¿Cómo de seguro/a te sientes con el tema? (1–5)
+| **Pregunta** | **Respuesta del alumno/a** |
+| --- | --- |
+| ¿Qué es lo más importante que has aprendido hoy? | |
+| ¿Qué parte te ha resultado más difícil de entender? | |
+| ¿Qué pregunta te llevas a casa? | |
+| ¿Cómo de seguro/a te sientes con el tema? (1–5) | |
 
 **Clave pedagógica:** el valor del ticket de salida no está en rellenarlo, sino en lo que hace el docente con la información. Leer los tickets antes de la siguiente sesión y empezar retomando las dudas más frecuentes cierra el ciclo formativo y refuerza la percepción del alumnado de que su voz importa.
 
@@ -7216,26 +7337,30 @@ El revisor señala una idea clara del texto, una parte que no se entiende bien y
 
 Guía para revisar el trabajo de un compañero o compañera. La revisión útil es concreta, respetuosa y orientada a mejorar. No se trata de corregir errores: se trata de contrastar el trabajo con criterios claros y proponer pasos de mejora específicos.
 
-**Trabajo revisado** · **Fecha**
-**Autor/a del trabajo** · **Revisor/a**
-**Tarea / Actividad**
+| **Trabajo revisado** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Autor/a del trabajo** | | **Revisor/a** | |
+| **Tarea / Actividad** | | | |
 
 #### Criterios de revisión
 
 *Evalúa cada criterio y añade un comentario concreto. Si no aparece un criterio relevante, añádelo en las filas en blanco.*
 
-**Criterio** · **Logrado ✓** · **Parcial △** · **Por mejorar ✗** · **Comentario concreto**
+| **Criterio** | **Logrado ✓** | **Parcial △** | **Por mejorar ✗** | **Comentario concreto** |
+| --- | --- | --- | --- | --- |
 
 #### Propuestas de mejora
 
-**Aspecto más logrado del trabajo (sé específico)**
-**Propuesta de mejora más importante (describe qué hacer exactamente)**
-**Una pregunta que te hace este trabajo**
+| **Aspecto más logrado del trabajo (sé específico)** | |
+| --- | --- |
+| **Propuesta de mejora más importante (describe qué hacer exactamente)** | |
+| **Una pregunta que te hace este trabajo** | |
 
 #### Respuesta del autor/a (a rellenar después de leer la revisión)
 
-**¿Qué cambio aplicarás en la versión mejorada?**
-**¿Hay algún comentario con el que no estás de acuerdo? ¿Por qué?**
+| **¿Qué cambio aplicarás en la versión mejorada?** | |
+| --- | --- |
+| **¿Hay algún comentario con el que no estás de acuerdo? ¿Por qué?** | |
 
 **Clave pedagógica:** la revisión entre iguales falla cuando los comentarios son vagos («está bien» o «mejora la estructura») o cuando el autor no responde al feedback. Los dos elementos más importantes son: (1) que los comentarios concretos de mejora describan *qué hacer exactamente*, no solo qué falta; (2) que el autor responda activamente decidiendo qué cambia y por qué. Sin la respuesta del autor, el ciclo formativo queda incompleto.
 
@@ -7280,8 +7405,9 @@ Tras una exposición oral sobre un problema ambiental, un compañero escribe: �
 
 Formulario de feedback para revisar una producción propia o de un compañero o compañera. Las **estrellas** reconocen lo que funciona bien. El **deseo** propone una mejora concreta. El feedback útil es siempre específico: nombra qué parte, qué frase, qué aspecto.
 
-**Trabajo revisado** · **Fecha**
-**Autor/a del trabajo** · **Revisor/a**
+| **Trabajo revisado** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Autor/a del trabajo** | | **Revisor/a** | |
 
 #### ⭐ Estrella 1 — Un aspecto logrado
 
@@ -7299,7 +7425,8 @@ Formulario de feedback para revisar una producción propia o de un compañero o 
 
 *Después de leer el feedback: ¿qué cambio aplicarás? ¿Hay algo con lo que no estás de acuerdo?*
 
-**Cambio que aplicaré** · **Por qué lo aplicaré (o por qué no)**
+| **Cambio que aplicaré** | **Por qué lo aplicaré (o por qué no)** |
+| --- | --- |
 
 **Clave pedagógica:** el deseo es la parte más difícil de formular bien. Enseñar al alumnado a pasar de «mejora la explicación» a «en el párrafo 3, añade una frase que explique por qué ocurre X» requiere práctica y modelado. La «respuesta del autor/a» cierra el ciclo: sin ella el feedback es un monólogo, no una conversación de aprendizaje.
 
@@ -7882,18 +8009,22 @@ La técnica ayuda a que el alumnado no solo defienda una postura, sino que recon
 
 El modelo de Toulmin descompone un argumento en seis elementos. Los tres centrales son obligatorios (afirmación, datos, garantía); los tres complementarios añaden precisión y solidez. Completa primero los tres centrales y después añade los complementarios.
 
-**Alumno/a** · **Fecha**
-**Cuestión / Texto / Problema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Cuestión / Texto / Problema** | | | |
 
-D — DATOS / EVIDENCIAS Hechos, observaciones, resultados o información que apoya la afirmación. · → · G — GARANTÍA Principio, regla o razonamiento que conecta los datos con la afirmación. · → · A — AFIRMACIÓN La conclusión o tesis que se defiende.
+| D — DATOS / EVIDENCIAS Hechos, observaciones, resultados o información que apoya la afirmación. | → | G — GARANTÍA Principio, regla o razonamiento que conecta los datos con la afirmación. | → | A — AFIRMACIÓN La conclusión o tesis que se defiende. |
+| --- | --- | --- | --- | --- |
 
-R — RESPALDO (opcional) Apoyo adicional a la garantía: teoría, ley, fuente o consenso experto que la respalda. · M — MATIZADOR (opcional) Grado de certeza o alcance de la afirmación: «probablemente», «en la mayoría de los casos», «según los datos disponibles»… · RF — REFUTACIÓN (opcional) Condiciones, excepciones u objeciones que limitarían o negarían la afirmación.
+| R — RESPALDO (opcional) Apoyo adicional a la garantía: teoría, ley, fuente o consenso experto que la respalda. | M — MATIZADOR (opcional) Grado de certeza o alcance de la afirmación: «probablemente», «en la mayoría de los casos», «según los datos disponibles»… | RF — REFUTACIÓN (opcional) Condiciones, excepciones u objeciones que limitarían o negarían la afirmación. |
+| --- | --- | --- |
 
 #### Revisión del argumento
 
-**¿La garantía establece una relación lógica clara entre los datos y la afirmación?** · ☐ Sí ☐ No ☐ A medias
-**¿Los datos son suficientes para sostener la afirmación?** · ☐ Sí ☐ No ☐ A medias
-**¿La refutación debilita o matiza el argumento? ¿Cómo respondería ante ella?**
+| **¿La garantía establece una relación lógica clara entre los datos y la afirmación?** | ☐ Sí ☐ No ☐ A medias |
+| --- | --- |
+| **¿Los datos son suficientes para sostener la afirmación?** | ☐ Sí ☐ No ☐ A medias |
+| **¿La refutación debilita o matiza el argumento? ¿Cómo respondería ante ella?** | |
 
 **Clave pedagógica:** la *garantía* es el elemento más difícil y más valioso. No es una evidencia adicional; es el principio que explica *por qué* los datos permiten llegar a la afirmación. Sin garantía explícita, los argumentos son afirmaciones respaldadas por datos pero sin la conexión lógica que los une. La refutación no debilita el argumento: lo hace más sólido al mostrar que el autor ha anticipado sus límites.
 
@@ -7939,24 +8070,29 @@ En ciudadanía, el alumnado construye un mapa sobre la pregunta: “¿Debe limit
 
 Organizador visual para representar la estructura de un argumento: la tesis, las razones que la sostienen, las evidencias de cada razón, las objeciones posibles y las respuestas a esas objeciones. Completa primero la tesis y las razones; añade evidencias y objeciones después.
 
-**Alumno/a** · **Fecha**
-**Cuestión / Texto / Problema**
+| **Alumno/a** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Cuestión / Texto / Problema** | | | |
 
-TESIS — Afirmación principal que se defiende
+| TESIS — Afirmación principal que se defiende |
+| --- |
 
 ↓ apoyada por ↓
 
-RAZÓN 1 · RAZÓN 2 · RAZÓN 3
-Evidencias: · Evidencias: · Evidencias:
+| RAZÓN 1 | RAZÓN 2 | RAZÓN 3 |
+| --- | --- | --- |
+| Evidencias: | Evidencias: | Evidencias: |
 
 #### Objeciones y respuestas
 
-**Objeción o contraargumento posible** · **Respuesta o matiz desde la tesis**
+| **Objeción o contraargumento posible** | **Respuesta o matiz desde la tesis** |
+| --- | --- |
 
 #### Revisión final del argumento
 
-**¿La razón más débil del argumento? ¿Qué evidencia adicional la reforzaría?**
-**¿La objeción más difícil de rebatir? ¿Cómo matizarías la tesis por esa causa?**
+| **¿La razón más débil del argumento? ¿Qué evidencia adicional la reforzaría?** | |
+| --- | --- |
+| **¿La objeción más difícil de rebatir? ¿Cómo matizarías la tesis por esa causa?** | |
 
 **Clave pedagógica:** el mapa de argumentos hace visible la arquitectura del razonamiento. Una tesis con tres razones fuertes pero sin objeciones ni respuestas es un argumento incompleto: anticipar objeciones y responderlas es lo que distingue la argumentación sofisticada de la simple defensa de una posición. La revisión final, enfocada en la razón más débil y la objeción más difícil, es el paso más honesto y más útil del proceso.
 
@@ -8926,16 +9062,19 @@ Antes de exponer, cada grupo revisa su presentación con la rúbrica y detecta q
 
 Plantilla genérica de rúbrica analítica. Define los criterios de calidad de la tarea y los niveles de logro para cada uno. Comparte la rúbrica con el alumnado **antes** de realizar la tarea: su función principal es orientar el trabajo, no solo calificarlo.
 
-**Tarea / Actividad** · **Fecha**
-**Asignatura** · **Curso**
+| **Tarea / Actividad** | | **Fecha** | |
+| --- | --- | --- | --- |
+| **Asignatura** | | **Curso** | |
 
-**Criterio** · **Excelente (4) Supera las expectativas** · **Satisfactorio (3) Cumple las expectativas** · **En proceso (2) Cumple parcialmente** · **Inicial (1) No cumple** · **Peso (%)**
-Total (suma ponderada) · 100 %
+| **Criterio** | **Excelente (4) Supera las expectativas** | **Satisfactorio (3) Cumple las expectativas** | **En proceso (2) Cumple parcialmente** | **Inicial (1) No cumple** | **Peso (%)** |
+| --- | --- | --- | --- | --- | --- |
+| Total (suma ponderada) | 100 % | | | | |
 
 #### Usos de esta rúbrica
 
-**Antes de la tarea** · **Durante el proceso** · **Al evaluar**
-El alumnado lee la rúbrica para entender qué se espera y cómo organizar su trabajo. · El alumnado la usa para revisar su borrador y detectar qué mejorar antes de entregar. · El docente, el propio alumno o un compañero la usan para evaluar y dar feedback concreto.
+| **Antes de la tarea** | **Durante el proceso** | **Al evaluar** |
+| --- | --- | --- |
+| El alumnado lee la rúbrica para entender qué se espera y cómo organizar su trabajo. | El alumnado la usa para revisar su borrador y detectar qué mejorar antes de entregar. | El docente, el propio alumno o un compañero la usan para evaluar y dar feedback concreto. |
 
 **Clave pedagógica:** una rúbrica útil describe comportamientos observables, no valoraciones genéricas. «Explica las ideas con claridad y ejemplos propios» es un descriptor útil; «demuestra comprensión del tema» no lo es porque no describe qué hace el alumno ni cómo reconocerlo. La diferencia entre el nivel 3 y el 4 debe ser suficientemente clara como para que el propio alumnado pueda ubicarse sin ayuda del docente.
 

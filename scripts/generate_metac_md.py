@@ -103,30 +103,42 @@ LANGS = {
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
 def _table_to_md(match):
-    """Convert an HTML table to readable Markdown lines.
-    - <th> cells → bold labels (questions, criteria headers)
-    - <td> cells → only included if non-empty (empty cells are student-writing areas)
+    """Convert an HTML table to a Markdown table (| col | col |).
+    - <th> cells → bold
+    - <td> cells → plain text (empty cells kept as blank columns)
+    Rows where every cell is empty are skipped.
     """
     table_html = match.group(0)
     rows = []
     for row_m in re.finditer(r'<tr[^>]*>(.*?)</tr>', table_html, re.DOTALL | re.IGNORECASE):
         row_html = row_m.group(1)
-        parts = []
-        for th_m in re.finditer(r'<th[^>]*>(.*?)</th>', row_html, re.DOTALL | re.IGNORECASE):
-            cell = re.sub(r'<[^>]+>', ' ', th_m.group(1))
-            cell = html_module.unescape(cell)
-            cell = re.sub(r'\s+', ' ', cell).strip()
-            if cell:
-                parts.append(f'**{cell}**')
-        for td_m in re.finditer(r'<td[^>]*>(.*?)</td>', row_html, re.DOTALL | re.IGNORECASE):
-            cell = re.sub(r'<[^>]+>', ' ', td_m.group(1))
-            cell = html_module.unescape(cell)
-            cell = re.sub(r'\s+', ' ', cell).strip()
-            if cell:
-                parts.append(cell)
-        if parts:
-            rows.append(' · '.join(parts))
-    return ('\n'.join(rows) + '\n') if rows else ''
+        cells = []
+        for cell_m in re.finditer(r'<(th|td)([^>]*)>(.*?)</\1>', row_html, re.DOTALL | re.IGNORECASE):
+            tag  = cell_m.group(1).lower()
+            content = re.sub(r'<[^>]+>', ' ', cell_m.group(3))
+            content = html_module.unescape(content)
+            content = re.sub(r'\s+', ' ', content).strip()
+            # Escape pipe characters inside cells
+            content = content.replace('|', '\\|')
+            cells.append(f'**{content}**' if (tag == 'th' and content) else content)
+        if any(c.strip() for c in cells):
+            rows.append(cells)
+
+    if not rows:
+        return ''
+
+    # Normalize column count across all rows
+    max_cols = max(len(r) for r in rows)
+    for r in rows:
+        while len(r) < max_cols:
+            r.append('')
+
+    lines = []
+    lines.append('| ' + ' | '.join(rows[0]) + ' |')
+    lines.append('| ' + ' | '.join(['---'] * max_cols) + ' |')
+    for row in rows[1:]:
+        lines.append('| ' + ' | '.join(row) + ' |')
+    return '\n' + '\n'.join(lines) + '\n'
 
 
 def load_template(lang, item_id):

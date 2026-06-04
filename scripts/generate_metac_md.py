@@ -5,10 +5,11 @@ Uso: python3 scripts/generate_metac_md.py
 Salida: metac-es.md, metac-ca.md (en la raíz del proyecto)
 """
 
-import html as html_module
 import json
 import os
 import re
+
+import markdownify
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -102,84 +103,29 @@ LANGS = {
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
-def _table_to_md(match):
-    """Convert an HTML table to a Markdown table (| col | col |).
-    - <th> cells → bold
-    - <td> cells → plain text (empty cells kept as blank columns)
-    Rows where every cell is empty are skipped.
-    """
-    table_html = match.group(0)
-    rows = []
-    for row_m in re.finditer(r'<tr[^>]*>(.*?)</tr>', table_html, re.DOTALL | re.IGNORECASE):
-        row_html = row_m.group(1)
-        cells = []
-        for cell_m in re.finditer(r'<(th|td)([^>]*)>(.*?)</\1>', row_html, re.DOTALL | re.IGNORECASE):
-            tag  = cell_m.group(1).lower()
-            content = re.sub(r'<[^>]+>', ' ', cell_m.group(3))
-            content = html_module.unescape(content)
-            content = re.sub(r'\s+', ' ', content).strip()
-            # Escape pipe characters inside cells
-            content = content.replace('|', '\\|')
-            cells.append(f'**{content}**' if (tag == 'th' and content) else content)
-        if any(c.strip() for c in cells):
-            rows.append(cells)
-
-    if not rows:
-        return ''
-
-    # Normalize column count across all rows
-    max_cols = max(len(r) for r in rows)
-    for r in rows:
-        while len(r) < max_cols:
-            r.append('')
-
-    lines = []
-    lines.append('| ' + ' | '.join(rows[0]) + ' |')
-    lines.append('| ' + ' | '.join(['---'] * max_cols) + ' |')
-    for row in rows[1:]:
-        lines.append('| ' + ' | '.join(row) + ' |')
-    return '\n' + '\n'.join(lines) + '\n'
-
-
 def load_template(lang, item_id):
-    """Load a template HTML and convert it to Markdown. Returns None if absent."""
+    """Load a template HTML and convert it to Markdown using markdownify.
+    Returns None if the template file does not exist.
+    """
     path = os.path.join(BASE_DIR, "templates", lang, f"{item_id}.html")
     if not os.path.exists(path):
         return None
     with open(path, encoding="utf-8") as f:
         raw = f.read()
 
-    # 1. Drop SVG blocks (diagrams are meaningless as text)
+    # Remove SVG blocks before conversion (diagrams are meaningless as text)
     raw = re.sub(r'<svg[^>]*>.*?</svg>', '', raw, flags=re.DOTALL | re.IGNORECASE)
-    # 2. Drop HTML comments
-    raw = re.sub(r'<!--.*?-->', '', raw, flags=re.DOTALL)
-    # 3. Headings
-    raw = re.sub(r'<h4[^>]*>(.*?)</h4>',
-                 lambda m: '\n#### ' + re.sub(r'<[^>]+>', '', m.group(1)).strip() + '\n',
-                 raw, flags=re.DOTALL | re.IGNORECASE)
-    # 4. Inline formatting
-    raw = re.sub(r'<strong[^>]*>(.*?)</strong>', r'**\1**', raw, flags=re.DOTALL | re.IGNORECASE)
-    raw = re.sub(r'<em[^>]*>(.*?)</em>',         r'*\1*',  raw, flags=re.DOTALL | re.IGNORECASE)
-    # 5. Line breaks
-    raw = re.sub(r'<br\s*/?>', '\n', raw, flags=re.IGNORECASE)
-    # 6. List items
-    raw = re.sub(r'<li[^>]*>(.*?)</li>',
-                 lambda m: '\n- ' + re.sub(r'<[^>]+>', '', m.group(1)).strip(),
-                 raw, flags=re.DOTALL | re.IGNORECASE)
-    raw = re.sub(r'</?[uo]l[^>]*>', '', raw, flags=re.IGNORECASE)
-    # 7. Tables → structured lines
-    raw = re.sub(r'<table[^>]*>.*?</table>', _table_to_md, raw, flags=re.DOTALL | re.IGNORECASE)
-    # 8. Paragraphs
-    raw = re.sub(r'<p[^>]*>(.*?)</p>', r'\n\1\n', raw, flags=re.DOTALL | re.IGNORECASE)
-    # 9. Strip remaining tags
-    raw = re.sub(r'<[^>]+>', '', raw)
-    # 10. Decode entities and clean whitespace
-    raw = html_module.unescape(raw)
-    raw = re.sub(r'[ \t]+', ' ', raw)
-    raw = re.sub(r' \n', '\n', raw)
-    raw = re.sub(r'\n ', '\n', raw)
-    raw = re.sub(r'\n{3,}', '\n\n', raw)
-    return raw.strip()
+
+    md = markdownify.markdownify(
+        raw,
+        heading_style=markdownify.ATX,   # ## style headings
+        bullets='-',
+        strip=['style', 'script'],
+    )
+
+    # Collapse runs of blank lines left by empty table cells / divs
+    md = re.sub(r'\n{3,}', '\n\n', md)
+    return md.strip()
 
 def load_json(lang, filename):
     path = os.path.join(BASE_DIR, "data", lang, filename)

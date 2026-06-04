@@ -1,0 +1,84 @@
+<p>Instrument d'autoavaluació o coavaluació visual. L'alumnat marca a cada sector el nivell assolit: <strong>més a prop del centre = menor assoliment, més a prop del marge = major assoliment</strong>. Abans d'usar la diana, escriu els criteris a la taula inferior.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <th style="width:160px">Alumne/a</th>
+      <td></td>
+      <th style="width:110px">Data</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tasca / Activitat avaluada</th>
+      <td colspan="3"></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Diana SVG -->
+<div style="text-align:center;margin:16px 0 8px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" style="width:100%;max-width:400px;display:inline-block">
+  <!-- Anells concèntrics de fora cap a dins -->
+  <circle cx="220" cy="220" r="160" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="220" cy="220" r="120" fill="#fef3c7" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="220" cy="220" r="80"  fill="#dbeafe" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="220" cy="220" r="40"  fill="#d1fae5" stroke="#e2e8f0" stroke-width="1.5"/>
+  <!-- Línies divisòries de sectors (5 sectors, 72° cadascun) -->
+  <!-- 0°(top) -->  <line x1="220" y1="220" x2="220" y2="60"   stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 72° -->      <line x1="220" y1="220" x2="372" y2="171"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 144° -->     <line x1="220" y1="220" x2="314" y2="350"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 216° -->     <line x1="220" y1="220" x2="126" y2="350"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- 288° -->     <line x1="220" y1="220" x2="68"  y2="171"  stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Etiquetes d'escala (al sector esquerre, entre els raigs 288° i 0°) -->
+  <text x="183" y="193" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">1</text>
+  <text x="174" y="210" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">2</text>
+  <text x="161" y="218" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">3</text>
+  <text x="145" y="218" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#94a3b8">4</text>
+  <!-- Etiquetes de sector (al marge exterior, a cada sector) -->
+  <!-- Sector 1: midpoint 36° → (326, 74) -->
+  <text x="326" y="74"  text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C1</text>
+  <!-- Sector 2: midpoint 108° → (391, 276) -->
+  <text x="391" y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C2</text>
+  <!-- Sector 3: midpoint 180° → (220, 400) -->
+  <text x="220" y="400" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C3</text>
+  <!-- Sector 4: midpoint 252° → (49, 276) -->
+  <text x="49"  y="278" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C4</text>
+  <!-- Sector 5: midpoint 324° → (114, 74) -->
+  <text x="114" y="74"  text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="12" fill="#374151">C5</text>
+</svg>
+</div>
+
+<!-- Llegenda de criteris -->
+<table>
+  <thead>
+    <tr>
+      <th style="width:50px;text-align:center">Sector</th>
+      <th>Criteri d'avaluació</th>
+      <th style="width:70px;text-align:center">Nivell<br>(1–4)</th>
+      <th>Reflexió o evidència</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="text-align:center;font-weight:700">C1</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C2</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C3</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C4</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+    <tr><td style="text-align:center;font-weight:700">C5</td><td style="height:36px"></td><td style="text-align:center"></td><td></td></tr>
+  </tbody>
+</table>
+
+<h4>Reflexió global</h4>
+<table>
+  <tbody>
+    <tr>
+      <th style="width:52%">En quin criteri has obtingut el nivell més alt? A què ho atribueixes?</th>
+      <td style="height:36px"></td>
+    </tr>
+    <tr>
+      <th>En quin criteri hi ha més marge de millora? Què faries diferent?</th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="note"><strong>Clau pedagògica:</strong> la diana mostra el perfil d'assoliment de manera visual: un alumne pot veure d'un cop d'ull quins criteris domina i quins necessita reforçar. La columna «reflexió o evidència» és la que converteix la diana en aprenentatge: obliga a justificar el nivell marcat amb alguna cosa concreta, no a autoavaluar-se intuïtivament. Usar la diana abans de la tasca (quin nivell espero assolir?) i després (quin he assolit?) afegeix la dimensió de planificació i metacognició.</p>

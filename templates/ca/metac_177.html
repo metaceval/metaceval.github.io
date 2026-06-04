@@ -1,0 +1,129 @@
+<p>Diagrama de causa-efecte per analitzar de forma ordenada les causes d'un problema. Escriu el problema al cap del peix, defineix les categories de causes a les espines principals i afegeix causes concretes a les sub-espines. Aprofundeix preguntant «per què?» a cada causa abans de passar a la categoria següent.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <th style="width:160px">Alumne/a</th>
+      <td></td>
+      <th style="width:110px">Data</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Problema o efecte a analitzar</th>
+      <td colspan="3"></td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="text-align:center;margin:14px 0 8px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" style="width:100%;max-width:680px;display:inline-block">
+
+  <!-- Espina dorsal (columna vertebral) -->
+  <line x1="40" y1="180" x2="580" y2="180" stroke="#1e3a5f" stroke-width="3"/>
+  <!-- Fletxa al cap -->
+  <polygon points="580,173 608,180 580,187" fill="#1e3a5f"/>
+
+  <!-- Cap del peix (problema) -->
+  <rect x="610" y="152" width="62" height="56" rx="6" fill="#1e3a5f" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="641" y="174" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" font-weight="700" fill="white">PROBLEMA</text>
+  <text x="641" y="187" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#93c5fd">/EFECTE</text>
+  <text x="641" y="200" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#e2e8f0">(escriure</text>
+  <text x="641" y="210" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#e2e8f0">a dalt)</text>
+
+  <!-- Cua del peix -->
+  <polygon points="40,180 70,155 70,205" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- ── Espines superiors ── -->
+  <!-- Espina superior 1 (x=170) -->
+  <line x1="170" y1="180" x2="100" y2="80" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sub-espines sup 1 -->
+  <line x1="145" y1="130" x2="115" y2="105" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="130" y1="155" x2="95"  y2="140" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Espina superior 2 (x=350) -->
+  <line x1="350" y1="180" x2="280" y2="80" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sub-espines sup 2 -->
+  <line x1="325" y1="130" x2="295" y2="105" stroke="#4ade80" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="308" y1="155" x2="273" y2="140" stroke="#4ade80" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Espina superior 3 (x=500) -->
+  <line x1="500" y1="180" x2="430" y2="80" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sub-espines sup 3 -->
+  <line x1="475" y1="130" x2="445" y2="105" stroke="#fbbf24" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="458" y1="155" x2="423" y2="140" stroke="#fbbf24" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- ── Espines inferiors ── -->
+  <!-- Espina inferior 1 (x=170) -->
+  <line x1="170" y1="180" x2="100" y2="280" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sub-espines inf 1 -->
+  <line x1="145" y1="230" x2="115" y2="255" stroke="#f87171" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="130" y1="205" x2="95"  y2="220" stroke="#f87171" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Espina inferior 2 (x=350) -->
+  <line x1="350" y1="180" x2="280" y2="280" stroke="#7c3aed" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sub-espines inf 2 -->
+  <line x1="325" y1="230" x2="295" y2="255" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="308" y1="205" x2="273" y2="220" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Espina inferior 3 (x=500) -->
+  <line x1="500" y1="180" x2="430" y2="280" stroke="#db2777" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sub-espines inf 3 -->
+  <line x1="475" y1="230" x2="445" y2="255" stroke="#f472b6" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="458" y1="205" x2="423" y2="220" stroke="#f472b6" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- ── Etiquetes de categoria ── -->
+  <!-- Superior esquerra -->
+  <rect x="48"  y="56"  width="82" height="22" rx="3" fill="#dbeafe" stroke="#2563eb" stroke-width="1"/>
+  <text x="89"  y="71"  text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#1e40af">Categoria 1</text>
+  <!-- Superior centre -->
+  <rect x="228" y="56"  width="82" height="22" rx="3" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+  <text x="269" y="71"  text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#166534">Categoria 2</text>
+  <!-- Superior dreta -->
+  <rect x="378" y="56"  width="82" height="22" rx="3" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+  <text x="419" y="71"  text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#92400e">Categoria 3</text>
+  <!-- Inferior esquerra -->
+  <rect x="48"  y="282" width="82" height="22" rx="3" fill="#fee2e2" stroke="#dc2626" stroke-width="1"/>
+  <text x="89"  y="297" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#7f1d1d">Categoria 4</text>
+  <!-- Inferior centre -->
+  <rect x="228" y="282" width="82" height="22" rx="3" fill="#ede9fe" stroke="#7c3aed" stroke-width="1"/>
+  <text x="269" y="297" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#4c1d95">Categoria 5</text>
+  <!-- Inferior dreta -->
+  <rect x="378" y="282" width="82" height="22" rx="3" fill="#fce7f3" stroke="#db2777" stroke-width="1"/>
+  <text x="419" y="297" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" font-weight="700" fill="#831843">Categoria 6</text>
+</svg>
+</div>
+
+<!-- Taula de categories i causes -->
+<table style="font-size:.82rem">
+  <thead>
+    <tr>
+      <th style="width:22%">Categoria</th>
+      <th>Causes identificades en aquesta categoria</th>
+      <th style="width:25%">Causa més probable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="font-weight:700;height:36px">Categoria 1</td><td></td><td></td></tr>
+    <tr><td style="font-weight:700;height:36px">Categoria 2</td><td></td><td></td></tr>
+    <tr><td style="font-weight:700;height:36px">Categoria 3</td><td></td><td></td></tr>
+    <tr><td style="font-weight:700;height:36px">Categoria 4</td><td></td><td></td></tr>
+    <tr><td style="font-weight:700;height:36px">Categoria 5</td><td></td><td></td></tr>
+    <tr><td style="font-weight:700;height:36px">Categoria 6</td><td></td><td></td></tr>
+  </tbody>
+</table>
+
+<h4>Anàlisi final</h4>
+<table>
+  <tbody>
+    <tr>
+      <th style="width:52%">Quina causa o categoria sembla tenir més influència sobre el problema?</th>
+      <td style="height:36px"></td>
+    </tr>
+    <tr>
+      <th>Hi ha causes que es repeteixen en més d'una categoria (causes transversals)?</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Sobre quina causa seria més fàcil o més efectiu actuar? Per què?</th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="note"><strong>Clau pedagògica:</strong> les categories de causes (les espines principals) són la decisió més important del diagrama. Les categories genèriques del tipus «persones, mètodes, materials» funcionen bé en contextos industrials; en educació o ciències socials pot ser més útil definir categories específiques del problema (històriques, econòmiques, socials, culturals). El diagrama perd valor si s'omple ràpid sense preguntar «i per què passa aquesta causa?» a cada sub-espina.</p>

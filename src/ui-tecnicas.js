@@ -634,13 +634,14 @@ function openModal(itemId) {
   updateURL();
 }
 
-function printModal() {
+async function printModal() {
   const item = S.modal ? itemById(S.modal) : null;
   if (!item) return;
   const el = ensurePrintArea();
   const fields = item.fields.length ? item.fields.join(', ') : '';
   const block  = item.blocks.join(', ');
   const meta   = [block, fields].filter(Boolean).join(' · ');
+  const tmplHtml = await fetchTemplateHtml(item.id, S.lang);
   el.innerHTML = `
     <h1>${esc(item.name)}</h1>
     ${meta ? `<p class="print-meta">${esc(meta)}</p>` : ''}
@@ -648,6 +649,7 @@ function printModal() {
     <div class="print-body">${formatDesc(item.desc)}</div>
     ${item.source ? `<p class="print-source">${esc(item.source)}</p>` : ''}
     ${item.example ? `<div class="print-example-label">${esc(i('example'))}</div><div class="print-body print-example">${formatDesc(item.example)}</div>` : ''}
+    ${tmplHtml ? `<h2 class="print-template-label">${esc(i('template'))}</h2><div class="print-template">${tmplHtml}</div>` : ''}
     <p class="print-footer">Metac · ${techniqueURL(item.id)}</p>
   `;
   window.print();
@@ -705,12 +707,14 @@ async function downloadTechniqueMarkdown() {
   toast(i('markdownDownloaded'));
 }
 
-function copyModal() {
+async function copyModal() {
   const item = S.modal ? itemById(S.modal) : null;
   if (!item) return;
 
   const meta = [item.blocks.join(', '), item.fields.join(', ')].filter(Boolean).join(' · ');
   const url = techniqueURL(item.id);
+  const tmplHtml = await fetchTemplateHtml(item.id, S.lang);
+
   const html = [
     `<h2>${esc(item.name)}</h2>`,
     meta ? `<p><em>${esc(meta)}</em></p>` : '',
@@ -718,6 +722,7 @@ function copyModal() {
     item.desc ? formatDesc(item.desc) : '',
     item.example ? `<h3>${esc(i('example'))}</h3>${formatDesc(item.example)}` : '',
     item.source  ? `<p><em>${esc(item.source)}</em></p>` : '',
+    tmplHtml ? `<h3>${esc(i('template'))}</h3>${tmplHtml}` : '',
     `<p><a href="${esc(url)}">${esc(url)}</a></p>`,
   ].filter(Boolean).join('\n');
 
@@ -728,6 +733,7 @@ function copyModal() {
     item.desc ? '\n' + item.desc.replace(/## /g, '\n').trim() : '',
     item.example ? `\n${i('example')}\n` + item.example.replace(/## /g, '\n').trim() : '',
     item.source  ? '\n' + item.source.trim() : '',
+    tmplHtml ? `\n${i('template')}\n` + templateHtmlToMarkdown(tmplHtml) : '',
     '\n' + url,
   ].filter(Boolean).join('\n');
 

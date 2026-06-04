@@ -295,7 +295,8 @@
       if (node.nodeType !== 1) continue;
       const tag = node.tagName.toLowerCase();
 
-      if (tag === 'h1') { out += `# ${nodeText(node)}\n\n`; }
+      if (tag === 'svg') { /* skip diagrams */ }
+      else if (tag === 'h1') { out += `# ${nodeText(node)}\n\n`; }
       else if (tag === 'h2') { out += `## ${nodeText(node)}\n\n`; }
       else if (tag === 'h3') { out += `### ${nodeText(node)}\n\n`; }
       else if (tag === 'h4') { out += `#### ${nodeText(node)}\n\n`; }

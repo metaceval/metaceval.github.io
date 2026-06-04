@@ -5,6 +5,7 @@ Uso: python3 scripts/generate_metac_md.py
 Salida: metac-es.md, metac-ca.md (en la raíz del proyecto)
 """
 
+import html as html_module
 import json
 import os
 import re
@@ -25,18 +26,19 @@ LANGS = {
             "una misma técnica puede evaluarse de formas muy diversas según el contexto y la finalidad docente."
         ),
         "labels": {
-            "block":    "Bloque",
-            "fields":   "Ámbitos",
-            "tags":     "Palabras clave",
-            "programs": "Recursos",
-            "related":  "Técnicas relacionadas",
-            "example":  "Ejemplo",
-        "source":   "Fuente",
-        "eval":     "Cómo evaluar",
-            "eval_tec": "Técnicas de evaluación",
-            "eval_evi": "Evidencias observables",
-            "eval_ins": "Instrumentos",
-            "eval_dim": "Dimensiones",
+            "block":     "Bloque",
+            "fields":    "Ámbitos",
+            "tags":      "Palabras clave",
+            "programs":  "Recursos",
+            "related":   "Técnicas relacionadas",
+            "example":   "Ejemplo",
+            "source":    "Fuente",
+            "eval":      "Cómo evaluar",
+            "eval_tec":  "Técnicas de evaluación",
+            "eval_evi":  "Evidencias observables",
+            "eval_ins":  "Instrumentos",
+            "eval_dim":  "Dimensiones",
+            "template":  "Plantilla descargable",
         },
     },
     "ca": {
@@ -52,18 +54,19 @@ LANGS = {
             "una mateixa tècnica es pot avaluar de formes molt diverses segons el context i la finalitat docent."
         ),
         "labels": {
-            "block":    "Bloc",
-            "fields":   "Àmbits",
-            "tags":     "Paraules clau",
-            "programs": "Recursos",
-            "related":  "Tècniques relacionades",
-            "example":  "Exemple",
-        "source":   "Font",
-        "eval":     "Com avaluar",
-            "eval_tec": "Tècniques d'avaluació",
-            "eval_evi": "Evidències observables",
-            "eval_ins": "Instruments",
-            "eval_dim": "Dimensions",
+            "block":     "Bloc",
+            "fields":    "Àmbits",
+            "tags":      "Paraules clau",
+            "programs":  "Recursos",
+            "related":   "Tècniques relacionades",
+            "example":   "Exemple",
+            "source":    "Font",
+            "eval":      "Com avaluar",
+            "eval_tec":  "Tècniques d'avaluació",
+            "eval_evi":  "Evidències observables",
+            "eval_ins":  "Instruments",
+            "eval_dim":  "Dimensions",
+            "template":  "Plantilla descarregable",
         },
     },
     "en": {
@@ -79,24 +82,43 @@ LANGS = {
             "any given technique can be assessed in many different ways depending on context and teaching purpose."
         ),
         "labels": {
-            "block":    "Block",
-            "fields":   "Fields",
-            "tags":     "Keywords",
-            "programs": "Resources",
-            "related":  "Related techniques",
-            "example":  "Example",
-        "source":   "Source",
-        "eval":     "How to assess",
-            "eval_tec": "Evaluation techniques",
-            "eval_evi": "Observable evidence",
-            "eval_ins": "Instruments",
-            "eval_dim": "Dimensions",
+            "block":     "Block",
+            "fields":    "Fields",
+            "tags":      "Keywords",
+            "programs":  "Resources",
+            "related":   "Related techniques",
+            "example":   "Example",
+            "source":    "Source",
+            "eval":      "How to assess",
+            "eval_tec":  "Evaluation techniques",
+            "eval_evi":  "Observable evidence",
+            "eval_ins":  "Instruments",
+            "eval_dim":  "Dimensions",
+            "template":  "Downloadable template",
         },
     },
 }
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
+
+def load_template(lang, item_id):
+    """Returns plain text of the template HTML, or None if it doesn't exist."""
+    path = os.path.join(BASE_DIR, "templates", lang, f"{item_id}.html")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as f:
+        raw = f.read()
+    # Remove SVG blocks entirely (diagrams add no value as plain text)
+    raw = re.sub(r'<svg[^>]*>.*?</svg>', '', raw, flags=re.DOTALL | re.IGNORECASE)
+    # Remove all remaining HTML tags
+    text = re.sub(r'<[^>]+>', ' ', raw)
+    # Decode HTML entities
+    text = html_module.unescape(text)
+    # Collapse whitespace
+    text = re.sub(r'[ \t]+', ' ', text)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text.strip()
 
 def load_json(lang, filename):
     path = os.path.join(BASE_DIR, "data", lang, filename)
@@ -141,7 +163,7 @@ def field_line(label, value):
 
 # ── Technique block ────────────────────────────────────────────────────────────
 
-def technique_block(n, item, labels, by_id, eval_names):
+def technique_block(n, item, labels, by_id, eval_names, template_text=None):
     lines = []
 
     # Heading
@@ -211,6 +233,11 @@ def technique_block(n, item, labels, by_id, eval_names):
             lines.append(f"**{labels['eval']}:**\n")
             for part in eval_parts:
                 lines.append(f"- {part}\n")
+
+    # Template content
+    if template_text:
+        lines.append(f"**{labels['template']}:**\n")
+        lines.append(template_text + "\n")
 
     lines.append("---\n")
     return "\n".join(l for l in lines if l) + "\n"
@@ -282,7 +309,8 @@ def generate(lang, cfg):
     for field_name, items in groups.items():
         out.append(f"## {field_name}\n\n")
         for n, item in enumerate(items, 1):
-            out.append(technique_block(n, item, labels, by_id, eval_names))
+            tmpl = load_template(lang, item["id"])
+            out.append(technique_block(n, item, labels, by_id, eval_names, tmpl))
 
     content = "\n".join(out).rstrip() + "\n"
     output_path = os.path.join(BASE_DIR, cfg["output"])

@@ -216,6 +216,73 @@ At the end, the group shares what new ideas have emerged and what questions rema
 
 - *Dimensions:* Case study, Inclusive assessment and UDL, Problem solving
 
+**Downloadable template:**
+
+Routine for exploring a topic from different perspectives. Each participant adopts a distinct viewpoint and describes the topic from within that position. Perspectives are then compared to see how the same topic is perceived differently depending on who is looking at it. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic 
+ 
+ 
+ 
+ My viewpoint 
+ (person, group, institution, era, object…) 
+ 
+ 
+ 
+
+ From this viewpoint… 
+ 
+ 
+ 
+ I think this topic… 
+ Describe how you perceive or understand the topic from your perspective. What you see, what you believe, what you think. 
+ 
+ 
+ 
+ 
+ Because… 
+ What reasons, experiences or interests explain your way of seeing the topic from this position. 
+ 
+ 
+ 
+ 
+ A question I ask myself from here… 
+ What doubt, tension or curiosity does the topic generate when viewed from this perspective. 
+ 
+ 
+ 
+ 
+ 
+
+ Sharing — after listening to other perspectives 
+ 
+ 
+ 
+ What new ideas do you have about the topic that you didn't have before? 
+ 
+ 
+ 
+ Which perspective was most surprising or different from yours, and why? 
+ 
+ 
+ 
+ What new questions arise after listening to the group? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the brainstorm of possible perspectives before assigning them is as important as the individual work. The more distinct perspectives the group identifies — including minority, uncomfortable or non-human ones (a law, an ecosystem, a past era) — the richer the analysis. The goal is not to defend the assigned viewpoint but to genuinely understand how the topic looks from within it.
+
 ---
 
 
@@ -289,6 +356,70 @@ Objective: To improve students' understanding of the French Revolution
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Feedback and feedforward
+
+**Downloadable template:**
+
+Routine for comparing two concepts, sources, works, periods, positions or any pair of elements. Comparison does not mean making separate lists: the value lies in directly relating the two elements aspect by aspect, and reflecting on what that relationship reveals. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Element A 
+ 
+ Element B 
+ 
+ 
+ 
+ 
+
+ Aspect-by-aspect comparison 
+ In each row, choose a relevant aspect and describe how it appears in each element. Add or remove rows as needed. 
+ 
+ 
+ 
+ Aspect 
+ Element A 
+ Element B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Comparison summary 
+ 
+ 
+ 
+ What do they clearly have in common? 
+ 
+ 
+ 
+ What is the most significant difference and why? 
+ 
+ 
+ 
+ What surprised you when comparing them? 
+ 
+ 
+ 
+ What does this comparison reveal that you wouldn't see by studying each element separately? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the last question — "What does this comparison reveal?" — is what distinguishes genuine analysis from simple parallel description. If students can answer it, the comparison has generated new understanding. If they can only describe each element separately, the comparison was superficial. This question must be worked on explicitly in the group sharing.
 
 ---
 
@@ -372,6 +503,55 @@ This routine can be useful in helping students improve their understanding of a 
 **How to assess:**
 
 - *Evaluation techniques:* Oral exchanges, Analysis of processes and reflections, Probing and questioning
+
+**Downloadable template:**
+
+Routine for capturing the essence of a text, explanation or topic in a non-verbal way: using a colour, a symbol and an image instead of words. Each choice must represent an important idea, not the topic in general. What matters is the justification: why that representation and not another. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Text / Explanation / Topic 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ COLOUR 
+ A colour that captures the tone, emotion or essential quality of an idea in the text. Not the literal colour of something — a metaphorical association. 
+ 
+ SYMBOL 
+ A sign, icon or simple drawing representing an idea. A symbol is simpler than an image — think of a logo or road sign. 
+ 
+ IMAGE 
+ A visual or metaphorical image more elaborate than a symbol. It could be a scene, a visual comparison, a developed metaphor. 
+ 
+ 
+ 
+ 
+ 
+ Idea it represents: Why this colour? 
+ Idea it represents: Why this symbol? 
+ Idea it represents: Why this image? 
+ 
+ 
+ 
+ 
+
+ Sharing 
+ After sharing with the group: which colours, symbols or images overlapped? Which were most surprising or unexpected? What does this diversity reveal about the different readings of the text? 
+ 
+
+ Teaching note: the most common error is choosing colour or image literally ("red because there is a war"). The routine only activates deep thinking when the choice is metaphorical and requires explanation ("red because the tension between characters is about to explode, like something under pressure"). Modelling a metaphorical choice in the first use makes the difference between a decorative exercise and a cognitively demanding one.
 
 ---
 
@@ -469,6 +649,62 @@ The teacher collects the responses or reviews them visually and spends the first
 
 - *Dimensions:* Self-assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL
 
+**Downloadable template:**
+
+A three-level self-assessment routine that helps students identify what they have understood well, what raises doubts, and what they have not understood. It can be used at the end of an explanation, activity or session. Answer honestly: doubts and reds are valuable information, not a problem. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic / Session 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 🟢 GREEN — I understood 
+ What I can explain in my own words or apply without help. 
+ 
+ 🟡 YELLOW — I have doubts 
+ What I partly understand or where I need more practice or explanation. 
+ 
+ 🔴 RED — I didn't understand 
+ What I didn't grasp or what remains completely confusing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ For the yellow and red zones 
+ 
+ 
+ 
+ What is your most important doubt? Formulate it as a specific question. 
+ 
+ 
+ 
+ What would you need to move that point to green? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the traffic light only has value if the teacher collects and responds to the yellow and red zones. Starting the next session with "40% of you put concept X in red — let's work on it differently" closes the formative cycle and communicates to students that their signals matter. Without that response, the routine becomes an empty ritual.
+
 ---
 
 
@@ -512,6 +748,64 @@ After completing a laboratory exercise, students fill in the ladder, indicating 
 - *Instruments:* Self-regulation guide (base of orientation), AI and sources use declaration, Teacher's diary, Self-assessment scale, Progress scale, Verbal scale, Feedback card, Revision history, Self-assessment checklist, Field notes, Progress dashboard, Feedback/feedforward template, Anecdotal record, Improvement commitments record, Cooperative work record, Descriptive record, Participation record, Self-assessment rubric, Digital rubric
 
 - *Dimensions:* Self-assessment, Competency-based approach, Continuous assessment, Feedback and feedforward, Formative purpose, Ipsative assessment
+
+**Downloadable template:**
+
+A four-step metacognition routine. Fill in each step in order: each step builds on the previous one. The fourth — transfer — is the most demanding and the one that most reveals whether learning is genuine. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic / Activity 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 1 
+ 
+ What did I learn? 
+ Identify the knowledge, skills or ideas you worked on. Be specific: not "we covered topic X", but what you know now that you didn't know before. 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ How did I learn it? 
+ Describe which activities, strategies, resources or interactions helped you most. What worked? What didn't work? 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ What is it useful for? 
+ What is the value of what you learned? Connect it to something concrete: a problem you can now solve, something you understand better, a skill you can use. 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ Where else can I apply it? 
+ Suggest new situations — in other subjects, in your daily life, in future problems — where you could use what you learned. The further from the original context, the deeper the transfer. 
+ 
+ 
+ 
+ 
+ 
+
+ Teaching note: step 2 ("How did I learn it?") is the most metacognitive and the most undervalued. Identifying which strategies or activities worked best develops self-regulated learning. Step 4 is the most reliable indicator of genuine understanding: if students can only apply it in the exact context where they learned it, learning is fragile.
 
 ---
 
@@ -665,6 +959,53 @@ Before studying ecosystems, students write what they know about food chains, wha
 
 - *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose
 
+**Downloadable template:**
+
+Fill in the three columns at the indicated moments: the first before the activity or unit, the second also before (or during the activity), and the third when finished . 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ K — Know What I already know about this topic 
+ W — Want to know What I want to learn or discover 
+ L — Learned What I have learned by the end 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Final reflection 
+ Which questions from the W column remain unanswered? What new questions arise? 
+ 
+ 
+ 
+ 
+ 
+
+ The L column can be completed at two moments: right after the activity and a few days later, to check what has stayed in memory.
+
 ---
 
 
@@ -711,6 +1052,94 @@ _Adapted from: Project Zero. (2020). Compass Points_
 - *Instruments:* Level-to-grade converter, Feedback card, List of indicators per criterion, Evidence map by criterion, Achievement profile, Feedback/feedforward template, Competency rubric, Oral rubric, Criteria grading table
 
 - *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose
+
+**Downloadable template:**
+
+Tool for analysing a proposal, idea or project from four angles. Fill in each quadrant individually before sharing with the group. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Proposal / Idea / Project 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ ▲ N — NEED TO KNOW 
+ What else do you need to know or discover about this proposal? What additional information would help you assess it better? 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ ◀ W — WORRIES 
+ What difficulties, risks or concerns do you see? What could go wrong? 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ E — EXCITEMENT ▶ 
+ What do you value positively? What advantages or potential does this proposal have? 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ S — STANCE / SUGGESTIONS ▼ 
+ What is your current stance or suggestion? What next step do you propose to evaluate or develop this proposal? 
+ 
+ 
+ 
+
+ 
+ 
+
+ Synthesis after sharing 
+ 
+ 
+ 
+ Which quadrant generated most discussion and why? 
+ 
+ 
+ 
+ What information from the N quadrant is essential before deciding? 
+ 
+ 
+ 
+ What is the agreed next step? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the N quadrant (Need to know) is the most strategic: it does not express an opinion but a condition for forming one. Identifying what information is missing before judging a proposal is a critical thinking skill that goes beyond pros and cons analysis. The S quadrant forces you to move from criticism to proposing, which makes it uncomfortable and valuable.
 
 ---
 
@@ -764,6 +1193,71 @@ Based on this chain of questions, students propose checking soil moisture, revie
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
+
+**Downloadable template:**
+
+Technique for going deeper into the causes of a problem or phenomenon by chaining "why?" questions. Each answer becomes the starting point for the next question. The number of levels does not need to be exactly 5: use as many as needed to reach the root cause — the cause that, if resolved, eliminates the problem at its base. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Starting problem or phenomenon 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Level 
+ Why…? question 
+ Answer 
+ 
+ 
+ 
+ 
+ 1 
+ Why does the starting problem occur? 
+ 
+ 
+ 
+ 2 
+ Why does what you just answered occur? 
+ 
+ 
+ 3 
+ 4 
+ 5 
+ 6 
+ 
+ 
+
+ Root cause identified 
+ 
+ 
+ 
+ What is the root cause? (the answer at the last level where you can still meaningfully ask "why?") 
+ 
+ 
+ 
+ How do you know it is the root cause and not just another symptom? 
+ 
+ 
+ 
+ What action or change would address this root cause? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the most common trap is stopping at a surface cause or "symptom" (level 1 or 2) and treating it as the root cause. Knowing when to stop — when it no longer makes sense to ask "and why does that happen?" — is the skill the technique develops. In educational contexts, levels 3 and 4 are usually the most revealing and the hardest to reach without support.
 
 ---
 
@@ -855,6 +1349,82 @@ In small groups, students share their choices and justify why they selected them
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Traceability, authorship and AI use
 
+**Downloadable template:**
+
+Cooperative routine for capturing the essence of a text by identifying a word that stands out, a significant idea and a phrase that helps understand the text. Individual work first (5 min), then group sharing (10 min) and finally collective synthesis (15 min). 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Text / Reading 
+ 
+ 
+ 
+ 
+
+ Individual phase 
+ 
+ 
+ 
+ WORD that caught my attention 
+ A word from the text that caught your attention, surprised you or made you think. 
+ 
+ 
+ 
+ 
+ Why this word? 
+ 
+ 
+ 
+ IDEA that is meaningful to you 
+ A combination of words or idea from the text that provoked, engaged or is especially relevant to you. 
+ 
+ 
+ 
+ 
+ Why this idea? 
+ 
+ 
+ 
+ PHRASE that helped you understand the text 
+ A literal phrase from the text that acts as a key to understanding: the one that best summarises, most clarifies or is most important. 
+ 
+ 
+ 
+ 
+ Why this phrase? 
+ 
+ 
+ 
+ 
+
+ Group phase — collective synthesis 
+ After each member has shared their word, idea and phrase with the group: 
+ 
+ 
+ 
+ What themes or ideas appear in several group members' responses? 
+ 
+ 
+ 
+ What implications, interpretations or predictions can you draw from the text? 
+ 
+ 
+ 
+ What aspects of the text appeared in no response? Why might that be? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the justification ("why this word/idea/phrase?") is the most valuable part of the individual work. Without it, the routine is reduced to highlighting. The question about forgotten aspects in the group phase is the most revealing: it detects collective blind spots and can open lines of analysis no individual member would have explored alone.
+
 ---
 
 
@@ -896,6 +1466,56 @@ The teacher can close the activity by asking each student to identify which idea
 - *Evaluation techniques:* Systematic observation, Oral exchanges, Analysis of processes and reflections, Probing and questioning
 
 - *Dimensions:* Diagnostic purpose
+
+**Downloadable template:**
+
+Fill in the "I used to think…" column before working on the topic or at the start of the session. Fill in "Now I think…" when finished. The third column is the most important for learning: identify what produced the change. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ I used to think… 
+ What I believed, knew or assumed about this topic. Include incomplete ideas, initial doubts or explanations you now see were wrong. 
+ 
+ Now I think… 
+ What I think now. What has changed, what has been confirmed, or what you would add to your initial idea. 
+ 
+ What produced the change? 
+ Which activity, explanation, piece of data, example or discussion helped you change or confirm your idea. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Overall reflection 
+ Which idea has changed most radically? Which idea has been confirmed or reinforced? What remains a doubt or open question? 
+ 
+ 
+ 
+ 
+ 
+
+ Teaching note: the third column "What produced the change?" is the metacognitive core of this routine. It forces students to identify what type of experience (an experiment, a debate, a reading, a counterexample) modifies their understanding. Without it, the routine is reduced to recording change without reflection on how learning happens.
 
 ---
 
@@ -958,6 +1578,64 @@ After sharing their ideas about "I Investigate," the teacher guided the students
 - *Instruments:* Cooperative work rubric
 
 - *Dimensions:* Diagnostic purpose, Inquiry
+
+**Downloadable template:**
+
+Routine for activating prior knowledge at the start of a topic. Fill in each column individually and in silence before sharing with others. Include ideas even if they are incomplete or wrong: they are the starting point, not the final result. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ THINK 
+ What you know, believe or assume about this topic. Prior ideas, even if incomplete or wrong. What associations it generates for you. 
+ 
+ WONDER 
+ What arouses your curiosity. Which aspects you would like to explore, understand better or that intrigue you. 
+ 
+ INVESTIGATE 
+ Turn your curiosity into a specific, investigable question. What exactly do you want to know? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ My research question 
+ Choose the most meaningful question from the INVESTIGATE column and formulate it precisely. A good research question cannot be answered with yes/no and cannot be resolved with a quick search. 
+ 
+ 
+ 
+ My question: 
+ 
+ 
+ 
+ Why does it interest me? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the misconceptions that appear in the THINK column are the most valuable material in the routine. Record them without correcting them at that moment — they will serve as contrast when closing the topic. The INVESTIGATE column loses value if students write questions they already know the answer to or that can be resolved with a search engine in seconds. Spending time improving the quality of research questions is part of the work.
 
 ---
 
@@ -1094,6 +1772,89 @@ In the class sharing session, the student explains what has changed in their thi
 
 - *Dimensions:* Diagnostic purpose
 
+**Downloadable template:**
+
+This routine is completed at two separate moments : the first table at the start of the topic, the second when finished. Do not modify your first-moment answers when filling in the second. The final "bridge" connects both moments and is the metacognitive core of the routine. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Start date 
+ 
+ 
+ 
+ Topic 
+ 
+ End date 
+ 
+ 
+ 
+ 
+
+ Moment 1 — BEFORE starting the topic 
+ Fill in this table at the start. Do not modify it afterwards. 
+ 
+ 
+ 
+ 3 ideas or words this topic brings to mind 
+ 2 questions you have about the topic 
+ 1 analogy: this topic is like… 
+ 
+ 
+ 
+ 
+ 1. 2. 3. 
+ 1. 2. 
+ 
+ 
+ 
+ 
+
+ Moment 2 — AFTER working on the topic 
+ Fill in this table when the activity or unit is finished. 
+ 
+ 
+ 
+ 3 ideas or words this topic brings to mind now 
+ 2 questions that still arise 
+ 1 new analogy: now this topic is like… 
+ 
+ 
+ 
+ 
+ 1. 2. 3. 
+ 1. 2. 
+ 
+ 
+ 
+ 
+
+ The bridge — How have your ideas changed? 
+ 
+ 
+ 
+ Which idea from moment 1 has changed most radically? 
+ 
+ 
+ 
+ What caused that change? 
+ 
+ 
+ 
+ Which question from moment 1 have you been able to answer? 
+ 
+ 
+ 
+ What new question do you take away from the topic? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the analogy or metaphor from moment 1 is often superficial or clichéd. The one from moment 2, developed after working on the topic, reveals the depth of learning better than any list of concepts: an original analogy requires genuine understanding. Comparing the two analogies in the group sharing is one of the richest moments in this routine.
+
 ---
 
 
@@ -1147,6 +1908,81 @@ Then each group classifies the consequences as positive, negative or necessary c
 
 - *Dimensions:* Problem solving
 
+**Downloadable template:**
+
+Routine for analysing the consequences of an action, decision, phenomenon or concept across different time horizons. The goal is not to list consequences: it is to trace them in chains — each consequence generates new ones — and to distinguish what is controllable from what is not. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Action / Decision / Phenomenon 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Time horizon 
+ Likely consequences 
+ For whom? Who is affected? 
+ 
+ 
+ 
+ 
+ Immediate (hours / days) 
+ 
+ 
+ 
+ 
+ Short term (weeks / months) 
+ 
+ 
+ 
+ 
+ Medium term (1–5 years) 
+ 
+ 
+ 
+ 
+ Long term (more than 5 years) 
+ 
+ 
+ 
+ 
+ 
+
+ Analysis 
+ 
+ 
+ 
+ Which consequence seems most important or surprising and why? 
+ 
+ 
+ 
+ Which negative consequence could be reduced or avoided? How? 
+ 
+ 
+ 
+ Which positive consequence could be amplified? How? 
+ 
+ 
+ 
+ Which consequence depends on how other people or external factors act? 
+ 
+ 
+ 
+ 
+
+ Teaching note: thinking about consequences tends to stop at the immediate horizon. The medium and long-term horizons are the most difficult and the most formative: they require chained causal reasoning and systems thinking. The question "for whom?" introduces the dimension of justice and multiple perspectives, especially valuable in social studies, ethics or citizenship education.
+
 ---
 
 
@@ -1192,6 +2028,73 @@ In literature, students analyze a character from a novel. Inside the silhouette,
 - *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Dimensions:* Case study, Performance evidence
+
+**Downloadable template:**
+
+Visual technique for analysing a character, group, institution or personified concept. What is written inside the silhouette represents the inner world (thoughts, emotions, motivations, beliefs). What is written outside represents the outer world (actions, behaviours, relationships, pressures). Each contribution must be justified with evidence from the text, situation or context. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Character / Group / Institution analysed 
+ 
+ Context 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR ← inside the silhouette 
+ Thoughts · Emotions · Motivations · Beliefs · Fears · Desires 
+ 
+ 
+
+ 
+ 
+ 
+ ← interior · exterior → 
+ 
+
+ 
+ EXTERIOR → outside the silhouette 
+ Actions · Behaviours · Relationships · Words · External pressures 
+ 
+ 
+ 
+ 
+ 
+
+ Synthesis and analysis 
+ 
+ 
+ 
+ What tension or contradiction exists between the character's interior and exterior? 
+ 
+ 
+ 
+ Which aspect of the interior best explains a specific exterior action? 
+ 
+ 
+ 
+ How does the character change throughout the text or situation? What changes: the interior, the exterior, or both? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the interior/exterior distinction is not just organisational: it reveals the gap between what a character feels and what they show, between their motivations and their actions. Identifying that tension — and justifying it with evidence from the text or situation — is the most sophisticated analytical work of the technique. Annotations without evidence are interpretations; annotations with evidence are analysis.
 
 ---
 
@@ -1297,6 +2200,57 @@ In “I think”, they interpret what may be happening: a citizens’ protest, a
 
 - *Dimensions:* Diagnostic purpose, Inclusive assessment and UDL, Inquiry, Summative purpose
 
+**Downloadable template:**
+
+Observe carefully the image, text or situation provided. Fill in each column in order and separately : first SEE (only what you perceive, without interpreting), then THINK (what it suggests, with reasons), and finally WONDER (what questions or curiosities it raises). 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic / Image / Situation 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ SEE 
+ Only what I directly observe. Without interpreting or commenting. Facts, details, visible elements. 
+ 
+ THINK 
+ What it suggests or how I interpret it. Why I think that: which specific detail leads me to this idea. 
+ 
+ WONDER 
+ What questions, doubts or curiosities arise from what I see and think. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Sharing with a classmate 
+ Share your notes. When speaking, start each sentence with "I see…" , "I think…" or "I wonder…" . Add here anything you want to incorporate or refine after listening to your classmate: 
+ 
+ 
+ 
+ 
+ 
+
+ Teaching note: the SEE column requires observational discipline. If a student writes "I see that she is sad", they are interpreting — that belongs in THINK. Maintaining this distinction between observation and interpretation is the core of the routine and the most valuable work the teacher does when facilitating it.
+
 ---
 
 
@@ -1334,6 +2288,65 @@ Before deciding whether an activity will be done individually or in groups, the 
 - *Evaluation techniques:* Documentary analysis, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Dimensions:* Case study, Inclusive assessment and UDL, Problem solving, Summative purpose
+
+**Downloadable template:**
+
+Analyse a proposal, decision, alternative or situation by identifying its positive and negative aspects. Then weigh both lists and reach a reasoned conclusion. The goal is not to make one column longer, but to assess the weight of each aspect. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Proposal / Situation / Decision to analyse 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ + Positive aspects 
+ Advantages, opportunities, benefits, strengths. 
+ 
+ − Negative aspects 
+ Drawbacks, risks, difficulties, weaknesses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Weighing up 
+ 
+ 
+ 
+ Which positive aspect carries the most weight and why? 
+ 
+ 
+ 
+ Which negative aspect carries the most weight and why? 
+ 
+ 
+ 
+ 
+
+ Reasoned conclusion or decision 
+ Taking into account the weight of each aspect, what conclusion do you reach? What decision would you make? What conditions would change your analysis? 
+ 
+
+ Teaching note: accumulating items in each column is not analysis. Real learning happens in the weighing: a serious risk may outweigh many minor advantages. Practising this judgement — and defending why one aspect weighs more than others — is the central goal of the routine, not filling rows.
 
 ---
 
@@ -1390,6 +2403,70 @@ In a biology lab, students observe that some seeds germinated better with water 
 
 - *Dimensions:* Feedback and feedforward, Problem solving
 
+**Downloadable template:**
+
+The CER structure allows you to build a complete and verifiable explanation. Fill in the three elements in order: first the claim (what you assert), then the evidence (data that supports it) and finally the reasoning (why that evidence supports the claim). Use the final review to check the strength of your argument. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Question / Problem / Phenomenon 
+ 
+ 
+ 
+ 
+
+ C — CLAIM 
+ A clear and direct answer to the question. No justification yet. One or two sentences maximum. 
+ 
+
+ E — EVIDENCE 
+ Specific, verifiable data, observations, results, quotes or facts that support the claim. Evidence must be concrete, not opinions. 
+ 
+ 
+ 
+ # 
+ Evidence (data, observation, result, quote…) 
+ Source 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+
+ R — REASONING 
+ Explain why the evidence above demonstrates or supports the claim. Reasoning connects the data to the claim using scientific, logical or conceptual knowledge. Simply repeating the evidence is not enough. 
+ 
+
+ Argument review 
+ 
+ 
+ 
+ Criterion 
+ Yes 
+ Partly 
+ No 
+ 
+ 
+ 
+ The claim directly answers the question ☐ ☐ ☐ 
+ The evidence consists of specific data, not opinions ☐ ☐ ☐ 
+ The reasoning explains why the evidence supports the claim ☐ ☐ ☐ 
+ The full argument responds to someone asking "but why?" ☐ ☐ ☐ 
+ 
+ 
+
+ Teaching note: the most common error is confusing evidence with reasoning. "The data shows X" is evidence. "The data shows X because principle Y implies Z" is reasoning. Spending time on this distinction, especially in the first use, makes the difference between a mechanical exercise and genuine development of scientific or argumentative thinking.
+
 ---
 
 
@@ -1436,6 +2513,74 @@ The experiment is then carried out. Students observe that the potato loses firmn
 
 - *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Problem solving, Simulation
 
+**Downloadable template:**
+
+Students complete the three phases in strict order : first PREDICT (before seeing the result), then OBSERVE (during or after the experiment or situation), and finally EXPLAIN (comparing prediction with evidence). Do not move to the next phase before completing the previous one. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Situation / Experiment / Problem 
+ 
+ 
+ 
+ 
+
+ 1. PREDICT — What do you think will happen? 
+ Complete this section before carrying out the observation or experiment. Write your prediction and justify it with what you already know. 
+ 
+ 
+ 
+ My prediction: I think that… 
+ I justify it because… 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 2. OBSERVE — What actually happened? 
+ Record only what you observe: data, facts, results. No interpreting yet. 
+ 
+ 
+ 
+ Observations and data obtained 
+ Does it match your prediction? 
+ 
+ 
+ 
+ 
+ 
+ 
+ ☐ Yes, it matches 
+ ☐ Partly matches 
+ ☐ Does not match
+ 
+ 
+ 
+ 
+
+ 3. EXPLAIN — Why did it happen this way? 
+ Write an explanation connecting the prediction, the observation and the knowledge studied. If your prediction was wrong, explain what was flawed in your initial reasoning. 
+ 
+ 
+ 
+ Explanation of the result 
+ What would I adjust in my initial reasoning? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the value of POE lies in the tension between prediction and observation. If the prediction was wrong, the final explanation is especially valuable: it forces students to identify where their mental model failed. Prevent students from changing their prediction afterwards — what was written before observing is the evidence of their prior idea.
+
 ---
 
 
@@ -1470,6 +2615,55 @@ In history, after analysing a graph on urban population, a student writes: “Cl
 - *Evaluation techniques:* Documentary analysis, Systematic observation, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Dimensions:* Inquiry, Problem solving
+
+**Downloadable template:**
+
+Routine for analysing an idea, text, image, data or explanation with three moves: making a claim, providing support that backs it up, and opening inquiry with a question. Lighter than CER: it does not require a complete reasoning chain, but does require justifying the idea and keeping exploration open. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Stimulus (text, image, data, phenomenon…) 
+ 
+ 
+ 
+ 
+
+ Claim — What do you interpret or conclude? 
+ A clear idea about the stimulus. Not a description of what you see, but your own interpretation or conclusion. 
+ 
+
+ Support — What backs it up? 
+ A piece of data, quote, observation, example or reason that justifies your claim. Support must be specific: point to which part of the stimulus or which concrete evidence leads you to that conclusion. 
+ 
+
+ Question — What remains open? 
+ A question that extends the analysis or opens new lines of exploration. It is not a doubt about something you didn't understand: it is a question that advances thinking. What would happen if…? Why does…? How does it relate to…? 
+ 
+
+ Quick review 
+ 
+ 
+ 
+ Review question 
+ Yes 
+ No 
+ 
+ 
+ 
+ Is the claim an interpretation, not just a description? ☐ ☐ 
+ Is the support specific (pointing to something concrete in the stimulus)? ☐ ☐ 
+ Does the question advance the analysis (not just "I don't understand X")? ☐ ☐ 
+ 
+ 
+
+ Teaching note: the distinction between support and reasoning (as in CER) is not required here, making the routine more accessible. The hardest element is the final question: students tend to write a doubt about something they didn't understand. A good CSQ question starts from what was understood and projects towards what remains to be explored. Modelling that leap is the key pedagogical work.
 
 ---
 
@@ -1509,6 +2703,60 @@ After reading a text on climate change, students spend 8 minutes completing thre
 - *Evaluation techniques:* Analysis of processes and reflections, Probing and questioning
 
 - *Dimensions:* Diagnostic purpose, Inquiry
+
+**Downloadable template:**
+
+Routine for processing new information by connecting it to what you already know. Fill in the three sections after reading, watching or listening to the content. Work individually first before sharing with others. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Content studied 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ CONNECT 
+ What prior ideas, experiences or knowledge does this new content connect to? Where does it fit in what you already know? 
+ 
+ EXTEND 
+ What new idea broadens, deepens or refines your previous understanding? What do you now see differently? 
+ 
+ CHALLENGE 
+ What do you find hard to accept, confusing or contradictory? What puts your current ideas in tension? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Pending question 
+ Based on what you wrote in CHALLENGE , formulate the most important question you still need to resolve or explore: 
+ 
+ 
+ 
+ My question: 
+ 
+ 
+ 
+ 
+
+ Teaching note: the CHALLENGE column is the most valuable and the most difficult. Students tend to write only what they do not technically understand. The challenge is that they also identify what feels intellectually uncomfortable, what contradicts something they thought they knew, or what creates tension. These frictions are the engine of deep learning and the best starting point for collective discussion.
 
 ---
 
@@ -1589,6 +2837,94 @@ In biology, the class analyses whether the use of animals in biomedical research
 
 - *Dimensions:* Inquiry
 
+**Downloadable template:**
+
+Routine for analysing dilemmas by placing arguments on an imaginary rope between two positions. It is not a list of pros and cons: each argument is placed according to its strength and which position it pulls towards . The goal is to see where the weight of reasoning falls, not to "win" one side. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Dilemma or controversial question 
+ 
+ 
+ 
+ Position A 
+ 
+ Position B 
+ 
+ 
+ 
+ 
+
+ Arguments on the rope 
+ Write each argument and mark: which position it pulls towards (A / B / both) and how strongly (1 weak · 2 moderate · 3 strong). 
+
+ 
+ 
+ 
+ Argument 
+ Pulls towards A · B · both 
+ Strength 1 · 2 · 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Where does the weight fall? 
+ Assess the overall picture: which position does the weight of arguments pull towards most? Mark your position on the rope with an X. 
+
+ 
+ 
+ 
+ Position A strongly 
+ Position A with nuance 
+ Centre / undecided 
+ Position B with nuance 
+ Position B strongly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Nuances and conditions 
+ 
+ 
+ 
+ What condition would change your position? 
+ 
+ 
+ 
+ Which argument from the other side is strongest, and why? 
+ 
+ 
+ 
+ What question remains unresolved? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the difference from a simple pros/cons list is the assessment of each argument's strength . A weak argument on the "losing" side can reveal something important; a strong but conditional argument qualifies the final position. The goal is not to conclude who is right, but to understand why the question is genuinely difficult.
+
 ---
 
 
@@ -1626,6 +2962,60 @@ Faced with a painting of an everyday 19th-century scene, different students step
 
 - *Dimensions:* Formative purpose
 
+**Downloadable template:**
+
+Routine for exploring a situation, text or event from someone else's point of view . Choose or receive an agent (person, character, group, institution) and answer the three questions in the first person , as if you were that agent. Do not describe the character from the outside: speak as them. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Situation / Text / Event 
+ 
+ 
+ 
+ Agent I adopt 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ What do I perceive or notice from here? 
+ What I observe, feel or experience from this perspective. What is the first thing that catches my attention. 
+ 
+ 
+ 
+ 
+ What do I know, believe or think? 
+ What knowledge, belief or interpretation I have from this position. How I explain or understand what is happening. 
+ 
+ 
+ 
+ 
+ What matters to me or what do I want? 
+ What is a priority for me from this perspective. What I want to happen or what I fear will happen. 
+ 
+ 
+ 
+ 
+ 
+
+ Reflection after sharing 
+ After sharing different perspectives: where did they agree? Where did they clash? What have you understood about the situation that you didn't see before? 
+ 
+ 
+ 
+
+ Teaching note: the most common pitfall is that students describe the character from the outside ("the character thought that…") instead of speaking in the first person from within ("I think that…"). Requiring the first person is not a formal detail: it demands a qualitatively different level of empathic understanding. Sharing different perspectives on the same situation is the richest moment of the routine.
+
 ---
 
 
@@ -1662,6 +3052,91 @@ In science, the teacher shows a leaf with curled edges and asks what detail stan
 - *Instruments:* Observation scale
 
 - *Dimensions:* Formative purpose
+
+**Downloadable template:**
+
+Routine for moving from observation to explanation by chaining "why is it this way?" questions. Start by noticing a specific detail and build increasingly well-grounded explanations. It does not seek a correct answer: it seeks the best possible reasoning with the available information. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Object / Image / Phenomenon 
+ 
+ 
+ 
+ 
+
+ 1. Observation — What detail catches your attention? 
+ Choose a specific feature: something that seems curious, surprising or that you cannot yet explain. 
+ 
+ 
+ 
+
+ 2. First explanation — Why do you think this is so? 
+ 
+ 
+ 
+ My explanation (hypothesis): 
+ 
+ 
+ 
+ What makes me think that? 
+ 
+ 
+ 
+ 
+
+ 3. Going deeper — Why does what you just explained happen? 
+ 
+ 
+ 
+ Explanation of the explanation: 
+ 
+ 
+ 
+ What evidence or knowledge supports it? 
+ 
+ 
+ 
+ 
+
+ 4. Alternative explanations 
+ Could there be a different explanation to yours? Write at least one alternative and assess which is more likely and why. 
+ 
+ 
+ 
+ Alternative explanation 
+ Why is it more or less likely than yours? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 5. Best explanation 
+ Taking everything above into account, what is the most solid explanation? What would you need to know to be more certain? 
+ 
+ 
+ 
+ My best explanation: 
+ 
+ 
+ 
+ To be more certain I would need… 
+ 
+ 
+ 
+ 
+
+ Teaching note: step 4 (alternative explanations) is the hardest and most valuable. Generating alternative hypotheses and comparing them is the heart of scientific thinking and causal reasoning. A single explanation without alternatives is not reasoning: it is conjecture. The teacher can model this step in the first sessions by generating a plausible alternative explanation themselves.
 
 ---
 
@@ -1736,6 +3211,91 @@ Before starting a topic on water, learners use the starters to generate question
 - *Instruments:* Checklist
 
 - *Dimensions:* Diagnostic purpose, Formative purpose
+
+**Downloadable template:**
+
+Routine that inverts classroom dynamics: instead of answering questions, students generate them using question starters that activate different types of thinking. First, many questions are generated without answering them; then the most powerful ones are identified. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic / Object / Situation 
+ 
+ 
+ 
+ 
+
+ Generate questions using these starters 
+ Complete each starter with a question about the topic. Do not answer any of them yet: the goal is to generate, not to answer. 
+
+ 
+ 
+ 
+ Starter 
+ My question 
+ 
+ 
+ 
+ 
+ Why…? 
+ 
+ 
+ 
+ What would happen if…? 
+ 
+ 
+ 
+ How would it be different if…? 
+ 
+ 
+ 
+ What is the purpose of…? 
+ 
+ 
+ 
+ What would change if…? 
+ 
+ 
+ 
+ Who benefits / is harmed when…? 
+ 
+ 
+ 
+ What do we assume when…? 
+ 
+ 
+ 
+ How could we know if…? 
+ 
+ 
+ 
+ 
+
+ Selection and analysis 
+ 
+ 
+ 
+ Which is the most powerful question you generated? Why? 
+ 
+ 
+ 
+ Which starter was hardest to complete? Why do you think that is? 
+ 
+ 
+ 
+ Which question would you like to investigate or discuss with the group? 
+ 
+ 
+ 
+ 
+
+ Teaching note: each starter activates a different type of thinking: "Why?" seeks causes; "What would happen if?" activates hypothetical thinking; "Who benefits?" introduces a critical perspective; "How could we know?" demands thinking about evidence. Identifying which type of thinking each starter activates — and which is hardest for students — is valuable diagnostic information about the group's thinking level.
 
 ---
 
@@ -2392,6 +3952,111 @@ At the end, the team reviews whether each role helped organize the work better: 
 - *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Inclusive assessment and UDL, Project-based learning
+
+**Downloadable template:**
+
+Cut out these cards and distribute them at the start of each cooperative activity. Roles must rotate between sessions so all members practise each function. 
+
+ 
+ 
+ 
+ Team 
+ 
+ Date 
+ 
+ 
+ 
+ Activity / Session 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 🎯 COORDINATOR 
+ Student: ____________________________ 
+ Responsibilities: 
+ 
+ Manages speaking turns 
+ Reminds the team of the task objective 
+ Helps refocus if the team gets distracted 
+ 
+ I'm doing this well if… 
+ everyone can speak and the team knows which step they're on. 
+ 
+ 
+ 📝 NOTE-TAKER / SECRETARY 
+ Student: ____________________________ 
+ Responsibilities: 
+ 
+ Records agreements and conclusions 
+ Notes the team's responses or products 
+ Keeps the generated material safe 
+ 
+ I'm doing this well if… 
+ there is a clear record of what the team has decided. 
+ 
+ 
+ 
+ 
+ 📣 SPOKESPERSON 
+ Student: ____________________________ 
+ Responsibilities: 
+ 
+ Reports the team's work to the whole class 
+ Represents the team's voice, not just their own 
+ Summarises agreements clearly 
+ 
+ I'm doing this well if… 
+ I explain what we decided together, not just my own opinion. 
+ 
+ 
+ ⏱ TIMEKEEPER 
+ Student: ____________________________ 
+ Responsibilities: 
+ 
+ Alerts the team when half the time is gone 
+ Helps prevent spending too long on one point 
+ Signals when it is time to wrap up and submit 
+ 
+ I'm doing this well if… 
+ the team finishes on time without rushing at the end. 
+ 
+ 
+ 
+ 
+ 🔧 MATERIALS MANAGER 
+ Student: ____________________________ 
+ Responsibilities: 
+ 
+ Distributes and collects activity materials 
+ Manages digital resources or team worksheets 
+ Ensures no material is missing 
+ 
+ I'm doing this well if… 
+ the team has what it needs without interrupting the teacher. 
+ 
+ 
+ 👁 TEAM OBSERVER 
+ Student: ____________________________ 
+ Responsibilities: 
+ 
+ Observes whether everyone participates equally 
+ Notices if anyone feels unheard 
+ At the end, assesses how well the team cooperated 
+ 
+ I'm doing this well if… 
+ I can give a concrete example of something that worked well and something to improve. 
+ 
+ 
+ 
+ 
+
+ Teaching note: roles lose their value if they become labels without real responsibilities. The "I'm doing this well if…" indicator is key: it makes each function observable. Rotation between sessions is essential; if the same person always coordinates, others never develop that skill. The team observer is the most valuable role for group improvement and the most frequently left out.
 
 ---
 
@@ -3077,6 +4742,51 @@ In the next round, with the six o’clock appointment, they answer another quest
 
 - *Dimensions:* Diagnostic purpose, Problem solving
 
+**Downloadable template:**
+
+Each student fills in their clock before the activity: they write a different classmate's name next to each hour (only one appointment per hour). When the teacher calls an hour, each student finds their appointment and they answer the assigned question together. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ Time 
+ Appointment with 
+ Assigned topic or question 
+ 
+ 
+ 
+ 12 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 
+ 
+
+ Teaching note: the appointment-booking phase (5 min at the start) involves physical movement and social contact — important for motivation. The teacher should not assign who meets whom: students negotiate freely, which generates more natural interactions. The questions assigned to each hour should invite discussion, not just factual recall; the conversation between two students about a concept is the engine of learning, not the correct answer itself.
+
 ---
 
 
@@ -3608,6 +5318,78 @@ _Adapted from: Ártica School. (2018). We build our own learning._
 - *Instruments:* Cooperative work rubric
 
 - *Dimensions:* Inclusive assessment and UDL, Problem solving
+
+**Downloadable template:**
+
+Each team member writes their individual response in their section. Responses are then shared and only what everyone agrees on is recorded in the centre. The spokesperson communicates the consensus to the whole class. 
+
+ 
+ 
+ 
+ Team 
+ 
+ Date 
+ 
+ 
+ 
+ Question / Problem / Situation 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ STUDENT 1:   
+ 
+ 
+ 
+ STUDENT 2:   
+ 
+ 
+ 
+ 
+ 
+ TEAM CONSENSUS 
+ Only what everyone agrees on after sharing 
+ 
+ 
+ 
+ 
+ 
+ STUDENT 3:   
+ 
+ 
+ 
+ STUDENT 4:   
+ 
+ 
+ 
+ 
+ 
+
+ Team reflection 
+ 
+ 
+ 
+ In which aspects was there the most divergence between individual responses? 
+ 
+ 
+ 
+ Which argument or reasoning was key to reaching consensus? 
+ 
+ 
+ 
+ Was any disagreement left unresolved? Which one? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the value of the Placemat lies in the contrast between individual responses and the consensus process. If all individual responses are the same, the activity adds little. The question or problem chosen must be open enough for different students to reach different responses based on their knowledge or viewpoints. The spokesperson must explain how consensus was reached, not just what it is.
 
 ---
 
@@ -4641,6 +6423,103 @@ Based on these questions, each group revises its explanation and writes a final 
 
 - *Dimensions:* Case study, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Problem solving
 
+**Downloadable template:**
+
+ADI (Argument-Driven Inquiry) investigation report. Complete the sections in order: the question and method before collecting data, the argument after , and the revision after the argumentation session with other groups. 
+
+ 
+ 
+ 
+ Student / Team 
+ 
+ Date 
+ 
+ 
+ 
+ Subject 
+ 
+ 
+ 
+ 
+
+ 1. Guiding question 
+ What question are you investigating? It must be investigable: it should have an answer based on data or observations, not on opinions. 
+ 
+
+ 2. Research or analysis method 
+ How will you answer the question? What will you observe, measure, analyse or consult? What variables will you control? 
+ 
+
+ 3. Evidence collected 
+ 
+ 
+ 
+ # 
+ Data / Observation / Result 
+ Source or origin 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 
+ 
+
+ 4. Tentative argument 
+ 
+ 
+ 
+ Claim (answer to the guiding question) 
+ 
+ 
+ 
+ Selected evidence supporting the claim 
+ 
+ 
+ 
+ Reasoning: why the evidence supports the claim 
+ 
+ 
+ 
+ 
+
+ 5. Revision after the argumentation session 
+ After presenting your argument and receiving questions or critiques from other groups: 
+ 
+ 
+ 
+ Which objection or question from the other group was hardest to answer? 
+ 
+ 
+ 
+ What would you change in the claim, the evidence or the reasoning after the debate? 
+ 
+ 
+ 
+ What new research question does this work open up? 
+ 
+ 
+ 
+ 
+
+ 6. Final reflection 
+ 
+ 
+ 
+ In which aspect was your investigation strongest? 
+ 
+ 
+ 
+ What limitation does it have and how could it be overcome? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the distinctive feature of ADI compared to other inquiry approaches is the public argumentation phase: the group must defend its argument to others and revise it afterwards. Without this phase, it is a conventional lab activity. Section 5 documents the learning that happens in that moment: the difficulty of defending an argument under real questioning is the engine of conceptual change.
+
 ---
 
 
@@ -5540,6 +7419,71 @@ In mathematics, for the concept “function”, students write a definition, ide
 
 - *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
+**Downloadable template:**
+
+Graphic organiser for understanding a concept with precision. The four quadrants require distinguishing the definition, essential characteristics, cases that do belong to the concept, and cases that do not. Non-examples are the most demanding quadrant: they require understanding the concept well enough to know what it excludes. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ DEFINITION 
+ Explain the concept in your own words. What it is, what it means, what distinguishes it. 
+ 
+ 
+ 
+ ESSENTIAL CHARACTERISTICS 
+ Properties or features this concept always has. Without them, it stops being what it is. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXAMPLES 
+ Concrete cases that do belong to this concept. The more varied, the better. 
+ 
+ 
+ 
+ NON-EXAMPLES 
+ Cases that are NOT this concept, even though they may look similar. Briefly explain why they are excluded. 
+ 
+ 
+ 
+ 
+ 
+
+ Review 
+ 
+ 
+ 
+ Is there a borderline example that creates doubt? Why? 
+ 
+ 
+ 
+ Which essential characteristic is the hardest to explain? 
+ 
+ 
+ 
+ 
+
+ Teaching note: non-examples are the most reliable indicator of genuine understanding. Someone who can define a concept but doesn't know what it excludes hasn't fully understood it. A particularly valuable non-example is one that almost belongs to the concept but doesn't quite make it: identifying why it falls short requires genuine conceptual precision. Borderline cases that generate doubt during the review are often the most fertile for discussion.
+
 ---
 
 
@@ -5664,6 +7608,70 @@ In history, during an explanation of the Second Republic, students take notes fo
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
+
+**Downloadable template:**
+
+Note-taking system with three distinct zones. The key words and questions column is filled in after class, not during. The summary is written at the end. To review: cover the notes zone and respond using only the left column. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Subject / Topic 
+ 
+ Session 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ KEY WORDS AND QUESTIONS 
+ Fill in after class. Key words, review questions, central concepts. 
+ 
+ 
+ MAIN NOTES 
+ During class or reading. Main ideas, data, explanations, diagrams. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SUMMARY — Write in your own words the main idea of the session (2–4 sentences) 
+ 
+ 
+ 
+ 
+ 
+
+ After reviewing 
+ 
+ 
+ 
+ Which question from the left column could you not answer without looking at your notes? 
+ 
+ 
+ 
+ What do you need to review or look up before the next class? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the value of Cornell notes lies not in taking notes during class, but in the two steps afterwards: formulating questions in the left column (which activates elaboration) and using those questions to review by covering the notes (retrieval practice). Without these two steps, the template is just a way of organising information, not a learning system.
 
 ---
 
@@ -5818,6 +7826,49 @@ To review the digestive system, learners draw a stomach in the centre and colour
 
 - *Dimensions:* Performance evidence, Formative purpose
 
+**Downloadable template:**
+
+Organise information radially: the central idea in the middle, main branches towards the most important concepts, and sub-branches with details and connections. Use key words (not long phrases), one colour per branch, and images or icons if they help with recall. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ Map review 
+ 
+ 
+ 
+ Which branch has the most sub-branches? What does that say about your understanding of the topic? 
+ 
+ 
+ 
+ Is there a connection between different branches you could add? Which one? 
+ 
+ 
+ 
+ Which branch or sub-branch was hardest to develop? Why? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the most common mistake is writing full sentences in branches instead of key words. A branch that reads "ecosystems are affected by temperature" adds little; "temperature → ecosystems → biodiversity" forces you to think in terms of relationships. Connections between branches (cross-arrows) are the clearest indicator of systemic understanding: if students draw them spontaneously, they have gone beyond memorisation.
+
 ---
 
 
@@ -5854,6 +7905,68 @@ Faced with the problem “a lot of time is lost at the start of lessons”, the 
 - *Instruments:* Analytic rubric
 
 - *Dimensions:* Formative purpose, Problem solving
+
+**Downloadable template:**
+
+Cause-and-effect diagram for systematically analysing the causes of a problem. Write the problem in the fish's head, define cause categories on the main bones, and add specific causes on the sub-bones. Probe deeper by asking "why?" at each cause before moving to the next category. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Problem or effect to analyse 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Category 
+ Causes identified in this category 
+ Most likely cause 
+ 
+ 
+ 
+ Category 1 
+ Category 2 
+ Category 3 
+ Category 4 
+ Category 5 
+ Category 6 
+ 
+ 
+
+ Final analysis 
+ 
+ 
+ 
+ Which cause or category seems to have the most influence on the problem? 
+ 
+ 
+ 
+ Are there causes that appear in more than one category (cross-cutting causes)? 
+ 
+ 
+ 
+ Which cause would be easiest or most effective to address? Why? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the cause categories (the main bones) are the most important decision in the diagram. Generic categories such as "people, methods, materials" work well in industrial contexts; in education or social sciences it may be more useful to define problem-specific categories (historical, economic, social, cultural). The diagram loses value if it is filled in quickly without asking "and why does this cause occur?" at each sub-bone.
 
 ---
 
@@ -5892,6 +8005,110 @@ When studying the contemporary era, learners build a to-scale timeline with revo
 
 - *Dimensions:* Formative purpose
 
+**Downloadable template:**
+
+Chronological representation of events, stages or processes. Write dates in the top row and events in the bottom row. Mark durations with a bar if the event extends over time. When finished, interpret the timeline: placing facts is not enough; you must read what the sequences, rhythms and relationships reveal. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic / Period represented 
+ 
+ Scale 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Interpretation 
+ 
+ 
+ 
+ Which period concentrates the most changes or events? Why? 
+ 
+ 
+ 
+ Are there events that happen simultaneously and are related to each other? 
+ 
+ 
+ 
+ Which event appears to cause another later event? Which one? 
+ 
+ 
+ 
+ Which period of calm or absence of change stands out? 
+ 
+ 
+ 
+ 
+
+ Teaching note: placing dates and events is the easiest and least formative step. Real learning happens in the interpretation: detecting rhythms, simultaneities, causes and consequences, or periods of acceleration or stagnation. Without the interpretation questions, the timeline is a memory exercise; with them, it is an instrument of historical, scientific or social analysis.
+
 ---
 
 
@@ -5928,6 +8145,73 @@ To compare mammals and birds, learners draw two circles. In the mammals one: hai
 - *Instruments:* Analytic rubric
 
 - *Dimensions:* Formative purpose
+
+**Downloadable template:**
+
+Graphic organiser for comparing two (or three) concepts, texts, phenomena or elements. The exclusive zone of each circle contains unique characteristics; the intersection zone contains shared ones. The real analysis happens when interpreting what it means that they share certain features and not others. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Element A 
+ 
+ Element B 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Only A — exclusive characteristics 
+ 
+ 
+ 
+ In common — A ∩ B 
+ 
+ 
+ 
+ Only B — exclusive characteristics 
+ 
+ 
+ 
+ 
+ 
+
+ Interpretation 
+ 
+ 
+ 
+ What does the common zone reveal that you would not see by studying each element separately? 
+ 
+ 
+ 
+ What is the most significant difference and why? 
+ 
+ 
+ 
+ Was any characteristic hard to place? Why does it belong to one zone and not the other? 
+ 
+ 
+ 
+ 
+
+ Teaching note: elements that are hard to place (do they belong to A, to B, or to both?) are the most formative. That difficulty reveals imprecise understanding of the concept or genuine ambiguity in the phenomenon, and both are valuable for discussion. The question "what does the common zone reveal?" prevents the exercise from becoming mechanical classification and turns it into conceptual analysis.
 
 ---
 
@@ -6025,6 +8309,95 @@ In a research project, each student agrees with the teacher on the research ques
 
 - *Dimensions:* Grading and accreditation, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inquiry, Ipsative assessment, Project-based learning
 
+**Downloadable template:**
+
+Agreement between the student and the teacher on what to learn, how, and with which assessment criteria. Complete each section before starting work. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Subject / Project 
+ 
+ 
+ 
+ 
+
+ Learning objective 
+ What do I want to learn or achieve? What is it useful for? 
+ 
+
+ Tasks and products 
+ What will I do to reach the objective? What will I hand in or present? 
+ 
+ 
+ 
+ # 
+ Task / Product 
+ Deadline 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 
+ 
+
+ Resources 
+ What materials, tools or support do I have available? 
+ 
+
+ Assessment criteria 
+ How will we know the objective has been met? What will be assessed? 
+ 
+ 
+ 
+ Criterion 
+ Success indicator 
+ Weight (%) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Review and monitoring 
+ 
+ 
+ 
+ Review date 
+ Observations 
+ On track? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Student's signature 
+ Teacher's signature 
+ 
+ 
+ 
+ 
+
+ This contract can be reviewed and renegotiated if circumstances change, always with the agreement of both parties.
+
 ---
 
 
@@ -6072,6 +8445,65 @@ After an oral presentation, each student evaluates clarity, mastery of the conte
 - *Instruments:* Assessment target, Self-assessment scale, Peer assessment card, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Peer assessment rubric
 
 - *Dimensions:* Self-assessment, Peer assessment, Shared and participatory assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Ipsative assessment
+
+**Downloadable template:**
+
+Visual self-assessment or peer-assessment tool. Students mark their achievement level in each sector: closer to the centre = lower achievement, closer to the edge = higher achievement . Before using the target, write the criteria in the table below. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Task / Activity assessed 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Sector 
+ Assessment criterion 
+ Level (1–4) 
+ Reflection or evidence 
+ 
+ 
+ 
+ C1 
+ C2 
+ C3 
+ C4 
+ C5 
+ 
+ 
+
+ Overall reflection 
+ 
+ 
+ 
+ Which criterion did you score highest on? What do you attribute this to? 
+ 
+ 
+ 
+ Which criterion has most room for improvement? What would you do differently? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the target shows the achievement profile visually: a student can see at a glance which criteria they have mastered and which need reinforcing. The "reflection or evidence" column is what turns the target into learning: it requires justifying the marked level with something concrete, not just self-assessing intuitively. Using the target before the task (what level do I expect to reach?) and after (what level did I reach?) adds the planning and metacognitive dimension.
 
 ---
 
@@ -6121,6 +8553,69 @@ After studying mitosis, students write on a card the most important difference b
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment
 
+**Downloadable template:**
+
+The teacher reserves 1–2 minutes at the end of the lesson or session. Students respond in writing. Responses are read before the next class to adjust its opening or detect frequent conceptual errors. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic / Session 
+ 
+ 
+ 
+ 
+
+ Standard format 
+ 
+ 
+ 
+ What important idea did you learn today? 
+ 
+ 
+ 
+ What point is least clear or raises the most doubts for you? 
+ 
+ 
+ 
+ 
+
+ Transfer-focused format 
+ 
+ 
+ 
+ What concrete example could you give of what was studied today? 
+ 
+ 
+ 
+ In what other situation or context could you apply what you learned? 
+ 
+ 
+ 
+ 
+
+ Deep understanding format 
+ 
+ 
+ 
+ What question would you ask to check whether someone truly understood the topic? 
+ 
+ 
+ 
+ What connection do you find between today's content and something you already knew? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the Minute Paper is a formative assessment tool for the teacher, not only for the student. Its value depends on what the teacher does with the responses: opening the next session by addressing the most common doubts, correcting a conceptual error that appears in several papers, or confirming that a concept has been well understood. Without that reading and response, the Minute Paper loses its diagnostic function.
+
 ---
 
 
@@ -6165,6 +8660,52 @@ After explaining exponential functions, several students indicate that the most 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment
+
+**Downloadable template:**
+
+At the end of the lesson or activity, students identify the aspect they found most confusing or difficult . The answer must be specific: not "I didn't understand anything", but exactly which part and why it was hard. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Topic / Session 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ What was the most confusing or difficult part of today's work? 
+ 
+ 
+ 
+ Why do you think it was confusing? 
+ (Lack of prior knowledge, pace of explanation, vocabulary, connection to another concept…) 
+ 
+ 
+ 
+ 
+ What would you need to understand it better? 
+ (Another example, a slower explanation, more practice, connecting it to something familiar…) 
+ 
+ 
+ 
+ 
+ Can you formulate your doubt as a specific question? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the question "What would you need to understand it better?" transforms passive doubt into actionable information. By grouping responses before the next session, the teacher detects whether the confusion is isolated (one student) or systemic (several share the same difficulty). In the second case, it deserves collective attention before moving on.
 
 ---
 
@@ -6347,6 +8888,78 @@ Then they switch roles, exchange cards and look for a new partner. In a few minu
 
 - *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Gamified assessment
 
+**Downloadable template:**
+
+Print this page, fold each row along the centre line (question on the front, answer on the back) and cut along the dashed lines. Each student receives a card before the activity begins. 
+
+ 
+ 
+ 
+ 
+ QUESTION — front face 
+ ✂ fold 
+ ANSWER — back face 
+ 
+ 
+ 
+ 
+ 
+ 
+ Card 1 · Subject: __________ Topic: __________ 
+ 
+ ✂ fold 
+ 
+ 
+ 
+ 
+ 
+ 
+ Card 2 · Subject: __________ Topic: __________ 
+ 
+ ✂ fold 
+ 
+ 
+ 
+ 
+ 
+ 
+ Card 3 · Subject: __________ Topic: __________ 
+ 
+ ✂ fold 
+ 
+ 
+ 
+ 
+ 
+ 
+ Card 4 · Subject: __________ Topic: __________ 
+ 
+ ✂ fold 
+ 
+ 
+ 
+ 
+ 
+ 
+ Card 5 · Subject: __________ Topic: __________ 
+ 
+ ✂ fold 
+ 
+ 
+ 
+ 
+ 
+ 
+ Card 6 · Subject: __________ Topic: __________ 
+ 
+ ✂ fold 
+ 
+ 
+ 
+ 
+
+ Teaching note: the card must have a question with a clear, verifiable answer. The best questions are those students themselves could formulate after studying the topic: the process of writing questions (before the activity) is as formative as the activity itself. Avoid yes/no questions and questions with ambiguous answers; during the activity, student A gives immediate feedback, which requires the answer to be unambiguous.
+
 ---
 
 
@@ -6469,6 +9082,70 @@ A student might answer: “I understood that factories changed the organization 
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Summative purpose
 
+**Downloadable template:**
+
+Students complete this ticket before leaving class . It helps the teacher detect what has been understood, what doubts remain and how students experienced the session. It is recommended to read them before the next class to adjust its opening. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Subject / Topic 
+ 
+ 
+ 
+ 
+
+ Format 3 · 2 · 1 
+
+ 
+ 
+ 
+ 3 
+ Three things I learned today 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 2 
+ Two questions or doubts I still have 
+ 
+ 1 
+ 2 
+ 
+ 1 
+ One connection to something I already knew or one opinion about the session 
+ 
+ 
+ 
+ 
+
+ Variant: open questions 
+ Alternative to the 3·2·1 format. Choose the questions that best fit the session. 
+
+ 
+ 
+ 
+ Question 
+ Student's answer 
+ 
+ 
+ 
+ What is the most important thing you learned today? 
+ Which part was hardest to understand? 
+ What question are you taking home? 
+ How confident do you feel about the topic? (1–5) 
+ 
+ 
+
+ Teaching note: the value of the exit ticket is not in filling it in, but in what the teacher does with the information. Reading the tickets before the next session and opening by addressing the most common doubts closes the formative cycle and reinforces students' sense that their voice matters.
+
 ---
 
 
@@ -6522,6 +9199,86 @@ The reviewer identifies one clear idea in the text, one part that is not easy to
 
 - *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Project-based learning, Summative purpose
 
+**Downloadable template:**
+
+Guide for reviewing a peer's work. Useful feedback is concrete, respectful and improvement-focused. The goal is not to correct mistakes: it is to compare the work against clear criteria and propose specific improvement steps. 
+
+ 
+ 
+ 
+ Work reviewed 
+ 
+ Date 
+ 
+ 
+ 
+ Author of the work 
+ 
+ Reviewer 
+ 
+ 
+ 
+ Task / Activity 
+ 
+ 
+ 
+ 
+
+ Review criteria 
+ Assess each criterion and add a specific comment. If a relevant criterion is missing, add it in the blank rows. 
+ 
+ 
+ 
+ Criterion 
+ Achieved ✓ 
+ Partial △ 
+ To improve ✗ 
+ Specific comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Improvement proposals 
+ 
+ 
+ 
+ Most successful aspect of the work (be specific) 
+ 
+ 
+ 
+ Most important improvement proposal (describe exactly what to do) 
+ 
+ 
+ 
+ One question this work raises for you 
+ 
+ 
+ 
+ 
+
+ Author's response (to fill in after reading the review) 
+ 
+ 
+ 
+ What change will you apply in the improved version? 
+ 
+ 
+ 
+ Is there any comment you disagree with? Why? 
+ 
+ 
+ 
+ 
+
+ Teaching note: peer review fails when comments are vague ("it's fine" or "improve the structure") or when the author does not respond to the feedback. The two most important elements are: (1) that specific improvement comments describe exactly what to do , not just what is missing; (2) that the author actively responds by deciding what to change and why. Without the author's response, the formative cycle is incomplete.
+
 ---
 
 
@@ -6558,6 +9315,53 @@ After an oral presentation on an environmental problem, a classmate writes: “S
 - *Instruments:* Ladder of feedback, Peer assessment card, Feedback card, Feedback/feedforward template, Peer assessment rubric, Cooperative work rubric
 
 - *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
+
+**Downloadable template:**
+
+Feedback form for reviewing your own work or a classmate's. Stars recognise what works well. The wish proposes a concrete improvement. Useful feedback is always specific: name which part, which sentence, which aspect. 
+
+ 
+ 
+ 
+ Work reviewed 
+ 
+ Date 
+ 
+ 
+ 
+ Author of the work 
+ 
+ Reviewer 
+ 
+ 
+ 
+ 
+
+ ⭐ Star 1 — An achieved aspect 
+ Describe a specific element that works well and explain why. Avoid generalities like "it's good": name exactly which part and what effect it achieves. 
+ 
+
+ ⭐ Star 2 — Another achieved aspect 
+ A second specific positive element. It can be different from the previous one: structure, clarity, an example, use of language, presentation… 
+ 
+
+ ✨ Wish — A concrete and actionable improvement 
+ A specific, achievable improvement proposal. The wish must describe exactly what to do, not just what is missing. Useful example: "add an example to illustrate the second idea". Less useful: "improve the development". 
+ 
+
+ Author's response 
+ After reading the feedback: what change will you apply? Is there anything you disagree with? 
+ 
+ 
+ 
+ Change I will apply 
+ Why I will (or won't) apply it 
+ 
+ 
+ 
+ 
+
+ Teaching note: the wish is the hardest part to formulate well. Teaching students to move from "improve the explanation" to "in paragraph 3, add a sentence explaining why X happens" requires practice and modelling. The "author's response" closes the cycle: without it, feedback is a monologue, not a learning conversation.
 
 ---
 
@@ -7151,6 +9955,103 @@ The technique helps students not only defend a position, but also recognise its 
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
 
+**Downloadable template:**
+
+The Toulmin model breaks an argument down into six elements. The three central ones are mandatory (claim, data, warrant); the three complementary ones add precision and strength. Complete the three central elements first, then add the complementary ones. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Question / Text / Problem 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D — DATA / EVIDENCE 
+ Facts, observations, results or information that support the claim. 
+ 
+ 
+ 
+ → 
+ 
+ 
+ W — WARRANT 
+ Principle, rule or reasoning that connects the data to the claim. 
+ 
+ 
+ 
+ → 
+ 
+ 
+ C — CLAIM 
+ The conclusion or thesis being defended. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B — BACKING (optional) 
+ Additional support for the warrant: theory, law, source or expert consensus that supports it. 
+ 
+ 
+ 
+ 
+ Q — QUALIFIER (optional) 
+ Degree of certainty or scope of the claim: "probably", "in most cases", "according to available data"… 
+ 
+ 
+ 
+ 
+ R — REBUTTAL (optional) 
+ Conditions, exceptions or objections that would limit or deny the claim. 
+ 
+ 
+ 
+ 
+ 
+
+ Argument review 
+ 
+ 
+ 
+ Does the warrant establish a clear logical connection between the data and the claim? 
+ ☐ Yes   ☐ No   ☐ Partially 
+ 
+ 
+ Is the data sufficient to support the claim? 
+ ☐ Yes   ☐ No   ☐ Partially 
+ 
+ 
+ Does the rebuttal weaken or qualify the argument? How would you respond to it? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the warrant is the hardest and most valuable element. It is not additional evidence; it is the principle that explains why the data leads to the claim. Without an explicit warrant, arguments are claims backed by data but without the logical connection that links them. The rebuttal does not weaken the argument: it makes it stronger by showing that the author has anticipated its limits.
+
 ---
 
 
@@ -7188,6 +10089,105 @@ In citizenship education, students build a map around the question: “Should mo
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose, Problem solving
+
+**Downloadable template:**
+
+Visual organiser for representing the structure of an argument: the thesis, the reasons supporting it, the evidence for each reason, possible objections, and responses to those objections. Complete the thesis and reasons first; add evidence and objections afterwards. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Question / Text / Problem 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ THESIS — Main claim being defended 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ ↓ supported by ↓ 
+
+ 
+ 
+ 
+ 
+ 
+ REASON 1 
+ 
+ 
+ 
+ REASON 2 
+ 
+ 
+ 
+ REASON 3 
+ 
+ 
+ 
+ 
+ 
+ Evidence: 
+ 
+ 
+ 
+ Evidence: 
+ 
+ 
+ 
+ Evidence: 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Objections and responses 
+ 
+ 
+ 
+ Possible objection or counter-argument 
+ Response or nuance from the thesis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Final argument review 
+ 
+ 
+ 
+ Which is the weakest reason in the argument? What additional evidence would strengthen it? 
+ 
+ 
+ 
+ Which objection is hardest to refute? How would you nuance the thesis as a result? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the argument map makes the architecture of reasoning visible. A thesis with three strong reasons but no objections or responses is an incomplete argument: anticipating objections and responding to them is what distinguishes sophisticated argumentation from simply defending a position. The final review, focused on the weakest reason and the hardest objection, is the most honest and most useful step in the process.
 
 ---
 
@@ -8172,6 +11172,106 @@ Before presenting, each group reviews its work with the rubric and identifies wh
 
 - *Dimensions:* Self-assessment, Grading and accreditation, Peer assessment, Shared and participatory assessment, Continuous assessment, Criteria-based assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
+**Downloadable template:**
+
+Generic analytic rubric template. Define the quality criteria for the task and the achievement levels for each one. Share the rubric with students before they do the task: its main purpose is to guide the work, not just to grade it. 
+
+ 
+ 
+ 
+ Task / Activity 
+ 
+ Date 
+ 
+ 
+ 
+ Subject 
+ 
+ Year / Grade 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Criterion 
+ Excellent (4) Exceeds expectations 
+ Satisfactory (3) Meets expectations 
+ Developing (2) Partially meets 
+ Beginning (1) Does not meet 
+ Weight (%) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total (weighted sum) 
+ 100 % 
+ 
+ 
+ 
+
+ Uses of this rubric 
+ 
+ 
+ 
+ Before the task 
+ During the process 
+ When assessing 
+ 
+ 
+ 
+ 
+ Students read the rubric to understand what is expected and how to organise their work. 
+ Students use it to review their draft and identify what to improve before submitting. 
+ The teacher, the student themselves, or a peer uses it to assess and give specific feedback. 
+ 
+ 
+ 
+
+ Teaching note: a useful rubric describes observable behaviours, not generic judgements. "Explains ideas clearly with their own examples" is a useful descriptor; "demonstrates understanding of the topic" is not, because it doesn't describe what the student does or how to recognise it. The difference between level 3 and level 4 must be clear enough for students to place themselves without the teacher's help.
+
 ---
 
 
@@ -8492,5 +11592,96 @@ In biology, the teacher shows the sentence: “There are more and more antibioti
 - *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Dimensions:* Diagnostic purpose, Inquiry
+
+**Downloadable template:**
+
+The QFT (Question Formulation Technique) is a four-phase process that teaches students to generate, refine and prioritise their own questions. Follow the phases in order. In phase 1, do not answer any question : the goal is to produce many, not to judge them. 
+
+ 
+ 
+ 
+ Student 
+ 
+ Date 
+ 
+ 
+ 
+ Question focus (phrase, image, data, object or situation proposed by the teacher) 
+ 
+ 
+ 
+ 
+
+ Phase 1 — Generate questions 
+ Write all the questions you can think of about the focus. Rules: do not answer or judge any of them, write them as they come even if they seem obvious or strange, do not turn them into statements. 
+ 
+ 
+ 
+ # 
+ Question 
+ Open (O) or closed (C) 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 
+ 
+
+ Phase 2 — Classify: open or closed 
+ Mark each question with O (open: admits many answers, invites exploration) or C (closed: has a specific answer or a yes/no answer). Record this in the column above. 
+
+ Phase 3 — Transform 
+ 
+ 
+ 
+ Choose a closed question and turn it into an open one: 
+ 
+ 
+ 
+ Choose an open question and turn it into a closed one: 
+ 
+ 
+ 
+ 
+
+ Phase 4 — Prioritise 
+ Choose the 3 most interesting or useful questions for investigating the topic. Write them here and briefly explain why you chose them. 
+ 
+ 
+ 
+ # 
+ Selected question 
+ Why I choose it 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+
+ Phase 5 — Final reflection 
+ 
+ 
+ 
+ What have you learnt about how to formulate questions? 
+ 
+ 
+ 
+ What will you do with the prioritised questions? 
+ 
+ 
+ 
+ 
+
+ Teaching note: the question focus the teacher proposes is decisive: it must be provocative, ambiguous or have enough tension to generate genuine curiosity, but not so open that it paralyses. The transformation phase (open↔closed) is where the most metacognitive learning happens: students discover that the type of question determines the type of knowledge that can be obtained.
 
 ---

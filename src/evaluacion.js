@@ -1246,9 +1246,9 @@ async function downloadEvalDocx(entity) {
       return `<h2>${esc(i(s.key))}</h2>${body}`;
     }),
     innerGroups.length ? `<h2>${esc(i('evalInnerRel'))}</h2>${innerGroups.map(g =>
-      `<h3>${esc(i(g.cat.i18n))}</h3><ul>${g.items.map(it => `<li>${esc(it.name)} (${esc(it.id)})</li>`).join('')}</ul>`
+      `<h3>${esc(i(g.cat.i18n))}</h3><ul>${g.items.map(it => `<li>${esc(it.name)}</li>`).join('')}</ul>`
     ).join('')}` : '',
-    metacItems.length ? `<h2>${esc(i('evalUsedBy'))}</h2><ul>${metacItems.map(it => `<li>${esc(it.name)} (${esc(it.id)})</li>`).join('')}</ul>` : '',
+    metacItems.length ? `<h2>${esc(i('evalUsedBy'))}</h2><ul>${metacItems.map(it => `<li>${esc(it.name)}</li>`).join('')}</ul>` : '',
     exHtml          ? `<h2>${esc(i('example'))}</h2>${exHtml}` : '',
   ].filter(Boolean).join('\n');
 

@@ -730,7 +730,7 @@ async function downloadTechniqueDocx() {
 function buildRelatedHtmlSection(item) {
   const relatedItems = relatedBidirectional(item);
   if (!relatedItems.length) return '';
-  const lis = relatedItems.map(r => `<li>${esc(r.name)} (${esc(r.id)})</li>`).join('');
+  const lis = relatedItems.map(r => `<li>${esc(r.name)}</li>`).join('');
   return `<h2>${esc(i('related'))}</h2><ul>${lis}</ul>`;
 }
 
@@ -744,7 +744,7 @@ function buildEvalHtmlSection(item) {
   })).filter(g => g.items.length);
   if (!groups.length) return '';
   const sections = groups.map(g => {
-    const lis = g.items.map(e => `<li>${esc(e.name)} (${esc(e.id)})</li>`).join('');
+    const lis = g.items.map(e => `<li>${esc(e.name)}</li>`).join('');
     return `<h3>${esc(i(g.i18n))}</h3><ul>${lis}</ul>`;
   }).join('');
   return `<h2>${esc(i('evalSection'))}</h2>${sections}`;

@@ -102,23 +102,72 @@ LANGS = {
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
+def _table_to_md(match):
+    """Convert an HTML table to readable Markdown lines.
+    - <th> cells → bold labels (questions, criteria headers)
+    - <td> cells → only included if non-empty (empty cells are student-writing areas)
+    """
+    table_html = match.group(0)
+    rows = []
+    for row_m in re.finditer(r'<tr[^>]*>(.*?)</tr>', table_html, re.DOTALL | re.IGNORECASE):
+        row_html = row_m.group(1)
+        parts = []
+        for th_m in re.finditer(r'<th[^>]*>(.*?)</th>', row_html, re.DOTALL | re.IGNORECASE):
+            cell = re.sub(r'<[^>]+>', ' ', th_m.group(1))
+            cell = html_module.unescape(cell)
+            cell = re.sub(r'\s+', ' ', cell).strip()
+            if cell:
+                parts.append(f'**{cell}**')
+        for td_m in re.finditer(r'<td[^>]*>(.*?)</td>', row_html, re.DOTALL | re.IGNORECASE):
+            cell = re.sub(r'<[^>]+>', ' ', td_m.group(1))
+            cell = html_module.unescape(cell)
+            cell = re.sub(r'\s+', ' ', cell).strip()
+            if cell:
+                parts.append(cell)
+        if parts:
+            rows.append(' · '.join(parts))
+    return ('\n'.join(rows) + '\n') if rows else ''
+
+
 def load_template(lang, item_id):
-    """Returns plain text of the template HTML, or None if it doesn't exist."""
+    """Load a template HTML and convert it to Markdown. Returns None if absent."""
     path = os.path.join(BASE_DIR, "templates", lang, f"{item_id}.html")
     if not os.path.exists(path):
         return None
     with open(path, encoding="utf-8") as f:
         raw = f.read()
-    # Remove SVG blocks entirely (diagrams add no value as plain text)
+
+    # 1. Drop SVG blocks (diagrams are meaningless as text)
     raw = re.sub(r'<svg[^>]*>.*?</svg>', '', raw, flags=re.DOTALL | re.IGNORECASE)
-    # Remove all remaining HTML tags
-    text = re.sub(r'<[^>]+>', ' ', raw)
-    # Decode HTML entities
-    text = html_module.unescape(text)
-    # Collapse whitespace
-    text = re.sub(r'[ \t]+', ' ', text)
-    text = re.sub(r'\n{3,}', '\n\n', text)
-    return text.strip()
+    # 2. Drop HTML comments
+    raw = re.sub(r'<!--.*?-->', '', raw, flags=re.DOTALL)
+    # 3. Headings
+    raw = re.sub(r'<h4[^>]*>(.*?)</h4>',
+                 lambda m: '\n#### ' + re.sub(r'<[^>]+>', '', m.group(1)).strip() + '\n',
+                 raw, flags=re.DOTALL | re.IGNORECASE)
+    # 4. Inline formatting
+    raw = re.sub(r'<strong[^>]*>(.*?)</strong>', r'**\1**', raw, flags=re.DOTALL | re.IGNORECASE)
+    raw = re.sub(r'<em[^>]*>(.*?)</em>',         r'*\1*',  raw, flags=re.DOTALL | re.IGNORECASE)
+    # 5. Line breaks
+    raw = re.sub(r'<br\s*/?>', '\n', raw, flags=re.IGNORECASE)
+    # 6. List items
+    raw = re.sub(r'<li[^>]*>(.*?)</li>',
+                 lambda m: '\n- ' + re.sub(r'<[^>]+>', '', m.group(1)).strip(),
+                 raw, flags=re.DOTALL | re.IGNORECASE)
+    raw = re.sub(r'</?[uo]l[^>]*>', '', raw, flags=re.IGNORECASE)
+    # 7. Tables → structured lines
+    raw = re.sub(r'<table[^>]*>.*?</table>', _table_to_md, raw, flags=re.DOTALL | re.IGNORECASE)
+    # 8. Paragraphs
+    raw = re.sub(r'<p[^>]*>(.*?)</p>', r'\n\1\n', raw, flags=re.DOTALL | re.IGNORECASE)
+    # 9. Strip remaining tags
+    raw = re.sub(r'<[^>]+>', '', raw)
+    # 10. Decode entities and clean whitespace
+    raw = html_module.unescape(raw)
+    raw = re.sub(r'[ \t]+', ' ', raw)
+    raw = re.sub(r' \n', '\n', raw)
+    raw = re.sub(r'\n ', '\n', raw)
+    raw = re.sub(r'\n{3,}', '\n\n', raw)
+    return raw.strip()
 
 def load_json(lang, filename):
     path = os.path.join(BASE_DIR, "data", lang, filename)

@@ -1104,6 +1104,9 @@ function openEvalModal(evalId) {
   const markdownBtn = document.getElementById('modalMarkdownBtn');
   if (markdownBtn) markdownBtn.onclick = () => downloadEvalMarkdown(entity);
 
+  const docxBtn = document.getElementById('modalDocxBtn');
+  if (docxBtn) docxBtn.onclick = () => downloadEvalDocx(entity);
+
   // Print
   const printBtn = document.getElementById('modalPrintBtn');
   if (printBtn) {
@@ -1204,6 +1207,53 @@ function downloadEvalMarkdown(entity) {
   if (!entity) return;
   downloadTextFile(`${slugifyFilename(entity.name)}.md`, buildEvalMarkdown(entity));
   toast(i('markdownDownloaded'));
+}
+
+async function downloadEvalDocx(entity) {
+  if (!entity) return;
+  const eCat = EVAL_CATS.find(c => c.prefix === evalEntityPrefix(entity.id));
+  const meta = [eCat ? i(eCat.i18n) : '', entity.phase, entity.participation, entity.complexity].filter(Boolean).join(' · ');
+  const exHtml = getCachedEvalExample(entity.id, S.lang);
+  const byId   = EV.byId[S.lang];
+
+  const extraSections = [
+    { key: 'evalPurpose',    value: entity.purpose },
+    { key: 'evalWhenToUse', value: entity.when_to_use },
+    { key: 'evalEvidence',  value: entity.typical_evidence },
+    { key: 'evalLimitations', value: entity.limitations },
+  ].filter(s => s.value && (!Array.isArray(s.value) || s.value.length));
+
+  const innerGroups = [
+    { field: 'related_tecnicas',   prefix: 'TEC' },
+    { field: 'related_instruments', prefix: 'EVI' },
+    { field: 'related_tools',      prefix: 'INS' },
+    { field: 'related_dimensions', prefix: 'DIM' },
+  ].map(({ field, prefix }) => ({
+    cat: EVAL_CATS.find(c => c.prefix === prefix),
+    items: (entity[field] || []).map(id => byId?.get(id)).filter(Boolean),
+  })).filter(g => g.items.length);
+
+  const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
+
+  const htmlContent = [
+    meta            ? `<p><em>${esc(meta)}</em></p>` : '',
+    entity.summary  ? `<p>${esc(entity.summary)}</p>` : '',
+    entity.desc     ? formatDesc(entity.desc) : '',
+    ...extraSections.map(s => {
+      const body = Array.isArray(s.value)
+        ? `<ul>${s.value.map(v => `<li>${esc(v)}</li>`).join('')}</ul>`
+        : `<p>${esc(s.value)}</p>`;
+      return `<h2>${esc(i(s.key))}</h2>${body}`;
+    }),
+    innerGroups.length ? `<h2>${esc(i('evalInnerRel'))}</h2>${innerGroups.map(g =>
+      `<h3>${esc(i(g.cat.i18n))}</h3><ul>${g.items.map(it => `<li>${esc(it.name)} (${esc(it.id)})</li>`).join('')}</ul>`
+    ).join('')}` : '',
+    metacItems.length ? `<h2>${esc(i('evalUsedBy'))}</h2><ul>${metacItems.map(it => `<li>${esc(it.name)} (${esc(it.id)})</li>`).join('')}</ul>` : '',
+    exHtml          ? `<h2>${esc(i('example'))}</h2>${exHtml}` : '',
+  ].filter(Boolean).join('\n');
+
+  await generateDocx(entity.name, `${slugifyFilename(entity.name)}.docx`, htmlContent);
+  toast(i('docxDownloaded'));
 }
 
 // ─── VIEW SWITCH ─────────────────────────────────────────────────────────────

@@ -50,6 +50,8 @@ const I18N = {
     copyContent:  'Copiar',
     downloadMarkdown:'Descargar Markdown',
     markdownDownloaded:'Markdown descargado',
+    downloadDocx: 'Descargar DOCX',
+    docxDownloaded:'DOCX descargado',
     copied:       '¡Copiado!',
     copied:       '¡Recurso copiado!',
     newCat:       'Nueva categoría',
@@ -255,6 +257,8 @@ const I18N = {
     copyContent:  'Copiar',
     downloadMarkdown:'Descarregar Markdown',
     markdownDownloaded:'Markdown descarregat',
+    downloadDocx: 'Descarregar DOCX',
+    docxDownloaded:'DOCX descarregat',
     copied:       'Copiat!',
     copied:       'Recurs copiat!',
     newCat:       'Nova categoria',
@@ -460,6 +464,8 @@ const I18N = {
     copyContent:  'Copy',
     downloadMarkdown:'Download Markdown',
     markdownDownloaded:'Markdown downloaded',
+    downloadDocx: 'Download DOCX',
+    docxDownloaded:'DOCX downloaded',
     copied:       'Copied!',
     copied:       'Resource copied!',
     newCat:       'New category',
@@ -667,6 +673,7 @@ function applyI18N() {
   document.getElementById('modalCloseBtnFooter').textContent = i('close');
   document.getElementById('modalCopyBtn').title  = i('copyContent');
   document.getElementById('modalMarkdownBtn').title = i('downloadMarkdown');
+  document.getElementById('modalDocxBtn').title     = i('downloadDocx');
   document.getElementById('modalPrintBtn').title = i('printPdf');
   document.getElementById('exitSharedLabel').textContent = i('exitShared');
   document.documentElement.lang = S.lang;

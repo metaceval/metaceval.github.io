@@ -626,6 +626,7 @@ function openModal(itemId) {
   document.getElementById('modalFavBtn').onclick  = e => { if (S.modal !== null) toggleFav(S.modal, e.currentTarget); };
   document.getElementById('modalCopyBtn').onclick  = copyModal;
   document.getElementById('modalMarkdownBtn').onclick = downloadTechniqueMarkdown;
+  document.getElementById('modalDocxBtn').onclick  = downloadTechniqueDocx;
   document.getElementById('modalPrintBtn').onclick = printModal;
   document.getElementById('modalShareBtn').onclick = () => { if (S.modal !== null) copy(shareURL([S.modal])); };
 
@@ -705,6 +706,48 @@ async function downloadTechniqueMarkdown() {
   }
   downloadTextFile(`${slugifyFilename(item.name)}.md`, md);
   toast(i('markdownDownloaded'));
+}
+
+async function downloadTechniqueDocx() {
+  const item = S.modal ? itemById(S.modal) : null;
+  if (!item) return;
+  const meta = [item.blocks.join(', '), item.fields.join(', ')].filter(Boolean).join(' · ');
+  const tmplHtml = await fetchTemplateHtml(item.id, S.lang);
+  const htmlContent = [
+    meta         ? `<p><em>${esc(meta)}</em></p>` : '',
+    item.summary ? `<p>${esc(item.summary)}</p>` : '',
+    item.desc    ? formatDesc(item.desc) : '',
+    item.example ? `<h2>${esc(i('example'))}</h2>${formatDesc(item.example)}` : '',
+    item.source  ? `<p><em>${esc(item.source)}</em></p>` : '',
+    buildRelatedHtmlSection(item),
+    buildEvalHtmlSection(item),
+    tmplHtml     ? `<h2>${esc(i('template'))}</h2>${tmplHtml}` : '',
+  ].filter(Boolean).join('\n');
+  await generateDocx(item.name, `${slugifyFilename(item.name)}.docx`, htmlContent);
+  toast(i('docxDownloaded'));
+}
+
+function buildRelatedHtmlSection(item) {
+  const relatedItems = relatedBidirectional(item);
+  if (!relatedItems.length) return '';
+  const lis = relatedItems.map(r => `<li>${esc(r.name)} (${esc(r.id)})</li>`).join('');
+  return `<h2>${esc(i('related'))}</h2><ul>${lis}</ul>`;
+}
+
+function buildEvalHtmlSection(item) {
+  const groups = EVAL_CATS.map(cat => ({
+    ...cat,
+    items: (item.eval_ids || [])
+      .filter(id => id.startsWith(cat.prefix + '_'))
+      .map(id => evalEntityById(id))
+      .filter(Boolean),
+  })).filter(g => g.items.length);
+  if (!groups.length) return '';
+  const sections = groups.map(g => {
+    const lis = g.items.map(e => `<li>${esc(e.name)} (${esc(e.id)})</li>`).join('');
+    return `<h3>${esc(i(g.i18n))}</h3><ul>${lis}</ul>`;
+  }).join('');
+  return `<h2>${esc(i('evalSection'))}</h2>${sections}`;
 }
 
 async function copyModal() {

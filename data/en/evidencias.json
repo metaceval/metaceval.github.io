@@ -23,7 +23,7 @@
     "modality": "Presencial",
     "location": "Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS",
       "TEC_OBS_INC"
@@ -92,7 +92,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_OBS_SIS",
       "TEC_OBS_INC"
@@ -252,7 +252,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS",
       "TEC_OBS_INC"
@@ -343,7 +343,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Small group / Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_OBS_SIS"
@@ -425,7 +425,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL"
     ],
@@ -482,7 +482,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_OBS_SIS"
@@ -540,7 +540,7 @@
     "modality": "Presencial",
     "location": "Lab",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS"
     ],
@@ -602,7 +602,7 @@
     "modality": "Presencial",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS"
     ],
@@ -661,7 +661,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_OBS_SIS"
     ],
@@ -715,7 +715,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL"
     ],
@@ -846,7 +846,7 @@
     "modality": "Presencial",
     "location": "Classroom / Outdoors",
     "grouping": "Small group / Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS"
     ],
@@ -901,7 +901,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_OBS_SIS"
@@ -1046,7 +1046,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_PROD",
@@ -1116,7 +1116,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_ENTREV_EVAL"
@@ -1177,7 +1177,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_SONDEO"
@@ -1238,7 +1238,7 @@
     "modality": "Presencial",
     "location": "Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_ANAL_DOC"
@@ -1296,7 +1296,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -1368,7 +1368,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PROC_REFLEX"
@@ -1450,7 +1450,7 @@
     "modality": "Presencial",
     "location": "Lab / Classroom",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1510,7 +1510,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1573,7 +1573,7 @@
     "modality": "Presencial / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1633,7 +1633,7 @@
     "modality": "Presencial / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1696,7 +1696,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PRUEBA"
@@ -1761,7 +1761,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1819,7 +1819,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1882,7 +1882,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1952,7 +1952,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Pairs",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2011,7 +2011,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2071,7 +2071,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2128,7 +2128,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2186,7 +2186,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2244,7 +2244,7 @@
     "modality": "Presencial / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2300,7 +2300,7 @@
     "modality": "Presencial / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2360,7 +2360,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2425,7 +2425,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2490,7 +2490,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Small group / Large group",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
       "TEC_ANAL_DOC"
@@ -2548,7 +2548,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2607,7 +2607,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2683,7 +2683,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2746,7 +2746,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -2848,7 +2848,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -2913,7 +2913,7 @@
     "modality": "Presencial",
     "location": "Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -2979,7 +2979,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -3051,7 +3051,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3124,7 +3124,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3186,7 +3186,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_ORAL"
@@ -3246,7 +3246,7 @@
     "modality": "Presencial",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -3300,7 +3300,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_TRIANG"
@@ -3368,7 +3368,7 @@
     "modality": "Presencial",
     "location": "Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -3430,7 +3430,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO",
@@ -3492,7 +3492,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Pairs",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3549,7 +3549,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3613,7 +3613,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_ORAL"
@@ -3680,7 +3680,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Outdoors / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3746,7 +3746,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3804,7 +3804,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_PROD"
@@ -3867,7 +3867,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3921,7 +3921,7 @@
     "modality": "Presencial",
     "location": "Classroom / Lab / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3973,7 +3973,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -4032,7 +4032,7 @@
     "modality": "Presencial",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_OBS_SIS"
@@ -4089,7 +4089,7 @@
     "modality": "Online",
     "location": "Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -4148,7 +4148,7 @@
     "modality": "Online",
     "location": "Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -4204,7 +4204,7 @@
     "modality": "Online",
     "location": "Online",
     "grouping": "Small group / Large group",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_INTER_DIG"
@@ -4265,7 +4265,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PROC_REFLEX",
@@ -4338,7 +4338,7 @@
     "modality": "Presencial / Online",
     "location": "Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PROC_REFLEX",
@@ -4410,7 +4410,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_SONDEO",
       "TEC_ENC_CUEST"
@@ -4470,7 +4470,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_SONDEO",
       "TEC_PROD"
@@ -4528,7 +4528,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Large group / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_SONDEO",
       "TEC_ORAL"
@@ -4591,7 +4591,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
       "TEC_PROD"
@@ -4657,7 +4657,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
       "TEC_PROD"
@@ -4725,7 +4725,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Small group / Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -4788,7 +4788,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Pairs / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -4860,7 +4860,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Pairs / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -4928,7 +4928,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_SONDEO",
       "TEC_PROC_REFLEX"
@@ -4995,7 +4995,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_SONDEO",
       "TEC_ENC_CUEST"
@@ -5063,7 +5063,7 @@
     "modality": "Presencial",
     "location": "Classroom",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -5123,7 +5123,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_OBS_SIS",
@@ -5196,7 +5196,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -5276,7 +5276,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Small group / Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS",
       "TEC_PROD"
@@ -5337,7 +5337,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Large group / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_ENTREV_EVAL"
@@ -5396,7 +5396,7 @@
     "modality": "Presencial",
     "location": "Lab",
     "grouping": "Individual / Pairs",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS"
     ],
@@ -5459,7 +5459,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_ANAL_DOC",
       "TEC_INTER_DIG",
@@ -5528,7 +5528,7 @@
     "modality": "Presencial / Online",
     "location": "Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_ANAL_DOC",
       "TEC_PROC_REFLEX",
@@ -5603,7 +5603,7 @@
     "modality": "Presencial",
     "location": "Outdoors / Lab / Classroom",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_OBS_SIS",
       "TEC_PROD",
@@ -5676,7 +5676,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home / Outdoors",
     "grouping": "Individual / Pairs",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_ORAL"
@@ -5749,7 +5749,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
       "TEC_ANAL_DOC",
@@ -5827,7 +5827,7 @@
     "modality": "Presencial",
     "location": "Classroom",
     "grouping": "Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_tecnicas": [
       "TEC_SONDEO",
       "TEC_OBS_SIS"
@@ -5888,7 +5888,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_tecnicas": [
       "TEC_PROD"
     ],

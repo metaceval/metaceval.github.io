@@ -145,12 +145,18 @@ const EVAL_GROUPING_TOKEN_MAP = {
   'Grupo pequeño': { es: 'Grupo pequeño', ca: 'Grup petit', en: 'Small group' },
   'Gran grupo':    { es: 'Gran grupo',    ca: 'Gran grup',  en: 'Large group' },
 };
+const EVAL_AI_RESISTANCE_TOKEN_MAP = {
+  'Alta': { es: 'Alta',  ca: 'Alta',    en: 'High'   },
+  'Media': { es: 'Media', ca: 'Mitjana', en: 'Medium' },
+  'Baja':  { es: 'Baja',  ca: 'Baixa',  en: 'Low'    },
+};
 
 function remapEvalFilters(oldLang, newLang) {
   if (oldLang === newLang) return;
   const maps = [
-    { key: 'evalLocation', tokenMap: EVAL_LOCATION_TOKEN_MAP },
-    { key: 'evalGrouping', tokenMap: EVAL_GROUPING_TOKEN_MAP },
+    { key: 'evalLocation',    tokenMap: EVAL_LOCATION_TOKEN_MAP },
+    { key: 'evalGrouping',    tokenMap: EVAL_GROUPING_TOKEN_MAP },
+    { key: 'evalAiResistance', tokenMap: EVAL_AI_RESISTANCE_TOKEN_MAP },
   ];
   for (const { key, tokenMap } of maps) {
     if (!S[key]) continue;

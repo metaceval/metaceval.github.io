@@ -21,7 +21,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_instruments": [
       "EVI_DIARIO",
       "EVI_PORT",
@@ -104,7 +104,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Pairs / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_TRAB_COOP",
       "EVI_DEBATE",
@@ -182,7 +182,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_LAB",
       "EVI_EXPO",
@@ -330,7 +330,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_instruments": [
       "EVI_MAP_CONC",
       "EVI_PR_OBJ",
@@ -414,7 +414,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_TRAB_IND",
       "EVI_PART",
@@ -670,7 +670,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_EXPO",
       "EVI_MONO",
@@ -786,7 +786,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_ENSAYO",
       "EVI_COM_TEXT",
@@ -891,7 +891,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Lab / Outdoors",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_instruments": [
       "EVI_PART",
       "EVI_COLOQ",
@@ -1013,7 +1013,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Small group / Large group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_MEM_PROY",
       "EVI_PLAN_TRAB",
@@ -1091,7 +1091,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Lab / Outdoors",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_LAB",
       "EVI_INFO_LAB",
@@ -1166,7 +1166,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_COM_GRAF",
       "EVI_PROB",
@@ -1286,7 +1286,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_CASO"
     ],
@@ -1340,7 +1340,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Lab",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_SIM",
       "EVI_ROL",
@@ -1391,7 +1391,7 @@
     "modality": "Online",
     "location": "Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Low",
     "related_instruments": [
       "EVI_CUEST_DIG",
       "EVI_INFOG",
@@ -1488,7 +1488,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_TAREA_COMP_INT",
       "EVI_SIT_PROB",
@@ -1562,7 +1562,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_TAREA_COMP_INT",
       "EVI_CUAD_DIG",
@@ -1688,7 +1688,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_CUAD_DIG",
       "EVI_EPORT_SEL",
@@ -1818,7 +1818,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_BORR",
       "EVI_REV_PARES",
@@ -1961,7 +1961,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_PR_COMP",
       "EVI_TAREA_COMP_INT",
@@ -2024,7 +2024,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_TRAB_COOP",
       "EVI_REV_PARES",
@@ -2104,7 +2104,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group / Large group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_ESCAPE",
       "EVI_PROB",
@@ -2169,7 +2169,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Alta",
+    "ai_resistance": "High",
     "related_instruments": [
       "EVI_DIARIO",
       "EVI_PORT",
@@ -2318,7 +2318,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_DIARIO",
       "EVI_PORT",
@@ -2388,7 +2388,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_PR_OBJ",
       "EVI_TEST",
@@ -2449,7 +2449,7 @@
     "modality": "Presencial / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Media",
+    "ai_resistance": "Medium",
     "related_instruments": [
       "EVI_PROB",
       "EVI_SIT_PROB",

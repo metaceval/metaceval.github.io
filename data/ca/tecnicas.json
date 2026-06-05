@@ -248,7 +248,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_instruments": [
       "EVI_CUADERNO",
       "EVI_INFO_LAB",
@@ -497,7 +497,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_instruments": [
       "EVI_PR_DES",
       "EVI_TEST",
@@ -970,7 +970,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_instruments": [
       "EVI_DIARIO",
       "EVI_F_REFLEX",
@@ -1215,7 +1215,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_instruments": [
       "EVI_CUEST_DIG",
       "EVI_KPSI",
@@ -1278,7 +1278,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_instruments": [
       "EVI_CUADERNO",
       "EVI_PORT_DIG",
@@ -1404,7 +1404,7 @@
     "modality": "Online",
     "location": "Virtual",
     "grouping": "Individual / Gran grup",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_instruments": [
       "EVI_FORO",
       "EVI_DOC_COL",

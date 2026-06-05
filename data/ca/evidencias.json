@@ -89,7 +89,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_OBS_SIS",
       "TEC_OBS_INC"
@@ -652,7 +652,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_OBS_SIS"
     ],
@@ -887,7 +887,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_OBS_SIS"
@@ -1275,7 +1275,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -1345,7 +1345,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PROC_REFLEX"
@@ -1427,7 +1427,7 @@
     "modality": "Presencial",
     "location": "Laboratori / Aula",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1486,7 +1486,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1547,7 +1547,7 @@
     "modality": "Presencial / Online",
     "location": "Domicili / Aula",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1605,7 +1605,7 @@
     "modality": "Presencial / Online",
     "location": "Domicili / Aula",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1667,7 +1667,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PRUEBA"
@@ -1731,7 +1731,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1787,7 +1787,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1848,7 +1848,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1915,7 +1915,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Parelles",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -1971,7 +1971,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2029,7 +2029,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2083,7 +2083,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2139,7 +2139,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2195,7 +2195,7 @@
     "modality": "Presencial / Online",
     "location": "Domicili / Aula",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2249,7 +2249,7 @@
     "modality": "Presencial / Online",
     "location": "Domicili / Aula",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2309,7 +2309,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2372,7 +2372,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2435,7 +2435,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Grup petit / Gran grup",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
       "TEC_ANAL_DOC"
@@ -2491,7 +2491,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2548,7 +2548,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2621,7 +2621,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -2682,7 +2682,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -2782,7 +2782,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -2908,7 +2908,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -2978,7 +2978,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3049,7 +3049,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3219,7 +3219,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_TRIANG"
@@ -3285,7 +3285,7 @@
     "modality": "Presencial",
     "location": "Aula",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -3346,7 +3346,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO",
@@ -3407,7 +3407,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Parelles",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3462,7 +3462,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3524,7 +3524,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_ORAL"
@@ -3590,7 +3590,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Exterior / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3655,7 +3655,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3712,7 +3712,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_PROD"
@@ -3774,7 +3774,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3877,7 +3877,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -3991,7 +3991,7 @@
     "modality": "Online",
     "location": "Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -4049,7 +4049,7 @@
     "modality": "Online",
     "location": "Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -4103,7 +4103,7 @@
     "modality": "Online",
     "location": "Virtual",
     "grouping": "Grup petit / Gran grup",
-    "ai_resistance": "Baja",
+    "ai_resistance": "Baixa",
     "related_tecnicas": [
       "TEC_ORAL",
       "TEC_INTER_DIG"
@@ -4163,7 +4163,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PROC_REFLEX",
@@ -4233,7 +4233,7 @@
     "modality": "Presencial / Online",
     "location": "Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PROC_REFLEX",
@@ -4360,7 +4360,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_SONDEO",
       "TEC_PROD"
@@ -4477,7 +4477,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
       "TEC_PROD"
@@ -4541,7 +4541,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
       "TEC_PROD"
@@ -4608,7 +4608,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Grup petit / Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -4669,7 +4669,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Parelles / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
     ],
@@ -4937,7 +4937,7 @@
     "modality": "Presencial",
     "location": "Aula",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -4997,7 +4997,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Exterior",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_OBS_SIS",
@@ -5069,7 +5069,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -5332,7 +5332,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_ANAL_DOC",
       "TEC_INTER_DIG",
@@ -5401,7 +5401,7 @@
     "modality": "Presencial / Online",
     "location": "Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_ANAL_DOC",
       "TEC_PROC_REFLEX",
@@ -5761,7 +5761,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Media",
+    "ai_resistance": "Mitjana",
     "related_tecnicas": [
       "TEC_PROD"
     ],

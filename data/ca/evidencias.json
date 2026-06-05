@@ -5474,8 +5474,8 @@
       "natura"
     ],
     "modality": "Presencial",
-    "location": "Exterior / Laboratori / Aula",
-    "grouping": "Individual / Grup petit",
+    "location": "Exterior / Laboratorio / Aula",
+    "grouping": "Individual / Grupo pequeño",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -5547,8 +5547,8 @@
       "digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicili / Exterior",
-    "grouping": "Individual / Parelles",
+    "location": "Aula / Virtual / Domicilio / Exterior",
+    "grouping": "Individual / Parejas",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD",

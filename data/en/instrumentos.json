@@ -3051,7 +3051,7 @@
     "name": "Digital rubric",
     "type": "Digital assessment",
     "summary": "Rubric integrated in a digital platform.",
-    "desc": "The digital rubric is a rubric implemented in an educational platform or application (Google Classroom, Canvas, Moodle, Rubric Maker, etc.) that allows it to be applied directly in the digital environment, automate score calculation and send feedback to the student.\n\nHow to use it: create the rubric in the platform, associating it with a task. When marking, the teacher marks the levels directly in the platform and adds comments. The score is calculated automatically and the student receives the feedback in their personal space.\n\nIt reduces marking time, facilitates consistency across marking sessions and allows the student to access their feedback immediately and in an organised way.",
+    "desc": "The digital rubric is a rubric implemented in an educational platform or application (Google Aula, Canvas, Moodle, Rubric Maker, etc.) that allows it to be applied directly in the digital environment, automate score calculation and send feedback to the student.\n\nHow to use it: create the rubric in the platform, associating it with a task. When marking, the teacher marks the levels directly in the platform and adds comments. The score is calculated automatically and the student receives the feedback in their personal space.\n\nIt reduces marking time, facilitates consistency across marking sessions and allows the student to access their feedback immediately and in an organised way.",
     "purpose": "Assessing and returning feedback online.",
     "suitable_for": [
       "Tasks submitted digitally."

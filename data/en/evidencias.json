@@ -520,10 +520,10 @@
   {
     "id": "EVI_LAB",
     "entity_type": "instrumento",
-    "name": "Laboratory practice",
+    "name": "Laboratorio practice",
     "type": "Practical activity",
     "summary": "Practical activity in which students apply scientific procedures in a laboratory context.",
-    "desc": "Laboratory practice is a hands-on activity in which students apply experimental or scientific procedures: taking measurements, handling materials, recording data and drawing conclusions. The teacher can observe the process and assess the laboratory report.\n\nHow to use it for assessment: an observation guide allows evaluating safety, procedure and technique; a process rubric assesses the quality of the report and conclusions.\n\nIt is important to assess both the practical process and the written output.",
+    "desc": "Laboratorio practice is a hands-on activity in which students apply experimental or scientific procedures: taking measurements, handling materials, recording data and drawing conclusions. The teacher can observe the process and assess the laboratory report.\n\nHow to use it for assessment: an observation guide allows evaluating safety, procedure and technique; a process rubric assesses the quality of the report and conclusions.\n\nIt is important to assess both the practical process and the written output.",
     "suitable_for": [
       "Scientific procedure",
       "data handling",
@@ -1430,7 +1430,7 @@
   {
     "id": "EVI_INFO_LAB",
     "entity_type": "instrumento",
-    "name": "Laboratory report",
+    "name": "Laboratorio report",
     "type": "Written production",
     "summary": "Written document presenting the process, data and conclusions of a laboratory or field experiment.",
     "desc": "A laboratory report is a structured written document presenting the process, results and conclusions of an experiment or laboratory practice. It typically includes sections for objectives, materials, procedure, data, analysis and conclusions.\n\nHow to use it for assessment: an analytic rubric or product rubric allows evaluating scientific accuracy, quality of argumentation and text structure. A correction guide helps ensure consistency.\n\nIt is especially suitable for assessing scientific competency and the ability to communicate in specialist written language.",
@@ -5375,7 +5375,7 @@
   {
     "id": "EVI_CHECK_LAB",
     "entity_type": "instrumento",
-    "name": "Laboratory checklist",
+    "name": "Laboratorio checklist",
     "type": "Observation",
     "summary": "Observation and self-recording activity for procedures, safety and data in the laboratory.",
     "desc": "A laboratory checklist is a practical activity in which the student follows, documents and verifies their own laboratory procedures step by step. The evidence generated is the observable practical performance and the completed record during the session.\n\nHow to use it: it is distributed at the start of the practical session with safety, materials, procedure and data collection indicators. The student completes it as they progress. The teacher can review it together with the laboratory report.\n\nNote: strictly speaking, a checklist is also an assessment instrument (list of criteria). It is included here as assessable evidence because the student completes it as an active part of the practical session. When the teacher uses it to observe the student from outside, it functions as an assessment instrument (laboratory checklist).",
@@ -5601,8 +5601,8 @@
       "nature"
     ],
     "modality": "Presencial",
-    "location": "Outdoors / Laboratory / Classroom",
-    "grouping": "Individual / Small group",
+    "location": "Exterior / Laboratorio / Aula",
+    "grouping": "Individual / Grupo pequeño",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -5674,8 +5674,8 @@
       "digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Classroom / Virtual / Home / Outdoors",
-    "grouping": "Individual / Pairs",
+    "location": "Aula / Virtual / Domicilio / Exterior",
+    "grouping": "Individual / Parejas",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD",

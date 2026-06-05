@@ -2102,8 +2102,8 @@
       "badges"
     ],
     "modality": "Presencial / Online",
-    "location": "Classroom / Virtual",
-    "grouping": "Individual / Small group / Whole class",
+    "location": "Aula / Virtual",
+    "grouping": "Individual / Grupo pequeño / Gran grupo",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_ESCAPE",

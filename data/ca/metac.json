@@ -93,7 +93,7 @@
     "id": "metac_003",
     "name": "1 - 2 - 4",
     "summary": "Tècnica cooperativa en què l'alumnat pensa primer individualment, després contrasta en parella i finalment acorda una resposta en grup. Serveix per activar coneixements previs, resoldre problemes, millorar la participació i construir respostes més completes mitjançant el contrast progressiu.",
-    "desc": "Mida de L'EQUIP: Parelles i equips base. \n\nOBJECTIUS: Activar coneixements previs, resoldre problemes, repassar \n\nPASSOS: \n\n1. El professor planteja una pregunta, problema o activitat. \n1. Cada alumne pensa individualment la seva opinió o quin creu que és la resposta correcta i l'escriu. \n1. Els alumnes es col·loquen per parelles. Intercanvien les seves respostes, les comenten, i cada parella escriu la resposta a la qual han arribat en comú. \n1. Les dues parelles posen en comú els seus escrits, els comenten i elaboren entre tots una resposta completa que contingui les aportacions de tots els membres de l'equip base. \n\nOBSERVACIONS I CONSELLS PRÀCTICS: \nEs tracta d'una estructura que combina l'activitat individual amb dos dels agrupaments més habituals de l'aprenentatge cooperatiu: parelles i equip base.  \n\nEs pot realitzar de forma oral o per escrit. \nÉs molt útil per corregir exercicis. Es pot unir a l'estructura de Caps juntes numerades, on el professor, després de la seva exposició, permet que els alumnes donin la resposta més adequada o relaciona les que aporten els alumnes, de manera que l'exercici queda corregit. \n\nHem de tenir molt en compte els temps necessaris per a cada un dels alumnes, a l'objecte que es respecti el principi de participació igualitària. \n\nLa resolució de la tasca per part dels equips pot anar acompanyada d'una recompensa del grup i del professor, en forma d'elogi, aplaudiment, etc.",
+    "desc": "Mida de L'EQUIP: Parejas i equips base. \n\nOBJECTIUS: Activar coneixements previs, resoldre problemes, repassar \n\nPASSOS: \n\n1. El professor planteja una pregunta, problema o activitat. \n1. Cada alumne pensa individualment la seva opinió o quin creu que és la resposta correcta i l'escriu. \n1. Els alumnes es col·loquen per parelles. Intercanvien les seves respostes, les comenten, i cada parella escriu la resposta a la qual han arribat en comú. \n1. Les dues parelles posen en comú els seus escrits, els comenten i elaboren entre tots una resposta completa que contingui les aportacions de tots els membres de l'equip base. \n\nOBSERVACIONS I CONSELLS PRÀCTICS: \nEs tracta d'una estructura que combina l'activitat individual amb dos dels agrupaments més habituals de l'aprenentatge cooperatiu: parelles i equip base.  \n\nEs pot realitzar de forma oral o per escrit. \nÉs molt útil per corregir exercicis. Es pot unir a l'estructura de Caps juntes numerades, on el professor, després de la seva exposició, permet que els alumnes donin la resposta més adequada o relaciona les que aporten els alumnes, de manera que l'exercici queda corregit. \n\nHem de tenir molt en compte els temps necessaris per a cada un dels alumnes, a l'objecte que es respecti el principi de participació igualitària. \n\nLa resolució de la tasca per part dels equips pot anar acompanyada d'una recompensa del grup i del professor, en forma d'elogi, aplaudiment, etc.",
     "tags": [
       "activació de coneixements previs",
       "cooperació",
@@ -3853,7 +3853,7 @@
   },
   {
     "id": "metac_071",
-    "name": "Parelles de detectius",
+    "name": "Parejas de detectius",
     "summary": "Tècnica en què l'alumnat formula hipòtesis inicials davant una pregunta complexa i les contrasta en parelles. Serveix per despertar curiositat, activar coneixements previs i mostrar que un problema pot admetre vies diferents.",
     "desc": "1. Quan inicieu una unitat didàctica, plantegeu una pregunta o qüestió complexa, que desperti l'interès i la curiositat dels alumnes sobre el tema a tractar.\n\n1. Els alumnes reflexionen sobre la qüestió i intenten establir dues vies diferents de donar-hi resposta.\n\n1. Els alumnes es reuneixen en parelles per contrastar-ne les hipòtesis. L'alumne A pregunta al company: quines són les teves hipòtesis? A apunta les propostes. S'inverteixen els rols. En aquesta fase, no està permès fer correccions ni debatre. Es tracta d'estimular l'especulació.\n\n1. Les parelles en discuteixen les hipòtesis i en consensuen una.\n\n1. El professor fa una posada en comú en gran grup. En aquesta fase ha de:\n\n   1. Evitar els comentaris i acceptar totes les hipòtesis.\n\n   1. Anotar les propostes a la pissarra.\n\n   1. Crear un clima de curiositat i suspens.\n\n1. El professor, amb l'ajuda de la classe, valora les diferents hipòtesis i tria totes aquelles que serveixen per resoldre el problema. A continuació:\n\n   1. valora la capacitat dels alumnes per generar vies de solució, per sobre de la correcció; i\n\n   1. fa adonar els alumnes que es poden articular formes diferents per resoldre un problema.\n\n1. Finalment, el docent comença a explicar la unitat didàctica partint de la pregunta plantejada i de les solucions triades.",
     "tags": [
@@ -3903,7 +3903,7 @@
   },
   {
     "id": "metac_072",
-    "name": "Parelles de discussió",
+    "name": "Parejas de discussió",
     "summary": "Tècnica en què l'alumnat respon preguntes per parelles durant una sessió. Serveix per activar coneixements previs, fomentar diàleg, generar respostes diverses i afavorir la participació abans de la posada en comú.",
     "desc": "Objectius:\n\n- Activar coneixements previs.\n- Generar diverses respostes.\n- Fomentar el diàleg, la controvèrsia i el consens.\n\nDesenvolupament\n\n1. El professor planteja una sèrie de preguntes que es respondran al llarg de la sessió.\n1. Els alumnes s'agrupen en parelles.\n1. El professor demana a l'atzar algunes respostes de les parelles.",
     "tags": [
@@ -5255,7 +5255,7 @@
       "TEC_SONDEO"
     ],
     "example": "En matemàtiques, el professor planteja quatre problemes de proporcionalitat per resoldre en equip. Cada grup discuteix els procediments, comprova els càlculs i s’assegura que qualsevol membre pugui explicar la solució.\n\nEn acabar, el professor recull a l’atzar el quadern d’un alumne de cada grup. La correcció d’aquell exercici compta per a tot l’equip. Això anima el grup a revisar la feina de tothom i a no deixar que una sola persona resolgui la tasca sense que els altres la comprenguin.",
-    "source": "Font: Laboratori d'innovació educativa de la cooperativa José Ramón Otero. (2016). Aprenentatge cooperatiu."
+    "source": "Font: Laboratorio d'innovació educativa de la cooperativa José Ramón Otero. (2016). Aprenentatge cooperatiu."
   },
   {
     "id": "metac_099",

@@ -131,6 +131,34 @@ const EVAL_GLOBAL_FILTERS = [
   { key: 'evalAiResistance', field: 'ai_resistance', label: 'evalFilterAiResistance', allKey: 'evalFilterAll' },
 ];
 
+// Token maps for location/grouping filters: ES canonical → { es, ca, en }
+const EVAL_LOCATION_TOKEN_MAP = {
+  'Aula':        { es: 'Aula',        ca: 'Aula',       en: 'Classroom' },
+  'Virtual':     { es: 'Virtual',     ca: 'Virtual',     en: 'Online'    },
+  'Domicilio':   { es: 'Domicilio',   ca: 'Domicili',   en: 'Home'      },
+  'Exterior':    { es: 'Exterior',    ca: 'Exterior',   en: 'Outdoors'  },
+  'Laboratorio': { es: 'Laboratorio', ca: 'Laboratori', en: 'Lab'       },
+};
+const EVAL_GROUPING_TOKEN_MAP = {
+  'Individual':    { es: 'Individual',    ca: 'Individual', en: 'Individual'  },
+  'Parejas':       { es: 'Parejas',       ca: 'Parelles',   en: 'Pairs'       },
+  'Grupo pequeño': { es: 'Grupo pequeño', ca: 'Grup petit', en: 'Small group' },
+  'Gran grupo':    { es: 'Gran grupo',    ca: 'Gran grup',  en: 'Large group' },
+};
+
+function remapEvalFilters(oldLang, newLang) {
+  if (oldLang === newLang) return;
+  const maps = [
+    { key: 'evalLocation', tokenMap: EVAL_LOCATION_TOKEN_MAP },
+    { key: 'evalGrouping', tokenMap: EVAL_GROUPING_TOKEN_MAP },
+  ];
+  for (const { key, tokenMap } of maps) {
+    if (!S[key]) continue;
+    const entry = Object.values(tokenMap).find(e => e[oldLang] === S[key]);
+    if (entry && entry[newLang]) S[key] = entry[newLang];
+  }
+}
+
 function evalFilterValueLabel(value) {
   const map = {
     Presencial: 'evalFilterValPresencial',

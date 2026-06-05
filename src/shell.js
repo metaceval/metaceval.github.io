@@ -19,8 +19,10 @@ function updateSharedBanner() {
 async function switchLang(lang) {
   lang = resolveLang(lang);
   if (lang === S.lang && S.data[lang]) return;
+  const oldLang = S.lang;
   clearSelection(false);
   S.lang = lang;
+  if (typeof remapEvalFilters !== 'undefined') remapEvalFilters(oldLang, lang);
   saveLang();
 
   const u = new URL(location.href);

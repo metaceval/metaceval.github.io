@@ -21,7 +21,7 @@ This catalogue brings together assessment entities organised in four categories:
 
 _Planned and documented observation of performance during an activity._
 
-**Phase:** Proceso · **Participation:** Docente · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Phase:** Process · **Participation:** Teacher · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: observation, performance, process_
 
@@ -53,7 +53,7 @@ Systematic observation during a Science lab practical in Year 8. The teacher pla
 Activity: Liquid density experiment &nbsp;|&nbsp; Class: Year 8B &nbsp;|&nbsp; Date: 19/02
 The key to systematic observation is prior planning: deciding what to look at (not everything) and when, so that data collected is comparable across groups and sessions.
 
-**Active techniques using this:** What makes you say that?, 1 - 2 - 4, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Detect Patterns, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, I Used to Think... Now I Think, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, See-Think-Wonder, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Claim, Support, Question, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary, Habits of mind, All-student response, Philosophy for Children (P4C), Chalk Talk, Fan-N-Pick, Showdown, Stand Up–Hand Up–Pair Up, Three-Step Interview, Maker learning / STEAM, Personalised learning playlists, Scaffolding and zone of proximal development (ZPD), ICAP framework
+**Active techniques using this:** What makes you say that?, 1 - 2 - 4, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Detect Patterns, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, I Used to Think... Now I Think, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, See-Think-Wonder, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Claim, Support, Question, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary, Habits of mind, All-student response, Philosophy for Children (P4C), Chalk Talk, Fan-N-Pick, Showdown, Stand Up–Hand Up–Pair Up, Three-Step Interview, Maker learning / STEAM, Personalised learning playlists, Scaffolding and zone of proximal development (ZPD), ICAP framework
 
 ---
 
@@ -62,7 +62,7 @@ The key to systematic observation is prior planning: deciding what to look at (n
 
 _Recording of relevant events that arise unexpectedly._
 
-**Phase:** Proceso · **Participation:** Docente · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Phase:** Process · **Participation:** Teacher · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: observation, incidental_
 
@@ -103,7 +103,7 @@ Incidental observation is unplanned: it requires the teacher to circulate, stay 
 
 _Assessment of products created by students._
 
-**Phase:** Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Phase:** Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: production, product_
 
@@ -135,7 +135,7 @@ Analysis of productions applied to reviewing lab reports from a Year 7 group. Th
 Production: Lab report — Chromatography practical &nbsp;|&nbsp; Class: Year 7B &nbsp;|&nbsp; Date: 12/11
 Analysis of productions is the most common technique, but its formative value depends on how it is used: scoring without explaining what is wrong is only grading; scoring and identifying the pattern is assessment.
 
-**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Detect Patterns, Digital Storytelling, Roundtable, Word Game, 5E Instructional Model, Jigsaw, Team-Pair-Solo, Listener Teams, Learning Stations, Flipped Classroom, Gallery Walk, Generate Hypotheses, Dual coding, Cooperative Graffiti, Exchange difficulties, Role Play, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four Wise Students, Group Investigation, Four-Part Concept Map, Problem Matrix, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, RallyRobin, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Headlines, Visual Thinking, World Café, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Two-Column Method, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Centers of Interest (Decroly Approach), Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Interleaved practice, Worked examples, Mastery learning, Gradual release of responsibility, Think-aloud, Generate, sort, connect, elaborate, +1, Question Formulation Technique (QFT), Cornell notes, One-sentence summary, Cognitive load theory, Concrete examples, Step Inside, Chalk Talk, Question Starts, WebQuest, Maker learning / STEAM, Computational thinking, Genius Hour, Personalised learning playlists, Mind map, Fishbone diagram (Ishikawa), Timeline, Venn diagram
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Detect Patterns, Digital Storytelling, Roundtable, Word Game, 5E Instructional Model, Jigsaw, Team-Pair-Solo, Listener Teams, Learning Stations, Flipped Aula, Gallery Walk, Generate Hypotheses, Dual coding, Cooperative Graffiti, Exchange difficulties, Role Play, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four Wise Students, Group Investigation, Four-Part Concept Map, Problem Matrix, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, RallyRobin, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Headlines, Visual Thinking, World Café, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Two-Column Method, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Centers of Interest (Decroly Approach), Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Interleaved practice, Worked examples, Mastery learning, Gradual release of responsibility, Think-aloud, Generate, sort, connect, elaborate, +1, Question Formulation Technique (QFT), Cornell notes, One-sentence summary, Cognitive load theory, Concrete examples, Step Inside, Chalk Talk, Question Starts, WebQuest, Maker learning / STEAM, Computational thinking, Genius Hour, Personalised learning playlists, Mind map, Fishbone diagram (Ishikawa), Timeline, Venn diagram
 
 ---
 
@@ -144,7 +144,7 @@ Analysis of productions is the most common technique, but its formative value de
 
 _Situations specifically designed to check learning._
 
-**Phase:** Inicial/Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Phase:** Initial/Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: test, check_
 
@@ -185,7 +185,7 @@ A specific test doesn't start when the student picks up their pen: its formative
 
 _Gathering evidence through oral communication._
 
-**Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Phase:** Process/Final · **Participation:** Teacher/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: orality, communication_
 
@@ -217,7 +217,7 @@ Oral exchanges during a guided Philosophy debate in Year 12. The teacher gathers
 Debate: "Is freedom possible?" (Kant and determinism) &nbsp;|&nbsp; Class: Year 12 B &nbsp;|&nbsp; Date: 15/05
 Oral exchanges reveal reasoning that written work does not always show; combining them with a written closing gives the teacher individual evidence from all students, not just those who speak most.
 
-**Active techniques using this:** Who's who?, 1 - 2 - 4, Case-Based Learning (CBL), Game-Based Learning (GBL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Circle of Viewpoints, Getting to Know Each Other, Structured Academic Controversy, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Assessment Target, Learning Journal, Digital Storytelling, Word Game, 5E Instructional Model, Listener Teams, Fishbowl (Aquarium), Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four Wise Students, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Discussion Pairs, I Used to Think... Now I Think, Placemat consensus, Portfolio (learning dossier), Ask Why, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Appointment Clock, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Exit Ticket, Headlines, See-Think-Wonder, Visual Thinking, World Café, Understanding by Design (UbD), TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Parallel Teams, NASA Game, Yellow Pages, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Think-aloud, Orientation guides, Generate, sort, connect, elaborate, Tug of war, Question Formulation Technique (QFT), One-sentence summary, Elaborative interrogation, Self-explanation, Cold calling, Wait time, Philosophy for Children (P4C), Academic debate, Step Inside, The Explanation Game, Fan-N-Pick, Stand Up–Hand Up–Pair Up, Three-Step Interview
+**Active techniques using this:** Who's who?, 1 - 2 - 4, Case-Based Learning (CBL), Game-Based Learning (GBL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Circle of Viewpoints, Getting to Know Each Other, Structured Academic Controversy, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Assessment Target, Learning Journal, Digital Storytelling, Word Game, 5E Instructional Model, Listener Teams, Fishbowl (Aquarium), Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four Wise Students, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Discussion Parejas, I Used to Think... Now I Think, Placemat consensus, Portfolio (learning dossier), Ask Why, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Appointment Clock, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Exit Ticket, Headlines, See-Think-Wonder, Visual Thinking, World Café, Understanding by Design (UbD), TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Parallel Teams, NASA Game, Yellow Pages, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Think-aloud, Orientation guides, Generate, sort, connect, elaborate, Tug of war, Question Formulation Technique (QFT), One-sentence summary, Elaborative interrogation, Self-explanation, Cold calling, Wait time, Philosophy for Children (P4C), Academic debate, Step Inside, The Explanation Game, Fan-N-Pick, Stand Up–Hand Up–Pair Up, Three-Step Interview
 
 ---
 
@@ -226,7 +226,7 @@ Oral exchanges reveal reasoning that written work does not always show; combinin
 
 _Quick collection of responses, prior ideas or comprehension through brief questions._
 
-**Phase:** Inicial/Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Phase:** Initial/Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: questions, probing, diagnostic, check, exit_
 
@@ -255,7 +255,7 @@ Probing and questioning during a Year 8 Science lesson. The teacher asks short q
 Unit: The cell — cell division &nbsp;|&nbsp; Class: Year 8 C &nbsp;|&nbsp; Date: 21/03
 Systematic probing turns each oral question into a micro formative evidence point; accumulated over several sessions, these allow conceptual gaps to be caught before they become errors in a test.
 
-**Active techniques using this:** What makes you say that?, 1 - 2 - 4, Analyze and Synthesize, Apply Knowledge, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Detect Patterns, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, The Box, Round Table, Pencils in the Middle, What I know and what we know, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Discussion Pairs, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Placemat consensus, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Appointment Clock, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Problem Situation, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Exit Ticket, Headlines, One for All, See-Think-Wonder, Visual Thinking, World Café, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, TPACK, The 4Cs of Learning, Nominal Group Technique, Two-Column Method, Peer Tutoring, NASA Game, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Interleaved practice, Mastery learning, Gradual release of responsibility, Think-aloud, Orientation guides, Connect, extend, challenge, Generate, sort, connect, elaborate, Tug of war, +1, Question Formulation Technique (QFT), Cornell notes, Habits of mind, Elaborative interrogation, Hinge questions, All-student response, Cold calling, Wait time, The Explanation Game, Question Starts
+**Active techniques using this:** What makes you say that?, 1 - 2 - 4, Analyze and Synthesize, Apply Knowledge, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Detect Patterns, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, The Box, Round Table, Pencils in the Middle, What I know and what we know, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Discussion Parejas, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Placemat consensus, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Appointment Clock, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Problem Situation, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Exit Ticket, Headlines, One for All, See-Think-Wonder, Visual Thinking, World Café, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, TPACK, The 4Cs of Learning, Nominal Group Technique, Two-Column Method, Peer Tutoring, NASA Game, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Interleaved practice, Mastery learning, Gradual release of responsibility, Think-aloud, Orientation guides, Connect, extend, challenge, Generate, sort, connect, elaborate, Tug of war, +1, Question Formulation Technique (QFT), Cornell notes, Habits of mind, Elaborative interrogation, Hinge questions, All-student response, Cold calling, Wait time, The Explanation Game, Question Starts
 
 ---
 
@@ -264,7 +264,7 @@ Systematic probing turns each oral question into a micro formative evidence poin
 
 _Review of intermediate evidence, process records and student reflections._
 
-**Phase:** Proceso · **Participation:** Docente/Alumno/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Phase:** Process · **Participation:** Teacher/Student/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: process, reflection, metacognition, drafts, monitoring_
 
@@ -293,7 +293,7 @@ Analysis of processes and reflections in a Year 9 English writing project. The t
 Project: Opinion article on social media use &nbsp;|&nbsp; Class: Year 9 A &nbsp;|&nbsp; Dates: Mar.–Apr.
 Analysing the process (maps, drafts, reflections) rather than only the final product allows genuine learning to be valued and feedback to be given while there is still time to improve the outcome.
 
-**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, Circle of Viewpoints, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Detect Patterns, Assessment Target, Learning Journal, 5E Instructional Model, Traffic Light, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Round Table, 5 Whys, Minute Paper, Muddiest Point, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Distribute Points, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Problem Situation, Think-Pair-Share, Exit Ticket, Headlines, See-Think-Wonder, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, The 4Cs of Learning, Nominal Group Technique, Two-Column Method, NASA Game, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Interleaved practice, Gradual release of responsibility, Think-aloud, Orientation guides, Connect, extend, challenge, Generate, sort, connect, elaborate, Tug of war, Question Formulation Technique (QFT), Cornell notes, Habits of mind, Self-explanation, Genius Hour, Scaffolding and zone of proximal development (ZPD)
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, Circle of Viewpoints, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Detect Patterns, Assessment Target, Learning Journal, 5E Instructional Model, Traffic Light, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Round Table, 5 Whys, Minute Paper, Muddiest Point, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, 3-2-1 Bridge, Quiz-Quiz-Trade, RallyRobin, Distribute Points, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Problem Situation, Think-Pair-Share, Exit Ticket, Headlines, See-Think-Wonder, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, The 4Cs of Learning, Nominal Group Technique, Two-Column Method, NASA Game, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Retrieval practice, Interleaved practice, Gradual release of responsibility, Think-aloud, Orientation guides, Connect, extend, challenge, Generate, sort, connect, elaborate, Tug of war, Question Formulation Technique (QFT), Cornell notes, Habits of mind, Self-explanation, Genius Hour, Scaffolding and zone of proximal development (ZPD)
 
 ---
 
@@ -302,7 +302,7 @@ Analysing the process (maps, drafts, reflections) rather than only the final pro
 
 _Planned conversation to explore comprehension, reasoning or process._
 
-**Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Phase:** Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: interview, oral, inquiry_
 
@@ -340,7 +340,7 @@ The evaluative interview reveals the difference between knowing how and understa
 
 _Structured collection of responses through closed or open questions._
 
-**Phase:** Inicial/Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Phase:** Initial/Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: survey, questionnaire, form_
 
@@ -369,7 +369,7 @@ Survey and questionnaire used in Year 12 Social Sciences. The teacher uses a dia
 Unit: Economy and globalisation &nbsp;|&nbsp; Class: Year 12 A &nbsp;|&nbsp; Term: Spring
 Combining a diagnostic questionnaire, a process survey and a satisfaction survey closes the formative assessment cycle: teaching is adjusted before, during and after the unit.
 
-**Active techniques using this:** Research-Based Learning (RBL), Challenge-Based Learning (ChBL), Chain of Questions, Design Thinking, Flipped Classroom, KWL (I know, I want to know, I have learned), Compass Points, Minute Paper, Peer Instruction, 3-2-1 Bridge, Quiz-Quiz-Trade, Appointment Clock, Exit Ticket, Retrieval practice, Spaced practice
+**Active techniques using this:** Research-Based Learning (RBL), Challenge-Based Learning (ChBL), Chain of Questions, Design Thinking, Flipped Aula, KWL (I know, I want to know, I have learned), Compass Points, Minute Paper, Peer Instruction, 3-2-1 Bridge, Quiz-Quiz-Trade, Appointment Clock, Exit Ticket, Retrieval practice, Spaced practice
 
 ---
 
@@ -378,7 +378,7 @@ Combining a diagnostic questionnaire, a process survey and a satisfaction survey
 
 _Review of documents, records and accumulated evidence._
 
-**Phase:** Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Phase:** Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: documentary, evidence, records_
 
@@ -407,7 +407,7 @@ Documentary analysis in a Year 13 History project. The teacher reviews portfolio
 Project: Contemporary History portfolio &nbsp;|&nbsp; Class: Year 13 B &nbsp;|&nbsp; Date: end of autumn term
 Documentary analysis allows learning to be assessed over time rather than at a single moment; cross-referencing multiple documents from the same student gives a much fuller picture than an isolated exam.
 
-**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Inquiry-Based Learning, Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Discovery Learning, Compare and Contrast, Structured Academic Controversy, Detect Patterns, Roundtable, Word Game, 5E Instructional Model, Jigsaw, Listener Teams, Learning Stations, Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Role Play, Interview, Round Table, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four-Part Concept Map, Problem Matrix, Word-Phrase-Sentence, Three-Minute Pause, Peer Instruction, Think, Puzzle, Explore, Ask Why, Ask and Answer, Service-Learning, Review the Consequences, Role on the Wall (Character Silhouette), Socratic Seminar, Headlines, Visual Thinking, Depth of Knowledge (DOK), SOLO Taxonomy, TPACK, SAMR Model, Two-Column Method, Parallel Teams, Centers of Interest (Decroly Approach), Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Interleaved practice, Worked examples, Think-aloud, Generate, sort, connect, elaborate, +1, Question Formulation Technique (QFT), Cornell notes, One-sentence summary, Cognitive load theory, WebQuest
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Inquiry-Based Learning, Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Discovery Learning, Compare and Contrast, Structured Academic Controversy, Detect Patterns, Roundtable, Word Game, 5E Instructional Model, Jigsaw, Listener Teams, Learning Stations, Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Role Play, Interview, Round Table, Shared Reading, Ghost Reading, What I know and what we know, 5 Whys, Four-Part Concept Map, Problem Matrix, Word-Phrase-Sentence, Three-Minute Pause, Peer Instruction, Think, Puzzle, Explore, Ask Why, Ask and Answer, Service-Learning, Review the Consequences, Role on the Wall (Character Silhouette), Socratic Seminar, Headlines, Visual Thinking, Depth of Knowledge (DOK), SOLO Taxonomy, TPACK, SAMR Model, Two-Column Method, Parallel Teams, Centers of Interest (Decroly Approach), Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Interleaved practice, Worked examples, Think-aloud, Generate, sort, connect, elaborate, +1, Question Formulation Technique (QFT), Cornell notes, One-sentence summary, Cognitive load theory, WebQuest
 
 ---
 
@@ -416,7 +416,7 @@ Documentary analysis allows learning to be assessed over time rather than at a s
 
 _Interpretation of participation, traces and collaboration in digital environments._
 
-**Phase:** Proceso · **Participation:** Docente/Alumno/Iguales · **Modality:** Online · **Location:** Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Media
+**Phase:** Process · **Participation:** Teacher/Student/Peers · **Modality:** Online · **Location:** Online · **Grouping:** Individual / Large group · **AI resistance:** Media
 
 _Keywords: digital, interaction, traces, collaboration_
 
@@ -454,7 +454,7 @@ Digital platforms generate a learning trail that allows individual participation
 
 _Contrasting several pieces of evidence to make a more robust assessment decision._
 
-**Phase:** Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Phase:** Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: triangulation, evidence, validity_
 
@@ -495,7 +495,7 @@ Triangulation avoids the distortion of relying on a single piece of evidence: a 
 
 _Observation of the student working individually on tasks in class._
 
-**Type:** Observation · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial · **Location:** Aula · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Observation · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial · **Location:** Classroom · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: individual work, classroom observation, autonomy_
 
@@ -516,7 +516,7 @@ It is especially useful for formative assessment and for detecting learning diff
 
 _Observation of students working in a structured group with defined roles._
 
-**Type:** Observation · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Media
+**Type:** Observation · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Media
 
 _Keywords: cooperative, group, collaboration_
 
@@ -528,7 +528,7 @@ It is important to evaluate individual contributions and not only the group resu
 
 **Suitable for:** Collaboration, communication, shared responsibility.
 
-**Active techniques using this:** What makes you say that?, Who's who?, 1 - 2 - 4, Case-Based Learning (CBL), Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, Timed Pair Share, Design Thinking, Learning Journal, Roundtable, Word Game, 5E Instructional Model, Jigsaw, The Sack of Doubts, Team-Pair-Solo, Listener Teams, Learning Stations, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Group Investigation, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Discussion Pairs, Think, Puzzle, Explore, Placemat consensus, Ask Why, Ask and Answer, Service-Learning, RallyRobin, Appointment Clock, Distribute Points, Review the Consequences, RoundRobin, Follow the trail, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, One for All, World Café, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Yellow Pages, Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Reciprocal Teaching, Structured Controversy with Evidence, +1, Habits of mind, Fan-N-Pick, Showdown, Stand Up–Hand Up–Pair Up, Three-Step Interview
+**Active techniques using this:** What makes you say that?, Who's who?, 1 - 2 - 4, Case-Based Learning (CBL), Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, Timed Pair Share, Design Thinking, Learning Journal, Roundtable, Word Game, 5E Instructional Model, Jigsaw, The Sack of Doubts, Team-Pair-Solo, Listener Teams, Learning Stations, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Group Investigation, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Discussion Parejas, Think, Puzzle, Explore, Placemat consensus, Ask Why, Ask and Answer, Service-Learning, RallyRobin, Appointment Clock, Distribute Points, Review the Consequences, RoundRobin, Follow the trail, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, One for All, World Café, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Yellow Pages, Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Reciprocal Teaching, Structured Controversy with Evidence, +1, Habits of mind, Fan-N-Pick, Showdown, Stand Up–Hand Up–Pair Up, Three-Step Interview
 
 ---
 
@@ -537,7 +537,7 @@ It is important to evaluate individual contributions and not only the group resu
 
 _Observation of the quality and frequency of student contributions in class._
 
-**Type:** Observation · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo · **AI resistance:** Alta
+**Type:** Observation · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group · **AI resistance:** Alta
 
 _Keywords: participation, oral, classroom_
 
@@ -549,7 +549,7 @@ It is best used as a formative indicator rather than a standalone summative mark
 
 **Suitable for:** Engagement, oral communication, critical thinking.
 
-**Active techniques using this:** 1 - 2 - 4, Game-Based Learning (GBL), CO-OP CO-OP, Timed Pair Share, Assessment Target, Roundtable, Word Game, Listener Teams, Fishbowl (Aquarium), Round Table, Pencils in the Middle, I like it / I don't like it, Numbered Heads Together, Three-Minute Pause, Discussion Pairs, Placemat consensus, Service-Learning, RallyRobin, RoundRobin, Talking Chips, Think-Pair-Share, World Café, Universal Design for Learning (UDL), Nominal Group Technique, Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Cold calling, Wait time, Fan-N-Pick, Stand Up–Hand Up–Pair Up, ICAP framework
+**Active techniques using this:** 1 - 2 - 4, Game-Based Learning (GBL), CO-OP CO-OP, Timed Pair Share, Assessment Target, Roundtable, Word Game, Listener Teams, Fishbowl (Aquarium), Round Table, Pencils in the Middle, I like it / I don't like it, Numbered Heads Together, Three-Minute Pause, Discussion Parejas, Placemat consensus, Service-Learning, RallyRobin, RoundRobin, Talking Chips, Think-Pair-Share, World Café, Universal Design for Learning (UDL), Nominal Group Technique, Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Cold calling, Wait time, Fan-N-Pick, Stand Up–Hand Up–Pair Up, ICAP framework
 
 ---
 
@@ -558,7 +558,7 @@ It is best used as a formative indicator rather than a standalone summative mark
 
 _Structured oral confrontation of opposing positions with evidence and arguments._
 
-**Type:** Oral · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño / Gran grupo · **AI resistance:** Alta
+**Type:** Oral · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group / Large group · **AI resistance:** Alta
 
 _Keywords: debate, argumentation, oral_
 
@@ -570,7 +570,7 @@ It is important to assess both the preparation process and the oral performance,
 
 **Suitable for:** Argumentation, critical thinking, respectful communication.
 
-**Active techniques using this:** Problem-Based Learning (PBL), Circle of Viewpoints, Structured Academic Controversy, Detect Patterns, Fishbowl (Aquarium), Generate Hypotheses, Round Table, Pencils in the Middle, 5 Whys, Word-Phrase-Sentence, Detective Pairs, Discussion Pairs, I Used to Think... Now I Think, Placemat consensus, Service-Learning, Socratic Seminar, Talking Chips, Think-Pair-Share, Exit Ticket, Understanding by Design (UbD), Nominal Group Technique, NASA Game, Centers of Interest (Decroly Approach), Dialogic Gathering, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Tug of war, Question Formulation Technique (QFT), Philosophy for Children (P4C), Academic debate
+**Active techniques using this:** Problem-Based Learning (PBL), Circle of Viewpoints, Structured Academic Controversy, Detect Patterns, Fishbowl (Aquarium), Generate Hypotheses, Round Table, Pencils in the Middle, 5 Whys, Word-Phrase-Sentence, Detective Parejas, Discussion Parejas, I Used to Think... Now I Think, Placemat consensus, Service-Learning, Socratic Seminar, Talking Chips, Think-Pair-Share, Exit Ticket, Understanding by Design (UbD), Nominal Group Technique, NASA Game, Centers of Interest (Decroly Approach), Dialogic Gathering, Toulmin's Argumentation Model, Argument Map, Structured Controversy with Evidence, Tug of war, Question Formulation Technique (QFT), Philosophy for Children (P4C), Academic debate
 
 ---
 
@@ -579,7 +579,7 @@ It is important to assess both the preparation process and the oral performance,
 
 _Open group dialogue to explore and share understanding of a topic._
 
-**Type:** Oral · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo · **AI resistance:** Alta
+**Type:** Oral · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group · **AI resistance:** Alta
 
 _Keywords: colloquium, dialogue, oral_
 
@@ -600,7 +600,7 @@ It is less suitable for individual summative assessment but very valuable as a f
 
 _Participatory group space for sharing, deciding and reflecting collectively._
 
-**Type:** Oral · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo · **AI resistance:** Alta
+**Type:** Oral · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group · **AI resistance:** Alta
 
 _Keywords: assembly, participation, collective_
 
@@ -617,15 +617,15 @@ It has significant formative value but is difficult to use for individual summat
 ---
 
 
-### 7. Laboratory practice `EVI_LAB`
+### 7. Laboratorio practice `EVI_LAB`
 
 _Practical activity in which students apply scientific procedures in a laboratory context._
 
-**Type:** Practical activity · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial · **Location:** Laboratorio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Type:** Practical activity · **Phase:** Process · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial · **Location:** Lab · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: laboratory, experiment, science_
 
-Laboratory practice is a hands-on activity in which students apply experimental or scientific procedures: taking measurements, handling materials, recording data and drawing conclusions. The teacher can observe the process and assess the laboratory report.
+Laboratorio practice is a hands-on activity in which students apply experimental or scientific procedures: taking measurements, handling materials, recording data and drawing conclusions. The teacher can observe the process and assess the laboratory report.
 
 How to use it for assessment: an observation guide allows evaluating safety, procedure and technique; a process rubric assesses the quality of the report and conclusions.
 
@@ -633,7 +633,7 @@ It is important to assess both the practical process and the written output.
 
 **Suitable for:** Scientific procedure, data handling, scientific thinking.
 
-**Active techniques using this:** What makes you say that?, Research-Based Learning (RBL), Laboratory-Based Learning, Metacognition Ladder, One for All, Argument-Driven Inquiry (ADI), Peer Review
+**Active techniques using this:** What makes you say that?, Research-Based Learning (RBL), Laboratorio-Based Learning, Metacognition Ladder, One for All, Argument-Driven Inquiry (ADI), Peer Review
 
 ---
 
@@ -642,7 +642,7 @@ It is important to assess both the practical process and the written output.
 
 _Practical and collaborative activity focused on creating a product or developing a skill._
 
-**Type:** Practical activity · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Type:** Practical activity · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: workshop, practical, skills_
 
@@ -654,7 +654,7 @@ It is particularly suitable for competency-based assessment because it integrate
 
 **Suitable for:** Applied skills, creative process, hands-on competencies.
 
-**Active techniques using this:** Laboratory-Based Learning, Design Thinking, Digital Storytelling, Learning Stations, Placemat consensus, Service-Learning, Visual Thinking, Gamification
+**Active techniques using this:** Laboratorio-Based Learning, Design Thinking, Digital Storytelling, Learning Stations, Placemat consensus, Service-Learning, Visual Thinking, Gamification
 
 ---
 
@@ -663,7 +663,7 @@ It is particularly suitable for competency-based assessment because it integrate
 
 _Recreation of a real or hypothetical situation to apply knowledge and skills._
 
-**Type:** Performance · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Performance · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: simulation, context, performance_
 
@@ -684,7 +684,7 @@ It is demanding to design and assess, but offers high validity for competency-ba
 
 _Activity in which students take on specific roles to explore situations or demonstrate competencies._
 
-**Type:** Performance · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Alta
+**Type:** Performance · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Alta
 
 _Keywords: role play, drama, oral_
 
@@ -696,7 +696,7 @@ It is important to clearly define what is being assessed (the content, the perfo
 
 **Suitable for:** Empathy, oral communication, situational application.
 
-**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Case-Based Learning (CBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Compare and Contrast, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Digital Storytelling, Roundtable, 5E Instructional Model, Jigsaw, Traffic Light, Team-Pair-Solo, Listener Teams, Metacognition Ladder, Fishbowl (Aquarium), Flipped Classroom, Generate Hypotheses, Generate Solutions, Role Play, The Box, Pencils in the Middle, What I know and what we know, 5 Whys, Four Wise Students, Detective Pairs, Discussion Pairs, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, See-Think-Wonder, Visual Thinking, Depth of Knowledge (DOK), SAMR Model, Peer Tutoring, NASA Game, Centers of Interest (Decroly Approach), Co-teaching, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Peer Review, Reciprocal Teaching, Interleaved practice, Connect, extend, challenge, Tug of war, +1, Question Formulation Technique (QFT), Step Inside
+**Active techniques using this:** What makes you say that?, Analyze and Synthesize, Apply Knowledge, Case-Based Learning (CBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Compare and Contrast, Structured Academic Controversy, Timed Pair Share, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Digital Storytelling, Roundtable, 5E Instructional Model, Jigsaw, Traffic Light, Team-Pair-Solo, Listener Teams, Metacognition Ladder, Fishbowl (Aquarium), Flipped Aula, Generate Hypotheses, Generate Solutions, Role Play, The Box, Pencils in the Middle, What I know and what we know, 5 Whys, Four Wise Students, Detective Parejas, Discussion Parejas, Peer Instruction, I Used to Think... Now I Think, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Review the Consequences, Role on the Wall (Character Silhouette), RoundRobin, Follow the trail, Socratic Seminar, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, See-Think-Wonder, Visual Thinking, Depth of Knowledge (DOK), SAMR Model, Peer Tutoring, NASA Game, Centers of Interest (Decroly Approach), Co-teaching, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Peer Review, Reciprocal Teaching, Interleaved practice, Connect, extend, challenge, Tug of war, +1, Question Formulation Technique (QFT), Step Inside
 
 ---
 
@@ -705,7 +705,7 @@ It is important to clearly define what is being assessed (the content, the perfo
 
 _Theatrical or expressive performance to communicate, interpret or explore content._
 
-**Type:** Performance · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Presencial · **Location:** Aula / Exterior · **Grouping:** Grupo pequeño / Gran grupo · **AI resistance:** Alta
+**Type:** Performance · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** Medium · **Modality:** Presencial · **Location:** Classroom / Outdoors · **Grouping:** Small group / Large group · **AI resistance:** Alta
 
 _Keywords: drama, theatre, expression_
 
@@ -726,7 +726,7 @@ It is important to separate the quality of the performance from artistic talent 
 
 _Structured oral exposition of content, project or work before an audience._
 
-**Type:** Oral · **Phase:** Final · **Participation:** Docente/Iguales · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Oral · **Phase:** Final · **Participation:** Teacher/Peers · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: oral presentation, exposition, communication_
 
@@ -738,7 +738,7 @@ It is important to assess the content and not only the presentation style, and t
 
 **Suitable for:** Oral communication, organisation of ideas, subject mastery.
 
-**Active techniques using this:** Who's who?, Case-Based Learning (CBL), Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Assessment Target, Digital Storytelling, Word Game, 5E Instructional Model, Listener Teams, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Round Table, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Four-Part Concept Map, I like it / I don't like it, Word-Phrase-Sentence, Detective Pairs, Discussion Pairs, Portfolio (learning dossier), Ask Why, Appointment Clock, Role on the Wall (Character Silhouette), Follow the trail, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Headlines, Visual Thinking, World Café, TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Parallel Teams, Yellow Pages, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Think-aloud, Orientation guides, Generate, sort, connect, elaborate, Tug of war, One-sentence summary, Academic debate
+**Active techniques using this:** Who's who?, Case-Based Learning (CBL), Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, CSI: Color, Symbol, Image, Design Thinking, Detect Patterns, Assessment Target, Digital Storytelling, Word Game, 5E Instructional Model, Listener Teams, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Cooperative Graffiti, Exchange difficulties, Role Play, The Box, Round Table, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Four-Part Concept Map, I like it / I don't like it, Word-Phrase-Sentence, Detective Parejas, Discussion Parejas, Portfolio (learning dossier), Ask Why, Appointment Clock, Role on the Wall (Character Silhouette), Follow the trail, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, Headlines, Visual Thinking, World Café, TPACK, SAMR Model, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Parallel Teams, Yellow Pages, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Concept Cartoon, Frayer Model, Claim, Support, Question, Argument Map, Reciprocal Teaching, Structured Controversy with Evidence, Think-aloud, Orientation guides, Generate, sort, connect, elaborate, Tug of war, One-sentence summary, Academic debate
 
 ---
 
@@ -747,7 +747,7 @@ It is important to assess the content and not only the presentation style, and t
 
 _Oral presentation and defence of a project before a panel or audience._
 
-**Type:** Oral · **Phase:** Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Type:** Oral · **Phase:** Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: project defence, oral, presentation_
 
@@ -759,7 +759,7 @@ It is one of the most complete forms of assessment but requires clear preparatio
 
 **Suitable for:** Command of the project, argumentation, response to questions.
 
-**Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Flipped Classroom, Genius Hour
+**Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Flipped Aula, Genius Hour
 
 ---
 
@@ -768,7 +768,7 @@ It is one of the most complete forms of assessment but requires clear preparatio
 
 _Structured or semi-structured dialogue between teacher and student to assess learning._
 
-**Type:** Oral · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Oral · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: interview, oral, individual_
 
@@ -789,7 +789,7 @@ It is particularly useful for detecting difficulties, assessing metacognition an
 
 _Targeted oral question to check understanding or reasoning during class._
 
-**Type:** Oral · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Oral · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: oral question, checking, immediate_
 
@@ -810,7 +810,7 @@ It is important to avoid assessing only those who raise their hand and to distri
 
 _Student's personal written record of activities, notes and work done in class._
 
-**Type:** Written production · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial · **Location:** Aula · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Written production · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial · **Location:** Classroom · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: notebook, class, written record_
 
@@ -831,7 +831,7 @@ It is a simple and accessible tool, though it tends to reflect effort and organi
 
 _Personal written record in which the student reflects regularly on their learning process._
 
-**Type:** Written reflection · **Phase:** Proceso · **Participation:** Alumno · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Domicilio / Virtual · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written reflection · **Phase:** Process · **Participation:** Student · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Home / Online · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: diary, reflection, metacognition_
 
@@ -852,7 +852,7 @@ It is a powerful tool for formative assessment but requires teaching students wh
 
 _Purposeful collection of evidence showing learning progress and achievement._
 
-**Type:** Complex production · **Phase:** Proceso/Final · **Participation:** Alumno/Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Domicilio / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Complex production · **Phase:** Process/Final · **Participation:** Student/Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Home / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: portfolio, evidence, progress_
 
@@ -869,11 +869,11 @@ It is one of the most complete tools for competency-based and formative assessme
 ---
 
 
-### 19. Laboratory report `EVI_INFO_LAB`
+### 19. Laboratorio report `EVI_INFO_LAB`
 
 _Written document presenting the process, data and conclusions of a laboratory or field experiment._
 
-**Type:** Written production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial · **Location:** Laboratorio / Aula · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Written production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial · **Location:** Lab / Classroom · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: laboratory report, science, written_
 
@@ -885,7 +885,7 @@ It is especially suitable for assessing scientific competency and the ability to
 
 **Suitable for:** Scientific thinking, data presentation, writing scientific texts.
 
-**Active techniques using this:** Laboratory-Based Learning, Assessment Target, Flipped Classroom, One for All, Argument-Driven Inquiry (ADI)
+**Active techniques using this:** Laboratorio-Based Learning, Assessment Target, Flipped Aula, One for All, Argument-Driven Inquiry (ADI)
 
 ---
 
@@ -894,7 +894,7 @@ It is especially suitable for assessing scientific competency and the ability to
 
 _Extended written document presenting the process, results and conclusions of a research project._
 
-**Type:** Written production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Domicilio / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Home / Online · **Grouping:** Individual / Small group · **AI resistance:** Baja
 
 _Keywords: research, report, academic writing_
 
@@ -906,7 +906,7 @@ It requires prior instruction in academic writing and research methodology.
 
 **Suitable for:** Research competency, academic writing, extended projects.
 
-**Active techniques using this:** Inquiry-Based Learning, Research-Based Learning (RBL), Flipped Classroom, Generate Solutions, Two Stars and a Wish, WebQuest
+**Active techniques using this:** Inquiry-Based Learning, Research-Based Learning (RBL), Flipped Aula, Generate Solutions, Two Stars and a Wish, WebQuest
 
 ---
 
@@ -915,7 +915,7 @@ It requires prior instruction in academic writing and research methodology.
 
 _In-depth study of a specific topic presented in a structured academic format._
 
-**Type:** Written production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Domicilio / Aula · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Home / Classroom · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: monograph, academic, depth_
 
@@ -936,7 +936,7 @@ It requires clear instruction on the difference between summarising and analysin
 
 _Argumentative written text that defends a position or interprets a topic with a personal voice._
 
-**Type:** Written production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Domicilio / Aula · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Home / Classroom · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: essay, argumentation, writing_
 
@@ -957,7 +957,7 @@ It is important to teach students to argue from evidence and to distinguish betw
 
 _Written analysis and interpretation of a text following a structured methodology._
 
-**Type:** Written production · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Written production · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: text commentary, analysis, reading_
 
@@ -978,7 +978,7 @@ It is important to teach the specific methodology for each type of text and to p
 
 _Interpretation and analysis in writing of graphs, maps, tables or statistical data._
 
-**Type:** Written production · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Written production · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: graph, data, interpretation_
 
@@ -990,7 +990,7 @@ It is important to teach students to distinguish between describing what they se
 
 **Suitable for:** Data literacy, interpretation, scientific or social writing.
 
-**Active techniques using this:** Compare and Contrast, Detect Patterns, Flipped Classroom, Word-Phrase-Sentence, Distribute Points
+**Active techniques using this:** Compare and Contrast, Detect Patterns, Flipped Aula, Word-Phrase-Sentence, Distribute Points
 
 ---
 
@@ -999,7 +999,7 @@ It is important to teach students to distinguish between describing what they se
 
 _Condensed written version of a text or topic preserving the main ideas._
 
-**Type:** Written production · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: summary, comprehension, synthesis_
 
@@ -1020,7 +1020,7 @@ It is a simple and quick instrument that reflects comprehension well, though it 
 
 _Hierarchical or structured visual organisation of the main ideas of a topic._
 
-**Type:** Visual/written production · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Visual/written production · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: outline, structure, organisation_
 
@@ -1041,7 +1041,7 @@ It reflects understanding of structure and relationships better than a verbatim 
 
 _Visual representation of concepts and their relationships using nodes and labelled links._
 
-**Type:** Visual production · **Phase:** Inicial/Proceso/Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Parejas · **AI resistance:** Media
+**Type:** Visual production · **Phase:** Initial/Process/Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Pairs · **AI resistance:** Media
 
 _Keywords: concept map, visual, relationships_
 
@@ -1062,7 +1062,7 @@ It is more informative than a summary about the depth of understanding, though i
 
 _Radial visual representation of ideas, associations and connections around a central concept._
 
-**Type:** Visual production · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Visual production · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: mind map, visual, creativity_
 
@@ -1083,7 +1083,7 @@ It is a good tool for brainstorming and for activating prior knowledge, though i
 
 _Chronological visual representation of events, processes or historical periods._
 
-**Type:** Visual production · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Visual production · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: timeline, history, chronological_
 
@@ -1104,7 +1104,7 @@ It is particularly useful in social sciences and history for assessing temporal 
 
 _Alphabetical or thematic list of key terms with definitions written by the student._
 
-**Type:** Written production · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: glossary, vocabulary, definitions_
 
@@ -1125,7 +1125,7 @@ It is a simple and accessible instrument, though it assesses conceptual understa
 
 _Structured document that records reading data and the student's analysis or response._
 
-**Type:** Written production · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: reading, reading card, comprehension_
 
@@ -1146,7 +1146,7 @@ It is a versatile instrument that combines reading comprehension with structured
 
 _Critical text that describes, analyses and evaluates a work (book, film, exhibition, etc.)._
 
-**Type:** Written production · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Domicilio / Aula · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Home / Classroom · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: review, critical opinion, writing_
 
@@ -1167,7 +1167,7 @@ It requires teaching students the specific conventions of this text genre and ho
 
 _Informative text that communicates a topic to a general audience in accessible language._
 
-**Type:** Written production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Domicilio / Aula · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Home / Classroom · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: popular science, science communication, writing_
 
@@ -1188,7 +1188,7 @@ It is especially suitable for assessing communication competency and the ability
 
 _Document that records, justifies and evaluates the development and results of a project._
 
-**Type:** Written production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Domicilio / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Baja
+**Type:** Written production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Home / Online · **Grouping:** Individual / Small group · **AI resistance:** Baja
 
 _Keywords: project report, documentation, reflection_
 
@@ -1209,7 +1209,7 @@ It is especially suitable for project-based work because it captures both the pr
 
 _Document in which the student or group plans tasks, timing and responsibilities._
 
-**Type:** Process · **Phase:** Inicial/Proceso · **Participation:** Docente/Grupo · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Process · **Phase:** Initial/Process · **Participation:** Teacher/Group · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: work plan, planning, organisation_
 
@@ -1230,7 +1230,7 @@ It is especially useful for assessing planning capacity and self-regulation, as 
 
 _Written record of a group meeting: agreements, tasks and responsibilities._
 
-**Type:** Process · **Phase:** Proceso · **Participation:** Grupo · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño / Gran grupo · **AI resistance:** Baja
+**Type:** Process · **Phase:** Process · **Participation:** Group · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group / Large group · **AI resistance:** Baja
 
 _Keywords: minutes, group work, meeting_
 
@@ -1251,7 +1251,7 @@ They are especially useful in project-based work as evidence of the collaborativ
 
 _Agreement between student and teacher on learning objectives, activities and evaluation criteria._
 
-**Type:** Self-assessment · **Phase:** Inicial/Proceso · **Participation:** Alumno · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Self-assessment · **Phase:** Initial/Process · **Participation:** Student · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: learning contract, self-regulation, personalised_
 
@@ -1272,7 +1272,7 @@ It is especially suitable for personalised learning environments and for student
 
 _Structured questionnaire that guides the student in reflecting on their learning or process._
 
-**Type:** Self-assessment · **Phase:** Proceso/Final · **Participation:** Alumno · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Self-assessment · **Phase:** Process/Final · **Participation:** Student · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: reflection, self-assessment, metacognition_
 
@@ -1293,7 +1293,7 @@ It requires teaching students what meaningful reflection means to avoid superfic
 
 _Free or guided written account in which the student assesses their own learning and performance._
 
-**Type:** Self-assessment · **Phase:** Final · **Participation:** Alumno · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Self-assessment · **Phase:** Final · **Participation:** Student · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: self-report, self-assessment, written_
 
@@ -1314,7 +1314,7 @@ It is especially suitable for summative self-assessment periods and for older st
 
 _Resolving a real or simulated problem that requires applying knowledge and skills in context._
 
-**Type:** Test/performance · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Test/performance · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: problem solving, application, reasoning_
 
@@ -1326,7 +1326,7 @@ It is one of the most valid instruments for assessing learning transfer and comp
 
 **Suitable for:** Application, reasoning, transfer of knowledge.
 
-**Active techniques using this:** 1 - 2 - 4, Apply Knowledge, Case-Based Learning (CBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Structured Academic Controversy, Design Thinking, Detect Patterns, Word Game, 5E Instructional Model, The Sack of Doubts, Team-Pair-Solo, Flipped Classroom, Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, Round Table, Pencils in the Middle, Group Investigation, Problem Matrix, Numbered Heads Together, Detective Pairs, Placemat consensus, Service-Learning, Appointment Clock, Problem Situation, Teams-Games-Tournament (TGT), One for All, Authentic Assessment, Two-Column Method, NASA Game, Gamification, Interleaved practice, Worked examples, Gradual release of responsibility, Concrete examples, Computational thinking, Fishbone diagram (Ishikawa)
+**Active techniques using this:** 1 - 2 - 4, Apply Knowledge, Case-Based Learning (CBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Structured Academic Controversy, Design Thinking, Detect Patterns, Word Game, 5E Instructional Model, The Sack of Doubts, Team-Pair-Solo, Flipped Aula, Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, Round Table, Pencils in the Middle, Group Investigation, Problem Matrix, Numbered Heads Together, Detective Parejas, Placemat consensus, Service-Learning, Appointment Clock, Problem Situation, Teams-Games-Tournament (TGT), One for All, Authentic Assessment, Two-Column Method, NASA Game, Gamification, Interleaved practice, Worked examples, Gradual release of responsibility, Concrete examples, Computational thinking, Fishbone diagram (Ishikawa)
 
 ---
 
@@ -1335,7 +1335,7 @@ It is one of the most valid instruments for assessing learning transfer and comp
 
 _Analysis of a real or simulated situation requiring argumentation, decision-making or proposals._
 
-**Type:** Test/performance · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Test/performance · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: case study, analysis, decision-making_
 
@@ -1356,7 +1356,7 @@ It is one of the most complete instruments for assessing competency-based thinki
 
 _Written exam requiring extended answers, justifications or argumentation._
 
-**Type:** Test · **Phase:** Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial · **Location:** Aula · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Test · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial · **Location:** Classroom · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: written test, development, argumentation_
 
@@ -1377,7 +1377,7 @@ It is important to provide clear marking criteria beforehand and to teach studen
 
 _Test with closed questions (true/false, matching, fill-in-the-blank) that admit a single correct answer._
 
-**Type:** Test · **Phase:** Inicial/Final · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Test · **Phase:** Initial/Final · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: objective test, closed questions, recall_
 
@@ -1398,7 +1398,7 @@ It is effective for assessing recall and recognition, though it is less suitable
 
 _Test with multiple-choice questions, each with several options and a single correct answer._
 
-**Type:** Test · **Phase:** Inicial/Proceso/Final · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Test · **Phase:** Initial/Process/Final · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: multiple choice, test, recognition_
 
@@ -1419,7 +1419,7 @@ It is efficient and reliable for assessing recall, but has limited validity for 
 
 _Test with questions requiring brief written answers — a word, a sentence or a short paragraph._
 
-**Type:** Test · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Test · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: short answer, brief response, written test_
 
@@ -1440,7 +1440,7 @@ It is more flexible than multiple-choice for detecting understanding, though it 
 
 _Individual oral assessment of knowledge or competency through questions and answers._
 
-**Type:** Oral test · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Oral test · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: oral test, individual, examination_
 
@@ -1461,7 +1461,7 @@ It is particularly valuable for assessing understanding that is difficult to det
 
 _Assessment activity requiring demonstration of practical skills or application of procedures._
 
-**Type:** Practical test · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Practical test · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: practical test, skills, procedure_
 
@@ -1473,7 +1473,7 @@ It is especially valid for assessing practical competencies that cannot be asses
 
 **Suitable for:** Practical skills, application of procedures, contextualised competency.
 
-**Active techniques using this:** Apply Knowledge, Game-Based Learning (GBL), Laboratory-Based Learning, Experiential Learning, Service-Learning
+**Active techniques using this:** Apply Knowledge, Game-Based Learning (GBL), Laboratorio-Based Learning, Experiential Learning, Service-Learning
 
 ---
 
@@ -1482,7 +1482,7 @@ It is especially valid for assessing practical competencies that cannot be asses
 
 _Assessment activity set in a real context that requires applying several competencies simultaneously._
 
-**Type:** Competency test · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Competency test · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: competency, contextualised, transfer_
 
@@ -1503,7 +1503,7 @@ It is the most rigorous instrument for competency-based assessment but requires 
 
 _Written test that uses primary or secondary sources as the basis for analysis and response._
 
-**Type:** Test · **Phase:** Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial · **Location:** Aula · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Test · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial · **Location:** Classroom · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: document-based test, sources, analysis_
 
@@ -1524,7 +1524,7 @@ It is especially suitable for assessing historical, geographical and scientific 
 
 _Online questionnaire with various question types, automated feedback and immediate results._
 
-**Type:** Digital/test · **Phase:** Inicial/Proceso/Final · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Digital/test · **Phase:** Initial/Process/Final · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: digital questionnaire, online, immediate_
 
@@ -1545,7 +1545,7 @@ Automatic feedback should be complemented with teacher comments to promote genui
 
 _Visual document that presents information or data in a clear, attractive and structured format._
 
-**Type:** Visual production · **Phase:** Final · **Participation:** Docente/Iguales · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Parejas · **AI resistance:** Media
+**Type:** Visual production · **Phase:** Final · **Participation:** Teacher/Peers · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Pairs · **AI resistance:** Media
 
 _Keywords: infographic, visual, information design_
 
@@ -1566,7 +1566,7 @@ It is especially suitable for assessing visual communication competency and the 
 
 _Visual document presenting the results of a project or research in a structured and synthetic format._
 
-**Type:** Visual production · **Phase:** Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Visual production · **Phase:** Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: poster, academic, visual communication_
 
@@ -1587,7 +1587,7 @@ It is especially suitable for scientific communication and for presenting projec
 
 _Visual presentation created with digital tools to support an oral or written exposition._
 
-**Type:** Digital production · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Baja
+**Type:** Digital production · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Baja
 
 _Keywords: digital presentation, slides, visual_
 
@@ -1608,7 +1608,7 @@ It is a very common instrument but tends to assess slide design more than depth 
 
 _Audiovisual product created by students to explain, demonstrate or communicate content._
 
-**Type:** Audiovisual production · **Phase:** Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Exterior / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Audiovisual production · **Phase:** Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Outdoors / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: video, audiovisual, digital_
 
@@ -1620,7 +1620,7 @@ It requires access to recording and editing tools and clear prior instruction on
 
 **Suitable for:** Digital communication, audiovisual creativity, content explanation.
 
-**Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Compare and Contrast, CSI: Color, Symbol, Image, Learning Journal, Digital Storytelling, Flipped Classroom, Portfolio (learning dossier), Ask Why, Universal Design for Learning (UDL), Gamification, Concept Cartoon, Connect, extend, challenge
+**Active techniques using this:** Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Compare and Contrast, CSI: Color, Symbol, Image, Learning Journal, Digital Storytelling, Flipped Aula, Portfolio (learning dossier), Ask Why, Universal Design for Learning (UDL), Gamification, Concept Cartoon, Connect, extend, challenge
 
 ---
 
@@ -1629,7 +1629,7 @@ It requires access to recording and editing tools and clear prior instruction on
 
 _Instructional video in which the student explains a procedure or concept step by step._
 
-**Type:** Audiovisual production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Audiovisual production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: tutorial, video, explanation_
 
@@ -1650,7 +1650,7 @@ The act of teaching others ('learning by teaching') is one of the most powerful 
 
 _Recorded audio episode in which students discuss, explain or investigate a topic._
 
-**Type:** Oral/digital production · **Phase:** Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Oral/digital production · **Phase:** Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: podcast, audio, oral digital_
 
@@ -1671,7 +1671,7 @@ It is especially suitable for assessing oral communication competency in a digit
 
 _Narrative visual production that combines images and text to tell a story or explain a concept._
 
-**Type:** Visual production · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Visual production · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: comic, visual, narration_
 
@@ -1692,7 +1692,7 @@ It is especially motivating for students who communicate better through visual o
 
 _Three-dimensional physical object that represents a structure, place or concept._
 
-**Type:** Physical production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial · **Location:** Aula / Laboratorio / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Type:** Physical production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial · **Location:** Classroom / Lab / Home · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: scale model, 3D, physical_
 
@@ -1713,7 +1713,7 @@ It is especially suitable for inclusive assessment (UDL) as it allows students w
 
 _Digital representation (3D, interactive or simulation) of a concept, structure or process._
 
-**Type:** Digital production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Digital production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: digital model, 3D, simulation_
 
@@ -1734,7 +1734,7 @@ It is especially suitable for STEM subjects and for assessing digital and spatia
 
 _First functional version of a product or solution designed to respond to a real problem._
 
-**Type:** Physical/digital production · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Type:** Physical/digital production · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: prototype, design, innovation_
 
@@ -1755,7 +1755,7 @@ It is one of the most authentic instruments for project-based assessment and des
 
 _Website or web page created by students as a product or learning portfolio._
 
-**Type:** Digital production · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Online · **Location:** Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Baja
+**Type:** Digital production · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Online · **Location:** Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Baja
 
 _Keywords: website, web, digital_
 
@@ -1776,7 +1776,7 @@ It is especially suitable for digital competency projects and for creating authe
 
 _Published digital text in which students write about a topic for a real or simulated audience._
 
-**Type:** Digital production · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Online · **Location:** Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Digital production · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Online · **Location:** Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: blog, digital writing, audience_
 
@@ -1797,7 +1797,7 @@ It is especially suitable for practising writing for real audiences and for deve
 
 _Online space where students share, discuss and respond to contributions on a topic._
 
-**Type:** Digital/written oral · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Online · **Location:** Virtual · **Grouping:** Grupo pequeño / Gran grupo · **AI resistance:** Baja
+**Type:** Digital/written oral · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** Medium · **Modality:** Online · **Location:** Online · **Grouping:** Small group / Large group · **AI resistance:** Baja
 
 _Keywords: forum, digital, collaboration_
 
@@ -1818,7 +1818,7 @@ It is especially suitable for asynchronous learning environments and for develop
 
 _Shared digital document created jointly by several students, with revision history._
 
-**Type:** Digital/process · **Phase:** Proceso/Final · **Participation:** Docente/Grupo · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Media
+**Type:** Digital/process · **Phase:** Process/Final · **Participation:** Teacher/Group · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Media
 
 _Keywords: collaborative document, co-writing, shared_
 
@@ -1839,7 +1839,7 @@ It is especially suitable for cooperative writing projects and for assessing bot
 
 _Digital collection of works, reflections and evidence of learning organised and published online._
 
-**Type:** Digital/process · **Phase:** Proceso/Final · **Participation:** Alumno/Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Digital/process · **Phase:** Process/Final · **Participation:** Student/Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Online / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: digital portfolio, evidence, digital_
 
@@ -1860,7 +1860,7 @@ It is especially suitable for continuous assessment, digital competency and shar
 
 _Self-assessment questionnaire to detect prior knowledge and self-perception of competency level._
 
-**Type:** Diagnostic/self-assessment · **Phase:** Inicial/Final · **Participation:** Alumno · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Diagnostic/self-assessment · **Phase:** Initial/Final · **Participation:** Student · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: KPSI, prior knowledge, diagnostic_
 
@@ -1872,7 +1872,7 @@ It should be used with care: it assesses self-perceived competency, not actual c
 
 **Suitable for:** Prior knowledge, diagnostic assessment, metacognitive awareness.
 
-**Active techniques using this:** Inquiry-Based Learning, Experiential Learning, Discovery Learning, Flipped Classroom, The Box
+**Active techniques using this:** Inquiry-Based Learning, Experiential Learning, Discovery Learning, Flipped Aula, The Box
 
 ---
 
@@ -1881,7 +1881,7 @@ It should be used with care: it assesses self-perceived competency, not actual c
 
 _Concept map created at the start of a topic to show initial knowledge and organisation._
 
-**Type:** Diagnostic · **Phase:** Inicial · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Diagnostic · **Phase:** Initial · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: concept map, initial, diagnostic_
 
@@ -1893,7 +1893,7 @@ It is a simple diagnostic instrument but requires teaching students to build con
 
 **Suitable for:** Prior knowledge, conceptual structure, diagnostic assessment.
 
-**Active techniques using this:** Experiential Learning, Roundtable, Flipped Classroom, The Box, Service-Learning
+**Active techniques using this:** Experiential Learning, Roundtable, Flipped Aula, The Box, Service-Learning
 
 ---
 
@@ -1902,7 +1902,7 @@ It is a simple diagnostic instrument but requires teaching students to build con
 
 _Collective or individual activity for generating and recording ideas freely on a topic._
 
-**Type:** Diagnostic · **Phase:** Inicial · **Participation:** Grupo · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo / Grupo pequeño · **AI resistance:** Alta
+**Type:** Diagnostic · **Phase:** Initial · **Participation:** Group · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group / Small group · **AI resistance:** Alta
 
 _Keywords: brainstorming, ideas, activation_
 
@@ -1923,7 +1923,7 @@ It is especially useful as a lesson starter or topic introduction, and for getti
 
 _Preliminary version of a written or visual work used to improve before the final product._
 
-**Type:** Process · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Domicilio / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Process · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Home / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: draft, writing process, revision_
 
@@ -1944,7 +1944,7 @@ The draft is especially valuable in writing process assessment and in formative 
 
 _Intermediate delivery of a section or stage of a project or extended task._
 
-**Type:** Process · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Process · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: partial submission, milestone, process_
 
@@ -1965,7 +1965,7 @@ It is especially useful for managing extended projects and promoting sustained a
 
 _Sequential record of decisions, advances and difficulties throughout the development of a project._
 
-**Type:** Process · **Phase:** Proceso · **Participation:** Grupo/Alumno · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Grupo pequeño / Individual · **AI resistance:** Media
+**Type:** Process · **Phase:** Process · **Participation:** Group/Student · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Small group / Individual · **AI resistance:** Media
 
 _Keywords: project log, process, documentation_
 
@@ -1977,7 +1977,7 @@ It is one of the most complete instruments for assessing the process in project-
 
 **Suitable for:** Process documentation, reflection, project self-regulation.
 
-**Active techniques using this:** Project-Based Learning (PjBL), Design Thinking, Metacognition Ladder, Flipped Classroom, Service-Learning, Genius Hour
+**Active techniques using this:** Project-Based Learning (PjBL), Design Thinking, Metacognition Ladder, Flipped Aula, Service-Learning, Genius Hour
 
 ---
 
@@ -1986,7 +1986,7 @@ It is one of the most complete instruments for assessing the process in project-
 
 _Activity in which students assess or give feedback on a peer's work using criteria._
 
-**Type:** Peer assessment · **Phase:** Proceso · **Participation:** Iguales · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Parejas / Grupo pequeño · **AI resistance:** Media
+**Type:** Peer assessment · **Phase:** Process · **Participation:** Peers · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Pairs / Small group · **AI resistance:** Media
 
 _Keywords: peer review, peer assessment, feedback_
 
@@ -2007,7 +2007,7 @@ It is important to train students in how to give constructive feedback and to en
 
 _Simple peer feedback technique identifying two strengths and one area for improvement._
 
-**Type:** Peer assessment · **Phase:** Proceso · **Participation:** Iguales · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Parejas / Grupo pequeño · **AI resistance:** Alta
+**Type:** Peer assessment · **Phase:** Process · **Participation:** Peers · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Pairs / Small group · **AI resistance:** Alta
 
 _Keywords: two stars and a wish, peer feedback, simple_
 
@@ -2028,7 +2028,7 @@ It is especially suitable for introducing peer assessment in early stages or wit
 
 _Quick self-assessment using three colours to indicate level of understanding or confidence._
 
-**Type:** Self-assessment · **Phase:** Proceso · **Participation:** Alumno · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Self-assessment · **Phase:** Process · **Participation:** Student · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: traffic light, self-assessment, quick_
 
@@ -2040,7 +2040,7 @@ It assesses self-perceived understanding, not actual understanding. It gains val
 
 **Suitable for:** Quick self-assessment, metacognitive awareness, formative check.
 
-**Active techniques using this:** 5E Instructional Model, Traffic Light, Metacognition Ladder, Flipped Classroom, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Numbered Heads Together, Three-Minute Pause, Peer Instruction, 3-2-1 Bridge, Quiz-Quiz-Trade, Exit Ticket, All-student response
+**Active techniques using this:** 5E Instructional Model, Traffic Light, Metacognition Ladder, Flipped Aula, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Numbered Heads Together, Three-Minute Pause, Peer Instruction, 3-2-1 Bridge, Quiz-Quiz-Trade, Exit Ticket, All-student response
 
 ---
 
@@ -2049,7 +2049,7 @@ It assesses self-perceived understanding, not actual understanding. It gains val
 
 _Brief written response at the end of a session to check understanding and raise doubts._
 
-**Type:** Self-assessment/formative · **Phase:** Proceso · **Participation:** Alumno · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Self-assessment/formative · **Phase:** Process · **Participation:** Student · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: exit ticket, lesson closing, check_
 
@@ -2061,7 +2061,7 @@ It is especially quick and easy to implement and provides very direct informatio
 
 **Suitable for:** Lesson closing, immediate check, collecting doubts.
 
-**Active techniques using this:** Project-Based Learning (PjBL), 5E Instructional Model, Traffic Light, Flipped Classroom, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Three-Minute Pause, Peer Instruction, 3-2-1 Bridge, Exit Ticket, Understanding by Design (UbD)
+**Active techniques using this:** Project-Based Learning (PjBL), 5E Instructional Model, Traffic Light, Flipped Aula, KWL (I know, I want to know, I have learned), Minute Paper, Muddiest Point, Three-Minute Pause, Peer Instruction, 3-2-1 Bridge, Exit Ticket, Understanding by Design (UbD)
 
 ---
 
@@ -2070,7 +2070,7 @@ It is especially quick and easy to implement and provides very direct informatio
 
 _Written test in which students can consult materials, notes or sources during the exam._
 
-**Type:** Competency test · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial · **Location:** Aula · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Competency test · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial · **Location:** Classroom · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: open-book test, consultation, application_
 
@@ -2091,7 +2091,7 @@ It is especially suitable for competency-based assessment and for assessing high
 
 _Complex task that integrates several competencies and areas of knowledge around a real situation._
 
-**Type:** Competency test · **Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Exterior · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Competency test · **Phase:** Process/Final · **Participation:** Teacher/Student · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Outdoors · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: competency task, integrated, interdisciplinary_
 
@@ -2112,7 +2112,7 @@ It is the most complete instrument for competency-based assessment but requires 
 
 _Real or simulated situation that poses a challenge requiring the student to apply competencies to resolve it._
 
-**Type:** Test/performance · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Test/performance · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: problem-situation, transfer, competency_
 
@@ -2133,7 +2133,7 @@ It is especially suitable for assessing learning transfer and the ability to mob
 
 _Gamified activity in which students must solve challenges or puzzles using knowledge and teamwork._
 
-**Type:** Performance · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Exterior · **Grouping:** Grupo pequeño / Gran grupo · **AI resistance:** Alta
+**Type:** Performance · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Outdoors · **Grouping:** Small group / Large group · **AI resistance:** Alta
 
 _Keywords: escape room, gamification, challenge_
 
@@ -2154,7 +2154,7 @@ It is especially suitable for assessing application of knowledge in novel contex
 
 _Structured dialogue based on open questions and evidence._
 
-**Type:** Oral · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo / Grupo pequeño · **AI resistance:** Alta
+**Type:** Oral · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group / Small group · **AI resistance:** Alta
 
 _Keywords: socratic, seminar, dialogue_
 
@@ -2171,11 +2171,11 @@ It allows assessing critical thinking and deep understanding, but requires train
 ---
 
 
-### 81. Laboratory checklist `EVI_CHECK_LAB`
+### 81. Laboratorio checklist `EVI_CHECK_LAB`
 
 _Observation and self-recording activity for procedures, safety and data in the laboratory._
 
-**Type:** Observation · **Phase:** Proceso · **Participation:** Docente/Alumno · **Complexity:** Baja/Media · **Modality:** Presencial · **Location:** Laboratorio · **Grouping:** Individual / Parejas · **AI resistance:** Alta
+**Type:** Observation · **Phase:** Process · **Participation:** Teacher/Student · **Complexity:** Low/Medium · **Modality:** Presencial · **Location:** Lab · **Grouping:** Individual / Pairs · **AI resistance:** Alta
 
 _Keywords: laboratory, checklist, safety_
 
@@ -2187,7 +2187,7 @@ Note: strictly speaking, a checklist is also an assessment instrument (list of c
 
 **Suitable for:** Safety, procedures, use of materials, data collection.
 
-**Active techniques using this:** Laboratory-Based Learning, Assessment Target, One for All, Argument-Driven Inquiry (ADI), Peer Review
+**Active techniques using this:** Laboratorio-Based Learning, Assessment Target, One for All, Argument-Driven Inquiry (ADI), Peer Review
 
 ---
 
@@ -2196,7 +2196,7 @@ Note: strictly speaking, a checklist is also an assessment instrument (list of c
 
 _Continuous digital record of activities, notes, evidence and reflections._
 
-**Type:** Digital/process · **Phase:** Proceso · **Participation:** Alumno/Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Digital/process · **Phase:** Process · **Participation:** Student/Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: digital notebook, monitoring, evidence_
 
@@ -2217,7 +2217,7 @@ It is useful for continuous assessment and digital competency, provided there ar
 
 _Digital portfolio where students select and justify their learning evidence._
 
-**Type:** Digital/process · **Phase:** Proceso/Final · **Participation:** Alumno/Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Digital/process · **Phase:** Process/Final · **Participation:** Student/Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Online / Home · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: eportfolio, evidence, selection_
 
@@ -2238,7 +2238,7 @@ It is especially suitable for continuous, criteria-based and competency-based as
 
 _Record of observations, data and reflections during outdoor or real-world activities._
 
-**Type:** Written/observational production · **Phase:** Proceso · **Participation:** Docente/Alumno · **Complexity:** Media · **Modality:** Presencial · **Location:** Outdoors / Laboratory / Classroom · **Grouping:** Individual / Small group · **AI resistance:** Alta
+**Type:** Written/observational production · **Phase:** Process · **Participation:** Teacher/Student · **Complexity:** Medium · **Modality:** Presencial · **Location:** Outdoors / Lab / Classroom · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: field notebook, outdoor, observation, nature_
 
@@ -2250,7 +2250,7 @@ It is especially useful in natural sciences, geography, environmental education,
 
 **Suitable for:** In situ observation, data recording, connection with the natural or social environment.
 
-**Active techniques using this:** Inquiry-Based Learning, Assessment Target, Listener Teams, Flipped Classroom, One for All
+**Active techniques using this:** Inquiry-Based Learning, Assessment Target, Listener Teams, Flipped Aula, One for All
 
 ---
 
@@ -2259,7 +2259,7 @@ It is especially useful in natural sciences, geography, environmental education,
 
 _Short video (60–90 s) that explains, communicates or argues about a topic._
 
-**Type:** Audiovisual production · **Phase:** Final · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Classroom / Virtual / Home / Outdoors · **Grouping:** Individual / Pairs · **AI resistance:** Alta
+**Type:** Audiovisual production · **Phase:** Final · **Participation:** Teacher/Peers · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home / Outdoors · **Grouping:** Individual / Pairs · **AI resistance:** Alta
 
 _Keywords: micro-video, short, reel, educational, digital_
 
@@ -2280,7 +2280,7 @@ It is motivating for students who learn better through visual and oral formats t
 
 _Record of the work process, AI use, sources, versions and decisions made._
 
-**Type:** Digital/proceso · **Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Digital/proceso · **Phase:** Process/Final · **Participation:** Teacher/Student · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: ai, prompts, process, authorship, sources, versions_
 
@@ -2301,7 +2301,7 @@ It supports assessment of authorship, critical thinking, revision, improvement a
 
 _Immediate-response evidence in which the whole group answers at once with cards (A/B/C/D), thumbs or individual mini-whiteboards, giving the teacher an instant snapshot of understanding._
 
-**Type:** Observation · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja · **Modality:** Presencial · **Location:** Aula · **Grouping:** Gran grupo · **AI resistance:** Alta
+**Type:** Observation · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low · **Modality:** Presencial · **Location:** Classroom · **Grouping:** Large group · **AI resistance:** Alta
 
 _Keywords: response cards, mini-whiteboard, immediate response, participation_
 
@@ -2322,7 +2322,7 @@ Its value is immediacy and universal participation: it makes learning visible in
 
 _A sequence of frames that visually plans a video, animation or digital story: each panel sketches the image, the action and the text or audio, before producing the final piece._
 
-**Type:** Visual production · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Type:** Visual production · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: storyboard, visual planning, digital storytelling, pre-production_
 
@@ -2346,7 +2346,7 @@ Its value is making the thinking that precedes production visible and separating
 
 _Matrix that assesses separate criteria using described levels._
 
-**Type:** Qualitative assessment/grading · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Qualitative assessment/grading · **Phase:** Process/Final · **Participation:** Teacher/Student/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: rubric, analytic_
 
@@ -2383,7 +2383,7 @@ Student: Marta P. &nbsp;|&nbsp; Activity: Presentation on the Renaissance (Year 
 
 _Rubric that assesses performance holistically._
 
-**Type:** Qualitative assessment/grading · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Qualitative assessment/grading · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: rubric, holistic_
 
@@ -2419,7 +2419,7 @@ Student: Alex G. &nbsp;|&nbsp; Activity: Short story "The Last Journey" (Year 8)
 
 _Rubric focused on planning, monitoring, revision and improvement._
 
-**Type:** Formative assessment · **Phase:** Proceso · **Participation:** Docente/Alumno · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Formative assessment · **Phase:** Process · **Participation:** Teacher/Student · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: rubric, process_
 
@@ -2456,7 +2456,7 @@ Student: Jorge L. &nbsp;|&nbsp; Activity: Liquid density experiment (Year 9) &nb
 
 _Rubric focused on the quality of the final product._
 
-**Type:** Assessment/grading · **Phase:** Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment/grading · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: rubric, product_
 
@@ -2493,7 +2493,7 @@ Student: Sofía M. &nbsp;|&nbsp; Activity: Infographic on climate change (Year 7
 
 _Rubric for presentations, debates, defences or interviews._
 
-**Type:** Performance assessment · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Performance assessment · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: oral, rubric_
 
@@ -2530,7 +2530,7 @@ Student: Elena R. &nbsp;|&nbsp; Activity: Oral presentation on global warming (Y
 
 _Rubric for assessing collaboration and group functioning._
 
-**Type:** Process assessment · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Media
+**Type:** Process assessment · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Media
 
 _Keywords: cooperative, group_
 
@@ -2558,7 +2558,7 @@ Rubric for assessing cooperative work in a group project in Year 9. Can be appli
 | Quality of joint outcome | The final product reflects the integrated contribution of all members and is better than the sum of individual parts. | The product reflects joint work, though with uneven contributions. | The product is a juxtaposition of loosely integrated individual parts. | The product was mainly produced by one or two members. |
 Group: Team 3 &nbsp;|&nbsp; Project: Water awareness campaign (Year 9) &nbsp;|&nbsp; Date: 10/05Score: 15/20 → 7.5. Internal communication is the group's strong point; better conflict management would increase efficiency.
 
-**Active techniques using this:** What makes you say that?, Who's who?, 1 - 2 - 4, Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, Timed Pair Share, Design Thinking, Roundtable, Word Game, 5E Instructional Model, Jigsaw, The Sack of Doubts, Team-Pair-Solo, Listener Teams, Learning Stations, Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, The Box, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Group Investigation, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Detective Pairs, Discussion Pairs, Think, Puzzle, Explore, Placemat consensus, Ask Why, Ask and Answer, Service-Learning, RallyRobin, Appointment Clock, Review the Consequences, RoundRobin, Follow the trail, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, One for All, World Café, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Yellow Pages, Co-teaching, Gamification, Cooperative Roles, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Reciprocal Teaching, Structured Controversy with Evidence, +1, Habits of mind, Fan-N-Pick
+**Active techniques using this:** What makes you say that?, Who's who?, 1 - 2 - 4, Game-Based Learning (GBL), Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, Circle of Viewpoints, CO-OP CO-OP, Getting to Know Each Other, Structured Academic Controversy, Timed Pair Share, Design Thinking, Roundtable, Word Game, 5E Instructional Model, Jigsaw, The Sack of Doubts, Team-Pair-Solo, Listener Teams, Learning Stations, Generate Hypotheses, Generate Solutions, Exchange difficulties, Role Play, The Box, Interview, Round Table, Pencils in the Middle, Shared Reading, Ghost Reading, What I know and what we know, Four Wise Students, Group Investigation, Four-Part Concept Map, I like it / I don't like it, Numbered Heads Together, Word-Phrase-Sentence, Detective Parejas, Discussion Parejas, Think, Puzzle, Explore, Placemat consensus, Ask Why, Ask and Answer, Service-Learning, RallyRobin, Appointment Clock, Review the Consequences, RoundRobin, Follow the trail, Problem Situation, STAD (Student Teams Achievement Divisions), Talking Chips, Teams-Games-Tournament (TGT), Think-Pair-Share, One for All, World Café, Universal Design for Learning (UDL), The 4Cs of Learning, Nominal Group Technique, Peer Tutoring, Team Assisted Individualization (TAI), Parallel Teams, NASA Game, Yellow Pages, Co-teaching, Gamification, Cooperative Roles, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Reciprocal Teaching, Structured Controversy with Evidence, +1, Habits of mind, Fan-N-Pick
 
 ---
 
@@ -2567,7 +2567,7 @@ Group: Team 3 &nbsp;|&nbsp; Project: Water awareness campaign (Year 9) &nbsp;|&n
 
 _Matrix linked to criteria and competency performance levels._
 
-**Type:** Competency assessment · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Competency assessment · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: competency_
 
@@ -2604,7 +2604,7 @@ Student: Pau N. &nbsp;|&nbsp; Activity: Digital habits video capsule (Year 10) &
 
 _List of indicators with presence or absence._
 
-**Type:** Record/assessment · **Phase:** Inicial/Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Record/assessment · **Phase:** Initial/Process/Final · **Participation:** Teacher/Student/Peers · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: checklist, list_
 
@@ -2634,7 +2634,7 @@ Checklist for assessing a biology lab report in Year 9. The teacher marks each i
 | Neat and well-organised presentation | ✓ | | |
 Result: 5 out of 7 indicators met. Student is asked to revise the hypothesis and the interpretation of results before the final submission.
 
-**Active techniques using this:** Laboratory-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Flipped Classroom, Gallery Walk, Generate Solutions, Service-Learning, One for All, Peer Review, Question Starts
+**Active techniques using this:** Laboratorio-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking, Flipped Aula, Gallery Walk, Generate Solutions, Service-Learning, One for All, Peer Review, Question Starts
 
 ---
 
@@ -2643,7 +2643,7 @@ Result: 5 out of 7 indicators met. Student is asked to revise the hypothesis and
 
 _Scale for assessing frequency, intensity or degree of a performance._
 
-**Type:** Record/assessment · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Record/assessment · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: scale, observation_
 
@@ -2682,7 +2682,7 @@ Note: Actively engaged in listening and reaching consensus; needs to improve tur
 
 _Graduated scale for assessing degree of achievement._
 
-**Type:** Assessment · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment · **Phase:** Process/Final · **Participation:** Teacher/Student/Peers · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: scale_
 
@@ -2720,7 +2720,7 @@ Total score: 15/20. Strong command of topic and question answering; oral fluency
 
 _Scale whose levels include descriptions._
 
-**Type:** Qualitative assessment · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Qualitative assessment · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: descriptive_
 
@@ -2757,7 +2757,7 @@ The highlighted cell shows the assigned level for each criterion. The essay is s
 
 _Document with criteria, expected answers or marking guidelines._
 
-**Type:** Correction/grading · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Correction/grading · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: guide, marking_
 
@@ -2796,7 +2796,7 @@ A marking guide ensures consistency across markers and makes criteria explicit b
 
 _Format for recording scores or correct answers._
 
-**Type:** Correction/grading · **Phase:** Inicial/Final · **Participation:** Docente · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Correction/grading · **Phase:** Initial/Final · **Participation:** Teacher · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: template_
 
@@ -2836,7 +2836,7 @@ The marking template separates the task of awarding marks from giving feedback, 
 
 _Distribution of points among sections or indicators._
 
-**Type:** Grading · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Grading · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: scoring scale_
 
@@ -2876,7 +2876,7 @@ Publishing the marking scheme before the task helps students understand where to
 
 _Brief note of significant observed events._
 
-**Type:** Qualitative record · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Qualitative record · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: anecdotal_
 
@@ -2904,7 +2904,7 @@ Anecdotal record kept by the Science teacher in Year 9 during a group research p
 Class: Year 9A &nbsp;|&nbsp; Teacher: Ms García &nbsp;|&nbsp; Activity: Project "Endangered Ecosystems"
 Anecdotal records capture patterns of progress or difficulty that formal assessment instruments often miss.
 
-**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Classroom
+**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Aula
 
 ---
 
@@ -2913,7 +2913,7 @@ Anecdotal records capture patterns of progress or difficulty that formal assessm
 
 _Detailed record of performances, processes or behaviours._
 
-**Type:** Qualitative record · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Qualitative record · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: descriptive_
 
@@ -2942,7 +2942,7 @@ Student: Daniel S. &nbsp;|&nbsp; Activity: Presentation "The impact of social me
 Overall: strong presentation with a solid content base; using visual support more actively is the area to develop.
 Descriptive records are especially useful for documenting process or justifying a qualitative assessment to the student or their family.
 
-**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Classroom
+**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Aula
 
 ---
 
@@ -2951,7 +2951,7 @@ Descriptive records are especially useful for documenting process or justifying 
 
 _Notebook or document with observations and pedagogical decisions._
 
-**Type:** Teacher record · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Type:** Teacher record · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: teacher diary_
 
@@ -2987,7 +2987,7 @@ The teacher's diary is a professional development tool: writing down a reflectio
 
 _Record of a student's progress over time._
 
-**Type:** Monitoring · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Monitoring · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: monitoring_
 
@@ -3025,7 +3025,7 @@ The individual tracking sheet is the basis for the tutorial meeting: it gives a 
 
 _Record of a group's progress and functioning._
 
-**Type:** Monitoring · **Phase:** Proceso · **Participation:** Docente/Grupo · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Media
+**Type:** Monitoring · **Phase:** Process · **Participation:** Teacher/Group · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Media
 
 _Keywords: group, monitoring_
 
@@ -3056,7 +3056,7 @@ Class: Year 9A &nbsp;|&nbsp; Subject: English &nbsp;|&nbsp; Term: Spring &nbsp;|
 * Provisional average without T2. High spread in the group: both the lower end (Bruno, Elena) and the top end (Diego) need attention.
 The group sheet reveals class-wide patterns (e.g., listening is weak across the group) that are invisible when reviewing students one by one.
 
-**Active techniques using this:** Project-Based Learning (PjBL), CO-OP CO-OP, The Sack of Doubts, Flipped Classroom, Service-Learning
+**Active techniques using this:** Project-Based Learning (PjBL), CO-OP CO-OP, The Sack of Doubts, Flipped Aula, Service-Learning
 
 ---
 
@@ -3065,7 +3065,7 @@ The group sheet reveals class-wide patterns (e.g., listening is weak across the 
 
 _Note of contributions and quality of input._
 
-**Type:** Record · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo · **AI resistance:** Alta
+**Type:** Record · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group · **AI resistance:** Alta
 
 _Keywords: participation_
 
@@ -3096,7 +3096,7 @@ Debate: "Is it ethical to delegate moral decisions to artificial intelligence?" 
 Quality: 1 irrelevant contribution · 2 unsupported opinion · 3 solid argument · 4 evidence-based argument or question that advances the debate.
 Participation records help identify students who never speak and those who dominate, so group dynamics can be adjusted in the next session.
 
-**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Classroom, Cold calling, Wait time, Philosophy for Children (P4C), Chalk Talk, Stand Up–Hand Up–Pair Up
+**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Aula, Cold calling, Wait time, Philosophy for Children (P4C), Chalk Talk, Stand Up–Hand Up–Pair Up
 
 ---
 
@@ -3105,7 +3105,7 @@ Participation records help identify students who never speak and those who domin
 
 _Document for noting roles, contributions and group compliance._
 
-**Type:** Record · **Phase:** Proceso · **Participation:** Docente/Grupo · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Media
+**Type:** Record · **Phase:** Process · **Participation:** Teacher/Group · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Media
 
 _Keywords: cooperative_
 
@@ -3134,7 +3134,7 @@ Group: Team 2 &nbsp;|&nbsp; Project: "Endangered Ecosystems" &nbsp;|&nbsp; Sessi
 The group works well overall; the critical point is Kevin: his spokesperson role requires advance preparation that he has not yet taken on.
 Pairing this record with a group self-assessment reveals whether members perceive the same issues as the teacher.
 
-**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Classroom, Fan-N-Pick, Showdown, Three-Step Interview
+**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Aula, Fan-N-Pick, Showdown, Three-Step Interview
 
 ---
 
@@ -3143,7 +3143,7 @@ Pairing this record with a group self-assessment reveals whether members perceiv
 
 _Teacher's notes during activities, practical sessions or field trips._
 
-**Type:** Qualitative record · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Baja · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Type:** Qualitative record · **Phase:** Process · **Participation:** Teacher · **Complexity:** Low · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: notes_
 
@@ -3181,7 +3181,7 @@ Field notes are raw material: taken in the moment, unpolished. Their value lies 
 
 _Brief document for assessing a specific task._
 
-**Type:** Assessment · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: card_
 
@@ -3220,7 +3220,7 @@ An assessment sheet is more informative than a grade alone: the student sees whi
 
 _Template for returning strengths and areas for improvement._
 
-**Type:** Feedback · **Phase:** Proceso · **Participation:** Docente/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Feedback · **Phase:** Process · **Participation:** Teacher/Peers · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: feedback_
 
@@ -3248,7 +3248,7 @@ Student: Sergi B. &nbsp;|&nbsp; Work: Essay "Should coding be a compulsory subje
 Provisional grade: 6.5/10. With the suggested improvements, this could reach an 8.
 A feedback sheet is more useful than a grade alone: the student knows exactly what to change and has a concrete target for the second submission.
 
-**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
+**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
 
 ---
 
@@ -3257,7 +3257,7 @@ A feedback sheet is more useful than a grade alone: the student knows exactly wh
 
 _Table relating criteria, indicators and levels._
 
-**Type:** Assessment · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: matrix_
 
@@ -3295,7 +3295,7 @@ An assessment matrix is more efficient than a full rubric when descriptors can b
 
 _Collection of phrases for describing performance levels._
 
-**Type:** Assessment support · **Phase:** Diseño · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment support · **Phase:** Design · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: descriptors_
 
@@ -3333,7 +3333,7 @@ A well-built descriptor bank reduces new rubric design time to minutes: selectin
 
 _Representation of the degree achieved in criteria or competencies._
 
-**Type:** Assessment synthesis · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment synthesis · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: profile_
 
@@ -3358,7 +3358,7 @@ Within the framework of competency-based assessment, the achievement profile is 
 
 _Radial representation of several assessed aspects._
 
-**Type:** Visual/self-assessment · **Phase:** Proceso/Final · **Participation:** Alumno/Iguales · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Visual/self-assessment · **Phase:** Process/Final · **Participation:** Student/Peers · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: target_
 
@@ -3408,7 +3408,7 @@ Strength: collaboration (level 4).
 
 _Visual system of achievement, doubt or difficulty._
 
-**Type:** Visual/formative · **Phase:** Proceso · **Participation:** Alumno · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Visual/formative · **Phase:** Process · **Participation:** Student · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: traffic light_
 
@@ -3436,7 +3436,7 @@ Traffic-light self-assessment at the end of a unit on fractions in Year 5. Each 
 | Word problems with fractions | ✓ | | |
 The student understands the basic concept but struggles with operations. The teacher groups students showing red and amber on operations for a reinforcement session.
 
-**Active techniques using this:** Inquiry-Based Learning, Experiential Learning, Discovery Learning, Flipped Classroom, The Box, Hinge questions, All-student response
+**Active techniques using this:** Inquiry-Based Learning, Experiential Learning, Discovery Learning, Flipped Aula, The Box, Hinge questions, All-student response
 
 ---
 
@@ -3445,7 +3445,7 @@ The student understands the basic concept but struggles with operations. The tea
 
 _Scale for students to assess their own achievement._
 
-**Type:** Self-assessment · **Phase:** Inicial/Proceso/Final · **Participation:** Alumno · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Self-assessment · **Phase:** Initial/Process/Final · **Participation:** Student · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: self-assessment_
 
@@ -3484,7 +3484,7 @@ Personal reflection: "I need to practise speaking without looking at my slides a
 
 _Rubric used by students on their own work._
 
-**Type:** Self-assessment · **Phase:** Proceso/Final · **Participation:** Alumno · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Self-assessment · **Phase:** Process/Final · **Participation:** Student · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: rubric, self-assessment_
 
@@ -3522,7 +3522,7 @@ Asking students to justify each level they select is as important as the selecti
 
 _Rubric for assessing peers' work._
 
-**Type:** Peer assessment · **Phase:** Proceso/Final · **Participation:** Iguales · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Parejas / Grupo pequeño · **AI resistance:** Media
+**Type:** Peer assessment · **Phase:** Process/Final · **Participation:** Peers · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Pairs / Small group · **AI resistance:** Media
 
 _Keywords: rubric, peer assessment_
 
@@ -3560,7 +3560,7 @@ A rubric-based peer assessment requires the assessor to justify each score using
 
 _Brief template for assessing peers._
 
-**Type:** Peer assessment · **Phase:** Proceso · **Participation:** Iguales · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Parejas / Grupo pequeño · **AI resistance:** Media
+**Type:** Peer assessment · **Phase:** Process · **Participation:** Peers · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Pairs / Small group · **AI resistance:** Media
 
 _Keywords: peer assessment_
 
@@ -3597,7 +3597,7 @@ The final question ("one thing you learned yourself") turns peer assessment into
 
 _Checklist used by students to review requirements._
 
-**Type:** Self-assessment · **Phase:** Proceso · **Participation:** Alumno · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Self-assessment · **Phase:** Process · **Participation:** Student · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: checklist_
 
@@ -3639,7 +3639,7 @@ The "my own note" column is key: it forces the student to be specific about what
 
 _Document with improvement objectives and actions._
 
-**Type:** Monitoring · **Phase:** Proceso · **Participation:** Alumno/Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Monitoring · **Phase:** Process · **Participation:** Student/Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: improvement_
 
@@ -3667,7 +3667,7 @@ Improvement commitment record completed by a Year 8 student after receiving teac
 Student: Marc D. &nbsp;|&nbsp; Task: Argumentative essay — 2nd submission &nbsp;|&nbsp; Record date: 10/03 &nbsp;|&nbsp; Reviewed: 14/03
 The commitment record is the piece that closes the formative cycle: without it, students receive feedback but don't necessarily act on it. The teacher checks at the next submission whether each commitment was met.
 
-**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Classroom
+**Active techniques using this:** Problem-Based Learning (PBL), Project-Based Learning (PjBL), CO-OP CO-OP, Structured Academic Controversy, The Sack of Doubts, Metacognition Ladder, Flipped Aula
 
 ---
 
@@ -3676,7 +3676,7 @@ The commitment record is the piece that closes the formative cycle: without it, 
 
 _Organised record of results, tasks and criteria._
 
-**Type:** Grading/record · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Grading/record · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: grades_
 
@@ -3716,7 +3716,7 @@ The gradebook is the starting point for calculating the term grade; combined wit
 
 _Table relating evidence to assessment criteria._
 
-**Type:** Grading · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Grading · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: criteria_
 
@@ -3755,7 +3755,7 @@ The criterion table shows exactly which competences the student is above or belo
 
 _Table of relative weights of criteria, evidence or tools._
 
-**Type:** Grading · **Phase:** Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Grading · **Phase:** Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: weighting_
 
@@ -3795,7 +3795,7 @@ Sharing the weighting matrix at the start of the course lets students understand
 
 _Assessment expressed with numbers._
 
-**Type:** Grading · **Phase:** Final · **Participation:** Docente · **Complexity:** Baja · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Grading · **Phase:** Final · **Participation:** Teacher · **Complexity:** Low · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: numerical_
 
@@ -3834,7 +3834,7 @@ Critical analysis is the area to strengthen; problem statement and use of source
 
 _Categories such as beginning, developing, adequate, advanced._
 
-**Type:** Qualitative grading · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Qualitative grading · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: verbal_
 
@@ -3873,7 +3873,7 @@ Initiative and suggestions for improvement stand out; conflict management and ac
 
 _Rule that transforms achievement levels into a grade._
 
-**Type:** Grading · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Grading · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: conversion_
 
@@ -3919,7 +3919,7 @@ The converter keeps the qualitative rubric (richer for feedback) and translates 
 
 _Digital workbook for recording, calculating and analysing data._
 
-**Type:** Digital record · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Online · **Location:** Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Digital record · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Online · **Location:** Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: spreadsheet_
 
@@ -3959,7 +3959,7 @@ The spreadsheet's advantage over a paper gradebook is automation: changing a wei
 
 _Document communicating progress, achievements and guidance._
 
-**Type:** Communication · **Phase:** Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Communication · **Phase:** Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: individual report_
 
@@ -4001,7 +4001,7 @@ The individual report goes beyond a grade sheet: it gives context to the grades 
 
 _Formal record of decisions and results._
 
-**Type:** Formal document · **Phase:** Final · **Participation:** Equipo docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo · **AI resistance:** Media
+**Type:** Formal document · **Phase:** Final · **Participation:** Teaching team · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group · **AI resistance:** Media
 
 _Keywords: record_
 
@@ -4041,7 +4041,7 @@ The assessment record has legal and administrative value: it must be filed per s
 
 _Form for collecting responses or assessments._
 
-**Type:** Digital record · **Phase:** Inicial/Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Complexity:** Baja/Media · **Modality:** Online · **Location:** Virtual / Domicilio · **Grouping:** Individual · **AI resistance:** Baja
+**Type:** Digital record · **Phase:** Initial/Process/Final · **Participation:** Teacher/Student/Peers · **Complexity:** Low/Medium · **Modality:** Online · **Location:** Online / Home · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: form_
 
@@ -4080,11 +4080,11 @@ The digital form collects the whole class's responses in seconds; the linked spr
 
 _Rubric integrated in a digital platform._
 
-**Type:** Digital assessment · **Phase:** Proceso/Final · **Participation:** Docente · **Complexity:** Media · **Modality:** Online · **Location:** Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Digital assessment · **Phase:** Process/Final · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Online · **Location:** Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: digital, rubric_
 
-The digital rubric is a rubric implemented in an educational platform or application (Google Classroom, Canvas, Moodle, Rubric Maker, etc.) that allows it to be applied directly in the digital environment, automate score calculation and send feedback to the student.
+The digital rubric is a rubric implemented in an educational platform or application (Google Aula, Canvas, Moodle, Rubric Maker, etc.) that allows it to be applied directly in the digital environment, automate score calculation and send feedback to the student.
 
 How to use it: create the rubric in the platform, associating it with a task. When marking, the teacher marks the levels directly in the platform and adds comments. The score is calculated automatically and the student receives the feedback in their personal space.
 
@@ -4119,7 +4119,7 @@ A digital rubric has the same evaluative validity as a paper one, with the advan
 
 _Record of changes in shared documents._
 
-**Type:** Digital record · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Online · **Location:** Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Digital record · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Online · **Location:** Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: history_
 
@@ -4157,7 +4157,7 @@ Revision history turns cooperative work assessment into an evidence-based proces
 
 _View of progress on tasks, criteria or competencies._
 
-**Type:** Digital visual · **Phase:** Proceso · **Participation:** Docente/Alumno · **Complexity:** Media · **Modality:** Online · **Location:** Virtual · **Grouping:** Gran grupo · **AI resistance:** Media
+**Type:** Digital visual · **Phase:** Process · **Participation:** Teacher/Student · **Complexity:** Medium · **Modality:** Online · **Location:** Online · **Grouping:** Large group · **AI resistance:** Media
 
 _Keywords: dashboard_
 
@@ -4182,7 +4182,7 @@ It promotes transparency, self-regulation and motivation. In digital versions, i
 
 _Access, participation or activity data on platforms._
 
-**Type:** Digital record · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Alta · **Modality:** Online · **Location:** Virtual · **Grouping:** Gran grupo · **AI resistance:** Baja
+**Type:** Digital record · **Phase:** Process · **Participation:** Teacher · **Complexity:** High · **Modality:** Online · **Location:** Online · **Grouping:** Large group · **AI resistance:** Baja
 
 _Keywords: analytics_
 
@@ -4207,7 +4207,7 @@ Especially useful for identifying group and individual trends efficiently. The t
 
 _Digital folder or space with assessment evidence._
 
-**Type:** Repository · **Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Complexity:** Media · **Modality:** Online · **Location:** Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Repository · **Phase:** Process/Final · **Participation:** Teacher/Student · **Complexity:** Medium · **Modality:** Online · **Location:** Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: evidence_
 
@@ -4245,7 +4245,7 @@ The evidence bank shows the student's trajectory, not just their current level: 
 
 _Breakdown of a criterion into observable indicators._
 
-**Type:** Assessment support · **Phase:** Diseño/Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment support · **Phase:** Design/Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: criteria, indicators, alignment_
 
@@ -4282,7 +4282,7 @@ This list is the step before building the rubric: it ensures criteria are proper
 
 _Scale describing successive advances towards a learning goal._
 
-**Type:** Monitoring · **Phase:** Proceso · **Participation:** Docente/Alumno · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Monitoring · **Phase:** Process · **Participation:** Teacher/Student · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: progress, continuous, monitoring_
 
@@ -4319,7 +4319,7 @@ The progress scale allows the teacher to track each student's learning trajector
 
 _Document with focus areas, indicators and guidelines for observing a performance._
 
-**Type:** Record/assessment · **Phase:** Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial · **Location:** Aula / Laboratorio / Exterior · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Type:** Record/assessment · **Phase:** Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial · **Location:** Classroom / Lab / Outdoors · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: observation, guide, indicators_
 
@@ -4357,7 +4357,7 @@ An observation guide means watching fewer things but seeing them better: limitin
 
 _Template for indicating current achievement, necessary improvement and next step._
 
-**Type:** Feedback · **Phase:** Proceso · **Participation:** Docente/Iguales/Alumno · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Feedback · **Phase:** Process · **Participation:** Teacher/Peers/Student · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: feedback, feedforward, improvement_
 
@@ -4385,7 +4385,7 @@ Feedback/feedforward template from the Social Studies teacher on an oral present
 Student: Mireia C. &nbsp;|&nbsp; Presentation: The River Civilisations of Mesopotamia &nbsp;|&nbsp; Date: 17/01
 The feedforward column is the most valuable: it shifts attention from "what went wrong" to "what to do next time", making the feedback genuinely actionable.
 
-**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
+**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
 
 ---
 
@@ -4394,7 +4394,7 @@ The feedforward column is the most valuable: it shifts attention from "what went
 
 _Agreement on roles, commitments and operating norms of a team._
 
-**Type:** Monitoring · **Phase:** Inicial/Proceso · **Participation:** Docente/Grupo · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Media
+**Type:** Monitoring · **Phase:** Initial/Process · **Participation:** Teacher/Group · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Media
 
 _Keywords: group, contract, cooperative_
 
@@ -4431,7 +4431,7 @@ Agreed norms: Reply to group messages within 24 h · If someone cannot complete 
 Signatures: Mireia T. · Omar B. · Júlia K. · Kevin L. &nbsp;|&nbsp; Date: 05/04 &nbsp;|&nbsp; Reviewed at milestone 2: 21/04
 The contract is not just a formality: reviewing it at each milestone turns the initial agreements into a real tool for regulating the cooperative process.
 
-**Active techniques using this:** Project-Based Learning (PjBL), CO-OP CO-OP, The Sack of Doubts, Flipped Classroom, Service-Learning
+**Active techniques using this:** Project-Based Learning (PjBL), CO-OP CO-OP, The Sack of Doubts, Flipped Aula, Service-Learning
 
 ---
 
@@ -4440,7 +4440,7 @@ The contract is not just a formality: reviewing it at each milestone turns the i
 
 _Representation of relationships, choices or dynamics within the group._
 
-**Type:** Qualitative record · **Phase:** Inicial/Proceso · **Participation:** Docente · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Gran grupo · **AI resistance:** Media
+**Type:** Qualitative record · **Phase:** Initial/Process · **Participation:** Teacher · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Large group · **AI resistance:** Media
 
 _Keywords: sociogram, coexistence, group_
 
@@ -4465,7 +4465,7 @@ It is an assessment tool of the social context of learning rather than of academ
 
 _Table linking criteria to tasks, evidence and assessment instruments._
 
-**Type:** Assessment support · **Phase:** Diseño/Proceso/Final · **Participation:** Docente · **Complexity:** Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Assessment support · **Phase:** Design/Process/Final · **Participation:** Teacher · **Complexity:** High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: criteria, evidence, traceability_
 
@@ -4505,7 +4505,7 @@ The evidence map is built during planning, not at the end: completing it in adva
 
 _Template for declaring support, sources, AI tools and personal decisions in a task._
 
-**Type:** Trazabilidad/autoría · **Phase:** Proceso/Final · **Participation:** Alumno/Docente · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Type:** Trazabilidad/autoría · **Phase:** Process/Final · **Participation:** Student/Teacher · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: ai, authorship, sources, declaration, traceability_
 
@@ -4548,7 +4548,7 @@ The declaration does not penalise AI use: it distinguishes legitimate uses (unde
 
 _A matrix crossing the content to be assessed with cognitive levels and distributing the weight of each item, to design balanced, valid tests before writing them._
 
-**Type:** Assessment planning · **Phase:** Diseño · **Participation:** Docente · **Complexity:** Media/Alta · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Assessment planning · **Phase:** Design · **Participation:** Teacher · **Complexity:** Medium/High · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: table of specifications, test design, validity, cognitive levels_
 
@@ -4586,7 +4586,7 @@ The test blueprint is written before drafting the items: it ensures the exam rep
 
 _A rubric that describes only the target level (the expected performance) for each criterion, leaving space to note where work falls short and where it exceeds it. It simplifies design and prioritises feedback._
 
-**Type:** Qualitative assessment · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Type:** Qualitative assessment · **Phase:** Process/Final · **Participation:** Teacher/Student/Peers · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: rubric, single-point, feedback, qualitative_
 
@@ -4622,7 +4622,7 @@ The single-point rubric forces specific feedback: the teacher cannot just mark a
 
 _A structured feedback protocol in four rungs —clarify, value, ask questions and suggest— that orders comments so they are respectful, specific and useful, especially among peers._
 
-**Type:** Feedback · **Phase:** Proceso · **Participation:** Docente/Iguales/Alumno · **Complexity:** Baja/Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Grupo pequeño · **AI resistance:** Alta
+**Type:** Feedback · **Phase:** Process · **Participation:** Teacher/Peers/Student · **Complexity:** Low/Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Small group · **AI resistance:** Alta
 
 _Keywords: feedback, ladder of feedback, peer assessment, Project Zero_
 
@@ -4658,7 +4658,7 @@ The ladder ensures the teacher understands the work before assessing it, acknowl
 
 _A guide listing the key steps and criteria for correctly carrying out a task or procedure, which learners use to self-regulate while working and later to self-assess._
 
-**Type:** Assessment support · **Phase:** Diseño/Proceso · **Participation:** Docente/Alumno · **Complexity:** Media · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Alta
+**Type:** Assessment support · **Phase:** Design/Process · **Participation:** Teacher/Student · **Complexity:** Medium · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Alta
 
 _Keywords: base of orientation, assessment as learning, self-regulation, scaffolding_
 
@@ -4702,7 +4702,7 @@ The guide lets them know exactly where they are in the process.
 
 _Students' assessment of their own learning._
 
-**Category:** Agente evaluador · **Phase:** Inicial/Proceso/Final · **Participation:** Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Baja
+**Category:** Agente evaluador · **Phase:** Initial/Process/Final · **Participation:** Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Baja
 
 _Keywords: self-assessment, metacognition_
 
@@ -4729,7 +4729,7 @@ Its main value is metacognitive: it requires students to reflect on what they kn
 
 _Assessment of peers' performance or product using shared criteria._
 
-**Category:** Agente evaluador · **Phase:** Proceso/Final · **Participation:** Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Parejas / Grupo pequeño · **AI resistance:** Media
+**Category:** Agente evaluador · **Phase:** Process/Final · **Participation:** Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Pairs / Small group · **AI resistance:** Media
 
 _Keywords: peer assessment, peers_
 
@@ -4756,7 +4756,7 @@ Its main function is formative: peer comments, combined with clear criteria, hel
 
 _Assessment carried out by the teacher or another external agent._
 
-**Category:** Agente evaluador · **Phase:** Inicial/Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Media
+**Category:** Agente evaluador · **Phase:** Initial/Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Media
 
 _Keywords: teacher assessment_
 
@@ -4774,7 +4774,7 @@ It should not be the only form of assessment: combining it with self-assessment 
 
 **Pedagogic function:** Assess learning using professional or institutional criteria.
 
-**Active techniques using this:** Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Design Thinking, Assessment Target, Learning Journal, Digital Storytelling, 5E Instructional Model, Jigsaw, The Sack of Doubts, Listener Teams, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Role Play, Round Table, Group Investigation, Minute Paper, Muddiest Point, Peer Instruction, Portfolio (learning dossier), Service-Learning, Distribute Points, Socratic Seminar, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Exit Ticket, One for All, World Café, Understanding by Design (UbD), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, Peer Tutoring, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Philosophy for Children (P4C), Academic debate
+**Active techniques using this:** Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, Discovery Learning, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Design Thinking, Assessment Target, Learning Journal, Digital Storytelling, 5E Instructional Model, Jigsaw, The Sack of Doubts, Listener Teams, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Role Play, Round Table, Group Investigation, Minute Paper, Muddiest Point, Peer Instruction, Portfolio (learning dossier), Service-Learning, Distribute Points, Socratic Seminar, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Exit Ticket, One for All, World Café, Understanding by Design (UbD), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, Peer Tutoring, Centers of Interest (Decroly Approach), Co-teaching, Gamification, Assessment Rubric, Dialogic Gathering, Argument-Driven Inquiry (ADI), Peer Review, Two Stars and a Wish, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Philosophy for Children (P4C), Academic debate
 
 ---
 
@@ -4783,7 +4783,7 @@ It should not be the only form of assessment: combining it with self-assessment 
 
 _Gathering information about the starting point._
 
-**Category:** Finalidad y momento · **Phase:** Inicial · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Alta
+**Category:** Finalidad y momento · **Phase:** Initial · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Alta
 
 _Keywords: diagnostic, initial_
 
@@ -4801,7 +4801,7 @@ A good diagnostic assessment allows the teacher to start from where students act
 
 **Pedagogic function:** Detect prior knowledge, interests and needs.
 
-**Active techniques using this:** 1 - 2 - 4, Action-Based Learning (ABL), Research-Based Learning (RBL), Question-Based Learning (QBL), Chain of Questions, Structured Academic Controversy, Roundtable, 5E Instructional Model, Listener Teams, Flipped Classroom, KWL (I know, I want to know, I have learned), Compass Points, What I know and what we know, Numbered Heads Together, Detective Pairs, Discussion Pairs, I Used to Think... Now I Think, Think, Puzzle, Explore, 3-2-1 Bridge, Quiz-Quiz-Trade, Appointment Clock, Think-Pair-Share, One for All, See-Think-Wonder, Predict, Observe, Explain (POE), Concept Cartoon, Retrieval practice, Spaced practice, Connect, extend, challenge, Generate, sort, connect, elaborate, Question Formulation Technique (QFT), Elaborative interrogation, Hinge questions, All-student response, Question Starts
+**Active techniques using this:** 1 - 2 - 4, Action-Based Learning (ABL), Research-Based Learning (RBL), Question-Based Learning (QBL), Chain of Questions, Structured Academic Controversy, Roundtable, 5E Instructional Model, Listener Teams, Flipped Aula, KWL (I know, I want to know, I have learned), Compass Points, What I know and what we know, Numbered Heads Together, Detective Parejas, Discussion Parejas, I Used to Think... Now I Think, Think, Puzzle, Explore, 3-2-1 Bridge, Quiz-Quiz-Trade, Appointment Clock, Think-Pair-Share, One for All, See-Think-Wonder, Predict, Observe, Explain (POE), Concept Cartoon, Retrieval practice, Spaced practice, Connect, extend, challenge, Generate, sort, connect, elaborate, Question Formulation Technique (QFT), Elaborative interrogation, Hinge questions, All-student response, Question Starts
 
 ---
 
@@ -4810,7 +4810,7 @@ A good diagnostic assessment allows the teacher to start from where students act
 
 _Assessment during the process to improve learning._
 
-**Category:** Finalidad y uso · **Phase:** Proceso · **Participation:** Docente/Alumno/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Media
+**Category:** Finalidad y uso · **Phase:** Process · **Participation:** Teacher/Student/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Media
 
 _Keywords: formative, feedback_
 
@@ -4828,7 +4828,7 @@ Formative assessment requires time and planning, but it is what has the greatest
 
 **Pedagogic function:** Regulate teaching and learning through feedback.
 
-**Active techniques using this:** Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Dual coding, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary, Elaborative interrogation, Concrete examples, Self-explanation, Hinge questions, All-student response, Cold calling, Wait time, Philosophy for Children (P4C), Step Inside, The Explanation Game, Chalk Talk, Question Starts, Fan-N-Pick, Showdown, Stand Up–Hand Up–Pair Up, Three-Step Interview, Personalised learning playlists, Mind map, Fishbone diagram (Ishikawa), Timeline, Venn diagram, Scaffolding and zone of proximal development (ZPD), Constructive alignment, ICAP framework, Community of Inquiry
+**Active techniques using this:** Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Dual coding, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary, Elaborative interrogation, Concrete examples, Self-explanation, Hinge questions, All-student response, Cold calling, Wait time, Philosophy for Children (P4C), Step Inside, The Explanation Game, Chalk Talk, Question Starts, Fan-N-Pick, Showdown, Stand Up–Hand Up–Pair Up, Three-Step Interview, Personalised learning playlists, Mind map, Fishbone diagram (Ishikawa), Timeline, Venn diagram, Scaffolding and zone of proximal development (ZPD), Constructive alignment, ICAP framework, Community of Inquiry
 
 ---
 
@@ -4837,7 +4837,7 @@ Formative assessment requires time and planning, but it is what has the greatest
 
 _Assessment of the degree of achievement at the end of a process._
 
-**Category:** Finalidad y uso · **Phase:** Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Category:** Finalidad y uso · **Phase:** Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: summative, grading_
 
@@ -4855,7 +4855,7 @@ When combined with formative assessment throughout the process, the final grade 
 
 **Pedagogic function:** Grade, accredit or summarise learning achieved.
 
-**Active techniques using this:** Getting to Know Each Other, The Sack of Doubts, Round Table, Detective Pairs, Discussion Pairs, Distribute Points, Think-Pair-Share, Exit Ticket, One for All, See-Think-Wonder, World Café, Two-Column Method, Peer Review, Retrieval practice
+**Active techniques using this:** Getting to Know Each Other, The Sack of Doubts, Round Table, Detective Parejas, Discussion Parejas, Distribute Points, Think-Pair-Share, Exit Ticket, One for All, See-Think-Wonder, World Café, Two-Column Method, Peer Review, Retrieval practice
 
 ---
 
@@ -4864,7 +4864,7 @@ When combined with formative assessment throughout the process, the final grade 
 
 _Assessment of the integrated mobilisation of knowledge in meaningful contexts._
 
-**Category:** Enfoque curricular · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Exterior · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Category:** Enfoque curricular · **Phase:** Process/Final · **Participation:** Teacher/Student/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online / Outdoors · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: competency-based, transfer_
 
@@ -4891,7 +4891,7 @@ Competency-based assessment involves assessing several areas of knowledge and co
 
 _Assessment of how students perform in a complex or practical task._
 
-**Category:** Tipo de evidencia · **Phase:** Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Laboratorio / Exterior · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Category:** Tipo de evidencia · **Phase:** Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online / Lab / Outdoors · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: performance_
 
@@ -4909,7 +4909,7 @@ It is especially useful in experimental sciences, physical education, the arts, 
 
 **Pedagogic function:** Assess action, decision-making and application.
 
-**Active techniques using this:** Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, CO-OP CO-OP, Structured Academic Controversy, Design Thinking, Jigsaw, Listener Teams, Fishbowl (Aquarium), Gallery Walk, Role Play, Round Table, Group Investigation, Peer Instruction, Service-Learning, RallyRobin, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), World Café, Centers of Interest (Decroly Approach), Dialogic Gathering, Argument-Driven Inquiry (ADI), Structured Controversy with Evidence, Think-aloud, Maker learning / STEAM, Mind map, ICAP framework
+**Active techniques using this:** Case-Based Learning (CBL), Game-Based Learning (GBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Experiential Learning, CO-OP CO-OP, Structured Academic Controversy, Design Thinking, Jigsaw, Listener Teams, Fishbowl (Aquarium), Gallery Walk, Role Play, Round Table, Group Investigation, Peer Instruction, Service-Learning, RallyRobin, Role on the Wall (Character Silhouette), RoundRobin, Socratic Seminar, Talking Chips, Teams-Games-Tournament (TGT), World Café, Centers of Interest (Decroly Approach), Dialogic Gathering, Argument-Driven Inquiry (ADI), Structured Controversy with Evidence, Think-aloud, Maker learning / STEAM, Mind map, ICAP framework
 
 ---
 
@@ -4918,7 +4918,7 @@ It is especially useful in experimental sciences, physical education, the arts, 
 
 _Assessment of the process and product of a project._
 
-**Category:** Contexto metodológico · **Phase:** Proceso/Final · **Participation:** Docente/Iguales/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Exterior · **Grouping:** Grupo pequeño / Gran grupo · **AI resistance:** Media
+**Category:** Contexto metodológico · **Phase:** Process/Final · **Participation:** Teacher/Peers/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online / Outdoors · **Grouping:** Small group / Large group · **AI resistance:** Media
 
 _Keywords: project_
 
@@ -4936,7 +4936,7 @@ It allows multiple competencies and criteria to be assessed in an integrated way
 
 **Pedagogic function:** Assess planning, research, creation and communication.
 
-**Active techniques using this:** Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Learning Contract, Digital Storytelling, Cooperative Graffiti, Group Investigation, Service-Learning, The 4Cs of Learning, Nominal Group Technique, Cooperative Roles, Peer Review, Habits of mind, Maker learning / STEAM, Genius Hour
+**Active techniques using this:** Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Learning Contract, Digital Storytelling, Cooperative Graffiti, Group Investigation, Service-Learning, The 4Cs of Learning, Nominal Group Technique, Cooperative Roles, Peer Review, Habits of mind, Maker learning / STEAM, Genius Hour
 
 ---
 
@@ -4945,7 +4945,7 @@ It allows multiple competencies and criteria to be assessed in an integrated way
 
 _Assessment of processes of questioning, searching, hypothesising, data collection and conclusions._
 
-**Category:** Contexto metodológico · **Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Laboratorio / Exterior · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Category:** Contexto metodológico · **Phase:** Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online / Lab / Outdoors · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: inquiry, research_
 
@@ -4963,7 +4963,7 @@ It is especially suitable in natural sciences, social sciences and research proj
 
 **Pedagogic function:** Assess scientific thinking, research and analysis.
 
-**Active techniques using this:** Inquiry-Based Learning, Research-Based Learning (RBL), Laboratory-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, CO-OP CO-OP, Learning Contract, 5E Instructional Model, Generate Hypotheses, Group Investigation, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, See-Think-Wonder, TPACK, Universal Design for Learning (UDL), Centers of Interest (Decroly Approach), Argument-Driven Inquiry (ADI), Concept Cartoon, Claim, Support, Question, Connect, extend, challenge, Tug of war, Question Formulation Technique (QFT), Habits of mind, WebQuest
+**Active techniques using this:** Inquiry-Based Learning, Research-Based Learning (RBL), Laboratorio-Based Learning, Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, CO-OP CO-OP, Learning Contract, 5E Instructional Model, Generate Hypotheses, Group Investigation, Think, Puzzle, Explore, Portfolio (learning dossier), Ask Why, See-Think-Wonder, TPACK, Universal Design for Learning (UDL), Centers of Interest (Decroly Approach), Argument-Driven Inquiry (ADI), Concept Cartoon, Claim, Support, Question, Connect, extend, challenge, Tug of war, Question Formulation Technique (QFT), Habits of mind, WebQuest
 
 ---
 
@@ -4972,7 +4972,7 @@ It is especially suitable in natural sciences, social sciences and research proj
 
 _Assessment of interpretation, planning, solving and justification._
 
-**Category:** Contexto metodológico · **Phase:** Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Category:** Contexto metodológico · **Phase:** Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: problems, reasoning_
 
@@ -4990,7 +4990,7 @@ Suitable for mathematics, physics, chemistry, technology, economics and any area
 
 **Pedagogic function:** Assess reasoning and transfer.
 
-**Active techniques using this:** 1 - 2 - 4, Apply Knowledge, Case-Based Learning (CBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratory-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Circle of Viewpoints, Structured Academic Controversy, Design Thinking, Detect Patterns, Learning Journal, Word Game, 5E Instructional Model, The Sack of Doubts, Team-Pair-Solo, Fishbowl (Aquarium), Flipped Classroom, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, Round Table, Pencils in the Middle, 5 Whys, Group Investigation, Problem Matrix, Numbered Heads Together, Detective Pairs, Placemat consensus, Service-Learning, Appointment Clock, Review the Consequences, Socratic Seminar, Problem Situation, Teams-Games-Tournament (TGT), Think-Pair-Share, Headlines, One for All, Visual Thinking, Depth of Knowledge (DOK), SOLO Taxonomy, Authentic Assessment, Nominal Group Technique, Two-Column Method, Peer Tutoring, NASA Game, Centers of Interest (Decroly Approach), Gamification, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Two Stars and a Wish, Concept Cartoon, Claim, Support, Question, Argument Map, Interleaved practice, Worked examples, Gradual release of responsibility, Habits of mind, Cognitive load theory, Computational thinking, Fishbone diagram (Ishikawa)
+**Active techniques using this:** 1 - 2 - 4, Apply Knowledge, Case-Based Learning (CBL), Inquiry-Based Learning, Action-Based Learning (ABL), Research-Based Learning (RBL), Laboratorio-Based Learning, Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Discovery Learning, Circle of Viewpoints, Structured Academic Controversy, Design Thinking, Detect Patterns, Learning Journal, Word Game, 5E Instructional Model, The Sack of Doubts, Team-Pair-Solo, Fishbowl (Aquarium), Flipped Aula, Generate Hypotheses, Generate Solutions, Cooperative Graffiti, Exchange difficulties, Role Play, Round Table, Pencils in the Middle, 5 Whys, Group Investigation, Problem Matrix, Numbered Heads Together, Detective Parejas, Placemat consensus, Service-Learning, Appointment Clock, Review the Consequences, Socratic Seminar, Problem Situation, Teams-Games-Tournament (TGT), Think-Pair-Share, Headlines, One for All, Visual Thinking, Depth of Knowledge (DOK), SOLO Taxonomy, Authentic Assessment, Nominal Group Technique, Two-Column Method, Peer Tutoring, NASA Game, Centers of Interest (Decroly Approach), Gamification, Assessment Rubric, Dialogic Gathering, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Two Stars and a Wish, Concept Cartoon, Claim, Support, Question, Argument Map, Interleaved practice, Worked examples, Gradual release of responsibility, Habits of mind, Cognitive load theory, Computational thinking, Fishbone diagram (Ishikawa)
 
 ---
 
@@ -4999,7 +4999,7 @@ Suitable for mathematics, physics, chemistry, technology, economics and any area
 
 _Analysis of a real or simulated situation for diagnosis or decision-making._
 
-**Category:** Contexto metodológico · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Category:** Contexto metodológico · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: case, application_
 
@@ -5026,7 +5026,7 @@ Especially useful in social sciences, health, law, economics, history and any ar
 
 _Recreation of a real or plausible situation._
 
-**Category:** Contexto metodológico · **Phase:** Proceso/Final · **Participation:** Docente/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Laboratorio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Category:** Contexto metodológico · **Phase:** Process/Final · **Participation:** Teacher/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online / Lab · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: simulation_
 
@@ -5053,7 +5053,7 @@ Suitable for assessing communication, decision-making, conflict resolution, acti
 
 _Gathering evidence in digital environments or products._
 
-**Category:** Soporte de evidencias · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Modality:** Online · **Location:** Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Baja
+**Category:** Soporte de evidencias · **Phase:** Process/Final · **Participation:** Teacher/Student/Peers · **Modality:** Online · **Location:** Online · **Grouping:** Individual / Small group · **AI resistance:** Baja
 
 _Keywords: digital_
 
@@ -5071,7 +5071,7 @@ Digital evidence allows digital competency to be assessed authentically and prov
 
 **Pedagogic function:** Assess digital competency, production and online participation.
 
-**Active techniques using this:** Game-Based Learning (GBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Digital Storytelling, Flipped Classroom, Portfolio (learning dossier), Service-Learning, TPACK, SAMR Model, Gamification, WebQuest, Computational thinking, Community of Inquiry
+**Active techniques using this:** Game-Based Learning (GBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Digital Storytelling, Flipped Aula, Portfolio (learning dossier), Service-Learning, TPACK, SAMR Model, Gamification, WebQuest, Computational thinking, Community of Inquiry
 
 ---
 
@@ -5080,7 +5080,7 @@ Digital evidence allows digital competency to be assessed authentically and prov
 
 _Assessment of learning in relation to explicit criteria, not by comparison between students._
 
-**Category:** Enfoque curricular · **Phase:** Diseño/Proceso/Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Category:** Enfoque curricular · **Phase:** Design/Process/Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: criteria-based, criteria, indicators, alignment_
 
@@ -5105,7 +5105,7 @@ It is especially important in competency-based approaches, because it allows the
 
 _Design of assessment that is accessible, flexible and adjusted to student diversity._
 
-**Category:** Enfoque curricular · **Phase:** Diseño/Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Category:** Enfoque curricular · **Phase:** Design/Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: inclusion, udl, accessibility, diversity_
 
@@ -5121,7 +5121,7 @@ Its purpose is to increase the validity of assessment: so that the result reflec
 
 **Pedagogic function:** Reduce barriers and offer different ways of demonstrating learning.
 
-**Active techniques using this:** 1 - 2 - 4, Analyze and Synthesize, Case-Based Learning (CBL), Action-Based Learning (ABL), Experiential Learning, Circle of Viewpoints, CO-OP CO-OP, Learning Journal, Jigsaw, Traffic Light, Team-Pair-Solo, Learning Stations, Flipped Classroom, Generate Hypotheses, Generate Solutions, Dual coding, What I know and what we know, Four Wise Students, Four-Part Concept Map, Numbered Heads Together, Word-Phrase-Sentence, Peer Instruction, Placemat consensus, Portfolio (learning dossier), Ask Why, Ask and Answer, RallyRobin, Distribute Points, RoundRobin, Problem Situation, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Think-Pair-Share, See-Think-Wonder, Universal Design for Learning (UDL), Nominal Group Technique, Two-Column Method, Peer Tutoring, Team Assisted Individualization (TAI), NASA Game, Co-teaching, Gamification, Cooperative Roles, Worked examples, Gradual release of responsibility, Think-aloud, Cognitive load theory, Personalised learning playlists, Scaffolding and zone of proximal development (ZPD)
+**Active techniques using this:** 1 - 2 - 4, Analyze and Synthesize, Case-Based Learning (CBL), Action-Based Learning (ABL), Experiential Learning, Circle of Viewpoints, CO-OP CO-OP, Learning Journal, Jigsaw, Traffic Light, Team-Pair-Solo, Learning Stations, Flipped Aula, Generate Hypotheses, Generate Solutions, Dual coding, What I know and what we know, Four Wise Students, Four-Part Concept Map, Numbered Heads Together, Word-Phrase-Sentence, Peer Instruction, Placemat consensus, Portfolio (learning dossier), Ask Why, Ask and Answer, RallyRobin, Distribute Points, RoundRobin, Problem Situation, STAD (Student Teams Achievement Divisions), Teams-Games-Tournament (TGT), Think-Pair-Share, See-Think-Wonder, Universal Design for Learning (UDL), Nominal Group Technique, Two-Column Method, Peer Tutoring, Team Assisted Individualization (TAI), NASA Game, Co-teaching, Gamification, Cooperative Roles, Worked examples, Gradual release of responsibility, Think-aloud, Cognitive load theory, Personalised learning playlists, Scaffolding and zone of proximal development (ZPD)
 
 ---
 
@@ -5130,7 +5130,7 @@ Its purpose is to increase the validity of assessment: so that the result reflec
 
 _Gathering and interpreting evidence throughout the learning process._
 
-**Category:** Finalidad y momento · **Phase:** Inicial/Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Media
+**Category:** Finalidad y momento · **Phase:** Initial/Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Media
 
 _Keywords: continuous, progress, monitoring_
 
@@ -5146,7 +5146,7 @@ Well used, it allows assessment to be part of learning and not just a check at t
 
 **Pedagogic function:** Track progress, detect needs and adjust teaching in a sustained way.
 
-**Active techniques using this:** Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary, Personalised learning playlists
+**Active techniques using this:** Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary, Personalised learning playlists
 
 ---
 
@@ -5155,7 +5155,7 @@ Well used, it allows assessment to be part of learning and not just a check at t
 
 _Information to understand current performance and guide the next improvement._
 
-**Category:** Finalidad y uso · **Phase:** Proceso · **Participation:** Docente/Alumno/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Category:** Finalidad y uso · **Phase:** Process · **Participation:** Teacher/Student/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: feedback, feedforward, improvement_
 
@@ -5171,7 +5171,7 @@ It has more impact when it arrives during the process, focuses on specific crite
 
 **Pedagogic function:** Turn assessment into concrete improvement action.
 
-**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Classroom, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Pairs, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
+**Active techniques using this:** Analyze and Synthesize, Game-Based Learning (GBL), Question-Based Learning (QBL), Problem-Based Learning (PBL), Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Chain of Questions, CO-OP CO-OP, Compare and Contrast, Learning Contract, Structured Academic Controversy, Timed Pair Share, Design Thinking, Assessment Target, Learning Journal, Roundtable, 5E Instructional Model, The Sack of Doubts, Traffic Light, Listener Teams, Metacognition Ladder, Learning Stations, Fishbowl (Aquarium), Flipped Aula, Gallery Walk, Generate Hypotheses, Exchange difficulties, Role Play, KWL (I know, I want to know, I have learned), Compass Points, Pencils in the Middle, Ghost Reading, 5 Whys, Minute Paper, Muddiest Point, Numbered Heads Together, Word-Phrase-Sentence, Three-Minute Pause, Detective Parejas, Peer Instruction, Portfolio (learning dossier), Ask and Answer, Service-Learning, Quiz-Quiz-Trade, RallyRobin, Distribute Points, RoundRobin, STAD (Student Teams Achievement Divisions), Exit Ticket, One for All, Understanding by Design (UbD), Depth of Knowledge (DOK), SOLO Taxonomy, Bloom's Taxonomy, Authentic Assessment, Visible Learning, SAMR Model, Universal Design for Learning (UDL), Peer Tutoring, Team Assisted Individualization (TAI), Co-teaching, Gamification, Assessment Rubric, Cooperative Roles, Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Toulmin's Argumentation Model, Peer Review, Two Stars and a Wish, Argument Map, Structured Controversy with Evidence, Retrieval practice, Spaced practice, Mastery learning, Orientation guides, +1, Cornell notes, One-sentence summary
 
 ---
 
@@ -5180,7 +5180,7 @@ It has more impact when it arrives during the process, focuses on specific crite
 
 _Justified transformation of evidence into a grade, promotion or certification decision._
 
-**Category:** Finalidad y uso · **Phase:** Final · **Participation:** Docente/Equipo docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Category:** Finalidad y uso · **Phase:** Final · **Participation:** Teacher/Teaching team · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: grading, accreditation, mark, promotion_
 
@@ -5205,7 +5205,7 @@ It is a necessary function of the educational system, but must be distinguished 
 
 _Student participation in criteria, evidence, review and improvement decisions._
 
-**Category:** Agente evaluador · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Media
+**Category:** Agente evaluador · **Phase:** Process/Final · **Participation:** Teacher/Student/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Media
 
 _Keywords: shared, participatory, peer assessment, negotiation_
 
@@ -5230,7 +5230,7 @@ It is especially valuable because it makes the criteria visible and turns assess
 
 _Use of game mechanics to collect evidence of learning._
 
-**Category:** Contexto metodológico · **Phase:** Proceso/Final · **Participation:** Docente/Alumno/Iguales · **Modality:** Presencial / Online · **Location:** Classroom / Virtual · **Grouping:** Individual / Small group / Whole class · **AI resistance:** Media
+**Category:** Contexto metodológico · **Phase:** Process/Final · **Participation:** Teacher/Student/Peers · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group / Large group · **AI resistance:** Media
 
 _Keywords: gamification, game-based, escape room, challenge, badges_
 
@@ -5257,7 +5257,7 @@ It is especially suitable for formative assessment, consolidation and diagnostic
 
 _Documentation of the process, sources, external support and AI use behind a piece of evidence._
 
-**Category:** Soporte de evidencias · **Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual / Domicilio · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Alta
+**Category:** Soporte de evidencias · **Phase:** Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online / Home · **Grouping:** Individual / Small group · **AI resistance:** Alta
 
 _Keywords: ai, authorship, traceability, sources, process_
 
@@ -5282,7 +5282,7 @@ It is especially useful in research tasks, projects, collaborative documents, po
 
 _Assessment that compares learners with themselves: it measures progress relative to their own starting point, not relative to the group norm nor only to a fixed criterion._
 
-**Category:** Enfoque curricular · **Phase:** Proceso/Final · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual · **AI resistance:** Media
+**Category:** Enfoque curricular · **Phase:** Process/Final · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual · **AI resistance:** Media
 
 _Keywords: ipsative, individual progress, motivation, self-regulation_
 
@@ -5307,7 +5307,7 @@ Its value is motivational and metacognitive: it recognises each student’s effo
 
 _Assessment that interprets each student’s performance by comparing it with the group (the norm): it places the person relative to their peers’ standing._
 
-**Category:** Enfoque curricular · **Phase:** Final · **Participation:** Docente · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Gran grupo · **AI resistance:** Media
+**Category:** Enfoque curricular · **Phase:** Final · **Participation:** Teacher · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Large group · **AI resistance:** Media
 
 _Keywords: norm-referenced, norm, scoring norms, comparison_
 
@@ -5332,7 +5332,7 @@ It is included in the catalogue as a conceptual reference, but with caution: for
 
 _Assessment that measures learning potential by observing how learners improve when given help during the assessment itself, rather than measuring only what they do unaided._
 
-**Category:** Contexto metodológico · **Phase:** Proceso · **Participation:** Docente/Alumno · **Modality:** Presencial / Online · **Location:** Aula / Virtual · **Grouping:** Individual / Grupo pequeño · **AI resistance:** Media
+**Category:** Contexto metodológico · **Phase:** Process · **Participation:** Teacher/Student · **Modality:** Presencial / Online · **Location:** Classroom / Online · **Grouping:** Individual / Small group · **AI resistance:** Media
 
 _Keywords: dynamic, learning potential, mediation, Vygotsky, ZPD_
 

@@ -2538,6 +2538,44 @@ _Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 - *Dimensiones:* Evidencia de desempeño, Heteroevaluación, Evaluación inclusiva y DUA
 
+**Plantilla descargable:**
+
+El Jigsaw tiene dos fases. En la **fase de expertos**, cada alumno estudia en profundidad su subtema con los otros expertos del mismo tema. En la **fase de grupos base**, vuelve a su grupo original y enseña su subtema a los demás. Usa estas dos fichas: una para la fase de expertos y otra para la puesta en común.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Asignatura |  | Tema global |  |
+
+#### FASE 1 — Grupo de expertos
+
+|  |  |
+| --- | --- |
+| Mi subtema asignado |  |
+
+|  |  |
+| --- | --- |
+| Ideas principales del subtema (las que sí o sí debo enseñar a mi grupo) |  |
+| Ejemplo o caso concreto que usaré para explicarlo |  |
+| Término o concepto difícil que debo aclarar antes de explicar |  |
+| Pregunta que haré a mi grupo para comprobar que lo han entendido |  |
+
+#### FASE 2 — Grupo base (escucho a mis compañeros)
+
+| Compañero/a | Subtema | Idea clave que he aprendido |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+#### Síntesis final
+
+|  |  |
+| --- | --- |
+| ¿Cómo se relacionan los subtemas entre sí? ¿Qué conexión global ves ahora? |  |
+
+**Clave pedagógica:** el Jigsaw funciona bien cuando el subtema de cada experto es genuinamente necesario para entender el todo. Si los subtemas son independientes o si el docente los explica de todas formas después, la responsabilidad de enseñar pierde sentido. La preparación en el grupo de expertos es crítica: un experto que no domina su subtema transmite su confusión. Tiempo suficiente en la fase de expertos es inversión, no pérdida.
+
 ---
 
 
@@ -3781,6 +3819,28 @@ En biología, antes de explicar la selección natural, el profesor pregunta: **�
 - *Instrumentos:* Rúbrica de trabajo cooperativo
 
 - *Dimensiones:* Finalidad diagnóstica, Evaluación inclusiva y DUA, Resolución de problemas, Finalidad sumativa
+
+**Plantilla descargable:**
+
+Rutina en tres fases. **Primero piensas en solitario**, sin comentar con nadie. Luego **contrastas con tu pareja** y construís una respuesta conjunta. Finalmente, la pareja **comparte** con el grupo clase. Respetar los tiempos de cada fase es imprescindible: no pasar a la siguiente sin completar la anterior.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Pregunta o problema |  | | |
+
+|  |  |  |
+| --- | --- | --- |
+| 1. PIENSO  Individualmente. Sin comentar todavía. | 2. EN PAREJA  Contrasto con mi pareja. Construimos juntos. | 3. COMPARTIMOS  Lo que la pareja comunica al grupo clase. |
+
+#### Reflexión
+
+|  |  |
+| --- | --- |
+| ¿En qué cambió tu respuesta individual al contrastarla con la de tu pareja? |  |
+| ¿Qué argumento de tu pareja te resultó más convincente? |  |
+
+**Clave pedagógica:** el valor de la técnica está en respetar la secuencia y los tiempos: si se salta la fase individual, los alumnos más rápidos o seguros dominan la conversación desde el inicio. Incluso 60 segundos de reflexión en solitario obliga a todos a comprometerse con la pregunta antes de escuchar a otros. La pregunta debe tener suficiente apertura para que dos personas puedan llegar a respuestas distintas.
 
 ---
 
@@ -5274,6 +5334,39 @@ En una unidad sobre sostenibilidad, cada mesa aborda una pregunta: consumo de ag
 
 - *Dimensiones:* Estudio de casos, Evidencia de desempeño, Heteroevaluación, Finalidad sumativa
 
+**Plantilla descargable:**
+
+En el World Café, los participantes rotan por mesas donde se discute una pregunta diferente. Cada mesa tiene un *anfitrión* que permanece y resume lo dicho a los recién llegados. Usa esta plantilla: el anfitrión para su mesa; los visitantes para registrar lo que aportan y aprenden en cada ronda.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Tema global |  | Mi rol | ☐ Anfitrión/a   ☐ Visitante |
+
+#### Mi mesa (si soy anfitrión/a)
+
+|  |  |
+| --- | --- |
+| Pregunta de mi mesa |  |
+| Ideas clave que han surgido (acumular por rondas) |  |
+
+#### Registro de visitas (si soy visitante)
+
+| Ronda | Pregunta de la mesa | Lo que he aportado / Lo que me llevo |
+| --- | --- | --- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+
+#### Cosecha final — todos
+
+|  |  |
+| --- | --- |
+| ¿Qué idea o patrón ha aparecido en varias mesas? |  |
+| ¿Cuál es la idea más sorprendente o que más cambia tu forma de ver el tema? |  |
+
+**Clave pedagógica:** el World Café funciona bien cuando las preguntas de cada mesa son genuinamente diferentes y complementarias, no variaciones de la misma pregunta. El anfitrión es la pieza clave: debe saber sintetizar lo dicho por los grupos anteriores sin repetirlo palabra por palabra. La «cosecha» final —poner en común los patrones que emergen de todas las mesas— es el momento más formativo y el más frecuentemente omitido por falta de tiempo.
+
 ---
 
 
@@ -5932,6 +6025,41 @@ Al terminar, el docente presenta lo que ocurrió realmente y el grupo reflexiona
 
 - *Dimensiones:* Estudio de casos, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Evaluación gamificada, Heteroevaluación, Resolución de problemas, Simulación
 
+**Plantilla descargable:**
+
+Ficha de personaje para el juego de rol. Antes de comenzar, define bien quién eres y qué quieres. **Durante el rol, habla y actúa como ese personaje**, no como tú mismo. Al salir del rol, reflexiona sobre lo que has aprendido desde esa perspectiva.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Situación / Escenario |  | | |
+
+#### Mi personaje
+
+|  |  |
+| --- | --- |
+| Nombre / Rol / Perfil |  |
+| ¿Qué posición defiende en esta situación? |  |
+| ¿Qué intereses o motivaciones tiene? (qué quiere conseguir o evitar) |  |
+| ¿Qué información o argumentos usará? |  |
+| ¿Cuál es su principal limitación o punto débil? |  |
+
+#### Preparación de la intervención
+
+|  |  |
+| --- | --- |
+| ¿Qué dirá este personaje en la primera intervención? |  |
+| ¿Cómo puede responder si le contradicen? |  |
+
+#### Reflexión posterior (fuera del rol)
+
+|  |  |
+| --- | --- |
+| ¿Qué has entendido de esta perspectiva que no veías antes de hacer el rol? |  |
+| ¿Estás de acuerdo con la posición que has defendido? ¿Por qué sí o no? |  |
+
+**Clave pedagógica:** el juego de rol fracasa cuando los alumnos actúan como ellos mismos con un nombre distinto. La preparación de la ficha —especialmente intereses, motivaciones y punto débil— es lo que permite que el rol sea genuino. La reflexión posterior fuera del rol es imprescindible: sin ella, el ejercicio es teatro, no aprendizaje. Defender una postura con la que no se está de acuerdo desarrolla empatía epistémica y pensamiento crítico.
+
 ---
 
 
@@ -6488,6 +6616,34 @@ Tras estudiar la Segunda República, el alumnado dedica 3 minutos a escribir una
 - *Instrumentos:* Ficha de retroalimentación, Plantilla de feedback/feedforward
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
+
+**Plantilla descargable:**
+
+Técnica de síntesis que obliga a capturar la idea esencial de lo estudiado en **una sola frase completa**. La restricción no es arbitraria: obliga a discriminar lo esencial de lo secundario y a expresarlo con precisión. Completa el borrador antes de escribir la frase final.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Tema / Texto / Clase |  | | |
+
+#### Borrador — antes de escribir la frase
+
+|  |  |
+| --- | --- |
+| ¿De qué trata? (sujeto o tema central) |  |
+| ¿Qué dice, hace o explica sobre eso? (proceso, relación o conclusión principal) |  |
+| ¿Para qué, por qué o con qué consecuencia? |  |
+
+#### Mi resumen en una frase
+
+#### Revisión
+
+|  |  |
+| --- | --- |
+| ¿La frase funciona si alguien que no ha dado la clase la lee? ¿Qué falta o sobra? |  |
+| Versión mejorada (si es necesario) |  |
+
+**Clave pedagógica:** el borrador previo no es opcional: sin él, el alumnado suele escribir la primera oración que recuerda del tema, no una síntesis. La prueba de comprensión real es si alguien externo puede entender la idea esencial leyendo solo la frase. Comparar frases entre compañeros antes de ver cuáles son correctas revela qué ha priorizado cada uno y abre una discusión sobre qué es realmente esencial.
 
 ---
 
@@ -7199,6 +7355,23 @@ _Fuente: Pérez, M. (2015). Dinámicas cooperativas._
 
 - *Dimensiones:* Evaluación continua, Retroalimentación y feedforward, Finalidad formativa
 
+**Plantilla descargable:**
+
+Pausa estructurada a mitad o al final de una explicación. Cada alumno responde las tres preguntas en solitario. Después se ponen en común y el docente ajusta la explicación según las dudas detectadas. No tiene que durar exactamente tres minutos: lo importante es la pausa y la reflexión honesta.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Asignatura / Tema |  | | |
+
+|  |  |  |
+| --- | --- | --- |
+| 1 | ¿Qué he entendido?  Escribe la idea o ideas principales que tienes claras después de la explicación. |  |
+| 2 | ¿Qué no entiendo o me genera duda?  Señala el concepto, paso o idea que no tienes claro. Si no hay dudas, escribe «por ahora ninguna» y el por qué. |  |
+| 3 | ¿Qué pregunta me hago?  Formula una pregunta concreta que te gustaría que se respondiera para seguir. |  |
+
+**Clave pedagógica:** la pregunta 2 y la 3 son las más valiosas: distinguen entre «no sé que no sé» (confusión difusa) y «sé qué no sé» (duda concreta y formulable). Recoger las respuestas antes de continuar convierte la parada en evaluación formativa real: el docente ajusta el ritmo y el enfoque en tiempo real, no después del examen. La clave es que el alumnado responda con honestidad, no con lo que cree que debe poner.
+
 ---
 
 
@@ -7241,6 +7414,34 @@ En matemáticas, el profesor plantea una pregunta sobre probabilidad condicionad
 
 - *Dimensiones:* Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA
 
+**Plantilla descargable:**
+
+Rutina de respuesta individual, discusión y nueva respuesta. El docente lanza una pregunta conceptual con opciones. **Primero cada alumno responde solo**, sin consultar. Luego **discute con un compañero** hasta convencerse mutuamente o llegar a un acuerdo. Finalmente, responde de nuevo. La comparación de las dos respuestas es el corazón del aprendizaje.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Asignatura / Tema |  | | |
+
+#### Pregunta
+
+|  |
+| --- |
+|  |
+
+|  |  |
+| --- | --- |
+| RESPUESTA INICIAL (antes de discutir)  Mi opción: **☐ A   ☐ B   ☐ C   ☐ D**  Mi razonamiento: | RESPUESTA FINAL (después de discutir)  Mi opción: **☐ A   ☐ B   ☐ C   ☐ D**  Qué argumento de mi compañero/a me ha convencido (o por qué mantengo mi respuesta): |
+
+#### Después de la corrección
+
+|  |  |
+| --- | --- |
+| ¿Por qué era incorrecta la opción que elegí? (si cambió la respuesta) |  |
+| ¿Qué concepto necesito repasar o aclarar? |  |
+
+**Clave pedagógica:** el mecanismo de aprendizaje de la Peer Instruction no es que el alumno correcto convenza al incorrecto: es que quien tiene que *explicar* su razonamiento lo consolida, y quien escucha una explicación de alguien que acaba de entenderlo (en lenguaje cercano, con los mismos errores recientes) lo comprende mejor que oyendo al docente. La pregunta debe tener una distribución de respuestas heterogénea (ni todos aciertan ni nadie acierta) para que la discusión sea productiva.
+
 ---
 
 
@@ -7282,6 +7483,41 @@ _Adaptado de: Liarte, R. (2015). El portfolio como herramienta de evaluación._
 - *Instrumentos:* Diana de evaluación, Escala de autoevaluación, Ficha de retroalimentación, Lista de cotejo de autoevaluación, Plantilla de feedback/feedforward, Rúbrica de autoevaluación, Rúbrica de punto único
 
 - *Dimensiones:* Autoevaluación, Calificación y acreditación, Evaluación compartida y participativa, Evaluación continua, Evidencias digitales, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Indagación, Evaluación ipsativa
+
+**Plantilla descargable:**
+
+Ficha de reflexión para cada pieza incluida en el portfolio. El valor del portfolio no está en las obras que contiene, sino en la reflexión que las acompaña: por qué se elige esa pieza, qué demuestra y qué haría diferente. Completa esta ficha para cada trabajo que selecciones.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Asignatura / Módulo |  | Período |  |
+
+#### Identificación de la pieza
+
+|  |  |
+| --- | --- |
+| Título o descripción del trabajo |  |
+| Tipo de trabajo (texto, proyecto, ejercicio, grabación…) |  |
+| Fecha de realización |  |
+
+#### Reflexión
+
+|  |  |
+| --- | --- |
+| ¿Por qué he elegido esta pieza para el portfolio?  No vale «porque me salió bien». ¿Qué muestra que otra pieza no mostraría? |  |
+| ¿Qué demuestra sobre mi aprendizaje?  ¿Qué competencia, habilidad o comprensión evidencia? |  |
+| ¿Qué fue lo más difícil de este trabajo y cómo lo resolví? |  |
+| Si lo volviera a hacer, ¿qué cambiaría y por qué? |  |
+| Nivel de satisfacción con el resultado  1 (bajo) – 2 – 3 – 4 – 5 (alto)  ·  Encierra el número. | 1   2   3   4   5 |
+
+#### Conexión con los objetivos del curso
+
+|  |  |
+| --- | --- |
+| ¿Qué objetivo o competencia del curso demuestra esta pieza? |  |
+
+**Clave pedagógica:** la ficha de reflexión es más importante que la pieza en sí. Un portfolio sin reflexión es una carpeta de trabajos; con reflexión, es un instrumento de metacognición. La pregunta «¿qué cambiarías?» es especialmente poderosa porque exige que el alumno evalúe su propio trabajo con criterio, no con sentimiento. Revisar cómo evolucionan estas reflexiones a lo largo del curso es la mejor forma de ver el crecimiento del alumno.
 
 ---
 
@@ -7710,6 +7946,35 @@ El profesor recoge las dudas más frecuentes y dedica los primeros minutos de la
 
 - *Dimensiones:* Evaluación continua, Finalidad diagnóstica, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Finalidad sumativa
 
+**Plantilla descargable:**
+
+Práctica de recuperación en dos pasos. **Primero: vuelca todo lo que recuerdas** sin mirar apuntes ni libro (fase de recuperación). **Segundo: comprueba y corrige** con tus materiales (fase de verificación). La dificultad de recordar sin ayuda es el mecanismo que consolida el aprendizaje; saltársela elimina el beneficio.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Asignatura / Tema |  | | |
+
+#### FASE 1 — Volcado libre (sin apuntes · sin libro · sin internet)
+
+*Escribe todo lo que recuerdas del tema: conceptos, definiciones, relaciones, ejemplos, fórmulas, fechas… Sin orden, sin filtro. Tienes 5–10 minutos.*
+
+#### FASE 2 — Comprobación y corrección (ahora sí puedes consultar)
+
+|  |  |
+| --- | --- |
+| ¿Qué tenías correcto o incompleto?  Márcalo en el volcado o escríbelo aquí. |  |
+| ¿Qué habías olvidado completamente?  Lo que no aparece en el volcado es lo que más necesitas repasar. |  |
+| ¿Qué tenías mal? ¿Por qué crees que fue así? |  |
+
+#### Plan de repaso
+
+|  |  |
+| --- | --- |
+| ¿Qué necesitas repasar antes de la próxima sesión? |  |
+
+**Clave pedagógica:** la práctica de recuperación es más eficaz que releer los apuntes porque el esfuerzo de recordar activa y fortalece las conexiones neuronales. El error en la fase de volcado no es un problema: es información útil. Lo que el alumno no recuerda sin ayuda es exactamente lo que más necesita practicar, no lo que ya domina. Espaciar estas prácticas en el tiempo (hoy, en dos días, en una semana) multiplica el efecto.
+
 ---
 
 
@@ -7869,6 +8134,38 @@ Tras explicar el área del triángulo, el docente proyecta: «¿Cuál es el áre
 - *Instrumentos:* Semáforo de evaluación
 
 - *Dimensiones:* Finalidad diagnóstica, Finalidad formativa
+
+**Plantilla descargable:**
+
+Tarjeta de pregunta bisagra para el docente. La pregunta bisagra es una pregunta de opción múltiple cuidadosamente diseñada para revelar si el alumnado ha comprendido un concepto clave **antes de continuar**. Cada distractor incorrecto corresponde a un error o confusión específica, no a una respuesta aleatoria.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Docente |  | Fecha |  |
+| Asignatura / Tema |  | Momento de uso |  |
+
+#### La pregunta
+
+|  |
+| --- |
+|  |
+
+#### Opciones y diagnóstico
+
+| Opción | Enunciado | ¿Correcta? | Qué revela si el alumno la elige |
+| --- | --- | --- | --- |
+| A |  | ☐ Sí   ☐ No |  |
+| B |  | ☐ Sí   ☐ No |  |
+| C |  | ☐ Sí   ☐ No |  |
+| D |  | ☐ Sí   ☐ No |  |
+
+#### Plan de acción por resultado
+
+| Si la mayoría elige la respuesta correcta… | Si una opción incorrecta concentra muchas respuestas… |
+| --- | --- |
+| Continúo con el siguiente punto. |  |
+
+**Clave pedagógica:** una pregunta bisagra de calidad tiene distractores que reflejan errores conceptuales reales, no errores aleatorios o de cálculo. El diseño de los distractores es la parte más exigente: cada uno debe corresponder a una confusión específica que el docente anticipa. Si todos aciertan, la pregunta era demasiado fácil; si nadie acierta, el concepto no se ha enseñado todavía. La bisagra bien diseñada actúa como un diagnóstico instantáneo que informa la siguiente decisión de enseñanza.
 
 ---
 
@@ -8144,6 +8441,25 @@ _Fuente: De Haro, J.J. (2022). Eines per l'avaluació del diari d'aprenentatge i
 
 - *Dimensiones:* Autoevaluación, Evaluación continua, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Evaluación inclusiva y DUA, Evaluación ipsativa, Resolución de problemas
 
+**Plantilla descargable:**
+
+Registro personal de aprendizaje que el alumno completa al final de cada sesión o actividad. No es un resumen de lo que explicó el docente: es una reflexión sobre lo que **el alumno** ha procesado, dudado y conectado. Cuanto más honesta y específica, más útil.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Asignatura / Tema |  | Sesión |  |
+
+|  |  |
+| --- | --- |
+| ¿Qué he aprendido hoy?  Escribe 1–3 ideas concretas. No «he estudiado el tema X», sino qué entiendes que antes no entendías. |  |
+| ¿Qué me ha costado más o sigue sin quedarme claro?  Sé específico: qué concepto, proceso o relación te genera duda. |  |
+| ¿Con qué lo conecto?  Algo que ya sabías, otra asignatura, una experiencia propia o algo del mundo real. |  |
+| ¿Qué quiero saber más o qué pregunta me queda abierta? |  |
+| ¿Cómo he participado / trabajado hoy?  ¿Has estado activo, distraído, motivado? ¿Qué ha influido en ello? |  |
+
+**Clave pedagógica:** el diario pierde valor si se convierte en un resumen de lo explicado en clase. La pregunta clave es la segunda (qué no queda claro): es la más difícil de responder honestamente y la más útil para el docente. Revisar los diarios periódicamente —no para calificarlos, sino para ajustar la enseñanza— convierte el instrumento en un bucle de retroalimentación real. Si el tiempo es escaso, priorizar las preguntas 1 y 2.
+
 ---
 
 
@@ -8181,6 +8497,40 @@ En filosofía o biología, el grupo analiza un texto sobre bioética. Los alumno
 - *Técnicas de evaluación:* Análisis documental, Intercambios orales, Análisis de procesos y reflexiones, Análisis de producciones, Sondeo y cuestionamiento
 
 - *Dimensiones:* Estudio de casos, Evidencia de desempeño, Heteroevaluación, Resolución de problemas
+
+**Plantilla descargable:**
+
+El seminario socrático tiene dos partes: **preparación** (individual, antes de la sesión) y **participación** (durante). El círculo interior discute; el exterior observa y toma notas. Luego rotan. La calidad del seminario depende directamente de la calidad de la preparación previa.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Texto / Obra / Problema |  | | |
+
+#### PARTE 1 — Preparación previa (antes del seminario)
+
+|  |  |
+| --- | --- |
+| 3 ideas clave del texto que quiero debatir |  |
+| 1 pregunta que plantearé al grupo (que no tiene respuesta fácil) |  |
+| Pasaje, dato o evidencia del texto que apoya mi interpretación |  |
+| Una postura con la que podría no estar de acuerdo — y por qué |  |
+
+#### PARTE 2 — Durante el seminario
+
+|  |  |
+| --- | --- |
+| ¿Qué he aportado a la discusión? (argumentos, preguntas, evidencias citadas) |  |
+| Idea de otro participante que me ha hecho pensar o cambiar mi punto de vista |  |
+
+#### Reflexión posterior
+
+|  |  |
+| --- | --- |
+| ¿Qué ha cambiado en tu interpretación del texto o problema después del seminario? |  |
+| ¿Qué pregunta te queda sin respuesta? |  |
+
+**Clave pedagógica:** el seminario socrático fracasa cuando los alumnos no han leído el texto o no lo han procesado suficientemente. La sección de preparación no es deberes extra: es la condición necesaria para que la discusión sea de calidad. El docente no lidera ni responde: hace preguntas, redirige y mantiene el hilo. La riqueza del seminario depende de la diversidad de interpretaciones, no de que haya una correcta.
 
 ---
 
@@ -8539,6 +8889,35 @@ En ciencias sociales, el grupo central debate si una ciudad debería limitar el 
 
 - *Dimensiones:* Estudio de casos, Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación, Resolución de problemas
 
+**Plantilla descargable:**
+
+En el Fishbowl, el **círculo interior** discute mientras el **círculo exterior observa** en silencio. Esta plantilla tiene dos partes: una para el observador (exterior) y una reflexión final para todos. El observador no interrumpe: su tarea es analizar la calidad del debate, no participar en él.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Tema / Pregunta central |  | Mi rol | ☐ Interior   ☐ Exterior |
+
+#### Guía de observación — círculo exterior
+
+*Observa sin interrumpir. Toma notas durante el debate.*
+
+|  |  |
+| --- | --- |
+| ¿Qué argumentos han aparecido en el debate?  Anota los más relevantes, aunque no estés de acuerdo. |  |
+| ¿Qué argumento te parece más sólido? ¿Por qué? |  |
+| ¿Qué aspecto importante no se ha mencionado? |  |
+| ¿Cómo valorarías la calidad del debate? (escucha, respeto, uso de evidencias…) |  |
+
+#### Reflexión final — todos
+
+|  |  |
+| --- | --- |
+| ¿Qué has aprendido o qué ha cambiado en tu postura tras el debate? |  |
+| ¿Qué pregunta te queda sin resolver? |  |
+
+**Clave pedagógica:** el círculo exterior no es castigo ni espera pasiva: es la posición que entrena la escucha activa y el análisis del discurso. La guía de observación convierte al observador en un evaluador del debate. Si no hay rotación, el exterior pierde interés. La pregunta «¿qué no se ha mencionado?» es la más generadora: fuerza al observador a ir más allá de lo dicho y aportarlo en la puesta en común.
+
 ---
 
 
@@ -8579,6 +8958,35 @@ Los pósteres se colocan en las paredes del aula. Los grupos rotan por la clase 
 - *Instrumentos:* Ficha de coevaluación, Ficha de retroalimentación, Lista de cotejo o control, Plantilla de feedback/feedforward, Rúbrica de coevaluación
 
 - *Dimensiones:* Coevaluación, Evaluación compartida y participativa, Evaluación continua, Evidencia de desempeño, Retroalimentación y feedforward, Finalidad formativa, Heteroevaluación
+
+**Plantilla descargable:**
+
+Los equipos rotan por diferentes estaciones (carteles, textos, problemas, imágenes) dejando sus anotaciones en cada parada. **Lee lo que hay en la estación, añade tus ideas y responde a lo que dejaron los anteriores**. Al final se ponen en común los patrones y conclusiones de cada estación.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a / Equipo |  | Fecha |  |
+| Asignatura / Tema |  | | |
+
+#### Registro por estaciones
+
+| Estación | ¿Qué hay? / ¿Qué pregunta plantea? | Mis anotaciones, respuesta o aportación |
+| --- | --- | --- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
+
+#### Síntesis final
+
+|  |  |
+| --- | --- |
+| ¿Qué patrón o idea aparece en varias estaciones? |  |
+| ¿Qué estación te ha generado más preguntas o sorpresa? |  |
+| ¿Qué conexión ves entre lo de distintas estaciones? |  |
+
+**Clave pedagógica:** el Gallery Walk pierde valor si los alumnos simplemente copian o leen sin anotar. La instrucción clave es que en cada estación deben *añadir* algo que no estaba: una conexión, una pregunta, un ejemplo, un matiz. Si el material de las estaciones es demasiado uniforme (todos preguntas factuales), la galería se convierte en un test ambulante. Lo más rico son estaciones con material ambiguo, contradictorio o que admite múltiples interpretaciones.
 
 ---
 
@@ -8769,6 +9177,46 @@ En una clase de secundaria, la moción es «la inteligencia artificial debería 
 - *Instrumentos:* Escala de valoración, Rúbrica oral
 
 - *Dimensiones:* Enfoque competencial, Evaluación compartida y participativa, Heteroevaluación
+
+**Plantilla descargable:**
+
+Plantilla de preparación para el debate académico. Antes del debate, completa las dos columnas: los argumentos a favor y en contra de la tesis, independientemente de tu postura personal. Un buen debater conoce los argumentos del lado contrario mejor que los propios.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Alumno/a |  | Fecha |  |
+| Tesis o moción |  | | |
+| Mi postura asignada | ☐ A favor   ☐ En contra | Compañero/a de equipo |  |
+
+#### Argumentos a favor de la tesis
+
+| Argumento | Evidencia o ejemplo que lo sustenta |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+#### Argumentos en contra de la tesis
+
+| Argumento | Evidencia o ejemplo que lo sustenta |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+#### Preparación de la refutación
+
+|  |  |
+| --- | --- |
+| ¿Cuál es el argumento más fuerte del lado contrario? ¿Cómo lo refutarás? |  |
+
+#### Reflexión posterior
+
+|  |  |
+| --- | --- |
+| ¿Ha cambiado tu postura personal tras el debate? ¿Qué argumento del otro lado te ha parecido más sólido? |  |
+
+**Clave pedagógica:** el debate académico es formativo cuando obliga a los alumnos a defender una postura independientemente de sus creencias previas. Preparar los argumentos del lado contrario no es trampa: es la forma más efectiva de entender la cuestión en su complejidad. La reflexión posterior es esencial: el objetivo del debate no es ganar, sino comprender mejor por qué la cuestión es genuinamente difícil y qué peso tienen los distintos argumentos.
 
 ---
 

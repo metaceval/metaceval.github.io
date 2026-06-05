@@ -682,7 +682,7 @@ In a biology lesson, the teacher shows two plants of the same species: one with 
 
 Students generate hypotheses such as lack of light, overwatering, mineral deficiency or the presence of disease. Then each group decides what data they would need to test its hypothesis: growing conditions, amount of water, soil type, light exposure or presence of insects. Finally, they compare the available evidence and review which hypothesis seems most plausible.
 
-**Related techniques:** What makes you say that?, Inquiry-Based Learning, Detective Pairs, See-Think-Wonder, Predict, Observe, Explain (POE), Concept Cartoon
+**Related techniques:** What makes you say that?, Inquiry-Based Learning, Detective Parejas, See-Think-Wonder, Predict, Observe, Explain (POE), Concept Cartoon
 
 **How to assess:**
 
@@ -2621,6 +2621,44 @@ _Source: Pérez, M. (2015). Cooperative Dynamics._
 
 - *Dimensions:* Performance evidence, Teacher assessment, Inclusive assessment and UDL
 
+**Downloadable template:**
+
+Jigsaw has two phases. In the **expert phase**, each student studies their subtopic in depth with other experts on the same topic. In the **home group phase**, they return to their original group and teach their subtopic to the others. Use these two sections: one for the expert phase and one for the sharing phase.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Subject |  | Overall topic |  |
+
+#### PHASE 1 — Expert group
+
+|  |  |
+| --- | --- |
+| My assigned subtopic |  |
+
+|  |  |
+| --- | --- |
+| Main ideas of my subtopic (the ones I must teach my group) |  |
+| Example or concrete case I will use to explain it |  |
+| Difficult term or concept I must clarify before explaining |  |
+| Question I will ask my group to check their understanding |  |
+
+#### PHASE 2 — Home group (I listen to my classmates)
+
+| Classmate | Subtopic | Key idea I learned |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+#### Final synthesis
+
+|  |  |
+| --- | --- |
+| How do the subtopics relate to each other? What overall connection do you see now? |  |
+
+**Teaching note:** Jigsaw works well when each expert's subtopic is genuinely necessary to understand the whole. If the subtopics are independent, or if the teacher explains them all anyway afterwards, the responsibility to teach loses its meaning. Preparation in the expert group is critical: an expert who does not master their subtopic transmits their confusion. Enough time in the expert phase is an investment, not a loss.
+
 ---
 
 
@@ -2860,7 +2898,7 @@ _Keywords: tutoring, peer support, pairs, explanation, cooperation_
 A cooperative learning structure in pairs in which one student acts as a tutor for another. The tutor does not give the finished solution, but provides explanations, hints, and guidance so the partner can move forward in the process.
 
 #### How it Works
-1. Pairs are formed with defined roles: tutor and tutee.
+1. Parejas are formed with defined roles: tutor and tutee.
 2. The student tutor reviews the process followed by the partner.
 3. When needed, the tutor provides detailed explanations, questions, or graduated support.
 4. The tutee tries to solve the task independently with that support.
@@ -3290,7 +3328,7 @@ That third step is key: it forces attentive listening (because there is later ac
 
 When starting a project, the topic is “what would you like to research and why?”. In pairs, A interviews B and then B interviews A. Then, in the team of four, each presents their partner’s interest: “David is interested in climate change because…”. This way everyone practises active listening and synthesis, and the team learns all its members’ interests in order to decide the project.
 
-**Related techniques:** Interview, Discussion Pairs, Appointment Clock, Think-Pair-Share
+**Related techniques:** Interview, Discussion Parejas, Appointment Clock, Think-Pair-Share
 
 **How to assess:**
 
@@ -3314,7 +3352,7 @@ _A cooperative learning technique in which students first think individually, th
 
 _Keywords: activation of prior knowledge, cooperation, pairs, synthesis, problem solving_
 
-**TEAM SIZE:** Pairs and base teams.
+**TEAM SIZE:** Parejas and base teams.
 
 **OBJECTIVES:** Activate prior knowledge, solve problems, review.
 
@@ -3522,7 +3560,7 @@ Topic: **What do seeds need to germinate?**
 4. **Elaborate**: students apply what they have learned to a new situation: designing recommendations for germinating seeds in a school garden or explaining why some seeds stored at home do not germinate. They must justify their proposals using data from the experiment.
 5. **Evaluate**: students review their initial ideas, compare what they thought before with what they can now explain, complete a short self-assessment and submit an evidence-based conclusion. The teacher assesses the quality of the experimental design, the use of data and the final explanation.
 
-**Related techniques:** Inquiry-Based Learning, Laboratory-Based Learning, Discovery Learning, KWL (I know, I want to know, I have learned), Predict, Observe, Explain (POE)
+**Related techniques:** Inquiry-Based Learning, Laboratorio-Based Learning, Discovery Learning, KWL (I know, I want to know, I have learned), Predict, Observe, Explain (POE)
 
 **How to assess:**
 
@@ -3600,7 +3638,7 @@ _Source: Varas, M. & Zariquiey, F. (2011). Formal and informal techniques of coo
 ---
 
 
-### 6. Flipped Classroom `metac_043`
+### 6. Flipped Aula `metac_043`
 
 _This methodology involves covering theoretical explanations outside of class, while class time is dedicated to questions and activities. It fosters autonomy, allows for tailored instruction, and frees up in-person sessions for applying knowledge and solving problems._
 
@@ -3622,13 +3660,13 @@ Sometimes these questionnaires are reviewed before the in-person class to focus 
 
 Since the explanations are given outside of school hours, this time is now used for answering questions and completing assignments, things that were previously often done at home.
 
-#### Flipped Classroom Methodology
+#### Flipped Aula Methodology
 
 #### Graphic Model
 
 Author's own work
 
-#### Technological Model for *Flipped Classroom*
+#### Technological Model for *Flipped Aula*
 
 **Example:**
 
@@ -3636,7 +3674,7 @@ In a mathematics unit on linear functions, the teacher prepares a short 8-minute
 
 Before class, the teacher reviews the answers and notices that many students confuse slope with initial value. In class, the first few minutes are used to clarify this difficulty, and then students work on a practical activity: interpreting graphs of phone tariffs, journeys and electricity consumption. Face-to-face time is used to answer questions, compare strategies and apply the content to specific situations.
 
-_Source: Basso-Aránguiz et al. (2018). Proposal for a technological model for Flipped Classroom (T-FliC) in higher education._
+_Source: Basso-Aránguiz et al. (2018). Proposal for a technological model for Flipped Aula (T-FliC) in higher education._
 
 **Related techniques:** Learning Stations, Peer Instruction, Exit Ticket, WebQuest, Personalised learning playlists, Community of Inquiry
 
@@ -3745,7 +3783,7 @@ _Source: Pérez, M. (2015). Cooperative Dynamics._
 ---
 
 
-### 9. Discussion Pairs `metac_072`
+### 9. Discussion Parejas `metac_072`
 
 _This technique involves students answering questions in pairs during a session. It serves to activate prior knowledge, encourage dialogue, generate diverse responses, and promote participation before the group discussion._
 
@@ -3824,7 +3862,7 @@ In the next round, with the six o’clock appointment, they answer another quest
 
 **Resources:** [Appointment Clock](https://reloj-citas.github.io/)
 
-**Related techniques:** Interview, Discussion Pairs, Quiz-Quiz-Trade, Stand Up–Hand Up–Pair Up, Three-Step Interview
+**Related techniques:** Interview, Discussion Parejas, Quiz-Quiz-Trade, Stand Up–Hand Up–Pair Up, Three-Step Interview
 
 **How to assess:**
 
@@ -3895,7 +3933,7 @@ A brief cooperative learning technique that combines individual reflection, pair
 
 In biology, before explaining natural selection, the teacher asks: **Why do some bacteria become resistant to antibiotics?** Each student proposes an explanation, then compares it with their partner, and finally, several answers are gathered to begin the explanation.
 
-**Related techniques:** 1 - 2 - 4, Timed Pair Share, What I know and what we know, Detective Pairs, Discussion Pairs, Peer Instruction, Wait time, Stand Up–Hand Up–Pair Up, Three-Step Interview
+**Related techniques:** 1 - 2 - 4, Timed Pair Share, What I know and what we know, Detective Parejas, Discussion Parejas, Peer Instruction, Wait time, Stand Up–Hand Up–Pair Up, Three-Step Interview
 
 **How to assess:**
 
@@ -3904,6 +3942,28 @@ In biology, before explaining natural selection, the teacher asks: **Why do some
 - *Instruments:* Cooperative work rubric
 
 - *Dimensions:* Diagnostic purpose, Inclusive assessment and UDL, Problem solving, Summative purpose
+
+**Downloadable template:**
+
+A three-phase routine. **First you think alone**, without talking to anyone. Then you **compare with your partner** and build a joint response. Finally, the pair **shares** with the whole class. Respecting the timing of each phase is essential: do not move to the next phase without completing the previous one.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Question or problem |  | | |
+
+|  |  |  |
+| --- | --- | --- |
+| 1. THINK  Individually. No talking yet. | 2. PAIR  I compare with my partner. We build together. | 3. SHARE  What the pair communicates to the whole class. |
+
+#### Reflection
+
+|  |  |
+| --- | --- |
+| How did your individual response change after comparing with your partner? |  |
+| Which of your partner's arguments was most convincing to you? |  |
+
+**Teaching note:** the value of the technique lies in respecting the sequence and timing: if the individual phase is skipped, the quickest or most confident students dominate the conversation from the start. Even 60 seconds of solo thinking commits everyone to the question before hearing others. The question must be open enough for two people to reach different responses.
 
 ---
 
@@ -3928,7 +3988,7 @@ In mathematics, the teacher proposes four proportionality problems to be solved 
 
 At the end, the teacher randomly collects one notebook from each group. The correction of that exercise counts for the whole team. This encourages the group to review everyone’s work and not allow just one person to solve the task without the others understanding it.
 
-_Source: Educational Innovation Laboratory of the José Ramón Otero Cooperative. (2016). Cooperative learning._
+_Source: Educational Innovation Laboratorio of the José Ramón Otero Cooperative. (2016). Cooperative learning._
 
 **Related techniques:** Pencils in the Middle, Numbered Heads Together, STAD (Student Teams Achievement Divisions)
 
@@ -4612,7 +4672,7 @@ Its formative value lies in the design cycle: prototype, test, fail, adjust and 
 
 Faced with the challenge “design a device that warns when a plant needs water”, learners combine science (soil moisture), technology and coding (a sensor and a programmable board) and design (the casing). They build a first prototype that does not work well, adjust the code and sensor, and after several tests achieve a working alert, documenting each iteration in a project report.
 
-**Related techniques:** Laboratory-Based Learning, Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking
+**Related techniques:** Laboratorio-Based Learning, Project-Based Learning (PjBL), Challenge-Based Learning (ChBL), Design Thinking
 
 **How to assess:**
 
@@ -4751,7 +4811,7 @@ A methodology in which learning is organized around questions, observations, or 
 
 In biology, students investigate why some seeds germinate better than others. They design a small test with different light or humidity conditions, collect data, and justify their conclusions.
 
-**Related techniques:** Research-Based Learning (RBL), Laboratory-Based Learning, Discovery Learning, 5E Instructional Model, Generate Hypotheses, Detective Pairs, Think, Puzzle, Explore, Centers of Interest (Decroly Approach), Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Concept Cartoon, WebQuest
+**Related techniques:** Research-Based Learning (RBL), Laboratorio-Based Learning, Discovery Learning, 5E Instructional Model, Generate Hypotheses, Detective Parejas, Think, Puzzle, Explore, Centers of Interest (Decroly Approach), Claim, Evidence and Reasoning (CER), Argument-Driven Inquiry (ADI), Predict, Observe, Explain (POE), Concept Cartoon, WebQuest
 
 **How to assess:**
 
@@ -4948,7 +5008,7 @@ An example of experiential learning could be an activity in which biology studen
 
 After the visit, the students can reflect on their observations and experiences and discuss the concepts they have learned. This will allow them to connect theoretical concepts with real life and better understand how to apply them to real-life situations.
 
-**Related techniques:** Action-Based Learning (ABL), Laboratory-Based Learning, Discovery Learning, Centers of Interest (Decroly Approach)
+**Related techniques:** Action-Based Learning (ABL), Laboratorio-Based Learning, Discovery Learning, Centers of Interest (Decroly Approach)
 
 **How to assess:**
 
@@ -5000,7 +5060,7 @@ Sources:
 
 1. Once all the students have spoken, a brief summary of each pair's viewpoints is created.
 
-**Related techniques:** 1 - 2 - 4, Discussion Pairs, RallyRobin, Think-Pair-Share, Stand Up–Hand Up–Pair Up
+**Related techniques:** 1 - 2 - 4, Discussion Parejas, RallyRobin, Think-Pair-Share, Stand Up–Hand Up–Pair Up
 
 **How to assess:**
 
@@ -5025,7 +5085,7 @@ Digital storytelling involves combining narratives and digital content, includin
 
 The planning and development of multimedia projects in the form of a story (digital storytelling, DST) seeks to leverage new digital technologies to enhance this educational resource. Originally, DST focused primarily on narratives of personal experiences in video format, with voiceovers or interviews, lasting less than 5 minutes. Currently, digital storytelling can also integrate narrative and informational resources, typical of a more documentary-style genre.
 
-Digital stories can be created by teachers, but with appropriate guidance, students can also create them (for more details, see 8 Steps to Implement Storytelling in the Classroom).
+Digital stories can be created by teachers, but with appropriate guidance, students can also create them (for more details, see 8 Steps to Implement Storytelling in the Aula).
 
 **Example:**
 
@@ -5057,7 +5117,7 @@ _Organizing the classroom into stations with different tasks related to the same
 _Keywords: stations, rotation, autonomy, cooperation, formative assessment_
 
 #### Description
-Classroom organization into different stations or workspaces. At each station, students perform a different task related to the same content or competency. This allows for combining hands-on, digital, reading, guided practice, and assessment activities.
+Aula organization into different stations or workspaces. At each station, students perform a different task related to the same content or competency. This allows for combining hands-on, digital, reading, guided practice, and assessment activities.
 
 #### Operation
 1. The teacher designs several stations with clear tasks and defined timeframes.
@@ -5081,7 +5141,7 @@ Classroom organization into different stations or workspaces. At each station, s
 
 In biology, one station involves observing samples, another image analysis, another answering questions, and another creating a diagram. All groups rotate through all the stations.
 
-**Related techniques:** Flipped Classroom, Universal Design for Learning (UDL), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching, Personalised learning playlists
+**Related techniques:** Flipped Aula, Universal Design for Learning (UDL), Parallel Teams, Centers of Interest (Decroly Approach), Co-teaching, Personalised learning playlists
 
 **How to assess:**
 
@@ -5173,7 +5233,7 @@ _Source: Pujolàs, P. & Lago, J. R. (2011). The CA/AC program (“cooperate to l
 ---
 
 
-### 12. Detective Pairs `metac_071`
+### 12. Detective Parejas `metac_071`
 
 _This technique involves students formulating initial hypotheses in response to a complex question and then comparing them in pairs. It serves to spark curiosity, activate prior knowledge, and demonstrate that a problem can have multiple approaches._
 
@@ -5354,6 +5414,39 @@ In a unit on sustainability, each table addresses one question: water consumptio
 - *Instruments:* Cooperative work rubric
 
 - *Dimensions:* Case study, Performance evidence, Teacher assessment, Summative purpose
+
+**Downloadable template:**
+
+In World Café, participants rotate between tables where a different question is discussed. Each table has a *host* who stays and summarises what has been said to newcomers. Use this template: the host for their own table; visitors to record what they contribute and learn at each round.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Overall topic |  | My role | ☐ Host   ☐ Visitor |
+
+#### My table (if I am the host)
+
+|  |  |
+| --- | --- |
+| My table's question |  |
+| Key ideas that have emerged (accumulate across rounds) |  |
+
+#### Visit log (if I am a visitor)
+
+| Round | Table question | What I contributed / What I take away |
+| --- | --- | --- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+
+#### Final harvest — everyone
+
+|  |  |
+| --- | --- |
+| What idea or pattern appeared across several tables? |  |
+| What is the most surprising idea or the one that most changes your view of the topic? |  |
+
+**Teaching note:** World Café works well when each table's questions are genuinely different and complementary, not variations of the same question. The host is the key piece: they must synthesise what previous groups said without repeating it word for word. The final "harvest" — sharing patterns that emerge across all tables — is the most formative moment and the one most often skipped for lack of time.
 
 ---
 
@@ -5605,7 +5698,7 @@ Research-based learning (RBL) involves conducting or participating in research p
 
 It is, therefore, about applying the scientific method to investigate.
 
-Laboratory-based learning is a specific case of this type of learning.
+Laboratorio-based learning is a specific case of this type of learning.
 
 There are 5 possible objectives of RBL:
 
@@ -5615,7 +5708,7 @@ There are 5 possible objectives of RBL:
 1. Explain or predict
 1. Design or develop
 
-#### Classroom Implementation
+#### Aula Implementation
 
 1. **Identify problems or problematic situations that require research**. The students themselves are responsible for finding problems they want to solve or investigate, with the teacher acting as a facilitator and guide to help them achieve the expected results.
 
@@ -5685,7 +5778,7 @@ We can also use a simpler structure for the same problem:
 
 2. Results analysis and presentation to the class. Students analyze the collected data and draw conclusions about the effect of different types of fertilizers on plant growth. They then present their research findings to the class clearly and with scientific rigor.
 
-**Related techniques:** Inquiry-Based Learning, Laboratory-Based Learning, Group Investigation, Argument-Driven Inquiry (ADI), WebQuest
+**Related techniques:** Inquiry-Based Learning, Laboratorio-Based Learning, Group Investigation, Argument-Driven Inquiry (ADI), WebQuest
 
 **How to assess:**
 
@@ -5698,7 +5791,7 @@ We can also use a simpler structure for the same problem:
 ---
 
 
-### 2. Laboratory-Based Learning `metac_011`
+### 2. Laboratorio-Based Learning `metac_011`
 
 _A methodology in which students learn science through observation, manipulation, and experimental design. It helps them better understand scientific concepts, formulate hypotheses, collect data, analyze it, and communicate results in a reasoned manner._
 
@@ -5830,7 +5923,7 @@ _This methodology begins with an open-ended and meaningful problem that students
 
 _Keywords: problem-solving, research, autonomy, cooperation, presentation, reflection_
 
-**TEAM SIZE:** Small groups (typically 3 to 5 students).
+**TEAM SIZE:** Grupo pequeños (typically 3 to 5 students).
 
 **OBJECTIVES:**
 
@@ -6042,6 +6135,41 @@ At the end, the teacher presents what actually happened and the group reflects o
 - *Instruments:* Feedback card, Feedback/feedforward template, Cooperative work rubric
 
 - *Dimensions:* Case study, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Gamified assessment, Teacher assessment, Problem solving, Simulation
+
+**Downloadable template:**
+
+Character sheet for role play. Before starting, clearly define who you are and what you want. **During the role play, speak and act as that character**, not as yourself. After leaving the role, reflect on what you learned from that perspective.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Situation / Scenario |  | | |
+
+#### My character
+
+|  |  |
+| --- | --- |
+| Name / Role / Profile |  |
+| What position does this character defend in this situation? |  |
+| What interests or motivations do they have? (what they want to achieve or avoid) |  |
+| What information or arguments will they use? |  |
+| What is their main limitation or weak point? |  |
+
+#### Preparing the intervention
+
+|  |  |
+| --- | --- |
+| What will this character say in their first intervention? |  |
+| How might they respond if challenged? |  |
+
+#### After-role reflection (out of character)
+
+|  |  |
+| --- | --- |
+| What did you understand about this perspective that you did not see before doing the role play? |  |
+| Do you agree with the position you defended? Why or why not? |  |
+
+**Teaching note:** role play fails when students act as themselves with a different name. Filling in the sheet — especially interests, motivations and weak point — is what allows the role to be genuine. The out-of-character reflection afterwards is essential: without it, the exercise is theatre, not learning. Defending a position one disagrees with develops epistemic empathy and critical thinking.
 
 ---
 
@@ -6620,6 +6748,34 @@ After studying the Second Republic, students spend 3 minutes writing a sentence 
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
+**Downloadable template:**
+
+Synthesis technique that requires capturing the essential idea of what was studied in **a single complete sentence**. The constraint is not arbitrary: it forces students to distinguish the essential from the secondary and express it precisely. Complete the draft before writing the final sentence.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Topic / Text / Class |  | | |
+
+#### Draft — before writing the sentence
+
+|  |  |
+| --- | --- |
+| What is it about? (subject or central topic) |  |
+| What does it say, do or explain about that? (main process, relationship or conclusion) |  |
+| What for, why, or with what consequence? |  |
+
+#### My summary in one sentence
+
+#### Review
+
+|  |  |
+| --- | --- |
+| Would the sentence work for someone who was not in class? What is missing or unnecessary? |  |
+| Improved version (if needed) |  |
+
+**Teaching note:** the draft is not optional: without it, students tend to write the first sentence they remember about the topic, not a synthesis. The real test of understanding is whether someone outside the class can grasp the essential idea from the sentence alone. Comparing sentences between peers before checking which are correct reveals what each student prioritised and opens a discussion about what is truly essential.
+
 ---
 
 
@@ -6685,7 +6841,7 @@ Its hallmark is a fixed structure of sections that guides the whole process and 
 
 In a WebQuest on renewable energy, the task asks for a proposal to install a system at the school. Learners, in groups with roles (economist, engineer, ecologist), consult the provided web resources, compare technologies and costs, and prepare a presentation. The rubric, known from the start, assesses the rigour of the data, the argumentation and the quality of the product.
 
-**Related techniques:** Inquiry-Based Learning, Research-Based Learning (RBL), Project-Based Learning (PjBL), Flipped Classroom
+**Related techniques:** Inquiry-Based Learning, Research-Based Learning (RBL), Project-Based Learning (PjBL), Flipped Aula
 
 **How to assess:**
 
@@ -7357,6 +7513,23 @@ _Source: Pérez, M. (2015). Cooperative Dynamics._
 
 - *Dimensions:* Continuous assessment, Feedback and feedforward, Formative purpose
 
+**Downloadable template:**
+
+Structured pause midway through or at the end of an explanation. Each student answers the three questions individually. Responses are then shared and the teacher adjusts the explanation based on the confusions identified. It does not need to last exactly three minutes: what matters is the pause and honest reflection.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Subject / Topic |  | | |
+
+|  |  |  |
+| --- | --- | --- |
+| 1 | What have I understood?  Write the main idea or ideas that are clear to you after the explanation. |  |
+| 2 | What do I not understand or find confusing?  Identify the concept, step or idea that is unclear. If there are no doubts, write "none for now" and explain why. |  |
+| 3 | What question do I have?  Formulate a specific question you would like answered before moving on. |  |
+
+**Teaching note:** questions 2 and 3 are the most valuable: they distinguish between "I don't know what I don't know" (diffuse confusion) and "I know what I don't know" (a concrete, articulable doubt). Collecting responses before continuing turns the pause into genuine formative assessment: the teacher adjusts pace and focus in real time, not after the test. The key is that students respond honestly, not with what they think they should write.
+
 ---
 
 
@@ -7395,7 +7568,7 @@ In mathematics, the teacher poses a question about conditional probability with 
 
 **Resources:** [Simple voting](https://jjdeharo.github.io/directo/vota.html)
 
-**Related techniques:** Flipped Classroom, Exchange difficulties, Numbered Heads Together, Think-Pair-Share, Exit Ticket, Retrieval practice, Interleaved practice, Hinge questions, All-student response, ICAP framework
+**Related techniques:** Flipped Aula, Exchange difficulties, Numbered Heads Together, Think-Pair-Share, Exit Ticket, Retrieval practice, Interleaved practice, Hinge questions, All-student response, ICAP framework
 
 **How to assess:**
 
@@ -7404,6 +7577,34 @@ In mathematics, the teacher poses a question about conditional probability with 
 - *Instruments:* Feedback card, Feedback/feedforward template
 
 - *Dimensions:* Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL
+
+**Downloadable template:**
+
+Individual response, discussion and revised response routine. The teacher poses a conceptual multiple-choice question. **Each student answers alone first**, without consulting anyone. Then they **discuss with a partner** until they convince each other or reach agreement. Finally, they answer again. The comparison between the two responses is the heart of the learning.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Subject / Topic |  | | |
+
+#### Question
+
+|  |
+| --- |
+|  |
+
+|  |  |
+| --- | --- |
+| INITIAL ANSWER (before discussing)  My choice: **☐ A   ☐ B   ☐ C   ☐ D**  My reasoning: | FINAL ANSWER (after discussing)  My choice: **☐ A   ☐ B   ☐ C   ☐ D**  Which argument from my partner convinced me (or why I kept my answer): |
+
+#### After the debrief
+
+|  |  |
+| --- | --- |
+| Why was my chosen option incorrect? (if your answer changed) |  |
+| Which concept do I need to review or clarify? |  |
+
+**Teaching note:** the learning mechanism in Peer Instruction is not that the correct student convinces the incorrect one: it is that whoever must *explain* their reasoning consolidates it, and whoever listens to an explanation from someone who just understood it (in familiar language, with the same recent misconceptions) understands it better than hearing the teacher. The question must produce a spread of answers (not everyone right, not everyone wrong) for the discussion to be productive.
 
 ---
 
@@ -7447,6 +7648,41 @@ _Adapted from: Liarte, R. (2015). The portfolio as an assessment tool._
 - *Instruments:* Assessment target, Self-assessment scale, Feedback card, Self-assessment checklist, Feedback/feedforward template, Self-assessment rubric, Single-point rubric
 
 - *Dimensions:* Self-assessment, Grading and accreditation, Shared and participatory assessment, Continuous assessment, Digital evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Inquiry, Ipsative assessment
+
+**Downloadable template:**
+
+Reflection sheet for each piece included in the portfolio. The value of the portfolio lies not in the works it contains, but in the reflection that accompanies them: why a piece was chosen, what it demonstrates, and what would be done differently. Complete this sheet for each piece you select.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Subject / Module |  | Period |  |
+
+#### Piece identification
+
+|  |  |
+| --- | --- |
+| Title or description of the work |  |
+| Type of work (text, project, exercise, recording…) |  |
+| Date completed |  |
+
+#### Reflection
+
+|  |  |
+| --- | --- |
+| Why did I choose this piece for the portfolio?  "Because it went well" is not enough. What does it show that another piece would not? |  |
+| What does it demonstrate about my learning?  Which competency, skill or understanding does it evidence? |  |
+| What was the hardest part of this work and how did I resolve it? |  |
+| If I were to do it again, what would I change and why? |  |
+| Satisfaction level with the result  1 (low) – 2 – 3 – 4 – 5 (high)  ·  Circle the number. | 1   2   3   4   5 |
+
+#### Connection to course objectives
+
+|  |  |
+| --- | --- |
+| Which course objective or competency does this piece demonstrate? |  |
+
+**Teaching note:** the reflection sheet is more important than the piece itself. A portfolio without reflection is a folder of work; with reflection, it is a metacognitive instrument. The question "What would you change?" is especially powerful because it requires students to evaluate their own work with criteria, not with feeling. Tracking how these reflections evolve over the course is the best way to see student growth.
 
 ---
 
@@ -7624,7 +7860,7 @@ A student might answer: “I understood that factories changed the organization 
 
 **Resources:** [Exit tickets](https://jjdeharo.github.io/directo/ticket.html)
 
-**Related techniques:** Assessment Target, Traffic Light, Flipped Classroom, Minute Paper, Muddiest Point, Peer Instruction, Two Stars and a Wish, Retrieval practice, Hinge questions
+**Related techniques:** Assessment Target, Traffic Light, Flipped Aula, Minute Paper, Muddiest Point, Peer Instruction, Two Stars and a Wish, Retrieval practice, Hinge questions
 
 **How to assess:**
 
@@ -7884,6 +8120,35 @@ The teacher collects the most frequent doubts and uses the first minutes of the 
 
 - *Dimensions:* Continuous assessment, Diagnostic purpose, Feedback and feedforward, Formative purpose, Teacher assessment, Summative purpose
 
+**Downloadable template:**
+
+Retrieval practice in two steps. **First: dump everything you remember** without looking at notes or textbook (retrieval phase). **Second: check and correct** with your materials (verification phase). The difficulty of remembering without help is the mechanism that consolidates learning; skipping it eliminates the benefit.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Subject / Topic |  | | |
+
+#### PHASE 1 — Free recall (no notes · no book · no internet)
+
+*Write everything you remember about the topic: concepts, definitions, relationships, examples, formulas, dates… No order, no filter. You have 5–10 minutes.*
+
+#### PHASE 2 — Check and correct (now you may consult your materials)
+
+|  |  |
+| --- | --- |
+| What did you have correct or incomplete?  Mark it on the recall dump or write it here. |  |
+| What had you completely forgotten?  What does not appear in the dump is exactly what you most need to practise. |  |
+| What did you have wrong? Why do you think that was? |  |
+
+#### Review plan
+
+|  |  |
+| --- | --- |
+| What do you need to review before the next session? |  |
+
+**Teaching note:** retrieval practice is more effective than rereading notes because the effort of remembering activates and strengthens neural connections. Errors in the recall phase are not a problem: they are useful information. What a student cannot remember without help is exactly what they most need to practise, not what they already know. Spacing these practices over time (today, in two days, in a week) multiplies the effect.
+
 ---
 
 
@@ -8044,6 +8309,38 @@ After explaining the area of a triangle, the teacher projects: “What is the ar
 
 - *Dimensions:* Diagnostic purpose, Formative purpose
 
+**Downloadable template:**
+
+Hinge question card for the teacher. A hinge question is a carefully designed multiple-choice question that reveals whether students have understood a key concept **before moving on**. Each incorrect distractor corresponds to a specific error or misconception, not a random wrong answer.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Teacher |  | Date |  |
+| Subject / Topic |  | When to use |  |
+
+#### The question
+
+|  |
+| --- |
+|  |
+
+#### Options and diagnosis
+
+| Option | Statement | Correct? | What it reveals if the student chooses it |
+| --- | --- | --- | --- |
+| A |  | ☐ Yes   ☐ No |  |
+| B |  | ☐ Yes   ☐ No |  |
+| C |  | ☐ Yes   ☐ No |  |
+| D |  | ☐ Yes   ☐ No |  |
+
+#### Action plan by result
+
+| If most students choose the correct answer… | If an incorrect option concentrates many responses… |
+| --- | --- |
+| Move on to the next point. |  |
+
+**Teaching note:** a high-quality hinge question has distractors that reflect real conceptual errors, not random or computational mistakes. Designing the distractors is the hardest part: each must correspond to a specific misconception the teacher anticipates. If everyone answers correctly, the question was too easy; if no one does, the concept has not yet been taught. A well-designed hinge question acts as an instant diagnostic that informs the next teaching decision.
+
 ---
 
 
@@ -8182,7 +8479,7 @@ It is related to the flipped classroom and mastery learning: you move to the nex
 
 In a maths unit, each student receives a list with videos, self-correcting exercises and mini-challenges, plus mastery checks. While most practise independently, the teacher gathers the four students struggling with the same concept and re-explains it. Those who already master the basics move on to extension challenges. No one waits for the rest or falls behind without support.
 
-**Related techniques:** Learning Contract, Learning Stations, Flipped Classroom, Mastery learning
+**Related techniques:** Learning Contract, Learning Stations, Flipped Aula, Mastery learning
 
 **How to assess:**
 
@@ -8329,6 +8626,25 @@ _Source: De Haro, J.J. (2022). Eines per l'avaluació del diari d'aprenentatge i
 
 - *Dimensions:* Self-assessment, Continuous assessment, Feedback and feedforward, Formative purpose, Teacher assessment, Inclusive assessment and UDL, Ipsative assessment, Problem solving
 
+**Downloadable template:**
+
+Personal learning log that the student completes at the end of each session or activity. It is not a summary of what the teacher explained: it is a reflection on what **the student** has processed, questioned and connected. The more honest and specific, the more useful.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Subject / Topic |  | Session |  |
+
+|  |  |
+| --- | --- |
+| What have I learned today?  Write 1–3 specific ideas — not "I studied topic X", but what you understand now that you didn't before. |  |
+| What was hardest or is still unclear?  Be specific: which concept, process or relationship is still confusing. |  |
+| What does this connect to?  Something you already knew, another subject, a personal experience or something from the real world. |  |
+| What do I want to know more about, or what question am I left with? |  |
+| How did I participate / work today?  Were you active, distracted, motivated? What influenced this? |  |
+
+**Teaching note:** the diary loses value if it becomes a summary of what was explained in class. The key question is the second one (what is still unclear): it is the hardest to answer honestly and the most useful for the teacher. Reviewing diaries periodically — not to grade them, but to adjust teaching — turns the tool into a genuine feedback loop. If time is short, prioritise questions 1 and 2.
+
 ---
 
 
@@ -8372,6 +8688,40 @@ In philosophy or biology, the group analyzes a text on bioethics. Students prepa
 - *Evaluation techniques:* Documentary analysis, Oral exchanges, Analysis of processes and reflections, Analysis of productions, Probing and questioning
 
 - *Dimensions:* Case study, Performance evidence, Teacher assessment, Problem solving
+
+**Downloadable template:**
+
+The Socratic seminar has two parts: **preparation** (individual, before the session) and **participation** (during). The inner circle discusses; the outer circle observes and takes notes. Then they swap. The quality of the seminar depends directly on the quality of the prior preparation.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Text / Work / Problem |  | | |
+
+#### PART 1 — Prior preparation (before the seminar)
+
+|  |  |
+| --- | --- |
+| 3 key ideas from the text I want to discuss |  |
+| 1 question I will pose to the group (one with no easy answer) |  |
+| Passage, piece of data or evidence from the text that supports my interpretation |  |
+| A position I might disagree with — and why |  |
+
+#### PART 2 — During the seminar
+
+|  |  |
+| --- | --- |
+| What did I contribute to the discussion? (arguments, questions, cited evidence) |  |
+| An idea from another participant that made me think or change my view |  |
+
+#### After the seminar
+
+|  |  |
+| --- | --- |
+| What has changed in your interpretation of the text or problem after the seminar? |  |
+| What question are you left with? |  |
+
+**Teaching note:** the Socratic seminar fails when students have not read the text or have not processed it sufficiently. The preparation section is not extra homework: it is the necessary condition for a quality discussion. The teacher does not lead or answer: they ask questions, redirect and keep the thread. The richness of the seminar depends on the diversity of interpretations, not on there being a correct one.
 
 ---
 
@@ -8736,6 +9086,35 @@ In social sciences, the central group debates whether a city should limit privat
 
 - *Dimensions:* Case study, Peer assessment, Shared and participatory assessment, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment, Problem solving
 
+**Downloadable template:**
+
+In Fishbowl, the **inner circle** discusses while the **outer circle observes** in silence. This template has two parts: one for the observer (outer circle) and a final reflection for everyone. The observer does not interrupt: their task is to analyse the quality of the debate, not to participate in it.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Topic / Central question |  | My role | ☐ Inner   ☐ Outer |
+
+#### Observation guide — outer circle
+
+*Observe without interrupting. Take notes during the debate.*
+
+|  |  |
+| --- | --- |
+| What arguments have come up in the debate?  Note the most relevant ones, even if you disagree. |  |
+| Which argument do you find most convincing? Why? |  |
+| What important aspect has not been mentioned? |  |
+| How would you rate the quality of the debate? (listening, respect, use of evidence…) |  |
+
+#### Final reflection — everyone
+
+|  |  |
+| --- | --- |
+| What have you learned or how has your position changed after the debate? |  |
+| What question are you left with? |  |
+
+**Teaching note:** the outer circle is not a punishment or passive waiting: it is the position that trains active listening and discourse analysis. The observation guide turns the observer into a debate evaluator. If there is no rotation, the outer circle loses interest. The question "What has not been mentioned?" is the most generative: it forces the observer to go beyond what was said and contribute it during the debrief.
+
 ---
 
 
@@ -8779,6 +9158,35 @@ The posters are placed on the classroom walls. Groups rotate around the room and
 - *Instruments:* Peer assessment card, Feedback card, Checklist, Feedback/feedforward template, Peer assessment rubric
 
 - *Dimensions:* Peer assessment, Shared and participatory assessment, Continuous assessment, Performance evidence, Feedback and feedforward, Formative purpose, Teacher assessment
+
+**Downloadable template:**
+
+Teams rotate through different stations (posters, texts, problems, images) leaving their notes at each stop. **Read what is at the station, add your ideas and respond to what the previous group left**. Afterwards, patterns and conclusions from each station are shared with the whole class.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student / Team |  | Date |  |
+| Subject / Topic |  | | |
+
+#### Station log
+
+| Station | What is there? / What question does it raise? | My notes, response or contribution |
+| --- | --- | --- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
+
+#### Final synthesis
+
+|  |  |
+| --- | --- |
+| What pattern or idea appears across several stations? |  |
+| Which station raised the most questions or surprised you? |  |
+| What connection do you see between different stations? |  |
+
+**Teaching note:** the Gallery Walk loses value if students simply copy or read without annotating. The key instruction is that at each station they must *add* something that was not there: a connection, a question, an example, a nuance. If the station material is too uniform (all factual questions), the gallery becomes a walking test. The richest stations contain ambiguous, contradictory or multi-interpretable material.
 
 ---
 
@@ -8981,6 +9389,46 @@ In a secondary class, the motion is “artificial intelligence should grade exam
 - *Instruments:* Rating scale, Oral rubric
 
 - *Dimensions:* Competency-based approach, Shared and participatory assessment, Teacher assessment
+
+**Downloadable template:**
+
+Preparation template for academic debate. Before the debate, complete both columns: arguments for and against the thesis, regardless of your personal stance. A good debater knows the opposing side's arguments better than their own.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Student |  | Date |  |
+| Thesis or motion |  | | |
+| My assigned position | ☐ For   ☐ Against | Teammate |  |
+
+#### Arguments in favour of the thesis
+
+| Argument | Evidence or example supporting it |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+#### Arguments against the thesis
+
+| Argument | Evidence or example supporting it |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+#### Rebuttal preparation
+
+|  |  |
+| --- | --- |
+| What is the strongest argument on the opposing side? How will you rebut it? |  |
+
+#### After the debate
+
+|  |  |
+| --- | --- |
+| Has your personal position changed after the debate? Which argument from the other side did you find most compelling? |  |
+
+**Teaching note:** academic debate is formative when it requires students to defend a position regardless of their prior beliefs. Preparing the opposing side's arguments is not cheating: it is the most effective way to understand the issue in its full complexity. The after-debate reflection is essential: the goal of the debate is not to win, but to better understand why the question is genuinely difficult and what weight the different arguments carry.
 
 ---
 
@@ -9776,7 +10224,7 @@ Meaningful learning happens where the three presences overlap; if one is missing
 
 In a blended course, the teacher posts a triggering question about a real dilemma in a forum (cognitive presence), having first created a climate of trust through introductions and participation norms (social presence), and moderates the thread by synthesising contributions and following up (teaching presence). The result is not an inbox of scattered messages, but a collective inquiry that goes deep into the topic.
 
-**Related techniques:** Flipped Classroom, Socratic Seminar, Dialogic Gathering, Peer Review
+**Related techniques:** Flipped Aula, Socratic Seminar, Dialogic Gathering, Peer Review
 
 **How to assess:**
 

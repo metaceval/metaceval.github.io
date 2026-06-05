@@ -21,7 +21,7 @@ Aquest catàleg recull les entitats d'avaluació organitzades en quatre categori
 
 _Observació planificada i documentada del desempenys durant una activitat._
 
-**Fase:** Proceso · **Participació:** Docente · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Fase:** Procés · **Participació:** Docent · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: observacio, desempeny, proces_
 
@@ -53,7 +53,7 @@ Observació sistemàtica durant una pràctica de laboratori de Ciències a 2n d'
 Activitat: Experiment de densitat de líquids &nbsp;|&nbsp; Classe: 2n ESO B &nbsp;|&nbsp; Data: 19/02
 La clau de l'observació sistemàtica és la planificació prèvia: definir què es mira (no tot) i quan, perquè les dades recollides siguin comparables entre grups i sessions.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Hàbits mentals, Resposta de tothom alhora, Filosofia per a Infants (P4C), Conversa escrita en silenci (Chalk Talk), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview), Aprenentatge maker / STEAM, Aprenentatge personalitzat amb itineraris (playlists), Bastida i zona de desenvolupament proper (ZDP), Marc ICAP
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Hàbits mentals, Resposta de tothom alhora, Filosofia per a Infants (P4C), Conversa escrita en silenci (Chalk Talk), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview), Aprenentatge maker / STEAM, Aprenentatge personalitzat amb itineraris (playlists), Bastida i zona de desenvolupament proper (ZDP), Marc ICAP
 
 ---
 
@@ -62,7 +62,7 @@ La clau de l'observació sistemàtica és la planificació prèvia: definir què
 
 _Registre de fets rellevants sorgits de forma no prevista._
 
-**Fase:** Proceso · **Participació:** Docente · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Fase:** Procés · **Participació:** Docent · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: observacio, incidental_
 
@@ -103,7 +103,7 @@ L'observació incidental no es planifica: requereix que el docent circuli, estig
 
 _Valoració de productes elaborats per l'alumnat._
 
-**Fase:** Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Fase:** Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: produccio, producte_
 
@@ -135,7 +135,7 @@ Anàlisi de produccions aplicada a la revisió dels informes de laboratori d'un 
 Producció: Informe de laboratori — Pràctica de cromatografia &nbsp;|&nbsp; Classe: 1r ESO B &nbsp;|&nbsp; Data: 12/11
 L'anàlisi de produccions és la tècnica més habitual, però el seu valor formatiu depèn de com s'usa: puntuar sense explicar què falla és només qualificació; puntuar i assenyalar el patró és avaluació.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Doble codificació (dual coding), Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, Matriu de problemes, Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Titulars, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Les dues columnes, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Exemples resolts, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Genera, ordena, connecta, elabora, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Resum en una frase, Teoria de la càrrega cognitiva, Exemples concrets, Posar-se al lloc (Step Inside), Conversa escrita en silenci (Chalk Talk), Inicis de preguntes (Question Starts), WebQuest, Aprenentatge maker / STEAM, Pensament computacional, Hora del geni (Genius Hour), Aprenentatge personalitzat amb itineraris (playlists), Mapa mental, Diagrama d’espina de peix (Ishikawa), Línia de temps, Diagrama de Venn
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Doble codificació (dual coding), Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, Matriu de problemes, Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Titulars, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Les dues columnes, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Exemples resolts, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Genera, ordena, connecta, elabora, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Resum en una frase, Teoria de la càrrega cognitiva, Exemples concrets, Posar-se al lloc (Step Inside), Conversa escrita en silenci (Chalk Talk), Inicis de preguntes (Question Starts), WebQuest, Aprenentatge maker / STEAM, Pensament computacional, Hora del geni (Genius Hour), Aprenentatge personalitzat amb itineraris (playlists), Mapa mental, Diagrama d’espina de peix (Ishikawa), Línia de temps, Diagrama de Venn
 
 ---
 
@@ -144,7 +144,7 @@ L'anàlisi de produccions és la tècnica més habitual, però el seu valor form
 
 _Situacions dissenyades expressament per comprovar aprenentatges._
 
-**Fase:** Inicial/Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Fase:** Inicial/Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: prova, comprovacio_
 
@@ -185,7 +185,7 @@ La prova específica no comença quan l'alumne agafa el bolígraf: el seu valor 
 
 _Obtenció d'evidències mitjançant comunicació oral._
 
-**Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Fase:** Procés/Final · **Participació:** Docent/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: oralitat, comunicacio_
 
@@ -217,7 +217,7 @@ Intercanvis orals durant un debat dirigit de Filosofia a 1r de Batxillerat. El d
 Debat: «És possible la llibertat?» (Kant i el determinisme) &nbsp;|&nbsp; Classe: 1r Batx. B &nbsp;|&nbsp; Data: 15/05
 Els intercanvis orals revelen raonaments que els treballs escrits no sempre mostren; combinar-los amb un tancament escrit dona al docent evidències individuals de tots els alumnes, no només dels qui parlen més.
 
-**Tècniques actives que l'utilitzen:** Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cercle de punts de vista, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Pensava... ara penso, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Resum en una frase, Interrogació elaborativa, Autoexplicació, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Filosofia per a Infants (P4C), Debat acadèmic, Posar-se al lloc (Step Inside), El joc de l’explicació (The Explanation Game), Ventall i tria (Fan-N-Pick), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview)
+**Tècniques actives que l'utilitzen:** Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cercle de punts de vista, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els 5 per què, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Parejas de discussió, Pensava... ara penso, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Resum en una frase, Interrogació elaborativa, Autoexplicació, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Filosofia per a Infants (P4C), Debat acadèmic, Posar-se al lloc (Step Inside), El joc de l’explicació (The Explanation Game), Ventall i tria (Fan-N-Pick), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -226,7 +226,7 @@ Els intercanvis orals revelen raonaments que els treballs escrits no sempre most
 
 _Recollida ràpida de respostes, idees prèvies o comprensió mitjançant preguntes breus._
 
-**Fase:** Inicial/Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Fase:** Inicial/Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: preguntes, sondeig, diagnostic, comprovacio, sortida_
 
@@ -255,7 +255,7 @@ Sondeig i qüestionament durant una classe de Ciències Naturals a 2n d'ESO. El 
 Unitat: La cèl·lula — divisió cel·lular &nbsp;|&nbsp; Classe: 2n ESO C &nbsp;|&nbsp; Data: 21/03
 El sondeig sistemàtic converteix cada pregunta oral en una microevidència formativa; acumulades al llarg de diverses sessions permeten detectar llacunes conceptuals abans que es converteixin en errors a la prova.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La caixa, La taula rodona, Llapis al centre, El que sé i el que sabem, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Un per a tots, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals, Interrogació elaborativa, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), El joc de l’explicació (The Explanation Game), Inicis de preguntes (Question Starts)
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, 1 - 2 - 4, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La caixa, La taula rodona, Llapis al centre, El que sé i el que sabem, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Parejas de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Placemat consensus, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Rellotge de cites, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Un per a tots, Veig, penso, em pregunto, Visual Thinking (pensament visual), World Café, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Coneixement tecnològic, pedagògic i del contingut (TPACK), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Pràctica intercalada, Aprenentatge de domini, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals, Interrogació elaborativa, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), El joc de l’explicació (The Explanation Game), Inicis de preguntes (Question Starts)
 
 ---
 
@@ -264,7 +264,7 @@ El sondeig sistemàtic converteix cada pregunta oral en una microevidència form
 
 _Revisió d'evidències intermèdies, registres de procés i reflexions de l'alumnat._
 
-**Fase:** Proceso · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Fase:** Procés · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: proces, reflexio, metacognicio, esborranys, seguiment_
 
@@ -293,7 +293,7 @@ Anàlisi de processos i reflexions en un projecte de Llengua Catalana a 3r d'ESO
 Projecte: Article d'opinió sobre l'ús de les xarxes socials &nbsp;|&nbsp; Classe: 3r ESO A &nbsp;|&nbsp; Dates: mar.–abr.
 Analitzar el procés (mapes, esborranys, reflexions) en lloc de només el producte final permet valorar l'aprenentatge real i proporcionar retroalimentació quan encara pot modificar el resultat.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La taula rodona, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Situació problema, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica intercalada, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals, Autoexplicació, Hora del geni (Genius Hour), Bastida i zona de desenvolupament proper (ZDP)
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge experiencial, Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Detecta patrons, Diana d'avaluació, Diari d'aprenentatge, El model 5E, El semàfor, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), La taula rodona, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seminari socràtic, Situació problema, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Titulars, Veig, penso, em pregunto, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Les 4C de l'aprenentatge, Grup nominal, Les dues columnes, El joc de la NASA, Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica intercalada, Alliberament gradual de la responsabilitat, Pensament en veu alta, Guies d’orientació, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Apunts Cornell, Hàbits mentals, Autoexplicació, Hora del geni (Genius Hour), Bastida i zona de desenvolupament proper (ZDP)
 
 ---
 
@@ -302,7 +302,7 @@ Analitzar el procés (mapes, esborranys, reflexions) en lloc de només el produc
 
 _Conversa planificada per explorar comprensió, raonament o procés._
 
-**Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Fase:** Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: entrevista, oral, indagacio_
 
@@ -340,7 +340,7 @@ L'entrevista avaluativa detecta la diferència entre saber fer i comprendre per 
 
 _Recollida estructurada de respostes mitjançant preguntes tancades o obertes._
 
-**Fase:** Inicial/Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Fase:** Inicial/Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: enquesta, questionari, formulari_
 
@@ -378,7 +378,7 @@ Combinar qüestionari diagnòstic, enquesta de procés i enquesta de satisfacci�
 
 _Revisió de documents, registres i evidències acumulades._
 
-**Fase:** Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Fase:** Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: documental, evidencies, registres_
 
@@ -416,7 +416,7 @@ L'anàlisi documental permet avaluar l'aprenentatge al llarg del temps, no en un
 
 _Interpretació de participacions, traces i col·laboració en entorns digitals._
 
-**Fase:** Proceso · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Media
+**Fase:** Procés · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: digital, interaccio, traces, collaboracio_
 
@@ -454,7 +454,7 @@ Les plataformes digitals generen un rastre d'aprenentatge que permet avaluar la 
 
 _Contrast de diverses evidències per prendre una decisió avaluativa més sòlida._
 
-**Fase:** Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Fase:** Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: triangulacio, evidencies, validesa_
 
@@ -495,7 +495,7 @@ La triangulació evita la distorsió que produeix dependre d'una sola evidència
 
 _Activitat realitzada individualment durant la classe._
 
-**Tipus:** Observació · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Observació · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: individual, aula_
 
@@ -516,7 +516,7 @@ Com usar-lo per avaluar: mentre l'alumnat treballa, el docent circula per l'aula
 
 _Activitat grupal amb repartiment de tasques i responsabilitat compartida._
 
-**Tipus:** Observació · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Observació · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Media
 
 _Paraules clau: cooperatiu, grup_
 
@@ -528,7 +528,7 @@ Perquè l'avaluació sigui justa, no s'ha de reduir al producte final: dos grups
 
 **Adequada per a:** Col·laboració, responsabilitat, comunicació.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diari d'aprenentatge, El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Parelles de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Repartir punts, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals, Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview)
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diari d'aprenentatge, El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Parejas de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Repartir punts, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals, Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview)
 
 ---
 
@@ -537,7 +537,7 @@ Perquè l'avaluació sigui justa, no s'ha de reduir al producte final: dos grups
 
 _Intervencions i aportacions de l'alumnat a l'aula._
 
-**Tipus:** Observació · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Alta
+**Tipus:** Observació · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: participacio_
 
@@ -549,7 +549,7 @@ Cal valorar la qualitat de les aportacions, no només la quantitat. Un alumne qu
 
 **Adequada per a:** Implicació, escolta, preguntes, aportacions.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), CO-OP CO-OP, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Diana d'avaluació, El foli giratori, El joc de les paraules, Equips d'oients, Fishbowl (Peixera), La taula rodona, Llapis al centre, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Parada de tres minuts, Parelles de discussió, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, RoundRobin, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Grup nominal, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Ventall i tria (Fan-N-Pick), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Marc ICAP
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), CO-OP CO-OP, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Diana d'avaluació, El foli giratori, El joc de les paraules, Equips d'oients, Fishbowl (Peixera), La taula rodona, Llapis al centre, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Parada de tres minuts, Parejas de discussió, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, RoundRobin, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Grup nominal, Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Ventall i tria (Fan-N-Pick), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Marc ICAP
 
 ---
 
@@ -558,7 +558,7 @@ Cal valorar la qualitat de les aportacions, no només la quantitat. Un alumne qu
 
 _Discussió reglada sobre un tema amb arguments i torns._
 
-**Tipus:** Oral · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño / Gran grupo · **Resistència IA:** Alta
+**Tipus:** Oral · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: debat, oral_
 
@@ -570,7 +570,7 @@ El debat permet avaluar competències que no són visibles en proves escrites: a
 
 **Adequada per a:** Argumentació, escolta activa, respecte, evidències.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Cercle de punts de vista, Controvèrsia acadèmica, Detecta patrons, Fishbowl (Peixera), Genera hipòtesis, La taula rodona, Llapis al centre, Els 5 per què, Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Pensava... ara penso, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Seminari socràtic, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Disseny per a la comprensió (Understanding by Design, UbD), Grup nominal, El joc de la NASA, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Filosofia per a Infants (P4C), Debat acadèmic
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en problemes (ABP), Cercle de punts de vista, Controvèrsia acadèmica, Detecta patrons, Fishbowl (Peixera), Genera hipòtesis, La taula rodona, Llapis al centre, Els 5 per què, Paraula, idea, frase, Parejas de detectius, Parejas de discussió, Pensava... ara penso, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Seminari socràtic, Talking Chips (Fitxes de conversa), Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Disseny per a la comprensió (Understanding by Design, UbD), Grup nominal, El joc de la NASA, Centres d'interès (enfocament de Decroly), Tertúlia dialògica, Model d'argumentació de Toulmin, Mapa d'arguments, Controvèrsia estructurada amb evidències, Estira-i-arronsa, Tècnica de formulació de preguntes (QFT), Filosofia per a Infants (P4C), Debat acadèmic
 
 ---
 
@@ -579,7 +579,7 @@ El debat permet avaluar competències que no són visibles en proves escrites: a
 
 _Conversa guiada per contrastar idees._
 
-**Tipus:** Oral · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Alta
+**Tipus:** Oral · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: col·loqui, oral_
 
@@ -600,7 +600,7 @@ Com usar-lo per avaluar: el docent modera i observa amb una escala o rúbrica or
 
 _Situació col·lectiva per prendre decisions o comentar processos._
 
-**Tipus:** Oral · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Alta
+**Tipus:** Oral · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: assemblea_
 
@@ -621,7 +621,7 @@ No és una evidència d'avaluació acadèmica formal en sentit estricte, però s
 
 _Activitat experimental o manipulativa en laboratori._
 
-**Tipus:** Pràctica · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Laboratorio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Pràctica · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Laboratori · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: laboratori, ciències_
 
@@ -642,7 +642,7 @@ Com usar-la per avaluar: permet avaluar tant el procés (com aplica el protocol,
 
 _Activitat pràctica orientada a produir, experimentar o resoldre._
 
-**Tipus:** Pràctica · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Pràctica · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: taller, practica_
 
@@ -663,7 +663,7 @@ Com usar-lo per avaluar: el docent observa el procés amb una llista de verifica
 
 _Recreació d'una situació real o versemblant._
 
-**Tipus:** Desempenyi · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Desempenyi · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: simulacio_
 
@@ -684,7 +684,7 @@ Permete avaluar habilitats difícils d'observar en altres situacions: presa de d
 
 _Representació de papers per analitzar una situació._
 
-**Tipus:** Desempenyi · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Desempenyi · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: rol_
 
@@ -696,7 +696,7 @@ Com usar-lo per avaluar: el docent observa l'actuació amb una rúbrica de desem
 
 **Adequada per a:** Empatia, argumentació, resolució de conflictes.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El model 5E, El Trencaclosques ("Jigsaw"), El semàfor, Equip-parella-individual, Equips d'oients, Escala de metacognició, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Joc de rol, La caixa, Llapis al centre, El que sé i el que sabem, Els 5 per què, Els quatre savis, Parelles de detectius, Parelles de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), Veig, penso, em pregunto, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Model SAMR, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Revisió entre iguals (peer review), Ensenyament recíproc, Pràctica intercalada, Connecta, amplia, desafia, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT), Posar-se al lloc (Step Inside)
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Analitza i sintetitza, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Contrasta i compara, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Digital storytelling (relats digitals), El foli giratori, El model 5E, El Trencaclosques ("Jigsaw"), El semàfor, Equip-parella-individual, Equips d'oients, Escala de metacognició, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Joc de rol, La caixa, Llapis al centre, El que sé i el que sabem, Els 5 per què, Els quatre savis, Parejas de detectius, Parejas de discussió, Peer Instruction (Instrucció entre iguals), Pensava... ara penso, Penso, m'interessa, investigo, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Revisa les conseqüències, Role on the Wall (Silueta del personatge), RoundRobin, Seguir la pista, Seminari socràtic, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), Veig, penso, em pregunto, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Model SAMR, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Revisió entre iguals (peer review), Ensenyament recíproc, Pràctica intercalada, Connecta, amplia, desafia, Estira-i-arronsa, +1, Tècnica de formulació de preguntes (QFT), Posar-se al lloc (Step Inside)
 
 ---
 
@@ -705,7 +705,7 @@ Com usar-lo per avaluar: el docent observa l'actuació amb una rúbrica de desem
 
 _Representació escènica d'una situació o contingut._
 
-**Tipus:** Desempenyi · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Presencial · **Espai:** Aula / Exterior · **Agrupament:** Grupo pequeño / Gran grupo · **Resistència IA:** Alta
+**Tipus:** Desempenyi · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial · **Espai:** Aula / Exterior · **Agrupament:** Grup petit / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: dramatitzacio_
 
@@ -726,7 +726,7 @@ Com usar-la per avaluar: es valora l'expressió oral i corporal, la comprensió 
 
 _Presentació planificada d'un tema._
 
-**Tipus:** Oral · **Fase:** Final · **Participació:** Docente/Iguales · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Oral · **Fase:** Final · **Participació:** Docent/Iguals · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: exposicio, oral_
 
@@ -738,7 +738,7 @@ Permete avaluar la competència comunicativa oral, la capacitat de síntesi i el
 
 **Adequada per a:** Comunicació, estructura, domini del contingut.
 
-**Tècniques actives que l'utilitzen:** Qui és qui?, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Rellotge de cites, Role on the Wall (Silueta del personatge), Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Visual Thinking (pensament visual), World Café, Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Resum en una frase, Debat acadèmic
+**Tècniques actives que l'utilitzen:** Qui és qui?, Aprenentatge basat en casos (ABC), Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, CSI: Color, Símbol, Imatge, Pensament de disseny (Design Thinking), Detecta patrons, Diana d'avaluació, Digital storytelling (relats digitals), El joc de les paraules, El model 5E, Equips d'oients, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La caixa, La taula rodona, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Paraula, idea, frase, Parejas de detectius, Parejas de discussió, Portfolio (dossier d'aprenentatge), Pregunta el perquè, Rellotge de cites, Role on the Wall (Silueta del personatge), Seguir la pista, Seminari socràtic, Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Visual Thinking (pensament visual), World Café, Coneixement tecnològic, pedagògic i del contingut (TPACK), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips paral·lels, Les pàgines grogues, Centres d'interès (enfocament de Decroly), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Concept Cartoon, Model Frayer, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Ensenyament recíproc, Controvèrsia estructurada amb evidències, Pensament en veu alta, Guies d’orientació, Genera, ordena, connecta, elabora, Estira-i-arronsa, Resum en una frase, Debat acadèmic
 
 ---
 
@@ -747,7 +747,7 @@ Permete avaluar la competència comunicativa oral, la capacitat de síntesi i el
 
 _Justificació oral d'un projecte o producte._
 
-**Tipus:** Oral · **Fase:** Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Oral · **Fase:** Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: defensa, projecte_
 
@@ -768,7 +768,7 @@ Afegeix valor al projecte perquè obliga l'alumnat a comprendre realment allò q
 
 _Conversa estructurada amb preguntes i respostes._
 
-**Tipus:** Oral · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Oral · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: entrevista_
 
@@ -789,7 +789,7 @@ Com usar-la per avaluar: el docent prepara un guió de preguntes obertes i regis
 
 _Pregunta planificada per comprovar la comprensió._
 
-**Tipus:** Oral · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Oral · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: pregunta oral_
 
@@ -810,7 +810,7 @@ Com usar-la per avaluar: el docent formula la pregunta, dóna temps de reflexió
 
 _Registre d'activitats, apunts, exercicis i correccions._
 
-**Tipus:** Producció escrita · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Producció escrita · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: quadern_
 
@@ -831,7 +831,7 @@ Com usar-lo per avaluar: el docent pot revisar-lo periòdicament amb una llista 
 
 _Registre reflexiu sobre aprenentatges i dificultats._
 
-**Tipus:** Reflexió escrita · **Fase:** Proceso · **Participació:** Alumno · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio / Virtual · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Reflexió escrita · **Fase:** Procés · **Participació:** Alumne · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili / Virtual · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: diari, metacognicio_
 
@@ -852,7 +852,7 @@ Com usar-lo per avaluar: el docent pot proporcionar preguntes guia ('què vaig a
 
 _Col·lecció organitzada d'evidències i reflexions._
 
-**Tipus:** Producció complexa · **Fase:** Proceso/Final · **Participació:** Alumno/Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Producció complexa · **Fase:** Procés/Final · **Participació:** Alumne/Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: portafoli_
 
@@ -873,7 +873,7 @@ Permete una avaluació longitudinal i autèntica. Desenvolupa l'autonomia, la re
 
 _Document amb objectiu, procediment, dades, anàlisi i conclusions._
 
-**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Laboratorio / Aula · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Laboratori / Aula · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: informe, laboratori_
 
@@ -894,7 +894,7 @@ Combina l'avaluació del procés (què van fer al laboratori) amb la del product
 
 _Document que comunica una indagació o recerca._
 
-**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Baja
 
 _Paraules clau: recerca_
 
@@ -915,7 +915,7 @@ Com usar-lo per avaluar: una rúbrica analítica que valori cada secció per sep
 
 _Treball extens sobre un tema amb documentació._
 
-**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Domicilio / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Domicili / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: monografia_
 
@@ -936,7 +936,7 @@ Com usar-la per avaluar: es valora la qualitat de les fonts, l'organització lò
 
 _Text argumentatiu que desenvolupa una tesi._
 
-**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Domicilio / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Domicili / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: assaig_
 
@@ -957,7 +957,7 @@ Com usar-lo per avaluar: es valora la claredat de la tesi, la qualitat dels argu
 
 _Anàlisi i interpretació d'un text._
 
-**Tipus:** Producció escrita · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Producció escrita · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: comentari, text_
 
@@ -978,7 +978,7 @@ Com usar-lo per avaluar: es valora la comprensió global del text, la identifica
 
 _Interpretació de gràfics, taules o dades._
 
-**Tipus:** Producció escrita · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Producció escrita · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: dades, grafica_
 
@@ -999,7 +999,7 @@ Com usar-lo per avaluar: es valora si l'alumne identifica correctament les varia
 
 _Síntesi de les idees principals._
 
-**Tipus:** Producció escrita · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: resum_
 
@@ -1020,7 +1020,7 @@ Com usar-lo per avaluar: es valora si l'alumne identifica les idees principals (
 
 _Organització jeràrquica d'informació._
 
-**Tipus:** Producció visual/escrita · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Producció visual/escrita · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: esquema_
 
@@ -1041,7 +1041,7 @@ Com usar-lo per avaluar: es valora si l'alumne identifica correctament la jerarq
 
 _Representació de conceptes i relacions._
 
-**Tipus:** Producció visual · **Fase:** Inicial/Proceso/Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Parejas · **Resistència IA:** Media
+**Tipus:** Producció visual · **Fase:** Inicial/Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Parelles · **Resistència IA:** Media
 
 _Paraules clau: mapa conceptual_
 
@@ -1062,7 +1062,7 @@ Permete avaluar l'estructura del coneixement d'un alumne: no només si sap els c
 
 _Organització radial d'idees._
 
-**Tipus:** Producció visual · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Producció visual · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: mapa mental_
 
@@ -1083,7 +1083,7 @@ Com usar-lo per avaluar: es valora la riquesa de les associacions, l'organitzaci
 
 _Representació cronològica de fets o processos._
 
-**Tipus:** Producció visual · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció visual · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: línia del temps_
 
@@ -1104,7 +1104,7 @@ Com usar-la per avaluar: es valora la selecció de fets rellevants, la precisió
 
 _Relació de termes i definicions._
 
-**Tipus:** Producció escrita · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: glossari_
 
@@ -1125,7 +1125,7 @@ Com usar-lo per avaluar: es valora si les definicions són precises, si l'alumne
 
 _Registre estructurat d'una lectura._
 
-**Tipus:** Producció escrita · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: lectura_
 
@@ -1146,7 +1146,7 @@ Com usar-la per avaluar: es valora la comprensió del text, la capacitat de sín
 
 _Text crític breu sobre una obra, recurs o activitat._
 
-**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Domicilio / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Domicili / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: ressenya_
 
@@ -1167,7 +1167,7 @@ Com usar-la per avaluar: es valora la descripció precisa de l'objecte ressenyat
 
 _Comunicació clara d'informació especialitzada._
 
-**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Domicilio / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Domicili / Aula · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: divulgació_
 
@@ -1188,7 +1188,7 @@ Desenvolupa la competència comunicativa escrita, la comprensió profunda de la 
 
 _Document que recull la planificació, el procés i els resultats._
 
-**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Baja
+**Tipus:** Producció escrita · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Baja
 
 _Paraules clau: memòria, projecte_
 
@@ -1209,7 +1209,7 @@ Com usar-la per avaluar: es valora tant la qualitat del procés documentat com l
 
 _Document d'organització de tasques i temps._
 
-**Tipus:** Procés · **Fase:** Inicial/Proceso · **Participació:** Docente/Grupo · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Procés · **Fase:** Inicial/Procés · **Participació:** Docent/Grup · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: planificació_
 
@@ -1230,7 +1230,7 @@ Com usar-lo per avaluar: es valora la claredat dels objectius, el realisme dels 
 
 _Registre d'acords, tasques i decisions del grup._
 
-**Tipus:** Procés · **Fase:** Proceso · **Participació:** Grupo · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño / Gran grupo · **Resistència IA:** Baja
+**Tipus:** Procés · **Fase:** Procés · **Participació:** Grup · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit / Gran grup · **Resistència IA:** Baja
 
 _Paraules clau: acta_
 
@@ -1251,7 +1251,7 @@ Desenvolupa habilitats de comunicació formal, organització i responsabilitat c
 
 _Acord d'objectius i compromisos personals._
 
-**Tipus:** Autoavaluació · **Fase:** Inicial/Proceso · **Participació:** Alumno · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Autoavaluació · **Fase:** Inicial/Procés · **Participació:** Alumne · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: contracte aprenentatge_
 
@@ -1272,7 +1272,7 @@ Afavoreix l'autonomia, la motivació intrínseca i la responsabilitat. És espec
 
 _Document breu per analitzar l'aprenentatge i les millores._
 
-**Tipus:** Autoavaluació · **Fase:** Proceso/Final · **Participació:** Alumno · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Autoavaluació · **Fase:** Procés/Final · **Participació:** Alumne · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: reflexió_
 
@@ -1293,7 +1293,7 @@ Com usar-la per avaluar: es valora la profunditat de la reflexió, la capacitat 
 
 _Text on l'alumnat descriu i justifica el seu rendiment._
 
-**Tipus:** Autoavaluació · **Fase:** Final · **Participació:** Alumno · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Autoavaluació · **Fase:** Final · **Participació:** Alumne · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: autoinforme_
 
@@ -1314,7 +1314,7 @@ Com usar-lo per avaluar: es valora l'honestedat, la profunditat, la capacitat d'
 
 _Situacions que requereixen anàlisi, procediment i justificació._
 
-**Tipus:** Prova/desempenyi · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Prova/desempenyi · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: problemes_
 
@@ -1326,7 +1326,7 @@ Com usar-la per avaluar: es valora el procés complet (comprensió del problema,
 
 **Adequada per a:** Raonament, transferència, aplicació.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Situació problema, TGT (Torneig de Jocs per Equips), Un per a tots, Avaluació autèntica, Les dues columnes, El joc de la NASA, Ludificació (gamificació), Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Exemples concrets, Pensament computacional, Diagrama d’espina de peix (Ishikawa)
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parejas de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Situació problema, TGT (Torneig de Jocs per Equips), Un per a tots, Avaluació autèntica, Les dues columnes, El joc de la NASA, Ludificació (gamificació), Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Exemples concrets, Pensament computacional, Diagrama d’espina de peix (Ishikawa)
 
 ---
 
@@ -1335,7 +1335,7 @@ Com usar-la per avaluar: es valora el procés complet (comprensió del problema,
 
 _Anàlisi d'una situació real o simulada._
 
-**Tipus:** Prova/desempenyi · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Prova/desempenyi · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: cas_
 
@@ -1356,7 +1356,7 @@ Com usar-lo per avaluar: es valora la comprensió de la situació, la identifica
 
 _Preguntes obertes d'explicació o argumentació._
 
-**Tipus:** Prova · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Prova · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: prova desenvolupament_
 
@@ -1377,7 +1377,7 @@ Permete avaluar la comprensió profunda, la capacitat de síntesi i l'escriptura
 
 _Qüestions tancades o molt delimitades._
 
-**Tipus:** Prova · **Fase:** Inicial/Final · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Prova · **Fase:** Inicial/Final · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: prova objectiva_
 
@@ -1398,7 +1398,7 @@ Com usar-la per avaluar: es dissenya amb ítems clars i sense ambigüitat, aline
 
 _Qüestionari amb opcions de resposta._
 
-**Tipus:** Prova · **Fase:** Inicial/Proceso/Final · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Prova · **Fase:** Inicial/Procés/Final · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: test_
 
@@ -1419,7 +1419,7 @@ Com usar-la per avaluar: els distractors han de ser plausibles però clarament i
 
 _Preguntes breus amb respostes delimitades._
 
-**Tipus:** Prova · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Prova · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: resposta curta_
 
@@ -1440,7 +1440,7 @@ Equilibra l'eficiència de la prova objectiva amb la necessitat que l'alumne con
 
 _Avaluació mitjançant preguntes o tasques orals._
 
-**Tipus:** Prova oral · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Prova oral · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: prova oral_
 
@@ -1461,7 +1461,7 @@ Permete valorar la comprensió real (no memorització de text) i l'expressió or
 
 _Execució d'un procediment o tasca aplicada._
 
-**Tipus:** Prova pràctica · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Prova pràctica · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: prova pràctica_
 
@@ -1482,7 +1482,7 @@ Com usar-la per avaluar: el docent observa l'execució amb una llista de verific
 
 _Tasca avaluativa en context real o versemblant._
 
-**Tipus:** Prova competencial · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Prova competencial · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: competencial_
 
@@ -1503,7 +1503,7 @@ Com usar-la per avaluar: cada tasca de la prova està associada a un criteri d'a
 
 _Prova que inclou textos, gràfics, mapes o fonts._
 
-**Tipus:** Prova · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Prova · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: documents_
 
@@ -1524,7 +1524,7 @@ Com usar-la per avaluar: es valora la comprensió dels documents, la capacitat d
 
 _Formulari o qüestionari realitzat en línia._
 
-**Tipus:** Digital/prova · **Fase:** Inicial/Proceso/Final · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Digital/prova · **Fase:** Inicial/Procés/Final · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: digital, qüestionari_
 
@@ -1545,7 +1545,7 @@ Estalvia temps de correcció, permet una retroalimentació immediata i facilita 
 
 _Síntesi visual d'informació mitjançant text i imatge._
 
-**Tipus:** Producció visual · **Fase:** Final · **Participació:** Docente/Iguales · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Parejas · **Resistència IA:** Media
+**Tipus:** Producció visual · **Fase:** Final · **Participació:** Docent/Iguals · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Parelles · **Resistència IA:** Media
 
 _Paraules clau: infografia_
 
@@ -1566,7 +1566,7 @@ Desenvolupa la competència comunicativa visual, la capacitat de síntesi i la c
 
 _Presentació visual estructurada d'una recerca o projecte._
 
-**Tipus:** Producció visual · **Fase:** Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Producció visual · **Fase:** Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: pòster_
 
@@ -1587,7 +1587,7 @@ Com usar-lo per avaluar: es valora la selecció d'informació, la jerarquia visu
 
 _Diapositives o altre suport per comunicar informació._
 
-**Tipus:** Producció digital · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Baja
+**Tipus:** Producció digital · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Baja
 
 _Paraules clau: presentació digital_
 
@@ -1608,7 +1608,7 @@ Com usar-la per avaluar: convé valorar per separat el disseny de la presentaci�
 
 _Producte audiovisual amb guió i edició._
 
-**Tipus:** Producció audiovisual · **Fase:** Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Exterior / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Producció audiovisual · **Fase:** Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Exterior / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: vídeo_
 
@@ -1629,7 +1629,7 @@ Desenvolupa la competència digital, la comunicació audiovisual i la creativita
 
 _Vídeo que explica un procediment o concepte pas a pas._
 
-**Tipus:** Producció audiovisual · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Producció audiovisual · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: videotutorial_
 
@@ -1650,7 +1650,7 @@ Com usar-lo per avaluar: es valora la claredat i la precisió de l'explicació, 
 
 _Producció sonora amb guió i comunicació oral._
 
-**Tipus:** Producció oral/digital · **Fase:** Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Producció oral/digital · **Fase:** Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: podcast_
 
@@ -1671,7 +1671,7 @@ Afavoreix l'expressió oral en un format diferent al de l'exposició presencial,
 
 _Narració gràfica amb text i imatge._
 
-**Tipus:** Producció visual · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció visual · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: comic_
 
@@ -1692,7 +1692,7 @@ Com usar-lo per avaluar: es valora l'adequació del contingut al tema, la coher�
 
 _Model físic d'estructura, sistema o procés._
 
-**Tipus:** Producció material · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Producció material · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: maqueta_
 
@@ -1713,7 +1713,7 @@ Com usar-la per avaluar: es valoren la fidelitat al referent representat, la qua
 
 _Representació digital d'un fenomen, estructura o sistema._
 
-**Tipus:** Producció digital · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Producció digital · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: model digital_
 
@@ -1734,7 +1734,7 @@ Desenvolupa la competència digital i el pensament espacial. És especialment ad
 
 _Versió inicial o funcional d'una solució._
 
-**Tipus:** Producció material/digital · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Producció material/digital · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: prototip_
 
@@ -1755,7 +1755,7 @@ Com usar-lo per avaluar: es valora la funcionalitat (compleix la seva funció?),
 
 _Lloc web organitzat per comunicar o resoldre una necessitat._
 
-**Tipus:** Producció digital · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Online · **Espai:** Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Baja
+**Tipus:** Producció digital · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Online · **Espai:** Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Baja
 
 _Paraules clau: web_
 
@@ -1776,7 +1776,7 @@ Desenvolupa la competència digital, la comunicació multimodal i la comprensió
 
 _Publicació digital reflexiva, explicativa o divulgativa._
 
-**Tipus:** Producció digital · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Online · **Espai:** Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Producció digital · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Online · **Espai:** Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: blog_
 
@@ -1797,7 +1797,7 @@ Com usar-la per avaluar: es valora l'adequació al destinatari, la precisió del
 
 _Interaccions escrites en entorn digital._
 
-**Tipus:** Digital/oral escrit · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Grupo pequeño / Gran grupo · **Resistència IA:** Baja
+**Tipus:** Digital/oral escrit · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Mitjana · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Grup petit / Gran grup · **Resistència IA:** Baja
 
 _Paraules clau: forum_
 
@@ -1818,7 +1818,7 @@ Permet la participació d'alumnes que no intervenen fàcilment en debats presenc
 
 _Document compartit elaborat per diversos alumnes._
 
-**Tipus:** Digital/procés · **Fase:** Proceso/Final · **Participació:** Docente/Grupo · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Digital/procés · **Fase:** Procés/Final · **Participació:** Docent/Grup · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Media
 
 _Paraules clau: document col·laboratiu_
 
@@ -1839,7 +1839,7 @@ Com usar-lo per avaluar: l'historial de revisions permet veure la contribució i
 
 _Col·lecció digital d'evidències i reflexions._
 
-**Tipus:** Digital/procés · **Fase:** Proceso/Final · **Participació:** Alumno/Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Digital/procés · **Fase:** Procés/Final · **Participació:** Alumne/Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: portfoli digital_
 
@@ -1860,7 +1860,7 @@ Com usar-lo per avaluar: es valoren la selecció d'evidències (mostra allò mé
 
 _Activitat diagnòstica en la qual l'alumne indica el seu grau de coneixement previ sobre cada concepte._
 
-**Tipus:** Diagnòstic/autoavaluació · **Fase:** Inicial/Final · **Participació:** Alumno · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Diagnòstic/autoavaluació · **Fase:** Inicial/Final · **Participació:** Alumne · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: KPSI_
 
@@ -1881,7 +1881,7 @@ Com a activitat genera evidència diagnòstica d'autopercepció que permet al do
 
 _Mapa conceptual a l'inici d'una unitat._
 
-**Tipus:** Diagnòstic · **Fase:** Inicial · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Diagnòstic · **Fase:** Inicial · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: inicial_
 
@@ -1902,7 +1902,7 @@ Permet al docent detectar concepcions prèvies, tant correctes com errònies, i 
 
 _Generació ràpida d'idees inicials._
 
-**Tipus:** Diagnòstic · **Fase:** Inicial · **Participació:** Grupo · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Diagnòstic · **Fase:** Inicial · **Participació:** Grup · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: pluja idees_
 
@@ -1923,7 +1923,7 @@ Com usar-la per avaluar: no té funció qualificadora en si mateixa, però perme
 
 _Versió inicial o intermèdia d'un producte._
 
-**Tipus:** Procés · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicilio / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Procés · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Domicili / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: esborrany_
 
@@ -1944,7 +1944,7 @@ El cicle esborrany → retroalimentació → revisió → lliurament final és u
 
 _Producte intermedi lliurat abans del final._
 
-**Tipus:** Procés · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Procés · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: lliurament parcial_
 
@@ -1965,7 +1965,7 @@ Evita l'acumulació de treball al final i permet detectar problemes de comprensi
 
 _Registre continuat de decisions, problemes i avenços._
 
-**Tipus:** Procés · **Fase:** Proceso · **Participació:** Grupo/Alumno · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Grupo pequeño / Individual · **Resistència IA:** Media
+**Tipus:** Procés · **Fase:** Procés · **Participació:** Grup/Alumne · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Grup petit / Individual · **Resistència IA:** Media
 
 _Paraules clau: diari projecte_
 
@@ -1986,7 +1986,7 @@ Fa visible el procés d'aprenentatge, que d'altra manera només es coneix pel pr
 
 _Anàlisi i millora de treballs entre companys._
 
-**Tipus:** Coavaluació · **Fase:** Proceso · **Participació:** Iguales · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parejas / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Coavaluació · **Fase:** Procés · **Participació:** Iguals · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parelles / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: iguals_
 
@@ -2007,7 +2007,7 @@ Com usar-la per avaluar: es proporciona una fitxa de revisió o rúbrica de coav
 
 _Activitat de coavaluació: dos aspectes positius i una proposta de millora._
 
-**Tipus:** Coavaluació · **Fase:** Proceso · **Participació:** Iguales · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parejas / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Coavaluació · **Fase:** Procés · **Participació:** Iguals · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parelles / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: feedback_
 
@@ -2028,7 +2028,7 @@ Com usar-la: s'entrega una targeta o formulari amb tres apartats ('Allò que est
 
 _Activitat breu d'autoavaluació en la qual l'alumne assenyala el seu nivell de comprensió amb tres colors._
 
-**Tipus:** Autoavaluació · **Fase:** Proceso · **Participació:** Alumno · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Autoavaluació · **Fase:** Procés · **Participació:** Alumne · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: semaforo_
 
@@ -2049,7 +2049,7 @@ Permet regular el ritme de l'ensenyament en temps real a partir d'evidències d'
 
 _Resposta breu al final de la sessió._
 
-**Tipus:** Autoavaluació/formativa · **Fase:** Proceso · **Participació:** Alumno · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Autoavaluació/formativa · **Fase:** Procés · **Participació:** Alumne · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: bitllet sortida_
 
@@ -2070,7 +2070,7 @@ Com usar-lo per avaluar: pot ser una pregunta escrita en paper o un formulari di
 
 _Prova en la qual l'alumnat pot consultar materials autoritzats._
 
-**Tipus:** Prova competencial · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Prova competencial · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: llibre obert, fonts, aplicacio_
 
@@ -2091,7 +2091,7 @@ Com usar-la per avaluar: les preguntes han d'exigir raonament, transferència o 
 
 _Tasca complexa que integra diversos aprenentatges en un context significatiu._
 
-**Tipus:** Prova competencial · **Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Prova competencial · **Fase:** Procés/Final · **Participació:** Docent/Alumne · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: competencial, integrada, transferencia_
 
@@ -2112,7 +2112,7 @@ Com usar-la per avaluar: es vincula cada part de la tasca amb criteris concrets 
 
 _Situació contextualitzada que exigeix analitzar un problema i proposar una solució._
 
-**Tipus:** Prova/desempenyi · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Prova/desempenyi · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: situacio problema, transferencia_
 
@@ -2133,7 +2133,7 @@ Com usar-la per avaluar: l'enunciat ha de ser clar, contextualitzat i obert en l
 
 _Seqüència de reptes amb regles de joc per resoldre problemes o aplicar aprenentatges._
 
-**Tipus:** Desempenyi · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Grupo pequeño / Gran grupo · **Resistència IA:** Alta
+**Tipus:** Desempenyi · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Grup petit / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: gamificacio, escape room, repte_
 
@@ -2154,7 +2154,7 @@ Cal usar-lo amb criteris clars, perquè la motivació del joc pot amagar qui apr
 
 _Diàleg estructurat a partir de preguntes obertes i evidències._
 
-**Tipus:** Oral · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Oral · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: socratic, seminari, dialeg_
 
@@ -2175,7 +2175,7 @@ Permet avaluar el pensament crític i la comprensió profunda, però requereix e
 
 _Activitat d'observació i autoregistre de procediments, seguretat i dades al laboratori._
 
-**Tipus:** Observació · **Fase:** Proceso · **Participació:** Docente/Alumno · **Complexitat:** Baja/Media · **Modalitat:** Presencial · **Espai:** Laboratorio · **Agrupament:** Individual / Parejas · **Resistència IA:** Alta
+**Tipus:** Observació · **Fase:** Procés · **Participació:** Docent/Alumne · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial · **Espai:** Laboratori · **Agrupament:** Individual / Parelles · **Resistència IA:** Alta
 
 _Paraules clau: laboratori, llista verificacio, seguretat_
 
@@ -2196,7 +2196,7 @@ Nota: en sentit estricte, una llista de verificació és també un instrument d'
 
 _Registre digital continuat d'activitats, notes, evidències i reflexions._
 
-**Tipus:** Digital/procés · **Fase:** Proceso · **Participació:** Alumno/Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Digital/procés · **Fase:** Procés · **Participació:** Alumne/Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: quadern digital, seguiment, evidencies_
 
@@ -2217,7 +2217,7 @@ Com usar-lo per avaluar: el docent revisa entrades seleccionades, l'evolució, l
 
 _Portfoli digital on l'alumnat selecciona i justifica evidències d'aprenentatge._
 
-**Tipus:** Digital/procés · **Fase:** Proceso/Final · **Participació:** Alumno/Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Digital/procés · **Fase:** Procés/Final · **Participació:** Alumne/Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: eportfolio, evidencies, seleccio_
 
@@ -2238,7 +2238,7 @@ Com usar-lo per avaluar: es defineix quins criteris s'han d'evidenciar, quantes 
 
 _Registre d'observacions, dades i reflexions durant activitats a l'exterior o entorn real._
 
-**Tipus:** Producció escrita/observacional · **Fase:** Proceso · **Participació:** Docente/Alumno · **Complexitat:** Media · **Modalitat:** Presencial · **Espai:** Exterior / Laboratori / Aula · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
+**Tipus:** Producció escrita/observacional · **Fase:** Procés · **Participació:** Docent/Alumne · **Complexitat:** Mitjana · **Modalitat:** Presencial · **Espai:** Exterior / Laboratori / Aula · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: camp, exterior, observacio, natura_
 
@@ -2259,7 +2259,7 @@ Com usar-lo per avaluar: l'alumne registra observacions directes, dades mesurade
 
 _Vídeo breu (60–90 s) que explica, divulga o argumenta sobre un tema._
 
-**Tipus:** Producció audiovisual · **Fase:** Final · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili / Exterior · **Agrupament:** Individual / Parelles · **Resistència IA:** Alta
+**Tipus:** Producció audiovisual · **Fase:** Final · **Participació:** Docent/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili / Exterior · **Agrupament:** Individual / Parelles · **Resistència IA:** Alta
 
 _Paraules clau: video, curt, reel, divulgacio, digital_
 
@@ -2280,7 +2280,7 @@ Com usar-lo per avaluar: es valoren la claredat i precisió del missatge, l'adeq
 
 _Registre del procés de treball, ús d'IA, fonts, versions i decisions preses._
 
-**Tipus:** Digital/proceso · **Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Digital/proceso · **Fase:** Procés/Final · **Participació:** Docent/Alumne · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: ia, prompts, proces, autoria, fonts, versions_
 
@@ -2301,7 +2301,7 @@ Permet valorar autoria, pensament crític, revisió, millora i ús responsable d
 
 _Evidència de resposta immediata en què tot el grup contesta alhora amb targetes (A/B/C/D), polzes o mini-pissarres individuals, donant al docent una foto instantània del nivell de comprensió._
 
-**Tipus:** Observació · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Gran grupo · **Resistència IA:** Alta
+**Tipus:** Observació · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa · **Modalitat:** Presencial · **Espai:** Aula · **Agrupament:** Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: targetes de resposta, mini-pissarra, resposta immediata, participació_
 
@@ -2322,7 +2322,7 @@ El seu valor és la immediatesa i la participació universal: fa visible l’apr
 
 _Seqüència de vinyetes que planifica visualment un vídeo, animació o relat digital: en cada quadre s’esbossen la imatge, l’acció i el text o àudio, abans de produir la peça final._
 
-**Tipus:** Producció visual · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Producció visual · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: storyboard, guió gràfic, planificació visual, relat digital_
 
@@ -2346,7 +2346,7 @@ El seu valor és fer visible el pensament previ a la producció i separar la pla
 
 _Matriu que valora criteris separats mitjançant nivells descrits._
 
-**Tipus:** Valoració qualitativa/qualificació · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració qualitativa/qualificació · **Fase:** Procés/Final · **Participació:** Docent/Alumne/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: rúbrica, analítica_
 
@@ -2383,7 +2383,7 @@ Alumne: Marta P. &nbsp;|&nbsp; Activitat: Exposició sobre el Renaixement (4t ES
 
 _Rúbrica que valora el rendiment de forma global._
 
-**Tipus:** Valoració qualitativa/qualificació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració qualitativa/qualificació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: rúbrica, holística_
 
@@ -2419,7 +2419,7 @@ Alumne: Alex G. &nbsp;|&nbsp; Activitat: Relat curt «L'últim viatge» (2n ESO)
 
 _Rúbrica centrada en planificació, seguiment, revisió i millora._
 
-**Tipus:** Valoració formativa · **Fase:** Proceso · **Participació:** Docente/Alumno · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Valoració formativa · **Fase:** Procés · **Participació:** Docent/Alumne · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: rúbrica, procés_
 
@@ -2456,7 +2456,7 @@ Alumne: Jorge L. &nbsp;|&nbsp; Activitat: Experiment de densitat de líquids (3r
 
 _Rúbrica centrada en la qualitat del producte final._
 
-**Tipus:** Valoració/qualificació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració/qualificació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: rúbrica, producte_
 
@@ -2493,7 +2493,7 @@ Alumne: Sofía M. &nbsp;|&nbsp; Activitat: Infografia sobre el canvi climàtic (
 
 _Rúbrica per a exposicions, debats, defenses o entrevistes._
 
-**Tipus:** Valoració de rendiment · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Valoració de rendiment · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: oral, rúbrica_
 
@@ -2530,7 +2530,7 @@ Alumne: Elena R. &nbsp;|&nbsp; Activitat: Exposició oral sobre l'escalfament gl
 
 _Rúbrica per valorar la col·laboració i el funcionament grupal._
 
-**Tipus:** Valoració de procés · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Valoració de procés · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Media
 
 _Paraules clau: cooperatiu, grup_
 
@@ -2558,7 +2558,7 @@ Rúbrica per avaluar el treball cooperatiu en un projecte grupal a 3r d'ESO. Es 
 | Qualitat del resultat conjunt | El producte final reflecteix l'aportació integrada de tots els membres i és millor que la suma de les parts individuals. | El producte reflecteix el treball conjunt, tot i que amb aportacions desiguals. | El producte és una juxtaposició de parts individuals poc integrades. | El producte l'ha elaborat principalment un o dos membres. |
 Grup: Equip 3 &nbsp;|&nbsp; Projecte: Campanya de sensibilització sobre l'aigua (3r ESO) &nbsp;|&nbsp; Data: 10/05Puntuació: 15/20 → 7,5. La comunicació interna és el punt fort del grup; gestionar millor els conflictes els permetria guanyar eficiència.
 
-**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parelles de detectius, Parelles de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals, Ventall i tria (Fan-N-Pick)
+**Tècniques actives que l'utilitzen:** Què et fa dir això?, Qui és qui?, 1 - 2 - 4, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, Cercle de punts de vista, CO-OP CO-OP, Coneguem-nos, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), El foli giratori, El joc de les paraules, El model 5E, El Trencaclosques ("Jigsaw"), El Sac de Dubtes, Equip-parella-individual, Equips d'oients, Estacions d'aprenentatge, Genera hipòtesis, Genera solucions, Intercanviar dificultats, Joc de rol, La caixa, L'entrevista, La taula rodona, Llapis al centre, Lectura compartida, Lectura fantasma, El que sé i el que sabem, Els quatre savis, Els Grups de Recerca, Mapa conceptual a quatre bandes, M'agrada, no m'agrada, Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parejas de detectius, Parejas de discussió, Penso, m'interessa, investigo, Placemat consensus, Pregunta el perquè, Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), RallyRobin, Rellotge de cites, Revisa les conseqüències, RoundRobin, Seguir la pista, Situació problema, STAD (Student Teams Achievement Divisions), Talking Chips (Fitxes de conversa), TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, World Café, Disseny Universal per a l'Aprenentatge (DUA / UDL), Les 4C de l'aprenentatge, Grup nominal, Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Equips paral·lels, El joc de la NASA, Les pàgines grogues, Co-docència (Co-teaching), Ludificació (gamificació), Rols cooperatius, Tertúlia dialògica, Indagació guiada per l'argumentació (ADI), Revisió entre iguals (peer review), Dues estrelles i un desig, Ensenyament recíproc, Controvèrsia estructurada amb evidències, +1, Hàbits mentals, Ventall i tria (Fan-N-Pick)
 
 ---
 
@@ -2567,7 +2567,7 @@ Grup: Equip 3 &nbsp;|&nbsp; Projecte: Campanya de sensibilització sobre l'aigua
 
 _Matriu vinculada a criteris i nivells de rendiment competencial._
 
-**Tipus:** Valoració competencial · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració competencial · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: competencial_
 
@@ -2604,7 +2604,7 @@ Alumne: Pau N. &nbsp;|&nbsp; Activitat: Càpsula de vídeo sobre hàbits digital
 
 _Llista d'indicadors amb presència o absència._
 
-**Tipus:** Registre/valoració · **Fase:** Inicial/Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Registre/valoració · **Fase:** Inicial/Procés/Final · **Participació:** Docent/Alumne/Iguals · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: llista, verificació_
 
@@ -2643,7 +2643,7 @@ Resultat: 5 de 7 indicadors complerts. Es proposa revisar la hipòtesi i la inte
 
 _Escala per valorar la freqüència, la intensitat o el grau d'un rendiment._
 
-**Tipus:** Registre/valoració · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Registre/valoració · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: escala, observació_
 
@@ -2682,7 +2682,7 @@ Observació: Participa activament en l'escolta i el consens; ha de millorar el r
 
 _Escala graduada per valorar el grau d'assoliment._
 
-**Tipus:** Valoració · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració · **Fase:** Procés/Final · **Participació:** Docent/Alumne/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: escala_
 
@@ -2720,7 +2720,7 @@ Puntuació total: 15/20. Destaca el domini del tema i la resposta a les pregunte
 
 _Escala els nivells de la qual inclouen descripcions._
 
-**Tipus:** Valoració qualitativa · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració qualitativa · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: descriptiva_
 
@@ -2757,7 +2757,7 @@ La cel·la ressaltada indica el nivell assignat a cada criteri. El treball guany
 
 _Document amb criteris, respostes esperades o pautes de correcció._
 
-**Tipus:** Correcció/qualificació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Correcció/qualificació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: guia, correcció_
 
@@ -2796,7 +2796,7 @@ La guia de correcció garanteix coherència entre correctors i fa explícits els
 
 _Format per registrar puntuacions o encerts._
 
-**Tipus:** Correcció/qualificació · **Fase:** Inicial/Final · **Participació:** Docente · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Correcció/qualificació · **Fase:** Inicial/Final · **Participació:** Docent · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: plantilla_
 
@@ -2836,7 +2836,7 @@ La plantilla de correcció separa la tasca de puntuar de la de donar retroalimen
 
 _Distribució de punts entre apartats o indicadors._
 
-**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: barem_
 
@@ -2876,7 +2876,7 @@ Publicar el barem abans de la tasca permet a l'alumnat entendre on ha de posar l
 
 _Anotació breu de fets significatius observats._
 
-**Tipus:** Registre qualitatiu · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Registre qualitatiu · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: anecdòtic_
 
@@ -2913,7 +2913,7 @@ El registre anecdòtic permet detectar patrons de progrés o dificultat que no a
 
 _Registre detallat d'actuacions, processos o comportaments._
 
-**Tipus:** Registre qualitatiu · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Registre qualitatiu · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: descriptiu_
 
@@ -2951,7 +2951,7 @@ El registre descriptiu és especialment útil quan es vol documentar el procés 
 
 _Quadern o document amb observacions i decisions pedagògiques._
 
-**Tipus:** Registre docent · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Tipus:** Registre docent · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: diari docent_
 
@@ -2987,7 +2987,7 @@ El diari del professor és una eina de desenvolupament professional: la reflexi�
 
 _Registre del progrés d'un alumne al llarg del temps._
 
-**Tipus:** Seguiment · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Seguiment · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: seguiment_
 
@@ -3025,7 +3025,7 @@ El full de seguiment individual és la base per preparar l'entrevista de tutoria
 
 _Registre del progrés i el funcionament d'un grup._
 
-**Tipus:** Seguiment · **Fase:** Proceso · **Participació:** Docente/Grupo · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Seguiment · **Fase:** Procés · **Participació:** Docent/Grup · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Media
 
 _Paraules clau: grup, seguiment_
 
@@ -3065,7 +3065,7 @@ El full grupal permet identificar patrons de classe (p. ex., la comprensió oral
 
 _Anotació de les intervencions i la qualitat de les aportacions._
 
-**Tipus:** Registre · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Alta
+**Tipus:** Registre · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: participació_
 
@@ -3105,7 +3105,7 @@ El registre de participació permet identificar qui no intervé mai i qui monopo
 
 _Document per anotar els rols, les aportacions i el compliment grupal._
 
-**Tipus:** Registre · **Fase:** Proceso · **Participació:** Docente/Grupo · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Registre · **Fase:** Procés · **Participació:** Docent/Grup · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Media
 
 _Paraules clau: cooperatiu_
 
@@ -3143,7 +3143,7 @@ Combinar aquest registre amb l'autoavaluació del grup permet detectar si els me
 
 _Anotacions del docent durant activitats, pràctiques o sortides._
 
-**Tipus:** Registre qualitatiu · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Baja · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Tipus:** Registre qualitatiu · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Baixa · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: notes_
 
@@ -3181,7 +3181,7 @@ Les notes de camp són el material en brut: es prenen en el moment, sense polir.
 
 _Document breu per valorar una tasca concreta._
 
-**Tipus:** Valoració · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: fitxa_
 
@@ -3220,7 +3220,7 @@ La fitxa de valoració és més informativa que una nota sola: l'alumne veu en q
 
 _Plantilla per retornar punts forts i de millora._
 
-**Tipus:** Retroalimentació · **Fase:** Proceso · **Participació:** Docente/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Retroalimentació · **Fase:** Procés · **Participació:** Docent/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: feedback_
 
@@ -3248,7 +3248,7 @@ Alumne: Sergi B. &nbsp;|&nbsp; Treball: Assaig «Hauria de ser obligatòria l'as
 Valoració provisional: 6,5/10. Amb les millores indicades pot arribar a un 8.
 La fitxa de retroalimentació és més útil que la nota sola: l'alumne sap exactament què canviar i té un objectiu concret per a la segona entrega.
 
-**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
+**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
 
 ---
 
@@ -3257,7 +3257,7 @@ La fitxa de retroalimentació és més útil que la nota sola: l'alumne sap exac
 
 _Taula que relaciona criteris, indicadors i nivells._
 
-**Tipus:** Valoració · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: matriu_
 
@@ -3295,7 +3295,7 @@ La matriu de valoració és més àgil que una rúbrica completa quan els descri
 
 _Col·lecció de frases per descriure nivells de rendiment._
 
-**Tipus:** Suport a la valoració · **Fase:** Diseño · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Suport a la valoració · **Fase:** Disseny · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: descriptors_
 
@@ -3333,7 +3333,7 @@ Un banc de descriptors ben construït redueix el temps de disseny de noves rúbr
 
 _Representació del grau assolit en criteris o competències._
 
-**Tipus:** Síntesi avaluativa · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Síntesi avaluativa · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: perfil_
 
@@ -3358,7 +3358,7 @@ En el marc de l'avaluació per competències (LOMLOE), el perfil d'assoliment é
 
 _Representació radial de diversos aspectes avaluats._
 
-**Tipus:** Visual/autoavaluació · **Fase:** Proceso/Final · **Participació:** Alumno/Iguales · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Visual/autoavaluació · **Fase:** Procés/Final · **Participació:** Alumne/Iguals · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: diana_
 
@@ -3408,7 +3408,7 @@ Punt fort: col·laboració (nivell 4).
 
 _Sistema visual d'assoliment, dubte o dificultat._
 
-**Tipus:** Visual/formativa · **Fase:** Proceso · **Participació:** Alumno · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Visual/formativa · **Fase:** Procés · **Participació:** Alumne · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: semàfor_
 
@@ -3445,7 +3445,7 @@ L'alumne domina el concepte bàsic però té dificultats amb les operacions. El 
 
 _Escala perquè l'alumnat valori el seu propi assoliment._
 
-**Tipus:** Autoavaluació · **Fase:** Inicial/Proceso/Final · **Participació:** Alumno · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Autoavaluació · **Fase:** Inicial/Procés/Final · **Participació:** Alumne · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: autoavaluació_
 
@@ -3484,7 +3484,7 @@ Reflexió personal: «He de practicar més parlar sense mirar les diapositives i
 
 _Rúbrica emprada per l'alumnat sobre el seu propi treball._
 
-**Tipus:** Autoavaluació · **Fase:** Proceso/Final · **Participació:** Alumno · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Autoavaluació · **Fase:** Procés/Final · **Participació:** Alumne · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: rúbrica, autoavaluació_
 
@@ -3522,7 +3522,7 @@ Demanar a l'alumne que justifiqui cada nivell seleccionat és tan important com 
 
 _Rúbrica per valorar treballs de companys._
 
-**Tipus:** Coavaluació · **Fase:** Proceso/Final · **Participació:** Iguales · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parejas / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Coavaluació · **Fase:** Procés/Final · **Participació:** Iguals · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parelles / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: rúbrica, coavaluació_
 
@@ -3560,7 +3560,7 @@ La coavaluació amb rúbrica obliga l'avaluador a justificar cada puntuació amb
 
 _Plantilla breu per valorar companys._
 
-**Tipus:** Coavaluació · **Fase:** Proceso · **Participació:** Iguales · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parejas / Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Coavaluació · **Fase:** Procés · **Participació:** Iguals · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parelles / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: coavaluació_
 
@@ -3597,7 +3597,7 @@ L'última pregunta («una cosa que has après tu») transforma la coavaluació e
 
 _Llista de verificació que usa l'alumne per revisar requisits._
 
-**Tipus:** Autoavaluació · **Fase:** Proceso · **Participació:** Alumno · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Autoavaluació · **Fase:** Procés · **Participació:** Alumne · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: llista de verificació_
 
@@ -3639,7 +3639,7 @@ La columna d'observació pròpia és clau: obliga l'alumne a ser específic sobr
 
 _Document amb objectius i accions de millora._
 
-**Tipus:** Seguiment · **Fase:** Proceso · **Participació:** Alumno/Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Seguiment · **Fase:** Procés · **Participació:** Alumne/Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: millora_
 
@@ -3676,7 +3676,7 @@ El registre de compromisos és la peça que tanca el cicle formatiu: sense ell, 
 
 _Registre organitzat de resultats, tasques i criteris._
 
-**Tipus:** Qualificació/registre · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Qualificació/registre · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: qualificacions_
 
@@ -3716,7 +3716,7 @@ El quadern de qualificacions és el punt de partida per calcular la nota trimest
 
 _Taula que relaciona evidències amb criteris d'avaluació._
 
-**Tipus:** Qualificació · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Qualificació · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: criteris_
 
@@ -3755,7 +3755,7 @@ La taula per criteris mostra exactament en quines competències l'alumne està p
 
 _Taula de pesos relatius de criteris, evidències o eines._
 
-**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: ponderació_
 
@@ -3795,7 +3795,7 @@ Publicar la matriu de ponderació a l'inici del curs permet a l'alumnat entendre
 
 _Valoració expressada amb números._
 
-**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Baja · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Baixa · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: numèrica_
 
@@ -3834,7 +3834,7 @@ L'anàlisi crítica és l'àrea a reforçar; el plantejament i l'ús de fonts s�
 
 _Categories com ara inicial, en procés, adequat, avançat._
 
-**Tipus:** Qualificació qualitativa · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Qualificació qualitativa · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: verbal_
 
@@ -3873,7 +3873,7 @@ Destaquen la iniciativa i les propostes de millora; la gestió de conflictes i l
 
 _Regla que transforma nivells d'assoliment en nota._
 
-**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Qualificació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: conversió_
 
@@ -3919,7 +3919,7 @@ El conversor permet mantenir la rúbrica qualitativa (més rica per al feedback)
 
 _Llibre digital per registrar, calcular i analitzar dades._
 
-**Tipus:** Registre digital · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Registre digital · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: full de càlcul_
 
@@ -3959,7 +3959,7 @@ L'avantatge del full de càlcul sobre el quadern físic és l'automatització: c
 
 _Document que comunica progrés, assoliments i orientacions._
 
-**Tipus:** Comunicació · **Fase:** Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Comunicació · **Fase:** Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: informe individual_
 
@@ -4001,7 +4001,7 @@ L'informe individual va més enllà del butlletí de notes: dóna context a les 
 
 _Registre formal de decisions i resultats._
 
-**Tipus:** Document formal · **Fase:** Final · **Participació:** Equipo docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Media
+**Tipus:** Document formal · **Fase:** Final · **Participació:** Equip docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup · **Resistència IA:** Media
 
 _Paraules clau: acta_
 
@@ -4041,7 +4041,7 @@ L'acta té valor legal i administratiu: s'ha d'arxivar segons la normativa del c
 
 _Formulari per recollir respostes o valoracions._
 
-**Tipus:** Registre digital · **Fase:** Inicial/Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Complexitat:** Baja/Media · **Modalitat:** Online · **Espai:** Virtual / Domicilio · **Agrupament:** Individual · **Resistència IA:** Baja
+**Tipus:** Registre digital · **Fase:** Inicial/Procés/Final · **Participació:** Docent/Alumne/Iguals · **Complexitat:** Baixa/Mitjana · **Modalitat:** Online · **Espai:** Virtual / Domicili · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: formulari_
 
@@ -4080,7 +4080,7 @@ El formulari digital centralitza les respostes de tot el grup en segons; el full
 
 _Rúbrica integrada en una plataforma digital._
 
-**Tipus:** Valoració digital · **Fase:** Proceso/Final · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració digital · **Fase:** Procés/Final · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: digital, rúbrica_
 
@@ -4119,7 +4119,7 @@ La rúbrica digital té la mateixa validesa avaluativa que l'analítica en paper
 
 _Registre de canvis en documents compartits._
 
-**Tipus:** Registre digital · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Registre digital · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: historial_
 
@@ -4157,7 +4157,7 @@ L'historial de revisió converteix l'avaluació del treball cooperatiu en un pro
 
 _Vista de l'avenç en tasques, criteris o competències._
 
-**Tipus:** Visual digital · **Fase:** Proceso · **Participació:** Docente/Alumno · **Complexitat:** Media · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Media
+**Tipus:** Visual digital · **Fase:** Procés · **Participació:** Docent/Alumne · **Complexitat:** Mitjana · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Gran grup · **Resistència IA:** Media
 
 _Paraules clau: tauler_
 
@@ -4182,7 +4182,7 @@ Afavoreix la transparència, l'autoregulació i la motivació. En versions digit
 
 _Dades d'accés, participació o activitat en plataformes._
 
-**Tipus:** Registre digital · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Baja
+**Tipus:** Registre digital · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Gran grup · **Resistència IA:** Baja
 
 _Paraules clau: analítiques_
 
@@ -4207,7 +4207,7 @@ Són especialment útils per identificar tendències grupals i individuals de ma
 
 _Carpeta o espai digital amb evidències avaluatives._
 
-**Tipus:** Repositori · **Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Complexitat:** Media · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Repositori · **Fase:** Procés/Final · **Participació:** Docent/Alumne · **Complexitat:** Mitjana · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: evidències_
 
@@ -4245,7 +4245,7 @@ El banc d'evidències mostra la trajectòria de l'alumne, no només el seu nivel
 
 _Desglossament d'un criteri en indicadors observables._
 
-**Tipus:** Suport a la valoració · **Fase:** Diseño/Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Suport a la valoració · **Fase:** Disseny/Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: criteris, indicadors, alineació_
 
@@ -4282,7 +4282,7 @@ Aquesta llista és el pas previ a construir la rúbrica: assegura que els criter
 
 _Escala que descriu avenços successius cap a un aprenentatge._
 
-**Tipus:** Seguiment · **Fase:** Proceso · **Participació:** Docente/Alumno · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Seguiment · **Fase:** Procés · **Participació:** Docent/Alumne · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: progrés, contínua, seguiment_
 
@@ -4319,7 +4319,7 @@ L'escala de progrés permet veure la trajectòria de cada alumne i acordar el pa
 
 _Document amb focus, indicadors i pautes per observar una actuació._
 
-**Tipus:** Registre/valoració · **Fase:** Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial · **Espai:** Aula / Laboratorio / Exterior · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Tipus:** Registre/valoració · **Fase:** Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial · **Espai:** Aula / Laboratori / Exterior · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: observació, guia, indicadors_
 
@@ -4357,7 +4357,7 @@ La guia d'observació permet mirar menys coses però veure-les millor: reduir el
 
 _Plantilla per indicar l'assoliment actual, la millora necessària i el pas següent._
 
-**Tipus:** Retroalimentació · **Fase:** Proceso · **Participació:** Docente/Iguales/Alumno · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Retroalimentació · **Fase:** Procés · **Participació:** Docent/Iguals/Alumne · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: feedback, feedforward, millora_
 
@@ -4385,7 +4385,7 @@ Plantilla de feedback/feedforward del docent de Ciències Socials sobre una expo
 Alumne: Mireia C. &nbsp;|&nbsp; Exposició: Les civilitzacions fluvials de Mesopotàmia &nbsp;|&nbsp; Data: 17/01
 La columna de feedforward és la més valuosa: desplaça l'atenció del «què ha sortit malament» al «què fer la propera vegada», cosa que fa la retroalimentació accionable.
 
-**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
+**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
 
 ---
 
@@ -4394,7 +4394,7 @@ La columna de feedforward és la més valuosa: desplaça l'atenció del «què h
 
 _Acord de rols, compromisos i normes de funcionament d'un equip._
 
-**Tipus:** Seguiment · **Fase:** Inicial/Proceso · **Participació:** Docente/Grupo · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Media
+**Tipus:** Seguiment · **Fase:** Inicial/Procés · **Participació:** Docent/Grup · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Media
 
 _Paraules clau: grup, contracte, cooperatiu_
 
@@ -4440,7 +4440,7 @@ El contracte no és un tràmit: revisar-lo a cada fita converteix els acords ini
 
 _Representació de relacions, eleccions o dinàmiques dins del grup._
 
-**Tipus:** Registre qualitatiu · **Fase:** Inicial/Proceso · **Participació:** Docente · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grupo · **Resistència IA:** Media
+**Tipus:** Registre qualitatiu · **Fase:** Inicial/Procés · **Participació:** Docent · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Gran grup · **Resistència IA:** Media
 
 _Paraules clau: sociograma, convivència, grup_
 
@@ -4465,7 +4465,7 @@ Com usar-lo: es recull informació mitjançant preguntes acurades, s'analitza de
 
 _Taula que vincula criteris amb tasques, evidències i instruments de valoració._
 
-**Tipus:** Suport a la valoració · **Fase:** Diseño/Proceso/Final · **Participació:** Docente · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Suport a la valoració · **Fase:** Disseny/Procés/Final · **Participació:** Docent · **Complexitat:** Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: criteris, evidències, traçabilitat_
 
@@ -4505,7 +4505,7 @@ El mapa d'evidències es construeix durant la planificació, no al final: dissen
 
 _Plantilla per declarar ajudes, fonts, eines d'IA i decisions pròpies en una tasca._
 
-**Tipus:** Trazabilidad/autoría · **Fase:** Proceso/Final · **Participació:** Alumno/Docente · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Trazabilidad/autoría · **Fase:** Procés/Final · **Participació:** Alumne/Docent · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: ia, autoria, fonts, declaracio, tracabilitat_
 
@@ -4548,7 +4548,7 @@ La declaració no penalitza l'ús de la IA: reconeix que hi ha usos legítims (c
 
 _Matriu que creua els continguts a avaluar amb els nivells cognitius i reparteix el pes de cada ítem, per dissenyar proves equilibrades i vàlides abans de redactar-les._
 
-**Tipus:** Planificació de l’avaluació · **Fase:** Diseño · **Participació:** Docente · **Complexitat:** Media/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Planificació de l’avaluació · **Fase:** Disseny · **Participació:** Docent · **Complexitat:** Mitjana/Alta · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: taula d’especificacions, disseny de proves, validesa, nivells cognitius_
 
@@ -4586,7 +4586,7 @@ La taula d'especificacions s'elabora abans d'escriure els ítems: garanteix que 
 
 _Rúbrica que descriu només el nivell objectiu (el rendiment esperat) en cada criteri, deixant espai per anotar en què es queda curta i en què el supera. Simplifica el disseny i prioritza la retroalimentació._
 
-**Tipus:** Valoració qualitativa · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Tipus:** Valoració qualitativa · **Fase:** Procés/Final · **Participació:** Docent/Alumne/Iguals · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: rúbrica, punt únic, retroalimentació, single-point_
 
@@ -4622,7 +4622,7 @@ La rúbrica de punt únic força una retroalimentació específica: el docent no
 
 _Protocol estructurat de feedback en quatre graons —aclarir, valorar, preguntar i suggerir— que ordena els comentaris perquè siguin respectuosos, concrets i útils, sobretot entre iguals._
 
-**Tipus:** Retroalimentació · **Fase:** Proceso · **Participació:** Docente/Iguales/Alumno · **Complexitat:** Baja/Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grupo pequeño · **Resistència IA:** Alta
+**Tipus:** Retroalimentació · **Fase:** Procés · **Participació:** Docent/Iguals/Alumne · **Complexitat:** Baixa/Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: retroalimentació, escala de feedback, coavaluació, Project Zero_
 
@@ -4658,7 +4658,7 @@ L'escala assegura que el docent comprèn el text abans de valorar-lo, reconeix e
 
 _Guió amb els passos i criteris clau per fer correctament una tasca o procediment, que l’alumnat usa per autoregular-se mentre treballa i que després li serveix per autoavaluar-se._
 
-**Tipus:** Suport a la valoració · **Fase:** Diseño/Proceso · **Participació:** Docente/Alumno · **Complexitat:** Media · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
+**Tipus:** Suport a la valoració · **Fase:** Disseny/Procés · **Participació:** Docent/Alumne · **Complexitat:** Mitjana · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Alta
 
 _Paraules clau: base d’orientació, avaluació formadora, autoregulació, bastida_
 
@@ -4702,7 +4702,7 @@ La base li permet saber exactament en quin punt del procés es troba.
 
 _Valoració del propi aprenentatge per part de l'alumnat._
 
-**Categoria:** Agente evaluador · **Fase:** Inicial/Proceso/Final · **Participació:** Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Baja
+**Categoria:** Agente evaluador · **Fase:** Inicial/Procés/Final · **Participació:** Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Baja
 
 _Paraules clau: autoavaluacio, metacognicio_
 
@@ -4729,7 +4729,7 @@ El seu valor principal és metacognitiu: obliga l'alumnat a reflexionar sobre el
 
 _Valoració del desempenys o producte de companys i companyes amb criteris compartits._
 
-**Categoria:** Agente evaluador · **Fase:** Proceso/Final · **Participació:** Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parejas / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Agente evaluador · **Fase:** Procés/Final · **Participació:** Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Parelles / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: coavaluacio, parells_
 
@@ -4756,7 +4756,7 @@ La seva funció principal és formativa: els comentaris dels companys, combinats
 
 _Valoració realitzada pel docent o per un altre agent extern a l'alumne o alumna._
 
-**Categoria:** Agente evaluador · **Fase:** Inicial/Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Media
+**Categoria:** Agente evaluador · **Fase:** Inicial/Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: heteroavaluacio_
 
@@ -4783,7 +4783,7 @@ No ha de ser l'única forma d'avaluació: combinar-la amb autoavaluació i coava
 
 _Recollida d'informació sobre el punt de partida._
 
-**Categoria:** Finalidad y momento · **Fase:** Inicial · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Alta
+**Categoria:** Finalidad y momento · **Fase:** Inicial · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Alta
 
 _Paraules clau: diagnostica, inicial_
 
@@ -4801,7 +4801,7 @@ Una bona avaluació diagnòstica permet al docent partir d'on és l'alumnat, no 
 
 **Funció pedagògica:** Detectar coneixements previs, interessos i necessitats.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes  (ABPC), Cadena de Preguntes, Controvèrsia acadèmica, El foli giratori, El model 5E, Equips d'oients, Flipped Classroom (Aula invertida), KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), El que sé i el que sabem, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Parelles de discussió, Pensava... ara penso, Penso, m'interessa, investigo, Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), Rellotge de cites, Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, Veig, penso, em pregunto, Prediu, observa, explica (POE), Concept Cartoon, Pràctica de recuperació, Pràctica espaiada, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Tècnica de formulació de preguntes (QFT), Interrogació elaborativa, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Inicis de preguntes (Question Starts)
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes  (ABPC), Cadena de Preguntes, Controvèrsia acadèmica, El foli giratori, El model 5E, Equips d'oients, Flipped Classroom (Aula invertida), KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), El que sé i el que sabem, Nombres iguals junts (Caps junts numerats), Parejas de detectius, Parejas de discussió, Pensava... ara penso, Penso, m'interessa, investigo, Pont 3 - 2 - 1, Quiz-Quiz-Trade (Intercanvi de targetes), Rellotge de cites, Think-Pair-Share (Pensa-Parella-Comparteix), Un per a tots, Veig, penso, em pregunto, Prediu, observa, explica (POE), Concept Cartoon, Pràctica de recuperació, Pràctica espaiada, Connecta, amplia, desafia, Genera, ordena, connecta, elabora, Tècnica de formulació de preguntes (QFT), Interrogació elaborativa, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Inicis de preguntes (Question Starts)
 
 ---
 
@@ -4810,7 +4810,7 @@ Una bona avaluació diagnòstica permet al docent partir d'on és l'alumnat, no 
 
 _Avaluació durant el procés per millorar l'aprenentatge._
 
-**Categoria:** Finalidad y uso · **Fase:** Proceso · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Media
+**Categoria:** Finalidad y uso · **Fase:** Procés · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: formativa, retroalimentacio_
 
@@ -4828,7 +4828,7 @@ L'avaluació formativa requereix temps i planificació, però és la que té mé
 
 **Funció pedagògica:** Regular l'ensenyament i l'aprenentatge mitjançant retroalimentació.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Doble codificació (dual coding), Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Interrogació elaborativa, Exemples concrets, Autoexplicació, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Filosofia per a Infants (P4C), Posar-se al lloc (Step Inside), El joc de l’explicació (The Explanation Game), Conversa escrita en silenci (Chalk Talk), Inicis de preguntes (Question Starts), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview), Aprenentatge personalitzat amb itineraris (playlists), Mapa mental, Diagrama d’espina de peix (Ishikawa), Línia de temps, Diagrama de Venn, Bastida i zona de desenvolupament proper (ZDP), Alineament constructiu, Marc ICAP, Comunitat d’indagació (Community of Inquiry)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Doble codificació (dual coding), Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Interrogació elaborativa, Exemples concrets, Autoexplicació, Preguntes frontissa (hinge questions), Resposta de tothom alhora, Preguntar sense mans aixecades (cold calling), Temps d’espera (wait time), Filosofia per a Infants (P4C), Posar-se al lloc (Step Inside), El joc de l’explicació (The Explanation Game), Conversa escrita en silenci (Chalk Talk), Inicis de preguntes (Question Starts), Ventall i tria (Fan-N-Pick), Duel de respostes (Showdown), Aixeca’t, busca parella, comparteix (Stand Up–Hand Up–Pair Up), Entrevista en tres passos (Three-Step Interview), Aprenentatge personalitzat amb itineraris (playlists), Mapa mental, Diagrama d’espina de peix (Ishikawa), Línia de temps, Diagrama de Venn, Bastida i zona de desenvolupament proper (ZDP), Alineament constructiu, Marc ICAP, Comunitat d’indagació (Community of Inquiry)
 
 ---
 
@@ -4837,7 +4837,7 @@ L'avaluació formativa requereix temps i planificació, però és la que té mé
 
 _Valoració del grau d'assoliment al final d'un procés._
 
-**Categoria:** Finalidad y uso · **Fase:** Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Categoria:** Finalidad y uso · **Fase:** Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: sumativa, qualificacio_
 
@@ -4855,7 +4855,7 @@ Quan es combina amb avaluació formativa al llarg del procés, la nota final ref
 
 **Funció pedagògica:** Qualificar, acreditar o sintetitzar aprenentatges assolits.
 
-**Tècniques actives que l'utilitzen:** Coneguem-nos, El Sac de Dubtes, La taula rodona, Parelles de detectius, Parelles de discussió, Repartir punts, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Un per a tots, Veig, penso, em pregunto, World Café, Les dues columnes, Revisió entre iguals (peer review), Pràctica de recuperació
+**Tècniques actives que l'utilitzen:** Coneguem-nos, El Sac de Dubtes, La taula rodona, Parejas de detectius, Parejas de discussió, Repartir punts, Think-Pair-Share (Pensa-Parella-Comparteix), Tiquet de sortida (exit ticket), Un per a tots, Veig, penso, em pregunto, World Café, Les dues columnes, Revisió entre iguals (peer review), Pràctica de recuperació
 
 ---
 
@@ -4864,7 +4864,7 @@ Quan es combina amb avaluació formativa al llarg del procés, la nota final ref
 
 _Valoració de la mobilització integrada de sabers en contextos significatius._
 
-**Categoria:** Enfoque curricular · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Enfoque curricular · **Fase:** Procés/Final · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: competencial, transferencia_
 
@@ -4891,7 +4891,7 @@ L'avaluació competencial implica avaluar de forma integrada diversos sabers i c
 
 _Valoració de com l'alumnat actua davant una tasca complexa o pràctica._
 
-**Categoria:** Tipo de evidencia · **Fase:** Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Laboratorio / Exterior · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Categoria:** Tipo de evidencia · **Fase:** Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Laboratori / Exterior · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: desempeny_
 
@@ -4918,7 +4918,7 @@ Com aplicar-la: el docent observa mentre l'alumnat realitza la tasca (laboratori
 
 _Valoració del procés i producte d'un projecte._
 
-**Categoria:** Contexto metodológico · **Fase:** Proceso/Final · **Participació:** Docente/Iguales/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Grupo pequeño / Gran grupo · **Resistència IA:** Media
+**Categoria:** Contexto metodológico · **Fase:** Procés/Final · **Participació:** Docent/Iguals/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Exterior · **Agrupament:** Grup petit / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: projecte_
 
@@ -4945,7 +4945,7 @@ Permete avaluar de forma integrada múltiples competències i criteris alhora, i
 
 _Valoració de processos de pregunta, cerca, hipòtesi, dades i conclusions._
 
-**Categoria:** Contexto metodológico · **Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Laboratorio / Exterior · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Contexto metodológico · **Fase:** Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Laboratori / Exterior · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: indagacio, recerca_
 
@@ -4972,7 +4972,7 @@ Com aplicar-la: s'avalua no només el resultat (si la hipòtesi era correcta o i
 
 _Valoració d'interpretació, planificació, resolució i justificació._
 
-**Categoria:** Contexto metodológico · **Fase:** Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Contexto metodológico · **Fase:** Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: problemes, raonament_
 
@@ -4990,7 +4990,7 @@ Adequada en matemàtiques, física, química, tecnologia, economia i qualsevol �
 
 **Funció pedagògica:** Avaluar raonament i transferència.
 
-**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, Diari d'aprenentatge, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els 5 per què, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parelles de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Revisa les conseqüències, Seminari socràtic, Situació problema, TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Un per a tots, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Avaluació autèntica, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Hàbits mentals, Teoria de la càrrega cognitiva, Pensament computacional, Diagrama d’espina de peix (Ishikawa)
+**Tècniques actives que l'utilitzen:** 1 - 2 - 4, Aplica els coneixements, Aprenentatge basat en casos (ABC), Aprenentatge basat en indagació, Aprenentatge basat en l'acció (ABA), Aprenentatge basat en la investigació (ABI), Aprenentatge basat en preguntes (ABPC), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Aprenentatge per descobriment, Cercle de punts de vista, Controvèrsia acadèmica, Pensament de disseny (Design Thinking), Detecta patrons, Diari d'aprenentatge, El joc de les paraules, El model 5E, El Sac de Dubtes, Equip-parella-individual, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Genera hipòtesis, Genera solucions, Graffiti Cooperatiu, Intercanviar dificultats, Joc de rol, La taula rodona, Llapis al centre, Els 5 per què, Els Grups de Recerca, Matriu de problemes, Nombres iguals junts (Caps junts numerats), Parejas de detectius, Placemat consensus, Projectes d'aprenentatge servei (APS o ABS), Rellotge de cites, Revisa les conseqüències, Seminari socràtic, Situació problema, TGT (Torneig de Jocs per Equips), Think-Pair-Share (Pensa-Parella-Comparteix), Titulars, Un per a tots, Visual Thinking (pensament visual), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Avaluació autèntica, Grup nominal, Les dues columnes, Tutoria entre iguals (Peer Tutoring), El joc de la NASA, Centres d'interès (enfocament de Decroly), Ludificació (gamificació), Rúbrica d’avaluació, Tertúlia dialògica, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Dues estrelles i un desig, Concept Cartoon, Afirmació, suport i pregunta (Claim-Support-Question), Mapa d'arguments, Pràctica intercalada, Exemples resolts, Alliberament gradual de la responsabilitat, Hàbits mentals, Teoria de la càrrega cognitiva, Pensament computacional, Diagrama d’espina de peix (Ishikawa)
 
 ---
 
@@ -4999,7 +4999,7 @@ Adequada en matemàtiques, física, química, tecnologia, economia i qualsevol �
 
 _Anàlisi d'una situació real o simulada per diagnosticar o decidir._
 
-**Categoria:** Contexto metodológico · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Contexto metodológico · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: cas, aplicacio_
 
@@ -5026,7 +5026,7 @@ Especialment útil en ciències socials, salut, dret, economia, història i qual
 
 _Recreació d'una situació real o versemblant._
 
-**Categoria:** Contexto metodológico · **Fase:** Proceso/Final · **Participació:** Docente/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Laboratorio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Contexto metodológico · **Fase:** Procés/Final · **Participació:** Docent/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Laboratori · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: simulacio_
 
@@ -5053,7 +5053,7 @@ Adequada per avaluar comunicació, presa de decisions, resolució de conflictes,
 
 _Recollida d'evidències en entorns o productes digitals._
 
-**Categoria:** Soporte de evidencias · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Baja
+**Categoria:** Soporte de evidencias · **Fase:** Procés/Final · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Online · **Espai:** Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Baja
 
 _Paraules clau: digital_
 
@@ -5080,7 +5080,7 @@ Les evidències digitals permeten avaluar la competència digital de forma autè
 
 _Valoració de l'aprenentatge en relació amb criteris explícits, no per comparació entre l'alumnat._
 
-**Categoria:** Enfoque curricular · **Fase:** Diseño/Proceso/Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Categoria:** Enfoque curricular · **Fase:** Disseny/Procés/Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: criterial, criteris, indicadors, alineacio_
 
@@ -5105,7 +5105,7 @@ Com aplicar-la: es parteix dels criteris d'avaluació i es concreten en indicado
 
 _Disseny d'avaluació accessible, flexible i ajustada a la diversitat de l'alumnat._
 
-**Categoria:** Enfoque curricular · **Fase:** Diseño/Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Categoria:** Enfoque curricular · **Fase:** Disseny/Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: inclusio, dua, accessibilitat, diversitat_
 
@@ -5130,7 +5130,7 @@ La seva finalitat és augmentar la validesa de l'avaluació: que el resultat ref
 
 _Recollida i interpretació d'evidències al llarg del procés d'aprenentatge._
 
-**Categoria:** Finalidad y momento · **Fase:** Inicial/Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Media
+**Categoria:** Finalidad y momento · **Fase:** Inicial/Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: continua, progres, seguiment_
 
@@ -5146,7 +5146,7 @@ Ben usada, permet que l'avaluació formi part de l'aprenentatge i no sigui nomé
 
 **Funció pedagògica:** Seguir el progrés, detectar necessitats i ajustar l'ensenyament de forma sostinguda.
 
-**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Aprenentatge personalitzat amb itineraris (playlists)
+**Tècniques actives que l'utilitzen:** Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase, Aprenentatge personalitzat amb itineraris (playlists)
 
 ---
 
@@ -5155,7 +5155,7 @@ Ben usada, permet que l'avaluació formi part de l'aprenentatge i no sigui nomé
 
 _Informació per comprendre el desempenys actual i orientar la millora següent._
 
-**Categoria:** Finalidad y uso · **Fase:** Proceso · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Finalidad y uso · **Fase:** Procés · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: retroalimentacio, feedforward, millora_
 
@@ -5171,7 +5171,7 @@ Té més impacte quan arriba durant el procés, es centra en criteris concrets i
 
 **Funció pedagògica:** Convertir l'avaluació en acció de millora concreta.
 
-**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parelles de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
+**Tècniques actives que l'utilitzen:** Analitza i sintetitza, Aprenentatge basat en el joc (ABJ), Aprenentatge basat en preguntes  (ABPC), Aprenentatge basat en problemes (ABP), Aprenentatge basat en projectes (ABProjectes), Aprenentatge basat en reptes (ABR), Cadena de Preguntes, CO-OP CO-OP, Contrasta i compara, Contracte d'aprenentatge, Controvèrsia acadèmica, Cronometrat, Parella, Comparteix (Timed, Pair, Share), Pensament de disseny (Design Thinking), Diana d'avaluació, Diari d'aprenentatge, El foli giratori, El model 5E, El Sac de Dubtes, El semàfor, Equips d'oients, Escala de metacognició, Estacions d'aprenentatge, Fishbowl (Peixera), Flipped Classroom (Aula invertida), Gallery Walk (Passejada per la galeria), Genera hipòtesis, Intercanviar dificultats, Joc de rol, KWL (Sé, Vull saber, He après), La brúixola (punts cardinals), Llapis al centre, Lectura fantasma, Els 5 per què, Minute Paper (Paper d'un minut), Muddiest Point (El punt més confús), Nombres iguals junts (Caps junts numerats), Paraula, idea, frase, Parada de tres minuts, Parejas de detectius, Peer Instruction (Instrucció entre iguals), Portfolio (dossier d'aprenentatge), Pregunta i respon, Projectes d'aprenentatge servei (APS o ABS), Quiz-Quiz-Trade (Intercanvi de targetes), RallyRobin, Repartir punts, RoundRobin, STAD (Student Teams Achievement Divisions), Tiquet de sortida (exit ticket), Un per a tots, Disseny per a la comprensió (Understanding by Design, UbD), Profunditat del coneixement (Depth of Knowledge, DOK), Taxonomia SOLO, Taxonomia de Bloom, Avaluació autèntica, Aprenentatge visible (Visible Learning), Model SAMR, Disseny Universal per a l'Aprenentatge (DUA / UDL), Tutoria entre iguals (Peer Tutoring), Equips d'ajuda mútua / TAI (Team Assisted Individualization), Co-docència (Co-teaching), Ludificació (gamificació), Rúbrica d’avaluació, Rols cooperatius, Afirmació, evidència i raonament (CER), Indagació guiada per l'argumentació (ADI), Prediu, observa, explica (POE), Model d'argumentació de Toulmin, Revisió entre iguals (peer review), Dues estrelles i un desig, Mapa d'arguments, Controvèrsia estructurada amb evidències, Pràctica de recuperació, Pràctica espaiada, Aprenentatge de domini, Guies d’orientació, +1, Apunts Cornell, Resum en una frase
 
 ---
 
@@ -5180,7 +5180,7 @@ Té més impacte quan arriba durant el procés, es centra en criteris concrets i
 
 _Transformació justificada d'evidències en una decisió de nota, promoció o certificació._
 
-**Categoria:** Finalidad y uso · **Fase:** Final · **Participació:** Docente/Equipo docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Categoria:** Finalidad y uso · **Fase:** Final · **Participació:** Docent/Equip docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: qualificacio, acreditacio, nota, promocio_
 
@@ -5205,7 +5205,7 @@ Com aplicar-la: s'explicita quins criteris compten, quines evidències els suste
 
 _Participació de l'alumnat en criteris, evidències, revisió i decisions de millora._
 
-**Categoria:** Agente evaluador · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Media
+**Categoria:** Agente evaluador · **Fase:** Procés/Final · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: compartida, participativa, coavaluacio, negociacio_
 
@@ -5230,7 +5230,7 @@ Com aplicar-la: es poden consensuar indicadors, usar contractes de grup, revisar
 
 _Ús de mecàniques de joc per recollir evidències d'aprenentatge._
 
-**Categoria:** Contexto metodológico · **Fase:** Proceso/Final · **Participació:** Docente/Alumno/Iguales · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit / Grup gran · **Resistència IA:** Media
+**Categoria:** Contexto metodológico · **Fase:** Procés/Final · **Participació:** Docent/Alumne/Iguals · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: gamificacio, joc, escape room, repte, insignies_
 
@@ -5257,7 +5257,7 @@ Com aplicar-la: es dissenyen tasques o reptes amb regles clares, criteris d'asso
 
 _Documentació del procés, les fonts, les ajudes externes i l'ús d'IA en una evidència._
 
-**Categoria:** Soporte de evidencias · **Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicilio · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Alta
+**Categoria:** Soporte de evidencias · **Fase:** Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual / Domicili · **Agrupament:** Individual / Grup petit · **Resistència IA:** Alta
 
 _Paraules clau: ia, autoria, tracabilitat, fonts, proces_
 
@@ -5282,7 +5282,7 @@ Com aplicar-la: l'alumnat documenta quines fonts, ajudes, eines o sistemes d'IA 
 
 _Valoració que compara l’alumnat amb si mateix: mesura el progrés respecte al seu propi punt de partida, no respecte a la norma del grup ni només a un criteri fix._
 
-**Categoria:** Enfoque curricular · **Fase:** Proceso/Final · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
+**Categoria:** Enfoque curricular · **Fase:** Procés/Final · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual · **Resistència IA:** Media
 
 _Paraules clau: ipsativa, progrés individual, motivació, autoregulació_
 
@@ -5307,7 +5307,7 @@ El seu valor és motivacional i metacognitiu: reconeix l’esforç i la millora 
 
 _Valoració que interpreta el rendiment de cada alumne comparant-lo amb el del grup (la norma): situa la persona respecte a la posició relativa dels seus companys._
 
-**Categoria:** Enfoque curricular · **Fase:** Final · **Participació:** Docente · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grupo · **Resistència IA:** Media
+**Categoria:** Enfoque curricular · **Fase:** Final · **Participació:** Docent · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Gran grup · **Resistència IA:** Media
 
 _Paraules clau: normativa, referida a la norma, barem, comparació_
 
@@ -5332,7 +5332,7 @@ S’inclou al catàleg com a referència conceptual, però amb cautela: per a l�
 
 _Avaluació que mesura el potencial d’aprenentatge observant com millora l’alumnat quan rep ajuda durant la mateixa avaluació, en lloc de mesurar només el que fa sense suport._
 
-**Categoria:** Contexto metodológico · **Fase:** Proceso · **Participació:** Docente/Alumno · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grupo pequeño · **Resistència IA:** Media
+**Categoria:** Contexto metodológico · **Fase:** Procés · **Participació:** Docent/Alumne · **Modalitat:** Presencial / Online · **Espai:** Aula / Virtual · **Agrupament:** Individual / Grup petit · **Resistència IA:** Media
 
 _Paraules clau: dinàmica, potencial d’aprenentatge, mediació, Vygotsky, ZDP_
 

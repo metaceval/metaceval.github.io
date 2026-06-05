@@ -12,14 +12,14 @@
     ],
     "when_to_use": "When students are expected to become aware of their own progress.",
     "precautions": "Requires training to avoid superficial responses.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Alumno",
+    "phase": "Initial/Process/Final",
+    "participation": "Student",
     "tags": [
       "self-assessment",
       "metacognition"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -95,15 +95,15 @@
     ],
     "when_to_use": "When introducing peer assessment and draft improvement.",
     "precautions": "Can be unreliable without clear criteria.",
-    "phase": "Proceso/Final",
-    "participation": "Iguales",
+    "phase": "Process/Final",
+    "participation": "Peers",
     "tags": [
       "peer assessment",
       "peers"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Pairs / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -174,14 +174,14 @@
     ],
     "when_to_use": "When teacher assessment or grading is required.",
     "precautions": "Should not exclude self-assessment and peer assessment.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher",
     "tags": [
       "teacher assessment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_LAB",
@@ -321,15 +321,15 @@
     ],
     "when_to_use": "Before starting a unit, project or learning situation.",
     "precautions": "Must not be used for penalisation.",
-    "phase": "Inicial",
-    "participation": "Docente/Alumno",
+    "phase": "Initial",
+    "participation": "Teacher/Student",
     "tags": [
       "diagnostic",
       "initial"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_MAP_CONC",
@@ -405,15 +405,15 @@
     ],
     "when_to_use": "During learning, before finalising grading.",
     "precautions": "Requires time to return useful information.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "formative",
       "feedback"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_IND",
@@ -662,13 +662,13 @@
     "when_to_use": "At the end of a unit, term, project or course.",
     "precautions": "Should not be the only source of information.",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "summative",
       "grading"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -777,15 +777,15 @@
     ],
     "when_to_use": "When assessing specific competencies and assessment criteria.",
     "precautions": "Requires good contexts and observable criteria.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "competency-based",
       "transfer"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Outdoors",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_ENSAYO",
@@ -883,14 +883,14 @@
     ],
     "when_to_use": "When the manner of acting matters, not just the result.",
     "precautions": "May require complementary evidence.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "performance"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Lab / Outdoors",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_PART",
@@ -1005,14 +1005,14 @@
     ],
     "when_to_use": "When the task is developed over several days or weeks.",
     "precautions": "Requires monitoring to avoid assessing only the final product.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales/Alumno",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers/Student",
     "tags": [
       "project"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Exterior",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "location": "Classroom / Online / Outdoors",
+    "grouping": "Small group / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_MEM_PROY",
@@ -1082,15 +1082,15 @@
     ],
     "when_to_use": "In science, social studies and research tasks.",
     "precautions": "May require scaffolding and appropriate sources.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "inquiry",
       "research"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Lab / Outdoors",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_LAB",
@@ -1157,15 +1157,15 @@
     ],
     "when_to_use": "In mathematics, science, technology, economics and applied cases.",
     "precautions": "The result alone is not enough.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "problems",
       "reasoning"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_COM_GRAF",
@@ -1277,15 +1277,15 @@
     ],
     "when_to_use": "When applying knowledge to a specific situation is of interest.",
     "precautions": "The quality of the case influences the assessment.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "case",
       "application"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_CASO"
@@ -1332,14 +1332,14 @@
     ],
     "when_to_use": "When assessing performance in plausible contexts.",
     "precautions": "Can oversimplify reality.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "simulation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Laboratorio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Lab",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_SIM",
@@ -1383,14 +1383,14 @@
     ],
     "when_to_use": "When the activity uses digital tools or leaves online traces.",
     "precautions": "Analytics do not replace pedagogical judgement.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "digital"
     ],
     "modality": "Online",
-    "location": "Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Baja",
     "related_instruments": [
       "EVI_CUEST_DIG",
@@ -1477,8 +1477,8 @@
     ],
     "when_to_use": "Whenever assessment is to be justified from curricular criteria or defined standards.",
     "precautions": "Requires translating broad criteria into observable indicators without fragmenting learning excessively.",
-    "phase": "Diseño/Proceso/Final",
-    "participation": "Docente",
+    "phase": "Design/Process/Final",
+    "participation": "Teacher",
     "tags": [
       "criteria-based",
       "criteria",
@@ -1486,7 +1486,7 @@
       "alignment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1551,8 +1551,8 @@
     ],
     "when_to_use": "In any diverse group, especially when a single form of evidence may conceal real learning.",
     "precautions": "Flexibility must not lower the criteria, but rather diversify pathways and supports for evidencing them.",
-    "phase": "Diseño/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Design/Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "inclusion",
       "udl",
@@ -1560,7 +1560,7 @@
       "diversity"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1678,16 +1678,16 @@
     ],
     "when_to_use": "In long units, projects, competency-based learning and ordinary course monitoring.",
     "precautions": "Must not be confused with accumulating many grades; it requires selecting significant evidence.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "continuous",
       "progress",
       "monitoring"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_CUAD_DIG",
@@ -1808,16 +1808,16 @@
     ],
     "when_to_use": "When students can revise, repeat, improve or transfer what they have learned to a subsequent task.",
     "precautions": "Must be specific, timely and actionable; a grade alone is not sufficient feedback.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "feedback",
       "feedforward",
       "improvement"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_BORR",
@@ -1951,7 +1951,7 @@
     "when_to_use": "When closing units, assessments, courses or processes requiring an administrative decision.",
     "precautions": "Must be supported by sufficient criteria and evidence; does not replace formative assessment.",
     "phase": "Final",
-    "participation": "Docente/Equipo docente",
+    "participation": "Teacher/Teaching team",
     "tags": [
       "grading",
       "accreditation",
@@ -1959,7 +1959,7 @@
       "promotion"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2013,8 +2013,8 @@
     ],
     "when_to_use": "In projects, cooperative work, portfolios and tasks where students can review their process.",
     "precautions": "Requires clear criteria and support; teacher responsibility must not be delegated without guidance.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "shared",
       "participatory",
@@ -2022,8 +2022,8 @@
       "negotiation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -2092,8 +2092,8 @@
     ],
     "when_to_use": "When high motivation is sought, when consolidating learning, or when conducting active diagnostic assessment.",
     "precautions": "Game mechanics must not distort assessment; participation must be distinguished from demonstrated learning.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "gamification",
       "game-based",
@@ -2102,8 +2102,8 @@
       "badges"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_ESCAPE",
@@ -2157,8 +2157,8 @@
     ],
     "when_to_use": "When a task allows external help, digital editing, work outside the classroom or generative AI use.",
     "precautions": "It should not become bureaucracy; traceability must provide real evidence about decisions, review and authorship.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "ai",
       "authorship",
@@ -2167,8 +2167,8 @@
       "process"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DIARIO",
@@ -2307,8 +2307,8 @@
     ],
     "when_to_use": "When you want to assess each student’s improvement relative to their own starting point.",
     "precautions": "It must not replace achievement criteria: combine it with criterion-referenced assessment.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "ipsative",
       "individual progress",
@@ -2316,7 +2316,7 @@
       "self-regulation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2378,7 +2378,7 @@
     "when_to_use": "When ranking or classification is needed (e.g. standardised tests); not advisable in the classroom.",
     "precautions": "It can be unfair to diversity and shift focus to comparison; prefer criterion-referenced and ipsative.",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "norm-referenced",
       "norm",
@@ -2386,8 +2386,8 @@
       "comparison"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_PR_OBJ",
@@ -2437,8 +2437,8 @@
     ],
     "when_to_use": "When you want to know learning potential and what supports learners need, not just the result.",
     "precautions": "Requires time and individualised interaction; hard to apply to a large group.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "phase": "Process",
+    "participation": "Teacher/Student",
     "tags": [
       "dynamic",
       "learning potential",
@@ -2447,8 +2447,8 @@
       "ZPD"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_PROB",

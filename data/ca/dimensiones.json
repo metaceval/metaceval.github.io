@@ -12,8 +12,8 @@
     ],
     "when_to_use": "Quan es vol que l'alumnat prengui consciència del seu progrés.",
     "precautions": "Requereix entrenament per evitar respostes superficials.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Alumno",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Alumne",
     "tags": [
       "autoavaluacio",
       "metacognicio"
@@ -95,15 +95,15 @@
     ],
     "when_to_use": "Quan es vol introduir avaluació entre iguals i millora d'esborranys.",
     "precautions": "Pot ser poc fiable sense criteris clars.",
-    "phase": "Proceso/Final",
-    "participation": "Iguales",
+    "phase": "Procés/Final",
+    "participation": "Iguals",
     "tags": [
       "coavaluacio",
       "parells"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "grouping": "Parelles / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -174,14 +174,14 @@
     ],
     "when_to_use": "Quan es requereix valoració docent o qualificació.",
     "precautions": "No ha d'excloure l'autoavaluació i la coavaluació.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent",
     "tags": [
       "heteroavaluacio"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_LAB",
@@ -322,14 +322,14 @@
     "when_to_use": "Abans d'iniciar una unitat, projecte o situació d'aprenentatge.",
     "precautions": "No s'ha d'utilitzar per penalitzar.",
     "phase": "Inicial",
-    "participation": "Docente/Alumno",
+    "participation": "Docent/Alumne",
     "tags": [
       "diagnostica",
       "inicial"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_MAP_CONC",
@@ -405,15 +405,15 @@
     ],
     "when_to_use": "Durant l'aprenentatge, abans de tancar la qualificació.",
     "precautions": "Requereix temps per retornar informació útil.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "formativa",
       "retroalimentacio"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_IND",
@@ -662,7 +662,7 @@
     "when_to_use": "Al final d'una unitat, trimestre, projecte o curs.",
     "precautions": "No ha de ser l'única font d'informació.",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "sumativa",
       "qualificacio"
@@ -777,15 +777,15 @@
     ],
     "when_to_use": "Quan es vol valorar competències específiques i criteris d'avaluació.",
     "precautions": "Requereix bons contextos i criteris observables.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "competencial",
       "transferencia"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_ENSAYO",
@@ -883,14 +883,14 @@
     ],
     "when_to_use": "Quan importa el mode d'actuar, no només el resultat.",
     "precautions": "Pot requerir evidències complementàries.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "desempeny"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Laboratori / Exterior",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_PART",
@@ -1005,14 +1005,14 @@
     ],
     "when_to_use": "Quan la tasca es desenvolupa durant diversos dies o setmanes.",
     "precautions": "Requereix seguiment per evitar valorar només el producte final.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales/Alumno",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals/Alumne",
     "tags": [
       "projecte"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Exterior",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_MEM_PROY",
@@ -1082,15 +1082,15 @@
     ],
     "when_to_use": "En ciències, socials i tasques de recerca.",
     "precautions": "Pot requerir bastida i fonts adequades.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "indagacio",
       "recerca"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Laboratori / Exterior",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_LAB",
@@ -1157,15 +1157,15 @@
     ],
     "when_to_use": "En matemàtiques, ciències, tecnologia, economia i casos aplicats.",
     "precautions": "No n'hi ha prou amb el resultat.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "problemes",
       "raonament"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_COM_GRAF",
@@ -1277,15 +1277,15 @@
     ],
     "when_to_use": "Quan interessa aplicar coneixements a una situació concreta.",
     "precautions": "La qualitat del cas condiciona l'avaluació.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "cas",
       "aplicacio"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_CASO"
@@ -1332,14 +1332,14 @@
     ],
     "when_to_use": "Quan es vol avaluar desempenys en contextos versemblants.",
     "precautions": "Pot simplificar en excés la realitat.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "simulacio"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Laboratorio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Laboratori",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_SIM",
@@ -1383,14 +1383,14 @@
     ],
     "when_to_use": "Quan l'activitat usa eines digitals o deixa traces en línia.",
     "precautions": "Les analítiques no substitueixen el judici pedagògic.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "digital"
     ],
     "modality": "Online",
     "location": "Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Baja",
     "related_instruments": [
       "EVI_CUEST_DIG",
@@ -1477,8 +1477,8 @@
     ],
     "when_to_use": "Sempre que es vulgui justificar l'avaluació des de criteris curriculars o estàndards definits.",
     "precautions": "Requereix traduir criteris amplis en indicadors observables sense fragmentar en excés l'aprenentatge.",
-    "phase": "Diseño/Proceso/Final",
-    "participation": "Docente",
+    "phase": "Disseny/Procés/Final",
+    "participation": "Docent",
     "tags": [
       "criterial",
       "criteris",
@@ -1551,8 +1551,8 @@
     ],
     "when_to_use": "En qualsevol grup divers, especialment quan una única forma d'evidència pot ocultar aprenentatges reals.",
     "precautions": "La flexibilitat no ha d'abaixar els criteris, sinó diversificar camins i suports per evidenciar-los.",
-    "phase": "Diseño/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Disseny/Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "inclusio",
       "dua",
@@ -1678,8 +1678,8 @@
     ],
     "when_to_use": "En unitats llargues, projectes, aprenentatge competencial i seguiment ordinari del curs.",
     "precautions": "No s'ha de confondre amb acumular moltes notes; exigeix seleccionar evidències significatives.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "continua",
       "progres",
@@ -1687,7 +1687,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_CUAD_DIG",
@@ -1808,8 +1808,8 @@
     ],
     "when_to_use": "Quan l'alumnat pot revisar, repetir, millorar o transferir el que ha après a una tasca posterior.",
     "precautions": "Ha de ser específica, oportuna i accionable; una nota sola no és retroalimentació suficient.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "retroalimentacio",
       "feedforward",
@@ -1817,7 +1817,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_BORR",
@@ -1951,7 +1951,7 @@
     "when_to_use": "En tancar unitats, avaluacions, cursos o processos que requereixen decisió administrativa.",
     "precautions": "Ha de recolzar-se en criteris i evidències suficients; no substitueix l'avaluació formativa.",
     "phase": "Final",
-    "participation": "Docente/Equipo docente",
+    "participation": "Docent/Equip docent",
     "tags": [
       "qualificacio",
       "acreditacio",
@@ -2013,8 +2013,8 @@
     ],
     "when_to_use": "En projectes, treball cooperatiu, portafolis i tasques on l'alumnat pot revisar el seu procés.",
     "precautions": "Requereix criteris clars i acompanyament; no ha de delegar sense guia la responsabilitat docent.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "compartida",
       "participativa",
@@ -2023,7 +2023,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -2092,8 +2092,8 @@
     ],
     "when_to_use": "Quan es vol avaluar amb alta motivació, consolidar aprenentatges o fer avaluació diagnòstica de forma activa.",
     "precautions": "Les mecàniques de joc no han de distorsionar l'avaluació; cal distingir entre participació i aprenentatge demostrat.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "gamificacio",
       "joc",
@@ -2103,7 +2103,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño / Gran grupo",
+    "grouping": "Individual / Grup petit / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_ESCAPE",
@@ -2157,8 +2157,8 @@
     ],
     "when_to_use": "Quan una tasca permet ajuda externa, edició digital, treball fora de l'aula o ús d'IA generativa.",
     "precautions": "No s'ha de convertir en burocràcia; la traçabilitat ha d'aportar evidències reals sobre decisions, revisió i autoria.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "ia",
       "autoria",
@@ -2167,8 +2167,8 @@
       "proces"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DIARIO",
@@ -2307,8 +2307,8 @@
     ],
     "when_to_use": "Quan es vol valorar la millora de cada alumne respecte al seu propi punt de partida.",
     "precautions": "No ha de substituir els criteris d’assoliment: cal combinar-la amb l’avaluació criterial.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "ipsativa",
       "progrés individual",
@@ -2378,7 +2378,7 @@
     "when_to_use": "Quan cal ordenar o classificar (p. ex., proves estandarditzades); poc recomanable a l’aula.",
     "precautions": "Pot ser injusta amb la diversitat i desviar el focus cap a la comparació; preferir criterial i ipsativa.",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "normativa",
       "referida a la norma",
@@ -2387,7 +2387,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_PR_OBJ",
@@ -2437,8 +2437,8 @@
     ],
     "when_to_use": "Quan interessa conèixer el potencial d’aprenentatge i quins suports necessita l’alumnat, no només el resultat.",
     "precautions": "Requereix temps i interacció individualitzada; difícil d’aplicar a gran grup.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "phase": "Procés",
+    "participation": "Docent/Alumne",
     "tags": [
       "dinàmica",
       "potencial d’aprenentatge",
@@ -2448,7 +2448,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_PROB",

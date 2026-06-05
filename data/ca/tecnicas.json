@@ -11,16 +11,16 @@
     ],
     "when_to_use": "Quan l'evidència succeeix en directe i no n'hi ha prou amb revisar un producte final.",
     "limitations": "Pot ser subjectiva si no hi ha criteris clars.",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "observacio",
       "desempeny",
       "proces"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Aula / Laboratori / Exterior",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DEBATE",
@@ -187,15 +187,15 @@
     ],
     "when_to_use": "Quan apareix una evidència imprevista però rellevant.",
     "limitations": "No substitueix una observació sistemàtica.",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "observacio",
       "incidental"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Aula / Laboratori / Exterior",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_TRAB_IND",
@@ -239,15 +239,15 @@
     ],
     "when_to_use": "Quan hi ha un producte o artefacte avaluable.",
     "limitations": "No mostra tot el procés si no s'acompanya de seguiment.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "produccio",
       "producte"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_CUADERNO",
@@ -488,8 +488,8 @@
     ],
     "when_to_use": "Quan cal una comprovació puntual o comparable.",
     "limitations": "Pot reduir l'avaluació si s'usa com a única evidència.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent",
     "tags": [
       "prova",
       "comprovacio"
@@ -580,15 +580,15 @@
     ],
     "when_to_use": "Quan s'avalua comunicació, raonament verbal o interacció.",
     "limitations": "Pot dependre de factors emocionals.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "oralitat",
       "comunicacio"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DEBATE",
@@ -761,8 +761,8 @@
     ],
     "when_to_use": "Quan cal informació ràpida per iniciar, ajustar o tancar una sessió sense convertir l'activitat en una prova extensa.",
     "limitations": "Pot donar evidències superficials si les preguntes no estan ben formulades o no s'usen després per prendre decisions docents.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "preguntes",
       "sondeig",
@@ -772,7 +772,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_KPSI",
@@ -958,8 +958,8 @@
     ],
     "when_to_use": "Quan importa valorar l'aprenentatge durant el procés i no només el producte final.",
     "limitations": "Requereix seguiment continuat i criteris clars per no convertir-se en mera acumulació de documents.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "proces",
       "reflexio",
@@ -968,7 +968,7 @@
       "seguiment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -1148,8 +1148,8 @@
     ],
     "when_to_use": "Quan cal indagar en el raonament de l'alumnat o contrastar autoria i comprensió.",
     "limitations": "Consumeix temps i requereix un guió comú per assegurar equitat.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "entrevista",
       "oral",
@@ -1205,15 +1205,15 @@
     ],
     "when_to_use": "Quan cal informació comparable i fàcil d'analitzar de tot el grup.",
     "limitations": "La qualitat depèn molt de la formulació de les preguntes.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "enquesta",
       "questionari",
       "formulari"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -1268,15 +1268,15 @@
     ],
     "when_to_use": "Quan l'aprenentatge queda documentat en registres o productes acumulats.",
     "limitations": "Pot sobrevalorar el que es documenta i deixar fora actuacions no registrades.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "documental",
       "evidencies",
       "registres"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -1393,8 +1393,8 @@
     ],
     "when_to_use": "Quan el treball es desenvolupa en entorns digitals que deixen traces útils.",
     "limitations": "Les traces digitals requereixen interpretació pedagògica i respecte a la privacitat.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "digital",
       "interaccio",
@@ -1403,7 +1403,7 @@
     ],
     "modality": "Online",
     "location": "Virtual",
-    "grouping": "Individual / Gran grupo",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_FORO",
@@ -1448,8 +1448,8 @@
     ],
     "when_to_use": "Quan una sola evidència és insuficient per valorar un criteri o competència.",
     "limitations": "Requereix decidir quines evidències pesen més i evitar duplicar la mateixa evidència.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "triangulacio",
       "evidencies",
@@ -1457,7 +1457,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_TAREA_COMP_INT",

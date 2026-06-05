@@ -11,16 +11,16 @@
     ],
     "when_to_use": "When evidence occurs in real time and reviewing a final product is not enough.",
     "limitations": "Can be subjective if there are no clear criteria.",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "observation",
       "performance",
       "process"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Lab / Outdoors",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DEBATE",
@@ -187,15 +187,15 @@
     ],
     "when_to_use": "When an unforeseen but relevant piece of evidence appears.",
     "limitations": "Does not replace systematic observation.",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "observation",
       "incidental"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Lab / Outdoors",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_TRAB_IND",
@@ -239,15 +239,15 @@
     ],
     "when_to_use": "When there is an assessable product or artefact.",
     "limitations": "Does not show the full process if not accompanied by ongoing monitoring.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "production",
       "product"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_CUADERNO",
@@ -488,14 +488,14 @@
     ],
     "when_to_use": "When a specific or comparable check is needed.",
     "limitations": "Can reduce assessment if used as the only evidence.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher",
     "tags": [
       "test",
       "check"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -580,15 +580,15 @@
     ],
     "when_to_use": "When assessing communication, verbal reasoning or interaction.",
     "limitations": "Can depend on emotional factors.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "orality",
       "communication"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DEBATE",
@@ -761,8 +761,8 @@
     ],
     "when_to_use": "When quick information is needed to start, adjust or close a session without turning the activity into an extensive test.",
     "limitations": "Can yield superficial evidence if questions are not well formulated or are not used afterwards to make teaching decisions.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "questions",
       "probing",
@@ -771,8 +771,8 @@
       "exit"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_KPSI",
@@ -958,8 +958,8 @@
     ],
     "when_to_use": "When it is important to assess learning during the process and not only the final product.",
     "limitations": "Requires ongoing monitoring and clear criteria to avoid becoming a mere accumulation of documents.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "process",
       "reflection",
@@ -968,7 +968,7 @@
       "monitoring"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -1148,15 +1148,15 @@
     ],
     "when_to_use": "When it is necessary to probe student reasoning or verify authorship and comprehension.",
     "limitations": "Time-consuming and requires a common script to ensure fairness.",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "interview",
       "oral",
       "inquiry"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -1205,15 +1205,15 @@
     ],
     "when_to_use": "When comparable and easy-to-analyse information is needed from the whole group.",
     "limitations": "Quality depends greatly on question formulation.",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "survey",
       "questionnaire",
       "form"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -1268,15 +1268,15 @@
     ],
     "when_to_use": "When learning is documented in accumulated records or products.",
     "limitations": "Can overvalue what is documented and leave out unrecorded actions.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "documentary",
       "evidence",
       "records"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -1393,8 +1393,8 @@
     ],
     "when_to_use": "When work is carried out in digital environments that leave useful traces.",
     "limitations": "Digital traces require pedagogical interpretation and respect for privacy.",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Process",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "digital",
       "interaction",
@@ -1402,8 +1402,8 @@
       "collaboration"
     ],
     "modality": "Online",
-    "location": "Virtual",
-    "grouping": "Individual / Gran grupo",
+    "location": "Online",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_FORO",
@@ -1448,16 +1448,16 @@
     ],
     "when_to_use": "When a single piece of evidence is insufficient to assess a criterion or competency.",
     "limitations": "Requires deciding which evidence carries more weight and avoiding duplication of the same evidence.",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "triangulation",
       "evidence",
       "validity"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_TAREA_COMP_INT",

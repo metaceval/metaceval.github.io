@@ -11,9 +11,9 @@
       "organització",
       "resolució de tasques."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "individual",
       "aula"
@@ -79,16 +79,16 @@
       "responsabilitat",
       "comunicació."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "cooperatiu",
       "grup"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -239,15 +239,15 @@
       "preguntes",
       "aportacions."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "participacio"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -330,15 +330,15 @@
       "evidències."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "debat",
       "oral"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -410,16 +410,16 @@
       "expressió",
       "relació d'idees."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "col·loqui",
       "oral"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL"
@@ -466,15 +466,15 @@
       "convivència",
       "presa de decisions."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "assemblea"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -524,15 +524,15 @@
       "anàlisi."
     ],
     "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "laboratori",
       "ciències"
     ],
     "modality": "Presencial",
-    "location": "Laboratorio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Laboratori",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -585,16 +585,16 @@
       "creativitat",
       "aplicació."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "taller",
       "practica"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Laboratori / Exterior",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -644,14 +644,14 @@
       "aplicació."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "simulacio"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -695,15 +695,15 @@
       "argumentació",
       "resolució de conflictes."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "rol"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL"
@@ -824,15 +824,15 @@
       "comprensió",
       "creativitat."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "dramatitzacio"
     ],
     "modality": "Presencial",
     "location": "Aula / Exterior",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -877,16 +877,16 @@
       "estructura",
       "domini del contingut."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Mitjana/Alta",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Docent/Iguals",
     "tags": [
       "exposicio",
       "oral"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -1023,14 +1023,14 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Docent/Iguals",
     "tags": [
       "defensa",
       "projecte"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -1090,9 +1090,9 @@
       "raonament",
       "explicació personal."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "entrevista"
     ],
@@ -1149,9 +1149,9 @@
       "precisió",
       "raonament immediat."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "pregunta oral"
     ],
@@ -1209,9 +1209,9 @@
       "continuïtat",
       "correcció."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "quadern"
     ],
@@ -1265,15 +1265,15 @@
       "autoregulació",
       "progrés."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Alumne",
     "tags": [
       "diari",
       "metacognicio"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
+    "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1337,13 +1337,13 @@
       "reflexió."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "phase": "Procés/Final",
+    "participation": "Alumne/Docent",
     "tags": [
       "portafoli"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
+    "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1419,14 +1419,14 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "informe",
       "laboratori"
     ],
     "modality": "Presencial",
-    "location": "Laboratorio / Aula",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Laboratori / Aula",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -1479,13 +1479,13 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "recerca"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Domicili / Virtual",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD"
@@ -1540,12 +1540,12 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "monografia"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1598,12 +1598,12 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "assaig"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1657,15 +1657,15 @@
       "interpretació",
       "argumentació."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "comentari",
       "text"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1721,15 +1721,15 @@
       "inferència",
       "explicació."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "dades",
       "grafica"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1778,14 +1778,14 @@
       "selecció d'informació",
       "síntesi."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "resum"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1839,14 +1839,14 @@
       "síntesi",
       "jerarquia."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "esquema"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1906,15 +1906,15 @@
       "Relacions conceptuals",
       "organització del coneixement."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent",
     "tags": [
       "mapa conceptual"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Parejas",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Parelles",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -1962,14 +1962,14 @@
       "creativitat",
       "síntesi."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "mapa mental"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -2020,14 +2020,14 @@
       "temporalitat",
       "relacions."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "línia del temps"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2074,14 +2074,14 @@
       "Vocabulari",
       "precisió conceptual."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "glossari"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2130,14 +2130,14 @@
       "síntesi",
       "valoració."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "lectura"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2186,14 +2186,14 @@
       "argumentació",
       "síntesi."
     ],
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "ressenya"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2242,12 +2242,12 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "divulgació"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2301,14 +2301,14 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "memòria",
       "projecte"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Domicili / Virtual",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD"
@@ -2363,15 +2363,15 @@
       "organització",
       "responsabilitat."
     ],
-    "complexity": "Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Mitjana",
+    "phase": "Inicial/Procés",
+    "participation": "Docent/Grup",
     "tags": [
       "planificació"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -2426,15 +2426,15 @@
       "responsabilitat",
       "acords."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Grupo",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Grup",
     "tags": [
       "acta"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
@@ -2482,9 +2482,9 @@
       "compromís",
       "metes."
     ],
-    "complexity": "Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Alumno",
+    "complexity": "Mitjana",
+    "phase": "Inicial/Procés",
+    "participation": "Alumne",
     "tags": [
       "contracte aprenentatge"
     ],
@@ -2539,14 +2539,14 @@
       "dificultats",
       "propostes."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Alumno",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Alumne",
     "tags": [
       "reflexió"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2612,14 +2612,14 @@
       "Autoregulació",
       "argumentació sobre el propi treball."
     ],
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Alumno",
+    "participation": "Alumne",
     "tags": [
       "autoinforme"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2673,14 +2673,14 @@
       "transferència",
       "aplicació."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "problemes"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -2774,14 +2774,14 @@
       "justificació."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "cas"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PRUEBA",
@@ -2835,9 +2835,9 @@
       "desenvolupament",
       "argumentació."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Mitjana/Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "prova desenvolupament"
     ],
@@ -2899,9 +2899,9 @@
       "reconeixement",
       "aplicació breu."
     ],
-    "complexity": "Baja/Media",
+    "complexity": "Baixa/Mitjana",
     "phase": "Inicial/Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "prova objectiva"
     ],
@@ -2969,9 +2969,9 @@
       "comprensió",
       "repàs."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent",
     "tags": [
       "test"
     ],
@@ -3040,9 +3040,9 @@
       "càlcul",
       "identificació."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "resposta curta"
     ],
@@ -3100,9 +3100,9 @@
       "expressió",
       "raonament."
     ],
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "prova oral"
     ],
@@ -3160,12 +3160,12 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "prova pràctica"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
+    "location": "Aula / Laboratori / Exterior",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -3212,7 +3212,7 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "competencial"
     ],
@@ -3276,9 +3276,9 @@
       "aplicació",
       "anàlisi de fonts."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Mitjana/Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "documents"
     ],
@@ -3336,15 +3336,15 @@
       "repàs",
       "comprovació."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent",
     "tags": [
       "digital",
       "qüestionari"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -3398,15 +3398,15 @@
       "disseny",
       "rigor."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Mitjana/Alta",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Docent/Iguals",
     "tags": [
       "infografia"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Parejas",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Parelles",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3455,13 +3455,13 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Docent/Iguals",
     "tags": [
       "pòster"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3515,15 +3515,15 @@
       "claredat",
       "suport visual."
     ],
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "presentació digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD",
@@ -3583,13 +3583,13 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Docent/Iguals",
     "tags": [
       "vídeo"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Exterior / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Exterior / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3648,12 +3648,12 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "videotutorial"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -3705,13 +3705,13 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Docent/Iguals",
     "tags": [
       "podcast"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -3765,14 +3765,14 @@
       "creativitat",
       "seqüència."
     ],
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "comic"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -3820,13 +3820,13 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "maqueta"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Laboratori / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3870,13 +3870,13 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "model digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3927,14 +3927,14 @@
       "creativitat."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "prototip"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Laboratori / Exterior",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD",
@@ -3984,13 +3984,13 @@
     ],
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "web"
     ],
     "modality": "Online",
-    "location": "Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD"
@@ -4040,14 +4040,14 @@
       "rigor",
       "audiència."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "blog"
     ],
     "modality": "Online",
-    "location": "Virtual / Domicilio",
+    "location": "Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -4094,15 +4094,15 @@
       "participació",
       "resposta als iguals."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "forum"
     ],
     "modality": "Online",
     "location": "Virtual",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -4155,14 +4155,14 @@
       "cooperació."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Grupo",
+    "phase": "Procés/Final",
+    "participation": "Docent/Grup",
     "tags": [
       "document col·laboratiu"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD",
@@ -4225,13 +4225,13 @@
       "reflexió."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "phase": "Procés/Final",
+    "participation": "Alumne/Docent",
     "tags": [
       "portfoli digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Virtual / Domicilio",
+    "location": "Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -4294,9 +4294,9 @@
       "confiança",
       "evolució."
     ],
-    "complexity": "Baja",
+    "complexity": "Baixa",
     "phase": "Inicial/Final",
-    "participation": "Alumno",
+    "participation": "Alumne",
     "tags": [
       "KPSI"
     ],
@@ -4351,9 +4351,9 @@
       "Idees prèvies",
       "organització conceptual."
     ],
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Inicial",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "inicial"
     ],
@@ -4407,15 +4407,15 @@
       "interessos",
       "associacions."
     ],
-    "complexity": "Baja",
+    "complexity": "Baixa",
     "phase": "Inicial",
-    "participation": "Grupo",
+    "participation": "Grup",
     "tags": [
       "pluja idees"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo / Grupo pequeño",
+    "grouping": "Gran grup / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_SONDEO",
@@ -4468,14 +4468,14 @@
       "revisió",
       "progrés."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "esborrany"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
+    "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -4532,15 +4532,15 @@
       "qualitat provisional",
       "millora."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "lliurament parcial"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
@@ -4600,14 +4600,14 @@
       "decisions."
     ],
     "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Grupo/Alumno",
+    "phase": "Procés",
+    "participation": "Grup/Alumne",
     "tags": [
       "diari projecte"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Grupo pequeño / Individual",
+    "location": "Aula / Virtual / Domicili",
+    "grouping": "Grup petit / Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -4660,15 +4660,15 @@
       "millora",
       "retroalimentació."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Iguales",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés",
+    "participation": "Iguals",
     "tags": [
       "iguals"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "grouping": "Parelles / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -4729,15 +4729,15 @@
       "Retroalimentació senzilla",
       "millora."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Iguales",
+    "complexity": "Baixa",
+    "phase": "Procés",
+    "participation": "Iguals",
     "tags": [
       "feedback"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "grouping": "Parelles / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -4795,9 +4795,9 @@
       "dubtes",
       "necessitat d'ajuda."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Baixa",
+    "phase": "Procés",
+    "participation": "Alumne",
     "tags": [
       "semaforo"
     ],
@@ -4860,9 +4860,9 @@
       "aprenentatge",
       "tancament de classe."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Baixa",
+    "phase": "Procés",
+    "participation": "Alumne",
     "tags": [
       "bitllet sortida"
     ],
@@ -4926,9 +4926,9 @@
       "transferència",
       "ús crític de fonts."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "llibre obert",
       "fonts",
@@ -4987,8 +4987,8 @@
       "integració de sabers."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "competencial",
       "integrada",
@@ -4996,7 +4996,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD",
@@ -5059,16 +5059,16 @@
       "presa de decisions",
       "transferència."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "situacio problema",
       "transferencia"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PRUEBA",
@@ -5139,8 +5139,8 @@
       "aplicació ràpida."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "gamificacio",
       "escape room",
@@ -5148,7 +5148,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual / Exterior",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -5200,8 +5200,8 @@
       "comprensió profunda."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "socratic",
       "seminari",
@@ -5209,7 +5209,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo / Grupo pequeño",
+    "grouping": "Gran grup / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -5258,17 +5258,17 @@
       "ús de material",
       "presa de dades."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Alumne",
     "tags": [
       "laboratori",
       "llista verificacio",
       "seguretat"
     ],
     "modality": "Presencial",
-    "location": "Laboratorio",
-    "grouping": "Individual / Parejas",
+    "location": "Laboratori",
+    "grouping": "Individual / Parelles",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -5321,16 +5321,16 @@
       "progrés",
       "evidències digitals."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Alumno/Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Alumne/Docent",
     "tags": [
       "quadern digital",
       "seguiment",
       "evidencies"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -5391,15 +5391,15 @@
       "acreditació."
     ],
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "phase": "Procés/Final",
+    "participation": "Alumne/Docent",
     "tags": [
       "eportfolio",
       "evidencies",
       "seleccio"
     ],
     "modality": "Presencial / Online",
-    "location": "Virtual / Domicilio",
+    "location": "Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -5464,9 +5464,9 @@
       "registre de dades",
       "connexió amb l'entorn natural o social."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Alumne",
     "tags": [
       "camp",
       "exterior",
@@ -5474,8 +5474,8 @@
       "natura"
     ],
     "modality": "Presencial",
-    "location": "Exterior / Laboratorio / Aula",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Exterior / Laboratori / Aula",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -5536,9 +5536,9 @@
       "creativitat",
       "competència digital."
     ],
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Docent/Iguals",
     "tags": [
       "video",
       "curt",
@@ -5547,8 +5547,8 @@
       "digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio / Exterior",
-    "grouping": "Individual / Parejas",
+    "location": "Aula / Virtual / Domicili / Exterior",
+    "grouping": "Individual / Parelles",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD",
@@ -5608,9 +5608,9 @@
       "tasques amb ajuda d'IA",
       "treball fora de l'aula."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "ia",
       "prompts",
@@ -5620,7 +5620,7 @@
       "versions"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -5688,9 +5688,9 @@
       "repàs",
       "activació d’idees prèvies."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "targetes de resposta",
       "mini-pissarra",
@@ -5699,7 +5699,7 @@
     ],
     "modality": "Presencial",
     "location": "Aula",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_SONDEO",
@@ -5749,9 +5749,9 @@
       "còmics",
       "projectes de comunicació audiovisual."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "storyboard",
       "guió gràfic",
@@ -5760,7 +5760,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"

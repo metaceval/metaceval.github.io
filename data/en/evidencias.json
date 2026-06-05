@@ -12,16 +12,16 @@
       "pace",
       "individual progress."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "individual work",
       "classroom observation",
       "autonomy"
     ],
     "modality": "Presencial",
-    "location": "Aula",
+    "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -81,17 +81,17 @@
       "communication",
       "shared responsibility."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium/High",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "cooperative",
       "group",
       "collaboration"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -241,17 +241,17 @@
       "oral communication",
       "critical thinking."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "participation",
       "oral",
       "classroom"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Large group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -332,17 +332,17 @@
       "critical thinking",
       "respectful communication."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "debate",
       "argumentation",
       "oral"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Small group / Large group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -414,17 +414,17 @@
       "conceptual depth",
       "shared construction."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "colloquium",
       "dialogue",
       "oral"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Large group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL"
@@ -471,17 +471,17 @@
       "decision-making",
       "collective reflection."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "assembly",
       "participation",
       "collective"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Large group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -529,17 +529,17 @@
       "data handling",
       "scientific thinking."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "High",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "laboratory",
       "experiment",
       "science"
     ],
     "modality": "Presencial",
-    "location": "Laboratorio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Lab",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -591,17 +591,17 @@
       "creative process",
       "hands-on competencies."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "workshop",
       "practical",
       "skills"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Lab / Outdoors",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -650,17 +650,17 @@
       "application in context",
       "professional skills."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "simulation",
       "context",
       "performance"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -704,17 +704,17 @@
       "oral communication",
       "situational application."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium/High",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "role play",
       "drama",
       "oral"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL"
@@ -835,17 +835,17 @@
       "creativity",
       "collective work."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "drama",
       "theatre",
       "expression"
     ],
     "modality": "Presencial",
-    "location": "Aula / Exterior",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "location": "Classroom / Outdoors",
+    "grouping": "Small group / Large group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -890,17 +890,17 @@
       "organisation of ideas",
       "subject mastery."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Medium/High",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Teacher/Peers",
     "tags": [
       "oral presentation",
       "exposition",
       "communication"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -1035,17 +1035,17 @@
       "argumentation",
       "response to questions."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Teacher/Peers",
     "tags": [
       "project defence",
       "oral",
       "presentation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -1105,16 +1105,16 @@
       "reasoning processes",
       "individual feedback."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "interview",
       "oral",
       "individual"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -1166,16 +1166,16 @@
       "detecting misunderstandings",
       "active engagement."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "oral question",
       "checking",
       "immediate"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -1227,16 +1227,16 @@
       "continuity",
       "record of learning process."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "notebook",
       "class",
       "written record"
     ],
     "modality": "Presencial",
-    "location": "Aula",
+    "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -1285,16 +1285,16 @@
       "self-regulation",
       "awareness of learning process."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Student",
     "tags": [
       "diary",
       "reflection",
       "metacognition"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
+    "location": "Classroom / Home / Online",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1357,16 +1357,16 @@
       "self-regulation",
       "competency-based assessment."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Student/Teacher",
     "tags": [
       "portfolio",
       "evidence",
       "progress"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
+    "location": "Classroom / Home / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1439,17 +1439,17 @@
       "data presentation",
       "writing scientific texts."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "laboratory report",
       "science",
       "written"
     ],
     "modality": "Presencial",
-    "location": "Laboratorio / Aula",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Lab / Classroom",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -1499,17 +1499,17 @@
       "academic writing",
       "extended projects."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "research",
       "report",
       "academic writing"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Home / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD"
@@ -1562,16 +1562,16 @@
       "use of sources",
       "structured written exposition."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "monograph",
       "academic",
       "depth"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1622,16 +1622,16 @@
       "critical thinking",
       "academic writing."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "essay",
       "argumentation",
       "writing"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1685,16 +1685,16 @@
       "analysis",
       "written expression."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "text commentary",
       "analysis",
       "reading"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1750,16 +1750,16 @@
       "interpretation",
       "scientific or social writing."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "graph",
       "data",
       "interpretation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1808,16 +1808,16 @@
       "identification of key ideas",
       "written synthesis."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "summary",
       "comprehension",
       "synthesis"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -1871,16 +1871,16 @@
       "comprehension",
       "identification of relationships between concepts."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "outline",
       "structure",
       "organisation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -1941,17 +1941,17 @@
       "deep learning",
       "organising knowledge."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher",
     "tags": [
       "concept map",
       "visual",
       "relationships"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Parejas",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Pairs",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -2000,16 +2000,16 @@
       "brainstorming",
       "personalised organisation."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "mind map",
       "visual",
       "creativity"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -2060,16 +2060,16 @@
       "historical understanding",
       "cause-effect relationships."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "timeline",
       "history",
       "chronological"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2117,16 +2117,16 @@
       "conceptual understanding",
       "semantic precision."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "glossary",
       "vocabulary",
       "definitions"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2175,16 +2175,16 @@
       "analysis",
       "organised personal response."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "reading",
       "reading card",
       "comprehension"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2233,16 +2233,16 @@
       "structured writing",
       "evaluative analysis."
     ],
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "review",
       "critical opinion",
       "writing"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2289,16 +2289,16 @@
       "writing for real audiences",
       "content transfer."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "popular science",
       "science communication",
       "writing"
     ],
     "modality": "Presencial / Online",
-    "location": "Domicilio / Aula",
+    "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2349,17 +2349,17 @@
       "process reflection",
       "final results."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "project report",
       "documentation",
       "reflection"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Home / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD"
@@ -2414,17 +2414,17 @@
       "self-regulation",
       "organisation of group work."
     ],
-    "complexity": "Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Medium",
+    "phase": "Initial/Process",
+    "participation": "Teacher/Group",
     "tags": [
       "work plan",
       "planning",
       "organisation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -2479,17 +2479,17 @@
       "collaborative responsibility",
       "documentation of process."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Grupo",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Group",
     "tags": [
       "minutes",
       "group work",
       "meeting"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Small group / Large group",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
@@ -2537,16 +2537,16 @@
       "self-regulation",
       "personalised learning."
     ],
-    "complexity": "Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Alumno",
+    "complexity": "Medium",
+    "phase": "Initial/Process",
+    "participation": "Student",
     "tags": [
       "learning contract",
       "self-regulation",
       "personalised"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -2596,16 +2596,16 @@
       "self-regulation",
       "guided self-assessment."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Alumno",
+    "complexity": "Low/Medium",
+    "phase": "Process/Final",
+    "participation": "Student",
     "tags": [
       "reflection",
       "self-assessment",
       "metacognition"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2672,16 +2672,16 @@
       "self-regulation",
       "critical self-awareness."
     ],
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Alumno",
+    "participation": "Student",
     "tags": [
       "self-report",
       "self-assessment",
       "written"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -2735,16 +2735,16 @@
       "reasoning",
       "transfer of knowledge."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "problem solving",
       "application",
       "reasoning"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -2837,17 +2837,17 @@
       "decision-making",
       "contextualised application."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "case study",
       "analysis",
       "decision-making"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PRUEBA",
@@ -2902,16 +2902,16 @@
       "synthesis",
       "structured exposition."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Medium/High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "written test",
       "development",
       "argumentation"
     ],
     "modality": "Presencial",
-    "location": "Aula",
+    "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -2968,16 +2968,16 @@
       "recognition",
       "verification of specific knowledge."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Final",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Initial/Final",
+    "participation": "Teacher",
     "tags": [
       "objective test",
       "closed questions",
       "recall"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -3040,16 +3040,16 @@
       "recognition",
       "broad coverage of content."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher",
     "tags": [
       "multiple choice",
       "test",
       "recognition"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -3113,16 +3113,16 @@
       "comprehension",
       "brief explanation of concepts."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "short answer",
       "brief response",
       "written test"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -3175,16 +3175,16 @@
       "depth of understanding",
       "justified reasoning."
     ],
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "oral test",
       "individual",
       "examination"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -3235,16 +3235,16 @@
       "application of procedures",
       "contextualised competency."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "practical test",
       "skills",
       "procedure"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
+    "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -3289,16 +3289,16 @@
       "integrated competency",
       "real-world application."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "competency",
       "contextualised",
       "transfer"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -3357,16 +3357,16 @@
       "historical thinking",
       "contextualised reasoning."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Medium/High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "document-based test",
       "sources",
       "analysis"
     ],
     "modality": "Presencial",
-    "location": "Aula",
+    "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -3419,16 +3419,16 @@
       "formative assessment",
       "quick diagnostic."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher",
     "tags": [
       "digital questionnaire",
       "online",
       "immediate"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -3481,17 +3481,17 @@
       "synthesis",
       "information design."
     ],
-    "complexity": "Media/Alta",
+    "complexity": "Medium/High",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Teacher/Peers",
     "tags": [
       "infographic",
       "visual",
       "information design"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Parejas",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Pairs",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3538,17 +3538,17 @@
       "synthesis",
       "visual and oral presentation."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Teacher/Peers",
     "tags": [
       "poster",
       "academic",
       "visual communication"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3602,17 +3602,17 @@
       "synthesis",
       "digital and oral communication."
     ],
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "digital presentation",
       "slides",
       "visual"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD",
@@ -3669,17 +3669,17 @@
       "audiovisual creativity",
       "content explanation."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Teacher/Peers",
     "tags": [
       "video",
       "audiovisual",
       "digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Exterior / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Outdoors / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3735,16 +3735,16 @@
       "teaching others",
       "digital communication."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "tutorial",
       "video",
       "explanation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -3793,17 +3793,17 @@
       "content research",
       "digital production."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Teacher/Peers",
     "tags": [
       "podcast",
       "audio",
       "oral digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -3856,16 +3856,16 @@
       "visual expression",
       "communication of content."
     ],
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "comic",
       "visual",
       "narration"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio",
+    "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -3910,17 +3910,17 @@
       "applied creativity",
       "hands-on skills."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "scale model",
       "3D",
       "physical"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Lab / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD"
@@ -3962,17 +3962,17 @@
       "spatial visualisation",
       "applied digital competency."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "digital model",
       "3D",
       "simulation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"
@@ -4021,17 +4021,17 @@
       "creative problem solving",
       "applied innovation."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "prototype",
       "design",
       "innovation"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Lab / Outdoors",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD",
@@ -4078,17 +4078,17 @@
       "content organisation",
       "web publishing."
     ],
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "website",
       "web",
       "digital"
     ],
     "modality": "Online",
-    "location": "Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_PROD"
@@ -4137,16 +4137,16 @@
       "real audience",
       "reflection and communication."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "blog",
       "digital writing",
       "audience"
     ],
     "modality": "Online",
-    "location": "Virtual / Domicilio",
+    "location": "Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_tecnicas": [
@@ -4193,17 +4193,17 @@
       "argumentation",
       "digital participation."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "forum",
       "digital",
       "collaboration"
     ],
     "modality": "Online",
-    "location": "Virtual",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "location": "Online",
+    "grouping": "Small group / Large group",
     "ai_resistance": "Baja",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -4254,17 +4254,17 @@
       "shared process",
       "digital co-authorship."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Grupo",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Group",
     "tags": [
       "collaborative document",
       "co-writing",
       "shared"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD",
@@ -4327,16 +4327,16 @@
       "metacognition",
       "online assessment."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Student/Teacher",
     "tags": [
       "digital portfolio",
       "evidence",
       "digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Virtual / Domicilio",
+    "location": "Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -4399,16 +4399,16 @@
       "diagnostic assessment",
       "metacognitive awareness."
     ],
-    "complexity": "Baja",
-    "phase": "Inicial/Final",
-    "participation": "Alumno",
+    "complexity": "Low",
+    "phase": "Initial/Final",
+    "participation": "Student",
     "tags": [
       "KPSI",
       "prior knowledge",
       "diagnostic"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -4459,16 +4459,16 @@
       "conceptual structure",
       "diagnostic assessment."
     ],
-    "complexity": "Media",
-    "phase": "Inicial",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Initial",
+    "participation": "Teacher",
     "tags": [
       "concept map",
       "initial",
       "diagnostic"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -4517,17 +4517,17 @@
       "creative thinking",
       "group activation."
     ],
-    "complexity": "Baja",
-    "phase": "Inicial",
-    "participation": "Grupo",
+    "complexity": "Low",
+    "phase": "Initial",
+    "participation": "Group",
     "tags": [
       "brainstorming",
       "ideas",
       "activation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Large group / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_SONDEO",
@@ -4580,16 +4580,16 @@
       "formative feedback",
       "iterative improvement."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "draft",
       "writing process",
       "revision"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Domicilio / Virtual",
+    "location": "Classroom / Home / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -4646,17 +4646,17 @@
       "regulated feedback",
       "project management."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "partial submission",
       "milestone",
       "process"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Home",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX",
@@ -4714,17 +4714,17 @@
       "reflection",
       "project self-regulation."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Grupo/Alumno",
+    "complexity": "High",
+    "phase": "Process",
+    "participation": "Group/Student",
     "tags": [
       "project log",
       "process",
       "documentation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
-    "grouping": "Grupo pequeño / Individual",
+    "location": "Classroom / Online / Home",
+    "grouping": "Small group / Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -4777,17 +4777,17 @@
       "learning from others",
       "assessment criteria appropriation."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso",
-    "participation": "Iguales",
+    "complexity": "Medium/High",
+    "phase": "Process",
+    "participation": "Peers",
     "tags": [
       "peer review",
       "peer assessment",
       "feedback"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Pairs / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -4849,17 +4849,17 @@
       "constructive assessment",
       "positive climate."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Iguales",
+    "complexity": "Low",
+    "phase": "Process",
+    "participation": "Peers",
     "tags": [
       "two stars and a wish",
       "peer feedback",
       "simple"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Pairs / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROC_REFLEX"
@@ -4917,16 +4917,16 @@
       "metacognitive awareness",
       "formative check."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Low",
+    "phase": "Process",
+    "participation": "Student",
     "tags": [
       "traffic light",
       "self-assessment",
       "quick"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -4984,16 +4984,16 @@
       "immediate check",
       "collecting doubts."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Low",
+    "phase": "Process",
+    "participation": "Student",
     "tags": [
       "exit ticket",
       "lesson closing",
       "check"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -5052,16 +5052,16 @@
       "reasoning with information",
       "competency-based assessment."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "open-book test",
       "consultation",
       "application"
     ],
     "modality": "Presencial",
-    "location": "Aula",
+    "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -5112,17 +5112,17 @@
       "real-world transfer",
       "interdisciplinary assessment."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "competency task",
       "integrated",
       "interdisciplinary"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Exterior",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online / Outdoors",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD",
@@ -5185,17 +5185,17 @@
       "reasoning",
       "contextualised competency."
     ],
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "problem-situation",
       "transfer",
       "competency"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PRUEBA",
@@ -5265,17 +5265,17 @@
       "teamwork",
       "problem solving in context."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "escape room",
       "gamification",
       "challenge"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Exterior",
-    "grouping": "Grupo pequeño / Gran grupo",
+    "location": "Classroom / Online / Outdoors",
+    "grouping": "Small group / Large group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -5326,17 +5326,17 @@
       "argumentation",
       "deep understanding."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "socratic",
       "seminar",
       "dialogue"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Large group / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_ORAL",
@@ -5385,17 +5385,17 @@
       "use of materials",
       "data collection."
     ],
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher/Student",
     "tags": [
       "laboratory",
       "checklist",
       "safety"
     ],
     "modality": "Presencial",
-    "location": "Laboratorio",
-    "grouping": "Individual / Parejas",
+    "location": "Lab",
+    "grouping": "Individual / Pairs",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS"
@@ -5448,16 +5448,16 @@
       "progress",
       "digital evidence."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Alumno/Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Student/Teacher",
     "tags": [
       "digital notebook",
       "monitoring",
       "evidence"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -5517,16 +5517,16 @@
       "criteria-based assessment",
       "accreditation."
     ],
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Student/Teacher",
     "tags": [
       "eportfolio",
       "evidence",
       "selection"
     ],
     "modality": "Presencial / Online",
-    "location": "Virtual / Domicilio",
+    "location": "Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_tecnicas": [
@@ -5591,9 +5591,9 @@
       "data recording",
       "connection with the natural or social environment."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Student",
     "tags": [
       "field notebook",
       "outdoor",
@@ -5601,8 +5601,8 @@
       "nature"
     ],
     "modality": "Presencial",
-    "location": "Exterior / Laboratorio / Aula",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Outdoors / Lab / Classroom",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_OBS_SIS",
@@ -5663,9 +5663,9 @@
       "creativity",
       "digital competence."
     ],
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente/Iguales",
+    "participation": "Teacher/Peers",
     "tags": [
       "micro-video",
       "short",
@@ -5674,8 +5674,8 @@
       "digital"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio / Exterior",
-    "grouping": "Individual / Parejas",
+    "location": "Classroom / Online / Home / Outdoors",
+    "grouping": "Individual / Pairs",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_PROD",
@@ -5735,9 +5735,9 @@
       "AI-supported tasks",
       "work outside the classroom."
     ],
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "ai",
       "prompts",
@@ -5747,7 +5747,7 @@
       "versions"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_tecnicas": [
@@ -5815,9 +5815,9 @@
       "review",
       "activating prior knowledge."
     ],
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "response cards",
       "mini-whiteboard",
@@ -5825,8 +5825,8 @@
       "participation"
     ],
     "modality": "Presencial",
-    "location": "Aula",
-    "grouping": "Gran grupo",
+    "location": "Classroom",
+    "grouping": "Large group",
     "ai_resistance": "Alta",
     "related_tecnicas": [
       "TEC_SONDEO",
@@ -5876,9 +5876,9 @@
       "comics",
       "audiovisual communication projects."
     ],
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "storyboard",
       "visual planning",
@@ -5886,8 +5886,8 @@
       "pre-production"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Media",
     "related_tecnicas": [
       "TEC_PROD"

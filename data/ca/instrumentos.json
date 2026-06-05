@@ -17,8 +17,8 @@
     "advantages": "Clarifica les expectatives i permet una retroalimentació precisa.",
     "limitations": "Requereix temps de disseny i bons descriptors.",
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "rúbrica",
       "analítica"
@@ -138,9 +138,9 @@
     ],
     "advantages": "És més ràpida que una rúbrica analítica.",
     "limitations": "Ofereix menys informació diagnòstica.",
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "rúbrica",
       "holística"
@@ -192,8 +192,8 @@
     "advantages": "Fa visible el procés i no només el resultat.",
     "limitations": "Requereix seguiment continuat.",
     "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "phase": "Procés",
+    "participation": "Docent/Alumne",
     "tags": [
       "rúbrica",
       "procés"
@@ -257,9 +257,9 @@
     ],
     "advantages": "Permet valorar la qualitat amb criteris clars.",
     "limitations": "Pot deixar fora el procés si s'usa sola.",
-    "complexity": "Media/Alta",
+    "complexity": "Mitjana/Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "rúbrica",
       "producte"
@@ -324,9 +324,9 @@
     ],
     "advantages": "Facilita l'observació de diversos aspectes de l'oralitat.",
     "limitations": "Pot ser difícil registrar-ho tot en directe.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Docent/Iguals",
     "tags": [
       "oral",
       "rúbrica"
@@ -403,15 +403,15 @@
     "advantages": "Ajuda a valorar el procés grupal.",
     "limitations": "Requereix evidències de participació real.",
     "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "cooperatiu",
       "grup"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -535,8 +535,8 @@
     "advantages": "Alinea l'avaluació amb criteris i competències.",
     "limitations": "Cal formular indicadors observables.",
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "competencial"
     ],
@@ -593,9 +593,9 @@
     ],
     "advantages": "És ràpida, clara i fàcil d'usar.",
     "limitations": "No valora bé la qualitat ni els matisos.",
-    "complexity": "Baja",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Baixa",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "llista",
       "verificació"
@@ -718,9 +718,9 @@
     ],
     "advantages": "Permet graduar el rendiment.",
     "limitations": "Pot ser ambigua sense descriptors clars.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "escala",
       "observació"
@@ -839,9 +839,9 @@
     ],
     "advantages": "És flexible i fàcil d'aplicar.",
     "limitations": "Menys precisa que una rúbrica completa.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "escala"
     ],
@@ -896,9 +896,9 @@
     ],
     "advantages": "Aporta matisos qualitatius.",
     "limitations": "Exigeix redactar descriptors.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "descriptiva"
     ],
@@ -959,9 +959,9 @@
     ],
     "advantages": "Homogeneïtza la correcció.",
     "limitations": "Menys adequada per a tasques molt obertes si no s'adapta.",
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "guia",
       "correcció"
@@ -1051,9 +1051,9 @@
     ],
     "advantages": "Facilita el càlcul i la revisió.",
     "limitations": "Pot reduir l'avaluació a encerts.",
-    "complexity": "Baja",
+    "complexity": "Baixa",
     "phase": "Inicial/Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "plantilla"
     ],
@@ -1109,9 +1109,9 @@
     ],
     "advantages": "Fa explícita la distribució de la nota.",
     "limitations": "Pot tornar-se mecànic si no hi ha criteris qualitatius.",
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "barem"
     ],
@@ -1175,14 +1175,14 @@
     ],
     "advantages": "Aporta informació qualitativa rica.",
     "limitations": "No és suficient per si sol per qualificar.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "anecdòtic"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
+    "location": "Aula / Laboratori / Exterior",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -1250,9 +1250,9 @@
     ],
     "advantages": "Permet comprendre el context de l'evidència.",
     "limitations": "Consumeix temps.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "descriptiu"
     ],
@@ -1317,15 +1317,15 @@
     ],
     "advantages": "Ajuda a prendre decisions docents.",
     "limitations": "Pot ser poc sistemàtic si no s'estructura.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "diari docent"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Aula / Laboratori / Exterior",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_PART",
@@ -1372,9 +1372,9 @@
     ],
     "advantages": "Permet una visió longitudinal.",
     "limitations": "Requereix actualització constant.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "seguiment"
     ],
@@ -1445,16 +1445,16 @@
     ],
     "advantages": "Fa visible el funcionament de l'equip.",
     "limitations": "Pot amagar les diferències individuals si s'usa sol.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Grup",
     "tags": [
       "grup",
       "seguiment"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_DEF_PROY",
@@ -1498,15 +1498,15 @@
     ],
     "advantages": "Permet objectivar la participació.",
     "limitations": "No s'ha de confondre la quantitat amb la qualitat.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "participació"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DEBATE",
@@ -1565,15 +1565,15 @@
     ],
     "advantages": "Ajuda a avaluar el procés cooperatiu.",
     "limitations": "Necessita observació o evidències complementàries.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Grup",
     "tags": [
       "cooperatiu"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_DEF_PROY",
@@ -1622,15 +1622,15 @@
     ],
     "advantages": "Molt flexibles i ràpides.",
     "limitations": "Requereixen una ordenació posterior.",
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Baixa",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "notes"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Aula / Laboratori / Exterior",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_BILLETE",
@@ -1681,9 +1681,9 @@
     ],
     "advantages": "Pràctica i adaptable.",
     "limitations": "Menys completa que una rúbrica.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "fitxa"
     ],
@@ -1731,9 +1731,9 @@
     ],
     "advantages": "Facilita un feedback clar i accionable.",
     "limitations": "No sempre produeix qualificació.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Iguals",
     "tags": [
       "feedback"
     ],
@@ -1881,8 +1881,8 @@
     "advantages": "Estructura els criteris i els nivells.",
     "limitations": "Pot ser complexa per a l'alumnat.",
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "matriu"
     ],
@@ -1935,9 +1935,9 @@
     ],
     "advantages": "Millora la coherència de les valoracions.",
     "limitations": "Cal adaptar-lo al criteri concret.",
-    "complexity": "Media",
-    "phase": "Diseño",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Disseny",
+    "participation": "Docent",
     "tags": [
       "descriptors"
     ],
@@ -1987,7 +1987,7 @@
     "limitations": "Requereix diverses dades prèvies.",
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "perfil"
     ],
@@ -2040,9 +2040,9 @@
     ],
     "advantages": "Visual i fàcil de comprendre.",
     "limitations": "Menys precisa que una rúbrica.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Iguales",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Alumne/Iguals",
     "tags": [
       "diana"
     ],
@@ -2100,9 +2100,9 @@
     ],
     "advantages": "Molt ràpid i comprensible.",
     "limitations": "Poca precisió.",
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Baixa",
+    "phase": "Procés",
+    "participation": "Alumne",
     "tags": [
       "semàfor"
     ],
@@ -2154,14 +2154,14 @@
     ],
     "advantages": "Senzilla i formativa.",
     "limitations": "Pot haver-hi biaix si no hi ha criteris.",
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Alumno",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Alumne",
     "tags": [
       "autoavaluació"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -2218,15 +2218,15 @@
     ],
     "advantages": "Ajuda a interioritzar criteris.",
     "limitations": "Necessita entrenament.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Alumne",
     "tags": [
       "rúbrica",
       "autoavaluació"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -2279,16 +2279,16 @@
     ],
     "advantages": "Millora la comprensió dels criteris.",
     "limitations": "Pot haver-hi biaixos personals.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Iguales",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Iguals",
     "tags": [
       "rúbrica",
       "coavaluació"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "grouping": "Parelles / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_REV_PARES",
@@ -2336,15 +2336,15 @@
     ],
     "advantages": "Senzilla i pràctica.",
     "limitations": "Menys detallada que una rúbrica.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Iguales",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Iguals",
     "tags": [
       "coavaluació"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "grouping": "Parelles / Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_2E1D",
@@ -2396,14 +2396,14 @@
     ],
     "advantages": "Afavoreix la revisió autònoma.",
     "limitations": "No valora la qualitat si és dicotòmica.",
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Baixa",
+    "phase": "Procés",
+    "participation": "Alumne",
     "tags": [
       "llista de verificació"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -2450,9 +2450,9 @@
     ],
     "advantages": "Concreta accions de millora.",
     "limitations": "Requereix revisió posterior.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Alumno/Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Alumne/Docent",
     "tags": [
       "millora"
     ],
@@ -2517,9 +2517,9 @@
     ],
     "advantages": "Centralitza la informació.",
     "limitations": "No explica per si sol l'aprenentatge.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "qualificacions"
     ],
@@ -2570,8 +2570,8 @@
     "advantages": "Evita qualificar al marge dels criteris.",
     "limitations": "Ha d'estar ben dissenyada.",
     "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "criteris"
     ],
@@ -2634,7 +2634,7 @@
     "limitations": "Pot rigiditzar l'avaluació.",
     "complexity": "Alta",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "ponderació"
     ],
@@ -2684,9 +2684,9 @@
     ],
     "advantages": "Compatible amb sistemes administratius.",
     "limitations": "Pot ocultar informació qualitativa.",
-    "complexity": "Baja",
+    "complexity": "Baixa",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "numèrica"
     ],
@@ -2741,9 +2741,9 @@
     ],
     "advantages": "Més descriptiva que un número.",
     "limitations": "Pot ser ambigua sense descriptors.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "verbal"
     ],
@@ -2793,9 +2793,9 @@
     ],
     "advantages": "Facilita la coherència en la qualificació.",
     "limitations": "Ha de ser transparent i justificable.",
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "conversió"
     ],
@@ -2845,9 +2845,9 @@
     ],
     "advantages": "Permet automatitzar i visualitzar.",
     "limitations": "Pot generar falsa precisió.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "full de càlcul"
     ],
@@ -2897,9 +2897,9 @@
     ],
     "advantages": "Integra dades qualitatives i quantitatives.",
     "limitations": "Requereix síntesi acurada.",
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Docent",
     "tags": [
       "informe individual"
     ],
@@ -2945,15 +2945,15 @@
     ],
     "advantages": "Té valor administratiu.",
     "limitations": "No substitueix les eines pedagògiques.",
-    "complexity": "Media",
+    "complexity": "Mitjana",
     "phase": "Final",
-    "participation": "Equipo docente",
+    "participation": "Equip docent",
     "tags": [
       "acta"
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_DEF_PROY",
@@ -2997,14 +2997,14 @@
     ],
     "advantages": "Automatitza la recollida de dades.",
     "limitations": "Depèn del disseny de les preguntes.",
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Inicial/Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "formulari"
     ],
     "modality": "Online",
-    "location": "Virtual / Domicilio",
+    "location": "Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -3058,9 +3058,9 @@
     ],
     "advantages": "Agilitza la qualificació i la devolució.",
     "limitations": "Pot dependre de la plataforma.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent",
     "tags": [
       "digital",
       "rúbrica"
@@ -3116,9 +3116,9 @@
     ],
     "advantages": "Aporta evidències del procés.",
     "limitations": "No reflecteix sempre la qualitat de l'aportació.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "historial"
     ],
@@ -3181,15 +3181,15 @@
     ],
     "advantages": "Facilita el seguiment ràpid.",
     "limitations": "S'ha d'interpretar amb cautela.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Alumne",
     "tags": [
       "tauler"
     ],
     "modality": "Online",
     "location": "Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_PORT_DIG",
@@ -3246,14 +3246,14 @@
     "advantages": "Aporta traces d'activitat.",
     "limitations": "No equival directament a aprenentatge.",
     "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "analítiques"
     ],
     "modality": "Online",
     "location": "Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Baja",
     "related_instruments": [
       "EVI_CUEST_DIG",
@@ -3307,9 +3307,9 @@
     ],
     "advantages": "Facilita la revisió i la documentació.",
     "limitations": "Requereix bona organització.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne",
     "tags": [
       "evidències"
     ],
@@ -3372,9 +3372,9 @@
     ],
     "advantages": "Millora l'alineació entre criteri, tasca i evidència.",
     "limitations": "Pot fragmentar l'aprenentatge si es converteix en una llista mecànica.",
-    "complexity": "Media",
-    "phase": "Diseño/Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Disseny/Procés",
+    "participation": "Docent",
     "tags": [
       "criteris",
       "indicadors",
@@ -3426,9 +3426,9 @@
     ],
     "advantages": "Mostra l'evolució, no només el resultat final.",
     "limitations": "Requereix revisar periòdicament evidències comparables.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Alumne",
     "tags": [
       "progrés",
       "contínua",
@@ -3488,17 +3488,17 @@
     ],
     "advantages": "Redueix la improvisació i els biaixos d'observació.",
     "limitations": "No substitueix el judici professional ni els criteris ben formulats.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Procés",
+    "participation": "Docent",
     "tags": [
       "observació",
       "guia",
       "indicadors"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Aula / Laboratori / Exterior",
+    "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_CHECK_LAB",
@@ -3553,9 +3553,9 @@
     ],
     "advantages": "Ajuda que el comentari es converteixi en acció.",
     "limitations": "Perd valor si s'omple amb frases genèriques.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales/Alumno",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Iguals/Alumne",
     "tags": [
       "feedback",
       "feedforward",
@@ -3685,9 +3685,9 @@
     ],
     "advantages": "Facilita el seguiment i l'autoregulació del grup.",
     "limitations": "S'ha de revisar durant el procés, no quedar-se com un tràmit inicial.",
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Inicial/Procés",
+    "participation": "Docent/Grup",
     "tags": [
       "grup",
       "contracte",
@@ -3695,7 +3695,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -3741,9 +3741,9 @@
     ],
     "advantages": "Ajuda a prendre decisions d'agrupament i convivència.",
     "limitations": "Gestiona informació sensible i s'ha d'usar amb confidencialitat.",
-    "complexity": "Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Docente",
+    "complexity": "Mitjana",
+    "phase": "Inicial/Procés",
+    "participation": "Docent",
     "tags": [
       "sociograma",
       "convivència",
@@ -3751,7 +3751,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "grouping": "Gran grup",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_ASAM",
@@ -3794,8 +3794,8 @@
     "advantages": "Fa visible quina evidència sustenta cada decisió.",
     "limitations": "Requereix actualització i selecció acurada d'evidències rellevants.",
     "complexity": "Alta",
-    "phase": "Diseño/Proceso/Final",
-    "participation": "Docente",
+    "phase": "Disseny/Procés/Final",
+    "participation": "Docent",
     "tags": [
       "criteris",
       "evidències",
@@ -3862,9 +3862,9 @@
     ],
     "advantages": "Fa transparent el procés i facilita converses de retroalimentació sobre autoria i qualitat del treball.",
     "limitations": "Depèn de l'honestedat de l'alumnat i s'ha de combinar amb revisió del procés o defensa oral quan calgui.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Alumne/Docent",
     "tags": [
       "ia",
       "autoria",
@@ -3874,7 +3874,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DIARIO",
@@ -4022,9 +4022,9 @@
     ],
     "advantages": "Assegura validesa de contingut i equilibri; fa transparent què s’avalua i amb quin pes.",
     "limitations": "Requereix temps previ de planificació i domini dels nivells cognitius.",
-    "complexity": "Media/Alta",
-    "phase": "Diseño",
-    "participation": "Docente",
+    "complexity": "Mitjana/Alta",
+    "phase": "Disseny",
+    "participation": "Docent",
     "tags": [
       "taula d’especificacions",
       "disseny de proves",
@@ -4095,9 +4095,9 @@
     ],
     "advantages": "Ràpida de dissenyar, no encasella en nivells i prioritza la retroalimentació qualitativa.",
     "limitations": "Aporta menys detall que l’analítica i depèn de la qualitat dels comentaris escrits.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Mitjana",
+    "phase": "Procés/Final",
+    "participation": "Docent/Alumne/Iguals",
     "tags": [
       "rúbrica",
       "punt únic",
@@ -4169,9 +4169,9 @@
     ],
     "advantages": "Crea un clima segur, millora la qualitat del feedback i ensenya a donar-lo i rebre’l.",
     "limitations": "Requereix pràctica i modelatge previ perquè no es quedi en un tràmit mecànic.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales/Alumno",
+    "complexity": "Baixa/Mitjana",
+    "phase": "Procés",
+    "participation": "Docent/Iguals/Alumne",
     "tags": [
       "retroalimentació",
       "escala de feedback",
@@ -4180,7 +4180,7 @@
     ],
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "grouping": "Grup petit",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_BORR",
@@ -4240,9 +4240,9 @@
     ],
     "advantages": "Desenvolupa autonomia i autoregulació i fa explícit el procediment.",
     "limitations": "Si es dóna ja feta i no es construeix amb l’alumnat, es pot usar de manera mecànica.",
-    "complexity": "Media",
-    "phase": "Diseño/Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Mitjana",
+    "phase": "Disseny/Procés",
+    "participation": "Docent/Alumne",
     "tags": [
       "base d’orientació",
       "avaluació formadora",

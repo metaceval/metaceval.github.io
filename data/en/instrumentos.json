@@ -16,15 +16,15 @@
     ],
     "advantages": "Clarifies expectations and allows precise feedback.",
     "limitations": "Requires design time and good descriptors.",
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "rubric",
       "analytic"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -138,15 +138,15 @@
     ],
     "advantages": "Faster than an analytic rubric.",
     "limitations": "Offers less diagnostic information.",
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "rubric",
       "holistic"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -191,15 +191,15 @@
     ],
     "advantages": "Makes the process visible, not just the result.",
     "limitations": "Requires ongoing monitoring.",
-    "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "High",
+    "phase": "Process",
+    "participation": "Teacher/Student",
     "tags": [
       "rubric",
       "process"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -257,15 +257,15 @@
     ],
     "advantages": "Allows quality to be assessed with clear criteria.",
     "limitations": "May leave the process out if used alone.",
-    "complexity": "Media/Alta",
+    "complexity": "Medium/High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "rubric",
       "product"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -324,15 +324,15 @@
     ],
     "advantages": "Facilitates observation of diverse aspects of oral communication.",
     "limitations": "Can be difficult to record everything live.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Teacher/Peers",
     "tags": [
       "oral",
       "rubric"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -402,16 +402,16 @@
     ],
     "advantages": "Helps assess the group process.",
     "limitations": "Requires evidence of real participation.",
-    "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "High",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "cooperative",
       "group"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -534,14 +534,14 @@
     ],
     "advantages": "Aligns assessment with criteria and competencies.",
     "limitations": "Must formulate observable indicators.",
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "competency"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -593,15 +593,15 @@
     ],
     "advantages": "Fast, clear and easy to use.",
     "limitations": "Does not assess quality or nuance well.",
-    "complexity": "Baja",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Low",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "checklist",
       "list"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -718,15 +718,15 @@
     ],
     "advantages": "Allows performance to be graded.",
     "limitations": "Can be ambiguous without clear descriptors.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "scale",
       "observation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -839,14 +839,14 @@
     ],
     "advantages": "Flexible and easy to apply.",
     "limitations": "Less precise than a full rubric.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "scale"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -896,14 +896,14 @@
     ],
     "advantages": "Provides qualitative nuance.",
     "limitations": "Requires writing descriptors.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "descriptive"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -959,15 +959,15 @@
     ],
     "advantages": "Standardises marking.",
     "limitations": "Less suitable for very open tasks if not adapted.",
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "guide",
       "marking"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1051,14 +1051,14 @@
     ],
     "advantages": "Facilitates calculation and review.",
     "limitations": "Can reduce assessment to correct answers.",
-    "complexity": "Baja",
-    "phase": "Inicial/Final",
-    "participation": "Docente",
+    "complexity": "Low",
+    "phase": "Initial/Final",
+    "participation": "Teacher",
     "tags": [
       "template"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1109,14 +1109,14 @@
     ],
     "advantages": "Makes the distribution of marks explicit.",
     "limitations": "Can become mechanical without qualitative criteria.",
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "scoring scale"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1175,14 +1175,14 @@
     ],
     "advantages": "Provides rich qualitative information.",
     "limitations": "Not sufficient on its own for grading.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "anecdotal"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
+    "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -1250,14 +1250,14 @@
     ],
     "advantages": "Allows the context of the evidence to be understood.",
     "limitations": "Time-consuming.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "descriptive"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -1317,15 +1317,15 @@
     ],
     "advantages": "Helps make teaching decisions.",
     "limitations": "Can be unsystematic if not structured.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "teacher diary"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Lab / Outdoors",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_PART",
@@ -1372,14 +1372,14 @@
     ],
     "advantages": "Allows a longitudinal view.",
     "limitations": "Requires constant updating.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "monitoring"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1445,16 +1445,16 @@
     ],
     "advantages": "Makes the team's functioning visible.",
     "limitations": "Can hide individual differences if used alone.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Group",
     "tags": [
       "group",
       "monitoring"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_DEF_PROY",
@@ -1498,15 +1498,15 @@
     ],
     "advantages": "Allows participation to be made objective.",
     "limitations": "Quantity must not be confused with quality.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "participation"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DEBATE",
@@ -1565,15 +1565,15 @@
     ],
     "advantages": "Helps assess the cooperative process.",
     "limitations": "Needs observation or complementary evidence.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Group",
     "tags": [
       "cooperative"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_DEF_PROY",
@@ -1622,15 +1622,15 @@
     ],
     "advantages": "Very flexible and quick.",
     "limitations": "Require subsequent organisation.",
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Low",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "notes"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Lab / Outdoors",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_BILLETE",
@@ -1681,14 +1681,14 @@
     ],
     "advantages": "Practical and adaptable.",
     "limitations": "Less complete than a rubric.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "card"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1731,14 +1731,14 @@
     ],
     "advantages": "Facilitates clear and actionable feedback.",
     "limitations": "Does not always produce a grade.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Peers",
     "tags": [
       "feedback"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1880,14 +1880,14 @@
     ],
     "advantages": "Structures criteria and levels.",
     "limitations": "Can be complex for students.",
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "matrix"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1935,14 +1935,14 @@
     ],
     "advantages": "Improves coherence of assessments.",
     "limitations": "Must be adapted to the specific criterion.",
-    "complexity": "Media",
-    "phase": "Diseño",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Design",
+    "participation": "Teacher",
     "tags": [
       "descriptors"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -1985,14 +1985,14 @@
     ],
     "advantages": "Offers a global view of learning.",
     "limitations": "Requires several prior data points.",
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "profile"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2040,14 +2040,14 @@
     ],
     "advantages": "Visual and easy to understand.",
     "limitations": "Less precise than a rubric.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Iguales",
+    "complexity": "Low/Medium",
+    "phase": "Process/Final",
+    "participation": "Student/Peers",
     "tags": [
       "target"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2100,14 +2100,14 @@
     ],
     "advantages": "Very quick and easy to understand.",
     "limitations": "Low precision.",
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Low",
+    "phase": "Process",
+    "participation": "Student",
     "tags": [
       "traffic light"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -2154,14 +2154,14 @@
     ],
     "advantages": "Simple and formative.",
     "limitations": "Can be biased without criteria.",
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Alumno",
+    "complexity": "Low/Medium",
+    "phase": "Initial/Process/Final",
+    "participation": "Student",
     "tags": [
       "self-assessment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -2218,15 +2218,15 @@
     ],
     "advantages": "Helps internalise criteria.",
     "limitations": "Requires training.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Alumno",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Student",
     "tags": [
       "rubric",
       "self-assessment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -2279,16 +2279,16 @@
     ],
     "advantages": "Improves understanding of criteria.",
     "limitations": "Can involve personal bias.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Iguales",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Peers",
     "tags": [
       "rubric",
       "peer assessment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Pairs / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_REV_PARES",
@@ -2336,15 +2336,15 @@
     ],
     "advantages": "Simple and practical.",
     "limitations": "Less detailed than a rubric.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Iguales",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Peers",
     "tags": [
       "peer assessment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Parejas / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Pairs / Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_2E1D",
@@ -2396,14 +2396,14 @@
     ],
     "advantages": "Promotes autonomous review.",
     "limitations": "Does not assess quality if dichotomous.",
-    "complexity": "Baja",
-    "phase": "Proceso",
-    "participation": "Alumno",
+    "complexity": "Low",
+    "phase": "Process",
+    "participation": "Student",
     "tags": [
       "checklist"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual / Domicilio",
+    "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -2450,14 +2450,14 @@
     ],
     "advantages": "Specifies improvement actions.",
     "limitations": "Requires subsequent review.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Alumno/Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Student/Teacher",
     "tags": [
       "improvement"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2517,14 +2517,14 @@
     ],
     "advantages": "Centralises information.",
     "limitations": "Does not explain learning on its own.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "grades"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -2569,14 +2569,14 @@
     ],
     "advantages": "Avoids grading outside criteria.",
     "limitations": "Must be well designed.",
-    "complexity": "Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "criteria"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2632,14 +2632,14 @@
     ],
     "advantages": "Makes the weight of each element explicit.",
     "limitations": "Can make assessment too rigid.",
-    "complexity": "Alta",
+    "complexity": "High",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "weighting"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2684,14 +2684,14 @@
     ],
     "advantages": "Compatible with administrative systems.",
     "limitations": "Can hide qualitative information.",
-    "complexity": "Baja",
+    "complexity": "Low",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "numerical"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2741,14 +2741,14 @@
     ],
     "advantages": "More descriptive than a number.",
     "limitations": "Can be ambiguous without descriptors.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "verbal"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2793,14 +2793,14 @@
     ],
     "advantages": "Facilitates consistency in grading.",
     "limitations": "Must be transparent and justifiable.",
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "conversion"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2845,14 +2845,14 @@
     ],
     "advantages": "Allows automation and visualisation.",
     "limitations": "Can generate false precision.",
-    "complexity": "Media/Alta",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "spreadsheet"
     ],
     "modality": "Online",
-    "location": "Virtual",
+    "location": "Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2897,14 +2897,14 @@
     ],
     "advantages": "Integrates qualitative and quantitative data.",
     "limitations": "Requires careful synthesis.",
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Docente",
+    "participation": "Teacher",
     "tags": [
       "individual report"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -2945,15 +2945,15 @@
     ],
     "advantages": "Has administrative value.",
     "limitations": "Does not substitute pedagogical tools.",
-    "complexity": "Media",
+    "complexity": "Medium",
     "phase": "Final",
-    "participation": "Equipo docente",
+    "participation": "Teaching team",
     "tags": [
       "record"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_DEF_PROY",
@@ -2997,14 +2997,14 @@
     ],
     "advantages": "Automates data collection.",
     "limitations": "Depends on question design.",
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Low/Medium",
+    "phase": "Initial/Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "form"
     ],
     "modality": "Online",
-    "location": "Virtual / Domicilio",
+    "location": "Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Baja",
     "related_instruments": [
@@ -3058,15 +3058,15 @@
     ],
     "advantages": "Speeds up grading and return.",
     "limitations": "Can depend on the platform.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher",
     "tags": [
       "digital",
       "rubric"
     ],
     "modality": "Online",
-    "location": "Virtual",
+    "location": "Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -3116,14 +3116,14 @@
     ],
     "advantages": "Provides evidence of the process.",
     "limitations": "Does not always reflect quality of contribution.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "history"
     ],
     "modality": "Online",
-    "location": "Virtual",
+    "location": "Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -3181,15 +3181,15 @@
     ],
     "advantages": "Facilitates quick monitoring.",
     "limitations": "Must be interpreted with caution.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Student",
     "tags": [
       "dashboard"
     ],
     "modality": "Online",
-    "location": "Virtual",
-    "grouping": "Gran grupo",
+    "location": "Online",
+    "grouping": "Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_PORT_DIG",
@@ -3245,15 +3245,15 @@
     ],
     "advantages": "Provides activity traces.",
     "limitations": "Does not directly equate to learning.",
-    "complexity": "Alta",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "High",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "analytics"
     ],
     "modality": "Online",
-    "location": "Virtual",
-    "grouping": "Gran grupo",
+    "location": "Online",
+    "grouping": "Large group",
     "ai_resistance": "Baja",
     "related_instruments": [
       "EVI_CUEST_DIG",
@@ -3307,14 +3307,14 @@
     ],
     "advantages": "Facilitates review and documentation.",
     "limitations": "Requires good organisation.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student",
     "tags": [
       "evidence"
     ],
     "modality": "Online",
-    "location": "Virtual",
+    "location": "Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -3372,16 +3372,16 @@
     ],
     "advantages": "Improves alignment between criterion, task and evidence.",
     "limitations": "Can fragment learning if it becomes a mechanical list.",
-    "complexity": "Media",
-    "phase": "Diseño/Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Design/Process",
+    "participation": "Teacher",
     "tags": [
       "criteria",
       "indicators",
       "alignment"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -3426,16 +3426,16 @@
     ],
     "advantages": "Shows development, not just the final result.",
     "limitations": "Requires periodic review of comparable evidence.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher/Student",
     "tags": [
       "progress",
       "continuous",
       "monitoring"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -3488,17 +3488,17 @@
     ],
     "advantages": "Reduces improvisation and observation bias.",
     "limitations": "Does not replace professional judgement or well-formulated criteria.",
-    "complexity": "Media",
-    "phase": "Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Process",
+    "participation": "Teacher",
     "tags": [
       "observation",
       "guide",
       "indicators"
     ],
     "modality": "Presencial",
-    "location": "Aula / Laboratorio / Exterior",
-    "grouping": "Individual / Gran grupo",
+    "location": "Classroom / Lab / Outdoors",
+    "grouping": "Individual / Large group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_CHECK_LAB",
@@ -3553,16 +3553,16 @@
     ],
     "advantages": "Helps turn the comment into action.",
     "limitations": "Loses value if filled in with generic phrases.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales/Alumno",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher/Peers/Student",
     "tags": [
       "feedback",
       "feedforward",
       "improvement"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -3685,17 +3685,17 @@
     ],
     "advantages": "Facilitates group monitoring and self-regulation.",
     "limitations": "Must be reviewed during the process, not remain as an initial formality.",
-    "complexity": "Baja/Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Docente/Grupo",
+    "complexity": "Low/Medium",
+    "phase": "Initial/Process",
+    "participation": "Teacher/Group",
     "tags": [
       "group",
       "contract",
       "cooperative"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_TRAB_COOP",
@@ -3741,17 +3741,17 @@
     ],
     "advantages": "Helps make grouping and coexistence decisions.",
     "limitations": "Handles sensitive information and must be used with confidentiality.",
-    "complexity": "Media",
-    "phase": "Inicial/Proceso",
-    "participation": "Docente",
+    "complexity": "Medium",
+    "phase": "Initial/Process",
+    "participation": "Teacher",
     "tags": [
       "sociogram",
       "coexistence",
       "group"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Gran grupo",
+    "location": "Classroom / Online",
+    "grouping": "Large group",
     "ai_resistance": "Media",
     "related_instruments": [
       "EVI_ASAM",
@@ -3793,16 +3793,16 @@
     ],
     "advantages": "Makes visible which evidence supports each decision.",
     "limitations": "Requires updating and careful selection of relevant evidence.",
-    "complexity": "Alta",
-    "phase": "Diseño/Proceso/Final",
-    "participation": "Docente",
+    "complexity": "High",
+    "phase": "Design/Process/Final",
+    "participation": "Teacher",
     "tags": [
       "criteria",
       "evidence",
       "traceability"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -3862,9 +3862,9 @@
     ],
     "advantages": "Makes the process transparent and supports feedback conversations about authorship and work quality.",
     "limitations": "It depends on student honesty and should be combined with process review or oral defence when needed.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso/Final",
-    "participation": "Alumno/Docente",
+    "complexity": "Low/Medium",
+    "phase": "Process/Final",
+    "participation": "Student/Teacher",
     "tags": [
       "ai",
       "authorship",
@@ -3873,8 +3873,8 @@
       "traceability"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Individual / Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Individual / Small group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_DIARIO",
@@ -4022,9 +4022,9 @@
     ],
     "advantages": "Ensures content validity and balance; makes transparent what is assessed and with what weight.",
     "limitations": "Requires upfront planning time and command of the cognitive levels.",
-    "complexity": "Media/Alta",
-    "phase": "Diseño",
-    "participation": "Docente",
+    "complexity": "Medium/High",
+    "phase": "Design",
+    "participation": "Teacher",
     "tags": [
       "table of specifications",
       "test design",
@@ -4032,7 +4032,7 @@
       "cognitive levels"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [
@@ -4095,9 +4095,9 @@
     ],
     "advantages": "Quick to design, does not box into levels and prioritises qualitative feedback.",
     "limitations": "Provides less detail than an analytic rubric and depends on the quality of written comments.",
-    "complexity": "Media",
-    "phase": "Proceso/Final",
-    "participation": "Docente/Alumno/Iguales",
+    "complexity": "Medium",
+    "phase": "Process/Final",
+    "participation": "Teacher/Student/Peers",
     "tags": [
       "rubric",
       "single-point",
@@ -4105,7 +4105,7 @@
       "qualitative"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Media",
     "related_instruments": [
@@ -4169,9 +4169,9 @@
     ],
     "advantages": "Creates a safe climate, improves feedback quality and teaches how to give and receive it.",
     "limitations": "Requires practice and prior modelling so it does not become a mechanical formality.",
-    "complexity": "Baja/Media",
-    "phase": "Proceso",
-    "participation": "Docente/Iguales/Alumno",
+    "complexity": "Low/Medium",
+    "phase": "Process",
+    "participation": "Teacher/Peers/Student",
     "tags": [
       "feedback",
       "ladder of feedback",
@@ -4179,8 +4179,8 @@
       "Project Zero"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
-    "grouping": "Grupo pequeño",
+    "location": "Classroom / Online",
+    "grouping": "Small group",
     "ai_resistance": "Alta",
     "related_instruments": [
       "EVI_BORR",
@@ -4240,9 +4240,9 @@
     ],
     "advantages": "Develops autonomy and self-regulation and makes the procedure explicit.",
     "limitations": "If handed over ready-made instead of built with learners, it may be used mechanically.",
-    "complexity": "Media",
-    "phase": "Diseño/Proceso",
-    "participation": "Docente/Alumno",
+    "complexity": "Medium",
+    "phase": "Design/Process",
+    "participation": "Teacher/Student",
     "tags": [
       "base of orientation",
       "assessment as learning",
@@ -4250,7 +4250,7 @@
       "scaffolding"
     ],
     "modality": "Presencial / Online",
-    "location": "Aula / Virtual",
+    "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Alta",
     "related_instruments": [

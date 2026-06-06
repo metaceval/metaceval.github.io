@@ -18,7 +18,7 @@
       "self-assessment",
       "metacognition"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -101,7 +101,7 @@
       "peer assessment",
       "peers"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Pairs / Small group",
     "ai_resistance": "Medium",
@@ -179,7 +179,7 @@
     "tags": [
       "teacher assessment"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "Medium",
@@ -327,7 +327,7 @@
       "diagnostic",
       "initial"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "High",
@@ -411,7 +411,7 @@
       "formative",
       "feedback"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "Medium",
@@ -667,7 +667,7 @@
       "summative",
       "grading"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -783,7 +783,7 @@
       "competency-based",
       "transfer"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -888,7 +888,7 @@
     "tags": [
       "performance"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Lab / Outdoors",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -1010,7 +1010,7 @@
     "tags": [
       "project"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Small group / Large group",
     "ai_resistance": "Medium",
@@ -1088,7 +1088,7 @@
       "inquiry",
       "research"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Lab / Outdoors",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -1163,7 +1163,7 @@
       "problems",
       "reasoning"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -1283,7 +1283,7 @@
       "case",
       "application"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -1337,7 +1337,7 @@
     "tags": [
       "simulation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Lab",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -1485,7 +1485,7 @@
       "indicators",
       "alignment"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -1559,7 +1559,7 @@
       "accessibility",
       "diversity"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -1685,7 +1685,7 @@
       "progress",
       "monitoring"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "Medium",
@@ -1815,7 +1815,7 @@
       "feedforward",
       "improvement"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -1958,7 +1958,7 @@
       "mark",
       "promotion"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -2021,7 +2021,7 @@
       "peer assessment",
       "negotiation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "Medium",
@@ -2101,7 +2101,7 @@
       "challenge",
       "badges"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group / Large group",
     "ai_resistance": "Medium",
@@ -2166,7 +2166,7 @@
       "sources",
       "process"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -2315,7 +2315,7 @@
       "motivation",
       "self-regulation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -2385,7 +2385,7 @@
       "scoring norms",
       "comparison"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "Medium",
@@ -2446,7 +2446,7 @@
       "Vygotsky",
       "ZPD"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",

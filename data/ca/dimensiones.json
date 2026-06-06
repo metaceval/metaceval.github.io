@@ -18,7 +18,7 @@
       "autoavaluacio",
       "metacognicio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -101,7 +101,7 @@
       "coavaluacio",
       "parells"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Parelles / Grup petit",
     "ai_resistance": "Mitjana",
@@ -179,7 +179,7 @@
     "tags": [
       "heteroavaluacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Gran grup",
     "ai_resistance": "Mitjana",
@@ -327,7 +327,7 @@
       "diagnostica",
       "inicial"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Gran grup",
     "ai_resistance": "Alta",
@@ -411,7 +411,7 @@
       "formativa",
       "retroalimentacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Gran grup",
     "ai_resistance": "Mitjana",
@@ -667,7 +667,7 @@
       "sumativa",
       "qualificacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -783,7 +783,7 @@
       "competencial",
       "transferencia"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Exterior",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -888,7 +888,7 @@
     "tags": [
       "desempeny"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Laboratori / Exterior",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
@@ -1010,7 +1010,7 @@
     "tags": [
       "projecte"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Exterior",
     "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Mitjana",
@@ -1088,7 +1088,7 @@
       "indagacio",
       "recerca"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Laboratori / Exterior",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -1163,7 +1163,7 @@
       "problemes",
       "raonament"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -1283,7 +1283,7 @@
       "cas",
       "aplicacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -1337,7 +1337,7 @@
     "tags": [
       "simulacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Laboratori",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -1388,7 +1388,7 @@
     "tags": [
       "digital"
     ],
-    "modality": "Online",
+    "modality": "En línia",
     "location": "Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Baixa",
@@ -1485,7 +1485,7 @@
       "indicadors",
       "alineacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -1559,7 +1559,7 @@
       "accessibilitat",
       "diversitat"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -1685,7 +1685,7 @@
       "progres",
       "seguiment"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Gran grup",
     "ai_resistance": "Mitjana",
@@ -1815,7 +1815,7 @@
       "feedforward",
       "millora"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -1958,7 +1958,7 @@
       "nota",
       "promocio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -2021,7 +2021,7 @@
       "coavaluacio",
       "negociacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Gran grup",
     "ai_resistance": "Mitjana",
@@ -2101,7 +2101,7 @@
       "repte",
       "insignies"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit / Gran grup",
     "ai_resistance": "Mitjana",
@@ -2166,7 +2166,7 @@
       "fonts",
       "proces"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
@@ -2315,7 +2315,7 @@
       "motivació",
       "autoregulació"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -2385,7 +2385,7 @@
       "barem",
       "comparació"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Gran grup",
     "ai_resistance": "Mitjana",
@@ -2446,7 +2446,7 @@
       "Vygotsky",
       "ZDP"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",

@@ -20,7 +20,7 @@
       "classroom observation",
       "autonomy"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -89,7 +89,7 @@
       "group",
       "collaboration"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Small group",
     "ai_resistance": "Medium",
@@ -249,7 +249,7 @@
       "oral",
       "classroom"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Large group",
     "ai_resistance": "High",
@@ -340,7 +340,7 @@
       "argumentation",
       "oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Small group / Large group",
     "ai_resistance": "High",
@@ -422,7 +422,7 @@
       "dialogue",
       "oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Large group",
     "ai_resistance": "High",
@@ -479,7 +479,7 @@
       "participation",
       "collective"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Large group",
     "ai_resistance": "High",
@@ -537,7 +537,7 @@
       "experiment",
       "science"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Lab",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -599,7 +599,7 @@
       "practical",
       "skills"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -658,7 +658,7 @@
       "context",
       "performance"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -712,7 +712,7 @@
       "drama",
       "oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Small group",
     "ai_resistance": "High",
@@ -843,7 +843,7 @@
       "theatre",
       "expression"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom / Outdoors",
     "grouping": "Small group / Large group",
     "ai_resistance": "High",
@@ -898,7 +898,7 @@
       "exposition",
       "communication"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -1043,7 +1043,7 @@
       "oral",
       "presentation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -1113,7 +1113,7 @@
       "oral",
       "individual"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -1174,7 +1174,7 @@
       "checking",
       "immediate"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -1235,7 +1235,7 @@
       "class",
       "written record"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -1293,7 +1293,7 @@
       "reflection",
       "metacognition"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -1365,7 +1365,7 @@
       "evidence",
       "progress"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -1447,7 +1447,7 @@
       "science",
       "written"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Lab / Classroom",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -1507,7 +1507,7 @@
       "report",
       "academic writing"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Low",
@@ -1570,7 +1570,7 @@
       "academic",
       "depth"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -1630,7 +1630,7 @@
       "argumentation",
       "writing"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -1693,7 +1693,7 @@
       "analysis",
       "reading"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -1758,7 +1758,7 @@
       "data",
       "interpretation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -1816,7 +1816,7 @@
       "comprehension",
       "synthesis"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -1879,7 +1879,7 @@
       "structure",
       "organisation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -1949,7 +1949,7 @@
       "visual",
       "relationships"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Pairs",
     "ai_resistance": "Medium",
@@ -2008,7 +2008,7 @@
       "visual",
       "creativity"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -2068,7 +2068,7 @@
       "history",
       "chronological"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -2125,7 +2125,7 @@
       "vocabulary",
       "definitions"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -2183,7 +2183,7 @@
       "reading card",
       "comprehension"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -2241,7 +2241,7 @@
       "critical opinion",
       "writing"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -2297,7 +2297,7 @@
       "science communication",
       "writing"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Home / Classroom",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -2357,7 +2357,7 @@
       "documentation",
       "reflection"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Low",
@@ -2422,7 +2422,7 @@
       "planning",
       "organisation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -2487,7 +2487,7 @@
       "group work",
       "meeting"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Small group / Large group",
     "ai_resistance": "Low",
@@ -2545,7 +2545,7 @@
       "self-regulation",
       "personalised"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -2604,7 +2604,7 @@
       "self-assessment",
       "metacognition"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -2680,7 +2680,7 @@
       "self-assessment",
       "written"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -2743,7 +2743,7 @@
       "application",
       "reasoning"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -2845,7 +2845,7 @@
       "analysis",
       "decision-making"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -2910,7 +2910,7 @@
       "development",
       "argumentation"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -2976,7 +2976,7 @@
       "closed questions",
       "recall"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -3048,7 +3048,7 @@
       "test",
       "recognition"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -3121,7 +3121,7 @@
       "brief response",
       "written test"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -3183,7 +3183,7 @@
       "individual",
       "examination"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -3243,7 +3243,7 @@
       "skills",
       "procedure"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -3297,7 +3297,7 @@
       "contextualised",
       "transfer"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -3365,7 +3365,7 @@
       "sources",
       "analysis"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -3427,7 +3427,7 @@
       "online",
       "immediate"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -3489,7 +3489,7 @@
       "visual",
       "information design"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Pairs",
     "ai_resistance": "Medium",
@@ -3546,7 +3546,7 @@
       "academic",
       "visual communication"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -3610,7 +3610,7 @@
       "slides",
       "visual"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Low",
@@ -3677,7 +3677,7 @@
       "audiovisual",
       "digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Outdoors / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -3743,7 +3743,7 @@
       "video",
       "explanation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -3801,7 +3801,7 @@
       "audio",
       "oral digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -3864,7 +3864,7 @@
       "visual",
       "narration"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -3918,7 +3918,7 @@
       "3D",
       "physical"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom / Lab / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -3970,7 +3970,7 @@
       "3D",
       "simulation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -4029,7 +4029,7 @@
       "design",
       "innovation"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -4262,7 +4262,7 @@
       "co-writing",
       "shared"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Small group",
     "ai_resistance": "Medium",
@@ -4335,7 +4335,7 @@
       "evidence",
       "digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -4407,7 +4407,7 @@
       "prior knowledge",
       "diagnostic"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -4467,7 +4467,7 @@
       "initial",
       "diagnostic"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -4525,7 +4525,7 @@
       "ideas",
       "activation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Large group / Small group",
     "ai_resistance": "High",
@@ -4588,7 +4588,7 @@
       "writing process",
       "revision"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Home / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -4654,7 +4654,7 @@
       "milestone",
       "process"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -4722,7 +4722,7 @@
       "process",
       "documentation"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Small group / Individual",
     "ai_resistance": "Medium",
@@ -4785,7 +4785,7 @@
       "peer assessment",
       "feedback"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Pairs / Small group",
     "ai_resistance": "Medium",
@@ -4857,7 +4857,7 @@
       "peer feedback",
       "simple"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Pairs / Small group",
     "ai_resistance": "High",
@@ -4925,7 +4925,7 @@
       "self-assessment",
       "quick"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -4992,7 +4992,7 @@
       "lesson closing",
       "check"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -5060,7 +5060,7 @@
       "consultation",
       "application"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -5120,7 +5120,7 @@
       "integrated",
       "interdisciplinary"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -5193,7 +5193,7 @@
       "transfer",
       "competency"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -5273,7 +5273,7 @@
       "gamification",
       "challenge"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Outdoors",
     "grouping": "Small group / Large group",
     "ai_resistance": "High",
@@ -5334,7 +5334,7 @@
       "seminar",
       "dialogue"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Large group / Small group",
     "ai_resistance": "High",
@@ -5393,7 +5393,7 @@
       "checklist",
       "safety"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Lab",
     "grouping": "Individual / Pairs",
     "ai_resistance": "High",
@@ -5456,7 +5456,7 @@
       "monitoring",
       "evidence"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -5525,7 +5525,7 @@
       "evidence",
       "selection"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -5600,7 +5600,7 @@
       "observation",
       "nature"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Outdoors / Lab / Classroom",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",
@@ -5673,7 +5673,7 @@
       "educational",
       "digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home / Outdoors",
     "grouping": "Individual / Pairs",
     "ai_resistance": "High",
@@ -5746,7 +5746,7 @@
       "sources",
       "versions"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -5824,7 +5824,7 @@
       "immediate response",
       "participation"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom",
     "grouping": "Large group",
     "ai_resistance": "High",
@@ -5885,7 +5885,7 @@
       "digital storytelling",
       "pre-production"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",

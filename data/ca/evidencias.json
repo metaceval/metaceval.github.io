@@ -86,7 +86,7 @@
       "cooperatiu",
       "grup"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Grup petit",
     "ai_resistance": "Mitjana",
@@ -245,7 +245,7 @@
     "tags": [
       "participacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Gran grup",
     "ai_resistance": "Alta",
@@ -336,7 +336,7 @@
       "debat",
       "oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Alta",
@@ -417,7 +417,7 @@
       "col·loqui",
       "oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Gran grup",
     "ai_resistance": "Alta",
@@ -472,7 +472,7 @@
     "tags": [
       "assemblea"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Gran grup",
     "ai_resistance": "Alta",
@@ -649,7 +649,7 @@
     "tags": [
       "simulacio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -701,7 +701,7 @@
     "tags": [
       "rol"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Grup petit",
     "ai_resistance": "Alta",
@@ -884,7 +884,7 @@
       "exposicio",
       "oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -1028,7 +1028,7 @@
       "defensa",
       "projecte"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Alta",
@@ -1096,7 +1096,7 @@
     "tags": [
       "entrevista"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Alta",
@@ -1155,7 +1155,7 @@
     "tags": [
       "pregunta oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Alta",
@@ -1272,7 +1272,7 @@
       "diari",
       "metacognicio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -1342,7 +1342,7 @@
     "tags": [
       "portafoli"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -1483,7 +1483,7 @@
     "tags": [
       "recerca"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Baixa",
@@ -1544,7 +1544,7 @@
     "tags": [
       "monografia"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -1602,7 +1602,7 @@
     "tags": [
       "assaig"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -1664,7 +1664,7 @@
       "comentari",
       "text"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -1728,7 +1728,7 @@
       "dades",
       "grafica"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -1784,7 +1784,7 @@
     "tags": [
       "resum"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -1845,7 +1845,7 @@
     "tags": [
       "esquema"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -1912,7 +1912,7 @@
     "tags": [
       "mapa conceptual"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Parelles",
     "ai_resistance": "Mitjana",
@@ -1968,7 +1968,7 @@
     "tags": [
       "mapa mental"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -2026,7 +2026,7 @@
     "tags": [
       "línia del temps"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -2080,7 +2080,7 @@
     "tags": [
       "glossari"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -2136,7 +2136,7 @@
     "tags": [
       "lectura"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -2192,7 +2192,7 @@
     "tags": [
       "ressenya"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -2246,7 +2246,7 @@
     "tags": [
       "divulgació"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Domicili / Aula",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -2306,7 +2306,7 @@
       "memòria",
       "projecte"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Baixa",
@@ -2369,7 +2369,7 @@
     "tags": [
       "planificació"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -2432,7 +2432,7 @@
     "tags": [
       "acta"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Baixa",
@@ -2488,7 +2488,7 @@
     "tags": [
       "contracte aprenentatge"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -2545,7 +2545,7 @@
     "tags": [
       "reflexió"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -2618,7 +2618,7 @@
     "tags": [
       "autoinforme"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -2679,7 +2679,7 @@
     "tags": [
       "problemes"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -2779,7 +2779,7 @@
     "tags": [
       "cas"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -2905,7 +2905,7 @@
     "tags": [
       "prova objectiva"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -2975,7 +2975,7 @@
     "tags": [
       "test"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -3046,7 +3046,7 @@
     "tags": [
       "resposta curta"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -3106,7 +3106,7 @@
     "tags": [
       "prova oral"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Alta",
@@ -3216,7 +3216,7 @@
     "tags": [
       "competencial"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -3343,7 +3343,7 @@
       "digital",
       "qüestionari"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -3404,7 +3404,7 @@
     "tags": [
       "infografia"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Parelles",
     "ai_resistance": "Mitjana",
@@ -3459,7 +3459,7 @@
     "tags": [
       "pòster"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -3521,7 +3521,7 @@
     "tags": [
       "presentació digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Baixa",
@@ -3587,7 +3587,7 @@
     "tags": [
       "vídeo"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Exterior / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -3652,7 +3652,7 @@
     "tags": [
       "videotutorial"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -3709,7 +3709,7 @@
     "tags": [
       "podcast"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -3771,7 +3771,7 @@
     "tags": [
       "comic"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -3874,7 +3874,7 @@
     "tags": [
       "model digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -3988,7 +3988,7 @@
     "tags": [
       "web"
     ],
-    "modality": "Online",
+    "modality": "En línia",
     "location": "Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Baixa",
@@ -4046,7 +4046,7 @@
     "tags": [
       "blog"
     ],
-    "modality": "Online",
+    "modality": "En línia",
     "location": "Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Baixa",
@@ -4100,7 +4100,7 @@
     "tags": [
       "forum"
     ],
-    "modality": "Online",
+    "modality": "En línia",
     "location": "Virtual",
     "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Baixa",
@@ -4160,7 +4160,7 @@
     "tags": [
       "document col·laboratiu"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Grup petit",
     "ai_resistance": "Mitjana",
@@ -4230,7 +4230,7 @@
     "tags": [
       "portfoli digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -4300,7 +4300,7 @@
     "tags": [
       "KPSI"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Alta",
@@ -4357,7 +4357,7 @@
     "tags": [
       "inicial"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -4413,7 +4413,7 @@
     "tags": [
       "pluja idees"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Gran grup / Grup petit",
     "ai_resistance": "Alta",
@@ -4474,7 +4474,7 @@
     "tags": [
       "esborrany"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Domicili / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -4538,7 +4538,7 @@
     "tags": [
       "lliurament parcial"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -4605,7 +4605,7 @@
     "tags": [
       "diari projecte"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Grup petit / Individual",
     "ai_resistance": "Mitjana",
@@ -4666,7 +4666,7 @@
     "tags": [
       "iguals"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Parelles / Grup petit",
     "ai_resistance": "Mitjana",
@@ -4735,7 +4735,7 @@
     "tags": [
       "feedback"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Parelles / Grup petit",
     "ai_resistance": "Alta",
@@ -4801,7 +4801,7 @@
     "tags": [
       "semaforo"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Alta",
@@ -4866,7 +4866,7 @@
     "tags": [
       "bitllet sortida"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
     "ai_resistance": "Alta",
@@ -4994,7 +4994,7 @@
       "integrada",
       "transferencia"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Exterior",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -5066,7 +5066,7 @@
       "situacio problema",
       "transferencia"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",
@@ -5146,7 +5146,7 @@
       "escape room",
       "repte"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Exterior",
     "grouping": "Grup petit / Gran grup",
     "ai_resistance": "Alta",
@@ -5207,7 +5207,7 @@
       "seminari",
       "dialeg"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Gran grup / Grup petit",
     "ai_resistance": "Alta",
@@ -5329,7 +5329,7 @@
       "seguiment",
       "evidencies"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -5398,7 +5398,7 @@
       "evidencies",
       "seleccio"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Mitjana",
@@ -5546,7 +5546,7 @@
       "divulgacio",
       "digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili / Exterior",
     "grouping": "Individual / Parelles",
     "ai_resistance": "Alta",
@@ -5619,7 +5619,7 @@
       "fonts",
       "versions"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
     "ai_resistance": "Alta",
@@ -5758,7 +5758,7 @@
       "planificació visual",
       "relat digital"
     ],
-    "modality": "Presencial / Online",
+    "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual / Grup petit",
     "ai_resistance": "Mitjana",

@@ -18,7 +18,7 @@
       "performance",
       "process"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual / Large group",
     "ai_resistance": "High",
@@ -193,7 +193,7 @@
       "observation",
       "incidental"
     ],
-    "modality": "Presencial",
+    "modality": "In person",
     "location": "Classroom / Lab / Outdoors",
     "grouping": "Individual / Large group",
     "ai_resistance": "High",
@@ -245,7 +245,7 @@
       "production",
       "product"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
     "ai_resistance": "Medium",
@@ -494,7 +494,7 @@
       "test",
       "check"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "Medium",
@@ -586,7 +586,7 @@
       "orality",
       "communication"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "High",
@@ -770,7 +770,7 @@
       "check",
       "exit"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Large group",
     "ai_resistance": "High",
@@ -967,7 +967,7 @@
       "drafts",
       "monitoring"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -1155,7 +1155,7 @@
       "oral",
       "inquiry"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
     "ai_resistance": "High",
@@ -1212,7 +1212,7 @@
       "questionnaire",
       "form"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -1275,7 +1275,7 @@
       "evidence",
       "records"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
     "ai_resistance": "Low",
@@ -1455,7 +1455,7 @@
       "evidence",
       "validity"
     ],
-    "modality": "Presencial / Online",
+    "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual / Small group",
     "ai_resistance": "High",

@@ -102,7 +102,7 @@ function renderEvalNavFilter() {
     };
   });
   const clearBtn = row.querySelector('.eval-filter-clear-inline');
-  if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; if (S.evalMapMode) renderEvalList(); else renderEvalCards(); updateURL(); };
+  if (clearBtn) clearBtn.onclick = () => { clearEvalGlobalFilters(); S.evalPage = 0; renderEvalNavFilter(); if (S.evalMapMode) renderEvalList(); else renderEvalCards(); updateURL(); };
   recalcSplitViewTop();
 }
 
@@ -146,16 +146,29 @@ const EVAL_GROUPING_TOKEN_MAP = {
   'Gran grupo':    { es: 'Gran grupo',    ca: 'Gran grup',  en: 'Large group' },
 };
 const EVAL_AI_RESISTANCE_TOKEN_MAP = {
-  'Alta': { es: 'Alta',  ca: 'Alta',    en: 'High'   },
+  'Alta':  { es: 'Alta',  ca: 'Alta',    en: 'High'   },
   'Media': { es: 'Media', ca: 'Mitjana', en: 'Medium' },
   'Baja':  { es: 'Baja',  ca: 'Baixa',  en: 'Low'    },
 };
+const EVAL_MODALITY_TOKEN_MAP = {
+  'Presencial': { es: 'Presencial', ca: 'Presencial', en: 'In person' },
+  'Online':     { es: 'Online',     ca: 'En línia',   en: 'Online'    },
+};
+
+function aiResistanceCssClass(val) {
+  if (!val) return 'meta-badge-ai-low';
+  const v = val.toLowerCase();
+  if (v === 'alta' || v === 'high')            return 'meta-badge-ai-high';
+  if (v === 'media' || v === 'mitjana' || v === 'medium') return 'meta-badge-ai-med';
+  return 'meta-badge-ai-low';
+}
 
 function remapEvalFilters(oldLang, newLang) {
   if (oldLang === newLang) return;
   const maps = [
-    { key: 'evalLocation',    tokenMap: EVAL_LOCATION_TOKEN_MAP },
-    { key: 'evalGrouping',    tokenMap: EVAL_GROUPING_TOKEN_MAP },
+    { key: 'evalModality',     tokenMap: EVAL_MODALITY_TOKEN_MAP },
+    { key: 'evalLocation',     tokenMap: EVAL_LOCATION_TOKEN_MAP },
+    { key: 'evalGrouping',     tokenMap: EVAL_GROUPING_TOKEN_MAP },
     { key: 'evalAiResistance', tokenMap: EVAL_AI_RESISTANCE_TOKEN_MAP },
   ];
   for (const { key, tokenMap } of maps) {
@@ -228,10 +241,12 @@ function getEvalFilterOptions(field) {
 
 function clearEvalGlobalFilters() {
   EVAL_GLOBAL_FILTERS.forEach(filter => { S[filter.key] = ''; });
+  S.evalCat = null;
 }
 
 function evalActiveFilterCount() {
-  return EVAL_GLOBAL_FILTERS.reduce((count, filter) => count + (S[filter.key] ? 1 : 0), 0);
+  return EVAL_GLOBAL_FILTERS.reduce((count, filter) => count + (S[filter.key] ? 1 : 0), 0)
+    + (S.evalCat ? 1 : 0);
 }
 
 function buildEvalFilterBar(compact = false) {
@@ -263,6 +278,7 @@ function buildEvalFilterBar(compact = false) {
   wrap.querySelector('.eval-filter-clear').onclick = () => {
     clearEvalGlobalFilters();
     S.evalPage = 0;
+    renderEvalNavFilter();
     if (S.evalMapMode) renderEvalList();
     else renderEvalCards();
     updateURL();
@@ -464,6 +480,10 @@ function renderEvalCards() {
       e.phase         ? `<span class="meta-badge meta-badge-phase">${esc(e.phase)}</span>` : '',
       e.participation ? `<span class="meta-badge meta-badge-partic">${esc(e.participation)}</span>` : '',
       e.complexity    ? `<span class="meta-badge meta-badge-complex">${esc(e.complexity)}</span>` : '',
+      e.modality      ? `<span class="meta-badge meta-badge-modality">${esc(e.modality)}</span>` : '',
+      e.location      ? `<span class="meta-badge meta-badge-location">${esc(e.location)}</span>` : '',
+      e.grouping      ? `<span class="meta-badge meta-badge-grouping">${esc(e.grouping)}</span>` : '',
+      e.ai_resistance ? `<span class="meta-badge ${aiResistanceCssClass(e.ai_resistance)}">${esc(i('evalFilterAiResistance'))}: ${esc(e.ai_resistance)}</span>` : '',
     ].join('');
     const card = document.createElement('div');
     card.className = 'card eval-card' + (fav ? ' is-fav' : '') + (selected ? ' is-selected' : '');
@@ -661,6 +681,10 @@ function renderEvalNodePanel(entity, cat) {
   if (entity.phase)         metaBadges.push(`<span class="meta-badge meta-badge-phase">${esc(entity.phase)}</span>`);
   if (entity.participation) metaBadges.push(`<span class="meta-badge meta-badge-partic">${esc(entity.participation)}</span>`);
   if (entity.complexity)    metaBadges.push(`<span class="meta-badge meta-badge-complex">${esc(entity.complexity)}</span>`);
+  if (entity.modality)      metaBadges.push(`<span class="meta-badge meta-badge-modality">${esc(entity.modality)}</span>`);
+  if (entity.location)      metaBadges.push(`<span class="meta-badge meta-badge-location">${esc(entity.location)}</span>`);
+  if (entity.grouping)      metaBadges.push(`<span class="meta-badge meta-badge-grouping">${esc(entity.grouping)}</span>`);
+  if (entity.ai_resistance) metaBadges.push(`<span class="meta-badge ${aiResistanceCssClass(entity.ai_resistance)}">${esc(i('evalFilterAiResistance'))}: ${esc(entity.ai_resistance)}</span>`);
 
   const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
 
@@ -712,6 +736,10 @@ function renderEvalMapNodePanel(entity, cat) {
   if (entity.phase)         metaBadges.push(`<span class="meta-badge meta-badge-phase">${esc(entity.phase)}</span>`);
   if (entity.participation) metaBadges.push(`<span class="meta-badge meta-badge-partic">${esc(entity.participation)}</span>`);
   if (entity.complexity)    metaBadges.push(`<span class="meta-badge meta-badge-complex">${esc(entity.complexity)}</span>`);
+  if (entity.modality)      metaBadges.push(`<span class="meta-badge meta-badge-modality">${esc(entity.modality)}</span>`);
+  if (entity.location)      metaBadges.push(`<span class="meta-badge meta-badge-location">${esc(entity.location)}</span>`);
+  if (entity.grouping)      metaBadges.push(`<span class="meta-badge meta-badge-grouping">${esc(entity.grouping)}</span>`);
+  if (entity.ai_resistance) metaBadges.push(`<span class="meta-badge ${aiResistanceCssClass(entity.ai_resistance)}">${esc(i('evalFilterAiResistance'))}: ${esc(entity.ai_resistance)}</span>`);
 
   const metacItems = (entity.metac_ids || []).map(id => itemById(id)).filter(Boolean);
 
@@ -985,11 +1013,15 @@ function openEvalModal(evalId) {
     : '';
   blockEl.style.display = '';
 
-  // Phase / participation / complexity as meta badges
+  // Phase / participation / complexity / modality / location / grouping / ai_resistance as meta badges
   const metaParts = [];
   if (entity.phase)         metaParts.push(`<span class="meta-badge meta-badge-phase">${esc(i('evalPhase'))} ${esc(entity.phase)}</span>`);
   if (entity.participation) metaParts.push(`<span class="meta-badge meta-badge-partic">${esc(i('evalPartic'))} ${esc(entity.participation)}</span>`);
   if (entity.complexity)    metaParts.push(`<span class="meta-badge meta-badge-complex">${esc(i('evalComplex'))} ${esc(entity.complexity)}</span>`);
+  if (entity.modality)      metaParts.push(`<span class="meta-badge meta-badge-modality">${esc(i('evalFilterModality'))}: ${esc(entity.modality)}</span>`);
+  if (entity.location)      metaParts.push(`<span class="meta-badge meta-badge-location">${esc(i('evalFilterLocation'))}: ${esc(entity.location)}</span>`);
+  if (entity.grouping)      metaParts.push(`<span class="meta-badge meta-badge-grouping">${esc(i('evalFilterGrouping'))}: ${esc(entity.grouping)}</span>`);
+  if (entity.ai_resistance) metaParts.push(`<span class="meta-badge ${aiResistanceCssClass(entity.ai_resistance)}">${esc(i('evalFilterAiResistance'))}: ${esc(entity.ai_resistance)}</span>`);
   const fieldsEl = document.getElementById('modalFields');
   fieldsEl.innerHTML = metaParts.join('');
 

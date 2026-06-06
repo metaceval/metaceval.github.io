@@ -305,7 +305,7 @@ const S = {
   evalModal:        null,         // currently open eval entity ID
   evalSelected:     null,         // selected entity in split view
   evalMapMode:      false,        // true = split+graph, false = cards grid
-  evalSortMode:     'random',
+  evalSortMode:     'alpha',
   evalPerPage:      25,
   evalPage:         0,
   evalModality:     '',
@@ -907,7 +907,7 @@ function loadSortMode() {
     const saved = localStorage.getItem(LS_SORT);
     if (isSupportedSortMode(saved)) return saved;
   } catch {}
-  return 'random';
+  return 'alpha';
 }
 function saveSortMode() {
   try { localStorage.setItem(LS_SORT, S.sortMode); }

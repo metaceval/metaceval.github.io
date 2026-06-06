@@ -1207,6 +1207,27 @@ function openEvalModal(evalId) {
     bipartiteBtn.onclick = () => openBipartiteMap(entity.id, 'eval');
   }
 
+  // Template button
+  const templateBtn = document.getElementById('modalTemplateBtn');
+  if (templateBtn) {
+    document.getElementById('modalTemplateBtnLabel').textContent = i('template');
+    templateBtn.style.display = 'none';
+    templateBtn.onclick = () => {
+      const w = 900, h = 700;
+      const left = Math.round((screen.width  - w) / 2);
+      const top  = Math.round((screen.height - h) / 2);
+      window.open(
+        `templates/viewer.html?id=${encodeURIComponent(entity.id)}&lang=${encodeURIComponent(S.lang)}&name=${encodeURIComponent(entity.name)}`,
+        'metac_template_viewer',
+        `width=${w},height=${h},left=${left},top=${top},resizable=yes,scrollbars=yes`
+      );
+    };
+    checkTemplate(entity.id, S.lang).then(exists => {
+      if (S.evalModal !== entity.id) return;
+      templateBtn.style.display = exists ? '' : 'none';
+    });
+  }
+
   openSharedModal();
   updateURL();
 }

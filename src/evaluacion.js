@@ -157,7 +157,7 @@ const EVAL_MODALITY_TOKEN_MAP = {
 
 function aiResistanceCssClass(val) {
   if (!val) return 'meta-badge-ai-low';
-  const v = val.toLowerCase();
+  const v = evalFilterTokens(val)[0]?.toLowerCase() || '';
   if (v === 'alta' || v === 'high')            return 'meta-badge-ai-high';
   if (v === 'media' || v === 'mitjana' || v === 'medium') return 'meta-badge-ai-med';
   return 'meta-badge-ai-low';

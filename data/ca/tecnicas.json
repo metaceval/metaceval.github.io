@@ -497,7 +497,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_instruments": [
       "EVI_PR_DES",
       "EVI_TEST",

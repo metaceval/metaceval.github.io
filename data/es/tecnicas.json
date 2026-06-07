@@ -497,7 +497,7 @@
     "modality": "Presencial / Online",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Media",
+    "ai_resistance": "Alta / Baja",
     "related_instruments": [
       "EVI_PR_DES",
       "EVI_TEST",

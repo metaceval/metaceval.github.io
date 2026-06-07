@@ -497,7 +497,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_instruments": [
       "EVI_PR_DES",
       "EVI_TEST",

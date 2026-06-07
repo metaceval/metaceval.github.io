@@ -249,53 +249,6 @@ function evalActiveFilterCount() {
     + (S.evalCat ? 1 : 0);
 }
 
-function buildEvalFilterBar(compact = false) {
-  const wrap = document.createElement('div');
-  wrap.className = 'eval-filter-bar' + (compact ? ' compact' : '');
-  const activeCount = evalActiveFilterCount();
-
-  wrap.innerHTML = `
-    <div class="eval-filter-head">
-      <span class="eval-filter-title">${esc(i('evalFilters'))}</span>
-      <span class="eval-filter-summary">${activeCount ? esc(i('evalFiltersSummary')(activeCount)) : ''}</span>
-      <button class="btn eval-filter-clear" type="button" ${activeCount ? '' : 'disabled'}>${esc(i('evalFiltersClear'))}</button>
-    </div>
-    <div class="eval-filter-controls">
-      ${EVAL_GLOBAL_FILTERS.map(filter => `
-        <label class="eval-filter-control${S[filter.key] ? ' filter-active' : ''}">
-          <span>${esc(i(filter.label))}</span>
-          <select data-eval-filter="${filter.key}">
-            <option value="">${esc(i(filter.allKey))}</option>
-            ${getEvalFilterOptions(filter.field).map(value => `
-              <option value="${esc(value)}" ${S[filter.key] === value ? 'selected' : ''}>${esc(evalFilterValueLabel(value))}</option>
-            `).join('')}
-          </select>
-        </label>
-      `).join('')}
-    </div>
-  `;
-
-  wrap.querySelector('.eval-filter-clear').onclick = () => {
-    clearEvalGlobalFilters();
-    S.evalPage = 0;
-    renderEvalNavFilter();
-    if (S.evalMapMode) renderEvalList();
-    else renderEvalCards();
-    updateURL();
-  };
-
-  wrap.querySelectorAll('[data-eval-filter]').forEach(select => {
-    select.onchange = e => {
-      S[e.target.dataset.evalFilter] = e.target.value;
-      S.evalPage = 0;
-      if (S.evalMapMode) renderEvalList();
-      else renderEvalCards();
-      updateURL();
-    };
-  });
-
-  return wrap;
-}
 
 function getEvalCategoryDescription(cat, isEvalShared = false) {
   if (isEvalShared || !cat) return '';

@@ -69,7 +69,7 @@ function renderEvalNavFilter() {
 
   row.innerHTML =
     // Category select (first)
-    `<div class="eval-filter-nav-item">
+    `<div class="eval-filter-nav-item${S.evalCat ? ' filter-active' : ''}">
       <span class="eval-filter-nav-label">${esc(i('evalCatLabel'))}</span>
       <select id="evalNavCatSelect">
         <option value="" ${S.evalCat === null ? 'selected' : ''}>${esc(i('evalCatAll'))}</option>
@@ -79,7 +79,7 @@ function renderEvalNavFilter() {
     <span class="eval-filter-nav-sep"></span>` +
     // Global attribute filters
     EVAL_GLOBAL_FILTERS.map(filter => `
-      <div class="eval-filter-nav-item">
+      <div class="eval-filter-nav-item${S[filter.key] ? ' filter-active' : ''}">
         <span class="eval-filter-nav-label">${esc(i(filter.label))}</span>
         <select data-eval-filter="${filter.key}">
           <option value="">${esc(i(filter.allKey))}</option>
@@ -262,7 +262,7 @@ function buildEvalFilterBar(compact = false) {
     </div>
     <div class="eval-filter-controls">
       ${EVAL_GLOBAL_FILTERS.map(filter => `
-        <label class="eval-filter-control">
+        <label class="eval-filter-control${S[filter.key] ? ' filter-active' : ''}">
           <span>${esc(i(filter.label))}</span>
           <select data-eval-filter="${filter.key}">
             <option value="">${esc(i(filter.allKey))}</option>

@@ -478,6 +478,10 @@
       border-color: #4338ca;
       color: var(--text);
     }
+    .eval-filter-control.filter-active span { color: #c2410c; font-weight: 700; }
+    .eval-filter-control.filter-active select { border-color: #ea580c; background: #fff7ed; color: #c2410c; font-weight: 600; }
+    [data-theme="dark"] .eval-filter-control.filter-active span { color: #fb923c; }
+    [data-theme="dark"] .eval-filter-control.filter-active select { background: #431407; border-color: #ea580c; color: #fb923c; }
     .pagination-bar {
       display: flex;
       align-items: center;
@@ -2113,6 +2117,19 @@
     [data-theme="dark"] .eval-nav-filter-row select { background: #1e1b4b; border-color: #4338ca; color: var(--text); }
     .eval-filter-clear-inline { padding: 3px 10px !important; font-size: .75rem !important; margin-left: auto; }
     [data-theme="dark"] .eval-nav-sep { background: #4338ca; }
+    /* ── Active filter highlight ── */
+    .eval-filter-nav-item.filter-active .eval-filter-nav-label {
+      color: #c2410c;
+      font-weight: 700;
+    }
+    .eval-filter-nav-item.filter-active select {
+      border-color: #ea580c;
+      background: #fff7ed;
+      color: #c2410c;
+      font-weight: 600;
+    }
+    [data-theme="dark"] .eval-filter-nav-item.filter-active .eval-filter-nav-label { color: #fb923c; font-weight: 700; }
+    [data-theme="dark"] .eval-filter-nav-item.filter-active select { background: #431407; border-color: #ea580c; color: #fb923c; }
     /* Unified map toggles */
     .umap-toggle {
       padding: 4px 12px;

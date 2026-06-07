@@ -2029,7 +2029,8 @@
       cursor: pointer;
     }
     [data-theme="dark"] .eval-nav-filter-row select { background: #1e1b4b; border-color: #4338ca; color: var(--text); }
-    .eval-filter-clear-inline { padding: 3px 10px !important; font-size: .75rem !important; margin-left: auto; }
+    .eval-filter-clear-inline { padding: 3px 10px !important; font-size: .75rem !important; margin-left: auto; border-color: #ea580c !important; color: #c2410c !important; font-weight: 700 !important; }
+    [data-theme="dark"] .eval-filter-clear-inline { border-color: #ea580c !important; color: #fb923c !important; }
     [data-theme="dark"] .eval-nav-sep { background: #4338ca; }
     /* ── Active filter highlight ── */
     .eval-filter-nav-item.filter-active .eval-filter-nav-label {

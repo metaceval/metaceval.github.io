@@ -1679,7 +1679,7 @@
     "name": "Text commentary",
     "type": "Written production",
     "summary": "Written analysis and interpretation of a text following a structured methodology.",
-    "desc": "A text commentary is a structured written activity in which the student analyses, contextualises and interprets a text — literary, historical, philosophical or scientific — following a methodological approach specific to the subject.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating comprehension, analysis and quality of argumentation. A correction template ensures marking consistency.\n\nIt is important to teach the specific methodology for each type of text and to provide model commentaries.",
+    "desc": "A text commentary is a structured written activity in which the student analyses, contextualises and interprets a text — literary, historical, philosophical or scientific — following a methodological approach specific to the subject.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating comprehension, analysis and quality of argumentation. A correction template ensures marking consistency.\n\nIt is important to teach the specific methodology for each type of text and to provide model commentaries.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Reading comprehension",
       "analysis",
@@ -1744,7 +1744,7 @@
     "name": "Graph or data commentary",
     "type": "Written production",
     "summary": "Interpretation and analysis in writing of graphs, maps, tables or statistical data.",
-    "desc": "A graph or data commentary requires students to interpret, describe and analyse information presented in visual or numerical format: graphs, tables, maps, statistics, etc. It is common in social sciences, geography, biology and mathematics.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating accuracy of description, quality of interpretation and writing conventions.\n\nIt is important to teach students to distinguish between describing what they see and interpreting what it means.",
+    "desc": "A graph or data commentary requires students to interpret, describe and analyse information presented in visual or numerical format: graphs, tables, maps, statistics, etc. It is common in social sciences, geography, biology and mathematics.\n\nHow to use it for assessment: a correction guide or analytic rubric allows evaluating accuracy of description, quality of interpretation and writing conventions.\n\nIt is important to teach students to distinguish between describing what they see and interpreting what it means.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Data literacy",
       "interpretation",
@@ -2729,7 +2729,7 @@
     "name": "Problem solving",
     "type": "Test/performance",
     "summary": "Resolving a real or simulated problem that requires applying knowledge and skills in context.",
-    "desc": "Problem solving involves the student resolving a real or simulated problem that requires applying knowledge, using procedures and reasoning in a relevant context. The problem can be mathematical, scientific, social, linguistic, etc.\n\nHow to use it for assessment: an analytic rubric or correction guide allows evaluating the problem-solving process (approach, procedure, result) as well as the final answer.\n\nIt is one of the most valid instruments for assessing learning transfer and competency-based thinking.",
+    "desc": "Problem solving involves the student resolving a real or simulated problem that requires applying knowledge, using procedures and reasoning in a relevant context. The problem can be mathematical, scientific, social, linguistic, etc.\n\nHow to use it for assessment: an analytic rubric or correction guide allows evaluating the problem-solving process (approach, procedure, result) as well as the final answer.\n\nIt is one of the most valid instruments for assessing learning transfer and competency-based thinking.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Application",
       "reasoning",
@@ -2831,7 +2831,7 @@
     "name": "Case study",
     "type": "Test/performance",
     "summary": "Analysis of a real or simulated situation requiring argumentation, decision-making or proposals.",
-    "desc": "A case study involves analysing a real or simulated situation — clinical, business, historical, social, legal — and providing a justified response: diagnosis, decision, proposal or action plan. It requires applying knowledge to complex contexts.\n\nHow to use it for assessment: an analytic rubric allows evaluating the quality of analysis, argumentation, identification of key elements and proposed solution.\n\nIt is one of the most complete instruments for assessing competency-based thinking and professional reasoning.",
+    "desc": "A case study involves analysing a real or simulated situation — clinical, business, historical, social, legal — and providing a justified response: diagnosis, decision, proposal or action plan. It requires applying knowledge to complex contexts.\n\nHow to use it for assessment: an analytic rubric allows evaluating the quality of analysis, argumentation, identification of key elements and proposed solution.\n\nIt is one of the most complete instruments for assessing competency-based thinking and professional reasoning.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Critical analysis",
       "decision-making",
@@ -2962,7 +2962,7 @@
     "name": "Objective test",
     "type": "Test",
     "summary": "Test with closed questions (true/false, matching, fill-in-the-blank) that admit a single correct answer.",
-    "desc": "An objective test consists of closed questions that admit a single correct answer and can be marked without interpretation: true/false, matching, fill-in-the-blank, multiple choice. It allows rapid and consistent assessment of a broad content area.\n\nHow to use it for assessment: a scoring scale or correction template allows applying consistent marking. Results can be analysed to identify difficult items or common errors.\n\nIt is effective for assessing recall and recognition, though it is less suitable for evaluating understanding or application in depth.",
+    "desc": "An objective test consists of closed questions that admit a single correct answer and can be marked without interpretation: true/false, matching, fill-in-the-blank, multiple choice. It allows rapid and consistent assessment of a broad content area.\n\nHow to use it for assessment: a scoring scale or correction template allows applying consistent marking. Results can be analysed to identify difficult items or common errors.\n\nIt is effective for assessing recall and recognition, though it is less suitable for evaluating understanding or application in depth.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Recall",
       "recognition",
@@ -3034,7 +3034,7 @@
     "name": "Multiple-choice test",
     "type": "Test",
     "summary": "Test with multiple-choice questions, each with several options and a single correct answer.",
-    "desc": "A multiple-choice test consists of questions each accompanied by several answer options, only one of which is correct. It allows assessing a broad content area quickly and with high consistency of marking.\n\nHow to use it for assessment: a correction template allows rapid automated marking. A scoring scale can penalise random guessing. It is often used for diagnostic or summative purposes.\n\nIt is efficient and reliable for assessing recall, but has limited validity for assessing deep understanding, reasoning or competencies.",
+    "desc": "A multiple-choice test consists of questions each accompanied by several answer options, only one of which is correct. It allows assessing a broad content area quickly and with high consistency of marking.\n\nHow to use it for assessment: a correction template allows rapid automated marking. A scoring scale can penalise random guessing. It is often used for diagnostic or summative purposes.\n\nIt is efficient and reliable for assessing recall, but has limited validity for assessing deep understanding, reasoning or competencies.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Recall",
       "recognition",
@@ -3107,7 +3107,7 @@
     "name": "Short-answer test",
     "type": "Test",
     "summary": "Test with questions requiring brief written answers — a word, a sentence or a short paragraph.",
-    "desc": "A short-answer test consists of questions requiring a brief written response: a word, a definition, a formula, a short sentence or a brief explanation. It is less closed than multiple-choice but more structured than a development test.\n\nHow to use it for assessment: a correction guide or correction template allows marking consistently. It can also serve as a quick diagnostic check or formative exit activity.\n\nIt is more flexible than multiple-choice for detecting understanding, though it is more demanding to mark consistently.",
+    "desc": "A short-answer test consists of questions requiring a brief written response: a word, a definition, a formula, a short sentence or a brief explanation. It is less closed than multiple-choice but more structured than a development test.\n\nHow to use it for assessment: a correction guide or correction template allows marking consistently. It can also serve as a quick diagnostic check or formative exit activity.\n\nIt is more flexible than multiple-choice for detecting understanding, though it is more demanding to mark consistently.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Recall",
       "comprehension",
@@ -3283,7 +3283,7 @@
     "name": "Contextualised competency test",
     "type": "Competency test",
     "summary": "Assessment activity set in a real context that requires applying several competencies simultaneously.",
-    "desc": "A contextualised competency test is an assessment activity designed around a realistic situation that requires students to apply knowledge, skills and attitudes from different areas simultaneously. It does not assess isolated content but integrated competency.\n\nHow to use it for assessment: a competency rubric or analytic rubric allows evaluating different dimensions of performance. A weighting matrix combines scores from different criteria.\n\nIt is the most rigorous instrument for competency-based assessment but requires careful design and clear criteria.",
+    "desc": "A contextualised competency test is an assessment activity designed around a realistic situation that requires students to apply knowledge, skills and attitudes from different areas simultaneously. It does not assess isolated content but integrated competency.\n\nHow to use it for assessment: a competency rubric or analytic rubric allows evaluating different dimensions of performance. A weighting matrix combines scores from different criteria.\n\nIt is the most rigorous instrument for competency-based assessment but requires careful design and clear criteria.\n\nAI resistance: depends on the format. In person under controlled conditions (exam), resistance is high. Online and unsupervised, resistance is low.",
     "suitable_for": [
       "Transfer",
       "integrated competency",

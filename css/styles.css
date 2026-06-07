@@ -2109,6 +2109,15 @@
     [data-theme="dark"] .eval-chip[data-prefix="INS"] { background: #14532d; color: #86efac; border-color: #22c55e; }
     [data-theme="dark"] .eval-chip[data-prefix="HER"] { background: #3b0764; color: #d8b4fe; border-color: #a855f7; }
     [data-theme="dark"] .eval-chip[data-prefix="DIM"] { background: #451a03; color: #fde68a; border-color: #f59e0b; }
+    /* ── Category chip: solid fill to signal primary hierarchy ── */
+    .eval-chip-cat[data-prefix="TEC"] { background: #1d4ed8; color: #fff; border-color: #1d4ed8; }
+    .eval-chip-cat[data-prefix="INS"] { background: #15803d; color: #fff; border-color: #15803d; }
+    .eval-chip-cat[data-prefix="HER"] { background: #7e22ce; color: #fff; border-color: #7e22ce; }
+    .eval-chip-cat[data-prefix="DIM"] { background: #b45309; color: #fff; border-color: #b45309; }
+    [data-theme="dark"] .eval-chip-cat[data-prefix="TEC"] { background: #2563eb; color: #fff; border-color: #2563eb; }
+    [data-theme="dark"] .eval-chip-cat[data-prefix="INS"] { background: #16a34a; color: #fff; border-color: #16a34a; }
+    [data-theme="dark"] .eval-chip-cat[data-prefix="HER"] { background: #9333ea; color: #fff; border-color: #9333ea; }
+    [data-theme="dark"] .eval-chip-cat[data-prefix="DIM"] { background: #d97706; color: #fff; border-color: #d97706; }
 
     /* ── "Cómo evaluar" section inside technique modal ──────── */
     .modal-eval {

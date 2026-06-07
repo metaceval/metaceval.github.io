@@ -450,7 +450,7 @@ function renderEvalCards() {
         </div>
       </div>
       <div class="card-fields">
-        ${(isEvalShared || !S.evalCat) ? `<span class="eval-chip" data-prefix="${eCat.prefix}" style="font-size:.72rem;padding:3px 8px;cursor:default">${esc(i(eCat.i18n))}</span>` : ''}
+        ${(isEvalShared || !S.evalCat) ? `<span class="eval-chip eval-chip-cat" data-prefix="${eCat.prefix}" style="font-size:.72rem;padding:3px 8px;cursor:default">${esc(i(eCat.i18n))}</span>` : ''}
         ${metaBadges}
       </div>
       ${e.summary ? `<div class="card-summary">${esc(e.summary)}</div>` : ''}
@@ -630,7 +630,7 @@ function renderEvalNodePanel(entity, cat) {
   document.getElementById('evalNodePanelName').textContent = entity.name;
 
   const metaBadges = [];
-  if (cat) metaBadges.push(`<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
+  if (cat) metaBadges.push(`<span class="eval-chip eval-chip-cat" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
   if (entity.phase)         metaBadges.push(`<span class="meta-badge meta-badge-phase">${esc(entity.phase)}</span>`);
   if (entity.participation) metaBadges.push(`<span class="meta-badge meta-badge-partic">${esc(entity.participation)}</span>`);
   if (entity.complexity)    metaBadges.push(`<span class="meta-badge meta-badge-complex">${esc(entity.complexity)}</span>`);
@@ -685,7 +685,7 @@ function renderEvalMapNodePanel(entity, cat) {
   document.getElementById('evalMapNodePanelName').textContent = entity.name;
 
   const metaBadges = [];
-  if (cat) metaBadges.push(`<span class="eval-chip" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
+  if (cat) metaBadges.push(`<span class="eval-chip eval-chip-cat" data-prefix="${prefix}" style="cursor:default;font-size:.72rem;padding:2px 7px">${esc(i(cat.i18n))}</span>`);
   if (entity.phase)         metaBadges.push(`<span class="meta-badge meta-badge-phase">${esc(entity.phase)}</span>`);
   if (entity.participation) metaBadges.push(`<span class="meta-badge meta-badge-partic">${esc(entity.participation)}</span>`);
   if (entity.complexity)    metaBadges.push(`<span class="meta-badge meta-badge-complex">${esc(entity.complexity)}</span>`);
@@ -962,7 +962,7 @@ function openEvalModal(evalId) {
   // Type badge
   const blockEl = document.getElementById('modalBlock');
   blockEl.innerHTML = cat
-    ? `<span class="eval-chip" data-prefix="${prefix}" style="font-size:.8rem;cursor:default">${esc(i(cat.i18n))}</span>`
+    ? `<span class="eval-chip eval-chip-cat" data-prefix="${prefix}" style="font-size:.8rem;cursor:default">${esc(i(cat.i18n))}</span>`
     : '';
   blockEl.style.display = '';
 

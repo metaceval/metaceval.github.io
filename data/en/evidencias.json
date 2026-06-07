@@ -1696,7 +1696,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PRUEBA"
@@ -1761,7 +1761,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Home",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2746,7 +2746,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -2848,7 +2848,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Online / Home",
     "grouping": "Individual / Small group",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -2979,7 +2979,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -3051,7 +3051,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3124,7 +3124,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3300,7 +3300,7 @@
     "modality": "In person / Online",
     "location": "Classroom / Online",
     "grouping": "Individual",
-    "ai_resistance": "Medium",
+    "ai_resistance": "High / Low",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_TRIANG"

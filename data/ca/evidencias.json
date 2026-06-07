@@ -1667,7 +1667,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PROD",
       "TEC_PRUEBA"
@@ -1731,7 +1731,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PROD"
     ],
@@ -2682,7 +2682,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -2782,7 +2782,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Virtual / Domicili",
     "grouping": "Individual / Grup petit",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_PROD"
@@ -2908,7 +2908,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PRUEBA"
     ],
@@ -2978,7 +2978,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3049,7 +3049,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_SONDEO"
@@ -3219,7 +3219,7 @@
     "modality": "Presencial / En línia",
     "location": "Aula / Virtual",
     "grouping": "Individual",
-    "ai_resistance": "Mitjana",
+    "ai_resistance": "Alta / Baixa",
     "related_tecnicas": [
       "TEC_PRUEBA",
       "TEC_TRIANG"

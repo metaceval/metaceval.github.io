@@ -503,6 +503,9 @@ function openModal(itemId) {
   if (existingExtra) existingExtra.remove();
   const existingInner2 = document.getElementById('modalEvalInner');
   if (existingInner2) existingInner2.remove();
+  // Clear eval example leftover from a previously open eval modal
+  const evalExampleEl = document.getElementById('modalEvalExample');
+  if (evalExampleEl) { evalExampleEl.style.display = 'none'; evalExampleEl.innerHTML = ''; }
   const evalEl = document.getElementById('modalEval');
   if (evalEl) evalEl.before(document.getElementById('modalRelated'));
 

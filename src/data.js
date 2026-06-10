@@ -463,10 +463,30 @@ function refsToItemIds(refs, lang = S.lang) {
   }).filter(id => id && map.has(id));
 }
 
+function isEvalIdFormat(id) {
+  return EVAL_CATS.some(cat => String(id).startsWith(cat.prefix + '_'));
+}
+
+// Like refsToItemIds, but keeps eval entity IDs (TEC_/EVI_/INS_/DIM_): favorites
+// and categories may reference them, and eval data is not loaded yet when this
+// runs at startup, so they can't be validated here — only format-checked.
+function refsToStoredIds(refs, lang = S.lang) {
+  const data = S.data[lang] || [];
+  const map = S.byId[lang] || new Map();
+  return uniqueIds(refs).map(ref => {
+    if (map.has(ref) || isEvalIdFormat(ref)) return ref;
+    if (/^\d+$/.test(ref)) {
+      const legacyItem = data[Number(ref)];
+      return legacyItem ? legacyItem.id : '';
+    }
+    return '';
+  }).filter(Boolean);
+}
+
 function normalizeStoredRefs(lang = S.lang) {
   if (!S.data[lang]) return;
 
-  const favs = refsToItemIds([...S.favorites], lang);
+  const favs = refsToStoredIds([...S.favorites], lang);
   const favsChanged = favs.length !== S.favorites.size || favs.some(id => !S.favorites.has(id));
   S.favorites = new Set(favs);
   if (favsChanged) saveFavs();
@@ -474,7 +494,7 @@ function normalizeStoredRefs(lang = S.lang) {
   let catsChanged = false;
   S.categories = S.categories.map(cat => {
     const rawIds = Array.isArray(cat.itemIds) ? cat.itemIds : [];
-    const itemIds = refsToItemIds(rawIds, lang);
+    const itemIds = refsToStoredIds(rawIds, lang);
     if (itemIds.length !== rawIds.length || itemIds.some((id, idx) => id !== rawIds[idx])) catsChanged = true;
     return { id: cat.id, name: cat.name, itemIds };
   });

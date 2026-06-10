@@ -503,7 +503,7 @@ function renderEvalList() {
   panel.innerHTML = header;
   panel.insertAdjacentHTML('beforeend', filtered.map(e => {
     const pfx = evalEntityPrefix(e.id).toLowerCase();
-    const catCls = pfx ? ` cat-${pfx === 'tec' ? 'tec' : pfx === 'ins' ? 'ins' : pfx === 'her' ? 'her' : pfx === 'dim' ? 'dim' : ''}` : '';
+    const catCls = ['tec', 'evi', 'ins', 'dim'].includes(pfx) ? ` cat-${pfx}` : '';
     const selCls = S.evalSelected === e.id ? ' selected' : '';
     return `
     <div class="eval-list-item${selCls}${catCls}" data-eval-id="${esc(e.id)}" role="button" tabindex="0">
@@ -589,7 +589,7 @@ function showEvalDetail(evalId) {
   S.evalSelected = evalId;
   updateURL();
   const selPrefix = evalEntityPrefix(evalId).toLowerCase();
-  const selCatCls = selPrefix === 'tec' ? 'cat-tec' : selPrefix === 'ins' ? 'cat-ins' : selPrefix === 'her' ? 'cat-her' : selPrefix === 'dim' ? 'cat-dim' : '';
+  const selCatCls = ['tec', 'evi', 'ins', 'dim'].includes(selPrefix) ? `cat-${selPrefix}` : '';
   let selectedEl = null;
   document.querySelectorAll('#evalListPanel .eval-list-item').forEach(el => {
     const isSelected = el.dataset.evalId === evalId;

@@ -91,7 +91,7 @@ function assignToCategory(itemId, catId = null) {
   });
   if (catId) {
     const target = S.categories.find(cat => cat.id === catId);
-    if (target && itemById(itemId) && !target.itemIds.includes(itemId)) target.itemIds.push(itemId);
+    if (target && (itemById(itemId) || evalEntityById(itemId)) && !target.itemIds.includes(itemId)) target.itemIds.push(itemId);
   }
   saveCats();
 }

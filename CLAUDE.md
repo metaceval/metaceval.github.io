@@ -32,8 +32,9 @@ The app is **modular vanilla JS**, not a single file. `index.html` is a declarat
 | `src/evaluacion.js` | Evaluación view: cards/list/tabs for the four eval categories, `openEvalModal`. |
 | `src/eval-map.js` | Evaluation relationship map + type toggles. |
 | `src/bipartite-map.js` | Bipartite map técnicas ↔ evaluación. |
-| `src/metac-map.js` / `src/unified-map.js` | Technique relationship maps. |
+| `src/metac-map.js` | Technique relationship map. |
 | `src/favoritos.js` | Favorites panel. |
+| `src/docx.js` | DOCX export (`generateDocx`). |
 | `src/init.js` | Reads URL params, loads data, wires all event listeners (entry point). |
 | `src/analytics.js` | Lightweight visit analytics. |
 
@@ -43,7 +44,7 @@ All dynamic content (cards, tabs, modal bodies, panels, maps) is injected by JS 
 
 ## State
 
-- **`S`** (in `src/data.js`) — single source of truth for the técnicas catalog: `lang`, `data` (per-language parsed arrays), `byId` (per-language ID maps), `favorites` (Set of technique IDs), `categories`, `search`, active tab, `modal` (open technique ID), `modalHistory`, `shared` (URL-decoded IDs), map color/legend prefs, etc.
+- **`S`** (in `src/data.js`) — single source of truth for the técnicas catalog: `lang`, `data` (per-language parsed arrays), `byId` (per-language ID maps), `favorites` (Set of technique and eval entity IDs), `categories`, `search`, active tab, `modal` (open technique ID), `modalHistory`, `shared` (URL-decoded IDs), map color/legend prefs, etc.
 - **`EV`** (in `src/data.js`) — evaluation catalog: `EV.data[lang]` (object keyed by the four category ids) and `EV.byId[lang]` (a single `Map` combining all four files, keyed by entity ID). Populated lazily by `loadEvalLang(lang)`.
 
 ## Data sources
@@ -73,11 +74,11 @@ Each technique JSON item may carry an `eval_ids` array of evaluation entity IDs.
 | Prefix | Category id | JSON file | i18n label |
 |--------|-------------|-----------|------------|
 | `TEC_` | `tecnicas` | `tecnicas.json` | `evalCatTec` |
-| `INS_` | `evidencias` | `evidencias.json` | `evalCatIns` |
-| `HER_` | `instrumentos` | `instrumentos.json` | `evalCatHer` |
+| `EVI_` | `evidencias` | `evidencias.json` | `evalCatEvi` |
+| `INS_` | `instrumentos` | `instrumentos.json` | `evalCatIns` |
 | `DIM_` | `dimensiones` | `dimensiones.json` | `evalCatDim` |
 
-Note the deliberate cross-naming: `evidencias.json` holds `INS_*` entities and `instrumentos.json` holds `HER_*` entities.
+Category colors (chips, list items, map nodes) must stay aligned across CSS and the map palettes (`EGPAL`, `BPAL`): TEC blue, EVI green, INS purple, DIM amber.
 
 `renderEvalSection(item)` (in `src/ui-tecnicas.js`) renders the "Cómo evaluar" block in the technique modal: it groups `eval_ids` by prefix, resolves each via `evalEntityById`, and renders a chip per resource. Clicking a chip pushes onto `S.modalHistory` and opens the eval modal.
 

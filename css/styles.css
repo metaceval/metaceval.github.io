@@ -1728,18 +1728,18 @@
     .eval-list-item.selected .eval-list-name { font-weight: 700; }
     .eval-list-item.selected.cat-tec { background: #dbeafe; border-left-color: #93c5fd; }
     .eval-list-item.selected.cat-tec .eval-list-name { color: #1d4ed8; }
-    .eval-list-item.selected.cat-ins { background: #dcfce7; border-left-color: #4ade80; }
-    .eval-list-item.selected.cat-ins .eval-list-name { color: #15803d; }
-    .eval-list-item.selected.cat-her { background: #f3e8ff; border-left-color: #c084fc; }
-    .eval-list-item.selected.cat-her .eval-list-name { color: #7e22ce; }
+    .eval-list-item.selected.cat-evi { background: #dcfce7; border-left-color: #4ade80; }
+    .eval-list-item.selected.cat-evi .eval-list-name { color: #15803d; }
+    .eval-list-item.selected.cat-ins { background: #f3e8ff; border-left-color: #c084fc; }
+    .eval-list-item.selected.cat-ins .eval-list-name { color: #7e22ce; }
     .eval-list-item.selected.cat-dim { background: #fef3c7; border-left-color: #fbbf24; }
     .eval-list-item.selected.cat-dim .eval-list-name { color: #b45309; }
     [data-theme="dark"] .eval-list-item.selected.cat-tec { background: #1e3a5f; }
     [data-theme="dark"] .eval-list-item.selected.cat-tec .eval-list-name { color: #93c5fd; }
-    [data-theme="dark"] .eval-list-item.selected.cat-ins { background: #14532d; }
-    [data-theme="dark"] .eval-list-item.selected.cat-ins .eval-list-name { color: #86efac; }
-    [data-theme="dark"] .eval-list-item.selected.cat-her { background: #3b0764; }
-    [data-theme="dark"] .eval-list-item.selected.cat-her .eval-list-name { color: #d8b4fe; }
+    [data-theme="dark"] .eval-list-item.selected.cat-evi { background: #14532d; }
+    [data-theme="dark"] .eval-list-item.selected.cat-evi .eval-list-name { color: #86efac; }
+    [data-theme="dark"] .eval-list-item.selected.cat-ins { background: #3b0764; }
+    [data-theme="dark"] .eval-list-item.selected.cat-ins .eval-list-name { color: #d8b4fe; }
     [data-theme="dark"] .eval-list-item.selected.cat-dim { background: #451a03; }
     [data-theme="dark"] .eval-list-item.selected.cat-dim .eval-list-name { color: #fde68a; }
     .eval-list-name { font-size: .84rem; font-weight: 600; color: var(--text); line-height: 1.3; }
@@ -2102,12 +2102,12 @@
     }
     .eval-chip:hover { opacity: .75; }
     .eval-chip[data-prefix="TEC"] { background: #dbeafe; color: #1d4ed8; border-color: #93c5fd; }
-    .eval-chip[data-prefix="INS"] { background: #dcfce7; color: #15803d; border-color: #4ade80; }
-    .eval-chip[data-prefix="HER"] { background: #f3e8ff; color: #7e22ce; border-color: #c084fc; }
+    .eval-chip[data-prefix="EVI"] { background: #dcfce7; color: #15803d; border-color: #4ade80; }
+    .eval-chip[data-prefix="INS"] { background: #f3e8ff; color: #7e22ce; border-color: #c084fc; }
     .eval-chip[data-prefix="DIM"] { background: #fef3c7; color: #b45309; border-color: #fbbf24; }
     [data-theme="dark"] .eval-chip[data-prefix="TEC"] { background: #1e3a5f; color: #93c5fd; border-color: #3b82f6; }
-    [data-theme="dark"] .eval-chip[data-prefix="INS"] { background: #14532d; color: #86efac; border-color: #22c55e; }
-    [data-theme="dark"] .eval-chip[data-prefix="HER"] { background: #3b0764; color: #d8b4fe; border-color: #a855f7; }
+    [data-theme="dark"] .eval-chip[data-prefix="EVI"] { background: #14532d; color: #86efac; border-color: #22c55e; }
+    [data-theme="dark"] .eval-chip[data-prefix="INS"] { background: #3b0764; color: #d8b4fe; border-color: #a855f7; }
     [data-theme="dark"] .eval-chip[data-prefix="DIM"] { background: #451a03; color: #fde68a; border-color: #f59e0b; }
     /* ── Category chip: neutral solid to signal primary hierarchy ── */
     .eval-chip-cat { background: #fff !important; color: #111 !important; border-color: #111 !important; font-weight: 700 !important; }
@@ -2151,12 +2151,12 @@
     }
     .eval-group .eval-chip:hover { text-decoration-color: currentColor; opacity: 1; }
     .eval-group .eval-chip[data-prefix="TEC"] { color: #1d4ed8; }
-    .eval-group .eval-chip[data-prefix="INS"] { color: #15803d; }
-    .eval-group .eval-chip[data-prefix="HER"] { color: #7e22ce; }
+    .eval-group .eval-chip[data-prefix="EVI"] { color: #15803d; }
+    .eval-group .eval-chip[data-prefix="INS"] { color: #7e22ce; }
     .eval-group .eval-chip[data-prefix="DIM"] { color: #b45309; }
     [data-theme="dark"] .eval-group .eval-chip[data-prefix="TEC"] { color: #93c5fd; }
-    [data-theme="dark"] .eval-group .eval-chip[data-prefix="INS"] { color: #86efac; }
-    [data-theme="dark"] .eval-group .eval-chip[data-prefix="HER"] { color: #d8b4fe; }
+    [data-theme="dark"] .eval-group .eval-chip[data-prefix="EVI"] { color: #86efac; }
+    [data-theme="dark"] .eval-group .eval-chip[data-prefix="INS"] { color: #d8b4fe; }
     [data-theme="dark"] .eval-group .eval-chip[data-prefix="DIM"] { color: #fde68a; }
 
     /* ── Eval entity cards ───────────────────────────────────── */
@@ -2415,71 +2415,6 @@
       border: 1px solid var(--border);
     }
 
-    /* Eval subcategories */
-    .home-eval-cats {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 8px;
-    }
-    .home-eval-cat {
-      display: flex;
-      align-items: stretch;
-      border-radius: 8px;
-      border: 1px solid transparent;
-      overflow: hidden;
-      transition: box-shadow .12s;
-    }
-    .home-eval-cat:hover { box-shadow: 0 3px 10px rgba(0,0,0,.1); }
-    .home-eval-cat-main {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      padding: 8px 10px;
-      flex: 1;
-      font-size: .82rem;
-      font-weight: 600;
-      background: #fff;
-      border-radius: 7px 0 0 7px;
-    }
-    [data-theme="dark"] .home-eval-cat-main { background: #1e293b; }
-    .home-eval-cat-sep {
-      width: 1px;
-      background: rgba(0,0,0,.12);
-      flex-shrink: 0;
-    }
-    .home-eval-cat-cards,
-    .home-eval-cat-map {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0 8px;
-      background: transparent;
-      border: none;
-      cursor: pointer;
-      color: inherit;
-      transition: filter .12s;
-      flex-shrink: 0;
-    }
-    .home-eval-cat-cards { border-right: 1px solid rgba(0,0,0,.12); }
-    .home-eval-cat-cards:hover,
-    .home-eval-cat-map:hover { filter: brightness(.75); }
-    .home-eval-cat-tec { background: #dbeafe; border-color: #93c5fd; }
-    .home-eval-cat-ins { background: #dcfce7; border-color: #4ade80; }
-    .home-eval-cat-her { background: #f3e8ff; border-color: #c084fc; }
-    .home-eval-cat-dim { background: #fef3c7; border-color: #fbbf24; }
-    .home-eval-cat-label {
-      font-size: .78rem;
-      font-weight: 600;
-      color: var(--text);
-      flex: 1;
-      text-align: left;
-    }
-    .home-eval-cat-count {
-      font-size: .75rem;
-      font-weight: 800;
-      color: var(--text-muted);
-    }
-
     /* View entry links (técnicas card) */
     .home-view-links {
       display: flex;
@@ -2521,10 +2456,6 @@
     /* Dark mode adjustments */
     [data-theme="dark"] .home-section-icon.tec { background: linear-gradient(135deg,#451a03,#78350f); color: #fcd34d; }
     [data-theme="dark"] .home-section-icon.eval { background: linear-gradient(135deg,#022c22,#064e3b); color: #34d399; }
-    [data-theme="dark"] .home-eval-cat-tec { background: #1e3a5f; border-color: #3b82f6; }
-    [data-theme="dark"] .home-eval-cat-ins { background: #14532d; border-color: #22c55e; }
-    [data-theme="dark"] .home-eval-cat-her { background: #3b0764; border-color: #a855f7; }
-    [data-theme="dark"] .home-eval-cat-dim { background: #451a03; border-color: #f59e0b; }
     [data-theme="dark"] .home-block-chip { background: var(--surface); }
     [data-theme="dark"] .home-connector::before { opacity: .3; }
     [data-theme="dark"] .hc-node {
@@ -2548,5 +2479,4 @@
       }
       .home-hero { padding: 16px 16px 28px; }
       .home-hero-logo { width: 28px; height: 28px; }
-      .home-eval-cats { grid-template-columns: 1fr; }
     }

@@ -49,7 +49,7 @@ async function init() {
     document.getElementById('main').innerHTML = `<div class="state-box"><h3>${i('error')}</h3></div>`;
     return;
   }
-  // Detect if shared IDs belong to eval entities (prefixes: TEC, INS, HER, DIM)
+  // Detect if shared IDs belong to eval entities (prefixes: TEC, EVI, INS, DIM)
   const evalPrefixSet = new Set(EVAL_CATS.map(c => c.prefix));
   const sharedHasEval = S.shared && S.shared.some(id => evalPrefixSet.has((id.split('_')[0] || '').toUpperCase()));
 

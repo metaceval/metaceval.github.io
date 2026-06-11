@@ -651,6 +651,8 @@ function applyI18N() {
   document.getElementById('searchInput').placeholder   = i('search');
   document.getElementById('assistantLinkLabel').textContent = i('assistant');
   document.getElementById('assistantLink').title       = i('assistantTip');
+  document.getElementById('homeAssistantLinkLabel').textContent = i('assistant');
+  document.getElementById('homeAssistantLink').title   = i('assistantTip');
   const bipartiteBtn = document.getElementById('modalBipartiteBtn');
   if (bipartiteBtn) bipartiteBtn.title = i('bipartiteTip');
   setText('modalBipartiteBtnLabel', i('viewEvaluacion'));

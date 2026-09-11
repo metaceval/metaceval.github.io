@@ -149,12 +149,17 @@ async function init() {
     showHome();
   });
 
-  // Home: técnicas entry links
-  document.getElementById('homeEnterTecCards').onclick = () => enterView('tecnicas', false);
-  document.getElementById('homeEnterTecMap').onclick   = () => enterView('tecnicas', true);
-  // Home: eval entry buttons (all items, no category filter)
-  document.getElementById('homeEnterEvalCards').onclick = () => { S.evalCat = null; enterView('evaluacion', false); };
-  document.getElementById('homeEnterEvalMap').onclick   = () => { S.evalCat = null; enterView('evaluacion', true); };
+  // Home: cada tarjeta entra directamente a las fichas de su sección
+  const homeCardEnter = (id, fn) => {
+    const card = document.getElementById(id);
+    if (!card) return;
+    card.onclick = fn;
+    card.onkeydown = e => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); fn(); }
+    };
+  };
+  homeCardEnter('homeCardTec',  () => enterView('tecnicas', false));
+  homeCardEnter('homeCardEval', () => { S.evalCat = null; enterView('evaluacion', false); });
 
   // View toggle (section)
   document.querySelectorAll('.view-btn[data-view]').forEach(btn => {

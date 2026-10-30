@@ -38,7 +38,6 @@ src/
   eval-map.js
   unified-map.js
   init.js
-  analytics.js
 data/
   es/
   ca/
@@ -57,7 +56,6 @@ data/
 - `src/eval-map.js`: mapa de evaluación, relaciones ocasionales y visibilidad por categorías.
 - `src/unified-map.js`: mapa unificado entre técnicas y evaluación.
 - `src/init.js`: arranque, lectura de URL y cableado de eventos.
-- `src/analytics.js`: telemetría no bloqueante.
 
 ## Orden de carga en `index.html`
 
@@ -73,7 +71,6 @@ Los scripts se cargan sin bundler y comparten globals. El orden importa:
 8. `eval-map.js`
 9. `unified-map.js`
 10. `init.js`
-11. `analytics.js`
 
 ## Criterio para seguir refactorizando
 

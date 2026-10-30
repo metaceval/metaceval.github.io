@@ -36,7 +36,6 @@ The app is **modular vanilla JS**, not a single file. `index.html` is a declarat
 | `src/favoritos.js` | Favorites panel. |
 | `src/docx.js` | DOCX export (`generateDocx`). |
 | `src/init.js` | Reads URL params, loads data, wires all event listeners (entry point). |
-| `src/analytics.js` | Lightweight visit analytics. |
 
 Stylesheets live in `css/`. CSS custom properties drive theming (light/dark/auto, persisted under `metac_theme`); layout uses CSS Grid for card grids and Flexbox elsewhere.
 
